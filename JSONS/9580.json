@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Taslimuddin Sheikh",
+      "designation": "",
+      "email": null
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9580",
+  "name": "BUNIYAD EDUCATIONAL SOCIETY",
+  "primaryEmail": "taslimsheikh007@gmail.com",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "919329868777"
+  ],
+  "mainAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "78, Haroon Colony, Khajrana Indore",
+      "Indore",
+      "Madhya Pradesh",
+      "452001"
+    ]
+  },
+  "briefDescription": "Buniyad Educational Society is located in Indore, Madhya Pradesh.",
+  "yearOfEstablishment": "2011"
+}

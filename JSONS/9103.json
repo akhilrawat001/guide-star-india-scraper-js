@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Manoj Kumar Sahu",
+      "designation": "",
+      "email": null
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9103",
+  "name": "Chhattisgarh Om Sai Nath Education and Social Welfare Society",
+  "primaryEmail": "csrprojectinfo@gmail.com",
+  "website": "http://www.omsainatheducation.com",
+  "organisationType": [
+    "Direct Service",
+    "Grant-making",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919755466572"
+  ],
+  "mainAddrress": {
+    "state": "Chhattisgarh",
+    "address": [
+      "Shivaji Nagar, Titurdih, Durg",
+      "Durg",
+      "Chhattisgarh",
+      "491001"
+    ]
+  }
+}

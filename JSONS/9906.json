@@ -1,0 +1,39 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9906",
+  "name": "AVA FOUNDATION",
+  "primaryEmail": "arupkumar.baishya@gmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919207055625",
+    "919864013265"
+  ],
+  "mainAddrress": {
+    "state": "Assam",
+    "address": [
+      "Majpara",
+      "Above Ananda Ingti L.P. School",
+      "Matia Hills, Kahikuchi, Azara",
+      "Kamrup Metropolitan",
+      "Assam",
+      "781017"
+    ]
+  },
+  "briefDescription": "AVA Foundation is non profit organization acting as a channel for capacity building, design and development, skills training and infrastructure support on various government schemes on behalf of the Women weavers and artisans in Assam",
+  "yearOfEstablishment": "2017",
+  "regiseredAddrress": {
+    "state": "Assam",
+    "address": [
+      "Majpara",
+      "Above Ananda Ingti L.P. School",
+      "Matia Pahar, Kahikuchi, Azara",
+      "Kamrup Metropolitan",
+      "Assam",
+      "781017"
+    ]
+  }
+}

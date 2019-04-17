@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Adv.Devendra Agase",
+      "designation": "",
+      "email": null
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9373",
+  "name": "CHANDRA DEV CHARITABLE SOCIETY",
+  "primaryEmail": "cdcs.solapur@rediffmail.com",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "919422460330"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "276 A Chandra Dev Banglow ,Saleshswar Society",
+      "Near Rto ,Bijapur Road",
+      "Solapur",
+      "Maharashtra",
+      "413004"
+    ]
+  },
+  "yearOfEstablishment": "2011"
+}

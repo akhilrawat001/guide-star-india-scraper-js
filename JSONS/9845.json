@@ -1,0 +1,38 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9845",
+  "name": "Aatmaja Foundation",
+  "primaryEmail": "priya@aatmaja.org",
+  "website": "www.aatmaja.org",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "917028009200",
+    "919890994966"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "78/3",
+      "Near Vinode Nagar, Marunji Road",
+      "Wakad",
+      "Pune",
+      "Maharashtra",
+      "411057"
+    ]
+  },
+  "briefDescription": "We support bright adolescent girls to pursue professional education by providing financial help , guidance and counselling.  We are currently supporting 100 girls and plan to support 500 girls in near future",
+  "yearOfEstablishment": "2015",
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "78/3",
+      "Near Vinode Nagar, Marunji Road",
+      "Wakad",
+      "Pune",
+      "Maharashtra",
+      "0"
+    ]
+  }
+}

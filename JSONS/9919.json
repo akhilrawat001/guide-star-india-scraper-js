@@ -1,0 +1,36 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9919",
+  "name": "ITEAM FOUNDATION",
+  "primaryEmail": "pmehrishi@iteach.co.in",
+  "website": "http://www.iteach.co.in",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919990042300"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Flat No D-2 Cts No 530 Near Bhaji Market",
+      "4Th Floor, Indu Building, Mundwa,",
+      "Pune",
+      "Maharashtra",
+      "411036"
+    ]
+  },
+  "briefDescription": "We have created iTeach Fellowship which is India's first, in-service one year, Teaching Fellowship for newly trained teachers providing them with soft on-boarding, one-year coaching, rewards and recognition which also assists affordable (low-income budget) private schools with their high needs of Teacher Recruitment, Coaching and Retention.",
+  "yearOfEstablishment": "2017",
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Flat No D-2 Cts No 530 Near Bhaji Market",
+      "4th Floor, Indu Building, Mundwa,",
+      "Pune",
+      "Maharashtra",
+      "411036"
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9394",
+  "name": "SUMADHUR HANSADHWANI TRUST",
+  "primaryEmail": "dr_jayantg@hotmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "911140680225",
+    "911140680225"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "F-5, Basement And Ground Floor",
+      "Dilshad Colony",
+      "Delhi",
+      "North East Delhi",
+      "110095"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "F-5 , Basement and Ground Floor, Dilshad Colony",
+      "Delhi",
+      "North East Delhi",
+      "110095"
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9955",
+  "name": "AL-RABIYA FOUNDATION AND CHARITABLE TRUST",
+  "primaryEmail": "Alrabiyafoundation@gmail.com",
+  "website": "www.alrabiyafoundation.weebly.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919891837307"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "Ward No. 04",
+      "Pandaul Buzurg",
+      "Sitamarhi",
+      "Bihar",
+      "843326"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Bihar",
+    "address": [
+      "AT + P.O Pandaul Buzurg, P.S- Nanpur",
+      "P.S- Nanpur",
+      "Sitamarhi",
+      "Bihar",
+      "843326"
+    ]
+  }
+}

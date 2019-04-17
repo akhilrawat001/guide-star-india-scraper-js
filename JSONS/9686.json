@@ -1,0 +1,33 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9686",
+  "name": "Quarry Workers and Rural Integrated Development Society",
+  "primaryEmail": "qwarids@gmail.com",
+  "website": "www.qwarids.org",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "918025460206"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "# 63, Little Rose Villa , KSFC Layout, St.Thomas Town Post, Bangalore-5600084",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560084"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "# 63, Little Rose Villa , KSFC Layout, St.Thomas Town Post,",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560084"
+    ]
+  }
+}

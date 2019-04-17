@@ -1,0 +1,45 @@
+{
+  "contacts": [
+    {
+      "name": "Naresh Sijapati",
+      "designation": "CEO",
+      "email": "naresh.sijapati1994@gmail.com",
+      "mobile": [
+        "91-8488856251"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9293",
+  "name": "PANAH FOUNDATION",
+  "primaryEmail": "naresh.sijapati1994@gmail.com",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "918488856251"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "5",
+      "Naroda Road, Saijpur Bogha",
+      "Ahmadabad",
+      "Ahmedabad",
+      "Gujarat",
+      "382345"
+    ]
+  },
+  "briefDescription": "Panah is registered as a not for profit organization in 2015. works with migrant labourers and daily wage earners to provide skill development opportunities and support them in access to information and Education for Kids.It also supports the labourers to seek jobs, organize themselves as collectives, avail savings and credit facilities, linking them to Government /Semi-government welfare schemes and social security’s thus enabling them to become smart labourers.",
+  "yearOfEstablishment": "2015",
+  "regiseredAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "5 Kailash Nagar",
+      "B/H Rajiv Gandhi Bhavan , Saijpur Bogha",
+      "Naroda Road",
+      "Ahmedabad",
+      "Gujarat",
+      "382345"
+    ]
+  }
+}

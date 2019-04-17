@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Mr. Ganesh Kumar",
+      "designation": "",
+      "email": null
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7259",
+  "name": "Aadarsh Gramin Swarajya Sansthan",
+  "primaryEmail": "ms.agss@rediffmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919430778008",
+    "919431147597"
+  ],
+  "mainAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "Kashyap Muhlla",
+      "Near Raja Garh",
+      "Chainpur",
+      "Palamu",
+      "Jharkhand",
+      "822110"
+    ]
+  }
+}

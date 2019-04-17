@@ -1,0 +1,43 @@
+{
+  "contacts": [
+    {
+      "name": "Arpita Sengupta",
+      "designation": "Programme Officer",
+      "email": "nidspo2007@gmail.com",
+      "mobile": [
+        "91-8013979669"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9185",
+  "name": "Narayanpur Integrated Development Society",
+  "primaryEmail": "nids.bengal@gmail.com",
+  "website": "https://www.nidsofbengal.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Support"
+  ],
+  "telephone": [
+    "918013979669"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "116A, Dr. B.R.Ambedkar Road, Ward No.10, New Barrackpore",
+      "New Barrackpore",
+      "North 24 Parganas",
+      "West Bengal",
+      "700131"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Narayanpur, P.O. Laxmipul",
+      "Bira",
+      "North 24 Parganas",
+      "West Bengal",
+      "743234"
+    ]
+  }
+}

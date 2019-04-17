@@ -1,0 +1,37 @@
+{
+  "contacts": [
+    {
+      "name": "Rajkala. P",
+      "designation": "President"
+    },
+    {
+      "name": "Vandana Shah",
+      "designation": "Coordinator",
+      "email": "coordinator@sharana.org"
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9820",
+  "name": "SHARANA SOCIAL AND DEVELOPMENT ORGANISATION",
+  "primaryEmail": "coordinator@sharana.org",
+  "website": "http://www.sharana.org/",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919843337640",
+    "919626643141"
+  ],
+  "mainAddrress": {
+    "state": "Puducherry",
+    "address": [
+      "59, Muthumariamman Koil Street,",
+      "Pondicherry",
+      "Puducherry",
+      "605001",
+      "BSNL tele bill1.PDF"
+    ]
+  },
+  "briefDescription": "Sharana is social and development organization established in 2000, and working with communities in and around Pondicherry town. Our projects focus on supporting individuals from poor and deprived communities, promoting development and facilitating self-empowerment. Particularly, we target children from the streets and slums as well as other school drop-outs, and support their re-integration into local school systems.Sharana currently supports over 1000 children providing them with crisis intervention, psycho-social intervention, family counselling, crèches/day care centres, medical program through a dispensary service, nutrition programs like spirulina distribution, evening homework-helping classes, art therapy, awareness through sports programs, giving provisions for material help (school fees, uniforms etc), summer camps and referrals.",
+  "yearOfEstablishment": "2000"
+}

@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Mallika Menon",
+      "designation": "Trustee"
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10014",
+  "name": "Charlie's Animal Rescue Centre",
+  "primaryEmail": "charliescareblr@gmail.com",
+  "website": "http://www.charlies-care.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service"
+  ],
+  "telephone": [
+    "919845538270",
+    "919483911110"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "Prananvum,1/1 Sultanpalya,First Cross, Behind Pushpanjali Theatre",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560032"
+    ]
+  },
+  "briefDescription": "Charlies Animal Rescue Centre-CARE works with injured, abandoned and abused animals in Bangalore city and surrounding areas. We run a free ambulance service for trauma cases, adoption of abandoned animals,inpatient facility, All kinds of animal surgeries, volunteering with shelter animals, canine therapy",
+  "yearOfEstablishment": "2013"
+}

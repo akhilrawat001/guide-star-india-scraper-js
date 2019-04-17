@@ -1,0 +1,51 @@
+{
+  "contacts": [
+    {
+      "name": "Saumil Bhadiadras",
+      "designation": "Trustee",
+      "email": "bhadiadras@gmail.com",
+      "mobile": [
+        "91-9725400448"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10195",
+  "name": "Adhar Foundation",
+  "primaryEmail": "adhar.foundation39@gmail.com",
+  "website": "http://www.aadharcharitable.org/index.html",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919725400448"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "D - 21, Shanti Complex,",
+      "Opp, Vejalpur AMTS Bus Stop,",
+      "Vejalpur",
+      "Ahmedabad",
+      "Gujarat",
+      "380051"
+    ]
+  },
+  "briefDescription": "Aadhar is an indigenous non-profit organization, registered as a trust under Bombay Public Trust act in August 2012 with the Charity Commissioner, Ahmedabad. In Gujarati the word “Aadhar” means, “Base” or “Foundation”. Adhar recognized that the residing community people are illiterate, unemployed and unable to fight for their right. Looking on this situation Adhar has adopted holistic community development approach and started to closely work with poor marginalized people of the community, youth, children and women and enable them to access government schemes, health services and provide them livelihood linkages through skilled training. Aadhar wants to create an inclusive society. till date we reached to over 15000 community people.",
+  "yearOfEstablishment": "2012",
+  "regiseredAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "D 21, Shanti Complex, Opp, AMTS Bus Stop,  Vejalpur,",
+      "Opp, AMTS Bus Stop",
+      "Vejalpur",
+      "Ahmedabad",
+      "Gujarat",
+      "380051"
+    ]
+  }
+}

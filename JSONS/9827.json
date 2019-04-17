@@ -1,0 +1,34 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9827",
+  "name": "SURAKSHIT CARE",
+  "primaryEmail": "SURAKSHITCARE1@GMAIL.COM",
+  "website": "WWW.SURAKSHITCARE1.ORG",
+  "organisationType": [
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "019911231874"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "WPB",
+      "Delhi",
+      "North Delhi",
+      "110028"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "WPB",
+      "New Delhi",
+      "North Delhi",
+      "Delhi",
+      "110028"
+    ]
+  }
+}

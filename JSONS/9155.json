@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Sesshadri Srinivasan",
+      "designation": "",
+      "email": null
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9155",
+  "name": "SREE POORNA MAHAMERU TRUST",
+  "primaryEmail": "poornamahameru@gmail.com",
+  "website": "http://www.sripoornamahameru.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "914422472483",
+    "919444868282"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "1, Sankara Salai,",
+      "Subham Nagar, Old Pallavaram",
+      "Chennai",
+      "Tamil Nadu",
+      "600117"
+    ]
+  },
+  "briefDescription": "1) Provide all the support to senior citizens staying in this old age till their last irrespective of their religion,caste, gender or race2) Free food for people during mornings and evenings3) Provide basic medical facilities to the needy.",
+  "yearOfEstablishment": "1993"
+}

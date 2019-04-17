@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Milind Sukhadev Sawnt",
+      "designation": "",
+      "email": null
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7852",
+  "name": "DHARATIDHAN GRAM VIKAS SANSTHA",
+  "primaryEmail": "dhartidhanngo@gmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "912485282427",
+    "912485282427"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "453 Priyadarshani Colony",
+      "Sambhaji Nagar Jalna",
+      "Jalna",
+      "Maharashtra",
+      "431203"
+    ]
+  }
+}

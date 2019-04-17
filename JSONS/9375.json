@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Anil Kumar",
+      "designation": "",
+      "email": null
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9375",
+  "name": "Bhola Institutional Trust",
+  "primaryEmail": "bitniesbud@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "916512250898",
+    "916512250898"
+  ],
+  "mainAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "108, Himadri Apartment, Doranda,",
+      "Ranchi",
+      "Jharkhand",
+      "834002"
+    ]
+  },
+  "yearOfEstablishment": "2011"
+}

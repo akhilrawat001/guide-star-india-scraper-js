@@ -1,0 +1,24 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7450",
+  "name": "MANAV SAMAJIK KALYAN EVAM AARTHIK VIKASH SANSTHA",
+  "primaryEmail": "infomskavs@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "917499657822"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "House No- 85",
+      "Saddupur Mohana Chunar Mirzapur",
+      "Chunar",
+      "Mirzapur",
+      "Uttar Pradesh",
+      "231304"
+    ]
+  }
+}

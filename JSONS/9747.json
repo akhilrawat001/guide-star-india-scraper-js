@@ -1,0 +1,31 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9747",
+  "name": "Gopinagar Rural Welfare Society",
+  "primaryEmail": "grwsociety@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919073932358",
+    "913324795759"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "29/1/1, Chetla Central Road, 2nd Floor",
+      "Kolkata",
+      "West Bengal",
+      "700027"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Vill + P.O Gopinagar",
+      "Nadia",
+      "West Bengal",
+      "741223"
+    ]
+  }
+}

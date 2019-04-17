@@ -1,0 +1,31 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9886",
+  "name": "RENITABEN CHARITABLE TRUST",
+  "primaryEmail": "Renitabencharitabletrust@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918320997283"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "Jay Dibuang Samkil",
+      "Plasqada",
+      "Vadodara",
+      "Gujarat",
+      "390006"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "At Vadod Taluka Wadhwan Surendranagar",
+      "Surendranagar",
+      "Gujarat",
+      "363421"
+    ]
+  }
+}

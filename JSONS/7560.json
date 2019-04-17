@@ -1,0 +1,38 @@
+{
+  "contacts": [
+    {
+      "name": "TAPAS KUMAR NASKAR",
+      "designation": "secretary",
+      "email": "tapas.1523@rediffmail.com",
+      "mobile": [
+        "91-9153449992"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7560",
+  "name": "DAKSHIN ARUN NAGAR CHATANA SANGHA",
+  "primaryEmail": "chetana.sangha@rediffmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Intermediary",
+    "Support"
+  ],
+  "telephone": [
+    "919153449992"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Vill-Arunnagar,P.O- Chatra Maldari,",
+      "P.S- Joynagar,",
+      "Kolkata",
+      "South 24 Parganas",
+      "West Bengal",
+      "743337"
+    ]
+  },
+  "briefDescription": "Dakshin Arun Nagar Chatana Sangha is Located in NEAR TO Kolkata, West Bengal.",
+  "yearOfEstablishment": "2008"
+}

@@ -1,0 +1,34 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9717",
+  "name": "CHF INDIA FOUNDATION",
+  "primaryEmail": "chfindiafoundation@chfindiafoundation.org",
+  "website": "http://www.chfindiafoundation.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "912065800102"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "CHF India Foundation, Parkland Society",
+      "Plot No. 6 Near Bajaj Finserv Viman Nagar",
+      "Pune",
+      "Maharashtra",
+      "411014"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "23, Bansidhar Society",
+      "Anandnagar, Bhatta,",
+      "Paldi,",
+      "Ahmedabad",
+      "Gujarat",
+      "380007"
+    ]
+  }
+}

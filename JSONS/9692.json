@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "name": "Smarinita Shetty",
+      "designation": "Co-founder and CEO"
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9692",
+  "name": "FORUM FOR KNOWLEDGE AND SOCIAL IMPACT",
+  "primaryEmail": "smarinita@idronline.org",
+  "organisationType": [
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "912226512005"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "3rd floor, B wing,",
+      "Barodawala Mansion, 81, Doctor Annie Besant Road,",
+      "Mumbai City",
+      "Mumbai",
+      "Maharashtra",
+      "400018"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "401A, Mon Repos Bandstand, Bandra West",
+      "Mumbai City",
+      "Mumbai",
+      "Maharashtra",
+      "400050"
+    ]
+  }
+}

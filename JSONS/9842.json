@@ -1,0 +1,45 @@
+{
+  "contacts": [
+    {
+      "name": "Lt Gen S M Mehta",
+      "designation": "Chief Executive Officer"
+    },
+    {
+      "name": "Raghav Kumar",
+      "designation": "IT Analyst",
+      "email": "raghav@thfmail.com"
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9842",
+  "name": "THE HANS FOUNDATION",
+  "primaryEmail": "raghav@thfmail.com",
+  "website": "www.thehansfoundation.org",
+  "organisationType": [
+    "Grant-making"
+  ],
+  "telephone": [
+    "911149524545",
+    "919871062709"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "C-301, 3rd Floor, Hudco Place, Andrews Ganj, Ansal Plaza, Khel Gaon Marg New Delhi",
+      "Delhi",
+      "South Delhi",
+      "110049"
+    ]
+  },
+  "briefDescription": "The Hans Foundation is a charitable trust fund that was created to provide a source of endowment for not-for-profit organizations in India.Our Vision - To work towards creating an equitable society with the aim of enhancing quality of life for all through empowerment of marginalized and underprivileged communities in India.Our Mission - To identify and implement social development projects in the area of health, education, livelihoods and disability which are scalable and replicable, in partnership with NGOs, government and institutions, aimed at holistic development of all underprivileged and socially backward communities in India.",
+  "yearOfEstablishment": "2009",
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "E-4, Asola Homes, Asola Near Shani Dham Mandir Mehrauli New Delhi",
+      "New Delhi",
+      "South Delhi",
+      "Delhi",
+      "110074"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9434",
+  "name": "AFIFA FOUNDATION",
+  "primaryEmail": "care.afifafoundation@gmail.com",
+  "website": "www.afifafoundation.org",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919595595556"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "Afifa Foundation House,",
+      "Vill: Andhuwakol, Post: Belwa,",
+      "Kishanganj",
+      "Bihar",
+      "855107"
+    ]
+  },
+  "briefDescription": "afifa foundation is non profitable, non governmental, non political organization located in Kishanganj, Bihar, India.Working in sustainable development through Digital transformation, Health for children and women, Women's empowerment, agriculture, renewal energy, education and training of economical week citizens.",
+  "yearOfEstablishment": "2016",
+  "regiseredAddrress": {
+    "state": "Bihar",
+    "address": [
+      "Afifa Foundation House, Near Jama Masjid, Vill: Andhuwakol, Post: Belwa,",
+      "Kishanganj",
+      "Bihar",
+      "855107"
+    ]
+  }
+}

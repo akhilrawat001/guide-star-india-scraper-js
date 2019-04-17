@@ -1,0 +1,33 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9669",
+  "name": "SEWA SANSKRITI FOUNDATION",
+  "primaryEmail": "sewasanskritifoundation@gmail.com",
+  "organisationType": [
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919810002675"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "Block-B1, Plot No-22&23, Flat No-104, Ugf, Rajapuri, Uttam Nagar,",
+      "New Delhi",
+      "Delhi",
+      "110059"
+    ]
+  },
+  "briefDescription": "Sewa Sanskriti Foundation is located in New Delhi, Delhi.",
+  "yearOfEstablishment": "2016",
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "H.No.22 and 23, UGF, Flat No-104, Street No.5 Block B1",
+      "New Delhi",
+      "Delhi",
+      "110059"
+    ]
+  }
+}

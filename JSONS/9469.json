@@ -1,0 +1,35 @@
+{
+  "contacts": [
+    {
+      "name": "Shantanu  Bhosale",
+      "designation": "",
+      "email": null
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9469",
+  "name": "Padmini Charitable Trust",
+  "primaryEmail": "bankush1968@gmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919970553883"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Flat No A-1-301, S NO. 6/2 &7",
+      "Prisam Society Near Spicer Collage",
+      "Pune",
+      "Maharashtra",
+      "431809"
+    ]
+  },
+  "briefDescription": "Padmini Charitable Trust is located in Pune, Maharashtra.",
+  "yearOfEstablishment": "2013"
+}

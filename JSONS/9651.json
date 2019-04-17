@@ -1,0 +1,35 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9651",
+  "name": "NISHA SOCIAL WELFARE SOCIETY",
+  "primaryEmail": "nishasocialsociety@gmail.com",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "919811264654",
+    "919540526344"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "First Floor Basti Vikas Kendra C- Block J. J. Colony Bawana Delhi",
+      "Delhi",
+      "North Delhi",
+      "110039"
+    ]
+  },
+  "briefDescription": "Nisha Social Welfare Society is located in North Delhi, Delhi.",
+  "yearOfEstablishment": "2010",
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "E-237, Main 20 Futa Road",
+      "Meet Nagar Near Saboli",
+      "Railye Fatak Delhi",
+      "North East Delhi",
+      "Delhi",
+      "110094"
+    ]
+  }
+}

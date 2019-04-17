@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Vasu M Deshpande",
+      "designation": "",
+      "email": null
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7388",
+  "name": "PARISHUDH SOCIETY",
+  "primaryEmail": "parishudh.in@gmail.com",
+  "website": "http://parishudh.in/",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919035303333",
+    "919448476153",
+    "919590702703"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "KBBS Community College",
+      "Aiwan-E-Shahi Road",
+      "Gulbarga",
+      "Kalaburagi (Gulbarga)",
+      "Karnataka",
+      "585102"
+    ]
+  }
+}

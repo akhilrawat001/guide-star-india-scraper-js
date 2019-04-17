@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Mr. Raju Samson",
+      "designation": "",
+      "email": null
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9115",
+  "name": "Lokshakti Samaj Sevi Sanstha",
+  "primaryEmail": "lokshakticg@gmail.com",
+  "website": "www.lokshakticg.org",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "917882216502",
+    "917882216502"
+  ],
+  "mainAddrress": {
+    "state": "Chhattisgarh",
+    "address": [
+      "21/391, Hanuman Nagar,Titurdih",
+      "Durg",
+      "Chhattisgarh",
+      "491001"
+    ]
+  }
+}

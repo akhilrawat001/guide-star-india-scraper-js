@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Mr.Satyendar Kumar",
+      "designation": "",
+      "email": null
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7782",
+  "name": "Dream and Smile Care Foundation",
+  "primaryEmail": "lucknowdreamsmile@rediffmail.com",
+  "website": "dreamsmilegroup.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "+917080000162"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "8/1 Industrial Area Aishnagh Mill Road",
+      "Lucknow",
+      "Uttar Pradesh",
+      "226001"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "contacts": [
+    {
+      "name": "Vishnu J Piwal",
+      "designation": "Chief Functionary",
+      "email": "kbssanstha@gmail.com"
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10116",
+  "name": "Krantisinh Bahuddeshiya Sevabhavi Sanstha",
+  "primaryEmail": "kbssanstha@gmail.com",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "919595991555"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Shivaji Maharaja Putula Daregaon Jalna",
+      "Daregaon",
+      "Jalna",
+      "Maharashtra",
+      "431213"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Shivaji Maharaja Putula Daregaon Jalna",
+      "Jalna",
+      "Maharashtra",
+      "431213"
+    ]
+  }
+}

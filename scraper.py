@@ -4,18 +4,18 @@ urlList = readJsonFile('data/urls.json')
 from threading import Thread
 def getData(url,name):
     if os.path.exists("htmls/" + name + ".json"):
-        pass
+        print('Completed')
     else:
+        print('Thread Started')
         data = requests.get(url)
-        print('aagaya')
         writeJsonFile("htmls/" + name + ".json",data.text)
-    print("Thread Ended")
+        print("Thread Ended")
 
-for i in urlList[:300]:
+for i in urlList[:1200]:
     name = i.split("=")[1]
     thread = Thread(target=getData,args = (i,name,))
     thread.start()       
-    print("Thread",urlList.index(i))
+    # print("Thread",urlList.index(i))
 
 
 

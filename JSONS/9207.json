@@ -1,0 +1,33 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9207",
+  "name": "UNAYANA ODISHA TRUST",
+  "primaryEmail": "info@unayanaodisha.org",
+  "website": "http://unayanaodisha.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918763450049"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "Near Kamargoda Girls High School, Badahal Colony",
+      "Kendujhar",
+      "Odisha",
+      "758001"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Odisha",
+    "address": [
+      "At- Qr.No. 2RA51 Unit-9, Road No-6,",
+      ", P.S- Kharveelanagar Bhubaneswar",
+      "Bhubaneswar",
+      "Khordha",
+      "Odisha",
+      "751022"
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "contacts": [
+    {
+      "name": "Dr. Pradeep K Panda",
+      "designation": "",
+      "email": null
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7885",
+  "name": "Seven Pillars Foundation Trust (SPF) A Developmental and Non-Profitable Trust",
+  "primaryEmail": "7pillarsfoundation@gmail.com",
+  "website": "http://www.spfindia.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Intermediary",
+    "Network"
+  ],
+  "telephone": [
+    "919692045404"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "Care of Sarat Chandra Panda, Vikash Nagar",
+      "Angargadia",
+      "Balasore",
+      "Baleswar",
+      "Odisha",
+      "756001"
+    ]
+  },
+  "briefDescription": "We are a group of professionals committed towards community transformation through innovative approach towards sustainable development. We believe in applied innovation in the Social Sector for self sustainability and social upliftment.Our team includes professional from various background like Health care, Medicine , Scientists, Management Graduates, Journalists and philanthropreneurs with practical experience in Consulting, Project management, Monitoring & Evaluation, Training & Capacity building.",
+  "yearOfEstablishment": "2014",
+  "regiseredAddrress": {
+    "state": "Odisha",
+    "address": [
+      "Biju Pattnaik Chhak, Near Water Tank",
+      "Po- Tulasipur Ps- Cantonment",
+      "Town-Cuttack",
+      "Cuttack",
+      "Odisha",
+      "753008"
+    ]
+  }
+}

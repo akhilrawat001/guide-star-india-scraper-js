@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Poonam Bagai",
+      "designation": "",
+      "email": null
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9638",
+  "name": "CANKIDS...KIDSCAN",
+  "primaryEmail": "exermdelhi@cankidsindia.org",
+  "website": "http://www.cankidsindia.org/",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "911104166361",
+    "911104166361"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "D7/7, Vasant Vihar, New Delhi",
+      "Delhi",
+      "South Delhi",
+      "110057"
+    ]
+  },
+  "briefDescription": "CanKids…KidsCan, is a not-for-profit National Society, for children with cancer and their families, dedicated to a Change for Childhood Cancer in IndiaPresently Cankids is working in 46 cancer centers across the country providing holistic care and support to children with cancer and their families through its YANA – you are not an alone model, providing social support services, Care Centers and social support teams, through its Cankids Hospital Support Units.It partners with treating cancer centers, national and international organizations and State Governments to build capacities, promote quality care, research and impact and facilitate stakeholder engagement and patient, family and civil society engagement, thereby enabling best s",
+  "yearOfEstablishment": "2012"
+}

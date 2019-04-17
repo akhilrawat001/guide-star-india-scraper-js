@@ -1,0 +1,40 @@
+{
+  "contacts": [
+    {
+      "name": "A R Vasavi",
+      "designation": "Secretary"
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10019",
+  "name": "PUNARACHITH (R)",
+  "primaryEmail": "punarchithcollective@gmail.com",
+  "website": "punarchith.org",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "919448360215"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "Punarchith Learning Centre,",
+      "Nagavalli Village, B.R.Hills Road",
+      "Chamarajanagar",
+      "Karnataka",
+      "571342"
+    ]
+  },
+  "briefDescription": "Punarchith focuses on enabling rural youth to engage in sustainable agriculture and to become engaged citizens.",
+  "yearOfEstablishment": "2011",
+  "regiseredAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "Meghavath House,",
+      "Mukhanpalya Village",
+      "Chamarajanagar",
+      "Karnataka",
+      "571342"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10018",
+  "name": "Jan Prabhat Sansthan",
+  "primaryEmail": "jps.pendra@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "912277512240",
+    "919977065506"
+  ],
+  "mainAddrress": {
+    "state": "Chhattisgarh",
+    "address": [
+      "Sbi Kiosk Jain Mandir Ke Pas Pendra",
+      "Pendra",
+      "Bilaspur",
+      "Chhattisgarh",
+      "495119"
+    ]
+  }
+}

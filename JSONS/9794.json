@@ -1,0 +1,38 @@
+{
+  "contacts": [
+    {
+      "name": "Amitav Virmani",
+      "designation": "CEO",
+      "email": "Amitav.virmani@theeducationalliance.org"
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9794",
+  "name": "Network for Quality Education Foundation",
+  "primaryEmail": "kanchan.lall@theeducationalliance.org",
+  "organisationType": [
+    "Network"
+  ],
+  "telephone": [
+    "911149125900"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "A-142, G.F., Neeti Bagh,",
+      "New Delhi",
+      "Delhi",
+      "110049"
+    ]
+  },
+  "briefDescription": "Network for Quality Education Foundation is located in New Delhi, Delhi.",
+  "yearOfEstablishment": "2014",
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "15, Golf Link,",
+      "New Delhi",
+      "Delhi",
+      "110003"
+    ]
+  }
+}

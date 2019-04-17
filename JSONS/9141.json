@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "Nawal Kishor Bhankari",
+      "designation": "",
+      "email": null
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9141",
+  "name": "DEEP VIDHYA MANDIR SAMITI",
+  "primaryEmail": "dvmsngo@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "911427224782",
+    "911427224782"
+  ],
+  "mainAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "Gayatri Nagar, Agra Road, Dausa",
+      "Dausa",
+      "Rajasthan",
+      "303303"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "contacts": [
+    {
+      "name": "Nawalkishor Bhankari",
+      "designation": "",
+      "email": null
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9156",
+  "name": "ASHA CHARITABLE TRUST",
+  "primaryEmail": "ashatrust222@gmail.com",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "919414035821"
+  ],
+  "mainAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "Gayatri Nagar, Agra Road,Dausa",
+      "Dausa",
+      "Rajasthan",
+      "303303"
+    ]
+  }
+}

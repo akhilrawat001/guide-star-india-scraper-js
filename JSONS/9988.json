@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "E. Uma Maheswari",
+      "designation": "President",
+      "email": "sriulagavazhiamman@gmail.com"
+    },
+    {
+      "name": "Aridha.I",
+      "designation": "Treasurer",
+      "email": "aridhairisappan21@gmail.com"
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9988",
+  "name": "SRI ULAGAVAZHI AMMAN CHARITABLE TRUST",
+  "primaryEmail": "sriulagavazhiamman@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918056402127",
+    "918778917274"
+  ],
+  "mainAddrress": {
+    "state": "Puducherry",
+    "address": [
+      "No.34,Middle Street",
+      "Anadhapuram Road,Ariyur,puducherry",
+      "Puducherry",
+      "605102"
+    ]
+  }
+}

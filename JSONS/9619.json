@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Vijay Vinayak Ingale",
+      "designation": "",
+      "email": null
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9619",
+  "name": "KRANTI JYOT BAHUDDESHIYA SAMAJIK SANSTHA",
+  "primaryEmail": "rajkl252@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919657567689"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Shelka Dhanora, (Tal.) Kallam,",
+      "Kallam",
+      "Osmanabad",
+      "Maharashtra",
+      "413507"
+    ]
+  },
+  "briefDescription": "Kranti Jyot Bahuddeshiya Samajik Sanstha is located in Pune, Maharashtra.",
+  "yearOfEstablishment": "2015"
+}

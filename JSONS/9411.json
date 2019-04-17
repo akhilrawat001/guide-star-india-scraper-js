@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Ganesh Chandra Rahi",
+      "designation": "",
+      "email": null
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9411",
+  "name": "RASHTRIYA SWABHIMAN TRUST",
+  "primaryEmail": "ganeshchandrarahi40@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "916546223527",
+    "916546223527"
+  ],
+  "mainAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "At- Dumar, Po- Jaggarnath Dham, Ps- Muffasil,",
+      "Hazaribag",
+      "Jharkhand",
+      "825317"
+    ]
+  },
+  "yearOfEstablishment": "2013"
+}

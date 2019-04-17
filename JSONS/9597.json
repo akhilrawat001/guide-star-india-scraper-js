@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Naik Moiz Latif Naik",
+      "designation": "",
+      "email": null
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9597",
+  "name": "KALAMNURI VYAYAM SHALA VA KRIDA MANDAL",
+  "primaryEmail": "naik.tajammul@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "912455219018",
+    "912455219018"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Naik Tajammul Moiz Latif Naik R/o Naikwadi Mohalla Kalamnuri",
+      "Kalamnuri",
+      "Hingoli",
+      "Maharashtra",
+      "431702"
+    ]
+  },
+  "briefDescription": "Kalamnuri Vyayam Shala Va Krida Mandal is located in Kalamnuri, Maharashtra.",
+  "yearOfEstablishment": "2010"
+}

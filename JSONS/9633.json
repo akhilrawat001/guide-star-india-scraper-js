@@ -1,0 +1,36 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9633",
+  "name": "ASHA SKILL DEVELOPMENT FOUNDATION",
+  "primaryEmail": "ashaskillfoundation@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "+919424922556"
+  ],
+  "mainAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "E",
+      "Villagr Khirri Post Kahari",
+      "Lalburra",
+      "Balaghat",
+      "Madhya Pradesh",
+      "481441"
+    ]
+  },
+  "briefDescription": "Asha Skill Development Foundation is located in Balaghat, Madhya Pradesh.",
+  "yearOfEstablishment": "2009",
+  "regiseredAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "Ward No-4",
+      "Villagr Khirri Post Kahari",
+      "Lalburra",
+      "Balaghat",
+      "Madhya Pradesh",
+      "481441"
+    ]
+  }
+}

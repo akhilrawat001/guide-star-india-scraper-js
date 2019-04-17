@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Jyoti",
+      "designation": "President",
+      "email": "jyoti.angel686@gmail.com"
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9860",
+  "name": "DIVYANSH FOUNDATION",
+  "primaryEmail": "info@divyanshfoundation.org",
+  "website": "http://www.divyanshfoundation.org",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "918448825552"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "noida",
+      "Gali no-10",
+      "Noida",
+      "Gautam Buddha Nagar",
+      "Uttar Pradesh",
+      "201301"
+    ]
+  },
+  "briefDescription": "Divyansh Foundation is located in Gautam Buddha Nagar, Uttar Pradesh.",
+  "yearOfEstablishment": "2017"
+}

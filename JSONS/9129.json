@@ -1,0 +1,35 @@
+{
+  "contacts": [
+    {
+      "name": "Naresh Chawda",
+      "designation": "",
+      "email": null
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9129",
+  "name": "ACE Foundation",
+  "primaryEmail": "info@acefoundationindia.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919820822001",
+    "919819072036"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "18/16, Ground Floor, Fida Building",
+      "Princess Street",
+      "Mumbai",
+      "Maharashtra",
+      "400002"
+    ]
+  },
+  "briefDescription": "ACE Foundation is a non-profit organization formed by local youth who have experienced the potential of change through sports. We conduct Rugby Coaching for youth from slums with the aim of providing opportunities to youth like themselves to (re)build their lives.  ACE Foundation is registered under Trust act in Nov 2010. ACE Foundation have trains kids and youth from disadvantaged backgrounds, who do not have opportunities or access to sports equipment or training and helps get into district, state, national and international levels tournaments. ACE uses sports as a medium to engage with youth towards self-development while building professional skills.",
+  "yearOfEstablishment": "2010"
+}

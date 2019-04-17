@@ -1,0 +1,38 @@
+{
+  "contacts": [
+    {
+      "name": "Akshay Yadav",
+      "designation": "",
+      "email": null
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9474",
+  "name": "NEEDAN FOUNDATION FOR RESEARCH AND DEVELOPMENT",
+  "primaryEmail": "needanngo@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918585900447"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "K-1, Laxmi Vihar, POL-0148, Mohan Garden, Uttam Nagar",
+      "New Delhi",
+      "Delhi",
+      "110059"
+    ]
+  },
+  "briefDescription": "Needan Foundation for Research and Development is located in New Delhi, Delhi.",
+  "yearOfEstablishment": "2012",
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "95, Milan Apptts, West Enclave, Pitampura",
+      "North West Delhi",
+      "Delhi",
+      "110034"
+    ]
+  }
+}

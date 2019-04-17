@@ -1,0 +1,23 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9926",
+  "name": "Bamunda Sikshabrati Sangha",
+  "primaryEmail": "sikshabrati@gmail.com",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "919775765883"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Bamunda Sonar Tari Sishukendrik Banvasi Ashroythal (Near Bamunda Uttarpara)",
+      "Vill-Bamunda; P.O-Pataspur",
+      "Bamunda",
+      "East Medinipur",
+      "West Bengal",
+      "721439"
+    ]
+  }
+}

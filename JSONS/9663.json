@@ -1,0 +1,35 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9663",
+  "name": "Garchar Bhumi",
+  "primaryEmail": "bhumingo.prl@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "+919002937012"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Vill-Garchar",
+      "Kashipur",
+      "Purulia",
+      "West Bengal",
+      "723132"
+    ]
+  },
+  "briefDescription": "Garchar Bhumi is located in Purulia, West Bengal.",
+  "yearOfEstablishment": "2013",
+  "regiseredAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Vill-Garchar",
+      "Vill-Garcha",
+      "Kashipur",
+      "Purulia",
+      "West Bengal",
+      "723132"
+    ]
+  }
+}

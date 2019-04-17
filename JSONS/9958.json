@@ -1,0 +1,35 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9958",
+  "name": "Islands Integrated Voluntary Health Mission",
+  "primaryEmail": "iivhm1553@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "India",
+    "3192235327"
+  ],
+  "mainAddrress": {
+    "state": "Andaman and Nicobar Islands",
+    "address": [
+      "Sakshee Printer & Publishers",
+      "Near Chinmaya Mission Temple, Police Line Road",
+      "Port Blair",
+      "South Andaman",
+      "Andaman and Nicobar Islands",
+      "744106"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Andaman and Nicobar Islands",
+    "address": [
+      "MB-22",
+      "Aberdeen Village",
+      "Port Blair",
+      "South Andaman",
+      "Andaman and Nicobar Islands",
+      "744104"
+    ]
+  }
+}

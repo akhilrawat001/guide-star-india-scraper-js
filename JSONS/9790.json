@@ -1,0 +1,35 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9790",
+  "name": "DOOARS COMPUTER SAKSHARTA MISSION",
+  "primaryEmail": "dcsmindia@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919735947554",
+    "919474690400"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Ward No-2, Motilal Sarkar Lane, MM Para,",
+      "P.O. & P.S. Dinhata,",
+      "Cooch Behar",
+      "West Bengal",
+      "736135"
+    ]
+  },
+  "briefDescription": "Dooars Computer Saksharta Mission is located in Cooch Behar, West Bengal.",
+  "yearOfEstablishment": "2013",
+  "regiseredAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Ward No-2, Motilal Sarkar Lane, MM Para, P.O. & P.S. Dinhata,",
+      "P.O. & P.S. Dinhata,",
+      "Cooch Behar",
+      "West Bengal",
+      "736135"
+    ]
+  }
+}

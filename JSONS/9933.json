@@ -1,0 +1,35 @@
+{
+  "contacts": [
+    {
+      "name": "Yuvraj R K",
+      "designation": "Director Operations"
+    },
+    {
+      "name": "Dr Rajiv K",
+      "designation": "Secretary",
+      "email": "khedkar@yahoo.com"
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9933",
+  "name": "Bhagwan Shikshan Prasarak Mandal",
+  "primaryEmail": "info@bspm.co.in",
+  "website": "www.bspm.in",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "912402489222",
+    "912402241856"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "BSPM, Bhagwan College Campus,",
+      "N-6, CIDCO",
+      "Aurangabad",
+      "Maharashtra",
+      "431003"
+    ]
+  }
+}

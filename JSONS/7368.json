@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Mr.Kuldeep Singh",
+      "designation": "",
+      "email": null
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7368",
+  "name": "Baba Shri Chand Ji Welfare Turst Barnala",
+  "primaryEmail": "kuldeepks22@yahoo.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "918284973470"
+  ],
+  "mainAddrress": {
+    "state": "Punjab",
+    "address": [
+      "Darshan Colony St No 5 Barnala",
+      "Patti Road St No 5 Barnala",
+      "Barnala",
+      "Punjab",
+      "148101"
+    ]
+  }
+}

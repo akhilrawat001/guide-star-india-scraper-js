@@ -1,0 +1,24 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7899",
+  "name": "GOOD DAY FOUNDATION",
+  "primaryEmail": "prasad_thakurjee@yahoo.co.in",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919890330051"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Flat no.2, Bldg no.5",
+      "Shivgovind Nagar, Near Vanjari Hall, Navapur Road",
+      "Boisar",
+      "Thane",
+      "Maharashtra",
+      "401501"
+    ]
+  }
+}

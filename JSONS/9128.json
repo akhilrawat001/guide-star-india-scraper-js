@@ -1,0 +1,32 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9128",
+  "name": "Jan Samaj Kalyan Samiti",
+  "primaryEmail": "infojsksorg@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "+919810911568"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "1441/1 Gondni Street Kalan Mahal Darya Ganj New Delhi",
+      "New DELHI",
+      "Central Delhi",
+      "Delhi",
+      "110002"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "RZ 2677 A/28 Tughlakabad Extn",
+      "New Delhi",
+      "South Delhi",
+      "Delhi",
+      "110019"
+    ]
+  }
+}

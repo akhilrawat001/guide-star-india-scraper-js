@@ -1,0 +1,37 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9513",
+  "name": "GRAMIN UTTHAN SOCIETY",
+  "primaryEmail": "info@gusindia.org",
+  "website": "www.gusindia.org",
+  "organisationType": [
+    "Direct Service",
+    "Intermediary",
+    "Support"
+  ],
+  "telephone": [
+    "919300768925"
+  ],
+  "mainAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "40 Mahalaxmi Nagar",
+      "Ratlam 457001",
+      "Ratlam",
+      "Madhya Pradesh",
+      "457001"
+    ]
+  },
+  "briefDescription": "We have served about 3000 people in field of livelihood, education, capacity building, plantation etc.",
+  "yearOfEstablishment": "2015",
+  "regiseredAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "89 Lotus City Colony",
+      "Near Jaora Fatak, Ratlam",
+      "Ratlam",
+      "Madhya Pradesh",
+      "457001"
+    ]
+  }
+}

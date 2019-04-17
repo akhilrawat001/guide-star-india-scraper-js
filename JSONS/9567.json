@@ -1,0 +1,41 @@
+{
+  "contacts": [
+    {
+      "name": "Gaurav",
+      "designation": "Co-Founder"
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9567",
+  "name": "INFINTREE FOUNDATION",
+  "primaryEmail": "infintree.org@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Grant-making",
+    "Support"
+  ],
+  "telephone": [
+    "919013162913"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "F 17-18 Basement ,Jawahar Park,Khanpur,",
+      "New Delhi",
+      "South Delhi",
+      "Delhi",
+      "110080"
+    ]
+  },
+  "briefDescription": "Founded in 2017, We are Youth Oriented Non-Governmental Organisation based in new Delhi. Our Mission is to aware people about devastating effect of global warming and climate change also we want to promote tree plantation across the globe through our work.we are a team of Young eco-entrepreneur . We support United Nation sustainable development goals , specifically Goal 15 ( life on earth ) and goal 13 ( Climate change)",
+  "yearOfEstablishment": "2017",
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "F 17-18 Basement ,Jawahar Park,Khanpur,",
+      "New Delh",
+      "South Delhi",
+      "Delhi",
+      "110080"
+    ]
+  }
+}

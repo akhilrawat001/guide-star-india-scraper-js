@@ -1,0 +1,35 @@
+{
+  "contacts": [
+    {
+      "name": "Padmapriya T S",
+      "designation": "",
+      "email": null
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9247",
+  "name": "AALAYAM KANDEN TRUST",
+  "primaryEmail": "aalayamkanden@gmail.com",
+  "website": "www.aalayamkanden.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919790918056"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "Flat A Nutech Saradambal Apartments",
+      "No 36 Kripasankari Street West Mambalam",
+      "Chennai",
+      "Tamil Nadu",
+      "600033"
+    ]
+  },
+  "briefDescription": "Aalayam Kanden Trust has been created in order to create awareness about ancient, unique and lesser known heritage sites of India. It does this through articles, publications, cultural documentation, supporting maintenance and training public and locals on appreciating the historical, architectural and mythological specialities of these sites for better patronage & sustainability.",
+  "yearOfEstablishment": "2011"
+}

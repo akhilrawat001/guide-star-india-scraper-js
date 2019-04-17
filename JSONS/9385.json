@@ -1,0 +1,32 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9385",
+  "name": "HUMAN UNIQUE MOMENT DEVELOPMENT ORGANISATION",
+  "primaryEmail": "humdongo@gmail.com",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "919907621211"
+  ],
+  "mainAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "65,Radhakunj",
+      "Khajurikalan Road",
+      "Bhopal",
+      "Madhya Pradesh",
+      "462022"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "65,Radhakunj",
+      "Khajurikalan Road,Piplani",
+      "Bhopal",
+      "Madhya Pradesh",
+      "462022"
+    ]
+  }
+}

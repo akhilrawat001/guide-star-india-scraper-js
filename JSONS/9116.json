@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Sarveshwari Raniwala",
+      "designation": "",
+      "email": null
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9116",
+  "name": "BADHIT BAL VIKAS KENDRA",
+  "primaryEmail": "info@bbvk.org",
+  "website": "www.bbvk.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "917442425127",
+    "917442425127"
+  ],
+  "mainAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "Badhit Bal Vikas Kendra",
+      "Jhalawar Road, Vigyan Nagar",
+      "Kota",
+      "Rajasthan",
+      "324005"
+    ]
+  }
+}

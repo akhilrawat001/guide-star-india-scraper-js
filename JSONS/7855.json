@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "Rahul Rasiklal Jain",
+      "designation": "",
+      "email": null
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7855",
+  "name": "AADIPRABHU FOUNDATION",
+  "primaryEmail": "catejas2009@rediffmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "INDIA",
+    "9403381363"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Shop No. 19",
+      "Shetki Sangh Shopping Complex",
+      "Chopda",
+      "Jalgaon",
+      "Maharashtra",
+      "425107"
+    ]
+  },
+  "briefDescription": "Organisation has served for poor and needy students, children, women and farmers for there requirement for Computer Education through running a Free Courses at own Computer Lab. Also served farmers for courses on technical guidance on new techniques of farming etc",
+  "yearOfEstablishment": "2012"
+}

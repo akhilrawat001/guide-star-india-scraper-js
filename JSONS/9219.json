@@ -1,0 +1,34 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9219",
+  "name": "INNOVATION WELFARE SOCIETY BHOPAL",
+  "primaryEmail": "ashish.tripathi05@gmail.com",
+  "website": "www.innovationbhopal.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "917553312904",
+    "917553312904"
+  ],
+  "mainAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "BM 65",
+      "Nehru Nagar Bhadbhada Road",
+      "Bhopal",
+      "Madhya Pradesh",
+      "462003"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "BM 65",
+      "Nehru Nagar",
+      "Bhopal",
+      "Madhya Pradesh",
+      "462003"
+    ]
+  }
+}

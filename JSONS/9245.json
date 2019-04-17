@@ -1,0 +1,37 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9245",
+  "name": "Rajabazar Education & Awareness Development Society",
+  "primaryEmail": "readssociety@gmail.com",
+  "website": "www.readssociety.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service"
+  ],
+  "telephone": [
+    "919831274907"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "2B/H/50",
+      "Gas Street",
+      "Rajabazar",
+      "Kolkata",
+      "West Bengal",
+      "700009"
+    ]
+  },
+  "yearOfEstablishment": "2000",
+  "regiseredAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "2B/H/50,",
+      "Gas Street,",
+      "Rajabazar",
+      "Kolkata",
+      "West Bengal",
+      "700009"
+    ]
+  }
+}

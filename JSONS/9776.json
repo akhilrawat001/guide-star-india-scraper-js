@@ -1,0 +1,47 @@
+{
+  "contacts": [
+    {
+      "name": "Brijesh Tripathi",
+      "designation": "Secretary",
+      "email": "brijesh@maxvisionsws.org",
+      "mobile": [
+        "91-124-4057946",
+        "91-9250920005"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9776",
+  "name": "Maxvision Social Welfare Society",
+  "primaryEmail": "info@maxvisionsws.org",
+  "website": "http://www.maxvisionsws.org",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "919250920005",
+    "911244057946"
+  ],
+  "mainAddrress": {
+    "state": "Haryana",
+    "address": [
+      "G-2, First Floor, Street No. 2, Ashok Vihar, Phase-1",
+      "Railway Road",
+      "Gurgaon",
+      "Gurugram",
+      "Haryana",
+      "122001"
+    ]
+  },
+  "briefDescription": "We focus on Child Labor Education, slum kid education.Women and youth empowerment, placement linked skill development program, Health care, legal aid to poor Environment - plantation and awareness Number of beneficiaries - 300 Child labor, 450 slum kids and 120 women and youth per year are getting benefits from our different programs on regular basis.",
+  "yearOfEstablishment": "2004",
+  "regiseredAddrress": {
+    "state": "Chhattisgarh",
+    "address": [
+      "Shri Ram Market Sirsa Road",
+      "Bhilai",
+      "Durg",
+      "Chhattisgarh",
+      "490023"
+    ]
+  }
+}

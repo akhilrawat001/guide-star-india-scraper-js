@@ -1,0 +1,33 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10028",
+  "name": "Shri Arbuda Residential Welfare Association",
+  "primaryEmail": "info@sarwa.org",
+  "website": "http://sarwa.org",
+  "organisationType": [
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919974079022"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "807 Akshat Tower, Opp Rajpath Club, Sg Highway",
+      "Ahmedabad",
+      "Gujarat",
+      "380015"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "807 Akshay Tower, Nr Pakwan Restaurant",
+      "Opp Rajpat Club  Sg Highway",
+      "Ahmedabad",
+      "Gujarat",
+      "380054"
+    ]
+  }
+}

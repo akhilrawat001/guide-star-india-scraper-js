@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Ayan Mukherjee",
+      "designation": "Secretary"
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9730",
+  "name": "Suri IT Soft Technologies Society",
+  "primaryEmail": "suriitsoft@gmail.com",
+  "website": "https://itsofttechnologies.wordpress.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919851607201",
+    "917031310075"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "West Lalkuthi Para (Near Firebrigade)",
+      "P.O-Suri",
+      "Suri",
+      "Birbhum",
+      "West Bengal",
+      "731101"
+    ]
+  },
+  "briefDescription": "Suri IT Soft Technologies Society is located in Birbhum, West Bengal.",
+  "yearOfEstablishment": "2014"
+}

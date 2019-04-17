@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "Mr.Sunil Ramdas Wani",
+      "designation": "",
+      "email": null
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7858",
+  "name": "Shri Ashtavinayak Shaishanik Va Sanskrutik Mandal",
+  "primaryEmail": "shri_assm@yahoo.com",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "9423560680",
+    "919370000900"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "24,Unity Chember Ganesh Colony Road Jalgaon",
+      "Jalgaon",
+      "Maharashtra",
+      "425002"
+    ]
+  }
+}

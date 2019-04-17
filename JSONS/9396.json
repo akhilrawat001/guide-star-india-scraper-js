@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Dr. Gyanendra Narayan Pandey",
+      "designation": "",
+      "email": null
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9396",
+  "name": "Aashray Society",
+  "primaryEmail": "aashray_society@hotmail.com",
+  "website": "http://www.aashray-india.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "911204213440",
+    "911204213440"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "1772, ATS Greens Village",
+      "Sector 93A",
+      "Noida",
+      "Gautam Buddha Nagar",
+      "Uttar Pradesh",
+      "201304"
+    ]
+  },
+  "briefDescription": "Aashray Society has been in operation since 2002. We are a nonprofit society dedicated to the cause of creating sustainable projects in educating the children of construction site workers, rag pickers, rickshaw pullers, vegetable vendors etc.",
+  "yearOfEstablishment": "2002"
+}

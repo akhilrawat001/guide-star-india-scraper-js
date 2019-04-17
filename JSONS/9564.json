@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Er Parul Patel",
+      "designation": "",
+      "email": null
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9564",
+  "name": "VIRAL AGRIL ENGINEERING FOUNDATION",
+  "primaryEmail": "viralagril@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919925863641"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "9, Saikrupa Society",
+      "Behind Panchsil Society, Becharpura",
+      "Palanpur",
+      "Banaskantha",
+      "Gujarat",
+      "385001"
+    ]
+  },
+  "briefDescription": "Viral Agril Engineering Foundation is located in Palanpur, Gujarat.",
+  "yearOfEstablishment": "1998"
+}

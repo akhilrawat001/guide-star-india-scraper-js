@@ -1,0 +1,24 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9614",
+  "name": "SURYODAY SEVA SANSTHAN",
+  "primaryEmail": "sssdeoghar@rediffmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "+919431396947"
+  ],
+  "mainAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "Suryoday Sewa Sansthan",
+      "Lakhibati,Castairs Town,",
+      "Lakhibati,Castairs Town, Deoghar",
+      "Deoghar",
+      "Jharkhand",
+      "814112"
+    ]
+  }
+}

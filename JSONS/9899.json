@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Chryselle D'Silva Dias",
+      "designation": "Trustee",
+      "email": "info@childsplayindia.org"
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9899",
+  "name": "CHILD'S PLAY (INDIA) FOUNDATION",
+  "primaryEmail": "info@childsplayindia.org",
+  "website": "www.childsplayindia.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919922642059"
+  ],
+  "mainAddrress": {
+    "state": "Goa",
+    "address": [
+      "Casa da Moeda, Near Head Post Office,",
+      "Panjim",
+      "North Goa",
+      "Goa",
+      "403001"
+    ]
+  },
+  "briefDescription": "Child’s Play India Foundation is a registered music education trust that seeks to instill positive values and provide social empowerment to India’s disadvantaged children through the teaching of classical music to the highest possible standard. We currently teach violin, viola, cello, recorder, transverse flute, piano and choir to around 100 children across three locations in Goa.",
+  "yearOfEstablishment": "2009"
+}

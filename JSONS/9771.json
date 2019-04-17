@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "S Sankara",
+      "designation": "Managing Trustee"
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9771",
+  "name": "NEW LIFE TRUST",
+  "primaryEmail": "admin@newlifetrust.org.in",
+  "website": "http://www.newlifetrust.org.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919524157736"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "No,6,V.N.S.Nagar,Near Railway Track, Society Colony, Karumandapam,",
+      "Trichy",
+      "Tiruchirappalli",
+      "Tamil Nadu",
+      "620001"
+    ]
+  },
+  "briefDescription": "New Life Trust is located in Trichy, Tamil Nadu.",
+  "yearOfEstablishment": "2009"
+}

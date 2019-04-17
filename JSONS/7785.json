@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Deshmukh Vivek Dasharath",
+      "designation": "",
+      "email": null
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7785",
+  "name": "Smruti Gramin Adivasi Vikas Bahuddeshiya Sevabhavi Sanstha",
+  "primaryEmail": "smruti.sanstha@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "912424223680",
+    "912424223680"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Expert Computers Opp S T Stand",
+      "K G Road",
+      "At Po Tal Akole",
+      "Ahmednagar",
+      "Maharashtra",
+      "422601"
+    ]
+  }
+}

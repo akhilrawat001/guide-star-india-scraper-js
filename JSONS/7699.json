@@ -1,0 +1,36 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7699",
+  "name": "DEBANGANA EDUCARE SOCIETY",
+  "primaryEmail": "debangana.des@rediffmail.com",
+  "website": "http://www.debanganaeducaresociety.org.in",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919903347659"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "3/117 Gandhi Colony, Mina Para Rd.",
+      "P.O.REGENT ESTATE,",
+      "KOLKATA",
+      "Kolkata",
+      "West Bengal",
+      "700092"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "6/14B, NETAJI NAGAR,",
+      "P.O.REGENT ESTATE,",
+      "KOLKATA",
+      "Kolkata",
+      "West Bengal",
+      "700092"
+    ]
+  }
+}

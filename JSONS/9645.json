@@ -1,0 +1,34 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9645",
+  "name": "Unlearning Foundation",
+  "primaryEmail": "lewitt@life-lab.org",
+  "website": "www.life-lab.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918087802552"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Sr. No. 41, 2nd floor, Maulikrupa Apts.",
+      "Near Supreme bakery, Ganesh Puri Society",
+      "Warje Malwadi, Pune",
+      "Pune",
+      "Maharashtra",
+      "411052"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Flat no. 14, Kritika (B) Apts,",
+      "Lane no. 9, Dahanukar Colony, Kothrud",
+      "Pune",
+      "Maharashtra",
+      "411052"
+    ]
+  }
+}

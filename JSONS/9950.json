@@ -1,0 +1,48 @@
+{
+  "contacts": [
+    {
+      "name": "Prasun Majumdar",
+      "designation": "Secretary",
+      "mobile": [
+        "91-33-25023316"
+      ],
+      "email": "prasun@middletonethinkers.in"
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9950",
+  "name": "Middle Tone",
+  "primaryEmail": "thinkers.middletone@gmail.com",
+  "website": "www.middletonethinkers.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Support"
+  ],
+  "telephone": [
+    "913325023316",
+    "919674016900"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Rahuta",
+      "Pora Kali Tala",
+      "Shyamnagar",
+      "North 24 Parganas",
+      "West Bengal",
+      "743127"
+    ]
+  },
+  "briefDescription": "Middle Tone an abbreviation of Meaningful Ideas Develop through Discussion or Literary & Creative Experience...Think always One step forward throughout your Natural Emotions. An organization over three decades a common platform for independent thinkers, multi-disciplinary practitioner in the field of communication.Mission : We want to facilitate the thinking ability and learning capacity of the society.Vision : We want to create a conducive environment where an individual becomes thinker and a thinker turns-up as a learner. Hence the person will contribute more in societal upliftment.",
+  "yearOfEstablishment": "2012",
+  "regiseredAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "233/A",
+      "Mitra Para Road",
+      "Naihati",
+      "North 24 Parganas",
+      "West Bengal",
+      "743165"
+    ]
+  }
+}

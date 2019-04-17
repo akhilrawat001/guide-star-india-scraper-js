@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Kuldipsinh Gohil",
+      "designation": "",
+      "email": null
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9437",
+  "name": "MAHIDHARA FOUNDATION",
+  "primaryEmail": "mahidhara.foundation@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Grant-making",
+    "Support"
+  ],
+  "telephone": [
+    "919725284903"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "79",
+      "Pratapsinh Sahebno bhag",
+      "Vadodara",
+      "Gujarat",
+      "391330"
+    ]
+  },
+  "briefDescription": "Mahidhara Foundation is located in Vadodara, Gujarat.",
+  "yearOfEstablishment": "2013"
+}

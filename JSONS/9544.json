@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "name": "Bhawani Shankar Sharma",
+      "designation": "",
+      "email": null
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9544",
+  "name": "MANVI HIGHER AND TECHNICAL EDUCATION",
+  "primaryEmail": "director.manvi@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "911413158700",
+    "911413158700"
+  ],
+  "mainAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "18, Ved Vatika, Sodala,",
+      "Jaipur",
+      "Rajasthan",
+      "302019"
+    ]
+  },
+  "briefDescription": "Manvi Higher And Technical Education is located in Jaipur, Rajasthan.",
+  "yearOfEstablishment": "2010",
+  "regiseredAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "11/94, Malviya Nagar",
+      "Jaipur",
+      "Rajasthan",
+      "302017"
+    ]
+  }
+}

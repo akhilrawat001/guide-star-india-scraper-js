@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Mr. Aparna Sabui",
+      "designation": "President",
+      "email": "sovanap84@gmail.com"
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7806",
+  "name": "RAHIMPUR TARAMA VILLAGE WELFARE SOCIETY",
+  "primaryEmail": "sovanap84@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919749406362"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Vill - Rahimpur, P.O. - Rahimpur,",
+      "P.S. -   jangipara",
+      "Hooghly",
+      "West Bengal",
+      "712408"
+    ]
+  },
+  "briefDescription": "RAHIMPUR TARAMA VILLAGE WELFARE SOCIETY IS SITUATED HOOGHLY, WEST BENGAL.",
+  "yearOfEstablishment": "2011"
+}

@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Mr.Pravin Khare",
+      "designation": "",
+      "email": null
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7834",
+  "name": "DAHANU THERMAL POWER STATION JANKALYAN SANSTHA",
+  "primaryEmail": "pravinkhare59@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919226561519"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Shop No-11 Reliance Colony,Dtps, Dahanu Road,Dist-Palghar",
+      "D-4/5, Reliance Colony,Dtps,Tal-Dahanu,Dist-Palghar",
+      "Dahanu",
+      "Thane",
+      "Maharashtra",
+      "401608"
+    ]
+  }
+}

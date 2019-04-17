@@ -1,0 +1,35 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9217",
+  "name": "SAMVARDHAN SAMAJ VIKAS SANSTHA",
+  "primaryEmail": "nilheda@gmail.com",
+  "website": "www.samvardhan.org.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service"
+  ],
+  "telephone": [
+    "919765270666"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Near APMC",
+      "Washim Road",
+      "Karanja Lad",
+      "Washim",
+      "Maharashtra",
+      "444105"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "C/O K. Pandharipande, Behind Chitralekha Paper Mill, Professor’s colony,",
+      "Karanja Lad",
+      "Washim",
+      "Maharashtra",
+      "444105"
+    ]
+  }
+}

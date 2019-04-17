@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "Jogesh Samanta",
+      "designation": "",
+      "email": null
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9212",
+  "name": "Nimtouri Tamluk Unnayan Samiti",
+  "primaryEmail": "ntus.nimtouri@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919434104199"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Vill.-Chaksrikrishnapur(Nimtouri N.H.-41, Near Smriti Soudha), P.O.- Kulberia, P.S.- Tamluk,",
+      "Kulberia, Tamluk",
+      "East Medinipur",
+      "West Bengal",
+      "721649"
+    ]
+  }
+}

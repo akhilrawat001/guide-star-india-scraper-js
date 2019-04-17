@@ -1,0 +1,35 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9523",
+  "name": "SOUL TRUST",
+  "primaryEmail": "query.soul@gmail.com",
+  "website": "https://www.teamsoul.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919836253999"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "MULTICON ENCLAVE",
+      "19,HO CHI MINH SARANI",
+      "Kolkata",
+      "West Bengal",
+      "700061"
+    ]
+  },
+  "briefDescription": "We work with tribal people and low income people of Sundarban( 24 Parganas South).We work on 3 key areasLivlihood EntitlementHealthcareEducation",
+  "yearOfEstablishment": "2016",
+  "regiseredAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Queens Mansion",
+      "12, Park Street,5TH FLOOR,GATE-1",
+      "Kolkata",
+      "West Bengal",
+      "700071"
+    ]
+  }
+}

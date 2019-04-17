@@ -1,0 +1,34 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9467",
+  "name": "AARADHYA FOUNDATION",
+  "primaryEmail": "aaradhyafoundation@yahoo.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918878447414"
+  ],
+  "mainAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "46/1, Lig, C/O Jitendra Singh",
+      "Nav Jeevan Vihar, Vindhyanagar",
+      "Waidhan",
+      "Singrauli",
+      "Madhya Pradesh",
+      "486885"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "H. No. B-47/A Old No. B-47, Second Floor Gali No. -1",
+      "West Vinod Nagar, Nr- Mangalam Hospital",
+      "East Delhi",
+      "Singrauli",
+      "Madhya Pradesh",
+      "110092"
+    ]
+  }
+}

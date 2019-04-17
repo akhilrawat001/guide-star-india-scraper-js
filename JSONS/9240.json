@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Rajesh Mandyam",
+      "designation": "Managing Trustee"
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9240",
+  "name": "Swadha Foundation",
+  "primaryEmail": "info@swfn.org",
+  "website": "www.swadhafoundation.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "mainAddrress": {
+    "address": []
+  },
+  "briefDescription": "Swadha Foundation offers the best of opportunities to under privileged students who stand out in academics from  district/village schools/junior colleges and help them to make a difference to their self, families, societies, areas/villages/towns.  Our intervention in the lives of these well deserved students starts at 11th  and goes on till completion of under graduation. We currently support 77 students who are 5% of our applicants. Our students come from families  whose family average income is Rs. 65000 (1000 USD approxmately). We go beyond just paying fees but also provide all forms assistance that prepares these students to meet employment & all personality traits required to lead a positive life.",
+  "yearOfEstablishment": "2010",
+  "regiseredAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "5041, 4th Floor, Tower 5, One Bangalore West",
+      "1 Rajkumar Road, Rajaji Nagar,",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560010"
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "contacts": [
+    {
+      "name": "Rafiq Ahmad",
+      "designation": "",
+      "email": null
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9518",
+  "name": "ARSINA FOUNDATION",
+  "primaryEmail": "arsinafoundations@gmail.com",
+  "website": "www.arsinafoundation.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Intermediary",
+    "Support"
+  ],
+  "telephone": [
+    "918930970004",
+    "917015917452"
+  ],
+  "mainAddrress": {
+    "state": "Haryana",
+    "address": [
+      "Saifi House, Ward No. 4",
+      "Opp. Anaj Mandi",
+      "Tauru,",
+      "Mewat",
+      "Haryana",
+      "122105"
+    ]
+  },
+  "briefDescription": "Animal Husbandry, Dairying & Fisheries, Aged/Elderly, Agriculture, Art & Culture, Biotechnology, Children, Civic Issues, Differently Abled, Dalit Upliftment, Drinking Water, Education & Literacy, Environment & Forests, Food Processing, Health & Family Welfare, HIV/AIDS, Human Rights, Information & Communication Technology, Legal Awareness & Aid, Micro Finance (SHGs), Minority Issues, Nutrition, Right to Information & Advocacy, Rural Development & Poverty Alleviation, Science & Technology, Sports",
+  "yearOfEstablishment": "2013",
+  "regiseredAddrress": {
+    "state": "Haryana",
+    "address": [
+      "V.P.O, Bhadas, Tehsil Firozpur jhirka",
+      "Distt. Mewat, Haryana",
+      "Mewat",
+      "Haryana",
+      "122108"
+    ]
+  }
+}

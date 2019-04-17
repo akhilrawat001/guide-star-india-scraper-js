@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Mr.Sanjib Kumar Kar",
+      "designation": "",
+      "email": null
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7808",
+  "name": "Social Research & Implementation Institute(SRII)",
+  "primaryEmail": "sriiangul@rediffmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919937795291"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "At Manpur P O Manpur",
+      "Via Bantala",
+      "Anugul",
+      "Angul",
+      "Odisha",
+      "759129"
+    ]
+  }
+}

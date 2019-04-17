@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Sanjeev Singh Chauhan",
+      "designation": "",
+      "email": null
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9554",
+  "name": "TULSI SHIKSHA SAMITI, DHOLPUR",
+  "primaryEmail": "tulsingodholpur@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "915642220422",
+    "915642220422"
+  ],
+  "mainAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "Ashok Bihar Colony Near Gurudwra Dholpur",
+      "Dholpur",
+      "Rajasthan",
+      "328001"
+    ]
+  },
+  "briefDescription": "Tulsi Shiksha Samiti is located in Dholpur, Rajasthan.",
+  "yearOfEstablishment": "1991"
+}

@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "Manoj Kumar",
+      "designation": "CEO",
+      "email": "foundation_janvikas@outlook.in"
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9610",
+  "name": "PRAKALPGRAST KALYANKARI SAMITI, GONDIA",
+  "primaryEmail": "foundation_janvikas@outlook.in",
+  "organisationType": [
+    "Direct Service",
+    "Network"
+  ],
+  "telephone": [
+    "917745008009"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Near Yashoda Hall, KMJ Hospital Road,Shastri Ward,",
+      "Gondia",
+      "Maharashtra",
+      "441601"
+    ]
+  }
+}

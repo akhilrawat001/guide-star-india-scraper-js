@@ -1,0 +1,42 @@
+{
+  "contacts": [
+    {
+      "name": "Dattatray Marotrao Dhawale",
+      "designation": "",
+      "email": null
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7895",
+  "name": "Chhatrapati Shivaji Maharaj Sevabhavi Sanstha",
+  "primaryEmail": "chhatrapatif1788@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "+919822610353"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Killa Main Road",
+      "A/P Shahagad",
+      "Tq. Ambad Dist. Jalna. 431212",
+      "Jalna",
+      "Maharashtra",
+      "431212"
+    ]
+  },
+  "briefDescription": "Education Worker, Helth Worker, Social Worker, Techer & Others",
+  "yearOfEstablishment": "1997",
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Killa Main Road",
+      "A/P Shahagad",
+      "Tq. Ambad",
+      "Jalna",
+      "Maharashtra",
+      "431212"
+    ]
+  }
+}

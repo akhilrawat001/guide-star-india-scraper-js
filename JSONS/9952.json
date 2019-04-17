@@ -1,0 +1,42 @@
+{
+  "contacts": [
+    {
+      "name": "Sharad Sundriyal",
+      "designation": "CEO",
+      "email": "sharadsundriyal2010@gmail.com"
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9952",
+  "name": "DEV RISHI EDUCATIONAL SOCIETY",
+  "primaryEmail": "sharadsundriyal2010@gmail.com",
+  "website": "www.dresdindia.in",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919412058735"
+  ],
+  "mainAddrress": {
+    "state": "Uttarakhand",
+    "address": [
+      "32/22 Circular Road,",
+      "Dalanwala",
+      "Dehradun",
+      "Uttarakhand",
+      "248001"
+    ]
+  },
+  "briefDescription": "We envision a future where education, skills, economic stability, health, wealth and respect are not derived by birth-locations but are a birth right accessible to all Indians...without any discrimination of caste, creed, culture, community, rural-urban or statehood bias.",
+  "yearOfEstablishment": "1999",
+  "regiseredAddrress": {
+    "state": "Uttarakhand",
+    "address": [
+      "32/22 Circular Road,",
+      "Dalanwala,",
+      "Dehradun",
+      "Uttarakhand",
+      "248001"
+    ]
+  }
+}

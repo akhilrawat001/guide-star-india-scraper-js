@@ -1,0 +1,44 @@
+{
+  "contacts": [
+    {
+      "name": "Dr Vijay Gupta",
+      "designation": "",
+      "email": null
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9363",
+  "name": "Centre for Integrated Development",
+  "primaryEmail": "cidgwl@gmail.com",
+  "website": "www.cidindia.org",
+  "organisationType": [
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "917512433343",
+    "917512433343"
+  ],
+  "mainAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "101, Shivalik Apartment, Mlb Colony, Padav ,Gwalior",
+      "Opposite Miss Hill School",
+      "Lashkar",
+      "Gwalior",
+      "Madhya Pradesh",
+      "474002"
+    ]
+  },
+  "briefDescription": "Centre for Integrated Development is located in Gwalior, Madhya Pradesh.",
+  "yearOfEstablishment": "1992",
+  "regiseredAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "Shivalik Apartment, Opp. Miss Hill School,",
+      "Maharani Laxmi Bai Colony, Near Padav,",
+      "Gwalior",
+      "Madhya Pradesh",
+      "474002"
+    ]
+  }
+}

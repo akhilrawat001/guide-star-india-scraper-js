@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Ashok Kumar Singh",
+      "designation": "",
+      "email": null
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9423",
+  "name": "YUG YUGANTAR MANAV KALYAN SAMITI",
+  "primaryEmail": "yymks2001@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919826671864"
+  ],
+  "mainAddrress": {
+    "state": "Chhattisgarh",
+    "address": [
+      "Sector-3, Shivanand Nagar, Khamtarai, Raipur,",
+      "Raipur",
+      "Chhattisgarh",
+      "492001"
+    ]
+  },
+  "briefDescription": "Yug Yugantar Manav Kalyan Samiti is located in Raipur, Chhattisgarh.",
+  "yearOfEstablishment": "2001"
+}

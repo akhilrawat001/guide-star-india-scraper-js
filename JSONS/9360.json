@@ -1,0 +1,35 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9360",
+  "name": "SAHYOG FOUNDATION aka SAHAYOG FOUNDATION",
+  "primaryEmail": "yogianish@gmail.com",
+  "website": "www.sahyogimpact.org",
+  "organisationType": [
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919845793490"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "A-3, Kamala Mansion, 10, Connaught Road,",
+      "Queen's Road Cross, near Kamala Bai School,",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560001"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "3305, 10th Main, 4th Block, Jayanagar,",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560011"
+    ]
+  }
+}

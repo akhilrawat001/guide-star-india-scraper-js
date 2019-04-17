@@ -1,0 +1,42 @@
+{
+  "contacts": [
+    {
+      "name": "Sumitra Sharma",
+      "designation": "Programme Coordinator",
+      "email": "sumitrasharma.papnsirmour@gmail.com",
+      "mobile": [
+        "91-9816925128"
+      ]
+    },
+    {
+      "mobile": [
+        "91-8264295018"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9533",
+  "name": "PEOPLE'S ACTION FOR PEOPLE IN NEED",
+  "primaryEmail": "papnhp@gmail.com",
+  "website": "www.papn.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919816980644",
+    "919816925128"
+  ],
+  "mainAddrress": {
+    "state": "Himachal Pradesh",
+    "address": [
+      "PAPN Andheri, Tehsil Sangrah, District Sirmour",
+      "Sangrah",
+      "Sirmaur",
+      "Himachal Pradesh",
+      "173023"
+    ]
+  },
+  "briefDescription": "People’s Action for People in Need is a non-profit rural based Voluntary Organisation. It was established in the year 1982 by a group of young professionals from different walks of life. PAPN is the outcome of the idea to undertake and organise rural development, education, awareness and organisational programmes for socio-economic upliftment of the marginalised, deprived and oppressed sections of the rural and hilly communities with focus on promoting and ensuring the Women and Child Rights. PAPN with initial financial support from Social Work & Research Centre (SWRC) Tilonia, Rajasthan - now known as the Barefoot College - started the interventions at the grass root level by adopting Sirmour District in 1985",
+  "yearOfEstablishment": "1983"
+}

@@ -1,0 +1,37 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9987",
+  "name": "SAINATH EDUCATIONAL SOCIETY ANGASAR",
+  "primaryEmail": "sainatheducationalsociety@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "911592250123",
+    "918955541110"
+  ],
+  "mainAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "S-20 Riico Jhunjhunu",
+      "Jhunjhunun",
+      "Jhunjhunu",
+      "Rajasthan",
+      "333001"
+    ]
+  },
+  "briefDescription": "Currently working in the area of Skill Development for the un-employed youth of India.",
+  "yearOfEstablishment": "2017",
+  "regiseredAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "Vill-Angasar Post- Abusar",
+      "Teh-Jhunjhunu",
+      "Jhunjhunu",
+      "Rajasthan",
+      "333001"
+    ]
+  }
+}

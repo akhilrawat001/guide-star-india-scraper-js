@@ -1,0 +1,24 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9175",
+  "name": "Orissa Institute for Social Development (OISD)",
+  "primaryEmail": "President.oisd@gmail.com",
+  "website": "www.oisdindia.org",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "912267552423",
+    "919439021160"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "Pragativihar  Tirimal  Jatni, Bisiapada,(Near IIT Bhubaneswar)",
+      "Bhubaneswar",
+      "Khordha",
+      "Odisha",
+      "752050"
+    ]
+  }
+}

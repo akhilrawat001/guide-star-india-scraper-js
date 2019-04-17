@@ -1,0 +1,37 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9223",
+  "name": "Indus Core Education Foundation",
+  "primaryEmail": "induscoreeducation@gmail.com",
+  "website": "http://www.induseducationfoundation.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service"
+  ],
+  "telephone": [
+    "919850836972"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "G-7, Karan Greens,",
+      "Mumbai-Bangalore Highway, Warje",
+      "PUNE",
+      "Pune",
+      "Maharashtra",
+      "411052"
+    ]
+  },
+  "briefDescription": "Indus Core Education Foundation is a non profit organization that helps India’s educational and professional wealth to address their challenges by providing them with access to technology, investors, mentorship, government agencies, local partners and business development support.",
+  "yearOfEstablishment": "2016",
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "G-7, Karan Greens, SNO 106/107",
+      "Mumbai-Bangalore Highway, Warje",
+      "Pune",
+      "Maharashtra",
+      "411052"
+    ]
+  }
+}

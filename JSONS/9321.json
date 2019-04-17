@@ -1,0 +1,33 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9321",
+  "name": "NAYI RAHEIN",
+  "primaryEmail": "NAYIRAHEIN2014@GMAIL.COM",
+  "website": "WWW.NAYIRAHEIN.COM",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919210000722"
+  ],
+  "mainAddrress": {
+    "state": "Haryana",
+    "address": [
+      "Shop.2 Jasraj Baisla Market",
+      "Govt. School",
+      "Mewla Maharajpur",
+      "Faridabad",
+      "Haryana",
+      "121010"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "Village Jagtpur",
+      "New Delhi",
+      "Delhi",
+      "110084"
+    ]
+  }
+}

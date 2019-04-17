@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "Sadek Ali",
+      "designation": "",
+      "email": null
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9101",
+  "name": "Durgapur Krishti Foundation",
+  "primaryEmail": "krishtifoundation@gmail.com",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "+919748839296"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Village+Post: Amrai, Madrasa Road ,",
+      "P.S: Durgapur,",
+      "Bardhaman",
+      "West Bengal",
+      "713203"
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "contacts": [
+    {
+      "name": "Vibha Suthar",
+      "designation": "",
+      "email": null
+    },
+    {
+      "name": "MAHESH C. SHARMA",
+      "designation": "SADASYA",
+      "email": "MVICAC@YAHOO.COM"
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9408",
+  "name": "SURYA KIRAN SOCIETY",
+  "primaryEmail": "ICACUDR@GMAIL.COM",
+  "organisationType": [
+    "Direct Service",
+    "Intermediary",
+    "Support"
+  ],
+  "telephone": [
+    "912942582587",
+    "912942582587"
+  ],
+  "mainAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "Parsad Road Chawand, Sarada",
+      "499 C-Block, Sec 9 Udaipur",
+      "Udaipur",
+      "Rajasthan",
+      "313002"
+    ]
+  },
+  "briefDescription": "Surya Kiran Society is located in Udaipur, Rajasthan.Working in the field of education implementation in rural and urban slum and tribal area in Udaipur region",
+  "yearOfEstablishment": "2007"
+}

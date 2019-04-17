@@ -1,0 +1,38 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9764",
+  "name": "NANA NANI FOUNDATION",
+  "primaryEmail": "asha@nanananifoundation.org",
+  "website": "http://www.nanananifoundation.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Intermediary",
+    "Support"
+  ],
+  "telephone": [
+    "919632906902",
+    "912240358585"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "324, A to Z Estate, G. K. Kadam Marg, Lower Parel(W),",
+      "Mumbai",
+      "Maharashtra",
+      "400013"
+    ]
+  },
+  "briefDescription": "Nana Nani Foundation is located in Mumbai, Maharashtra.",
+  "yearOfEstablishment": "2001",
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "73",
+      "Sunita 98, Cuff Parade",
+      "Mumbai",
+      "Maharashtra",
+      "400005"
+    ]
+  }
+}

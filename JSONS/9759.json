@@ -1,0 +1,51 @@
+{
+  "contacts": [
+    {
+      "name": "Jasmine Khattar",
+      "designation": "Executive and Clinical Director",
+      "email": "jasmine@iecmumbai.org"
+    },
+    {
+      "name": "Dr. Trinjhna Khattar",
+      "designation": "Proficiency Head",
+      "email": "trinjhna@iecmumbai.org"
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9759",
+  "name": "Institute for Exceptional Children",
+  "primaryEmail": "iecmumbai79@gmail.com",
+  "website": "www.iecmumbai.org",
+  "organisationType": [
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919920227744",
+    "912229200264",
+    "919930043607"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "2A, Chandra Niwas",
+      "Church Road, Off Andheri Kurla Road, Near Airport Road Metro Station, Andheri East,",
+      "Mumbai",
+      "Mumbai Suburban",
+      "Maharashtra",
+      "400059"
+    ]
+  },
+  "briefDescription": "Established in 1979, Institute for Exceptional Children (IEC) is a non-profit organization providing comprehensive psycho-diagnostic, psycho-educational interventions and psycho-social counselling to children, adolescents, adults and their caregivers, who need assistance to deal with emotional, behavioural, learning and inter-personal difficulties. Our programmes include: 1. Educational Institutions Mental Health Programme (EMH)2. Community Mental Health Programme (CMH)3. Child and Adolescent Counselling [Including Families] (CAC)We cater to more than 5000 people annually",
+  "yearOfEstablishment": "1979",
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "91, Vijay Apartments",
+      "16, M.L Dhanukar Marg",
+      "Mumbai",
+      "Maharashtra",
+      "400026"
+    ]
+  }
+}

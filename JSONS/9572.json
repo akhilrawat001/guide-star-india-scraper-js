@@ -1,0 +1,40 @@
+{
+  "contacts": [
+    {
+      "name": "Tatyana Dias",
+      "designation": "CEO",
+      "email": "tatyana.dias@theveruschkafoundation.org"
+    },
+    {
+      "name": "Bernadine Dias",
+      "designation": "CFO",
+      "email": "bernadine.dias@theveruschkafoundation.org"
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9572",
+  "name": "VERUSCHKA FOUNDATION",
+  "primaryEmail": "info@theveruschkafoundation.org",
+  "website": "http://theveruschkafoundation.org/",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919769074824"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Flat No. 716, A4 WING, Lok Bharati CHS",
+      "Marol Maroshi Road, Marol, Near AFL House/ICICI Bank, Andheri (E)",
+      "Mumbai",
+      "Maharashtra",
+      "400059"
+    ]
+  },
+  "briefDescription": "Our Vision: An inclusive society that accepts, celebrates and empowers individuals with developmental disabilities. Our Mission: We provide sustainable livelihood opportunities for individuals with developmental disabilities and raise awareness by providing a platform to showcase their skills and championing collaborations with fellow change makers.",
+  "yearOfEstablishment": "2017"
+}

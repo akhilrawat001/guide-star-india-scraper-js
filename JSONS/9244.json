@@ -1,0 +1,32 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9244",
+  "name": "BHARAT RATNA DR.B.R.AMBEDKAR SOCIAL WELFARE ORGANISATION",
+  "primaryEmail": "brdrbrambedkarsworg.pdp@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919437742695"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "Qr.No.MB-199, Madhuban, PO.Paradip Port",
+      "Paradip Port.",
+      "Jagatsinghapur",
+      "Odisha",
+      "754142"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Odisha",
+    "address": [
+      "Qr.No.MB-199, Madhuban, PO.Paradip Port",
+      "Paradip Port",
+      "Jagatsinghapur",
+      "Odisha",
+      "754142"
+    ]
+  }
+}

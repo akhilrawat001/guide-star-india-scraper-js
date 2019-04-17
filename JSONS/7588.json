@@ -1,0 +1,36 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7588",
+  "name": "Param Bharat Sewa Samiti",
+  "primaryEmail": "pbssngo2009@gmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919369328367"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "1184/7 Naya Nagar",
+      "Sirwara Road",
+      "Sultanpur",
+      "Uttar Pradesh",
+      "228001"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "58E/6B Ganga Nagar",
+      "Circular Road",
+      "Allahabad",
+      "Uttar Pradesh",
+      "211001"
+    ]
+  }
+}

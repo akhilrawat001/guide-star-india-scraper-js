@@ -1,0 +1,47 @@
+{
+  "contacts": [
+    {
+      "name": "Biju Simon",
+      "designation": "Founder",
+      "email": "etherindiakids@gmail.com"
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10066",
+  "name": "ETHER INDIA CHARITABLE SOCIETY",
+  "primaryEmail": "etherindiakids@gmail.com",
+  "website": "http://www.etherindia.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "918281858400",
+    "919895883934",
+    "919656500470"
+  ],
+  "mainAddrress": {
+    "state": "Kerala",
+    "address": [
+      "Anvra 127",
+      "Vittiyam, Peyad",
+      "Trivandrum",
+      "Thiruvananthapuram",
+      "Kerala",
+      "695575"
+    ]
+  },
+  "briefDescription": "Ether India believes that education should facilitate children to identify their capabilities, skills and set up their goals. Hence we focus on 3 Es: Education, Empowerment and Engagement. In the beginning we provide our support to 10 orphanages in Trivandrum. Ether India has conducted a study on the language proficiency among children in orphanages. We filled the questionnaire by 150 students and found that more than 90% of the children need support to learn, understand and speak English. And majority of them like to learn through different methods like games, acting, role plays, interactive etc.",
+  "yearOfEstablishment": "2018",
+  "regiseredAddrress": {
+    "state": "Kerala",
+    "address": [
+      "17/117, Koovakudi",
+      "Vellanad",
+      "Trivandrum",
+      "Thiruvananthapuram",
+      "Kerala",
+      "695543"
+    ]
+  }
+}

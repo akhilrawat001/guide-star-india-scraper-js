@@ -1,0 +1,48 @@
+{
+  "contacts": [
+    {
+      "name": "Gowtham Uyalla",
+      "designation": "Communication and Resource Mobilization Officer",
+      "email": "crmo@covanetwork.org",
+      "mobile": [
+        "91-9989222959"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9909",
+  "name": "Confederation of Voluntary Associations (COVA)",
+  "primaryEmail": "crmo@covanetwork.org",
+  "website": "www.covanetwork.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919394544244",
+    "919989222959"
+  ],
+  "mainAddrress": {
+    "state": "Telangana",
+    "address": [
+      "Door no: 18-13-8/A/508/B",
+      "Bandlaguda, Chandrayangutta",
+      "Hyderabad",
+      "Telangana",
+      "500005"
+    ]
+  },
+  "briefDescription": "COVA (Confederation of Voluntary Associations), is a national network of voluntary organisations working for communal harmony and community empowerment in India and peace in South Asia and South East Asia through formation of COFI (Countering Online Fanatic Indoctrination) Networks in 12 countries of the region. COVA is also engaged with multilateral bodies like the United Nations Organisation, G20, BRICS, OIC and others for structural transformations of the world order to make society  more equitable, sustainable, just and peaceful.",
+  "yearOfEstablishment": "1995",
+  "regiseredAddrress": {
+    "state": "Telangana",
+    "address": [
+      "D.No. 20.4-10, Near Bus Stand",
+      "Hyderabad",
+      "Telangana",
+      "500002"
+    ]
+  }
+}

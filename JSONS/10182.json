@@ -1,0 +1,35 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10182",
+  "name": "INSTITUTE OF PUBLIC HEALTH",
+  "primaryEmail": "mail@iphindia.org",
+  "website": "http://iphindia.org",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "918026421929"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "Institute of Public Health",
+      "250, 2nd C Main Road 2nd C Cross Girinagar 1St Phase",
+      "Bengaluru",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560085"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "No. 138, 4th Cross, J.P. Nagar, 3rd Phase,",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560078"
+    ]
+  }
+}

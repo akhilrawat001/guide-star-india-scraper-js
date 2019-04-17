@@ -1,0 +1,34 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9849",
+  "name": "Chitrotpala Bahuudheshiya Sewa Sansthan",
+  "primaryEmail": "CHITROTPALA14@GMAIL.COM",
+  "website": "http://www.chitrotpala.org/",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919098661999",
+    "919111999243"
+  ],
+  "mainAddrress": {
+    "state": "Chhattisgarh",
+    "address": [
+      "Street No.3 Ganga Vihar Amlidihi Roade",
+      "In Saide of Maa Sharda Provision Store Amlidihi",
+      "Raipur",
+      "Chhattisgarh",
+      "492001"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Chhattisgarh",
+    "address": [
+      "Near Jagriti Chowk Bagdehipara Nayapara Tah.- Abhanpur,",
+      "Nayapara",
+      "Raipur",
+      "Chhattisgarh",
+      "493881"
+    ]
+  }
+}

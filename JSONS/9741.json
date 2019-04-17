@@ -1,0 +1,41 @@
+{
+  "contacts": [
+    {
+      "name": "Archana Nayar",
+      "designation": "Director"
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9741",
+  "name": "THE SPECIAL CHILD TRUST",
+  "primaryEmail": "ace@ace-india.org",
+  "website": "http://www.specialchildtrust.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making"
+  ],
+  "telephone": [
+    "919704406373"
+  ],
+  "mainAddrress": {
+    "state": "Haryana",
+    "address": [
+      "Autism Center for Excellence, The Heritage School, Gate No. 4",
+      "Sector 62",
+      "Gurugram",
+      "Haryana",
+      "122005"
+    ]
+  },
+  "briefDescription": "The Special Child Trust is a non-profit organisation which has been set up as a national platform to raise awareness and funds for children with special needs.The Autism Centre of Excellence (ACE) is an initiative of The Special Child Trust to transform the autism education landscape in India by building a not-for-profit center for high quality research based education that trains teachers and educates children. It's goal is to create a world class facility for individuals with special needs of all functionalities focusing on Autism and other developmental delays, providing a holistic education based on sound scientific principles and preparing them for maximum independence in the social environment",
+  "yearOfEstablishment": "2008",
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "R-205, Greater Kailash, Part-I",
+      "New Delhi",
+      "Delhi",
+      "110048"
+    ]
+  }
+}

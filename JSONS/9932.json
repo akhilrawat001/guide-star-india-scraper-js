@@ -1,0 +1,32 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9932",
+  "name": "Dakshin Nahit Welfare Society",
+  "primaryEmail": "welfaresociety40@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919647415238"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "VILL; Dakshin Nahit P.O. Nahit, P.S. Kushmandi, Dakshin Dinajpur,",
+      "Vill- Dakshin Nahit",
+      "South Dinajpur",
+      "West Bengal",
+      "733132"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Vill; Dakshin Nahit P.O. Nahit, P.S. Kushmandi Dakshin Dinajpur, West Bengal",
+      "Vill- Dakshin Nahit",
+      "South Dinajpur",
+      "West Bengal",
+      "733132"
+    ]
+  }
+}

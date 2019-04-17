@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "Dharam Veer",
+      "designation": "Secretary"
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9526",
+  "name": "DHARAMVEER GRAMODHYOG SAMITI",
+  "primaryEmail": "dgs.mainpuri@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919837275872"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "81, M. Aggarwal Karhal Road,",
+      "Mainpuri",
+      "Uttar Pradesh",
+      "205001"
+    ]
+  },
+  "briefDescription": "Dharamveer Gramudhyog Samiti is located in Mainpuri, Uttar Pradesh.",
+  "yearOfEstablishment": "1986"
+}

@@ -1,0 +1,36 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9904",
+  "name": "Shri Hari Narayan Seva Sansthan",
+  "primaryEmail": "matapitasevacentre@gmail.com",
+  "website": "http://www.narayanseva.info/",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918149531785"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "6 Shraddha Tower, Gokul Village,",
+      "Shanti Park, Mira Road (E),",
+      "Thane",
+      "Maharashtra",
+      "401107"
+    ]
+  },
+  "briefDescription": "It is a NGO established in the year 2012 by renowned Yogacharya Shree Bharatbhushan ( Bhartendu Ji ). It is a trust working toward the betterment of the people through Yoga & Meditation . organization is currently operating from their office at Mumbai.",
+  "yearOfEstablishment": "2012",
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "5, Azad Nager CHS, Wadar Pada,",
+      "Akurli road,",
+      "Kandivali (E) Mumbai",
+      "Mumbai",
+      "Maharashtra",
+      "400101"
+    ]
+  }
+}

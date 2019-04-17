@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Mr. Saktidhar Sahoo",
+      "designation": "",
+      "email": null
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6796",
+  "name": "MY - HEART",
+  "primaryEmail": "myheartbbsr@hotmail.com",
+  "website": "www.myheart.org.in",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "916742340433",
+    "916742340433"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "Plot no 2155/2367,Samantarapur,Near check gate",
+      "Old town",
+      "Bhubaneswar",
+      "Khordha",
+      "Odisha",
+      "751002"
+    ]
+  }
+}

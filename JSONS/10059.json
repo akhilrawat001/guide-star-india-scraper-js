@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Aayush Agarwal",
+      "designation": "Prasident",
+      "email": "aayushaggarwal.er@gmail.com"
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10059",
+  "name": "EKAKSHA",
+  "primaryEmail": "ekaksha2014@gmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "918901335223"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "G-20 Uttam Nagar, Delhi",
+      "Delhi",
+      "West Delhi",
+      "110059"
+    ]
+  }
+}

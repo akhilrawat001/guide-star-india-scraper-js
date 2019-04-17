@@ -1,0 +1,34 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7892",
+  "name": "KALPATARU BAHUDDESHIYA SHAIKSHANIK SANSTHA KINHOLA",
+  "primaryEmail": "kalpatarubssk@gmail.com",
+  "website": "www.kalptarukinhola.org",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "917385723183"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Kinhola",
+      "Tq: Chikhali",
+      "Buldhana",
+      "Maharashtra",
+      "443201"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "House No. 464, Kinhola",
+      "Tq: Chikhali",
+      "Buldhana",
+      "Maharashtra",
+      "443201"
+    ]
+  }
+}

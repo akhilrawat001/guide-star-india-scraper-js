@@ -1,0 +1,33 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9615",
+  "name": "Apexa Foundation (Trust)",
+  "primaryEmail": "apexafoundation@gmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service"
+  ],
+  "telephone": [
+    "919452231965"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "8, Jawahar Nagar, Mehnagar, Azamgarh",
+      "Mehnagar",
+      "Azamgarh",
+      "Uttar Pradesh",
+      "276204"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "8, Jawahar Nagar, Mehnagar,",
+      "Mehnagar",
+      "Azamgarh",
+      "Uttar Pradesh",
+      "276204"
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Soumya Ranjan Das",
+      "designation": "Founder | President",
+      "email": "odishastartupclub@outlook.com"
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9928",
+  "name": "ODISHA STARTUP CLUB",
+  "primaryEmail": "odishastartupclub@outlook.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919439585061"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "Plot No.- 2309/802, near Jayadev Vihar",
+      "Bhubaneswar",
+      "Khordha",
+      "Odisha",
+      "751013"
+    ]
+  },
+  "briefDescription": "Founded in the year 2015, Odisha Startup Club (OSC) is a non-profit organisation working passionately for the development of start-up ecosystem in Odisha, India. Serving as a community for budding entrepreneurs, the club provides a common platform for like-minded start-up professionals to interact, discuss and learn from the experiences of the established entrepreneurs. Having the vision, “We support your idea of making a job than running after one”, OSC facilitates right exposure to the aspiring as well as early stage start-ups without any intimidation.",
+  "yearOfEstablishment": "2015"
+}

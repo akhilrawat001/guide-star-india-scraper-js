@@ -1,0 +1,37 @@
+{
+  "contacts": [
+    {
+      "name": "Sajju",
+      "designation": "Co Founder",
+      "email": "info@rereeti.org",
+      "mobile": [
+        "91-9342060461"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7319",
+  "name": "Rereeti Foundation for Museums Galleries and Heritage Sites",
+  "primaryEmail": "tejshvi@rereeti.org",
+  "website": "www.rereeti.org",
+  "organisationType": [
+    "Direct Service",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919342060461"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "No 5/1,Rich homes, 6th floor, Richmond road,Bangalore - 560025",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560025"
+    ]
+  },
+  "briefDescription": "We spread awareness about cultural heritage through audience development initiatives and capacity building programmes for museums, galleries and heritage sites in India. We create modules and experiences for different audience types especially students to enhance their critical thinking skills and creative skills using the underutilized resource- museums and heritage sites.",
+  "yearOfEstablishment": "2015"
+}

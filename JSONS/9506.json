@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "K. Ratna",
+      "designation": "Secretary",
+      "email": "drkvraoss@gmail.com"
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9506",
+  "name": "DR. K. V. RAO SCIENTIFIC SOCIETY (DR. KOLLURI VENKATESWARA RAO)",
+  "primaryEmail": "drkvraoss@gmail.com",
+  "website": "http://www.kvrss.org",
+  "organisationType": [
+    "Direct Service",
+    "Intermediary"
+  ],
+  "telephone": [
+    "919959444933"
+  ],
+  "mainAddrress": {
+    "state": "Telangana",
+    "address": [
+      "84, Siddartha Nagar, Vengal Rao Nagar P.O.",
+      "Hyderabad",
+      "Rangareddy",
+      "Telangana",
+      "500038"
+    ]
+  },
+  "briefDescription": "Dr.K.V.Rao Scientific Society (KVRSS) is established in 2001 with a view to popularise science and promote scientific temper and thereby encourage school students and young scientists in their pursuit of scientific activities. The activities of the Society are coordinated by a committee comprising of colleagues of Dr.K.V. Rao and eminent scientists from various reputed scientific institutions.The Society conducts various science related events for school children and research scholars and presents them with awards and scholarships.Presently it is also in the process of developing labs and scientific communication through newsletters in order to widen its reach. Thousands of students benefit from the activities of the Society each year.-",
+  "yearOfEstablishment": "2001"
+}

@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Rajender Shrigadi",
+      "designation": "",
+      "email": null
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7905",
+  "name": "Shrigadi Foundation",
+  "primaryEmail": "shrigadifoundation@yahoo.com",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "912228592241",
+    "912228592241"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "A/2, Tilak Housing Society,",
+      "Tilak Nagar,Sakinaka,",
+      "Mumbai",
+      "Maharashtra",
+      "400072"
+    ]
+  }
+}

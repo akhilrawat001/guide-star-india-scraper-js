@@ -1,0 +1,48 @@
+{
+  "contacts": [
+    {
+      "name": "Deeptanshu Pandey",
+      "designation": "Head of Marketing and Communication",
+      "email": "deep@happyhorizons.org",
+      "mobile": [
+        "91-9535206828"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9848",
+  "name": "Happy Horizons Trust",
+  "primaryEmail": "info@happyhorizons.org",
+  "website": "http://happyhorizons.org/",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "918374012411",
+    "919535206828"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "No G 154, 1st Floor",
+      "Kalkaji",
+      "Delhi",
+      "South Delhi",
+      "110019"
+    ]
+  },
+  "briefDescription": "Happy Horizons Trust is a Non-Profit organization, registered under the Indian Trust Act, 1882. It runs multiple projects in the states of Bihar presently. We use methods based in participatory learning, storytelling, learning by doing, critical reasoning, community engagement, peer learning, videos and technology, reading and writing activities also community based learning’s to create solutions that emphasize on education as a tool for development of societies and the individual.  The trust was established in March 2013 and has conducted over 200 sessions in different schools and its various programs outreach over 5000 students. It has also done a project with Children Film Society, Mumbai where it screened films in 6 districts of Bihar,",
+  "yearOfEstablishment": "2013",
+  "regiseredAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "No 305 Vasavi Pearl Apts",
+      "Celebrity Classic Layout,Doddathoguru Village",
+      "Electronic City, Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560100"
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Ram Saroop",
+      "designation": "",
+      "email": null
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9587",
+  "name": "SHRI GAUSHALA SHALA DERI DATA",
+  "primaryEmail": "kkjain1972@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918199993850"
+  ],
+  "mainAddrress": {
+    "state": "Haryana",
+    "address": [
+      "Vill & P.O Data, Teh Hansi",
+      "Hisar",
+      "Haryana",
+      "125033"
+    ]
+  },
+  "briefDescription": "Shri Gaushala Shala Deri Data is located in Hisar, Haryana.",
+  "yearOfEstablishment": "1999"
+}

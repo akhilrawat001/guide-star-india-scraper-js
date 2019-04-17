@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "G.Mohan",
+      "designation": "",
+      "email": null
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9202",
+  "name": "SHARON SOCIETY OF PONDICHERRY",
+  "primaryEmail": "sharonmohan.org@gmail.com",
+  "website": "www.sharonsociety.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919843483718"
+  ],
+  "mainAddrress": {
+    "state": "Puducherry",
+    "address": [
+      "No 41, 3 rd Cross, Kurinji Nagar, Laws pet, Puducherry",
+      "Lawspet,",
+      "Puducherry",
+      "605008"
+    ]
+  },
+  "briefDescription": "Society of working for the welfare and development of old aged people, Special children / adults, women & adolescent girls/ youth, and People living with HIV/AIDS. apart from welfare progrms we are also running environment / health related awareness programmessince 14, years we served around 2000 people through our various projects / programmes",
+  "yearOfEstablishment": "2002"
+}

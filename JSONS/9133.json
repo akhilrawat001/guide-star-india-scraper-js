@@ -1,0 +1,46 @@
+{
+  "contacts": [
+    {
+      "name": "Dr. Kusum Kumari",
+      "designation": "Treasurer",
+      "email": "cashchugh@gmail.com",
+      "mobile": [
+        "91-9810032137"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9133",
+  "name": "CARE HAIR CHARITABLE FOUNDATION",
+  "primaryEmail": "share@carehairindia.org",
+  "website": "www.carehairindia.org",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "919310032137",
+    "919810032137"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "F-18, Street No. 31",
+      "Mahendra Park, Adarsh Nagar",
+      "New Delhi",
+      "Central Delhi",
+      "Delhi",
+      "110033"
+    ]
+  },
+  "briefDescription": "Care Hair Charitable Foundation is a non-profit, non-racial,non-political and non-religious organization based in New Delhi, dedicated toawareness of hygienic & healthy hair, delivering free haircut, hair care,and providing hair prevention & control, among the underprivileged, poor,physically handicapped, down syndrome, indigent children andelderly population of India.  Care HairIndia also endeavors to expertise people of the community focusing mainly poor, underprivileged, and  physically handicapped girls/women, bydeveloping their hand-on skills through special training programs on Beauty andMake-up courses. This provide them an opportunity to build their career in thisfield.",
+  "yearOfEstablishment": "2012",
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "A-285, New Ranjit Nagar",
+      "New Delhi",
+      "Central Delhi",
+      "Delhi",
+      "110008"
+    ]
+  }
+}

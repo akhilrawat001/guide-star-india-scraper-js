@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Nirmal Kumar Singh",
+      "designation": "",
+      "email": null
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9403",
+  "name": "VEER KUNWAR SINGH FOUNDATION",
+  "primaryEmail": "veerkunwarsinghfoundation@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "916183222045",
+    "916183222045"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "Jss Campous, Musafirganj Station Road,",
+      "Buxar",
+      "Bihar",
+      "802103"
+    ]
+  },
+  "yearOfEstablishment": "2006"
+}

@@ -1,0 +1,33 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9784",
+  "name": "MUMMY FOUNDATION CHARITABLE TRUST",
+  "primaryEmail": "naidu7@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919632778787"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "A 5 Aarohi Royale Bglw., Nr Sobo Center, Ahmedabad,",
+      "Ahmedabad",
+      "Gujarat",
+      "380058"
+    ]
+  },
+  "briefDescription": "Mummy Foundation Charitable Trust is located in Bangalore, Karnataka.",
+  "yearOfEstablishment": "2013",
+  "regiseredAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "No. 34, Rani Enclave, 4th Main, Munireddy Layout, Church Street, Hormavu,",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560043"
+    ]
+  }
+}

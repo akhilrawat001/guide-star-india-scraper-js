@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "name": "Nisar Ahmad",
+      "designation": "Executive Director",
+      "email": "nisar@envisions.co.in"
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9920",
+  "name": "ENVISIONS INSTITUTE OF DEVELOPMENT",
+  "primaryEmail": "nisar@envisions.co.in",
+  "website": "www.envisions.co.in",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "911204162663"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "A42, GF, Sector 53",
+      "NOIDA",
+      "Gautam Buddha Nagar",
+      "Uttar Pradesh",
+      "201307"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "B1/46, FF,",
+      "New Ashok Nagar",
+      "Delhi",
+      "North East Delhi",
+      "110096"
+    ]
+  }
+}

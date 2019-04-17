@@ -1,0 +1,37 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9492",
+  "name": "INSTITUTE OF TAI STUDIES AND RESEARCH",
+  "primaryEmail": "girinphukon@rediffmail.com",
+  "organisationType": [
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "918638662356",
+    "919435132505"
+  ],
+  "mainAddrress": {
+    "state": "Assam",
+    "address": [
+      "Institute of Tai Studies and Research",
+      "Moran Town, Ward No. 6",
+      "Moranhat",
+      "Sivasagar",
+      "Assam",
+      "785670"
+    ]
+  },
+  "briefDescription": "Institute Of Tai Studies And Research is located in Sivasagar, Assam.",
+  "yearOfEstablishment": "1997",
+  "regiseredAddrress": {
+    "state": "Assam",
+    "address": [
+      "P.O.Moranhat, Ushapur, Moran Town",
+      "Moranhat",
+      "Sivasagar",
+      "Assam",
+      "785670"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9834",
+  "name": "HELP A CHILD OF INDIA",
+  "primaryEmail": "helpachildofindia@gmail.com",
+  "website": "www.helpachildofindia.org",
+  "organisationType": [
+    "Direct Service",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919941319966",
+    "914442645074"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "No.67, NewNo,16,  First Street",
+      "AC Block, Anna Nagar",
+      "Chennai",
+      "Tamil Nadu",
+      "600040"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "No.67,New No.16, First Street",
+      "AC Block, Anna Nagar",
+      "Chennai",
+      "Tamil Nadu",
+      "600040"
+    ]
+  }
+}

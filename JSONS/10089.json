@@ -1,0 +1,32 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10089",
+  "name": "DR A.P.J ABDUL KALAM EDUCATIONAL SOCIETY",
+  "primaryEmail": "salakh.78@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919413718166"
+  ],
+  "mainAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "Konra",
+      "Chohatan Barmer",
+      "Barmer",
+      "Rajasthan",
+      "344702"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "Konara",
+      "Chohatan Barmer",
+      "Barmer",
+      "Rajasthan",
+      "344702"
+    ]
+  }
+}

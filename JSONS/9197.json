@@ -1,0 +1,41 @@
+{
+  "contacts": [
+    {
+      "name": "Natasha Zarine",
+      "designation": "",
+      "email": null
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9197",
+  "name": "THE CENTER FOR APPLIED RESEARCH AND PEOPLE ENGAGEMENT",
+  "primaryEmail": "info@civicresponseteam.com",
+  "website": "www.civicresponseteam.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918007447750"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "B-14,",
+      "MIDC, Railway Station",
+      "Aurangabad",
+      "Maharashtra",
+      "431005"
+    ]
+  },
+  "yearOfEstablishment": "2015",
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Plot no. 02, Gut no. 46,",
+      "Near Zunzunwala Ploting,",
+      "Itkheda,",
+      "Aurangabad",
+      "Maharashtra",
+      "431001"
+    ]
+  }
+}

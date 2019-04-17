@@ -1,0 +1,48 @@
+{
+  "contacts": [
+    {
+      "name": "Joseph Meagher",
+      "designation": "President"
+    },
+    {
+      "name": "Mohit Kumar",
+      "designation": "Director",
+      "email": "info@elimfoundation.org"
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9342",
+  "name": "ENRICHING LIVES INSPIRING MINDS FOUNDATION",
+  "primaryEmail": "info@elimfoundation.org",
+  "website": "http://elimfoundation.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "918002096655"
+  ],
+  "mainAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "489/4, Nand Bhawan, Professor's Colony,",
+      "St. Columbas School Lane",
+      "Deoghar",
+      "Jharkhand",
+      "814113"
+    ]
+  },
+  "briefDescription": "​Enriching Lives Inspiring Minds FoundationA Registered Charity Under Section 8 of the Companies Act 2013 | CIN:U85320JH2017NPL009845 | PAN:AAECE6046R | Section 8 License Number : License No 109059 | NITI Aayog, Government of India Unique ID : JH/2017/0150341 | GuideStar # 9342 | International Bridge # 1178527404",
+  "yearOfEstablishment": "2017",
+  "regiseredAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "Village Dubaidhi, PO Kalajhar",
+      "PS Katikund",
+      "Dumka",
+      "Jharkhand",
+      "814103",
+      "CERTIFICATE OF INCORPORATION (2).PDF"
+    ]
+  }
+}

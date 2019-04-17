@@ -1,0 +1,32 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9961",
+  "name": "CREATIVITI COUNCIL",
+  "primaryEmail": "Creativiticouncil@gmail.com",
+  "website": "htpp://creativiticouncil.business.site",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919496373946"
+  ],
+  "mainAddrress": {
+    "state": "Kerala",
+    "address": [
+      "Creativity council",
+      "Kariyattukara",
+      "Thrissur",
+      "Kerala",
+      "680611"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Kerala",
+    "address": [
+      "Inchamudikaran House, A 1, Bhavani Residency, Adiyat Lane, Poothoole",
+      "Thrissur",
+      "Kerala",
+      "680004"
+    ]
+  }
+}

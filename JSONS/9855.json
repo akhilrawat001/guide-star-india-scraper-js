@@ -1,0 +1,43 @@
+{
+  "contacts": [
+    {
+      "name": "Avijit Michael",
+      "designation": "Executive Director",
+      "email": "avijit@jhatkaa.org"
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9855",
+  "name": "JHATKAA.ORG",
+  "primaryEmail": "INFO@JHATKAA.ORG",
+  "website": "http://www.jhatkaa.org/",
+  "organisationType": [
+    "Advocacy & Campaigning"
+  ],
+  "telephone": [
+    "918040921211"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "#811, 10th A Main,Suite No.587, 1st Floor",
+      "Indiranagar",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560038"
+    ]
+  },
+  "briefDescription": "Jhatkaa is a campaigning organisation committed to building grassroots citizen power across India in effective and innovative ways. We help people take action collectively on issues that interest or affect them, and create change that would not be possible if they acted alone.",
+  "yearOfEstablishment": "2012",
+  "regiseredAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "26, 2nd cross",
+      "Geddalahalli, L Murthy Layout",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560077"
+    ]
+  }
+}

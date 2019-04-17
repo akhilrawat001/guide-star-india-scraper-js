@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Ms. Pooja Verma",
+      "designation": "",
+      "email": null
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9606",
+  "name": "THE DREAM FOUNDATION",
+  "primaryEmail": "info.thedreamfoundation@yahoo.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919717822067"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "C-738A, First Floor,",
+      "Sangam Vihar",
+      "South Delhi",
+      "Delhi",
+      "110062"
+    ]
+  },
+  "briefDescription": "The Dream Foundation is located in South Delhi, Delhi.",
+  "yearOfEstablishment": "2013"
+}

@@ -1,0 +1,32 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9679",
+  "name": "SOCIAL DEVELOPMENT SOCIETY",
+  "primaryEmail": "sdsngoap@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919440059535"
+  ],
+  "mainAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "R.Balaiah,Social Development Society",
+      "Nagalakuntla(Villege),Porumamilla(Mandal)",
+      "YSR District, Kadapa (Cuddapah)",
+      "Andhra Pradesh",
+      "516193"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "Nagalakuntla Village & Post, Badvel Taluka",
+      "Kadapa Town",
+      "YSR District, Kadapa (Cuddapah)",
+      "Andhra Pradesh",
+      "516001"
+    ]
+  }
+}

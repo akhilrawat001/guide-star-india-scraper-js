@@ -1,0 +1,46 @@
+{
+  "contacts": [
+    {
+      "name": "Abhisek Chakraborty",
+      "designation": "Founder/Chief Executive"
+    },
+    {
+      "name": "Sucharita Mukherjee",
+      "designation": "Manager",
+      "email": "sucharita@whizmantra.com"
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9110",
+  "name": "BUILD A CLASS INITIATIVE",
+  "primaryEmail": "abhishek@whizmantra.com",
+  "website": "http://buildaclassinitiative.org/",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Intermediary"
+  ],
+  "telephone": [
+    "919771481869"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "A 1603, Priyanka Hill Apartments",
+      "Sector 30, Cbd Belapur",
+      "Navi Mumbai",
+      "Thane",
+      "Maharashtra",
+      "400614"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "725 (18/1) Garfa Kalikapur Main Road",
+      "Kolkata",
+      "South 24 Parganas",
+      "West Bengal",
+      "700099"
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Dr D S Srivastava",
+      "designation": "",
+      "email": null
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9399",
+  "name": "NATURE CONSERVATION SOCIETY",
+  "primaryEmail": "drdssrivastava1@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919431138638"
+  ],
+  "mainAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "OLD ITO Road Redma",
+      "Palamau",
+      "Palamu",
+      "Jharkhand",
+      "822101"
+    ]
+  },
+  "yearOfEstablishment": "1979"
+}

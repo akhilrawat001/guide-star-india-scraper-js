@@ -1,0 +1,25 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7184",
+  "name": "Shri Sant Chokhoba Shikshan Prasarak Mandal",
+  "primaryEmail": "sscspmandal@gmail.com",
+  "website": "www.sscspmandal.org.in",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919561470050"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Sale Khadtare Vasti",
+      "Hunnur",
+      "Mangalwedha",
+      "Solapur",
+      "Maharashtra",
+      "413322"
+    ]
+  }
+}

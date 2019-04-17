@@ -1,0 +1,37 @@
+{
+  "contacts": [
+    {
+      "name": "Vikas Kataria",
+      "designation": "Director Resource Mobilisation",
+      "email": "VikasKataria@wateraid.org"
+    },
+    {
+      "name": "Sheeba Anwar",
+      "designation": "Officer-Research and Grant Management",
+      "email": "sheebaanwar@wateraid.org"
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9786",
+  "name": "Jal Seva Charitable Foundation",
+  "primaryEmail": "sheebaanwar@wateraid.org",
+  "website": "http://wateraidindia.in/",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Intermediary"
+  ],
+  "telephone": [
+    "918130436608"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "WaterAid India 2nd floor, New Block RK Khanna Tennis Stadium, DLTA Complex, 1 Africa Avenue,c",
+      "New Delhi",
+      "Delhi",
+      "110029"
+    ]
+  },
+  "briefDescription": "WaterAid India commenced operations in India in 1986 and from April 2016 has been an independent member of the WaterAid International Federation. WaterAid India is registered as Jal Seva Charitable Foundation (JSCF) in the country - a not for profit company under Section 25 of the Companies Act, 1956.  WaterAid India through its teams in four regional offices works in 11 states across India with partners to transform millions of lives every year. Presently, WaterAid India directly intervenes in 24 districts and 4 towns/cities.WaterAid India has demonstrated scalable models of integrated Water Sanitation and Hygiene (WASH) over the past three decades in India. Under the last strategy period (2011-2016), WaterAid India reached 28,42,300 peo",
+  "yearOfEstablishment": "2010"
+}

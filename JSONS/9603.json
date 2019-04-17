@@ -1,0 +1,42 @@
+{
+  "contacts": [
+    {
+      "name": "Mr.Ravindra Varale",
+      "designation": "",
+      "email": null
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9603",
+  "name": "MANTHAN FOUNDATION",
+  "primaryEmail": "manthanfoundation.maha@gmail.com",
+  "website": "HTTP://www.manthanfoundationorg.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "917385772829"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "634, A Ward,",
+      "Opposite Walake Hospital",
+      "Shivaji peth, Kolhapur",
+      "Kolhapur",
+      "Maharashtra",
+      "416013"
+    ]
+  },
+  "briefDescription": "Manthan Foundation is located in Kolhapur, Maharashtra.",
+  "yearOfEstablishment": "2016",
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "634, A Ward",
+      "Opposite Walake Hospital",
+      "Kolhapur",
+      "Maharashtra",
+      "416012"
+    ]
+  }
+}

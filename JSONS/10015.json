@@ -1,0 +1,35 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10015",
+  "name": "SAVE THE NEEDY FOUNDATION",
+  "primaryEmail": "mss94.4u@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "918178275536"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "7/160, Ground Floor",
+      "Trilok Puri",
+      "Delhi",
+      "East Delhi",
+      "110091"
+    ]
+  },
+  "briefDescription": "Save the Needy Foundation is located in East Delhi, Delhi.",
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "7/160, ground floor",
+      "Trilok puri",
+      "delhi",
+      "East Delhi",
+      "Delhi",
+      "110091"
+    ]
+  }
+}

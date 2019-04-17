@@ -1,0 +1,25 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9201",
+  "name": "CHETNA FOUNDATION",
+  "primaryEmail": "chetnafoundationindia@gmail.com",
+  "website": "www.chetnafoundation.org",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "911204129572"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "96,Ashadeep Apartment",
+      "Rajendra Nagar,Sector-5,",
+      "Sahibabad",
+      "Ghaziabad",
+      "Uttar Pradesh",
+      "201005"
+    ]
+  }
+}

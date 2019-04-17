@@ -1,0 +1,29 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7660",
+  "name": "Ayush Education Society",
+  "primaryEmail": "ayusheducationsociety@gmail.com",
+  "website": "www.ayusheducations.org",
+  "organisationType": [
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "915865222044",
+    "919453094303"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "Moh. Thok, Ward No. 3, Station Road, Mishrikh",
+      "In Front of Railway Station",
+      "Mishrikh",
+      "Sitapur",
+      "Uttar Pradesh",
+      "261401"
+    ]
+  },
+  "briefDescription": "Ayush Education Society is Located in Mishrikh, Uttar Pradesh.",
+  "yearOfEstablishment": "2013"
+}

@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Mr. Mallikarjun B Khajuri",
+      "designation": "",
+      "email": null
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7701",
+  "name": "Grameena Vikasa Yuva Kendra",
+  "primaryEmail": "grameenavikas@rediffmail.com",
+  "website": "www.grameenavikas.wix.com/gvyk",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "India",
+    "9740482004"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "Opp RTO Office,",
+      "Ashoka Hotel Complex,",
+      "Gulbarga",
+      "Kalaburagi (Gulbarga)",
+      "Karnataka",
+      "585105"
+    ]
+  }
+}

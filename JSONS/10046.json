@@ -1,0 +1,36 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10046",
+  "name": "JYOTI SAMAJIK SEWA SANSTHA",
+  "primaryEmail": "jsss2002@yahoo.com",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "919911981800"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "K-399/A",
+      "Street No- 6C",
+      "Mahipalpur, New Delhi",
+      "South West Delhi",
+      "Delhi",
+      "110037"
+    ]
+  },
+  "briefDescription": "Jyoti Samajik Sewa Sanstha is located in South West Delhi, Delhi.",
+  "yearOfEstablishment": "2002",
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "K-399/A",
+      "Street No. 6C",
+      "Mahipalpur, New Delhi",
+      "South West Delhi",
+      "Delhi",
+      "110037"
+    ]
+  }
+}

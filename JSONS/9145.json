@@ -1,0 +1,32 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9145",
+  "name": "International Noblework Development and Investigation Association",
+  "primaryEmail": "india.ngo@gmail.com",
+  "website": "www.indiango.org.in",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919438036171"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "At - Nua Sahi, Polasara Road , PO - Buguda,",
+      "Ganjam",
+      "Odisha",
+      "761118"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Odisha",
+    "address": [
+      "At - Badua, PO - Golia, Via - Buguda,",
+      "Ganjam",
+      "Odisha",
+      "761118"
+    ]
+  }
+}

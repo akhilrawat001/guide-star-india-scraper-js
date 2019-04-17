@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Rajendra Chauragade",
+      "designation": "",
+      "email": null
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7826",
+  "name": "DEEPSTAMBHA DHARMADAYEE SANSTHA",
+  "primaryEmail": "deepstambha2010@gmail.com",
+  "website": "www.deepstambha.wix.com/deepstambha",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "917767808661",
+    "917767808662"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "56, Lokhande Nagpur",
+      "Behind Gayatri Mandir",
+      "Nagpur",
+      "Maharashtra",
+      "440022"
+    ]
+  }
+}

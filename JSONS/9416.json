@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Tapi Taku",
+      "designation": "",
+      "email": null
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9416",
+  "name": "NORTH EAST MULTIPURPOSE DEVELOPMENT SOCIETY (NEMDS)",
+  "primaryEmail": "ne.mdevelopmentsociety@gmail.com",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "919402248096"
+  ],
+  "mainAddrress": {
+    "state": "Arunachal Pradesh",
+    "address": [
+      "G Extension Lagun Mini Market, Naharlagun",
+      "Naharlagun",
+      "Papum Pare",
+      "Arunachal Pradesh",
+      "791110"
+    ]
+  },
+  "briefDescription": "North East Multipurpose Development Society is located in Naharlagun,Arunachal Pradesh.",
+  "yearOfEstablishment": "2014"
+}

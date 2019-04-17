@@ -1,0 +1,39 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9618",
+  "name": "DR B R AMBEDKAR SOCIAL WELFARE SOCIETY",
+  "primaryEmail": "dr.b.r.ambedkarswsociety@gmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919005552133",
+    "917007010052"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "Vill Hathaura Bujurg Post Roza",
+      "Old Sitapur Road",
+      "Shahjahanpur",
+      "Uttar Pradesh",
+      "242001"
+    ]
+  },
+  "briefDescription": "Dr B R Ambedkar Social Welfare Society is located in Shahjahanpur, Uttar Pradesh.",
+  "yearOfEstablishment": "2017",
+  "regiseredAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "House No 887 Vill Hathaura Bujurg Post Roza",
+      "Old Sitapur Road",
+      "Shahjahanpur",
+      "Uttar Pradesh",
+      "242001"
+    ]
+  }
+}

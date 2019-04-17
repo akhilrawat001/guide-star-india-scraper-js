@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Archana  Tripathi",
+      "designation": "Secretary"
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9769",
+  "name": "RAMRAJA SARKAR SHIKSHA PRASAR SAMITI",
+  "primaryEmail": "ramrajasarkar00@gmail.com",
+  "website": "www.ramrajasarkar.org.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919406730806"
+  ],
+  "mainAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "1870",
+      "Neer Railway Crossing Ward  No. -5",
+      "Harpalpur",
+      "Chhatarpur",
+      "Madhya Pradesh",
+      "471111"
+    ]
+  },
+  "briefDescription": "Ramraja Sarkar Shiksha Prasar Samiti is located in Chhatarpur, Madhya Pradesh.",
+  "yearOfEstablishment": "2000"
+}

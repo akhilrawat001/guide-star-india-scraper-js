@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Naresh Kumar",
+      "designation": "President",
+      "email": "JIVANSEWASAMITI@GMAIL.COM",
+      "mobile": [
+        "91-9813384545"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9569",
+  "name": "JIVAN SEWA SAMITI",
+  "primaryEmail": "jivansewasamiti@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "911802600001",
+    "919813384545"
+  ],
+  "mainAddrress": {
+    "state": "Haryana",
+    "address": [
+      "Jagdish Nagar",
+      "Near Dalbir Deepo Holder Ward 7",
+      "Panipat",
+      "Haryana",
+      "132103"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Rohit Bagul",
+      "designation": "",
+      "email": null
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9562",
+  "name": "Yashwant Shaikshanik Samajik Bahuuddeshiya Sanstha, Dhule",
+  "primaryEmail": "bagulrohit5@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919405196543",
+    "919823490401"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "53/B, Donde Colony, Vidyanagari Post Office",
+      "Gondur Road, Deopur,",
+      "Dhule",
+      "Maharashtra",
+      "424005"
+    ]
+  },
+  "briefDescription": "Yashwant Shaikshanik Samajik Bahuuddeshiya Sanstha is located in Dhule, Maharashtra.",
+  "yearOfEstablishment": "2015"
+}

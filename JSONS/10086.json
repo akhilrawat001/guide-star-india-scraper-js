@@ -1,0 +1,25 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10086",
+  "name": "NAVODAY GRAMIN SANSTHA",
+  "primaryEmail": "navodaygsk@yahoo.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919923556700",
+    "918275371806"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Shaan Manzil,Old D.ed Collage Building, Jawhar, Tal. Jawhar",
+      "Jawhar",
+      "Palghar",
+      "Maharashtra",
+      "401603"
+    ]
+  },
+  "briefDescription": "Navoday Gramin Sanstha is located in Palghar, Maharashtra.",
+  "yearOfEstablishment": "2003"
+}

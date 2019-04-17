@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Suresh Ch.Sahoo",
+      "designation": "",
+      "email": null
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7655",
+  "name": "PEOPLES INTEGRATION AND UNION FOR SOCIETY (PIUS)",
+  "primaryEmail": "pius12@rediffmail.com",
+  "website": "no",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network"
+  ],
+  "telephone": [
+    "916764236556",
+    "916764236556"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "at/po-mahidharapur",
+      "hindol",
+      "Angul",
+      "Odisha",
+      "759022"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7574",
+  "name": "Centre For Human Rights & Social Welfare",
+  "primaryEmail": "sarojkhan_cfhrsw@yahoo.co.in",
+  "website": "www.cfhrsw.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "911412222562",
+    "919414253482"
+  ],
+  "mainAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "50 Jawahar Market",
+      "Near Polick Chowki, NBC Road, Hasanpura",
+      "Jaipur",
+      "Rajasthan",
+      "302006"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "MR.SUNIL NAHAR",
+      "designation": "",
+      "email": null
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7263",
+  "name": "SOCIETY FOR RATIONAL DEVELOPMENT",
+  "primaryEmail": "info@sfordonline.org",
+  "website": "www.sfordonline.org",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919460007938"
+  ],
+  "mainAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "HEM SINGH KATLA",
+      "MAHAMANDIR",
+      "JODHPUR",
+      "Jodhpur",
+      "Rajasthan",
+      "342006"
+    ]
+  }
+}

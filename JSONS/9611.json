@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "name": "Dashrath Zipar Mahala",
+      "designation": "",
+      "email": null
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9611",
+  "name": "Deshaj Pratisthan",
+  "primaryEmail": "dzmahala77@gmail.com",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "919924942738"
+  ],
+  "mainAddrress": {
+    "state": "Dadra and Nagar Haveli",
+    "address": [
+      "Parzai (Schoolpada)",
+      "Parzai .Dadara Nagar Haveli",
+      "Silvassa",
+      "Dadra and Nagar Haveli",
+      "396230"
+    ]
+  },
+  "briefDescription": "Deshaj Pratisthan work for poor students in rural area for learning English.also art classes taken in vaccation..Unemployed youths are come for training of  computer knowledge.",
+  "yearOfEstablishment": "2013",
+  "regiseredAddrress": {
+    "state": "Dadra and Nagar Haveli",
+    "address": [
+      "Parzai (Schoolpada)",
+      "Silvassa",
+      "Dadra and Nagar Haveli",
+      "396230"
+    ]
+  }
+}

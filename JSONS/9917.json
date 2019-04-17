@@ -1,0 +1,33 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9917",
+  "name": "TALENT ENABLERS",
+  "primaryEmail": "talent.enablers@yahoo.in",
+  "website": "http://www.talentenablersngo.org",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "911352753296"
+  ],
+  "mainAddrress": {
+    "state": "Uttarakhand",
+    "address": [
+      "567,Lane 10-A,Street #4,Rajendra Nagar,Dehradun,",
+      "Street #4, Rajendra Nagar, Kaulagarh Road, Dehradun.",
+      "Dehradun",
+      "Uttarakhand",
+      "248001"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "Plot # 5, Shop #205,Gupta Arcade,",
+      "Shreshtha Vihar, Delhi.",
+      "Delhi",
+      "East Delhi",
+      "110092"
+    ]
+  }
+}

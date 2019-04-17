@@ -1,0 +1,41 @@
+{
+  "contacts": [
+    {
+      "name": "Mohd. Iqbal Wani",
+      "designation": "",
+      "email": null
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9232",
+  "name": "CAREER PARK TRUST",
+  "primaryEmail": "careerpark@hotmail.com",
+  "website": "www.careerpark.co",
+  "organisationType": [
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919555777154"
+  ],
+  "mainAddrress": {
+    "state": "Jammu and Kashmir",
+    "address": [
+      "3rd Floor, Enco Complex",
+      "Karan Nagar",
+      "Srinagar",
+      "Jammu and Kashmir",
+      "190010"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Jammu and Kashmir",
+    "address": [
+      "Career Park Trust",
+      "Khanmoh Tehsil",
+      "Srinagar",
+      "Jammu and Kashmir",
+      "192121"
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "contacts": [
+    {
+      "name": "Sudhir Krishnaswamy",
+      "designation": "Co-Founder and Managing Trustee"
+    },
+    {
+      "name": "Indu Krishnaswamy",
+      "designation": "Head of Operations",
+      "email": "admin@clpr.org.in",
+      "mobile": [
+        "91-80-40912112"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9721",
+  "name": "Centre for Law and Policy Research Trust",
+  "primaryEmail": "admin@clpr.org.in",
+  "website": "http://clpr.org.in/",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "918040912112",
+    "918041235876"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "D6, Dona Cynthia Apartments,",
+      "35, Primrose Road, Ashok Nagar",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560025"
+    ]
+  },
+  "briefDescription": "CLPR was established to reimagine and reshape public interest lawyering in India for the 21st century.First, we understand legal problems in their wider public policy context, and develop constructive solutions using rigorous social science research and analysis.Secondly, we develop and advance solutions that are grounded in core constitutional and liberal human rights values, which our clients identify to be in their interests.Thirdly, we are committed to an advocacy strategy that delivers maximal impact through strategic litigation in the lower courts, High Courts and the Supreme Court. We believe in coalition building with civil society groups, and engagement in the pre-legislative consultation process.",
+  "yearOfEstablishment": "2009",
+  "regiseredAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "899, 7th Main, 4th Cross,",
+      "HAL 2nd stage",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560038"
+    ]
+  }
+}

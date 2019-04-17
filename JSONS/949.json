@@ -1,0 +1,49 @@
+{
+  "contacts": [
+    {
+      "name": "Shaheen Mistri",
+      "designation": "CEO"
+    },
+    {
+      "name": "Mridvika Mathur",
+      "designation": "Senior Manager, National Development",
+      "email": "mridvika.mathur@teachforindia.org"
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=949",
+  "name": "Teach to Lead",
+  "primaryEmail": "donate@teachforindia.org",
+  "website": "www.teachforindia.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "912225185821",
+    "912225185823"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Teach For India,  Care of Godrej Industries Complex, Gate No. 2, Phirojshanagar,",
+      "Eastern Express Highway, Vikhroli (East)",
+      "Mumbai",
+      "Maharashtra",
+      "400079"
+    ]
+  },
+  "briefDescription": "India is facing crisis in its educational sector. Inequity in education is a huge concern - while wealthy Indian children have access to an excellent education, their low-income peers continue to lag far behind.  Teach For India strongly believes that in order to achieve educational parity, India needs a movement of leaders in a variety of sectors who are committed to, and will work towards, ensuring that every child in India receives an excellent education. In the short run, TFI will provide a source of dedicated teachers working tirelessly to expand the educational opportunities available to India's least privileged children. In the long run, the program aims to create a powerful network of alumni who, influenced by their experiences in the classroom, will work towards effecting multi-sector solutions to India’s educational problems. At Teach For India, we’re building a movement of leaders committed to create a world where everyone has a choice, an opportunity and a hope to maximize their potential. We are seeing the impact every day, across 12000 children. We are committed to working relentlessly with the highest sense of possibility to achieve this daunting mission.",
+  "yearOfEstablishment": "2008",
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Voltas House ‘C’ Godown Premises,",
+      "T.B. Kadam Marg, Chinchpokli",
+      "Mumbai",
+      "Maharashtra",
+      "400033"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7301",
+  "name": "Centre of Technology and Entrepreneurship Development",
+  "primaryEmail": "Sanjaisted@yahoo.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919415046619"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "Industrial Area Jagdishpur",
+      "District   Amethi",
+      "AMETHI",
+      "Sultanpur",
+      "Uttar Pradesh",
+      "227809"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "E-6, Sector-21, Village Jagdharpur,",
+      "Post Harimau, Jagdishpur,",
+      "Amethi",
+      "Sultanpur",
+      "Uttar Pradesh",
+      "227807"
+    ]
+  }
+}

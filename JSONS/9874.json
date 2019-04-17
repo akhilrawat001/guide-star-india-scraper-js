@@ -1,0 +1,32 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9874",
+  "name": "AKHAND YOGA DHAM TRUST",
+  "primaryEmail": "akhandayoga@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919837073279",
+    "919997190218"
+  ],
+  "mainAddrress": {
+    "state": "Uttarakhand",
+    "address": [
+      "Shri Mangal Yoga & Nature Cure Centre Muni-Ki-Reti, Tehri-Garhwal, RISHIKESH",
+      "Tehri Garhwal",
+      "Uttarakhand",
+      "249137"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Uttarakhand",
+    "address": [
+      "Muni-Ki-Reti (The Crossing Point of Gangotri Road)",
+      "P.O Rishikesh",
+      "Tehri Garhwal",
+      "Uttarakhand",
+      "249137"
+    ]
+  }
+}

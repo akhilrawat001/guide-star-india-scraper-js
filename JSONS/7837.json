@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Rohit Shrivastava",
+      "designation": "",
+      "email": null
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7837",
+  "name": "ARMAAN FOUNDATION",
+  "primaryEmail": "armaanfoundation11@gmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Intermediary",
+    "Support"
+  ],
+  "telephone": [
+    "919630200620"
+  ],
+  "mainAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "H.S.No-14/81, Keshav Sahodra Sadan,",
+      "Nehru Nagar",
+      "Rewa,",
+      "Rewa",
+      "Madhya Pradesh",
+      "486001"
+    ]
+  }
+}

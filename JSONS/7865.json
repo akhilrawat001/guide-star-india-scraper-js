@@ -1,0 +1,24 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7865",
+  "name": "SURI DEEP SOCIETY",
+  "primaryEmail": "deep_society@rediffmail.com",
+  "website": "www.deepsociety.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919153001996"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Sonatorepara,Suri-Birbhum",
+      "Station More,Suri-Birbhum",
+      "Suri",
+      "Birbhum",
+      "West Bengal",
+      "731101"
+    ]
+  }
+}

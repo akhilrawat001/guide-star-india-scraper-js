@@ -1,0 +1,47 @@
+{
+  "contacts": [
+    {
+      "name": "Ajit Singh",
+      "designation": "CEO",
+      "email": "info@afisi.org"
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10168",
+  "name": "ANANT FOUNDATION FOR INNOVATION AND SOCIAL INCLUSION",
+  "primaryEmail": "info@afisi.org",
+  "website": "www.afisi.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919540017990"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "Building No. 11-A, S/F, KH No.258, Lane No. 3, Wes, Saidulajab, Saket, New Delhi,",
+      "Building No. 11-A, S/F, KH No.258, Lane No. 3, Wes, Saidulajab, Saket, New Delhi, South Delhi, Delhi, India, 110030",
+      "New Delhi",
+      "South Delhi",
+      "Delhi",
+      "110030"
+    ]
+  },
+  "briefDescription": "Anant Foundation is national level social development organization target over 50000 families to be directly benefitting in next 3 years through various welfare project on vocational training, education, healthcare, livelihood and woman empowerment, in rural villages and slums across 25 states of India.Founded in 2017, Anant Foundation for Innovation and Social Inclusion (AFISI) is primarily focused on social innovations  to ensure an inclusive growth. Exploring innovative ideas, implementing and testing them and coming up with solutions which are \"out of the box\" and defy the common narrative. AFISI is looking at a positive \"Framework Change\", which has a long, sustainable and transformative impact on the society..…",
+  "yearOfEstablishment": "2017",
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "Building No. 11-A, S/F, KH No.258, Lane No. 3, Westend Marg, Saidulajab, Saket, New Delhi,",
+      "Building No. 11-A, S/F, KH No.258, Lane No. 3, Westend Marg, Saidulajab, Saket, New Delhi, South Delhi, Delhi, India, 110030",
+      "Delhi",
+      "South Delhi",
+      "110030"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9635",
+  "name": "SANADHANA CHARITABLE TRUST",
+  "primaryEmail": "sanadhana.trust@gmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919940638282"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "1/105",
+      "Bajanai Koil Street, opp. Uthandi bus stop",
+      "Uthandi",
+      "Kancheepuram",
+      "Tamil Nadu",
+      "600115"
+    ]
+  }
+}

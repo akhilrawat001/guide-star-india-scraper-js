@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Mr.Kundan Majumdar",
+      "designation": "",
+      "email": null
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7869",
+  "name": "ANTARDHONI JANASEBA PROTISTHAN",
+  "primaryEmail": "antardhonijanaseba@gmail.com",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "919903907629",
+    "918697564699"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "130/31,",
+      "P.G.H.Shah Road,P.O. Jadavpur,",
+      "Kolkata",
+      "West Bengal",
+      "700032"
+    ]
+  }
+}

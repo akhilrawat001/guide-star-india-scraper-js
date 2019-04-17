@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Manish Kumar Sinha",
+      "designation": "",
+      "email": null
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9577",
+  "name": "SAMAJIK SAMASYA NIVARAN EVAM KALYAN SANSTHAN",
+  "primaryEmail": "ssneks@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "916546264828",
+    "916546264828"
+  ],
+  "mainAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "Forest Colony, Near Cemetry Gate, Hurhuru Road,",
+      "Hazaribag",
+      "Jharkhand",
+      "825301"
+    ]
+  },
+  "briefDescription": "Samajik Samasya Nivaran Awam Kalyan Sansthan is located Hazaribag, Jharkhand.",
+  "yearOfEstablishment": "2000"
+}

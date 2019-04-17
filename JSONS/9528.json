@@ -1,0 +1,45 @@
+{
+  "contacts": [
+    {
+      "name": "Mohammed Akmal Siddiqui",
+      "designation": "",
+      "email": null
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9528",
+  "name": "Madarsa Ashrafia Committee",
+  "primaryEmail": "md@ashrafia.co.in",
+  "website": "http://www.ashrafiagroup.in",
+  "organisationType": [
+    "Direct Service",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "917882329428",
+    "917882329428"
+  ],
+  "mainAddrress": {
+    "state": "Chhattisgarh",
+    "address": [
+      "Ashrafia Group, Civil lines, Durg (C.G.)",
+      "Opp. Sai Mandir",
+      "Durg",
+      "Chhattisgarh",
+      "491001"
+    ]
+  },
+  "briefDescription": "“Ashrafia Group of Institutions” a minority held NGO driven nonprofit organization run & managed by Ashrafia Educational Welfare Society a unit of MAC (NGO). Ashrafia Educational Group having more than two decades of experience in imparting quality training and education, dedicated for imparting the much in demand skill development / job oriented diploma / certificate courses in Computers Software / IT through a network of centre’s throughout India. It is backed by a corporate educational group with expertise in imparting quality education and training. With a proven successful track record, the institution is spreading its wings across the country. AGI always endeavors to impart quality training. The courses have been designed to include r",
+  "yearOfEstablishment": "1988",
+  "regiseredAddrress": {
+    "state": "Chhattisgarh",
+    "address": [
+      "Ashrafia Group, Civil lines, kasaridih, Durg (C.G.)",
+      "Opp. Sai Mandir",
+      "Durg",
+      "Chhattisgarh",
+      "491001"
+    ]
+  }
+}

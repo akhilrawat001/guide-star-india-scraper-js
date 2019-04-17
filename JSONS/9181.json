@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": ".Dr.Kumud Chandra Behera",
+      "designation": "",
+      "email": null
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9181",
+  "name": "SRI SHIRIDI SAINATH SEVA ASHRAM",
+  "primaryEmail": "saisevashram.buguda@gmail.com",
+  "website": "www.saiashram.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "917978168221"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "At - Badua, PO - Golia, , Via  - Buguda,",
+      "Ganjam",
+      "Odisha",
+      "761118"
+    ]
+  }
+}

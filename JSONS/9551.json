@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Sushama Nagarkar",
+      "designation": "",
+      "email": null
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9551",
+  "name": "Yash Charitable Trust",
+  "primaryEmail": "sushama@yashcharitabletrust.org",
+  "website": "http://www.yashcharitabletrust.org/",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service"
+  ],
+  "telephone": [
+    "919892418057",
+    "917738060290"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Fiona, 3rd floor, 149, Juhu Tara Road",
+      "Mumbai",
+      "Mumbai Suburban",
+      "Maharashtra",
+      "400049"
+    ]
+  },
+  "briefDescription": "The overall mission of Yash Charitable Trust is to assist persons with developmental disabilities successfully transition into adulthood, become responsible, productive members of the communities that they live in, and have a wonderfully satisfying and fulfilling adult life.",
+  "yearOfEstablishment": "2014"
+}

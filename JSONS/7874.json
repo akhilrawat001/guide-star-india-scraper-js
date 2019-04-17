@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Mr. Ganesh Arun Abhale",
+      "designation": "",
+      "email": null
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7874",
+  "name": "EduTech Agro Foundation",
+  "primaryEmail": "edutechagro@gmail.com",
+  "website": "www.edutechagro.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919561831204"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "A/p- Umbraj No1",
+      "Tal- Junnar,",
+      "Junnar",
+      "Pune",
+      "Maharashtra",
+      "412412"
+    ]
+  }
+}

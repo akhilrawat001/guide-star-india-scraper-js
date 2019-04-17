@@ -1,0 +1,33 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9274",
+  "name": "CHAPAR COMMERCIAL INSTITUTE",
+  "primaryEmail": "chapar.co.in@gmail.com",
+  "website": "www.chpar commercial institute. com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919854948091"
+  ],
+  "mainAddrress": {
+    "state": "Assam",
+    "address": [
+      "Chapar I.T.I Building",
+      "Near S.B.I",
+      "Chapar Town",
+      "Dhubri",
+      "Assam",
+      "783371"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Assam",
+    "address": [
+      "Vill & P.O.- Chapar",
+      "Dhubri",
+      "Assam",
+      "783371"
+    ]
+  }
+}

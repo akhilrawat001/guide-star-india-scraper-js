@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "Selagamsetty Prasad Rao",
+      "designation": "Chairman",
+      "email": "prsam@sct.org.in"
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7886",
+  "name": "Selagamsetty Charitable Trust (SCT)",
+  "primaryEmail": "prsam@sct.org.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919849238627"
+  ],
+  "mainAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "49-24-59,",
+      "Madhuranagar Main Rd",
+      "Visakhapatnam",
+      "Andhra Pradesh",
+      "530016"
+    ]
+  }
+}

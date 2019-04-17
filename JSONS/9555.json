@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "A. Pandian",
+      "designation": "Chairman",
+      "email": "she.he.c.trust@gmail.com"
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9555",
+  "name": "SHE & HE (Society for Health, Education, Hygiene and Empowerment) CHARITABLE TRUST",
+  "primaryEmail": "she.he.c.trust@gmail.com",
+  "website": "www.sheandhecharitabletrust.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "917358768089"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "Flat No 4, Majeatic Gardens",
+      "48. Arcot Road, Saligramam",
+      "Chennai",
+      "Tamil Nadu",
+      "600093"
+    ]
+  },
+  "briefDescription": "To empower Rural India in Primary health care, primary education and skill developement",
+  "yearOfEstablishment": "2016"
+}

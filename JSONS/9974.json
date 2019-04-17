@@ -1,0 +1,24 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9974",
+  "name": "TAMBE EDUCATION SOCIETY",
+  "primaryEmail": "sirrltambe@gmail.com",
+  "website": "http://www.tambeeducationsociety.com/",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "912228963369"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Tambe Education Society, Ashok Nagar, Ghartanpada, Dahisar East",
+      "Ashok Nagar, Ghartanpada, Dahisar East",
+      "Mumbai",
+      "Maharashtra",
+      "400068"
+    ]
+  }
+}

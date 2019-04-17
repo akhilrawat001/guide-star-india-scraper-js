@@ -1,0 +1,42 @@
+{
+  "contacts": [
+    {
+      "name": "Prabin Prasad",
+      "designation": "President"
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9724",
+  "name": "YOUTHTRAIN FOUNDATION",
+  "primaryEmail": "youthtrainfoundation@gmail.com",
+  "website": "www.ytfindia.org",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "918055151717",
+    "919905590513"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Plot. No 833, Beside Buddha park, Buddha Nagar",
+      "Beside Buddha park",
+      "Nagpur",
+      "Maharashtra",
+      "440017"
+    ]
+  },
+  "briefDescription": "Youthtrain Foundation is made up of a group of young professional social workers who believe in a process of empowerment through training and guidance. Our specific goal is to enhance the capacity of the youth and bring sustainable development through a training based programme. Since its inception welfare and development activities are being conducted through grass-roots initiatives in the various states.At the heart of Youthtrain foundation is the desire to build the capacities of most neglected and underprivileged segment of the society and aid their development.The foundation delivers activities related to training on life skill education, employability skills, governance, community development- to name a few.",
+  "yearOfEstablishment": "2014",
+  "regiseredAddrress": {
+    "state": "Assam",
+    "address": [
+      "Vill- Hatsingimari (Tiniali), P.O - Hatsingimari, P.S- South Salmara",
+      "P.S- South Salmara",
+      "South Salmara-Mankachar",
+      "Assam",
+      "783135"
+    ]
+  }
+}

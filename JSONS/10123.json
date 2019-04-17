@@ -1,0 +1,44 @@
+{
+  "contacts": [
+    {
+      "name": "Vijaya Singh",
+      "designation": "Co-Founder",
+      "email": "vijaya@c3world.org",
+      "mobile": [
+        "91-9599890808"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10123",
+  "name": "C3: Collaborate to Create Change",
+  "primaryEmail": "info@c3world.org",
+  "website": "http://www.c3world.org/",
+  "organisationType": [
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919599890808"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "Care of SDMC-NPV, B3 Raghubir Nagar - 1",
+      "Delhi",
+      "West Delhi",
+      "110027"
+    ]
+  },
+  "briefDescription": "C3: Collaborate to Create Change is located in West Delhi, Delhi.",
+  "yearOfEstablishment": "2016",
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "Plot No 31, FIE, Patparganj Industrial Area",
+      "Delhi",
+      "East Delhi",
+      "110092"
+    ]
+  }
+}

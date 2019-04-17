@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "MR.UTKARSH TIWARI",
+      "designation": "",
+      "email": null
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7745",
+  "name": "BANDHAN FOUNDATION",
+  "primaryEmail": "info@bandhanfoundation.org",
+  "website": "www.bandhanfoundation.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "918382914007"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "215M /22M",
+      "Kasari Masari, Chakiya",
+      "Allahabad",
+      "Uttar Pradesh",
+      "211016"
+    ]
+  }
+}

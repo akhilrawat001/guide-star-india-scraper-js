@@ -1,0 +1,37 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7768",
+  "name": "LOK SHAKTI SAMITI",
+  "primaryEmail": "lokshakti_samiti@yahoo.in",
+  "website": "www.lokshaktisamiti.org",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "917762223541",
+    "917762223541"
+  ],
+  "mainAddrress": {
+    "state": "Chhattisgarh",
+    "address": [
+      "Ward No-34  Saraibhaddar, Vijay Nagar,",
+      "Behind TATA  Moter’s Chhatamuda Bypass",
+      "Raigarh",
+      "Chhattisgarh",
+      "496001"
+    ]
+  },
+  "briefDescription": "Lok Shakti Samiti is situated in Raigarh, Chhattisgarh",
+  "yearOfEstablishment": "1996",
+  "regiseredAddrress": {
+    "state": "Chhattisgarh",
+    "address": [
+      "Ward No-33  Saraibhaddar, Vijay Nagar,",
+      "Behind TATA  Moter’s Chhatamuda Bypass",
+      "Raigarh",
+      "Chhattisgarh",
+      "496001"
+    ]
+  }
+}

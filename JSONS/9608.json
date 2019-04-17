@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "Sunil Kumar Aledia",
+      "designation": "",
+      "email": null
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9608",
+  "name": "Centre for Holistic Development (CHD)",
+  "primaryEmail": "centreforholisticdevelopment@gmail.com",
+  "website": "www.chdindia.org.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919811327037"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "1D , First Floor, Shahpur Jat  New Delhi",
+      "South",
+      "South Delhi",
+      "Delhi",
+      "110049"
+    ]
+  },
+  "briefDescription": "Vision:To build a self sustainable environment of community care and social inclusion for Homeless Citizens through a right based approach ensuring a better quality of life.Mission:To work towards building safe, community caring spaces for the homeless citizens through increased participation by establishing their identity as citizens and ensuring access to shelter, food, health, hygiene, safety, privacy, legal powers and freedom from oppression and violence.",
+  "yearOfEstablishment": "2011"
+}

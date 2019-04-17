@@ -1,0 +1,48 @@
+{
+  "contacts": [
+    {
+      "name": "Urvija Sanghvi",
+      "designation": "CEO",
+      "email": "urvija@copewithcancer.org"
+    },
+    {
+      "name": "Ish Chowdhary",
+      "designation": "Volunteer - Web & Digital Initiatives",
+      "email": "ish@copewithcancer.org"
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9179",
+  "name": "Madat Charitable Trust",
+  "primaryEmail": "urvija@copewithcancer.org",
+  "website": "https://www.copewithcancer.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Intermediary",
+    "Support"
+  ],
+  "telephone": [
+    "912240020333"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "15 Ujagar Industrial Estate",
+      "MT Patil Marg, Deonar",
+      "Mumbai",
+      "Maharashtra",
+      "400071"
+    ]
+  },
+  "briefDescription": "MISSIONIs to identify and fill gaps in patient and caregiver support in the fight against cancer and in the process help them cope with this potentially life threatening illness. Our causes are financial aid for cancer treatment, discounted diagnostics and treatment, free wigs for cancer patients, counselling. We are constantly looking at the gaps in treatment and care and devising  ways to address them.  A youtube presentation can be viewed here https://www.youtube.com/watch?v=kV8Mw9_JNmc",
+  "yearOfEstablishment": "2017",
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "64 A Jaldarshan",
+      "Napean Sea Road,",
+      "Mumbai",
+      "Maharashtra",
+      "400036"
+    ]
+  }
+}

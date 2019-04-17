@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Sanjiv Kumar",
+      "designation": "Founder & President"
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10108",
+  "name": "TAKSHILA FOUNDATION",
+  "primaryEmail": "setika.singh@takshila.net",
+  "website": "http://parivartanbihar.org",
+  "organisationType": [
+    "Direct Service",
+    "Network"
+  ],
+  "telephone": [
+    "919810024118"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "C-404 (Basement) Defence Colony,",
+      "New Delhi",
+      "Delhi",
+      "110024"
+    ]
+  },
+  "briefDescription": "Takshila Foundation initiated Parivartan, an integrated rural community development initiative. It is a social organization that aims to provide an enabling environment for children, youth, women, farmers and artisans from nearby villages. Functional from October 2011, Parivartan has been working from its beautiful campus at Narendrapur village (Siwan, Bihar) in 36 nearby villages on various issues that include early childhood development, education, livelihood, farming practices, social and economic empowerment of women, music and theatre revival, community sports, and weaving craft revival.",
+  "yearOfEstablishment": "2001"
+}

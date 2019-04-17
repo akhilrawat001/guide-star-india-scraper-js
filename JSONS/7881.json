@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Mr.Nitin Vasatn Nerkar",
+      "designation": "",
+      "email": null
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7881",
+  "name": "NEHRU YUVA MANDAL",
+  "primaryEmail": "nymg2114@gmail.com",
+  "organisationType": [
+    "Intermediary",
+    "Support"
+  ],
+  "telephone": [
+    "919503297746"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "At. Gadkhamb",
+      "Post. Nagaon Tel. AMalner",
+      "Tel. Amalner",
+      "Jalgaon",
+      "Maharashtra",
+      "425401"
+    ]
+  }
+}

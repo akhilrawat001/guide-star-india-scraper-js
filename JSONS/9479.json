@@ -1,0 +1,43 @@
+{
+  "contacts": [
+    {
+      "name": "Rohithkumar Parameshwara Naik",
+      "designation": "CEO"
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9479",
+  "name": "ATHIRA EDUTECH FOUNDATION",
+  "primaryEmail": "igniteintellectsrk@gmail.com",
+  "website": "www.athirafoundation.org",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919591800462"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "#21/16, 3rd floor, Krishna Towers",
+      "3rd Main Road, Gandhinagar,",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560009"
+    ]
+  },
+  "briefDescription": "The main objective is to introduce Technology to people who are not exposed to the world of technology. Mostly, people from rural areas are focused.- Teaching school children about Electronics, Computer programming, Technology, Design.- Giving students a hands-on experience in the art of building.- Expose them to critical thinking and teaching the art of self-learning.- Introduce digitization to village/rural people.At present we have a program called Ignite the focus of which is to ignite the curiosity for technology and self-learning. We have been conducting this program at government rural schools. Athira introduces basic concepts in electronics and mechanics, helping build a small robot that buzzes and bounces its way around the c",
+  "yearOfEstablishment": "2017",
+  "regiseredAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "No. 9 & 11, 3rd floor, Krishna Towers",
+      "3rd Main Road, Gandhinagar,",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560009"
+    ]
+  }
+}

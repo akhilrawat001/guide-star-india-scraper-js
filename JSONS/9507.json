@@ -1,0 +1,37 @@
+{
+  "contacts": [
+    {
+      "name": "Shahjahan Ali Sarker",
+      "designation": "",
+      "email": null
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9507",
+  "name": "SKYLARK COMMUNITY DEVELOPMENT SOCIETY",
+  "primaryEmail": "scdsngo@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Network"
+  ],
+  "telephone": [
+    "919678469584"
+  ],
+  "mainAddrress": {
+    "state": "Assam",
+    "address": [
+      "Matiphata Bajar, Skylark Community Development Society",
+      "Dhubri",
+      "Assam",
+      "783330"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Assam",
+    "address": [
+      "Vill Baoskata Matibhata, P.O Ravatary",
+      "Dhubri",
+      "Assam",
+      "783127"
+    ]
+  }
+}

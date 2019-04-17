@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Ashish Pandey",
+      "designation": "CEO",
+      "email": "drashishpandey@gmail.com"
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9504",
+  "name": "Dr. Rachana Pandey Memorial Trust",
+  "primaryEmail": "drashishpandey@gmail.com",
+  "website": "http://www.RachnaTrust.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918859847881"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "Vineet Khand, Gomti Nagar",
+      "Lucknow",
+      "Uttar Pradesh",
+      "226010"
+    ]
+  },
+  "briefDescription": "We have our free English and computer skill development program for women and girls to enhance their employability.",
+  "yearOfEstablishment": "2009"
+}

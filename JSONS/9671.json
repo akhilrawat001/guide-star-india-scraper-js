@@ -1,0 +1,41 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9671",
+  "name": "BUTTERFLIES",
+  "primaryEmail": "sujay@butterfliesindia.org",
+  "website": "http://www.butterflieschildrights.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919868482044",
+    "911146471000"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "Butterflies, U-4, Green Park Extension,",
+      "Near Jain School",
+      "Delhi",
+      "South Delhi",
+      "110016"
+    ]
+  },
+  "briefDescription": "Butterflies is a registered voluntary organisation working with the most vulnerable groups of children, especially street and working children since 1989. With a rights based, non-institutional approach the organisation endeavours to educate and impart life skills to vulnerable children so that they become self-reliant and exit out of the cycle of generational illiteracy & poverty. Over the years Butterflies has initiated a number of innovative interventions in the field and partnered with the government and non-government agencies to garner support for children.",
+  "yearOfEstablishment": "1989",
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "C/o PrabhaTara,",
+      "Mohammadpur Village,",
+      "R. K. Puram Sec.-1,",
+      "South Delhi",
+      "Delhi",
+      "110066"
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Pravendra Singh",
+      "designation": "Director",
+      "email": "PRAVENDRASING@GMAIL.COM"
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9734",
+  "name": "KUSHWAH SHIKSHA PRASAR SAMITI",
+  "primaryEmail": "PRAVENDRASING@GMAIL.COM",
+  "organisationType": [
+    "Direct Service",
+    "Grant-making"
+  ],
+  "telephone": [
+    "919685724461"
+  ],
+  "mainAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "New Colony Bairad,",
+      "Shivpuri",
+      "Madhya Pradesh",
+      "473793"
+    ]
+  },
+  "briefDescription": "Kushwah Shiksha Prasar Samiti is located in Shivpuri, Madhya Pradesh.",
+  "yearOfEstablishment": "2008"
+}

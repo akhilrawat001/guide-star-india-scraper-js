@@ -1,0 +1,35 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9241",
+  "name": "SOACH (Sustainable Option Through Arts Crafts and Humanities)",
+  "primaryEmail": "indiasoach@gmail.com",
+  "website": "www.soachngo.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919426015944"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "25B Himmatlal Park Society, Near Bima Nagar",
+      "Ambawadi,",
+      "Ahmedabad",
+      "Gujarat",
+      "380015"
+    ]
+  },
+  "briefDescription": "To empower women and children particularly of rural india through knowledge and skills.",
+  "yearOfEstablishment": "2011",
+  "regiseredAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "4, Meera Madhav Apt, 40, Pritamnagar,",
+      "Ellisbridge",
+      "Ahmedabad",
+      "Gujarat",
+      "380006"
+    ]
+  }
+}

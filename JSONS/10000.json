@@ -1,0 +1,39 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10000",
+  "name": "SIGARAM Academy of Excellence",
+  "primaryEmail": "sigaramae@gmail.com",
+  "website": "www.sigaramae.org",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919443450063",
+    "914651248405"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "6-96A, Sigaram, Johnson Tower",
+      "Main Road, Mulagumoodu",
+      "Kanniyakumari",
+      "Kanyakumari",
+      "Tamil Nadu",
+      "629167"
+    ]
+  },
+  "briefDescription": "It is a social as well as educational organization.The focused and targeted age group is between 10 to 30 from Backward and Marginalized communities. Special Programs are organized for Teachers, Animators and Parents. 1. Organizing Motivation,Guidance  Skill Development programs 2. Organizing Personality and Capacity Building Programs3. Study programs and coaching classes for competitive and entrance exams.4.Special Programs on Social Development, Science, Environment and Sustainable Development5. Foundation STEM classes, Aptitude Training",
+  "yearOfEstablishment": "2011",
+  "regiseredAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "6-96A, Johnson Tower",
+      "Main Road",
+      "Mulagumoodu",
+      "Kanyakumari",
+      "Tamil Nadu",
+      "629167"
+    ]
+  }
+}

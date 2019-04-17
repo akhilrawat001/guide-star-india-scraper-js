@@ -1,0 +1,44 @@
+{
+  "contacts": [
+    {
+      "name": "V.V.Babu Joseph",
+      "designation": "",
+      "email": null
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9144",
+  "name": "Blue Moon Charitable Trust",
+  "primaryEmail": "pollutioncontrolfederation@gmail.com",
+  "website": "http://www.pcfindian.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "914872356399",
+    "914872356399"
+  ],
+  "mainAddrress": {
+    "state": "Kerala",
+    "address": [
+      "No:12/675/7,1st Floor, Ollur Traders Center, Ollur,",
+      "Near Industrial Area Ollur",
+      "Thrissur",
+      "Kerala",
+      "680306"
+    ]
+  },
+  "briefDescription": "The ensuing Project Report underlines the need to evolve and establish an interactive energy tool including renewable energy resources depending on the carbon mitigation potential and protecting and enhancing the bio-diversity of the areas selected as environmentally fragile and traditional weak bio-mass sustenance areas prone to eventual acidification",
+  "yearOfEstablishment": "2008",
+  "regiseredAddrress": {
+    "state": "Kerala",
+    "address": [
+      "Opp. Vanagurga Temple, Thootha.",
+      "Malappuram Perinthalmanna",
+      "Malappuram",
+      "Kerala",
+      "679357"
+    ]
+  }
+}

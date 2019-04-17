@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Jagadish M C",
+      "designation": "",
+      "email": null
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9127",
+  "name": "EARTH MATTERS CHARITABLE TRUST",
+  "primaryEmail": "earthmatterstrust@gmail.com",
+  "website": "www.earthmatters.co.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918214288028",
+    "918214288028"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "No.165, Ground floor, Sahukar Channaiah Road,",
+      "Opp Brahmasthana Kalyana Mantapa, T K Layout,",
+      "Mysore",
+      "Mysuru (Mysore)",
+      "Karnataka",
+      "570009"
+    ]
+  }
+}

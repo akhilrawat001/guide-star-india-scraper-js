@@ -1,0 +1,38 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9872",
+  "name": "URBAN MANAGEMENT CENTRE",
+  "primaryEmail": "karan@umcasia.org",
+  "website": "http://umcasia.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "917926400307"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "A-202 GCP Business Centre",
+      "Opposite Navrangpura Fire Station, Near Vijay Cross Roads Navrangpura",
+      "Ahmedabad",
+      "Gujarat",
+      "380009"
+    ]
+  },
+  "briefDescription": "The Urban Management Centre (UMC) is a women promoted not-for-profit organization that works towards professionalizing urban management in India and South Asia. UMC provides technical assistance and support to city governments and facilitates change through  peer-to-peer learning processes. It enhances the capacity of city governments by providing expertise and ready access to innovations on good governance implemented in India and abroad. It facilitates city governments to design, implement and evaluate municipal development and management of the projects. UMC extensively works in the areas of urban water and sanitation, heritage management, urban planning, urban health, municipal finance, urban transportation and institutional restructuring.",
+  "yearOfEstablishment": "2005",
+  "regiseredAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "B-14 Ravi Tenaments GST Chenpur Road",
+      "Opposite Chenpur Muktidham PO Digvijaynagar  New Ranip",
+      "Ahmedabad",
+      "Gujarat",
+      "382470"
+    ]
+  }
+}

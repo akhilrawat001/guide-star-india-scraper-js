@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Mr. Ram Pyare Singh Shastri",
+      "designation": "",
+      "email": null
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7809",
+  "name": "AMAR BHARATI GRAM VIKAS SAUNSTHA",
+  "primaryEmail": "amarbharatigoa@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919247352663"
+  ],
+  "mainAddrress": {
+    "state": "Goa",
+    "address": [
+      "ANANDI RAJPUT NIWAS,",
+      "NEAR ROTARY HOUSE                                                                                   VASUDEV NAGAR, ,",
+      "BICHOLIM",
+      "North Goa",
+      "Goa",
+      "403529"
+    ]
+  },
+  "briefDescription": "AMAR BHARATI GRAM VIKAS SAUNSTHA NGO IS WORKING FOR RURAL DEVELOPMENT,EDUCATION AND LITERACY BUT UNABLE TO RUN ACTIVITIES IN LACK OF FUNDS.",
+  "yearOfEstablishment": "2003"
+}

@@ -1,0 +1,50 @@
+{
+  "contacts": [
+    {
+      "name": "Suma",
+      "designation": "Admin Coordinator",
+      "email": "sumaworkid@gmail.com",
+      "mobile": [
+        "91-9845037034"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9825",
+  "name": "BANGALORE BIRTH NETWORK",
+  "primaryEmail": "BANGALOREBIRTH@GMAIL.COM",
+  "website": "http://bangalorebirth.org/",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919945694616",
+    "918971732677"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "55",
+      "2nd Cross , Sahyadri Layout, Panduranganagar, Bg  Road",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560076"
+    ]
+  },
+  "briefDescription": "Promoting safe, respectful birth, mother-baby-friendly friendly care, from pregnancy through postpartum, for all women.",
+  "yearOfEstablishment": "2014",
+  "regiseredAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "334, 5th Main, 5th Cross,",
+      "1st Block, Koramangala",
+      "bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560034"
+    ]
+  }
+}

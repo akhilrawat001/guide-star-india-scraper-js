@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Neelesh Misra",
+      "designation": "Settlor"
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9483",
+  "name": "Gaon Connection Foundation",
+  "primaryEmail": "saumya@gaonconnection.com",
+  "website": "www.gaonconnection.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Support"
+  ],
+  "telephone": [
+    "918935000285",
+    "919532703080"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "B-3/194, Vikas Khand, Gomti Nagar,",
+      "Lucknow",
+      "Uttar Pradesh",
+      "226010"
+    ]
+  }
+}

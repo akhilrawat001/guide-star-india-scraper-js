@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Chitra",
+      "designation": "Managing Director"
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10091",
+  "name": "S.S.RESEARCH FOUNDATION",
+  "primaryEmail": "ssresearchfoundation@gmail.com",
+  "website": "http://www.ssresearch.org",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "914634252369"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "130/123",
+      "Veerappapuram Street, Near Saibaba Temple",
+      "Kallidaikurichi",
+      "Tirunelveli",
+      "Tamil Nadu",
+      "627416"
+    ]
+  },
+  "briefDescription": "We focus on a unique multidisciplinary research activities and education to engage and influence strategy and practice in the conservation and management of natural resources, sustainable development in a social manner. We are committed to build an internationally competitive research capacity through collaborations for the economic and social development of the country. Right now We have 6 people directly working and few others supporting us as and when required.",
+  "yearOfEstablishment": "2017"
+}

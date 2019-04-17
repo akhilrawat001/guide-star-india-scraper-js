@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Rajkumar Sambandam",
+      "designation": "Co-Founder"
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10074",
+  "name": "RINDA foundation",
+  "primaryEmail": "raj@rinda-f.org",
+  "website": "http://www.rinda-f.org/in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network"
+  ],
+  "telephone": [
+    "918048001270"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "1/1, 46th Cross, Sangam Circle,",
+      "8th Block Jayanagar,",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560082"
+    ]
+  },
+  "briefDescription": "Rinda foundation is a non-profit organization Established in India."
+}

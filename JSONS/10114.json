@@ -1,0 +1,31 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10114",
+  "name": "JAWAHARLAL NEHRU TECHNICAL CENTER",
+  "primaryEmail": "jntcsbs@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Network"
+  ],
+  "telephone": [
+    "918885586244"
+  ],
+  "mainAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "No 50-92-33, Beside Income Tax Office, Near Crown Bakery, Shankarmattam Road",
+      "Visakhapatnam",
+      "Andhra Pradesh",
+      "530016"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "H.No-17, G.No- 1439, Near Old Court, Kashmere Gate",
+      "Delhi",
+      "North Delhi",
+      "110006"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Mr.KUMAVAT M A",
+      "designation": "President"
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7753",
+  "name": "ANJALI HUMAN FOUNDATION",
+  "primaryEmail": "anjalihumanfoundation@gmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "917385724351",
+    "918087000575"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Shivaji  Nagar, Kukdel",
+      "Old Prakasha Road",
+      "Shahada",
+      "Nandurbar",
+      "Maharashtra",
+      "425409"
+    ]
+  }
+}

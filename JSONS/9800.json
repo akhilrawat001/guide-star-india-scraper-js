@@ -1,0 +1,34 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9800",
+  "name": "SPANDAN",
+  "primaryEmail": "SPANDAN_29@rediffmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service"
+  ],
+  "telephone": [
+    "916764221241",
+    "919437441552"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "Kandasar",
+      "Nalco Nagar",
+      "Angul",
+      "Odisha",
+      "759145"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Odisha",
+    "address": [
+      "At/ P.O Kumaripari, Via- Sumandal",
+      "Kumaripari",
+      "Ganjam",
+      "Odisha",
+      "761035"
+    ]
+  }
+}

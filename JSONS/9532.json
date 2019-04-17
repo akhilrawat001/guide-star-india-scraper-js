@@ -1,0 +1,34 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9532",
+  "name": "CHHATTISGARH JANHIT KALYAN SAMITI",
+  "primaryEmail": "cg.jksngo@gmail.com",
+  "website": "http://www.cgjks.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919806205000"
+  ],
+  "mainAddrress": {
+    "state": "Chhattisgarh",
+    "address": [
+      "Bada Chowk Pawani Block Bilaigarh District Balodabazaar Raipur",
+      "Raipur",
+      "Chhattisgarh",
+      "493338"
+    ]
+  },
+  "briefDescription": "Chhattisgarh Janhit Kalyan Samiti is located in Raipur, Chhattisgarh.",
+  "yearOfEstablishment": "2015",
+  "regiseredAddrress": {
+    "state": "Chhattisgarh",
+    "address": [
+      "House No- 217, Ward No-07,  At.Po.Pawani Block Bilaigarh",
+      "Balodabazaar",
+      "Raipur",
+      "Chhattisgarh",
+      "493338"
+    ]
+  }
+}

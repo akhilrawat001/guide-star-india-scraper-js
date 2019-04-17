@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "name": "GAYATRIPRASAD G JOSHI",
+      "designation": "President",
+      "email": "jankalyantrustmandvi@gmail.com",
+      "mobile": [
+        "91-9429817378"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9489",
+  "name": "JAN KALYAN TRUST",
+  "primaryEmail": "jankalyantrustmandvi@gmail.com",
+  "website": "jankalyantrustmandvi.blogspot.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919429817378"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "AT-PO.MANDAVI TA-SAMI, DIST-PATAN",
+      "PATAN",
+      "Patan",
+      "Gujarat",
+      "384245"
+    ]
+  },
+  "briefDescription": "Jan Kalyan Trust is located in Patan, Gujarat.",
+  "yearOfEstablishment": "2010"
+}

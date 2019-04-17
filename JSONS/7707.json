@@ -1,0 +1,27 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7707",
+  "name": "Action for Social Advancement (ASA)",
+  "primaryEmail": "asa.manipur@gmail.com",
+  "website": "http://www.ngoasa.org",
+  "organisationType": [
+    "Direct Service",
+    "Intermediary"
+  ],
+  "telephone": [
+    "918732060901",
+    "919958280346",
+    "919402646297"
+  ],
+  "mainAddrress": {
+    "state": "Manipur",
+    "address": [
+      "Iroisemba Maning Leikai",
+      "Near Forest Gate",
+      "Imphal",
+      "Imphal West",
+      "Manipur",
+      "795001"
+    ]
+  }
+}

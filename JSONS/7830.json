@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Ms. Shobha P Dhanwatay",
+      "designation": "",
+      "email": null
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7830",
+  "name": "SAMRUDDHI A WORKSKILLS TRAINING ACADEMY FOUNDATION",
+  "primaryEmail": "samruddhi.wtafoundation@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "917122291516",
+    "917122291516"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "402, Neel Tarang Apts, Plot no:9,",
+      "Amravati Road",
+      "Nagpur",
+      "Maharashtra",
+      "440033"
+    ]
+  }
+}

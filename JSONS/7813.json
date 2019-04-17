@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "MR. SHUBHAMOY BONDYOPADHYAY",
+      "designation": "",
+      "email": null
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7813",
+  "name": "JAMBUNI ABARTA",
+  "primaryEmail": "jambuniabarta@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919851291101"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Jambuni,",
+      "Bolpur,",
+      "Birbhum",
+      "West Bengal",
+      "731204"
+    ]
+  }
+}

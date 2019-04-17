@@ -1,0 +1,38 @@
+{
+  "contacts": [
+    {
+      "name": "Jagdish Sastry",
+      "designation": "Sr. Co-Ordinator",
+      "mobile": [
+        "91-79-26582962"
+      ],
+      "email": "jagdishs@aidmi.org"
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9722",
+  "name": "ALL INDIA DISASTER MITIGATION INSTITUTE",
+  "primaryEmail": "jagdishs@aidmi.org",
+  "website": "www.aidmi.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "917926582962",
+    "919376410264"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "411, Sakar 5, Near Mithakhali Rly Crossing",
+      "Behind Old Nataraj Theatre, Ashram Road",
+      "Ahmedabad",
+      "Gujarat",
+      "380009"
+    ]
+  },
+  "briefDescription": "The All India Disaster Mitigation Institute (AIDMI) is a registered public charitable trust based in Ahmedabad, Gujarat, India. It is a community-based action planning, action research and advocacy organization, working towards bridging the gap between policy, practice and research related to disaster mitigation and climate change adaptation as laid out in National Disaster Management Plan of Government of India of 2016. Established after the 1987–89 Gujarat droughts, AIDMI has expanded its work over the years to cover 14 types of disasters in twelve areas of India and beyond to eight countries in Asia. AIDMI strives to link local communities to national and international levels of risk reduction, relief and long-term recovery policies.",
+  "yearOfEstablishment": "1995"
+}

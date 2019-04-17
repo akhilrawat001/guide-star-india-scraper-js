@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Mr.Sanjaykumar Surykant Dhurat",
+      "designation": "",
+      "email": null
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7835",
+  "name": "SAMAJ HITVARDHAK WASTAVWADI ADHIKAR SANSTHA (SHWAS)",
+  "primaryEmail": "shwassanstha@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919405350305"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "C Wing, Block No-4,",
+      "Behind Sw. Sawarkar Drama Theater,",
+      "Marutimandir,",
+      "Ratnagiri",
+      "Maharashtra",
+      "415612"
+    ]
+  },
+  "briefDescription": "Samaj Hitvardhak Wastavwadi Adhikar Sanstha (Shwas) is Located in Ratnagiri, Maharashtra."
+}

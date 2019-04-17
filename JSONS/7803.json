@@ -1,0 +1,33 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7803",
+  "name": "DERIA SOCIAL AID FOUNDATION",
+  "primaryEmail": "dsafoundation.india@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919732772758"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Vill - Kalinagar [opp. Rakhall Thakur Tala]",
+      "PO & PS - Diamond Harbour",
+      "South 24 Parganas",
+      "West Bengal",
+      "743332"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Vill - Purba Barberia, PO- Deria",
+      "PS - Kulpi, Via - Hatuganj",
+      "South 24 Parganas",
+      "West Bengal",
+      "743332"
+    ]
+  }
+}

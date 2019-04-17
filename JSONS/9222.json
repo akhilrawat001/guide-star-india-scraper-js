@@ -1,0 +1,39 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9222",
+  "name": "Center for Education Environment and Community (CEECo)",
+  "primaryEmail": "INFO.CEECO@GMAIL.COM",
+  "website": "WWW.CEECO.CO.IN",
+  "organisationType": [
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919341390529"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "01, Banugondi, Konanur Post,",
+      "Banugondi Village, Konanur PO, Arkalgud Taluk",
+      "Hassan District , Karnataka State – 573130",
+      "Hassan",
+      "Karnataka",
+      "573130"
+    ]
+  },
+  "briefDescription": "CEECo is a registered non profit organisation working in the area of Community based Environmental Education. We are mainly focussing on activity based environmental education in which we are developing students friendly eco-friendly schools, livelihood based environmental conservation.",
+  "yearOfEstablishment": "2009",
+  "regiseredAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "Banugondi, Konanur Post,",
+      "Banugondi Village, Konanur PO, Arkalgud Taluk",
+      "Hassan District , Karnataka State – 573130",
+      "Hassan",
+      "Karnataka",
+      "573130"
+    ]
+  }
+}

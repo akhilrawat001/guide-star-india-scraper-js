@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Arti Amte Nankar",
+      "designation": "President",
+      "email": "arti@swachha.net"
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9869",
+  "name": "Swachha Bahuuddeshiya Sanstha",
+  "primaryEmail": "uday@swachha.net",
+  "website": "https://www.swachha.net/",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919423506957"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "C/o Nankar, 302 Park Street Apartment",
+      "Vishnu Nagar, Shilangan Road",
+      "Amravati",
+      "Maharashtra",
+      "444607"
+    ]
+  },
+  "briefDescription": "Swachha is a social service organization working on issues related to clean and healthy environment, community health, child and women development and sustainable livelihoods. Through its various activities Swachha have been trying to initiate / stimulate discussions, raise awareness, encourage people to participate in the ongoing programs related to these issues, and to find practical solutions to the problems related to these issues.Swachha also encourage and support other individuals, social and professional organizations, and government functionaries working on similar issues.",
+  "yearOfEstablishment": "2016"
+}

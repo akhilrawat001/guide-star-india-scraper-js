@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Mr. Samarth Damle",
+      "designation": "",
+      "email": null
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7816",
+  "name": "Inter National Mission of Dr Ambedkar Education Society",
+  "primaryEmail": "samarthdamle123@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "917122640338",
+    "917122640338"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "New Nakasha Nagpur",
+      "Dr. Ambedkar Marg",
+      "Nagpur",
+      "Maharashtra",
+      "440017"
+    ]
+  }
+}

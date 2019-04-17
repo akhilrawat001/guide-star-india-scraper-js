@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "Bhujang Ramrao Khillare",
+      "designation": "",
+      "email": null
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7866",
+  "name": "LATE SHRI LAXMIDEVI BAHUUDDESHIYA SEVABHAVI TRUST",
+  "primaryEmail": "brkhillare@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919673621045"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Near Hanuman Mandir Old Mukundwadi",
+      "Plot No -2  Police Colony Mukundwadi",
+      "Aurangabad",
+      "Maharashtra",
+      "431001"
+    ]
+  }
+}

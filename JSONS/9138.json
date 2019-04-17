@@ -1,0 +1,33 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9138",
+  "name": "LATE SHRI MANGI LAL VISHNOI TECHNICAL EDUCATION AND CHARITABLE SOCIETY BHILWARA",
+  "primaryEmail": "ceo@mlvtecs.com",
+  "website": "www.mlvtecs.com",
+  "organisationType": [
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "917891290000"
+  ],
+  "mainAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "MLVTECS, 1 To 6, Jambheshwar Complex, Gandhi Nagar",
+      "Pur Road, Hotel Amar Palace",
+      "Bhilwara",
+      "Rajasthan",
+      "311001"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "339, Near Jambheshwar Complex, Gandhi Nagar,",
+      "Bhilwara",
+      "Rajasthan",
+      "311001"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "contacts": [
+    {
+      "name": "Dr.M.Shivakumar",
+      "designation": "",
+      "email": null
+    },
+    {
+      "name": "Dr.M.Shivakumar",
+      "designation": "Secretary",
+      "email": "shivakumar@damienfoundation.in",
+      "mobile": [
+        "91-44-28361910",
+        "91-9789964309"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9160",
+  "name": "DAMIEN FOUNDATION INDIA TRUST",
+  "primaryEmail": "admin@damienfoundation.in",
+  "website": "www.damienfoundation.in",
+  "organisationType": [
+    "Direct Service",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "914428360496",
+    "914428360496"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "14, (old No.27), Venugopal Avenue, Spur Tank Road,",
+      "Chetpet",
+      "Chennai",
+      "Tamil Nadu",
+      "600031"
+    ]
+  },
+  "briefDescription": "Damien Foundation India Trust (DFIT) is a charitable Non-Governmental Organisation working for Leprosy and TB Control Activities in India,  supported by Damien Foundation Belgium. It offers Leprosy and TB related services either directly through its own projects or through local NGO projects. It is also involved in strengthening Leprosy and TB Control Programmes of the Government through activities like capacity building. The organisation started its chapter of leprosy control activities in South India in 1955, TB control in 1996. Our focus : Prevent occurrence of Leprosy and tuberculosis through Education, provide effective treatment and deformity correction surgeries for those affected, provide support for their social acceptance.",
+  "yearOfEstablishment": "1992"
+}

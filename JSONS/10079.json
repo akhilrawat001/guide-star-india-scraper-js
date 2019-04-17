@@ -1,0 +1,44 @@
+{
+  "contacts": [
+    {
+      "name": "Smitha. B S",
+      "designation": "Senior Manager",
+      "email": "smitha.bs@quesscorp.com"
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10079",
+  "name": "CAREWORKS FOUNDATION",
+  "primaryEmail": "kishan.r@quesscorp.com",
+  "website": "http://www.cwfglobal.org",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "917411328400"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "No 3/3/2, Quess House, Ambalipura Sarjapur road, Bellandur Gate",
+      "Next to Fab India",
+      "Bengaluru",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560037"
+    ]
+  },
+  "briefDescription": "Care Works Foundation (CWF) is a non-profit organization established in Jan, 2014.  to act as a catalyst of change and create better lives. Driven by the belief that education and health are the two major pillars to accelerate growth in a society, CWF identified several smaller elements under these to encourage community developmentOur Vision: “To actively contribute to the community and create a positive impact in the lives of people, especially in the areas of health and education. In doing so, Quess aims to build a healthy and educated workforce and provide sustainable livelihood for the weaker sections of society”",
+  "yearOfEstablishment": "2014",
+  "regiseredAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "No 3/3/2, Quess House, Amballipura, Sarjapur road, Bellandur Gate",
+      "Next to Fab India",
+      "Bengaluru",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560103"
+    ]
+  }
+}

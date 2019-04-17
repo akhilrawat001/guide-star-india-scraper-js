@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "MR.JANMEJAY TIWARI",
+      "designation": "",
+      "email": null
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7652",
+  "name": "LOK JAN KALYAN SEVA SANSTHAN",
+  "primaryEmail": "janmejaytiwari2@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "918292095185"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "Vill- Ameya, Post- Mahuawa",
+      "Baherwa Bazar, Kateya",
+      "Gopalganj",
+      "Bihar",
+      "841437"
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9589",
+  "name": "AADHAR FOUNDATION MUKATI",
+  "primaryEmail": "adharfoundationmkt@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918275354370"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "At Post Mukati Tal",
+      "Mukati",
+      "Dhule",
+      "Maharashtra",
+      "424002"
+    ]
+  },
+  "briefDescription": "Aadhar Foundation Mukati is located in Dhule, Maharashtra.",
+  "yearOfEstablishment": "2017",
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "House No - 1683, At Post Mukati Tal",
+      "Mukati",
+      "Dhule",
+      "Maharashtra",
+      "424002"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "contacts": [
+    {
+      "name": "Mirza Osman Goni",
+      "designation": "",
+      "email": null
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9631",
+  "name": "BRAHMAPUTRA VALLEY RURAL DEVELOPMENT ASSOCIATION (BVRDA) N.G.O",
+  "primaryEmail": "gonibvrda@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919957648039",
+    "919957648039"
+  ],
+  "mainAddrress": {
+    "state": "Assam",
+    "address": [
+      "Vill. & P.O- Baghmara Char",
+      "Baghmara char jr collage",
+      "Barpeta",
+      "Assam",
+      "781127"
+    ]
+  },
+  "briefDescription": "Brahmaputra Valley Rural Development Association (BVRDA) N.G.O is located in Barpeta, Assam.",
+  "yearOfEstablishment": "2007",
+  "regiseredAddrress": {
+    "state": "Assam",
+    "address": [
+      "Vill. & P.O- Baghmara Char",
+      "Baghmara char jr collage",
+      "Barpeta",
+      "Assam",
+      "781127"
+    ]
+  }
+}

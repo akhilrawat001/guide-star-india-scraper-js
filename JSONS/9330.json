@@ -1,0 +1,35 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9330",
+  "name": "JAN SHIKSHAN SANSTHAN",
+  "primaryEmail": "jssbk@yahoo.in",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "912742251110",
+    "919426032886"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "Abov Kiran Paper Products, Near Shraddha Residency",
+      "Dhundhiyawadi",
+      "Palanpur",
+      "Banaskantha",
+      "Gujarat",
+      "385001"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "Abo Kiran Paper Products, Near Shraddha Residency",
+      "Dhundhiyawadi",
+      "Palanpur",
+      "Banaskantha",
+      "Gujarat",
+      "385001"
+    ]
+  }
+}

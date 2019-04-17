@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "Pallab Jana",
+      "designation": "Director",
+      "email": "sevaksanghachakkandu@gmail.com",
+      "mobile": [
+        "91-8137000624"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9123",
+  "name": "Sevak Sangha (Chak-Kandu)",
+  "primaryEmail": "sevaksanghachakkandu@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "+918137000624",
+    "+919732650948",
+    "913220277339"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Vill+Po-Mathura ,Ps-Patashpur",
+      "Patashpur",
+      "East Medinipur",
+      "West Bengal",
+      "721456"
+    ]
+  },
+  "briefDescription": "Sevak Sangha (Chak-Kandu) is located in East Medinipur, West Bengal.",
+  "yearOfEstablishment": "1980"
+}

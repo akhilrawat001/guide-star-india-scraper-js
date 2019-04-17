@@ -1,0 +1,38 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9501",
+  "name": "TALIM FOUNDATION",
+  "primaryEmail": "talim.globe@gmail.com",
+  "website": "www.talimglobe.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919864320613",
+    "917021524260"
+  ],
+  "mainAddrress": {
+    "state": "Assam",
+    "address": [
+      "House  No.4,Japorigog,Ajanpir path,Near Ras Field,Dispur,",
+      "Guwahati",
+      "Kamrup",
+      "Assam",
+      "781005"
+    ]
+  },
+  "briefDescription": "Talim Foundation (Public trust) is located in Guwahati, Assam,India.The trust is working in the field of educational,socio-economic and for social justice.",
+  "yearOfEstablishment": "2015",
+  "regiseredAddrress": {
+    "state": "Assam",
+    "address": [
+      "House  No.4,Japorigog,Ajanpir path,Near Ras Field,Dispur,",
+      "Dispur.",
+      "Guwahati",
+      "Kamrup Metropolitan",
+      "Assam",
+      "781005"
+    ]
+  }
+}

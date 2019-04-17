@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "MR. MAHESH U SHINDE",
+      "designation": "",
+      "email": null
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7910",
+  "name": "APEX EDUCATION SOCIETY DHULE",
+  "primaryEmail": "maheshushinde@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "912562699111",
+    "912562699111"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "111/B NATESHWAR SOCIETY",
+      "WAKHARKAR NAGAR",
+      "DHULE",
+      "Dhule",
+      "Maharashtra",
+      "424001"
+    ]
+  }
+}

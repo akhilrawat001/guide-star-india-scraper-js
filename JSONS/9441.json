@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Sudip Das",
+      "designation": "",
+      "email": null
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9441",
+  "name": "JANASHAKTI BIKASH MANCHA",
+  "primaryEmail": "janashaktibm@gmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Grant-making",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "913624220140",
+    "913624220140"
+  ],
+  "mainAddrress": {
+    "state": "Assam",
+    "address": [
+      "Vill.-Puspakpur, Ward No-10, P.O-Milanpur,",
+      "Nalbari",
+      "Assam",
+      "781337"
+    ]
+  }
+}

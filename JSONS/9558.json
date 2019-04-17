@@ -1,0 +1,37 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9558",
+  "name": "AASIA CHARITABLE TRUST",
+  "primaryEmail": "alvina55555aasia@gmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Intermediary",
+    "Support"
+  ],
+  "telephone": [
+    "+918607275399"
+  ],
+  "mainAddrress": {
+    "state": "Haryana",
+    "address": [
+      "House No-330B,Sector-C",
+      "Defence Colony",
+      "Ambala Canntonment",
+      "Ambala",
+      "Haryana",
+      "133001"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "Shop No-204 Plot No-1,",
+      "Vardhman Dwarka Dheesh Plaza",
+      "Sector-10, Dwarka,New Delhi",
+      "South West Delhi",
+      "Delhi",
+      "110075"
+    ]
+  }
+}

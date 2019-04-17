@@ -1,0 +1,32 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9755",
+  "name": "SURMA VALLEY DEVELOPMENT SOCIETY",
+  "primaryEmail": "surmavalleydevelopmntsocity@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "+919859160187"
+  ],
+  "mainAddrress": {
+    "state": "Assam",
+    "address": [
+      "Village-Harinagar-Pt-2",
+      "Villag-Harinagar",
+      "Cachar",
+      "Assam",
+      "788805"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Assam",
+    "address": [
+      "Vill- Harinagar Pt- II,P.O. Rajartilla, P.S- Katigorah",
+      "Vill- Harinagar",
+      "Cachar",
+      "Assam",
+      "788805"
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Mr.Sainath Pradhan",
+      "designation": "",
+      "email": null
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7781",
+  "name": "BEHALA BHAGWAT LEELA SOCIETY",
+  "primaryEmail": "bblsociety@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "913324000698",
+    "913324000698"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "139,1st Floor,",
+      "Buroshibtala Main Road",
+      "Kolkata",
+      "West Bengal",
+      "700038"
+    ]
+  },
+  "briefDescription": "We work for the helpless citizen of the society for their upliftment. We conduct free Blood Donation Camps, Health checkup camps, Children & Mother help check up, Granting Scholarships, Providing Reading and other materials for the above purpose. We are also in the process of setting up a Rural Centre containing Residential Schools, Research Centre, Hospital, Old Age home etc.",
+  "yearOfEstablishment": "2010"
+}

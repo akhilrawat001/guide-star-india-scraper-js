@@ -1,0 +1,48 @@
+{
+  "contacts": [
+    {
+      "name": "Rahul Kumar",
+      "designation": "Chief Project Co-ordinator",
+      "email": "rahul@cfmglobal.org",
+      "mobile": [
+        "91-11-49414220",
+        "91-9971746306"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10206",
+  "name": "Community Friendly Movement (C.F.M.)",
+  "primaryEmail": "info@cfmglobal.org",
+  "website": "http://www.cfmglobal.org",
+  "organisationType": [
+    "Intermediary",
+    "Support"
+  ],
+  "telephone": [
+    "911149414200"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "208 2nd Floor, Savitri Nagar",
+      "Near Syndicate Bank",
+      "Malviya Nagar",
+      "South Delhi",
+      "Delhi",
+      "110017"
+    ]
+  },
+  "briefDescription": "CFM is a non-profit grassroots project implementing agency working to deliver CSR mandate of PSUs and other funding agencies since 2005. We are based in New Delhi but in the last 12 years of work we have delivered projects across India namely in Gujarat, MP, Chhattisgarh, Bihar, Jharkhand, Rajasthan, UP and Sikkim for GAIL (India) Ltd, BHEL, PRCL, Ford Foundation, eBay Foundation, SDTT, Hivos to name a few. We have also worked extensively under Government flagship projects like Swachh Bharat Abhiyaan, Saansad Aadarsh Gram Yojna, Pradhan Mantri Kaushal Vikas Yojna among others. Number of people served: 50000 beneficiaries across India in 3000 villages.",
+  "yearOfEstablishment": "2005",
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "A-11, LGF, NITI BAGH",
+      "AUGUST KRANTI MARG",
+      "NEW DELHI",
+      "South East Delhi",
+      "Delhi",
+      "110049"
+    ]
+  }
+}

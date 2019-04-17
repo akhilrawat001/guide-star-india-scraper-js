@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Manish Jaiswal",
+      "designation": "",
+      "email": null
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9151",
+  "name": "I- kiran FOUNDATION CHARATABLE TRUST",
+  "primaryEmail": "ikiranfoundation@gmail.com",
+  "website": "www.ikiranfoundation.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919621481609"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "0079, Chargawan, P.O Shahpur Tahsil",
+      "Chargawan",
+      "Sahapur Sadar",
+      "Gorakhpur",
+      "Uttar Pradesh",
+      "273013"
+    ]
+  }
+}

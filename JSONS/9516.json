@@ -1,0 +1,35 @@
+{
+  "contacts": [
+    {
+      "name": "Rajendra Pawar",
+      "designation": "",
+      "email": null
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9516",
+  "name": "SEWADAS SHAIKSHANIK VA SAMAJIK SANSTHA, LANJI",
+  "primaryEmail": "rajendrapawar101@gmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919423139379"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "At Post Lanji",
+      "Tq - Mahur",
+      "Mahur",
+      "Nanded",
+      "Maharashtra",
+      "431721"
+    ]
+  },
+  "briefDescription": "Sewadas Shaikshanik Va Samajik Sanstha is located in Nanded, Maharashtra.",
+  "yearOfEstablishment": "1997"
+}

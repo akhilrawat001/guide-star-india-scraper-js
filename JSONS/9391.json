@@ -1,0 +1,41 @@
+{
+  "contacts": [
+    {
+      "name": "Pramod Kumar",
+      "designation": "",
+      "email": null
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9391",
+  "name": "Vikas Prabhat Kalyan Samiti",
+  "primaryEmail": "vikasprabhatngo.041109@gmail.com",
+  "website": "www.vpksngo.blogspot.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "+919302158627",
+    "+919301458627"
+  ],
+  "mainAddrress": {
+    "state": "Chhattisgarh",
+    "address": [
+      "1B/81 Pump House Colony Korba",
+      "Korba",
+      "Chhattisgarh",
+      "495677"
+    ]
+  },
+  "briefDescription": "6 Member are Permanent and nearly 50 worker are working for project only.",
+  "yearOfEstablishment": "2009",
+  "regiseredAddrress": {
+    "state": "Chhattisgarh",
+    "address": [
+      "1B/81 Pump House Colony Korba",
+      "Near Durga Pandal Pump House Colony",
+      "Korba",
+      "Chhattisgarh",
+      "495677"
+    ]
+  }
+}

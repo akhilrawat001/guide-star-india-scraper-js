@@ -1,0 +1,43 @@
+{
+  "contacts": [
+    {
+      "name": "Mukul Muzumdar",
+      "designation": "Co-ordinator",
+      "mobile": [
+        "91-9404976833"
+      ],
+      "email": "officebabaamte@gmail.com"
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10153",
+  "name": "MAHAMANAV BABA AMTE BAHUUDDESHIYA SAMAJIK VIKAS SEVA SANSTHA",
+  "primaryEmail": "officebabaamte@gmail.com",
+  "website": "www.babaamtevss.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919404976833"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Kulkarni Wada, Gavli Galli, Near Savarkar Chowk, Shrigonda,",
+      "Ahmednagar",
+      "Maharashtra",
+      "413701"
+    ]
+  },
+  "briefDescription": "We have been in the field of tribal students empowerment since 2008 in a small town called Shrigonda in Ahmednagar district in Maharashtra. We have now taken up a herculean task of building a state of art multipurpose center for the youth belonging to all the nomadic tribes with a capacity of nearly 150 children.",
+  "yearOfEstablishment": "2008",
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "At Post Chikli",
+      "Shrigonda",
+      "Ahmednagar",
+      "Maharashtra",
+      "413728"
+    ]
+  }
+}

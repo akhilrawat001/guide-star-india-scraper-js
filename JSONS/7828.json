@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Partha Pratim Goswami",
+      "designation": "",
+      "email": null
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7828",
+  "name": "Kasba Dweep Welfare Society",
+  "primaryEmail": "care@dweepwelfaresociety.org",
+  "website": "http://dweepwelfaresociety.org/",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919804074768"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "24 Prantik Pally, Kasba,",
+      "Bosepukur",
+      "Kolkata",
+      "West Bengal",
+      "700042"
+    ]
+  },
+  "briefDescription": "Kasba Dweep Welfare Society is a secular, impartial, and apolitical organization (NGO) registered under the Societies Registration Act of 1961. We were set up in April 2012, located in Kasba (Bosepukur) area of Kolkata (India), and since then have been raising resources to protect the rights of elderly, underprivileged children, women, and working for all around development of the backward and underprivileged community by providing relief to them through various interventions and programs. 1.Education/Health2.  Women Health Camps/Medical Awareness Programs.3.  Health Dispensary providing healthcare services to 100s of people each month.",
+  "yearOfEstablishment": "2012"
+}

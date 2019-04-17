@@ -1,0 +1,48 @@
+{
+  "contacts": [
+    {
+      "name": "Snigdha Bairagi",
+      "designation": "Director - Programme",
+      "email": "snigdhabairagi555@gmail.com",
+      "mobile": [
+        "91-7890324881"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9200",
+  "name": "Bithari Disha",
+  "primaryEmail": "bitharidisha@gmail.com",
+  "website": "http://www.bitharidisha.org.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network"
+  ],
+  "telephone": [
+    "919593665388",
+    "918777475992",
+    "919748711447"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Village and P.O. - Bithari, P.S. Swarupnagar",
+      "Barasat",
+      "North 24 Parganas",
+      "West Bengal",
+      "743286"
+    ]
+  },
+  "briefDescription": "Bithari Disha is an NGO registered under West Bengal society registration Act 1961 in the year of 2002.The organisation has a proven track record of working in   partnership with different  Governmental  and Non- Governmental agencies for bring about the changes and  improvement of quality of life of the community people.The activities being implemented are Water quality monitoring, installation of household & community toilets, construction of rainwater harvesting structures, hygiene awareness camps, etc.,Repair/renovation of water sources, household sanitation, surface water treatment plant, hygiene awareness camp, water sources maintenance and management etc., livelihood, Education covering 1 lakh families.",
+  "yearOfEstablishment": "2002",
+  "regiseredAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Village and P.O. - Bithari, P.S. - Swarupnagar,",
+      "Barasat",
+      "North 24 Parganas",
+      "West Bengal",
+      "743286"
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Raghavendra Subedar",
+      "designation": "",
+      "email": null
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9146",
+  "name": "Grameena Vikas Prathishtan Samsthe",
+  "primaryEmail": "gvpshm@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919663200371"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "Near SG High School, Kushtagi-Sindhanoor Road,",
+      "Tq: Kushtagi",
+      "Hiremannapur",
+      "Koppal",
+      "Karnataka",
+      "583277"
+    ]
+  }
+}

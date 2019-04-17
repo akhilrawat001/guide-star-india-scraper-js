@@ -1,0 +1,39 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10118",
+  "name": "SIMPLE EDUCATION FOUNDATION",
+  "primaryEmail": "rahul@simpleeducationfoundation.org",
+  "website": "http://simpleeducationfoundation.org/",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service"
+  ],
+  "telephone": [
+    "919871136123",
+    "919654641751"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "A-86, Second Floor",
+      "Malviya Nagar",
+      "New Delhi",
+      "South Delhi",
+      "Delhi",
+      "110017"
+    ]
+  },
+  "briefDescription": "Simple Education Foundation (SEF) is a not-for-profit organization based in Delhi. It was founded in 2013 by two Teach For India alumni, and is registered as a trust. SEF works with the mission to build pathways that offer every child the access to quality education, regardless of their social and economic backgrounds. We do this by transforming the teaching and learning processes within government schools through a 'Whole School Transformation' program, across diverse contexts and landscapes. Currently we directly reach out to 500+ students and 25 teachers across 2 Northern states in India.",
+  "yearOfEstablishment": "2013",
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "H-1, Bandhu Vihar, CGHS",
+      "Sector – 10, Plot No. – 11, Dwarka,",
+      "New Delhi",
+      "South West Delhi",
+      "Delhi",
+      "110015"
+    ]
+  }
+}

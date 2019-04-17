@@ -1,0 +1,36 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10026",
+  "name": "Punaschethana Charitable Trust",
+  "primaryEmail": "baleyadadivya@gmail.com",
+  "website": "http://www.punaschetana.org/",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "918272237779",
+    "917337759919"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "No 1, Mahila Smaja Building",
+      "Napokul",
+      "Kodagu",
+      "Karnataka",
+      "571214"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "No 1",
+      "Mahila Samaja Building",
+      "Napoklu",
+      "Kodagu",
+      "Karnataka",
+      "571214"
+    ]
+  }
+}

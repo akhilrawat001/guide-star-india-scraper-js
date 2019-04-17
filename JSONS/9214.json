@@ -1,0 +1,44 @@
+{
+  "contacts": [
+    {
+      "name": "Mr.Stephen Raj",
+      "designation": "Director"
+    },
+    {
+      "name": "Reenu",
+      "designation": "Coordinator",
+      "email": "irdcsnacpdy@gmail.com"
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9214",
+  "name": "INTEGRATED REHABILITATION & DEVELOPMENT CENTRE",
+  "primaryEmail": "irdcsnacpdy@gmail.com",
+  "website": "www.babysarahs.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919994507100"
+  ],
+  "mainAddrress": {
+    "state": "Puducherry",
+    "address": [
+      "No. 7, Rajaganpathy Nagar,",
+      "Kakayanthope, Ariyankuppam",
+      "Puducherry",
+      "605007"
+    ]
+  },
+  "briefDescription": "IRDC is working since last 24  year in the Puducherry for the welfare of orphans and persons with disabilities. the following projects are running by the IRDC. 1. Residential Home for PwDs ( Approx.500 Pwds served)2. Residential home for orphans ( Approx.2000 Pwds served) till date3. other around 4 - 5 projects",
+  "yearOfEstablishment": "1992",
+  "regiseredAddrress": {
+    "state": "Puducherry",
+    "address": [
+      "No. 7, Rajaganpathy Nagar,",
+      "Kakayanthope, Ariyankuppam",
+      "Puduchery",
+      "Puducherry",
+      "605007"
+    ]
+  }
+}

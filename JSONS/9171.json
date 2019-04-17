@@ -1,0 +1,33 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9171",
+  "name": "Social Development and Educational Society",
+  "primaryEmail": "nisha.sdes01@gmail.com",
+  "website": "socialdevelopment.co.in",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919219276328",
+    "919219224449"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "266/173/1, New Basti Bhadewan, Lucknow",
+      "Lucknow",
+      "Uttar Pradesh",
+      "226004"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "293/914, Old Haiderganj, Joshi Tola,",
+      "Lucknow",
+      "Uttar Pradesh",
+      "226003"
+    ]
+  }
+}

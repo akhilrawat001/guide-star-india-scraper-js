@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Asit Bakuly",
+      "designation": "Secretary",
+      "email": "scheduledcastewelfarecentre101@gmail.com"
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7089",
+  "name": "SCHEDULED CASTE WELFARE CENTRE",
+  "primaryEmail": "scheduledcastewelfarecentre101@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919475229375"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Vill. & P.O.- Uttar Manasri",
+      "P.S.- Udaynarayanpur",
+      "Village- Uttar Manasri",
+      "Howrah",
+      "West Bengal",
+      "711412"
+    ]
+  }
+}

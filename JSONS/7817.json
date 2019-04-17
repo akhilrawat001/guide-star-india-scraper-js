@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Mamika De",
+      "designation": "",
+      "email": null
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7817",
+  "name": "Special Care Organization for Physically Exceptional",
+  "primaryEmail": "2010.sams@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919830381058"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Village ï¿½ Matikumra ,",
+      "P.O. ï¿½ Chowrashi , P.S. ï¿½ Deganga",
+      "Matikumra",
+      "North 24 Parganas",
+      "West Bengal",
+      "743424"
+    ]
+  }
+}

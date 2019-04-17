@@ -1,0 +1,41 @@
+{
+  "contacts": [
+    {
+      "name": "Narayan Babu Saxena",
+      "designation": "President"
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10062",
+  "name": "NARAYAN EDUCATIONAL SOCIETY",
+  "primaryEmail": "shailendrasaxena001@rediffmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Intermediary",
+    "Network"
+  ],
+  "telephone": [
+    "+919412068414"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "176(68-A)",
+      "New Colony Chujurgi",
+      "Etawah",
+      "Uttar Pradesh",
+      "206001"
+    ]
+  },
+  "briefDescription": "Narayan Educational Society (NES) was founded on 08thAugust 2012 by group of youthactivists, who came together to improve and up grading India community in Etawah city realizedthe necessity of establishment means of contributing to their community needs in respond to acountry wise formation of voluntary institution by various community group most of them wereyouth group.Like wise the agencies and the other national humanitarian in situations operating inIndia have encouraged the foundation of youth organizations and promised to improve capacitybuilding in order to create participation at community level in order to achieve sustainable resultfrom the activities to their communities especially youth ,children and women.",
+  "yearOfEstablishment": "2012",
+  "regiseredAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "176(68-A)",
+      "New Colony Chugurji",
+      "Etawah",
+      "Uttar Pradesh",
+      "206001"
+    ]
+  }
+}

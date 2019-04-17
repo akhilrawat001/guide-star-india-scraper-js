@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Rajat Verma",
+      "designation": "CEO",
+      "email": "medivow@gmail.com"
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9705",
+  "name": "MEDIVOW FOUNDATIONS",
+  "primaryEmail": "rajesh.butta@gmail.com",
+  "website": "http://www.medivowfoundations.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918800999281"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "242/A, Street No.7, Nehru Nagar",
+      "Patel Nagar",
+      "New Delhi",
+      "West Delhi",
+      "Delhi",
+      "110008",
+      "CERTIFICATE OF INCORPORATION.PDF"
+    ]
+  },
+  "briefDescription": "Medivow Foundations is a vow to serve affordable and reliable healthcare services to the society, particularly to rural India. Our mission is to setup \"Medivow Centres\" in various villages where people do not have access to proper medical facilities. Our centres would work like “Virtual OPD centres” to provide telemedicine through web-based video conferencing solution besides other services to cover the whole gamut of healthcare. Our long term goal is to create a multiple of such ‘Medivow Centres’ so that we could expand the reachof medical advice to people living in remote areas and who do not have access to right medicalintervention at the right time.",
+  "yearOfEstablishment": "2017"
+}

@@ -1,0 +1,43 @@
+{
+  "contacts": [
+    {
+      "name": "Avi Bhanawat",
+      "designation": "Chairman",
+      "email": "support@svojas.org"
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9379",
+  "name": "SVOJAS FOUNDATION",
+  "primaryEmail": "svojasf@gmail.com",
+  "website": "http://www.svojas.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919986913333"
+  ],
+  "mainAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "225, Vivek Nagar, Hiran Magri",
+      "Sector 3",
+      "Udaipur",
+      "Rajasthan",
+      "313002"
+    ]
+  },
+  "briefDescription": "Svojas is a community serving organization focused on providing service to the global canvas, delivering women empowerment programs, educational campaigns on protecting the environment and building devices to fight malnutrition. We strongly believe that the lower segment of the mass, comprising of oppressed and bereaved lives, are under the aegis of society. We also focus on social entrepreneurship to ensure sustenance & uphold the cause we stand for. In last year and half we made 150+ lives better.",
+  "yearOfEstablishment": "2015",
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "C-72, first floor, Gali No.3, Hardev Nagar, Jharoda",
+      "Burari",
+      "Delhi",
+      "North Delhi",
+      "110084"
+    ]
+  }
+}

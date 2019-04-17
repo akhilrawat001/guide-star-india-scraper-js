@@ -1,0 +1,46 @@
+{
+  "contacts": [
+    {
+      "name": "Joyita Ambett",
+      "designation": "CEO"
+    },
+    {
+      "name": "Shifrah Jacobs",
+      "designation": "Head Corporate Partnerships",
+      "email": "shifrah.jacobs@justiceandcare.org"
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9459",
+  "name": "Waste Management Society",
+  "primaryEmail": "info@justiceandcare.org",
+  "website": "http://www.wastemanagementsociety.org/",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "917899586002"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "Waste Management Society · GPO, PO Box 5502, · Dr Ambedkar Road · Bangalore 560001 · India",
+      "Dr Ambedkar Road",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560001"
+    ]
+  },
+  "briefDescription": "Waste Management Society was founded eight years ago by a team of professionals from different disciplines with extensive experience in confronting all forms of human trafficking as well as other forms of exploitation. Today we are a team of over 200+ staff across five countries. We have built an unparalleled operational capability in India with six multi-disciplinary teams operating across India and in Bangladesh. We have registered charities in the UK, Netherlands and the US. National boards that are represented in the international board govern Justice and Care.",
+  "yearOfEstablishment": "2002",
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "C/O N. M. Sardar, 13 Ruikarwadi, Civil Lines, Yavatmal",
+      "Yavatmal",
+      "Maharashtra",
+      "445001"
+    ]
+  }
+}

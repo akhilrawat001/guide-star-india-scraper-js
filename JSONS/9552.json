@@ -1,0 +1,36 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9552",
+  "name": "Agrani Jan Shiksha Sansthan Samiti",
+  "primaryEmail": "nishamhu@gmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "918349049952"
+  ],
+  "mainAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "22/A Sarvajan Coloni",
+      "Kolar Road",
+      "Bhopal",
+      "Madhya Pradesh",
+      "462042"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "22/A Sarvajan Coloni Akbarpur",
+      "Kolar Road",
+      "Bhopal",
+      "Madhya Pradesh",
+      "462042"
+    ]
+  }
+}

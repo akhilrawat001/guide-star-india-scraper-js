@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Mr. Jitendra Kumar Pandey",
+      "designation": "",
+      "email": null
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7786",
+  "name": "Saugaht Foundation (society for augmentation to unfortunates guide and termology)",
+  "primaryEmail": "pks.jitendra@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "918877067911"
+  ],
+  "mainAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "Opposite IBP Petrol Pump (Rajendra Nagar ) By Pass Road,",
+      "Sudna, Medininagar,",
+      "Palamu,",
+      "Palamu",
+      "Jharkhand",
+      "822102"
+    ]
+  }
+}

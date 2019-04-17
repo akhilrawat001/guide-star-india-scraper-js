@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Nawaz Pasha",
+      "designation": "",
+      "email": null
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9220",
+  "name": "ADARSHA COMMUNITY DEVELOPMENT SERVICE TRUST",
+  "primaryEmail": "adarshacdstrust@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919008242362",
+    "918746090910"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "#118/4, B.Narayanaswamy Building, Immadihalli, Whitefield, Bangalore",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560066"
+    ]
+  }
+}

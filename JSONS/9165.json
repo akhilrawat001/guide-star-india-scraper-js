@@ -1,0 +1,32 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9165",
+  "name": "Adarsh Shiksha Evam Jan Kalyan Samiti Alwar",
+  "primaryEmail": "rajaramkrisnan12@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918432556354"
+  ],
+  "mainAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "189, A- Block",
+      "Ranjeet Nagar, 60 Feet Road",
+      "Alwar",
+      "Rajasthan",
+      "301001"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "Village- Rathi Bass, Post- Nogawan",
+      "Tehsil- Ramgarh",
+      "Alwar",
+      "Rajasthan",
+      "301025"
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "contacts": [
+    {
+      "name": "Sujay Kr Dutta",
+      "designation": "",
+      "email": null
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9477",
+  "name": "HOJAI UNNAYAN MANCHA (HUM)",
+  "primaryEmail": "hojai4u@rediffmail.com",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "913674252970",
+    "913674252970"
+  ],
+  "mainAddrress": {
+    "state": "Assam",
+    "address": [
+      "Uttar Bidya Nagar, Near Tumpreng Road Hojai",
+      "Hojai,Nagaon",
+      "Nagaon",
+      "Assam",
+      "782435"
+    ]
+  },
+  "briefDescription": "Hojai Unnayan Mancha is located in Nagaon. Assam.",
+  "yearOfEstablishment": "2011",
+  "regiseredAddrress": {
+    "state": "Assam",
+    "address": [
+      "Uttar Bidya Nagar, Near Tumpreng Road Hojai",
+      "Nagaon",
+      "Assam",
+      "782435"
+    ]
+  }
+}

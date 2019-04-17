@@ -1,0 +1,23 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10198",
+  "name": "ASHRAY CHARITABLE TRUST",
+  "primaryEmail": "outreach.ashray@rediffmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "910000000000"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "Shop No 1, Plot No 24, First Floor, Block-2,",
+      "Near ING Vasya Bank, WHS Kirti Nagar",
+      "New Delhi",
+      "West Delhi",
+      "Delhi",
+      "110015"
+    ]
+  }
+}

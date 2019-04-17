@@ -1,0 +1,37 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9808",
+  "name": "SPREADING HOPE FOUNDATION",
+  "primaryEmail": "lourdvijay@spreadinghope.in",
+  "website": "www.spreadinghope.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service"
+  ],
+  "telephone": [
+    "919845015123"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "402, 4th floor, Grape Garden Enclave, 64/1, 1st Cross, Vivekanandanagar",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560033"
+    ]
+  },
+  "briefDescription": "Spreading Hope foundation is working towards spreading awareness on organ donation and getting 10 million people to register as organ donors.",
+  "yearOfEstablishment": "2017",
+  "regiseredAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "40, Shalom,",
+      "Davis Road, Cooke Town",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560084"
+    ]
+  }
+}

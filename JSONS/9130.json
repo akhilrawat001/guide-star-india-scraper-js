@@ -1,0 +1,23 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9130",
+  "name": "Pialsole Action for Social Service",
+  "primaryEmail": "pialsole.ass@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "+919126586986",
+    "918918712398"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Vill-Pialsole P.O-Naparabaragram,P.S+Block-Hura,",
+      "Pialsole,NaparaBaragram,Hura ,Purolia",
+      "Purulia",
+      "West Bengal",
+      "723151"
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "Bijaya Kumar Behera",
+      "designation": "",
+      "email": null
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7916",
+  "name": "Rural Developmental Action Cell",
+  "primaryEmail": "rdac_mbj@yahoo.co.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919437077784"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "At-Tulsichaura, Po-Baripada",
+      "Po-Baripada",
+      "Mayurbhanj",
+      "Odisha",
+      "757001"
+    ]
+  }
+}

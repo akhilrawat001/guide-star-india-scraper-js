@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Rakesh Fauzdar",
+      "designation": "",
+      "email": null
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9164",
+  "name": "KEOLADEV RESEARCH FOUNDATION SANSTHAN",
+  "primaryEmail": "krfbharatpur@gmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "915644225186",
+    "915644225186"
+  ],
+  "mainAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "65, Rose Villa, Rajendra Nagar",
+      "Bharatpur",
+      "Rajasthan",
+      "321001"
+    ]
+  },
+  "briefDescription": "Keoladev Research Foundation Sansthan is located in Bharatpur, Rajasthan.",
+  "yearOfEstablishment": "1993"
+}

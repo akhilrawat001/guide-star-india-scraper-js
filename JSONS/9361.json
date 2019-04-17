@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Mohd Uzair Siddiqui",
+      "designation": "",
+      "email": null
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9361",
+  "name": "Ummat-e- Muhammadiya",
+  "primaryEmail": "uemct.global@gmail.com",
+  "website": "https://islamicschool.in",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "919161485058"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "403 AR Center Dr B N Verma Road, Aminabad",
+      "Opp. Gulmarg Hotel",
+      "Lucknow",
+      "Uttar Pradesh",
+      "226018"
+    ]
+  },
+  "briefDescription": "Ummat-e- Muhammadiya is located in Lucknow, Uttar Pradesh.",
+  "yearOfEstablishment": "2015"
+}

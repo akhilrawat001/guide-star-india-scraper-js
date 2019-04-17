@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "Rajesh Kumar Sharma",
+      "designation": "",
+      "email": null
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9167",
+  "name": "SOCIAL WELFARE YOUTH AWARENESS MAHANSAR",
+  "primaryEmail": "orgswyam@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918058560006"
+  ],
+  "mainAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "Social Welfare Youth Awareness ,Opp. Ganga Vidya Peeth",
+      "Mahansar",
+      "Jhunjhunu",
+      "Rajasthan",
+      "331030"
+    ]
+  }
+}

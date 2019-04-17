@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "Pooja Churamani",
+      "designation": "President"
+    },
+    {
+      "name": "Pawan Bharadwaj",
+      "designation": "General Secretary",
+      "email": "Leotony55@gmail.com"
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9629",
+  "name": "Suhana Bhavishya Foundation",
+  "primaryEmail": "suhanabhavishya@gmail.com",
+  "website": "suhanabhavishya.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service"
+  ],
+  "telephone": [
+    "919899568879"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "7 Pine Drive Dlf Chattarpur Farms, Mehrauli",
+      "New Delhi",
+      "South Delhi",
+      "Delhi",
+      "110030"
+    ]
+  },
+  "briefDescription": "We are working towards (i)  improving the environment by tree plantation drives; (ii) to improve access to quality drinking water; (iii) better access to health services and advocacy work for better hygiene (WASH) & sanitation. This will be achieved by a combination of strategies including advocacy work, preventive health camps, Information & Education campaigns (IEC) and liaising with government agencies to provide better services in under-privileged areas in the Delhi NCR region. The target beneficiaries include under-privileged women and children in poor areas and urban slums.",
+  "yearOfEstablishment": "2016"
+}

@@ -1,0 +1,36 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7789",
+  "name": "BHOOMIKA SOCIAL WELFARE ASSOCIATION",
+  "primaryEmail": "bhoomibalarama@gmail.com",
+  "website": "..",
+  "organisationType": [
+    "Grant-making",
+    "Support"
+  ],
+  "telephone": [
+    "919343077999"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "# 21 80 Feet Ring Road",
+      "Opp. Bangalore University Quarters Bus Stop,  Jnanajyothinagar,",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560056"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "# 379, 5th Cross, 8th Main ‘D’ Group Layout",
+      "Srignadha kavalu",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560091"
+    ]
+  }
+}

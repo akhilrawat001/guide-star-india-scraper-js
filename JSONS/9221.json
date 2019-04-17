@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Dr Sanjay Kumar Sinha",
+      "designation": "",
+      "email": null
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9221",
+  "name": "SUKH SANSAR",
+  "primaryEmail": "sukhsansar.patna@gmail.com",
+  "website": "http://sukhsansar.patna.googlepages.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "916122532707",
+    "916122532707"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "M/5,MainRoad,S.K.Nagar,",
+      "Patna",
+      "Bihar",
+      "800001"
+    ]
+  }
+}

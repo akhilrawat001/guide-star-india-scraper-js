@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Fr. Gregory Almedia",
+      "designation": "",
+      "email": null
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9059",
+  "name": "Don Bosco Balprafulta",
+  "primaryEmail": "donboscobalprafulta@gmail.com",
+  "website": "http://www.donboscobalprafulta.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "912224163346",
+    "912224163346"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Don Bosco Youth Services Building, 203 / 204, 2Nd Floor, Don Bosco School Campus,",
+      "Opp. Khalsa College, Matunga (East),",
+      "Mumbai",
+      "Maharashtra",
+      "400019"
+    ]
+  }
+}

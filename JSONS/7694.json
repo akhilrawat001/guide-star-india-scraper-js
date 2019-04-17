@@ -1,0 +1,33 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7694",
+  "name": "BHARAT JYOTI",
+  "primaryEmail": "bj_orissa@yahoo.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919937191097"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "Jhanjirimangala",
+      "Telegabazar",
+      "Cuttack",
+      "Odisha",
+      "753009"
+    ]
+  },
+  "yearOfEstablishment": "1994",
+  "regiseredAddrress": {
+    "state": "Odisha",
+    "address": [
+      "At Behind New L.I.C Colony",
+      "Cuttack",
+      "Odisha",
+      "753012"
+    ]
+  }
+}

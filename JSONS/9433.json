@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "Abhinav Agrawal",
+      "designation": "",
+      "email": null
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9433",
+  "name": "ANAHAD FOUNDATION",
+  "primaryEmail": "mail@anahad.org",
+  "website": "https://www.anahad.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919811545089"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "36(Terrace Floor), Pocket D",
+      "Mayur Vihar 2",
+      "New Delhi",
+      "East Delhi",
+      "Delhi",
+      "110091"
+    ]
+  },
+  "briefDescription": "Anahad Foundation, registered under Section-25 (Not for Profit), is a musical-social enterprise which emphasises in enriching and enhanced interaction of all the regional folklore, classical, and contemporary forms of music in India with the existing conditions and barriers in society. Our activities include research-documentation of Indian musical heritage, folk fusion music collaboration projects and live festivals. We research and document cultural folks which are facing crisis in order to survive, so that we could make a progressive and positive impact on the society.",
+  "yearOfEstablishment": "2013"
+}

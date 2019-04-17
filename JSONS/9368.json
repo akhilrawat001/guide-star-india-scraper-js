@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "S N Viswanathan",
+      "designation": "",
+      "email": null
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9368",
+  "name": "Our Children",
+  "primaryEmail": "info@ourchildrenindia.org",
+  "website": "http://www.ourchildrenindia.org",
+  "organisationType": [
+    "Direct Service",
+    "Intermediary",
+    "Network"
+  ],
+  "telephone": [
+    "912223523377",
+    "912223523377"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "S N Viswanathan",
+      "Everest , 156, Tardeo Road",
+      "Mumbai",
+      "Maharashtra",
+      "400034"
+    ]
+  },
+  "briefDescription": "The sight of under privileged children begging for food prompted a group of young like-minded individuals to come together to alleviate their sufferings. The group joined a couple who had engaged themselves in collection and distribution of excess food from wedding parties. This spark lead to the formation of Our Children (OC) as an NGO in 1970, initially with a focus on providing food to the underprivileged children. As the organisation evolved and grew, the impact expanded to education, life skills, talent development, mentoring, following a very simple philosophy - Strive to provide as many opportunities as possible to as many children as possible, providing every child a chance to be a child."
+}

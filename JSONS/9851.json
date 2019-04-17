@@ -1,0 +1,33 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9851",
+  "name": "KALA SOURABHA FOUNDATION",
+  "primaryEmail": "ksfound.2012@gmail.com",
+  "website": "www.kalasourabha.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918105674544"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "1st Floor, # 10, ‘Gurunivas’, PR Layout, 1st Cross 1st Main, Sheshadripuram,",
+      "Bengaluru",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560020"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "‘Sri Gowri Shankara Nilaya’, U-41, 3rd Cross, Krishnappa Block, Pipeline, Malleshwaram,",
+      "Bengaluru",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560003"
+    ]
+  }
+}

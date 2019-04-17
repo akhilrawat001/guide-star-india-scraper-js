@@ -1,0 +1,36 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9539",
+  "name": "INDIA EDUCATION COLLECTIVE",
+  "primaryEmail": "sharathk15@gmail.com",
+  "website": "http://www.indiaeducationcollective.org",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "911126715210",
+    "911126715210"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "U-12/A, 1st floor",
+      "Green park extension",
+      "New Delhi",
+      "South Delhi",
+      "Delhi",
+      "100016"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "436-D , 2nd cross, Ideal homes Township, Rajarajeshwari nagar",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560098"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Rinkoo Nath",
+      "designation": "",
+      "email": null
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9565",
+  "name": "VASUNDHARA",
+  "primaryEmail": "vasundharango30@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Network"
+  ],
+  "telephone": [
+    "919957149030"
+  ],
+  "mainAddrress": {
+    "state": "Assam",
+    "address": [
+      "Jagiroad, P.O.- Jagiroad,",
+      "Marigaon",
+      "Morigaon",
+      "Assam",
+      "782410"
+    ]
+  },
+  "briefDescription": "Vasundhara is located in Marigaon, Assam.",
+  "yearOfEstablishment": "2003"
+}

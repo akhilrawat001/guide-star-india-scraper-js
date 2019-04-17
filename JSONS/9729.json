@@ -1,0 +1,32 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9729",
+  "name": "JAI BHARAT VIKAS SANSTHAN",
+  "primaryEmail": "jbvsshrinagar@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918094003855"
+  ],
+  "mainAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "H.no.157/29,Mission Compound, Nasirabad,",
+      "Ajmer",
+      "Rajasthan",
+      "305601"
+    ]
+  },
+  "briefDescription": "Jai Bharat Vikas Sansthan is located in Ajmer, Rajasthan.",
+  "yearOfEstablishment": "2006",
+  "regiseredAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "H.no.157/29,Mission Compound, Nasirabad,",
+      "Ajmer",
+      "Rajasthan",
+      "0"
+    ]
+  }
+}

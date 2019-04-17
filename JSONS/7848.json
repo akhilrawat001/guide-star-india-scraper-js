@@ -1,0 +1,46 @@
+{
+  "contacts": [
+    {
+      "name": "Ms.Neelam Patel",
+      "designation": "",
+      "email": null
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7848",
+  "name": "Pragati Path Foundation Trust",
+  "primaryEmail": "pragatipathfoundation.org@gmail.com",
+  "website": "www.pragatipathfoundation.org.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919389220813",
+    "919369338976"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "SA 20/3 D-9 Maya Kunj",
+      "Panchkoshi Road, Paigambarpur, Sarnath",
+      "Varanasi",
+      "Uttar Pradesh",
+      "221007"
+    ]
+  },
+  "briefDescription": "Pragati Path Foundation Trust is a fully non- profit, non-government organization is registered under Indian Trust Act-1882, registration no.: 255 dated December 14th, 2015. Pragati Path Foundation is working for women empowerment and child development in rural and urban aria. Pragati Path Foundation tries to make able to women. Pragati Path Foundation Trust women are trying to maintain the right to equality in society, maintaining their identity and dignity, making them self-sufficient, building their confidence and fear for them and their environment.",
+  "yearOfEstablishment": "2015",
+  "regiseredAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "Dinapur",
+      "Kapildhara, Saraymohana, Sarnath",
+      "Varanasi",
+      "Uttar Pradesh",
+      "221007"
+    ]
+  }
+}

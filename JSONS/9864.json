@@ -1,0 +1,40 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9864",
+  "name": "Committee for Legal Aid to Poor",
+  "primaryEmail": "info@clapindia.org",
+  "website": "www.clapindia.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "916712363980"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "Bimala Devi Memorial Building",
+      "Plot No- 367, Sector - 6, Markat Nagar,",
+      "Cuttack",
+      "Odisha",
+      "753014"
+    ]
+  },
+  "briefDescription": "The CLAP is a public interest law organisation which advances human right through legal services and juridical advocacy at various level. It serves approximately 3000 people annually under Legal Services. It reaches out to approximately 100000 people under various kinds of advocacy initiative including legal awareness and legal empowerment.",
+  "yearOfEstablishment": "1982",
+  "regiseredAddrress": {
+    "state": "Odisha",
+    "address": [
+      "Bimala Devi Memorial Building",
+      "Plot No- 367, Sector - 6,Markat Nagar,",
+      "CDA",
+      "Cuttack",
+      "Odisha",
+      "753014"
+    ]
+  }
+}

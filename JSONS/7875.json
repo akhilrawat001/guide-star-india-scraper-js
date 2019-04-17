@@ -1,0 +1,25 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7875",
+  "name": "HUMAN DEVELOPMENT CENTRE",
+  "primaryEmail": "hdcentreindia@gmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Support"
+  ],
+  "telephone": [
+    "919757113371",
+    "912297571133"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Room No. 104, Devikrupa Building,",
+      "Opp. Hanuman Mandir, Sagav, Manpada Road,",
+      "Dombilvi (East)",
+      "Thane",
+      "Maharashtra",
+      "421204"
+    ]
+  }
+}

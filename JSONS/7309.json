@@ -1,0 +1,23 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7309",
+  "name": "Nataraj Educational and Charitable Trust",
+  "primaryEmail": "nadiyapatham@gmail.com",
+  "website": "www.nectrust.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919443666189"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "9, Gandhi Veethi, Old No.5H6, Periyar Nagar, Kattumannar",
+      "Kattumannar",
+      "Cuddalore",
+      "Tamil Nadu",
+      "608301"
+    ]
+  }
+}

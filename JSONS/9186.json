@@ -1,0 +1,36 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9186",
+  "name": "Jeevantirth",
+  "primaryEmail": "jeevantirth@gmail.com",
+  "website": "www.jeevantirth.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network"
+  ],
+  "telephone": [
+    "919898110897"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "Juna Koba",
+      "Gandhinagar",
+      "Gujarat",
+      "382007"
+    ]
+  },
+  "briefDescription": "Jeevantirth is mainly working in the fields of Education, Environment, Rural Development and Human Rights related issues. Along with direct implementation of the innovative cost effective projects, Jeevantirth has specialized itself in capacity building of the grass-root organizations, teacher’s training and material development.",
+  "yearOfEstablishment": "1997",
+  "regiseredAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "Jeevantirth,",
+      "Juna Koba",
+      "Gandhinagar",
+      "Gujarat",
+      "382007"
+    ]
+  }
+}

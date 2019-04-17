@@ -1,0 +1,31 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9481",
+  "name": "SEARCH SOCIAL SOCIETY",
+  "primaryEmail": "searchsocialngo@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919604922098"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "G-41 Rajdhani Towers",
+      "Rajwada",
+      "Satara",
+      "Maharashtra",
+      "415002"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "160 A Malhar Peth Satara",
+      "Satara",
+      "Maharashtra",
+      "415002"
+    ]
+  }
+}

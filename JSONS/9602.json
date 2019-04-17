@@ -1,0 +1,44 @@
+{
+  "contacts": [
+    {
+      "name": "Ranjana Ray",
+      "designation": "",
+      "email": null
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9602",
+  "name": "Dr. A. V. Baliga Memorial Trust",
+  "primaryEmail": "baligatrust83@gmail.com",
+  "website": "www.baligatrust.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network"
+  ],
+  "telephone": [
+    "911123311119",
+    "911123311119"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "Patriot House, 3 Bahadurshah Zafar Marg",
+      "New Delhi",
+      "Central Delhi",
+      "Delhi",
+      "110002"
+    ]
+  },
+  "briefDescription": "The Trust founded by great freedom fighter Bharat Ratna Aruna Asaf Ali has been working for the deprived section of the society  for almost five decades with a vision to a secular nationally integrated egalitarian society empowering the disadvantaged through education, awareness and employment opportunities.  To break down barriers of negativity in religion, caste and gender. Working in the field of Education, Women's empowerment, Child rights and health in slums and resettlement colonies of Delhi.The values of secularism, national integration and peace pervade all activities of the Trust.",
+  "yearOfEstablishment": "1983",
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "Patriot House, 3 Bahadur Shah Zafar Marg",
+      "New Delhi",
+      "Delhi",
+      "Central Delhi",
+      "110002"
+    ]
+  }
+}

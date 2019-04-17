@@ -1,0 +1,26 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7576",
+  "name": "GRAMIN KSHETRA VIKAS SAMITI",
+  "primaryEmail": "radsgramin@gmail.com",
+  "website": "www.gkvs.co.in",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "911376252229",
+    "911376252229"
+  ],
+  "mainAddrress": {
+    "state": "Uttarakhand",
+    "address": [
+      "PB-06",
+      "Ranichauri",
+      "Ranichauri Tehri Garhwal",
+      "Tehri Garhwal",
+      "Uttarakhand",
+      "249199"
+    ]
+  }
+}

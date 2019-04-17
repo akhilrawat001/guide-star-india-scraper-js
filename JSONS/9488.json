@@ -1,0 +1,34 @@
+{
+  "contacts": [
+    {
+      "name": "Mr.Javid Ahmed Bhat",
+      "designation": "",
+      "email": null
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9488",
+  "name": "NATIONAL ASSOCIATION FOR THE BLIND, KASHMIR",
+  "primaryEmail": "nabjandk@gmail.com",
+  "website": "http://www.nabjandk.com/index1.html#",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919906522208"
+  ],
+  "mainAddrress": {
+    "state": "Jammu and Kashmir",
+    "address": [
+      "National association for the blind J&K",
+      "Near BSNL exchange",
+      "Pattan",
+      "Baramulla",
+      "Jammu and Kashmir",
+      "193121"
+    ]
+  },
+  "briefDescription": "National Association for the Blind is located in Baramulla,Jammu and Kashmir.",
+  "yearOfEstablishment": "2014"
+}

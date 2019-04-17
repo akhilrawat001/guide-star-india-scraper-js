@@ -1,0 +1,25 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7461",
+  "name": "GREEN EARTH PATRON FOUNDATION",
+  "primaryEmail": "grnearth.org@gmail.com",
+  "website": "http://www.grnearth.org",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919717583850"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "H. No 46, Netaji Subash Appt, Phase 1,",
+      "Pocket 1, Sector 13, Dwarka",
+      "New Delhi",
+      "West Delhi",
+      "Delhi",
+      "110078"
+    ]
+  }
+}

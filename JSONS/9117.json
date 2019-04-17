@@ -1,0 +1,33 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9117",
+  "name": "OM SEWA PRATISTHAN SANSTHAN",
+  "primaryEmail": "saraswatrohitash@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919829076733",
+    "911416548819",
+    "919887768571",
+    "919314103935"
+  ],
+  "mainAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "Care of Chandrakala Jasu,19/227,In Front Ramkaran Karkhana,Ngaadkhana Darwaja,Chaube Pada,",
+      "Karauli",
+      "Rajasthan",
+      "0"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "C/O Chandrakala Jasu,19/227,In Front Ramkaran Karkhana,Ngaadkhana Darwaja,Chaube Pada,",
+      "Karauli",
+      "Rajasthan",
+      "322241"
+    ]
+  }
+}

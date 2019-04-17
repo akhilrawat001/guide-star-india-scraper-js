@@ -1,0 +1,30 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9374",
+  "name": "Vishwakarma Janutthan Shiksha Samajik Evam Sanskrti Samiti",
+  "primaryEmail": "vrajkumar28@yahoo.com",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "917509651780"
+  ],
+  "mainAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "House no 122, D-Sector, New subhas Colony, Semra Kala Road, Ashoka Garden",
+      "Bhopal",
+      "Madhya Pradesh",
+      "462023"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "House No- 86, Om Nagar K-3 Birla Mandir Road",
+      "Bhopal",
+      "Madhya Pradesh",
+      "462023"
+    ]
+  }
+}

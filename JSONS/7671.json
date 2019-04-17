@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Mr.Mirza Mobin Beg",
+      "designation": "",
+      "email": null
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7671",
+  "name": "Association for Environment and Development Research",
+  "primaryEmail": "aedr1997@gmail.com",
+  "website": "http://www.aedr.org",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "911149058683",
+    "911149058683"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "204A, Narmada Appt. Block 10",
+      "Vasant Kunj",
+      "New Delhi",
+      "South West Delhi",
+      "Delhi",
+      "110070"
+    ]
+  }
+}

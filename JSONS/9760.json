@@ -1,0 +1,34 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9760",
+  "name": "UTKAL KIDNEY FOUNDATION",
+  "primaryEmail": "utkal_kidney@yahoo.co.in",
+  "website": "WWW.utkalkidney.org",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919337103451"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "Lane-6, Shree Vihar, Chandrasekharpur, Bhubaneswar,",
+      "Bhubaneswar",
+      "Khordha",
+      "Odisha",
+      "751024"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Odisha",
+    "address": [
+      "665/4953, Shree Vihar, Chandrasekharpur",
+      "Bhubaneswar",
+      "Khordha",
+      "Odisha",
+      "751031"
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Bhagwan Prasad Baranwal",
+      "designation": "",
+      "email": null
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9178",
+  "name": "PEOPLE FOR EDUCATION, RESEARCH, SCHOLARSHIP AND OUTWARD NUTRITION",
+  "primaryEmail": "persondelhi@gmail.com",
+  "website": "www.person.org.in",
+  "organisationType": [
+    "Direct Service",
+    "Network"
+  ],
+  "telephone": [
+    "911126164362",
+    "911126164362"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "2nd Floor, 39,",
+      "Mohammadpur, Bhikaji Cama Place",
+      "New Delhi",
+      "South Delhi",
+      "Delhi",
+      "110066"
+    ]
+  }
+}

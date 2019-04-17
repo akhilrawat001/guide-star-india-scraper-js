@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Mr.Shantidoot Budge",
+      "designation": "",
+      "email": null
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7888",
+  "name": "Samyak Drushti Bahuudeshiya Sevabhavi Sanstha Parbhani",
+  "primaryEmail": "samyakdrushti5@gmail.com",
+  "website": "http://samyakdrushtisevabhavisanstha parbhani.com",
+  "organisationType": [
+    "Grant-making",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "918087161187"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Parsavat Nagar",
+      "Near Sudhakar Ration Shop",
+      "Parbhani",
+      "Maharashtra",
+      "431401"
+    ]
+  }
+}

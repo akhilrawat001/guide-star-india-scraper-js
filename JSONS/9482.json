@@ -1,0 +1,32 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9482",
+  "name": "HOPE INDIA",
+  "primaryEmail": "arun0869@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918809004484"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "403 Panvaso Enclave Ahokpuri Khajpura",
+      "Patna",
+      "Bihar",
+      "800014"
+    ]
+  },
+  "briefDescription": "Hope India is located in Patna, Bihar.",
+  "yearOfEstablishment": "2014",
+  "regiseredAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "305, Above Nightingale School,Third Floor, Birsa Chowk,",
+      "Ranchi",
+      "Jharkhand",
+      "834003"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9093",
+  "name": "NATIONAL ORGANISATION FOR SOCIAL EMPOWERMENT",
+  "primaryEmail": "support@nationalngo.org",
+  "website": "http://www.nationalngo.org",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "919599187545"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "Ta 204,1St Floor ,Ravidas Marg,Tughlakabad Extn,",
+      "Near Hanuman Temple",
+      "New Delhi",
+      "South Delhi",
+      "Delhi",
+      "110019"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "H-106,Sant  Nagar Extention 2nd floor",
+      "Tilak Nagar",
+      "New Delhi",
+      "West Delhi",
+      "Delhi",
+      "110058"
+    ]
+  }
+}

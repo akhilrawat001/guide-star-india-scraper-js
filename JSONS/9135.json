@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Rakesh Kumar Singh",
+      "designation": "",
+      "email": null
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9135",
+  "name": "JAN NIRMAN KENDRA",
+  "primaryEmail": "jannirman10@gmail.com",
+  "website": "http://www.jnkindia.ngo",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "918002111668"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "New Police Line Chowk",
+      "Jay Ram Nagar",
+      "Kolhua Paigambarpur",
+      "Muzaffarpur",
+      "Bihar",
+      "843108"
+    ]
+  }
+}

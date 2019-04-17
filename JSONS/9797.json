@@ -1,0 +1,27 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9797",
+  "name": "LOK SEWADAR SANSTHA",
+  "primaryEmail": "loksewadarsanstha16@gmail.com",
+  "website": "www.loksewadarsanstha.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919250589691",
+    "0113327632874"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "H.No-160 ,A-Block",
+      "Jahangir Puri",
+      "North West Delhi",
+      "Delhi",
+      "110033"
+    ]
+  }
+}

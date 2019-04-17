@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Dr. Amit Jayendra Shah",
+      "designation": "",
+      "email": null
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9104",
+  "name": "ASHWINI FOUNDATION HINGOLI",
+  "primaryEmail": "ashwini.foundation.star@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Grant-making",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919822348680"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Arihant,",
+      "Post Office Road, Shastri Nagar,",
+      "Hingoli",
+      "Maharashtra",
+      "431513"
+    ]
+  },
+  "briefDescription": "To start and run hospital for multipurpose and to provide and ambulance for rural and urban areas, blood bank, Pathology lab, medical college, Nursing College to establish and run mobile hospitals, Primary health care center, family planning centers in rural and urban area",
+  "yearOfEstablishment": "2016"
+}

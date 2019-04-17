@@ -1,0 +1,33 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9943",
+  "name": "Rural People Development Trust",
+  "primaryEmail": "rpdtngocns@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919443351414"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "No. 174 Gandhi Nagar, Tirupattur Via, Uthangarai Post And Taluk,",
+      "Uthangarai Post And Taluk,",
+      "Krishnagiri",
+      "Tamil Nadu",
+      "635207"
+    ]
+  },
+  "briefDescription": "Rural People Development Trust is located in Krishnagiri, Tamil Nadu.",
+  "yearOfEstablishment": "2002",
+  "regiseredAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "Gandhi Nagar, T.P.T. Salai, Uthangarai",
+      "Dharmapuri",
+      "Tamil Nadu",
+      "635207"
+    ]
+  }
+}

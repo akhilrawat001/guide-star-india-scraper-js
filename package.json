@@ -1,0 +1,26 @@
+{
+  "name": "scraper",
+  "version": "1.0.0",
+  "description": "a ngo scraper",
+  "main": "scraper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akhilrawat001/guideStarIndiaScraper_Js.git"
+  },
+  "author": "Akhil Rawat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akhilrawat001/guideStarIndiaScraper_Js/issues"
+  },
+  "homepage": "https://github.com/akhilrawat001/guideStarIndiaScraper_Js#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "fs": "0.0.1-security",
+    "json2csv": "^4.5.0",
+    "papaparse": "^4.6.3",
+    "request-promise": "*"
+  }
+}

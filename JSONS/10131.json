@@ -1,0 +1,42 @@
+{
+  "contacts": [
+    {
+      "name": "T Raja",
+      "designation": "Founder",
+      "email": "newarkmissionofindia@yahoo.com"
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10131",
+  "name": "NEW ARK MISSION OF INDIA",
+  "primaryEmail": "newarkmissionofindia@yahoo.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919900120100"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "New Ark Mission of India (Home of Hope), Byrathi Bande",
+      "Hennur-Bagalur Main Road",
+      "Kannur Post, Bangalore",
+      "Bengaluru (Bangalore) Rural",
+      "Karnataka",
+      "562149"
+    ]
+  },
+  "briefDescription": "Home of Hope, a hospice that helps to give a new life to the castaways on the street, is about half-hours drive from the heart of the city of Bangalore. The Home is an active wing of New Ark Mission of India, an NGO founded by Thomas Raja, popularly known as Auto Raja. Men, women and children along with mentally challenged and differently abled find their living at this home. Home of Hope is not just a roof for the destitutes, but a ‘home’ in its true sense, helping them to live like a member of a loving family, as loved and lovable human beings.To find out more about the organisation, log on to http://newarkmission.org/stories.php and https://www.youtube.com/watch?v=bcd2rKIu5uo",
+  "yearOfEstablishment": "2004",
+  "regiseredAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "Survey No 104, Chikkagubbi Village",
+      "Hennur-Bagalur Main Road",
+      "Bidarahalli",
+      "Bengaluru (Bangalore) Rural",
+      "Karnataka",
+      "562149"
+    ]
+  }
+}

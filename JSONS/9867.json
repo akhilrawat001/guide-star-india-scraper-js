@@ -1,0 +1,43 @@
+{
+  "contacts": [
+    {
+      "name": "Kiran Baheti",
+      "designation": "President",
+      "email": "gvss007@gmail.com"
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9867",
+  "name": "Gram Vikas Sewa Sansthan, Amethi, UP",
+  "primaryEmail": "gvss007@gmail.com",
+  "website": "www.gvss.org.in",
+  "organisationType": [
+    "Direct Service",
+    "Network"
+  ],
+  "telephone": [
+    "919936012878"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "Near Ram Lila ground",
+      "Jagdishpur",
+      "Amethi",
+      "Uttar Pradesh",
+      "227809"
+    ]
+  },
+  "briefDescription": "The Gram Vikas Sewa Sansthan is a value based organization working for overall development of rural community. Its major values are equity and equality, participation, transparency and effectiveness. It is working in the field of development right since its inception. Currently GVSS is working in Amethi and Pratapgarh District of Uttar Pradesh for Education, Health, Livelihood and Water conservation Issues.",
+  "yearOfEstablishment": "1978",
+  "regiseredAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "Gram Vikas Sewa Sansthan",
+      "Near Ram Lila Ground",
+      "Jagdishpur",
+      "Amethi",
+      "Uttar Pradesh",
+      "227809"
+    ]
+  }
+}

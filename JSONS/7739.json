@@ -1,0 +1,25 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7739",
+  "name": "PRASHIK BAHUUDDESHIYA GRAMIN VIKAS SANSTHA",
+  "primaryEmail": "prashikngo2006@gmail.com",
+  "website": "pbgvs.org",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "919850487993",
+    "917232237632"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "At.Walki",
+      "Po.Pathrad",
+      "Ner Parsopant",
+      "Yavatmal",
+      "Maharashtra",
+      "445102"
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Mr.Sanjay Rajankar",
+      "designation": "",
+      "email": null
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7923",
+  "name": "Bhausaheb Rajankar Shikshan Prasarak Mandal, Sangrampur",
+  "primaryEmail": "srajankar057@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "918308538027"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      ". Sanjay V. Rajankar Ward No. 2 ,",
+      "Sangrampur",
+      "Buldhana",
+      "Maharashtra",
+      "444202"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "contacts": [
+    {
+      "name": "Shri Udaykumar Vinzanekar",
+      "designation": "President"
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9111",
+  "name": "PUNARVAS EDUCATION SOCIETY",
+  "primaryEmail": "punarvas@hotmail.com",
+  "website": "http://www.punarvas.org/contact_us.html",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "912228727024",
+    "912228747857",
+    "918693055590"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Plot No. 312, Opp. Piramal Nagar,",
+      "S.V. Road, Goregaon (W),",
+      "Mumbai",
+      "Mumbai Suburban",
+      "Maharashtra",
+      "400062"
+    ]
+  },
+  "briefDescription": "Shri Devrajji Gundecha's Punarvas Special School & Vocational Training Centre for Mentally Handicapped was established in 1981 at Goregaon.Punaravas Education Society are providing Educational, Diagnostic & Vocational Services for the mentally challenged by specially trained personnel thereby laying a foundation for them to be integrated in the society.Punarvas is catering 175 mentally challanged children at present. Punarvas Special School are also recognized and partly funded (for 60 children) by the Social Welfare Department of Maharashtra.",
+  "yearOfEstablishment": "1981",
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Yashwant Nagar Co. Hsg. Soc. Ltd",
+      "Goregaon West",
+      "Mumbai",
+      "Mumbai Suburban",
+      "Maharashtra",
+      "400062"
+    ]
+  }
+}

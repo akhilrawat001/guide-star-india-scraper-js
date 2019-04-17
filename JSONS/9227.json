@@ -1,0 +1,42 @@
+{
+  "contacts": [
+    {
+      "name": "Sk. Altab Ali",
+      "designation": "",
+      "email": null
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9227",
+  "name": "Bagnan Human Rural Development Society",
+  "primaryEmail": "bagnanhuman786@gmail.com",
+  "website": "https://www.bhrds.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919831194195"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Vill- Beral,  P.O. -Chitnan",
+      "P.O.- Chitnan",
+      "Howrah",
+      "West Bengal",
+      "711303"
+    ]
+  },
+  "briefDescription": "BHRDS is a not for profit making social welfare organisation working for the down trodden since 2004. It is managed by a group of dedicated youth and it has impacted a lot to the rural and urban population of Howrah, West Bengal. Specially Bagnan-I & II, Amta-I & II, Uluberia-I Block and Uluberia Municipality are coverage area of the organisation.",
+  "yearOfEstablishment": "2004",
+  "regiseredAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Vill Beral PO Chitnan",
+      "PO Chitnan",
+      "Vill Beral",
+      "Howrah",
+      "West Bengal",
+      "711303"
+    ]
+  }
+}

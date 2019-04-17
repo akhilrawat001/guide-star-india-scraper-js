@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Biswanath Pattanaik",
+      "designation": "Secretary",
+      "email": "nisithp@gmail.com"
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8615",
+  "name": "Lok Bikash",
+  "primaryEmail": "nisithp@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919437013866"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "Plot No-210/1320 ,",
+      "Sarala Nagar,N.S.Road,Laxmisagar,",
+      "Po-Budheswari, Bhubaneswar",
+      "Khordha",
+      "Odisha",
+      "751006"
+    ]
+  },
+  "briefDescription": "Lok Bikash  is located in Khordha, Orissa.",
+  "yearOfEstablishment": "1996"
+}

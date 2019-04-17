@@ -1,0 +1,32 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9745",
+  "name": "Dhanarangi Mahuya Welfare Society",
+  "primaryEmail": "biplab132mb@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919475685272"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Dhanarangi.Gopalpur Bankura",
+      "Bankura",
+      "West Bengal",
+      "722136"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Dhanarangi Gopalpur Hirbandh Bankura",
+      "Dhanrangi",
+      "Bankura",
+      "West Bengal",
+      "722136"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9995",
+  "name": "\"DIVYA RASA\" (Centre for Healing, Learning, Research and Communication)",
+  "primaryEmail": "divyarasa555@divyarasa.org",
+  "website": "http://www.divyarasa.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919176300657",
+    "919629427411"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "Divya Rasa - Temple of Love, Su Kilnachipattu",
+      "Then Mathur post, near Arunai Engineering college",
+      "Tiruvannamalai",
+      "Tamil Nadu",
+      "606603"
+    ]
+  },
+  "briefDescription": "Divya Rasa is an NGO dedicated to serve autistic individuals and their peer groups. As of now we are daily taking care of 12 autistic adolescents and supporting their families. The services we render are free of cost, as per the core value of selfless service and unconditional love.",
+  "yearOfEstablishment": "2015",
+  "regiseredAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "No: 20, Chinnaya New Colony, 2nd Cross Street, Perambur, Chennai",
+      "Chennai",
+      "Tamil Nadu",
+      "600011"
+    ]
+  }
+}

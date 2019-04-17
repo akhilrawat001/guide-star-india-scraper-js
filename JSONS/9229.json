@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Dr Anita Patil Deshmukh",
+      "designation": "",
+      "email": null
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9229",
+  "name": "Partners for Urban Knowledge, Action & Research (PUKAR)",
+  "primaryEmail": "pukar@pukar.org.in",
+  "website": "http://www.pukar.org.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Support"
+  ],
+  "telephone": [
+    "912226474870"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "272 Municipal Tenements, Shivaji Nagar, BMC Colony",
+      "Kherwadi Road, Bandra (E)",
+      "Mumbai",
+      "Maharashtra",
+      "400051"
+    ]
+  },
+  "briefDescription": "PUKAR is an independent research collective and an urban knowledge production centre based in Mumbai that conducts multi-sectoral, cross-disciplinary, community-based participatory research on issues related to urbanization and globalization.",
+  "yearOfEstablishment": "2002"
+}

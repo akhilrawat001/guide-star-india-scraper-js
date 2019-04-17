@@ -1,0 +1,40 @@
+{
+  "contacts": [
+    {
+      "name": "Kanchan Todi",
+      "designation": "Trustee"
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10010",
+  "name": "THE KANCHAN FOUNDATION",
+  "primaryEmail": "thekanchanfoundation2010@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Intermediary",
+    "Support"
+  ],
+  "telephone": [
+    "917208050030"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Gurudakshina, Ground Floor, Plot 282,",
+      "Sector 28, Vashi",
+      "Navi Mumbai",
+      "Thane",
+      "Maharashtra",
+      "400703"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "601/602, Vatsalya Chs Ltd.,(Indira Villa), 6Th Floor, Junction Of L.N Road And Hindu Colony,",
+      "Dadar East, Mumbai",
+      "Mumbai",
+      "Maharashtra",
+      "400014"
+    ]
+  }
+}

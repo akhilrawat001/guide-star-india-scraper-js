@@ -1,0 +1,38 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10007",
+  "name": "GATIMAN WELFARE SOCIETY",
+  "primaryEmail": "gatimanwelfaresociety@gmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Intermediary",
+    "Support"
+  ],
+  "telephone": [
+    "918962542152"
+  ],
+  "mainAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "Flat G-1 Kuber Tower Ph- 2 Kolar Road Bhopal",
+      "52 Vineet Kunj Kolar Road",
+      "Bhopal",
+      "Madhya Pradesh",
+      "462042"
+    ]
+  },
+  "briefDescription": "Gatiman Welfare Society is located in Bhopal, Madhya Pradesh.",
+  "yearOfEstablishment": "2015",
+  "regiseredAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "52 Vineet Kunj",
+      "Kolar road",
+      "Bhopal",
+      "Madhya Pradesh",
+      "462042"
+    ]
+  }
+}

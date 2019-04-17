@@ -1,0 +1,30 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9143",
+  "name": "Behala Institute of Allied Health Sciences",
+  "primaryEmail": "biahskolkata@gmail.com",
+  "website": "http://www.biahs.in",
+  "organisationType": [
+    "Direct Service",
+    "Network"
+  ],
+  "telephone": [
+    "913365696061",
+    "913365696050",
+    "913364143850",
+    "913323481550",
+    "919830346797"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "2C/6, Ho Chi Minh Sarani, Sanjib Pally",
+      "Near Behala Chowrasta, Behala",
+      "Kolkata",
+      "West Bengal",
+      "700034"
+    ]
+  },
+  "briefDescription": "Self-employment generation by Skill Development through Vocational Training in Healthcare Service Sector, amongst unemployed youths, women & minorities, since 2004.",
+  "yearOfEstablishment": "2004"
+}

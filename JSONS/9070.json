@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Paul Basil",
+      "designation": "",
+      "email": null
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9070",
+  "name": "VILLGRO INNOVATIONS FOUNDATION",
+  "primaryEmail": "bhavana@villgro.org",
+  "website": "http://villgro.org/",
+  "organisationType": [
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "914466630400",
+    "914466630400"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "3rd Floor IIT Madras Research Park, Kanagam Road,",
+      "Taramani,",
+      "Chennai",
+      "Tamil Nadu",
+      "600113"
+    ]
+  },
+  "yearOfEstablishment": "2001"
+}

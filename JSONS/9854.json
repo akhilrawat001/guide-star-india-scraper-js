@@ -1,0 +1,37 @@
+{
+  "contacts": [
+    {
+      "name": "Ramdas Antik Karke",
+      "designation": "Founder President"
+    },
+    {
+      "name": "Sandeep Ramdas Karke",
+      "designation": "Secretary",
+      "email": "karkesandeep@gmail.com",
+      "mobile": [
+        "91-8888895741"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9854",
+  "name": "KRANTIVIR LAHUJI SALVE BAHUUDDESHIYA SHIKSAN SAMAJIK SANSTHA",
+  "primaryEmail": "karkesandeep@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918888895741"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Plot No.122, Rajiv Gandhi Nagar",
+      "Mahalxmi Chwok, N-2 Cidco.",
+      "Aurangabad",
+      "Maharashtra",
+      "431001"
+    ]
+  },
+  "briefDescription": "Krantivir Lahuji Salve Bahuuddeshiya Shikshan Samajik Sanstha is located in Aurangabad, Maharashtra.",
+  "yearOfEstablishment": "2015"
+}

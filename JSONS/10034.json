@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "Sonali Sawant",
+      "designation": "Lead - Accounts & Compliance",
+      "email": "sonali.s@leapforword.org",
+      "mobile": [
+        "91-9892810716"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10034",
+  "name": "LEAP FOR WORD",
+  "primaryEmail": "team@leapforword.org",
+  "website": "www.leapforword.org",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919029320353",
+    "919892810716"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "C-10,Yashodhan Society,Road No. 5",
+      "Jaiprakash Nagar,Goregaon East",
+      "Mumbai",
+      "Maharashtra",
+      "400063"
+    ]
+  },
+  "briefDescription": "LeapForWord is a product NGO committed to eliminating the single biggest bottleneck - Poor English Capabilities - that prohibits students from regional language communities from accessing Professional Education & better Employment Opportunities. Our flagship solution - The English Literacy Program - is designed for teachers who have a job of teaching English but cannot do so effectively because they cannot speak English. Built on top of a Translation Algorithm, the solution enables such teachers to teach English in their mother-tongue and develop specific capabilities in their students namely Reading, Comprehension & Sentence Structuring.  Since inception, we have reached out to more than 40,000 students through 3,500+ teachers",
+  "yearOfEstablishment": "2009"
+}

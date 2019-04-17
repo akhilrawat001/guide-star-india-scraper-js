@@ -1,0 +1,43 @@
+{
+  "contacts": [
+    {
+      "name": "Aaboo Varghese",
+      "designation": "Founder",
+      "email": "contact@purnata.org"
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9445",
+  "name": "Purnata",
+  "primaryEmail": "contact@purnata.org",
+  "website": "http://www.purnata.org",
+  "organisationType": [
+    "Advocacy & Campaigning"
+  ],
+  "telephone": [
+    "917768087101"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "7, BMP Society, NSS Raod, Asalpha",
+      "Ghatkopar West",
+      "Mumbai",
+      "Mumbai Suburban",
+      "Maharashtra",
+      "400084"
+    ]
+  },
+  "briefDescription": "Purnata works to prevent Woman and Children into situation of trafficking and sexual abuse",
+  "yearOfEstablishment": "2015",
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "B 201,Sukh Shanti CHS, Eksar Road, Shanti Ashram",
+      "Borivali West",
+      "Mumbai",
+      "Mumbai Suburban",
+      "Maharashtra",
+      "400103"
+    ]
+  }
+}

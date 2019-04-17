@@ -1,0 +1,25 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9390",
+  "name": "PRATIGYA",
+  "primaryEmail": "pratigya@pratigya.in",
+  "website": "http://www.pratigya.in",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "919608335915"
+  ],
+  "mainAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "CD 611, HEC",
+      "Po- Dhurwa",
+      "Ranchi",
+      "Jharkhand",
+      "834004"
+    ]
+  },
+  "briefDescription": "Pratigya is located in Ranchi, Jharkhand.",
+  "yearOfEstablishment": "2007"
+}

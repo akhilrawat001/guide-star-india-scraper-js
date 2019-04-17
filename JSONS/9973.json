@@ -1,0 +1,41 @@
+{
+  "contacts": [
+    {
+      "name": "Tapan Kanti Mandal",
+      "designation": "General Secretary"
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9973",
+  "name": "Muktakantha",
+  "primaryEmail": "muktakantha1987@gmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service"
+  ],
+  "telephone": [
+    "919836451728"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "At- Swami Vivekananda Udyan,",
+      "Vill-Bamunda; P.O-Pataspur",
+      "Vill- Shibanipur,P.O.-Fatehpur,",
+      "South 24 Parganas",
+      "West Bengal",
+      "743513"
+    ]
+  },
+  "briefDescription": "The organisation has been working in the field of various social welfare activities such as Child Education, Youth Development Centre,Library,Empowerment of Women,Legal Advocacy and Awareness Campaign,Art & Culture,Charitable Dispensary,Sports,Agriculture,Vocational Training,Computer  Literacy etc.",
+  "yearOfEstablishment": "1988",
+  "regiseredAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "At- Swami Vivekananda Udyan,",
+      "Vill- Shibanipur,P.O.-Fatehpur,",
+      "South 24 Parganas",
+      "West Bengal",
+      "743513"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "contacts": [
+    {
+      "name": "Sanjay Chaudhari",
+      "designation": "",
+      "email": null
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9594",
+  "name": "Helly Foundation",
+  "primaryEmail": "helyfoundation@yahoo.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919510132099",
+    "919033537758"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "At Vadhasar Ta Sarswati Dist Patan",
+      "Neare Ramji Temapal",
+      "Ta Sarswati Dist Patan",
+      "Patan",
+      "Gujarat",
+      "384265"
+    ]
+  },
+  "briefDescription": "Helly Foundation is located in Patan, Gujarat.",
+  "yearOfEstablishment": "2014"
+}

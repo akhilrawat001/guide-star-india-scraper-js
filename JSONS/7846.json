@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Mr.Amir Hamja",
+      "designation": "",
+      "email": null
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7846",
+  "name": "GAYESHBARI JANA SEVA ASHRAM",
+  "primaryEmail": "gjsa@rediffmail.com",
+  "website": "http://www.gjsa.org",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "919733367401"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Village & Post  Gayeshbari, Block- Kaliachak-I",
+      "Near Gayeshbari (Kalapahar) Jama Mesjid",
+      "Village- Gayeshbari",
+      "Malda",
+      "West Bengal",
+      "732206"
+    ]
+  }
+}

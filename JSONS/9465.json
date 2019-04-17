@@ -1,0 +1,34 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9465",
+  "name": "RAMRAJ ENVIRONMENT",
+  "primaryEmail": "ramrajenv@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919871288388"
+  ],
+  "mainAddrress": {
+    "state": "Haryana",
+    "address": [
+      "Plot No. 264, Udyog Vihar, Phase-6, Sector-37",
+      "Gurgaon",
+      "Gurugram",
+      "Haryana",
+      "122004"
+    ]
+  },
+  "briefDescription": "Ramraj Environment is located in Gurgaon, Haryana.",
+  "yearOfEstablishment": "2009",
+  "regiseredAddrress": {
+    "state": "Haryana",
+    "address": [
+      "Apna Bazar, Gurgaon, C/O R S Consultant, 318, 3rd floor, Apna Bazar",
+      "Gurgaon",
+      "Gurugram",
+      "Haryana",
+      "122004"
+    ]
+  }
+}

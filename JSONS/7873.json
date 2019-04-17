@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Mr Jakir Hossain",
+      "designation": "",
+      "email": null
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7873",
+  "name": "DURGO CULTURAL ASSOCIATE",
+  "primaryEmail": "dca_2011@rediffmail.com",
+  "website": "www.dcango.org",
+  "organisationType": [
+    "Grant-making"
+  ],
+  "telephone": [
+    "919831316043"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "H.No.- 479/Hcm",
+      "Kajipara, Kaji Goli",
+      "Chinsurah",
+      "Hooghly",
+      "West Bengal",
+      "712101",
+      "Electricity Bill.PDF"
+    ]
+  }
+}

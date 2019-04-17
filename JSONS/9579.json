@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Hk Sharma",
+      "designation": "",
+      "email": null
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9579",
+  "name": "Hill Agriculture & Rural Development Promotion Society (HARP)",
+  "primaryEmail": "harp.sml@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919459107474"
+  ],
+  "mainAddrress": {
+    "state": "Himachal Pradesh",
+    "address": [
+      "Bhagwati Dhanya Kuti, Dudhali, P.O Bhont,",
+      "Shimla-3",
+      "Shimla",
+      "Himachal Pradesh",
+      "171006"
+    ]
+  },
+  "briefDescription": "Hill Agriculture & Rural Development Promotion Society (HARP) is located in Shimla, Himachal Pradesh.",
+  "yearOfEstablishment": "2009"
+}

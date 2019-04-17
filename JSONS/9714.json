@@ -1,0 +1,30 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9714",
+  "name": "INFORMATION SHARING AND ANALYSIS CENTER",
+  "primaryEmail": "rajsm@isac.io",
+  "website": "http://www.isac.io",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "918527465252"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "101, Vighnahar Sankul, Birla College Road",
+      "Bhoirwadi",
+      "Kalyan West",
+      "Thane",
+      "Maharashtra",
+      "421301"
+    ]
+  },
+  "briefDescription": "World's foremost and India's only cyber security foundation focused on cyber safety awareness and protecting children from dangers of Internet. ISAC has created the worlds first cyber security comic series \"Hanubot - The Cyber Defender\" to help children, teenagers and parents deal with online crimes such as sextortion, Blue Whale, Cyber bullying, online drugs, Tech abuse and Gadget de-addiction.",
+  "yearOfEstablishment": "2011"
+}

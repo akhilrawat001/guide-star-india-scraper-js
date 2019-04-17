@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "name": "Abhay Kumar",
+      "designation": "Manager",
+      "email": "abhaymjvs@gmail.com",
+      "mobile": [
+        "91-7626-275232",
+        "91-9425157561"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9550",
+  "name": "MANAV JIVAN VIKAS SAMITI",
+  "primaryEmail": "mjvskatni@gmail.com",
+  "website": "www.mjvs.org.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network"
+  ],
+  "telephone": [
+    "919425157561",
+    "917626275223",
+    "917626275232",
+    "919755408866"
+  ],
+  "mainAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "Vill. Bijaori P.O. Majhagawan (Barhi Road)",
+      "Katni",
+      "Madhya Pradesh",
+      "483501"
+    ]
+  },
+  "briefDescription": "Manav Jeevan Vikas Samiti is located in Katni, Madhya Pradesh.working of Madhya Prsesh 6 Distt.Rajsthan in 2 Distt.Utrakhand in 1 Distt. and Kerala in 2 Distt.",
+  "yearOfEstablishment": "2000"
+}

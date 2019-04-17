@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Ashok Mane",
+      "designation": "",
+      "email": null
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9100",
+  "name": "Mandesh Foundation Pune",
+  "primaryEmail": "mandeshfoundation@gmail.com",
+  "website": "www.mandeshfoundation.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service"
+  ],
+  "telephone": [
+    "919011010344",
+    "919970094100"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "A. K. Jagtap, P-24, Krishna Keval Nagar, NIBM Road,",
+      "Behind Jyoti Hotel, Kondhwa (Kh)",
+      "Pune",
+      "Maharashtra",
+      "411048"
+    ]
+  },
+  "briefDescription": "Mandesh Foundation had been formed in year 2008 with the objective of improving standard of life of people of draught prone area of Western Maharashtra, through human resource development program (like skill development, workshops for competitive exams, residence camps for police and army recruitment), health improvement programs (Free checkup and treatment camps. free eye check up and spectacle distribution program, free cataract identification and operations etc), educational programs, sports programs etc.",
+  "yearOfEstablishment": "2011"
+}

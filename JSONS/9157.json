@@ -1,0 +1,33 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9157",
+  "name": "National H.R.D Network, Ahmedabad",
+  "primaryEmail": "nisha.kurup@nationalhrd.org",
+  "website": "https://www.nationalhrd.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "911244217171",
+    "911244217171"
+  ],
+  "mainAddrress": {
+    "state": "Haryana",
+    "address": [
+      "C-81C, DLF Super Mart 1",
+      "DLF City, Phase IV",
+      "Gurugram",
+      "Haryana",
+      "122002"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "40, Cosmo Vila Satyagrah Chhavani Road, Satellite",
+      "Ahmedabad",
+      "Gujarat",
+      "380015"
+    ]
+  }
+}

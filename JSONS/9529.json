@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Vandana Dubey",
+      "designation": "",
+      "email": null
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9529",
+  "name": "SANDARBH SHIKSHAN PRASHIKSHAN WELFARE SAMITI",
+  "primaryEmail": "setwel2011@rediffmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918224057288"
+  ],
+  "mainAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "L.I.G.-15, Phase - 1,  Kanha Kunj, Kolar Road,",
+      "Near Banzari Dashara Maidan",
+      "Bhopal",
+      "Madhya Pradesh",
+      "462042"
+    ]
+  },
+  "briefDescription": "Sandarbh Shikshan Prashikshan Welfare Samiti is located in Bhopal, Madhya Pradesh.",
+  "yearOfEstablishment": "2011"
+}

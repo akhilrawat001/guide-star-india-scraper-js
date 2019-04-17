@@ -1,0 +1,35 @@
+{
+  "contacts": [
+    {
+      "name": "Mangla Rai",
+      "designation": "Research Associate",
+      "email": "manglarai@cwp-india.org",
+      "mobile": [
+        "91-124-2348022"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9454",
+  "name": "INDIA WATER PARTNERSHIP",
+  "primaryEmail": "iwpneer@gmail.com",
+  "website": "www.cwp-india.org",
+  "organisationType": [
+    "Network"
+  ],
+  "telephone": [
+    "911242348022"
+  ],
+  "mainAddrress": {
+    "state": "Haryana",
+    "address": [
+      "WAPCOS Ltd, 76-C, Sector-18,",
+      "Institutional Area,",
+      "Gurgaon",
+      "Gurugram",
+      "Haryana",
+      "122015"
+    ]
+  },
+  "briefDescription": "India Water Partnership is located in Gurgaon, Haryana.",
+  "yearOfEstablishment": "2001"
+}

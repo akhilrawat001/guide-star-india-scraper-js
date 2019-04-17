@@ -1,0 +1,46 @@
+{
+  "contacts": [
+    {
+      "name": "Sanidul Islam Sikdar",
+      "designation": "President",
+      "email": "asianmissioninstitute85@gmail.com"
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9581",
+  "name": "ASIAN MISSION INSTITUTE",
+  "primaryEmail": "asianmissioninstitute85@gmail.com",
+  "website": "asianmissioninstitute.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919678607821"
+  ],
+  "mainAddrress": {
+    "state": "Assam",
+    "address": [
+      "Kuriha,",
+      "Po- Kayakuchi",
+      "Barpeta",
+      "Assam",
+      "781352"
+    ]
+  },
+  "briefDescription": "Skill Training to youth, Development of Education, Health, Agriculture, Fishery Environment and all round development of Society including Social and Economic sectors.",
+  "yearOfEstablishment": "2008",
+  "regiseredAddrress": {
+    "state": "Assam",
+    "address": [
+      "Kuriha",
+      "Po- Kayakuchi",
+      "Barpeta",
+      "Assam",
+      "781352"
+    ]
+  }
+}

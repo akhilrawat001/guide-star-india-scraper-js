@@ -1,0 +1,34 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9940",
+  "name": "MAA MANAV SEVA SAMITI",
+  "primaryEmail": "maamanav124@gmail.com",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "919411574500",
+    "915963220644"
+  ],
+  "mainAddrress": {
+    "state": "Uttarakhand",
+    "address": [
+      "Near Hiltron CALC, Martolia Bhawan, Pindari Road,",
+      "Bageshwar",
+      "Uttarakhand",
+      "263642"
+    ]
+  },
+  "briefDescription": "Maa Manav Seva Samiti is located in Bageshwar, Uttarakhand.",
+  "yearOfEstablishment": "1997",
+  "regiseredAddrress": {
+    "state": "Uttarakhand",
+    "address": [
+      "Vill- Athan Post- Bharari Kapkote Bageshwar",
+      "Bagehwar",
+      "Bageshwar",
+      "Uttarakhand",
+      "263642"
+    ]
+  }
+}

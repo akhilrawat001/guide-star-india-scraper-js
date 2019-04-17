@@ -1,0 +1,35 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9511",
+  "name": "ICONIC I.T. PROFESSIONAL SOCIETY - CHENNAI",
+  "primaryEmail": "secretariat@iips-india.org",
+  "website": "www.iips-india.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "914449512476"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "No.32, Doron Complex, Office No.37, First Floor,",
+      "Dhamodaran Street, T.Nagar",
+      "Chennai",
+      "Tamil Nadu",
+      "600017"
+    ]
+  },
+  "briefDescription": "Ours is Non-Profit Society.  Conducting IT-ITES enabled services like conducting WOrkshops, Seminars, Conferences, Job Fair, Internships, Placement services, etc.",
+  "yearOfEstablishment": "2017",
+  "regiseredAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "8/3, Sarojini Street,",
+      "T.Nagar,",
+      "Chennai",
+      "Tamil Nadu",
+      "600017"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9922",
+  "name": "Binapani (Alipurduar) Welfare Society",
+  "primaryEmail": "ecoman_society@rediffmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919832365712"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Village-South Jitpur, P.O- Bholardabri,",
+      "Boxa Fider Road",
+      "Alipurduar",
+      "West Bengal",
+      "736123"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Village-South Jitpur, P.O- Bholardabri,",
+      "Alipurduar",
+      "West Bengal",
+      "736123"
+    ]
+  }
+}

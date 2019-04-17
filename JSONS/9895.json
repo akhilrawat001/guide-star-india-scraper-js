@@ -1,0 +1,33 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9895",
+  "name": "PLANETREAD",
+  "primaryEmail": "info@planetread.org",
+  "website": "www.planetread.org",
+  "organisationType": [
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919345696141",
+    "914134210421"
+  ],
+  "mainAddrress": {
+    "state": "Puducherry",
+    "address": [
+      "24, St. Francois d'Assise Street, (aka Marwadi street), Kuruchikuppam,",
+      "Puducherry",
+      "605012"
+    ]
+  },
+  "briefDescription": "PlanetRead uses Same Language Subtitling (SLS) a scientifically tested and proven method to improve literacy in India. SLS was first conceived in IIM Ahmedabad in 1996 and since then telecast on national TV in 10 languages all over India. SLS has been giving reading practice to over 200 million people every year. Independent studies have shown that regular exposure to SLS for just 30 mins per week can make a person functionally literate. SLS is cost-effective.  On a Hindi program one US dollar gives reading practice to 5,000 people for one year. SLS is the recipient of several international awards: http://www.planetread.org/awards.php  Watch this coverage by SBS Dateline, Australia https://youtu.be/tOsWToI2PIw",
+  "yearOfEstablishment": "2004",
+  "regiseredAddrress": {
+    "state": "Puducherry",
+    "address": [
+      "5, Saint Louis Street,",
+      "Puducherry",
+      "605001"
+    ]
+  }
+}

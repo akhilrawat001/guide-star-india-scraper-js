@@ -1,0 +1,36 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9831",
+  "name": "Utthaan Foundation Chhattisgarh",
+  "primaryEmail": "utthaanfoundationcg@gmail.com",
+  "website": "http://utthaanfoundation.org",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919329864515"
+  ],
+  "mainAddrress": {
+    "state": "Chhattisgarh",
+    "address": [
+      "Aove Jain Kirana Store",
+      "Shaheed Bhagat Singh Chowk, Tikrapara",
+      "Raipur",
+      "Chhattisgarh",
+      "492001"
+    ]
+  },
+  "briefDescription": "Utthaan Foundation Chhattisgarh is located in Raipur, Chhattisgarh.",
+  "yearOfEstablishment": "2015",
+  "regiseredAddrress": {
+    "state": "Chhattisgarh",
+    "address": [
+      "C/o Arun Kumar Tripathi",
+      "H.No.-4, PHE Colony, Old Panchsheel Nagar",
+      "Raipur",
+      "Chhattisgarh",
+      "492001"
+    ]
+  }
+}

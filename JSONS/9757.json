@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "Neha Panchamiya",
+      "designation": "President",
+      "email": "neha@resqct.org"
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9757",
+  "name": "RESQ CHARITABLE TRUST",
+  "primaryEmail": "rohan@resqct.org",
+  "website": "www.resqct.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "917020425502",
+    "918805667777"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "102, Silver Leaf Apartments, 43, Gokhale Road",
+      "Pune",
+      "Maharashtra",
+      "411016"
+    ]
+  },
+  "briefDescription": "RESQ is a not-for-profit organisation that works towards the rescue and rehabilitation of injured, sick and homeless animals of all kinds, providing 100% free medical treatment and care for street animals, and conducting awareness and education programmes to help minimise human-animal conflict.We are one of India’s most active citywide rescue services, and provide aid to over 250+ animals every single day. We also function as Pune’s only Canine Rabies Quarantine and Testing Facility, and have pioneered the city’s only scientifically-backed Stray Dog Census in our efforts to determine efficient ways to promote peaceful coexistence for both human and animal welfare alike.",
+  "yearOfEstablishment": "2007"
+}

@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Warwick G. Shipway",
+      "designation": "Director",
+      "email": "office@indianorphanage.com"
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9693",
+  "name": "The Good Shepherd Agricultural Mission",
+  "primaryEmail": "office@indianorphanage.com",
+  "website": "http://www.indianorphanage.com",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "918859709702"
+  ],
+  "mainAddrress": {
+    "state": "Uttarakhand",
+    "address": [
+      "Strong Farm",
+      "Banbasa",
+      "Champawat",
+      "Uttarakhand",
+      "262310"
+    ]
+  },
+  "briefDescription": "If the word “orphanage” makes you think of some grim loveless institution, you should plan a visit to the Good Shepherd Agricultural Mission. Here you’ll find seventy-five children living in five separate hostels, with boys and girls separated above nursery age. A diverse and inclusive family, our orphanage is full of fun and laughter. As we have learned, family doesn’t always mean where you were born. It’s who loves you. And love is something there is plenty of at the GSAM.",
+  "yearOfEstablishment": "1952"
+}

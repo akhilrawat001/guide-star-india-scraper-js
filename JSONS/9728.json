@@ -1,0 +1,36 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9728",
+  "name": "IDPMS",
+  "primaryEmail": "idpmsindia2@gmail.com",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "919663330533",
+    "918026763111"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "No 492/k, 7th cross, 7th Block, Jayanagara west",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560070"
+    ]
+  },
+  "briefDescription": "IDPMS is located in Bangalore, Karnataka.",
+  "yearOfEstablishment": "1988",
+  "regiseredAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "No 35/1, New No 95 (Portion) Kanakapura Road,",
+      "Basavanagudi",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560004"
+    ]
+  }
+}

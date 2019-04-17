@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Rajesh Kumar",
+      "designation": "",
+      "email": null
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9490",
+  "name": "G EARTH 2025 FOUNDATION",
+  "primaryEmail": "gearth.2025@gmail.com",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "919540002100"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "Flat # C- 201, Plot # 7, Sector-5, Dwarka,",
+      "New Delhi",
+      "South West Delhi",
+      "Delhi",
+      "110075"
+    ]
+  },
+  "briefDescription": "G Earth 2025 Foundation is located in New Delhi, Delhi.",
+  "yearOfEstablishment": "2010"
+}

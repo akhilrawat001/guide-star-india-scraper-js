@@ -1,0 +1,38 @@
+{
+  "contacts": [
+    {
+      "name": "Gopal Gawali",
+      "designation": "",
+      "email": null
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9044",
+  "name": "Akhil Bhartiya Veshya Devdashi Muruli Nirmulan Va Punarvasan Sanstha",
+  "primaryEmail": "help.org2009@gmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Network"
+  ],
+  "telephone": [
+    "919975979136"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Opp.Ganesh Tel Vikri Kendra,Prakash Nagar,",
+      "Latur",
+      "Maharashtra",
+      "413531"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Opp.Ganesh Tel Vikri Kendra,Prakash Nagar,",
+      "Prakash Nagar,Latur",
+      "Latur",
+      "Maharashtra",
+      "413531"
+    ]
+  }
+}

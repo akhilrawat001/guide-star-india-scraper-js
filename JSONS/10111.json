@@ -1,0 +1,36 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10111",
+  "name": "HEALTH LEPROSY MISSION",
+  "primaryEmail": "info@healthleprosymission.org",
+  "website": "https://www.healthleprosymission.org/",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service"
+  ],
+  "telephone": [
+    "917280069666"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "Lane No. 3, Chanakya Vihar Colony,",
+      "PO-Dumri, PS-Musahri",
+      "Muzaffarpur",
+      "Bihar",
+      "843113"
+    ]
+  },
+  "briefDescription": "Health Leprosy Mission is a Non-profit Organisation registered under Indian Trust Act, 1882, with no religious, ideological or political affiliation, dedicated to eradicating leprosy and its complications through empowerment, innovation, and collaboration. Our Mission is to promote a high performing health care system that achieves better access, improved quality, and greater efficiency, particularly for society's most vulnerable, including low-income people, the uninsured, minority, young children, and elderly adults.",
+  "yearOfEstablishment": "2016",
+  "regiseredAddrress": {
+    "state": "Bihar",
+    "address": [
+      "Chanakya Vihar Colony",
+      "Lane No.3, Dumri, Mushari",
+      "Muzaffarpur",
+      "Bihar",
+      "843113"
+    ]
+  }
+}
