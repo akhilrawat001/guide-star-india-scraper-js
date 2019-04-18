@@ -4,14 +4,16 @@
 I have made the scraper to scrape the important data of over 9000 NGOs.
 The Scraper is partially made in **Python** and partially in **JavaScript**.
 The process of creating caches of the **HTML** of all the urls is done in **Python** and the process of scraping data from those cached **HTML** files is done in **JavaScript**.
+
 ## Process
-Loop run over 9000 pages.
-9000 htmls cached in json files.
-Scraper run over cached html files.
-Scrapped data stored in JSONs.
-Scrapped data also converted into CSVs
+#####     Loop over 9000 pages.
+#####     9000 htmls cached in json files.
+#####     Scraper run over cached html files.
+#####     Scrapped data stored in JSONs.
+#####     Scrapped data also converted into CSVs
+
 ## Result
-CSV can be imported to google sheets and then the data can be used.
+CSV can be imported to google sheets and then the data can be used in many different ways.
 
 ## Sample Json
 ```{
