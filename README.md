@@ -1,7 +1,7 @@
-# Guide Star India Scraper
+# Guide Star India NGO Scraper
 
 ## Description
-I have made the scraper to scrape the important data of over 9000 NGOs.
+I have made a scraper to scrape the important data of over 9000 NGOs.
 The Scraper is partially made in **Python** and partially in **JavaScript**.
 The process of creating caches of the **HTML** of all the urls is done in **Python** and the process of scraping data from those cached **HTML** files is done in **JavaScript**.
 
