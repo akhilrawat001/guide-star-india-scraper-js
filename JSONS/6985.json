@@ -1,0 +1,38 @@
+{
+  "contacts": [
+    {
+      "name": "Ms.Sunita Mendonza",
+      "email": "sunitamendonza@sxnfes.org",
+      "designation": "Project Support & HR Officer",
+      "mobile": [
+        "91-79-26303577"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6985",
+  "name": "St. Xavier's Non-Formal Education Society",
+  "primaryEmail": "hdrc@sxnfes.org",
+  "website": "www.hdrc-sxnfes.org",
+  "organisationType": [
+    "Advocacy & Campaigning"
+  ],
+  "telephone": [
+    "917926303577",
+    "917926304928",
+    "917926307845",
+    "917926303577"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "St. Xavier's Non-Formal Education Society, Human Development And Research Centre",
+      "St. Xavier's College Campus, Navrangpura",
+      "Ahmadabad",
+      "Ahmedabad",
+      "Gujarat",
+      "380009"
+    ]
+  },
+  "briefDescription": "Human Development and Research Center, (HDRC, formerly know as Behavioural Science Centre), in operation since 1977 under the aegis of St. Xavier’s Non-formal Education Society, is a non-denominational, not-for-profit organisation strongly committed to the cause of empowerment of marginalised communities viz. the Dalits, the Adivasis, the other backward communities (OBCs), minorities  and women of these groups, in rural Gujarat.",
+  "yearOfEstablishment": "1977"
+}

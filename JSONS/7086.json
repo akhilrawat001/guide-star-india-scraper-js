@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "CHANCHAL SHARMA",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "9999393807"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7086",
+  "name": "NAVJEEVAN CANCER FOUNDATION",
+  "primaryEmail": "help@navjeevancancerfoundation.org",
+  "website": "http://www.navjeevancancerfoundation.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Support"
+  ],
+  "telephone": [
+    "919999022208"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "B-17b first floor new ashok nagar",
+      "near by new ashok nagar metro station",
+      "delhi",
+      "East Delhi",
+      "Delhi",
+      "110096"
+    ]
+  },
+  "briefDescription": "NAVJEEVAN CANCER FOUNDATION is the independent organization for the help of CANCER PATIENT. We provide all the medical facility to CANCER PATIENT’S. We also arrange and promote research in art, science, technology, medicine, herbal, agriculture, Computer, Fine Arts, Crafts, Music, Painting, Yoga, Physical Education and in other Profession training and other subject of general public utility.",
+  "yearOfEstablishment": "2014"
+}

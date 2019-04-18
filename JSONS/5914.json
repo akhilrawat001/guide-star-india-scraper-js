@@ -1,0 +1,35 @@
+{
+  "contacts": [
+    {
+      "name": "Pooja Verma",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "8888841237"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5914",
+  "name": "Preserve: People, Earth and Nature Foundation",
+  "primaryEmail": "info.ppen@gmail.com",
+  "website": "www.ppen.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Grant-making",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "918888841237"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "54, Malviya Nagar",
+      "Khamla",
+      "Nagpur",
+      "Maharashtra",
+      "440025"
+    ]
+  }
+}

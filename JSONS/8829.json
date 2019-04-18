@@ -1,0 +1,44 @@
+{
+  "contacts": [
+    {
+      "name": "Akhter Abass Naik",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "9858054505"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8829",
+  "name": "Protection of Humanity Organization",
+  "primaryEmail": "phoramban@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919858054505"
+  ],
+  "mainAddrress": {
+    "state": "Jammu and Kashmir",
+    "address": [
+      "H/O Chandrog Ramban",
+      "PO Ramban BPO Maitra",
+      "Ramban",
+      "Jammu and Kashmir",
+      "182143"
+    ]
+  },
+  "briefDescription": "Protection of Humanity Organization is Located in District Ramban, Jammu and Kashmir.",
+  "yearOfEstablishment": "2012",
+  "regiseredAddrress": {
+    "state": "Jammu and Kashmir",
+    "address": [
+      "H/O Chandrog Ramban Jammu and kashmir",
+      "Tashil and district Ramban",
+      "Ramban",
+      "Jammu and Kashmir",
+      "182144"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=833",
+  "name": "Institute for Research and Rural Development",
+  "primaryEmail": "irrd_dk@yahoo.com",
+  "website": "www.irrd.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "911412652393",
+    "911412652393",
+    "919414046725"
+  ],
+  "mainAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "4/120, Jawahar Nagar",
+      "Jaipur",
+      "Rajasthan",
+      "302004"
+    ]
+  }
+}

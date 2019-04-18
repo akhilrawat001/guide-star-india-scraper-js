@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Md Seraj Ansari",
+      "email": "stce.2008@rediffmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7969",
+  "name": "SOFTECH COMPUTER EDUCATION",
+  "primaryEmail": "stce.2008@rediffmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919006818591"
+  ],
+  "mainAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "Vill- Nawada,",
+      "Kundilbagi,",
+      "Hazaribagh",
+      "Hazaribag",
+      "Jharkhand",
+      "825302"
+    ]
+  }
+}

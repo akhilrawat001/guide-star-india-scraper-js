@@ -1,0 +1,49 @@
+{
+  "contacts": [
+    {
+      "name": "Sanjay Gupta",
+      "email": "isbti.org@gmail.com",
+      "designation": "Chief Operating Officer (COO)",
+      "mobile": []
+    },
+    {
+      "name": "Sanjay Gupta",
+      "email": "isbti.org@gmail.com",
+      "designation": "Chief Operating Officer (COO)",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1899",
+  "name": "Indian Society of Blood Transfusion & Immunohaematology",
+  "primaryEmail": "isbti.org@gmail.com",
+  "website": "http://www.isbti.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919992000789"
+  ],
+  "mainAddrress": {
+    "state": "Haryana",
+    "address": [
+      "K. G. Clinic Building, Opposite Govt. National College Boys Hostel,",
+      "Barnala Road",
+      "Sirsa",
+      "Haryana",
+      "125055"
+    ]
+  },
+  "briefDescription": "ISBTI is a Non Profit Voluntary Organization operating at National Level. Registered under the Societies Registration Act XXI of 1860 by the Registrar of the Societies, Chandigarh on December 28, 1973, it functions as a National body for blood transfusion chapter for scientific advancement and research including up gradation & maintenance of safe blood transfusion services in the country.VISION“Safe blood should be waiting for the patient… …not the patient should be waiting for the safe blood”MISSION“To achieve 100% Voluntary Blood Donation in the country and to attain Quality Standards in Blood Transfusion Services”",
+  "yearOfEstablishment": "1973",
+  "regiseredAddrress": {
+    "state": "Chandigarh",
+    "address": [
+      "Blood Transfusion Department,",
+      "Postgraduate Institute of Medical Education & Research,",
+      "Chandigarh",
+      "160012"
+    ]
+  }
+}

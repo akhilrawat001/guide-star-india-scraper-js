@@ -1,0 +1,27 @@
+{
+  "contacts": [
+    {
+      "name": "Rajinder Singh",
+      "email": "rajindersingh_1@rediffmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4674",
+  "name": "Save Planet Society",
+  "primaryEmail": "saveplanet_soc@yahoo.com",
+  "telephone": [
+    "911832701656",
+    "919815008544"
+  ],
+  "mainAddrress": {
+    "state": "Punjab",
+    "address": [
+      "484/4 Kucha Dyal Singh",
+      "Dhab Wasti Ram",
+      "Amritsar",
+      "Punjab",
+      "143001"
+    ]
+  }
+}

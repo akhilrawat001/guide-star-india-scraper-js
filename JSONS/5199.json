@@ -1,0 +1,46 @@
+{
+  "contacts": [
+    {
+      "name": "Shyama Mathur",
+      "email": "vimukti_school@yahoo.co.in",
+      "designation": "Principal",
+      "mobile": [
+        "91-8058799987"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5199",
+  "name": "Vimukti Sanstha",
+  "primaryEmail": "vimukti_school@yahoo.co.in",
+  "website": "www.vimuktisanstha.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919887249992",
+    "918058799987",
+    "919509199887",
+    "911413232733"
+  ],
+  "mainAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "Vimukti Girls School, C-40, Lajpat Marg, C-Scheme, Jaipur",
+      "JAIPUR",
+      "Jaipur",
+      "Rajasthan",
+      "302001"
+    ]
+  },
+  "briefDescription": "Vimukti’s mission is to combat and overcome the vulnerability of the underprivileged young girls by providing literacy and education in an effort to make them self-reliant and self-employed citizens.We run a school from K.G. to XII Std. At present we have 575 girls in the school. Not only does Vimukti take care of the girls education, it also provides free books, uniform, meals and subsidized transport. We also run a Post School Support Programme for providing financial assistance to girls for college or professional courses and vocational training.",
+  "yearOfEstablishment": "2004",
+  "regiseredAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "Vimukti Girls School, C-40, Lajpat Marg, C-Scheme, Jaipur",
+      "Jaipur",
+      "Rajasthan",
+      "302001"
+    ]
+  }
+}

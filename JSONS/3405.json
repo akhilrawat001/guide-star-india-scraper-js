@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "Ramesh Balasundaram",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3405",
+  "name": "Child Empowerment Foundation India",
+  "primaryEmail": "ramesh@balutsav.org",
+  "website": "http://www.balutsav.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919845211311"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "CEFI Studio, 785, 2 Cross, Ayappa Layout Munnekolalu, Maratahalli, Bangalore",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560037"
+    ]
+  },
+  "briefDescription": "Educating 100‘s of Non School Going Children with the use of Mulitigrade, Multilevel pedagogy thus bridging the gap in the learning levels and ensuring that learning is not about just being in school and also offering comprehensive support and services to school going Children, Parents and Teaching Faculty to facilitate empowerment of Children.",
+  "yearOfEstablishment": "2011"
+}

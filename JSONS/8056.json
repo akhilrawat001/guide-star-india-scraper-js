@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Mahavir Kumar",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8056",
+  "name": "CREATIVE ACTION FOR POOR (CAP)",
+  "primaryEmail": "cap_bokaro@rediffmail.com",
+  "website": "www.capbok.wix.com/cap",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "919431145796"
+  ],
+  "mainAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "Qr.no- 4-012, Street-9,",
+      "Sector-2/C, B.S.City",
+      "Bokaro",
+      "Jharkhand",
+      "827001"
+    ]
+  }
+}

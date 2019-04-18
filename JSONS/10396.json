@@ -1,0 +1,31 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10396",
+  "name": "Rotary South Asia Society for Development and Co-Operation",
+  "primaryEmail": "aapga.singh@rotaryteach.org",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "918130306333"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Care of Skyline House, 145 Sarat Bose Road,",
+      "Kolkata",
+      "West Bengal",
+      "700026"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Care of UPL Limited, Uniphos House, 11th Road, Madhu Park, C Marg, Khar (West),",
+      "Mumbai",
+      "Maharashtra",
+      "400052"
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1337",
+  "name": "Annakshetra Foundation Trust",
+  "primaryEmail": "annakshetra.trust@gmail.com",
+  "website": "http://www.annakshetra.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "911413221267",
+    "911412502299",
+    "919784815000"
+  ],
+  "mainAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "16",
+      "Shri Gopal Nagar, Gopalpura Byass,",
+      "Jaipur",
+      "Rajasthan",
+      "302015"
+    ]
+  }
+}

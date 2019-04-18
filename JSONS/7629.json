@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Dr. N. K. Gupta?",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7629",
+  "name": "SMT. S. D. GUPTA EDUCATION FOUNDATION",
+  "primaryEmail": "nk-gupta@hotmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919868263761"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "RZ-P-53, Flat No. 1,",
+      "U.G.F., Raj Nagar-II, Sector-8,",
+      "Dwarka",
+      "New Delhi",
+      "Delhi",
+      "110077"
+    ]
+  }
+}

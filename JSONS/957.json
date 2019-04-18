@@ -1,0 +1,32 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=957",
+  "name": "Matri O Sishu Bikash Kendra",
+  "primaryEmail": "mosbk@rediffmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "913326619262",
+    "913326619262",
+    "919477474531"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Vill-Garmirjapur, Po - Mashila",
+      "Howrah",
+      "West Bengal",
+      "711302"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Vill-Basudevour, PO-Belkulai",
+      "Howrah",
+      "West Bengal",
+      "711322"
+    ]
+  }
+}

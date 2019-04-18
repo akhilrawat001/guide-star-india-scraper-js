@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Ganesh Rajendra Kusundal",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5785",
+  "name": "Friends Help Association",
+  "primaryEmail": "punefha@gmail.com",
+  "website": "www.fhapune.org",
+  "organisationType": [
+    "Direct Service",
+    "Intermediary",
+    "Support"
+  ],
+  "telephone": [
+    "917276561140"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "26/07 Shivshanti Bulding",
+      "Natawadi, Shivajinagar",
+      "Pune",
+      "Maharashtra",
+      "411005"
+    ]
+  }
+}

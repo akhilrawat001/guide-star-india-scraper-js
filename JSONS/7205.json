@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "Dr. Namrata",
+      "email": "shikhare.namrata@gmail.com",
+      "designation": "Cordinator",
+      "mobile": [
+        "91-9820899797"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7205",
+  "name": "DHANWANTARI MEDICAL TRUST",
+  "primaryEmail": "dramolnaikwadi@gmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919820899797",
+    "919833949696"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Topiwala Building, 156/A block/ 3rd Floor",
+      "Dr. B. Ambedkar Road",
+      "Mumbai",
+      "Maharashtra",
+      "400012"
+    ]
+  },
+  "briefDescription": "DMT is an organization in Mumbai established in 2005 under Trust act and registered with 12A   and 80G certificates.•Crafting Smile: Crafting Smile is to provide emotional and medicinal support to the cancer affected children.•I Like School_ Can Kids: The basic aim of the I Like School_ Can Kids program is to keep the cancer children in the mainstream of the education during their treatment phase. •Post Disaster Relief Activity (PDRA): PDRA is to provide medicinal along with doctors and in kinds support in form of clothes, grains, sanitary material etc to the disaster affected people. •Healthy Living: Healthy Living is to provide multispecialty investigational support and medicinal support to the needy people in rural and urban area",
+  "yearOfEstablishment": "2005"
+}

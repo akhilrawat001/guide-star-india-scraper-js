@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "B.SANJEEVA RAYUDU",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6211",
+  "name": "P.S.S.Educational Development Society",
+  "primaryEmail": "psseds123@gmail.com",
+  "website": "www.psseds.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918517284355",
+    "918517284355"
+  ],
+  "mainAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "Erragudur-518442",
+      "Pamulapadu-mandal",
+      "Kurnool-district",
+      "Kurnool",
+      "Andhra Pradesh",
+      "518442"
+    ]
+  }
+}

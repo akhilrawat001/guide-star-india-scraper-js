@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Bidyuth Debnath",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7163",
+  "name": "Ichamati Society  for Human Welfare and Relations",
+  "primaryEmail": "ishwarwb@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919433425612"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Kuluberia Station Road,",
+      "Bamongachi",
+      "North 24 Parganas, Barasat 1",
+      "North 24 Parganas",
+      "West Bengal",
+      "743706"
+    ]
+  }
+}

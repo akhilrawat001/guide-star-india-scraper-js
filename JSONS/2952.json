@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "Ayazuddin Qureshi",
+      "email": "hidayatjamiya@yahoo.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2952",
+  "name": "Jamiah Hidayatul Islam Samiti",
+  "primaryEmail": "hidayatjamiya@yahoo.com",
+  "telephone": [
+    "912962243098",
+    "912962243098"
+  ],
+  "mainAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "Madhuban Colony",
+      "Near Madar Colony,",
+      "Banswara,",
+      "Banswara",
+      "Rajasthan",
+      "327001"
+    ]
+  }
+}

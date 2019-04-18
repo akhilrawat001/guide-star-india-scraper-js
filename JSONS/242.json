@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "name": "L V Jayashree",
+      "email": "thespasticssocietyoftamilnadu@gmail.com",
+      "designation": "Director",
+      "mobile": [
+        "91-44-22541651"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=242",
+  "name": "The Spastics Society of Tamilnadu",
+  "primaryEmail": "thespasticssocietyoftamilnadu@gmail.com",
+  "website": "www.spastn.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "914422541651",
+    "914422541047",
+    "914422541133",
+    "914422541542"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "CSIR [Taramani] Road, Taramani",
+      "Chennai",
+      "Tamil Nadu",
+      "600113"
+    ]
+  },
+  "briefDescription": "The Spastics Society of Tamilnadu [SPASTN] is a 36yr old, non-profit voluntary organization concerned with advocating and empowering persons with disabilities and their families with need based intervention, serving more than 1600 children per month. 75% of these beneficiaries are from the lower socioeconomic groups. From 1981, SPASTN has empowered and enabled disabled people, particularly those who are economically marginalized, to reach their full potential through Early Intervention, Education, Training, Employment and the formation of Self Help groups.  Through this SPASTN hopes to realize its vision of an “Inclusive Society”",
+  "yearOfEstablishment": "1981"
+}

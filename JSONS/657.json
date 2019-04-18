@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "H M Ahmed Abdul Cader",
+      "email": "",
+      "designation": "Founder Trustee",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=657",
+  "name": "Thulir Trust",
+  "primaryEmail": "thulir2005@yahoo.co.in",
+  "website": "www.thulirtrust.org",
+  "telephone": [
+    "914639284662",
+    "914639284662",
+    "914639284662"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "No 10, Local Fund Road",
+      "Kayalpatnam, Tiruchendur Taluk",
+      "Thoothukudi",
+      "Tamil Nadu",
+      "628204"
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "contacts": [
+    {
+      "name": "Bhavani R V",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "22541229"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6361",
+  "name": "M S Swaminathan Research Foundation",
+  "primaryEmail": "executivedirector@mssrf.res.in",
+  "website": "www.mssrf.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "914422541229",
+    "914422541229"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "Third Cross Road",
+      "Taramani Institutional Area",
+      "Chennai",
+      "Tamil Nadu",
+      "600113"
+    ]
+  },
+  "briefDescription": "The M. S. Swaminathan Research Foundation (MSSRF) was established in 1988 as a not-for-profit trust. MSSRF was envisioned and founded by Professor M. S. Swaminathan with proceeds from the First World Food Prize that he received in 1987. The Foundation aims to accelerate use of modern science for sustainable agricultural and rural development, for development and dissemination of technology to improve lives and livelihoods of tribal and rural communities. MSSRF follows a pro-poor, pro-women and pro-nature approach and applies appropriate science and technology options to strengthen lives and livelihoods. The organisation works across seven states reaching out to over 25000 rural men and women.",
+  "yearOfEstablishment": "1988"
+}

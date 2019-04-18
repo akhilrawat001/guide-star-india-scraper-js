@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Rakesh Ranjan",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8265",
+  "name": "SARV SAMARPIT SANSTHA",
+  "primaryEmail": "sarvsamarpitsanstha@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919304554105"
+  ],
+  "mainAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "Mr. Lalit Gupta, Lane No. 1",
+      "Lane No. 1, Opp. Primary School, Netaji Nagar",
+      "Kantatoli",
+      "Ranchi",
+      "Jharkhand",
+      "834001"
+    ]
+  }
+}

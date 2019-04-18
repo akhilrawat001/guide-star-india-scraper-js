@@ -1,0 +1,41 @@
+{
+  "contacts": [
+    {
+      "name": "Archana Soundade",
+      "email": "sachinsoundade2007@rediffmail.com",
+      "designation": "Secteary",
+      "mobile": []
+    },
+    {
+      "name": "Archana Soundade",
+      "email": "sachinsoundade2007@rediffmail.com",
+      "designation": "Secteary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6564",
+  "name": "AASHA FOUNDATION",
+  "primaryEmail": "aashafoundation@yahoo.com",
+  "website": "aasha-foundation.org",
+  "organisationType": [
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919890230409"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Lakde plot,",
+      "Nagargoje road, behind civil hospital",
+      "Miraj",
+      "Sangli",
+      "Maharashtra",
+      "416410"
+    ]
+  },
+  "briefDescription": "Our Organization has find out Tuberculosis patient nearly about 34 and put them on DOTS and also given Nutrition support,",
+  "yearOfEstablishment": "2009"
+}

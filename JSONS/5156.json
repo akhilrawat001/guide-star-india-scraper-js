@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "K.Bhaskaran",
+      "email": "aidel@advantageindia.org",
+      "designation": "Manager Finance & Admn",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5156",
+  "name": "ADVANTAGE INDIA",
+  "primaryEmail": "aidel@advantageindia.org",
+  "website": "www.advantageindia.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "911132502362",
+    "911132502362"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "101-102,Oriental House",
+      "Yusuf Sarai",
+      "New Delhi",
+      "South Delhi",
+      "Delhi",
+      "110049"
+    ]
+  }
+}

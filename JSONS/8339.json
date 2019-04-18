@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Ashok Kumar Dash",
+      "email": "bhagabatipathagar@gmail.com",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8339",
+  "name": "BHAGABATI PATHAGAR",
+  "primaryEmail": "bhagabatipathagar@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "916758212224",
+    "916758212224"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "AT: DASAPURUSOTTAMPUR",
+      "PO:GADACHANDAPUR,VIA:BALANGA,                                                                                                                                                                                                           DIST:PURI,752105,ODISHA",
+      "PURI",
+      "Puri",
+      "Odisha",
+      "752105"
+    ]
+  }
+}

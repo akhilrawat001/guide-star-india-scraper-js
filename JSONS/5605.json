@@ -1,0 +1,43 @@
+{
+  "contacts": [
+    {
+      "name": "DEBASISH SARKAR",
+      "email": "debasish.gentle@gmail.com",
+      "designation": "SECRETARY",
+      "mobile": [
+        "91-9883471965"
+      ]
+    },
+    {
+      "name": "DEBASISH SARKAR",
+      "email": "debasish.gentle@gmail.com",
+      "designation": "SECRETARY",
+      "mobile": [
+        "91-9883471965"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5605",
+  "name": "RAGHABPUR CENTRAL RURAL DEVELOPMENT SOCIETY",
+  "primaryEmail": "raghabpurcrds@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919883471965"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "VILL - RAGHABPUR",
+      "P.O. - DARAPPUR",
+      "P.S. - CHAKDAHA",
+      "Nadia",
+      "West Bengal",
+      "741223"
+    ]
+  },
+  "briefDescription": "RAGHABPUR CENTRAL RURAL DEVELOPMENT SOCIETY is registered in Nadia, West Bengal for helping the poor community by providing proper guidance, monetary, awareness, etc. Also to provide basic education, health care, etc.",
+  "yearOfEstablishment": "2001"
+}

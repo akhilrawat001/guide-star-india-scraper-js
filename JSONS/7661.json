@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Mr. Krishan Pal Singh Sengar",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7661",
+  "name": "Gunjan Bundeli Kala Evam Janvikas Samiti",
+  "primaryEmail": "ngogunjan@rediffmail.com",
+  "website": "NA",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919754579543"
+  ],
+  "mainAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "Ishanagar Road",
+      "Chachcha colony",
+      "Nowgong",
+      "Chhatarpur",
+      "Madhya Pradesh",
+      "471201"
+    ]
+  }
+}

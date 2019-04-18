@@ -1,0 +1,47 @@
+{
+  "contacts": [
+    {
+      "name": "Vivek Rawat",
+      "email": "vrawat@actionagainsthunger.in",
+      "designation": "Dy Manager Communications",
+      "mobile": [
+        "91-22-24075009",
+        "91-9022652205"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6775",
+  "name": "Fight Hunger Foundation",
+  "primaryEmail": "contact@actionagainsthunger.in",
+  "website": "http://www.fighthungerfoundation.org",
+  "organisationType": [
+    "Direct Service",
+    "Intermediary",
+    "Network"
+  ],
+  "telephone": [
+    "919022652205"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "F-201, Sai Prasad Building, Sion Kamgar CHS Ltd",
+      "29th Road, Bhandar wada, Above Atharva Hospital, Sion (E)",
+      "Mumbai",
+      "Maharashtra",
+      "400022"
+    ]
+  },
+  "briefDescription": "Fight Hunger Foundation is an Indian not-for-profit organization that is dedicated to treating children with severe acute malnutrition, a life threatening form of hunger. In India, 6 million children suffer from acute malnutrition and they are 9 times more likely to die before the age of five, compared to a normal child. We detect, treat and prevent acute malnutrition in children so they can regain their health and fulfil their potential.Our approach is to identify and correctly diagnose the most affected children, and treat them by referring them to local health centers. Locally-trained community workers then follow up with home visits to ensure children do not return to an under nourished state. Pregnant women and young mothers are educa",
+  "yearOfEstablishment": "2012",
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Flat No. 15",
+      "3rd Floor, Sheila Mahal, 1at Pasta Lane, Colaba",
+      "Mumbai",
+      "Maharashtra",
+      "400005"
+    ]
+  }
+}

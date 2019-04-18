@@ -1,0 +1,34 @@
+{
+  "contacts": [
+    {
+      "name": "Ms.Priya Sankhla",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7943",
+  "name": "Hind Hope Society",
+  "primaryEmail": "priyaswd@gmail.com",
+  "website": "http://www.hindhope.org",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "India",
+    "9928355601"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "Parvati Nagar",
+      "Circuit House Road",
+      "Delhi",
+      "East Delhi",
+      "110069"
+    ]
+  },
+  "briefDescription": "Hind Hope Society makes effort to provide Education, Legal Aid, RTI Security and Education. The integration of these four sectors provides living in extreme secure future with the best chance of improving society.",
+  "yearOfEstablishment": "2015"
+}

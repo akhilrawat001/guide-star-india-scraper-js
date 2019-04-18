@@ -1,0 +1,40 @@
+{
+  "contacts": [
+    {
+      "name": "G.R. Muktha",
+      "email": "",
+      "designation": "Managing Trsutee.",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1142",
+  "name": "Mathru Educational Trust For Blinds",
+  "primaryEmail": "Mathru_india@yahoo.co.in",
+  "website": "www.mathrublindschool.org",
+  "telephone": [
+    "918028463992",
+    "918028463992"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "C.A. Site no 14 6th ‘A” Cross",
+      "5th phase",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560064"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "C.A. Site no 14 6th ï¿½Aï¿½ Cross",
+      "5th phase",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560064"
+    ]
+  }
+}

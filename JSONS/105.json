@@ -1,0 +1,25 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=105",
+  "name": "Girivanavasi Educational Trust",
+  "primaryEmail": "patricia@somaiya.edu",
+  "website": "www.nareshwadi.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "912222048272",
+    "919820341419",
+    "912222047297"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Fazalbhoy Building, 45/47 M.G. Road",
+      "Fort",
+      "Mumbai",
+      "Maharashtra",
+      "400001"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "contacts": [
+    {
+      "name": "R. MANOHAR",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5294",
+  "name": "Rural Awareness For Integrated Development Society(RAIDS)",
+  "primaryEmail": "raids_rinku@yahoo.co.in",
+  "website": "no",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919963050987",
+    "919440739207"
+  ],
+  "mainAddrress": {
+    "state": "Telangana",
+    "address": [
+      "H.no,1-5-87",
+      "Ambedkar colony",
+      "Sirpur-Kaghaznagar",
+      "Adilabad",
+      "Telangana",
+      "504296"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Telangana",
+    "address": [
+      "H.no,1-5-87",
+      "Ambedkar colony",
+      "Sirpur-Kaghaznagar",
+      "Adilabad",
+      "Telangana",
+      "504296"
+    ]
+  }
+}

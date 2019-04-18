@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Eknath Adhar Sonawane",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8761",
+  "name": "SHREE SANJEEVANI SHAIKSHANIK SANSTHA",
+  "primaryEmail": "shreesanjeevaniss@gmail.com",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "917769962456"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "M.K.6071/05, Gat No.1229 ,Shop No 6 Vedant Sankul, Manik Chowk,",
+      "Chakan Tal Khed",
+      "Pune",
+      "Maharashtra",
+      "410501"
+    ]
+  }
+}

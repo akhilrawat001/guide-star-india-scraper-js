@@ -1,0 +1,32 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8933",
+  "name": "Model Education Society",
+  "primaryEmail": "modeleducationsociety@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919433523884"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "83/1,Amarendra Sarni, Post & P.S- Uttarpara",
+      "Uttarpara",
+      "Hooghly",
+      "West Bengal",
+      "712258"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "83/1, Amarendra Sarani, Uttarpara",
+      "Uttarpara",
+      "Hooghly",
+      "West Bengal",
+      "712255"
+    ]
+  }
+}

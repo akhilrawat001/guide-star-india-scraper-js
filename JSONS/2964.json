@@ -1,0 +1,27 @@
+{
+  "contacts": [
+    {
+      "name": "V K Mishra",
+      "email": "vatayan.ngo@gmail.com",
+      "designation": "Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2964",
+  "name": "Vatayan (NGO)",
+  "primaryEmail": "vatayan.ngo@gmail.com",
+  "telephone": [
+    "911122136246",
+    "911122136246"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "110-A,",
+      "DDA Flats, Mansarover Park Shahdara",
+      "Delhi",
+      "North East Delhi",
+      "110032"
+    ]
+  }
+}

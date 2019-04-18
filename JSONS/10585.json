@@ -1,0 +1,24 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10585",
+  "name": "Balbir Singh Charitable Trust",
+  "primaryEmail": "bsctrust2016@gmail.com",
+  "website": "-",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "919873281417"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "C-29A, Vipin Garden, Near New Shweta Public School, Uttam Nagar, New Delhi",
+      "Near New Shweta Public School, Vipin Garden, New Delhi",
+      "Uttam Nagar",
+      "West Delhi",
+      "Delhi",
+      "110059"
+    ]
+  }
+}

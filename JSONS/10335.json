@@ -1,0 +1,45 @@
+{
+  "contacts": [
+    {
+      "name": "Nukti Basu Mallick",
+      "email": "vopindia86@gmail.com",
+      "designation": "Secretary General",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10335",
+  "name": "Voice of People",
+  "primaryEmail": "vopindia86@gmail.com",
+  "website": "www.vopindia.weebly.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network"
+  ],
+  "telephone": [
+    "919088970973"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Spandan, Nutandiyarah, Nayabad Rajpur",
+      "Sonarpur Municipality,",
+      "Kolkata",
+      "South 24 Parganas",
+      "West Bengal",
+      "700150"
+    ]
+  },
+  "briefDescription": "Voice Of People is located in South 24 Parganas, West Bengal. The organization is working on Skill Development Training on Jute Craft, Kantha Stitch etc. and Capacity Building, Environment, Health & Hygiene, Medicinal Plantation, Financial Literacy, Legal awareness, Consumer Awareness among the school students, SHG members and general public.",
+  "yearOfEstablishment": "1986",
+  "regiseredAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Spandan, Nutandiyarah, Nayabad Rajpur",
+      "Sonarpur Municipality,",
+      "South 24 Parganas",
+      "West Bengal",
+      "700150"
+    ]
+  }
+}

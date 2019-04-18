@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Vineet Parikh",
+      "email": "vineet_parikh@yahoo.com",
+      "designation": "National Secretary/Treasurer",
+      "mobile": [
+        "91-79-40210434"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=898",
+  "name": "Round Table India Trust",
+  "primaryEmail": "ram@roundtableindia.org",
+  "website": "www.roundtableindia.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "914428263862",
+    "914428263862"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "Bob Chandran Centre,",
+      "Chennai",
+      "Tamil Nadu",
+      "600034"
+    ]
+  }
+}

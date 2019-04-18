@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "PRATAP GAIKWAD",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2684",
+  "name": "SWA. SAWARKAR EDUCATIONAL SANSTHA",
+  "primaryEmail": "ssetbns@gmail.com",
+  "website": "www.sawarkaredutrust.org",
+  "organisationType": [
+    "Direct Service",
+    "Grant-making",
+    "Network"
+  ],
+  "telephone": [
+    "919822026712"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Shiv residency,flat no12,lane no 6,Prabhat road,Deccan gymkhana,Pune-411004",
+      "same as above",
+      "Pune",
+      "Maharashtra",
+      "411004"
+    ]
+  }
+}

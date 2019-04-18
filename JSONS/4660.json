@@ -1,0 +1,40 @@
+{
+  "contacts": [
+    {
+      "name": "D VASANTHA KUMARI",
+      "email": "annammasociety2007@gmail.com",
+      "designation": "Chief Functionary",
+      "mobile": []
+    },
+    {
+      "name": "D VASANTHA KUMARI",
+      "email": "annammasociety2007@gmail.com",
+      "designation": "Chief Functionary",
+      "mobile": []
+    },
+    {
+      "name": "D VASANTHA KUMARI",
+      "email": "annammasociety2007@gmail.com",
+      "designation": "Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4660",
+  "name": "Annamma School for Hearing and Physically Handicapped and Baby Care Centre",
+  "primaryEmail": "annammasociety2007@gmail.com",
+  "telephone": [
+    "918662883700",
+    "919963270721"
+  ],
+  "mainAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "Opp. Police Quarters",
+      "Vtps Road",
+      "Ibrahimpatnam",
+      "Krishna",
+      "Andhra Pradesh",
+      "521456"
+    ]
+  }
+}

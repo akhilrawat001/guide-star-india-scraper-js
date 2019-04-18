@@ -1,0 +1,40 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1458",
+  "name": "Nehru Yuwa Sangthan-TISI",
+  "primaryEmail": "nystfatehpur@rediffmail.com",
+  "website": "http://nyst.org.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "915180221617",
+    "915180221617",
+    "919415481730"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "Head Office- 315",
+      "Arabpur,",
+      "Fatehpur",
+      "Uttar Pradesh",
+      "212601"
+    ]
+  },
+  "briefDescription": "NYST is working with women & child for Education,Health & Livelihood.",
+  "yearOfEstablishment": "1997",
+  "regiseredAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "Vill -TISI,",
+      "P.O- Haswa",
+      "Fatehpur",
+      "Uttar Pradesh",
+      "212645"
+    ]
+  }
+}

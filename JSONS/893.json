@@ -1,0 +1,23 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=893",
+  "name": "Amcha Ghar",
+  "primaryEmail": "aamchaghar@yahoo.com",
+  "website": "www.amchaghar.org",
+  "telephone": [
+    "912228451022",
+    "912228451022",
+    "919004002009"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "A Wing,407",
+      "4th Flr, Deep Sagar Co-Op Hsg Soc Ltd, Light House Road, Mothagaon, Uttan, Bhayander West",
+      "Bhayander West,",
+      "Thane",
+      "Maharashtra",
+      "401106"
+    ]
+  }
+}

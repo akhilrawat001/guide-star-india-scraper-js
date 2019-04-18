@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Meher Rehman",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3291",
+  "name": "TIE Foundation",
+  "primaryEmail": "info@tiefoundation.net",
+  "website": "www.tiefoundation.net",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "911146120748",
+    "911146120748"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "E-9, 3rd Floor, Nizamuddin West",
+      "New Delhi",
+      "South Delhi",
+      "Delhi",
+      "110013"
+    ]
+  }
+}

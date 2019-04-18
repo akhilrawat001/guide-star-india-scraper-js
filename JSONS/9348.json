@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Sri Manoj Parajuli",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9348",
+  "name": "NORTH EASTERN REGIONAL MULTIPURPOSE SCHOOL (HANDICAPPED TRAINING CENTRE)",
+  "primaryEmail": "rehabschoolne1993@gmail.com",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "919085969054"
+  ],
+  "mainAddrress": {
+    "state": "Assam",
+    "address": [
+      "Balipukhuri",
+      "Near AH-15",
+      "Burigang",
+      "Sonitpur",
+      "Assam",
+      "784176"
+    ]
+  },
+  "yearOfEstablishment": "1995"
+}

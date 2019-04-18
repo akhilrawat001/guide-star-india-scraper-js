@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "ANIL KUMAR",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8717",
+  "name": "SAMRIDHI",
+  "primaryEmail": "samridhiorg@yahoo.co.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919431397554"
+  ],
+  "mainAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "LINE NO.1,",
+      "BAGAN NO. 3,",
+      "KASHIDIH, SAKCHI, JAMSHEDPUR",
+      "Ranchi",
+      "Jharkhand",
+      "831001"
+    ]
+  }
+}

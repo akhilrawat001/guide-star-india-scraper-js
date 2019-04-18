@@ -1,0 +1,27 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=186",
+  "name": "Mumbai Mobile Creches",
+  "primaryEmail": "contact@mmcmail.org.in",
+  "website": "www.mumbaimobilecreches.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "912222020869",
+    "912222020879",
+    "919769010346"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Abbas Bldg, 1st Floor",
+      "Merewhether Road, Colaba",
+      "Mumbai",
+      "Maharashtra",
+      "400001"
+    ]
+  },
+  "briefDescription": "MMC provides comprehensive day-care for children of Migrant construction workers in the age group of birth to 14 years. Our model involves setting up daycare centres on construction sites. Children on centres are provided education, three meals a day, daily nutritional supplements",
+  "yearOfEstablishment": "2006"
+}

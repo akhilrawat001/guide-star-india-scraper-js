@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "Sandeep Chachra",
+      "email": "sandeep.chachra@actionaid.org",
+      "designation": "Chief Executive",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2632",
+  "name": "Action Aid Association",
+  "primaryEmail": "rosaline@actionaidindia.org.in",
+  "website": "www.actionaidindia.org",
+  "telephone": [
+    "911140640500",
+    "911140640500"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "R-7 Hauz Khas Enclave",
+      "New Delhi",
+      "South Delhi",
+      "Delhi",
+      "110016"
+    ]
+  }
+}

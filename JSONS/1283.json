@@ -1,0 +1,29 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1283",
+  "name": "Development Focus",
+  "primaryEmail": "devfocus@dataone.in",
+  "website": "www.devfocus.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Grant-making",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "918025451823",
+    "918032958829",
+    "918025451823"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "917, 9th B main Road,",
+      "3rd C Cross, Kalyan Nagar",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560043"
+    ]
+  }
+}

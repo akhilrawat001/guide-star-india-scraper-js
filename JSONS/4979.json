@@ -1,0 +1,51 @@
+{
+  "contacts": [
+    {
+      "name": "Mrs M. Susheela",
+      "email": "ruralhealthindia@gmail.org",
+      "designation": "Patient Administrator",
+      "mobile": [
+        "91-98-48535364"
+      ]
+    },
+    {
+      "name": "Mrs M. Susheela",
+      "email": "ruralhealthindia@gmail.org",
+      "designation": "Patient Administrator",
+      "mobile": [
+        "91-98-48535364"
+      ]
+    },
+    {
+      "name": "Mrs M. Susheela",
+      "email": "ruralhealthindia@gmail.org",
+      "designation": "Patient Administrator",
+      "mobile": [
+        "91-98-48535364"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4979",
+  "name": "INSTITUTE FOR RURAL HEALTH STUDIES",
+  "primaryEmail": "ruralhealthindia@gmail.com",
+  "website": "http://ruralhealthindia.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919848535364",
+    "00914023384472"
+  ],
+  "mainAddrress": {
+    "state": "Telangana",
+    "address": [
+      "703 Mount Kailash Apts.",
+      "Road 4, Banjara Hills",
+      "Hyderabad",
+      "Telangana",
+      "500034"
+    ]
+  },
+  "briefDescription": "IRHS makes healthcare accessible to poor people in drought-stricken Telengana via an integrated strategy of running village clinics staffed by well-trained paramedics and community health workers, screening for cervical cancer in an outpatient department within Mahbubnagar District Hospital, and providing guidance in the city for patients needing specialist care.   IRHS has helped thousands of poor people with critical medical problems over a span of 33 years.  Trustworthy care and medicine are free to those who can’t pay and cost little for others.  IRHS encourages healthy nutrition, emphasizing mother and infant needs.",
+  "yearOfEstablishment": "1981"
+}

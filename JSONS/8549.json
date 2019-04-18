@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "Vijay Raut",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "9820781039"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8549",
+  "name": "United Social Welfare Association",
+  "primaryEmail": "uswa99@gmail.com",
+  "website": "www.uswa.in",
+  "organisationType": [
+    "Direct Service",
+    "Grant-making",
+    "Intermediary",
+    "Network"
+  ],
+  "telephone": [
+    "919820781039"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "32 Carolyn Society, Baburao Ranade Road,",
+      "opp.Dwarkeshdham soc, Dahisar(w)",
+      "Navagaon",
+      "Mumbai",
+      "Maharashtra",
+      "400068"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=398",
+  "name": "Mahila Dakshata Samiti",
+  "primaryEmail": "mahiladakshatasamiti@yahoo.co.in",
+  "website": "http://www.mahiladakshatasamiti.org/",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918023512543"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "No. 10, 3rd Cross, 4th Main, AECS Layout, Sanjaynagar Main Road",
+      "RMV 2nd Stage",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560094"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "No. 66/A AECS Layout,",
+      "RMV 2nd Stage",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560094"
+    ]
+  }
+}

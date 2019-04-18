@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Vikram Rajola",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8293",
+  "name": "INDIA - DRIVING EDUCATION EMPOWERMENT AND DEVELOPMENT FOUNDATION",
+  "primaryEmail": "info@indeedfoundation.org",
+  "website": "http://www.indeedfoundation.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Intermediary"
+  ],
+  "telephone": [
+    "918447455977",
+    "919636182618"
+  ],
+  "mainAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "17-B, Abhaygarh Scheme",
+      "Opposite Airforce Kv No-1",
+      "Jodhpur",
+      "Rajasthan",
+      "342011"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Vicky Kumar",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2984",
+  "name": "DHARAMCHAND TEKCHAND EDUCATION SOCIETY",
+  "primaryEmail": "vikky444kumar@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919812793009"
+  ],
+  "mainAddrress": {
+    "state": "Haryana",
+    "address": [
+      "68,BTMCHOWK, NEAR SHIVANGI FASHION HOUSE",
+      "E-17,BHARAT NAGAR BHIWANI",
+      "BHIWANI",
+      "Bhiwani",
+      "Haryana",
+      "127021"
+    ]
+  }
+}

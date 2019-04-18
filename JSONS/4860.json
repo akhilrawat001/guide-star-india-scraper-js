@@ -1,0 +1,41 @@
+{
+  "contacts": [
+    {
+      "name": "Jyoti Bhadilaya",
+      "email": "mbcn_vandana@yahoo.co.in",
+      "designation": "PA",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4860",
+  "name": "Mata Bhagwanti Devi Chadha Charitable Trust",
+  "primaryEmail": "mbcn_vandana@yahoo.co.in",
+  "website": "www.mbcnschool.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919711000843"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "Mata Bhagwanti Chadha Niketan, A-12, Sec-132, expressway, Noida",
+      "Noida",
+      "Gautam Buddha Nagar",
+      "Uttar Pradesh",
+      "201301"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "Mata Bhagwanti Chadha Niketan, A-12, Sec-132, expressway, Noida",
+      "noida",
+      "Gautam Buddha Nagar",
+      "Uttar Pradesh",
+      "201301",
+      "electricity bill feb-13.PDF"
+    ]
+  }
+}

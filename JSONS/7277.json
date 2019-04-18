@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "R.Venugopal",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "2445213"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7277",
+  "name": "GUILD OF SERVICE (SEVA SAMAJAM) COIMBATORE",
+  "primaryEmail": "goscbe@gmail.com",
+  "website": "http://www.kovaiyin-vazhikaatti.org/gos/",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "914222445213",
+    "914222445213"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "65/4, Mettupalayam Road",
+      "(Opp. Cheran Nagar), Kavundampalayam",
+      "Coimbatore",
+      "Tamil Nadu",
+      "641030"
+    ]
+  }
+}

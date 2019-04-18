@@ -1,0 +1,38 @@
+{
+  "contacts": [
+    {
+      "name": "Omar Wani",
+      "email": "omar@cltindia.org",
+      "designation": "Chief Strategy Officer",
+      "mobile": [
+        "91-9008174000"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4164",
+  "name": "Children's Lovecastles Trust",
+  "primaryEmail": "bhagya@cltindia.org",
+  "website": "www.cltindia.org",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "918065967021",
+    "919008174000",
+    "919880140887"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "CLT India, Near Jakkur Circle",
+      "Jakkur Village Post",
+      "Bangalore",
+      "Bengaluru (Bangalore) Rural",
+      "Karnataka",
+      "560064"
+    ]
+  },
+  "briefDescription": "CLT India is a non-profit, non-government organization that has worked since 1997 to support and strengthen government schools in rural India.  Our mission is to use technology to create, enhance and monitor the delivery of education in an affordable, scalable and modular manner. CLT addresses the challenge of shortage of teachers with subject expertise, student disengagement, lack of quality learning resources and missed opportunities in rural schools. By giving equal learning opportunities for girls and boys with quality e-learning resources for STEM education, we are able to bridge many gaps, including the gender-divide and digital divide.Development Innovation/Solution- Give access to quality learning resources, developed by Master Teachers, for every child anywhere with appropriate technology and relevant localized content.",
+  "yearOfEstablishment": "1997"
+}

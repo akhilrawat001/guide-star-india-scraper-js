@@ -1,0 +1,34 @@
+{
+  "contacts": [
+    {
+      "name": "Atul Joshi",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "9325325295"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6939",
+  "name": "Vidyalankar Foundation",
+  "primaryEmail": "ibrm.atul@gmail.com",
+  "website": "www.vidyalankarfoundation.org",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919325325295"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "110,Mirage Arcade, Phadke Cross Road",
+      "Opp. Ganesh Mandir",
+      "Dombivili East",
+      "Thane",
+      "Maharashtra",
+      "421201"
+    ]
+  }
+}

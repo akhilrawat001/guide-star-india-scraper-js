@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Bipin Bihari Nayak",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8534",
+  "name": "SRI JAGANNATH RURAL DEVELOPMENT ORGANISATION",
+  "primaryEmail": "srdo.orissa@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919438305736"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "AT-JAGATPUR",
+      "PO-BERUDA,VIA-PANIKOILI,",
+      "DIST JAJPUR",
+      "Jajpur",
+      "Odisha",
+      "755043"
+    ]
+  }
+}

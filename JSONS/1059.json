@@ -1,0 +1,40 @@
+{
+  "contacts": [
+    {
+      "name": "Akshaya Mahapatra",
+      "email": "",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1059",
+  "name": "Life Academy of Vocational Studies",
+  "primaryEmail": "lavsorissa@rediffmail.com",
+  "website": "www,lavsorissa.org",
+  "telephone": [
+    "916742471813",
+    "916742741813",
+    "916742741813"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "Plot No 119  Cooperative Housing Complex",
+      "P.O. KIIT",
+      "Bhubaneswar",
+      "Khordha",
+      "Odisha",
+      "751024"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Odisha",
+    "address": [
+      "Chandrashekharpur",
+      "Bhubaneswar",
+      "Khordha",
+      "Odisha",
+      "751024"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "contacts": [
+    {
+      "name": "V.Balamurali",
+      "email": "cardtrust.murali@gmail.com",
+      "designation": "Managing Trustee",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4480",
+  "name": "CUMULATIVE ACTION FOR RURAL DEVELOPMENT TRUST (CARD TRUST)",
+  "primaryEmail": "cardtrust.murali@gmail.com",
+  "website": "http//www.cardtrust.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919994115585"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "3/1,kk road, kalviulagam",
+      "3/1,kk road,kalviulagam",
+      "villupuram",
+      "Viluppuram",
+      "Tamil Nadu",
+      "605602"
+    ]
+  },
+  "briefDescription": "Located in Villupuram, Cumulative Action for Rural Development Trust is involved in eliminating poverty in rural population and economically weaker sections in our community. We also run the Micro entreprenuer development programme, supported by NABARD which has various activities like jute bag making, tailoring training course etc.",
+  "yearOfEstablishment": "1992",
+  "regiseredAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "3/1,kk road,",
+      "kalviulagam",
+      "vilupuram",
+      "Viluppuram",
+      "Tamil Nadu",
+      "605602"
+    ]
+  }
+}

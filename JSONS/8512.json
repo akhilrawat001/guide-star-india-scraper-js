@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Jnanaranjan Ojha",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8512",
+  "name": "NARAYAN MEMORIAL FOUNDATION TRUST (N.M.F.T)",
+  "primaryEmail": "narayanmemorial@gmail.com",
+  "website": "www.narayanmemorial.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Intermediary",
+    "Support"
+  ],
+  "telephone": [
+    "9583627621"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "Rainlo",
+      "Nuapada, Batipara",
+      "Kendrapara",
+      "Odisha",
+      "754218"
+    ]
+  }
+}

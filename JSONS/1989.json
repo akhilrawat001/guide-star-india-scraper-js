@@ -1,0 +1,35 @@
+{
+  "contacts": [
+    {
+      "name": "R.Rajarathnam",
+      "email": "esprit03@rediffmail.com",
+      "designation": "Programme Co-ordinator",
+      "mobile": [
+        "91-8925845531"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1989",
+  "name": "ENVIRONMENTAL AND SOCIAL PROJECTS FOR RURAL IMPROVEMENT TRUST(ESPRIT)",
+  "primaryEmail": "esprit03@rediffmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Network"
+  ],
+  "telephone": [
+    "914175236455",
+    "918925845531"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "Mettu Street",
+      "Nallavanpalayam Village & Post",
+      "Tiruvannamalai",
+      "Tamil Nadu",
+      "600007"
+    ]
+  }
+}

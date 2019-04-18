@@ -1,0 +1,42 @@
+{
+  "contacts": [
+    {
+      "name": "Bandana",
+      "email": "varanya_connect@rediffmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6668",
+  "name": "SADAIV SAMARPIT",
+  "primaryEmail": "varanya_connect@rediffmail.com",
+  "website": "http://sadaiv.blogspot.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919955332305"
+  ],
+  "mainAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "In Front Of E 24/2",
+      "Po-I E Gomia",
+      "Bokaro",
+      "Jharkhand",
+      "829112"
+    ]
+  },
+  "briefDescription": "SADAIV SAMARPIT is located in Gomia Bokaro,Jharkhand. It is a place surrounded by unwanted activities. Basically Gomia is affected by naxelite and many govt. facilities not reached to the people till now. Sadaiv Samarpit providing basic education to the village children and providing science education to local school students through audio-video activities.",
+  "yearOfEstablishment": "2009",
+  "regiseredAddrress": {
+    "state": "Bihar",
+    "address": [
+      "Chaya Road",
+      "Maal Goddam",
+      "Nawada",
+      "Bihar",
+      "805130"
+    ]
+  }
+}

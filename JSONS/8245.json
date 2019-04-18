@@ -1,0 +1,24 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8245",
+  "name": "Institute For Integrated Rural Development",
+  "primaryEmail": "info@iird.org.in",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919881866319",
+    "912431241355"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "54, Kanchan Nagar,",
+      "Nakshtrawadi Aurangabad",
+      "Aurangabad",
+      "Maharashtra",
+      "431002"
+    ]
+  }
+}

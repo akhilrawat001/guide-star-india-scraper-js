@@ -1,0 +1,38 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9033",
+  "name": "NTR MEMORIAL TRUST",
+  "primaryEmail": "info@ntrtrust.org",
+  "website": "www.ntrtrust.org",
+  "organisationType": [
+    "Direct Service",
+    "Grant-making",
+    "Support"
+  ],
+  "telephone": [
+    "914030145800",
+    "919100433499"
+  ],
+  "mainAddrress": {
+    "state": "Telangana",
+    "address": [
+      "NTR Trust Bhavan, Road-2, Banjara Hills",
+      "Road -2,Banjara Hills",
+      "Hyderabad",
+      "Telangana",
+      "500034"
+    ]
+  },
+  "briefDescription": "NTR Trust is one of the leading not-for-profits in the state of Andhra Pradesh and Telangana. Through our programmatic verticals - Healthcare, Education, Empowerment & Livelihood, Sujala, Arts & Culture and Disaster Response and Relief - we have positively impacted the lives of more than 1.6 million people.",
+  "yearOfEstablishment": "1997",
+  "regiseredAddrress": {
+    "state": "Telangana",
+    "address": [
+      "NTR Trust Bhavan",
+      "Road -2,Banjara Hills",
+      "Hyderabad",
+      "Telangana",
+      "500034"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "contacts": [
+    {
+      "name": "D.Gaikwad",
+      "email": "helpline@studentsfuel.com",
+      "designation": "Program coordinator",
+      "mobile": [
+        "91-7709005498"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1442",
+  "name": "FUEL( Friends Union For Energising Lives)",
+  "primaryEmail": "ketan@studentsfuel.com",
+  "website": "www.studentsfuel.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918600035491"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Flat 5 Mohite Towers",
+      "Singhgad Road",
+      "Pune",
+      "Maharashtra",
+      "411051"
+    ]
+  },
+  "briefDescription": "FUEL works with 2500+ Schools and Junior colleges in Maharashtra and Karnataka by conducting  workshops,providing our career book \"Student's Fuel\" ,telephone helpline and web cut off helpline to students.We annually reach more than 5 lakh students through our unique partnership model of working with csr foundations,government and rural schools",
+  "yearOfEstablishment": "2007",
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Flat No:7,3rd Floor,Orchid Apartment",
+      "Dahanukar colony,Lane 9,Kothrud",
+      "Pune",
+      "Maharashtra",
+      "411029"
+    ]
+  }
+}

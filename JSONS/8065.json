@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Balbeer Singh",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8065",
+  "name": "Rajrani Manav Kalyan Sansthan",
+  "primaryEmail": "rmks_up@yahoo.co.in",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919236821389"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "Village- Khujaupur,",
+      "Post- Rooma, District- Kanpur Nagar,",
+      "Kanpur Nagar",
+      "Uttar Pradesh",
+      "208001"
+    ]
+  }
+}

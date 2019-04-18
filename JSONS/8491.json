@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Anasuya Samal",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8491",
+  "name": "SHAKSIWORLD ASSOCIATION CHARITABLE TRUST",
+  "primaryEmail": "shaksiworld@gmail.com",
+  "website": "www.shaksiworld.in",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "919337790660"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "Plot No.-508, Sahid Nagar,",
+      "Near SBI",
+      "Bhubaneswar",
+      "Khordha",
+      "Odisha",
+      "751007"
+    ]
+  }
+}

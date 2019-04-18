@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Amit Singh",
+      "email": "info@sahbhagi.org",
+      "designation": "Officer IT",
+      "mobile": [
+        "91-9935302536"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1448",
+  "name": "Sahabhagi Shikshan Kendra",
+  "primaryEmail": "info@sahbhagi.org",
+  "website": "www.sahbhagi.org",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "915226980124",
+    "919452293783"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "Sahbhagi Road",
+      "Chatha Meel, Behind Fire Police Station, Sitapur Road",
+      "Lucknow",
+      "Uttar Pradesh",
+      "227208"
+    ]
+  }
+}

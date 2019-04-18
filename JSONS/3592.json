@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "E.kalyanasundaram",
+      "email": "vyasaiseers@yahoo.co.in",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3592",
+  "name": "SOCIO-ECONOMIC EDUCATION AND REHABILITATION SOCIETY",
+  "primaryEmail": "kalyana1960@yahoo.in",
+  "website": "www.seersindia.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "910442673564"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "26/27 blocks inbetwen,sathiyamoortynager,vyasarpady",
+      "chennai-",
+      "chennai",
+      "Chennai",
+      "Tamil Nadu",
+      "600039"
+    ]
+  }
+}

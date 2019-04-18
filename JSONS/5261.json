@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Jagannath Banerjee",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5261",
+  "name": "Kristalaya Mercy Mission",
+  "primaryEmail": "kmercymission@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919749066397",
+    "919735267090"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Baghajatin Colony Main Road",
+      "Pradhan Nagar",
+      "Siliguri",
+      "Darjeeling",
+      "West Bengal",
+      "734003"
+    ]
+  },
+  "briefDescription": "Kristalaya Mercy Mission is a Philanthropic organization working to create a positive and enduring change in the lives of children, families and communities living in abject poverty and undue inequality. Irrespective of religion, caste, creed, race, ethnicity or gender, Kristalaya Mercy Mission extends a helping hand to anyone and everyone who deserve it.",
+  "yearOfEstablishment": "2008"
+}

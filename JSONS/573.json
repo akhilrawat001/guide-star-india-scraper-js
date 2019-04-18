@@ -1,0 +1,26 @@
+{
+  "contacts": [
+    {
+      "name": "Indrajeet Bhai",
+      "email": "",
+      "designation": "Manager",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=573",
+  "name": "Poorvanchal Pragati Sansthan",
+  "primaryEmail": "ppaib_pragati@yahoo.com",
+  "telephone": [
+    "919919982256"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "Village- Bhatauli Khurd",
+      "Gauri Bazar",
+      "Deoria",
+      "Uttar Pradesh",
+      "274202"
+    ]
+  }
+}

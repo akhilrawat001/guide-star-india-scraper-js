@@ -1,0 +1,46 @@
+{
+  "contacts": [
+    {
+      "name": "MS. PADMA DEOSTHALI",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "26673154"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4280",
+  "name": "ANUSANDHAN TRUST",
+  "primaryEmail": "cehatmumbai@gmail.com",
+  "website": "www.cehat.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Support"
+  ],
+  "telephone": [
+    "912226673154",
+    "912226673154"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "SURVEY NO 2804/2805",
+      "ARAM SOCIETY ROAD,VAKOLA",
+      "SANTACRUZ (E), MUMBAI",
+      "Mumbai Suburban",
+      "Maharashtra",
+      "400055"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "SAI ASHRAY",
+      "ARAM SOCIETY ROAD",
+      "VAKOLA, SANTACRUZ (E), MUMBAI",
+      "Mumbai Suburban",
+      "Maharashtra",
+      "400055"
+    ]
+  }
+}

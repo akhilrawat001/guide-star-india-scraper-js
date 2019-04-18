@@ -1,0 +1,27 @@
+{
+  "contacts": [
+    {
+      "name": "Sunil George Konnackal",
+      "email": "",
+      "designation": "Secretary & Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1554",
+  "name": "Kripa Social Welfare Society",
+  "primaryEmail": "kripaujjain@gmail.com",
+  "telephone": [
+    "917342512144",
+    "919425918075"
+  ],
+  "mainAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "Bishop House",
+      "Catholic Church Compound, Dewas Road,",
+      "Ujjain",
+      "Madhya Pradesh",
+      "456010"
+    ]
+  }
+}

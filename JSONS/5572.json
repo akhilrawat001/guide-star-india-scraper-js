@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Jesuino  Julian",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5572",
+  "name": "SPINA  BIFIDA  FOUNDATION",
+  "primaryEmail": "secretarysjk@yahoo.in",
+  "website": "http://www.spinabifidafoundation.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919820306107"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "111/A,  Aradhana,",
+      "G. D. Ambedkar Marg, Dadar East,",
+      "Mumbai - 400 014",
+      "Mumbai",
+      "Maharashtra",
+      "400014"
+    ]
+  }
+}

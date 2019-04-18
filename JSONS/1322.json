@@ -1,0 +1,35 @@
+{
+  "contacts": [
+    {
+      "name": "Pradeep",
+      "email": "spk21@yahoo.com",
+      "designation": "Coordinator",
+      "mobile": [
+        "91-422-2645101"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1322",
+  "name": "Aishwariam Social Welfare Organisation and Resource Training Centre.",
+  "primaryEmail": "aswoindia@gmail.com",
+  "website": "www.aishwariamngo.org",
+  "organisationType": [
+    "Direct Service",
+    "Grant-making",
+    "Support"
+  ],
+  "telephone": [
+    "914222645101",
+    "919894553392"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "1/382",
+      "Krishna Moorthi 1st street,N.G.G.O colony,",
+      "Coimbatore",
+      "Tamil Nadu",
+      "641022"
+    ]
+  }
+}

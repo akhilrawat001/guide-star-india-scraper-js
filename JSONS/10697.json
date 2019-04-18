@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Ms Vimla Kaul",
+      "email": "",
+      "designation": "Founder",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10697",
+  "name": "VASUNDHARI SOCIETY FOR SOCIAL ACTION",
+  "primaryEmail": "shillpiasingh@gmail.com",
+  "website": "https://sites.google.com/site/vimlavasundhari/",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "919818512708"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "C 203, DDA Flats, Sarita Vihar, New Delhi",
+      "New Delhi",
+      "South Delhi",
+      "Delhi",
+      "110076"
+    ]
+  },
+  "briefDescription": "We run a school-cum-learning centre for underprivileged children. We also train girls and women in knitting, embroidery, candle-making, mehendi application, tailoring and carpentry.",
+  "yearOfEstablishment": "2012"
+}

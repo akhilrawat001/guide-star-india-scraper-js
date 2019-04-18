@@ -1,0 +1,27 @@
+{
+  "contacts": [
+    {
+      "name": "Bhagyashri Dengle",
+      "email": "",
+      "designation": "Executive Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1129",
+  "name": "Plan International (India Chapter)",
+  "primaryEmail": "bhagyashri.dengle@plan-international.org",
+  "telephone": [
+    "911146558443",
+    "911146558484",
+    "911146558484"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "E-12 Kailash Colony",
+      "New Delhi",
+      "Delhi",
+      "110048"
+    ]
+  }
+}

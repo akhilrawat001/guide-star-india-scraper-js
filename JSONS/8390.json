@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Rahul Bais",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8390",
+  "name": "Swarajya Mitraï¿½Samajik Sanstha",
+  "primaryEmail": "swarajya.mitra@rediffmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "917212385204",
+    "917212385204"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "At Post Anjangaon-Bari, Via Badnera",
+      "Tq. Dist. Amravati",
+      "Amravati",
+      "Maharashtra",
+      "444701"
+    ]
+  }
+}

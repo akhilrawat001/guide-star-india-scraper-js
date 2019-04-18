@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "USHA NISCHAL",
+      "email": "nischal.usha@gmail.com",
+      "designation": "PRESIDENT",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7940",
+  "name": "MAHILAEN PRAGATI KI ORE",
+  "primaryEmail": "nischal.usha@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919212002405"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "S-1/ 77, OLD MAHAVIR NAGAR",
+      "POST OFFICE TILAK NAGAR,",
+      "NEW DELHI",
+      "New Delhi",
+      "Delhi",
+      "110018"
+    ]
+  }
+}

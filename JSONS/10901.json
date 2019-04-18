@@ -1,0 +1,35 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10901",
+  "name": "Magician Foundation (INDIA)",
+  "primaryEmail": "info@magicianfoundation.org",
+  "website": "http://www.magicianfoundation.org",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "919769472623"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Room No. C/15 Plot No 170 Savali Housing Society",
+      "Gorai 2, Near Sai Baba Mandir  Borivali West",
+      "Mumbai",
+      "Thane",
+      "Maharashtra",
+      "400092"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Room No. C/15 Plot No 170 Savali Housing Society",
+      "Gorai 2, Near Sai Baba Mandir Borivali West",
+      "Mumbai",
+      "Thane",
+      "Maharashtra",
+      "400092"
+    ]
+  }
+}

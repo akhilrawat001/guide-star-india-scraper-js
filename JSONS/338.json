@@ -1,0 +1,46 @@
+{
+  "contacts": [
+    {
+      "name": "Prabhat Kumar Singh",
+      "email": "prabhat@childsurvival-india.org",
+      "designation": "Project Director",
+      "mobile": [
+        "91-11-27844740",
+        "91-9810986101"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=338",
+  "name": "Child Survival India",
+  "primaryEmail": "csi_org@hotmail.com",
+  "website": "www.childsurvival-india.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "911127844740",
+    "911143046996",
+    "919810647807"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "B 121 basement",
+      "Kalka Ji , New Delhi",
+      "Delhi",
+      "New Delhi",
+      "110019"
+    ]
+  },
+  "briefDescription": "CSI has an integrated community development approach with health, education, child rights and gender as its focus. CSI reaches out to a population about 1,50, 000 every year in various slums and villages across Delhi, Haryana &  Punjab , finding new avenues and alternatives of development for Adolescent girls, underprivileged youth, poor illiterate slum women, female sex workers, truckers, people infected and affected with HIV/AIDS.   We are currently implementing our work around Maternal & Child Health, Water And Sanitation, HIV/AIDS Prevention and Care, Child Rights, Child protection and Education, Women Empowerment  and Community Health care.",
+  "yearOfEstablishment": "1991",
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "33-C, Z-1,Dilshad Garden",
+      "Delhi",
+      "New Delhi",
+      "110095"
+    ]
+  }
+}

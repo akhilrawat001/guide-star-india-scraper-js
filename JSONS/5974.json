@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Baban Narayan shinde",
+      "email": "info@pasaydanbalvikas.org",
+      "designation": "Founder/ Chairman",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5974",
+  "name": "Pasaydan Balvikas Foundation",
+  "primaryEmail": "info@pasaydanbalvikas.org",
+  "website": "http://www.pasaydanbalvikas.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919922050247"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Room No.1, Vitthal Narayan Koli Chwal",
+      "Mithbunder Road",
+      "Thane",
+      "Maharashtra",
+      "400603"
+    ]
+  },
+  "briefDescription": "Pasaydan Balvikas Foundation is registered organization from Thane, Mumbai.",
+  "yearOfEstablishment": "2010"
+}

@@ -1,0 +1,37 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5821",
+  "name": "Mahila Vikash",
+  "primaryEmail": "vikash_mv@rediffmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919938552008",
+    "919777132860"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "AT/PO- TARBOD",
+      "PS- KOMNA",
+      "VIA- KOMNA",
+      "Nuapada",
+      "Odisha",
+      "766105"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Odisha",
+    "address": [
+      "AT/PO- TARBOD",
+      "PS-KOMNA",
+      "VIA- KOMNA",
+      "Nuapada",
+      "Odisha",
+      "766105"
+    ]
+  }
+}

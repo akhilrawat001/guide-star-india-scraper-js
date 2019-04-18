@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Anirudh Sharma",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "9828087011"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1893",
+  "name": "Manavkriti Foundation Society",
+  "primaryEmail": "manavkritifoundation@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919828087011"
+  ],
+  "mainAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "4/168, Malviya Nagar",
+      "Jaipur",
+      "Rajasthan",
+      "302017"
+    ]
+  },
+  "briefDescription": "Manavkriti Foundation is a registered society who bound up for overall human development. its vision is to be a synonym of development and for getting this we always try to find out the areas where the development is a need. Our main objectives to promote the child education, women empowernment, environmental safety and conservation and maintaining ecological balance, to conduct research, organize awareness and training programmes, seminar, workshops etc. 13-15 highly experienced persons are with us.",
+  "yearOfEstablishment": "2011"
+}

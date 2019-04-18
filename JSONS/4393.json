@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Dr.Amitava Ghosh",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4393",
+  "name": "Pushti",
+  "primaryEmail": "pushtingo@gmail.com",
+  "website": "nil",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919434167746"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "2 No Sankari Pukur,",
+      "Diptibag West, Sripally",
+      "Burdwan",
+      "Bardhaman",
+      "West Bengal",
+      "713103"
+    ]
+  }
+}

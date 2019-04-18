@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Dhirendra Joshi",
+      "email": "",
+      "designation": "Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=571",
+  "name": "Himalayan Seva Samiti",
+  "primaryEmail": "hss_pithoragarh31@rediffmail.com",
+  "telephone": [
+    "915964251153",
+    "915964211757",
+    "919412042382",
+    "915964251153"
+  ],
+  "mainAddrress": {
+    "state": "Uttarakhand",
+    "address": [
+      "Vill- Dharapani",
+      "Chandak",
+      "Pithoragarh",
+      "Uttarakhand",
+      "262501"
+    ]
+  }
+}

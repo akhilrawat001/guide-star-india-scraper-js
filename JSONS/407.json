@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "Farida Bhathena",
+      "email": "faridabhathena@paragonproperty.in",
+      "designation": "Trustee",
+      "mobile": [
+        "91-22-24938752"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=407",
+  "name": "The Paragon Charitable Trust",
+  "primaryEmail": "faridabhathena@paragonproperty.in",
+  "website": "http://www.muktanganedu.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "912224938752",
+    "912224936627",
+    "912224938752"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "I-11/12 Paragon Condominium,",
+      "Pandurang Budkar Marg, Worli",
+      "Mumbai",
+      "Maharashtra",
+      "400013"
+    ]
+  },
+  "briefDescription": "Muktangan is the sole initiative of Paragon Charitable Trust, a registered charity. Muktangan’s innovative educational model integrates school and Teacher Education addressing the quality gap in the mainstream system. Its community based, inclusive, child-centered model has evolved over 13 years in our teacher education centre and our 7 English medium Municipal Schools in Mumbai. We offer quality holistic education for approximately 3400 children from low-income communities and have so far trained and employed approximately 475 women from the same communities as the children.",
+  "yearOfEstablishment": "1966"
+}

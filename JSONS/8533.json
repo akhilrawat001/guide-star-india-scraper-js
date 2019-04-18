@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Ripudaman",
+      "email": "",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8533",
+  "name": "Gram Praudyogik Vikas Sansthan",
+  "primaryEmail": "gpvs_rd@hotmail.com",
+  "website": "www.gpvs.org.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919973023966"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "101 Kunwar Complex, Main Road, Kankarbagh",
+      "Opp SBI,",
+      "Patna",
+      "Bihar",
+      "800020"
+    ]
+  }
+}

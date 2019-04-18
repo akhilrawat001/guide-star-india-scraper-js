@@ -1,0 +1,41 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=886",
+  "name": "Tamana",
+  "primaryEmail": "info@tamana.org",
+  "website": "www.tamana.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "911126151587",
+    "911126151587",
+    "911126148269",
+    "911126151587"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "C-10/8",
+      "Vasant Vihar",
+      "New Delhi",
+      "South Delhi",
+      "Delhi",
+      "110057",
+      "ADDRESS PROOF C10.PDF"
+    ]
+  },
+  "briefDescription": "Tamana was created solely for the purpose of providing the best professional help to children and adults with developmental and multiple disabilities and autism; providing a holistic developmental education to children with special needs, to effect optimum adult habilitation,to enable the special needs individual to become a happy, useful and integrated member of society by realising his /her full potential.Every year a 1000 benficiaries avail our services",
+  "yearOfEstablishment": "1984",
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "D-6 Street",
+      "Vasant Vihar",
+      "New Delhi",
+      "South Delhi",
+      "Delhi",
+      "110057"
+    ]
+  }
+}

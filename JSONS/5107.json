@@ -1,0 +1,42 @@
+{
+  "contacts": [
+    {
+      "name": "SUBHAS MONDAL",
+      "email": "secretary@deprivepeople.org",
+      "designation": "SECRETARY",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5107",
+  "name": "DEPRIVE PEOPLE",
+  "primaryEmail": "secretary@deprivepeople.org",
+  "website": "www.deprivepeople.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "913324881725",
+    "913324881725"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "CHAKKENDUA P.O-JOTESHIBRAMPUR",
+      "MAHESHTALA",
+      "KOLKATA",
+      "South 24 Parganas",
+      "West Bengal",
+      "700141"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "not provided",
+      "KOLKATA",
+      "South 24 Parganas",
+      "West Bengal",
+      "700141"
+    ]
+  }
+}

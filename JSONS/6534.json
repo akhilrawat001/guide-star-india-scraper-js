@@ -1,0 +1,44 @@
+{
+  "contacts": [
+    {
+      "name": "Pallavi Y",
+      "email": "pallavi@jaindia.org",
+      "designation": "Program-Incharge",
+      "mobile": [
+        "91-9960671355"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6534",
+  "name": "Junior Achievement India Services",
+  "primaryEmail": "pallavi@jaindia.org",
+  "website": "www.jaindia.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "912224103413"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "169/C, Outhouse, Nilkanth Niwas, Purandare Park,",
+      "Dr.Ambedkar Road, Dadar T.T Circle, Dadar East",
+      "Mumbai 400014",
+      "Mumbai",
+      "Maharashtra",
+      "400014"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "102. Regus Millenia ,Millenia Level 1 Tower B,",
+      "Murphy Road , Ulsoor",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560008"
+    ]
+  }
+}

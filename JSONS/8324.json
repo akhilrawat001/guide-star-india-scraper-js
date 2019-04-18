@@ -1,0 +1,29 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8324",
+  "name": "NATIONAL ANTI CRIME BUREAU",
+  "primaryEmail": "nacbcare@gmail.com",
+  "website": "www.nacb.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919449263121"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "C/O- Saleem Malik Madaki, No-16, Mastan Sofa,",
+      "Old-Hubli",
+      "Hubli",
+      "Dharwad",
+      "Karnataka",
+      "580024"
+    ]
+  }
+}

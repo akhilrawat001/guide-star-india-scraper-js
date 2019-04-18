@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Apurba Paik",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8381",
+  "name": "ARUN NAGAR BELPUKU MATH VIVAKANANDO STUDY ACADEMY",
+  "primaryEmail": "vivakanandostudy@rediffmail.com",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "+919734666680"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Paik Para",
+      "Vill-Arunnagar,P.O-Chatramaldari,P.S-Joynagar,Dist 24Pgs(S)",
+      "Joynagar",
+      "South 24 Parganas",
+      "West Bengal",
+      "743337"
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2641",
+  "name": "Women Development Federation",
+  "primaryEmail": "wdfslm@gmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "914283222575",
+    "914283224649",
+    "919865284184"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "No.314 Srisaigeethalayem,Kamarajnagar,",
+      "Post Vellandivalasu",
+      "Idappadi",
+      "Salem",
+      "Tamil Nadu",
+      "637105"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "Sujjalur",
+      "Malavalli",
+      "Mandya",
+      "Karnataka",
+      "571424"
+    ]
+  }
+}

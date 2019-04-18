@@ -1,0 +1,40 @@
+{
+  "contacts": [
+    {
+      "name": "Shyamala Sami",
+      "email": "shyamala@arogyaworld.org",
+      "designation": "Administrator",
+      "mobile": []
+    },
+    {
+      "name": "Shyamala Sami",
+      "email": "shyamala@arogyaworld.org",
+      "designation": "Administrator",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8070",
+  "name": "Arogya World India Trust",
+  "primaryEmail": "shyamala@arogyaworld.org",
+  "website": "www.arogyaworld.org",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919663731122"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "06, Krishna Gardenia Apartments, 5th Main",
+      "RMV Extension, 11 Stage, Dollars Colony",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560094"
+    ]
+  },
+  "briefDescription": "Arogya World is a global health non-profit organization working to prevent non-communicable diseases (NCDs) through health education and lifestyle change.  NCDs, which include diabetes, heart disease, cancer and chronic lung diseases, are among the biggest health and development challenges of the century. We strive to achieve our mission - to change the course of chronic disease – through a focus on partnerships and innovative technology, and by implementing scalable, sustainable programs with measurable impact. In India we implement diabetes prevention programs in schools, workplaces and the community.",
+  "yearOfEstablishment": "2013"
+}

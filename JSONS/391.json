@@ -1,0 +1,37 @@
+{
+  "contacts": [
+    {
+      "name": "I Nagendra Rao",
+      "email": "",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=391",
+  "name": "Legal Education and Action for the Development of Society",
+  "primaryEmail": "leadsngo@rediffmail.com",
+  "website": "http://www.giveindia.org/GetOrganisationProfile.aspx?ngoid=968",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918656235005",
+    "918656235005"
+  ],
+  "mainAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "34790, Dum-Dum gardens",
+      "Nuzvid",
+      "Krishna",
+      "Andhra Pradesh",
+      "521201"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "Andhra Pradesh"
+    ]
+  }
+}

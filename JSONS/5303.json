@@ -1,0 +1,33 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5303",
+  "name": "SEVA DHARTI WELFARE SOCIETY",
+  "primaryEmail": "sevadharti2007@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "917749038427"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "Bhubaneswar",
+      "BHUBANESWAR",
+      "Khordha",
+      "Odisha",
+      "751014"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "R2-23",
+      "House 2 Indira Park",
+      "Palam Colony",
+      "New Delhi",
+      "Delhi",
+      "110045"
+    ]
+  }
+}

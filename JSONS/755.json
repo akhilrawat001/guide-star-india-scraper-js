@@ -1,0 +1,40 @@
+{
+  "contacts": [
+    {
+      "name": "P Mathusoothana Perumal",
+      "email": "",
+      "designation": "Managing Trustee",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=755",
+  "name": "Himalaya Charitable Trust",
+  "primaryEmail": "himalaya.ct@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "914652425575",
+    "919443482578"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "48/3, Hindu College South Road",
+      "Nagercoil",
+      "Kanyakumari",
+      "Tamil Nadu",
+      "629002"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "Door No 17 A, Vilathivilai Pazhavilai P.O.",
+      "Kanyakumari",
+      "Tamil Nadu",
+      "629501",
+      "AP_TelBill_669.PDF"
+    ]
+  }
+}

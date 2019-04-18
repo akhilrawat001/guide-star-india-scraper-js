@@ -1,0 +1,38 @@
+{
+  "contacts": [
+    {
+      "name": "Rashmi Shirhatti",
+      "email": "shirhatti_rashmi@yahoo.co.in",
+      "designation": "Chief Executive",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=379",
+  "name": "International Leprosy Union India",
+  "primaryEmail": "ilupune@gmail.com",
+  "website": "http://www.ilu.org.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Network"
+  ],
+  "telephone": [
+    "912025862849",
+    "912025862849"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Care of, CASP Bhavan",
+      "Pashan Baner Link Road, S.No.132/2, Near HDFC Bank",
+      "Pune",
+      "Maharashtra",
+      "411021"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Maharashtra"
+    ]
+  }
+}

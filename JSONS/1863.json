@@ -1,0 +1,26 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1863",
+  "name": "Praxis - Institute for Participatory Practices",
+  "primaryEmail": "info@praxisindia.org",
+  "website": "http://www.praxisindia.org",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "911141642348",
+    "911141642349",
+    "911141642350",
+    "911141642349"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "C-75",
+      "South Extension Part - 2,",
+      "New Delhi",
+      "Delhi",
+      "110049"
+    ]
+  }
+}

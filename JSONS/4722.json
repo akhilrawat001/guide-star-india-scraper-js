@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "RAFIQUE LASKAR",
+      "email": "sundarbanmwt@gmail.com",
+      "designation": "SECRETARY",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4722",
+  "name": "SUNDARBAN MINORITY WELFARE TRUST",
+  "primaryEmail": "sundarbanmwt@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919734688483"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "VILL - MADHUSUDAN PUR, PO - MALAYA, PS - DHOLAHAT, DIST - SOUTH 24 PGS, PIN 743399",
+      "KOLKATA",
+      "South 24 Parganas",
+      "West Bengal",
+      "743399"
+    ]
+  },
+  "briefDescription": "SUNDARBAN MINORITY WELFARE TRUST ESTABLISHED FOR THE EDUCATION, RELIEF OF POOR, MEDICAL RELIEF AND ADVANCEMENT OF ANY OTHER CHARITABLE OF GENRAL PUBLIC UTILITY NOT INVOLVING THE ACTIVITY FOR PROFIT AND FOR SUCH PURPOSE."
+}

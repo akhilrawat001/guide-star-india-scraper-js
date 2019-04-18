@@ -1,0 +1,26 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1747",
+  "name": "Rajasthani Sammelan",
+  "primaryEmail": "rs@rajasthani.org.in",
+  "website": "http://www/rajathani.org.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "912228733807",
+    "912228773497",
+    "919821011119"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "S.V. ROAD",
+      "MALAD WEST,",
+      "MUMBAI",
+      "Mumbai Suburban",
+      "Maharashtra",
+      "400064"
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8481",
+  "name": "Harijan Adiwasi Shikshan Prashikshan Kalyan Sansthan",
+  "primaryEmail": "haspks@gmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919473130789",
+    "919199813364"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "Vidyarthi Chowk, Harda",
+      "NH 31",
+      "Purnea",
+      "Purnia",
+      "Bihar",
+      "854303"
+    ]
+  }
+}

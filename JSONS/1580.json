@@ -1,0 +1,25 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1580",
+  "name": "Paul Ministries",
+  "primaryEmail": "paulministries@gmail.com",
+  "website": "www.hiswillministry.org/paul",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918153270115",
+    "919343200694"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "152/1, Capernaum,",
+      "Grace Gardens, Keel Krishnapuram, Oorgaumpet post",
+      "Kolar Gold Fields",
+      "Kolar",
+      "Karnataka",
+      "563121"
+    ]
+  }
+}

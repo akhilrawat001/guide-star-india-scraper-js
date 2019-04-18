@@ -1,0 +1,27 @@
+{
+  "contacts": [
+    {
+      "name": "Harigovind Singh",
+      "email": "",
+      "designation": "Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1454",
+  "name": "Arthik Anusandhan Kendra",
+  "primaryEmail": "aakendra@gmail.com",
+  "telephone": [
+    "915322422973",
+    "915322422973"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "2/130",
+      "T. B. SAPRU ROAD, Civil Line,",
+      "Allahabad",
+      "Uttar Pradesh",
+      "211001"
+    ]
+  }
+}

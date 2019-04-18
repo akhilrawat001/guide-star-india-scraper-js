@@ -1,0 +1,27 @@
+{
+  "contacts": [
+    {
+      "name": "Ramesh Landge",
+      "email": "coiprojects@gmail.com",
+      "designation": "Managing Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4671",
+  "name": "Cooperative Outreach of India",
+  "primaryEmail": "coiprojects@gmail.com",
+  "telephone": [
+    "911127495210",
+    "919868870232"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "450 Da Block Sheesh Mahal Apt",
+      "Shalimar Bagh",
+      "North West Delhi",
+      "Delhi",
+      "110088"
+    ]
+  }
+}

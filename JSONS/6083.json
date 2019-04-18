@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "name": "Gangadhara.S",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "9945780630"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6083",
+  "name": "G-next FOUNDATION",
+  "primaryEmail": "ganga.gnf@gmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919945780630"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "109",
+      "Kotamaranahalli",
+      "Mylanayakanahalli post, Channapatna Taluk",
+      "Bengaluru (Bangalore) Rural",
+      "Karnataka",
+      "562160"
+    ]
+  },
+  "briefDescription": "G-next FOUNDATION...",
+  "yearOfEstablishment": "2013"
+}

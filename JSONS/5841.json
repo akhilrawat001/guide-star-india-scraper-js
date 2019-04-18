@@ -1,0 +1,45 @@
+{
+  "contacts": [
+    {
+      "name": "Amit Agrawal",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "9415856712"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5841",
+  "name": "Sustainable Human Development Association",
+  "primaryEmail": "shdagkp@gmail.com",
+  "website": "www.shdaindia.org",
+  "organisationType": [
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "9415856712"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "Naiyapar Khurd, Pipraich,Gorakhpur",
+      "Naiyapar Khurd,Pipraich",
+      "Gorakhpur",
+      "Uttar Pradesh",
+      "273152"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "Naiyapar Khurd, Pipraich,Gorakhpur",
+      "Bhatahat Road",
+      "Naiyapar Khurd,Pipraich",
+      "Gorakhpur",
+      "Uttar Pradesh",
+      "273152"
+    ]
+  }
+}

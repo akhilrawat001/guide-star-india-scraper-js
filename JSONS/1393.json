@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "Lydia Williams",
+      "email": "neol.lorens@gmail.com",
+      "designation": "Secretary",
+      "mobile": [
+        "91-80-26689186",
+        "91-9980798980"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1393",
+  "name": "Lakkasandra Ashwini Mahila Sangha.",
+  "primaryEmail": "lams207@yahoo.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network"
+  ],
+  "telephone": [
+    "918026689186",
+    "919980798980"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "606, 6th Main,",
+      "10th cross, Mico Layout, BTM 2nd Stg",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560076"
+    ]
+  }
+}

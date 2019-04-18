@@ -1,0 +1,34 @@
+{
+  "contacts": [
+    {
+      "name": "S Sophia Shalom",
+      "email": "",
+      "designation": "Project Officer",
+      "mobile": []
+    },
+    {
+      "name": "S Sophia Shalom",
+      "email": "",
+      "designation": "Project Officer",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=172",
+  "name": "The Ma Foi Foundation",
+  "primaryEmail": "prasanna@ciosa.org.in",
+  "website": "www.themafoifoundation.org",
+  "telephone": [
+    "914443582125",
+    "914443582125"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "New no 16, Jeyalarshmipuram 1st Street",
+      "Nungambakkam",
+      "Chennai",
+      "Tamil Nadu",
+      "600034"
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Kavita Jha",
+      "email": "ngosantosh@gmail.com",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4244",
+  "name": "Safe Approach for Nascent Termination Of Social Hazard",
+  "primaryEmail": "ngosantosh@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919910810869"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "E - 93, Bhagwati Garden Extn., New Delhi - 110059",
+      "Near Rajapur Khurd Govt. School",
+      "Delhi",
+      "West Delhi",
+      "110059"
+    ]
+  }
+}

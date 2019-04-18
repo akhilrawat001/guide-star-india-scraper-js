@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Monika Khanna",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4938",
+  "name": "ACCESS DEVELOPMENT SERVICES",
+  "primaryEmail": "vipin@accessdev.org",
+  "website": "http://www.accessdev.org/",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919810441292"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "28, First Floor",
+      "Hauz Khas Village",
+      "New Delhi",
+      "South Delhi",
+      "Delhi",
+      "110016",
+      "12A_2372.docx"
+    ]
+  }
+}

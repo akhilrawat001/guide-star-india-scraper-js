@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Mr. Awadhesh Kumar",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8201",
+  "name": "Arpit Seva Sansthan",
+  "primaryEmail": "awadheshbhinga@gmail.com",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "919839312048"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "Mohammadpur Kala",
+      "Mujehna",
+      "Shravasti",
+      "Uttar Pradesh",
+      "271831"
+    ]
+  }
+}

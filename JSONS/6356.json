@@ -1,0 +1,37 @@
+{
+  "contacts": [
+    {
+      "name": "ANAND RAVAL",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "9714991018"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6356",
+  "name": "GRAMSHREE WOMEN EMPOWERMENT",
+  "primaryEmail": "anand.craftroots@gmail.com",
+  "website": "www.craftroots.org",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919714991018",
+    "919825649148"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "1st floor Baleshwar avenue, opp rajpath club",
+      "s g highway",
+      "ahmedabad",
+      "Ahmedabad",
+      "Gujarat",
+      "380054"
+    ]
+  },
+  "briefDescription": "Craftroots is a direct marketing platform to the artisans of gujara. the main objectives of the craftroots are 1) survey and documentation 2) education and awareness 3) design and products development 4) marketing and sales 5) social services. craftroots works with 200 master craftmen of gujarat and 17000 indirect artisans along with 22 ngo's on the platform.",
+  "yearOfEstablishment": "2011"
+}

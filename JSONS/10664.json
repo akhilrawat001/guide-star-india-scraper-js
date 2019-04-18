@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "Manaranjan Behera",
+      "email": "",
+      "designation": "Founder  Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10664",
+  "name": "DARIDRA NARAYAN SEBA SANGATHAN",
+  "primaryEmail": "dnssdakoi@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919937422833"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "At-Dakoi, Po-Idar, Via-Chitrada",
+      "Mayurbhanj",
+      "Odisha",
+      "757018"
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5496",
+  "name": "JAGRITI MISSION ISHITA FOUNDATION",
+  "primaryEmail": "missionishitafoundation@gmail.com",
+  "website": "www.jagritimission.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919803367560"
+  ],
+  "mainAddrress": {
+    "state": "Haryana",
+    "address": [
+      "k.no 48, sector-21,panchkula",
+      "k.no.48, sec-21,panchkula",
+      "panchkula",
+      "Panchkula",
+      "Haryana",
+      "134112"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Haryana",
+    "address": [
+      "#839",
+      "Sector 8",
+      "Panchkula",
+      "Haryana",
+      "134116"
+    ]
+  }
+}

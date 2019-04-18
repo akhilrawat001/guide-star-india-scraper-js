@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Dr. Sangeeta Shirname",
+      "email": "sangeeta.shirname@inseed.org",
+      "designation": "Head, Education Unit",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4841",
+  "name": "Indic Society for Education and Development",
+  "primaryEmail": "sangeeta.shirname@inseed.org",
+  "website": "www.inseed.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919820349453"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Viceroy Park, Tower C, 3-D",
+      "Thankur Village, Kandivali East",
+      "Mumbai",
+      "Mumbai Suburban",
+      "Maharashtra",
+      "400101"
+    ]
+  }
+}

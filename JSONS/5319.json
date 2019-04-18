@@ -1,0 +1,44 @@
+{
+  "contacts": [
+    {
+      "name": "Anil Sahu",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5319",
+  "name": "The Children Emancipation Society",
+  "primaryEmail": "mail@projectmala.org.in",
+  "website": "www.projectmala.org.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "915414262312",
+    "915414262312"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "Project Mala School",
+      "Ahead of Kachhawa Road crossing",
+      "Village Guria, Post Thathara,",
+      "Varanasi",
+      "Uttar Pradesh",
+      "221313"
+    ]
+  },
+  "briefDescription": "Project Mala seeks out working children in remote villages of eastern Uttar Pradesh, and gives them quality education in four R’s: reading, writing, arithmetic and respect. In the three year Primary School course, we cover grades 1-5 of the national education standard. In the three year Middle School course, we cover grades 6-8 and in the two years of Secondary School we cover grades 9-10.We are governed by the National Institute of Open Schooling who provide certification at grade five level and grade eight level so children passing out can progress into further education. All the children in our schools are provided with a breakfast and a cooked midday meal.Until April 2013 we have enrolled over 7,674 children from 45 villages.",
+  "yearOfEstablishment": "1989",
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "Project Mala",
+      "7 SQ Munirka Enclave",
+      "New Delhi",
+      "Delhi",
+      "110067"
+    ]
+  }
+}

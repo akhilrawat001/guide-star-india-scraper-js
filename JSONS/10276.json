@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "Benny Edayath",
+      "email": "shreyasbathery@gmail.com",
+      "designation": "Executive Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10276",
+  "name": "SHREYAS",
+  "primaryEmail": "shreyasbathery@gmail.com",
+  "website": "http://www.shreyas.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "914936220479",
+    "919846372748"
+  ],
+  "mainAddrress": {
+    "state": "Kerala",
+    "address": [
+      "Shreyas Social Service Centre P.B No 77, Sulthan Bathery Wayanad",
+      "Bathery",
+      "Wayanad",
+      "Kerala",
+      "673592"
+    ]
+  },
+  "briefDescription": "Shreyas is a not for profit social work organization founded in the year 1979. It is dedicated to the development and the empowerment of the marginalized, irrespective of their religion, gender, colour and political affiliation. Since its inception Shreyas is engaged in building up a new social order with gender and environmental sensitivity based on moral values and principles. The present operational area is divided into 8 Regions incorporating- 83 Units -Village Federations for effective management and active participation.  Entering into the 38th year of social service, Shreyas could promote 2682 CBOs, coordinating 44000 families, covering a total population of one lakh ninety nine thousand six hundred and sixty six.",
+  "yearOfEstablishment": "1986"
+}

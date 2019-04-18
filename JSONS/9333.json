@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Dr Rajesh Kumar",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9333",
+  "name": "ADARSH PARA MEDICAL WELFARE ASSOCIATION",
+  "primaryEmail": "adarshmitc@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "911664215423",
+    "911664215423"
+  ],
+  "mainAddrress": {
+    "state": "Haryana",
+    "address": [
+      "Uttam Nagar, Loharu Road",
+      "Bhiwani",
+      "Haryana",
+      "127021"
+    ]
+  },
+  "yearOfEstablishment": "2004"
+}

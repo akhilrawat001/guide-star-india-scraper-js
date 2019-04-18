@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "Devendra Kumar Verma",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4319",
+  "name": "DEV NAVDISHA EDUCATION AND WELFARE SOCIETY",
+  "primaryEmail": "dnewsociety@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919670811405"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "Village-Palhapur, Post-Basara, Block- Maholi District-Sitapur (Uttar Pradesh)",
+      "Sitapur",
+      "Uttar Pradesh",
+      "261001"
+    ]
+  }
+}

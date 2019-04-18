@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Bhartendu Kumar Singh",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8357",
+  "name": "Gramin Jagriti",
+  "primaryEmail": "bhartendu.kumarsingh@yahoo.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "916111675673",
+    "916111675673"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "At Nadha",
+      "Po Nadha",
+      "Dist. Nalanda",
+      "Nalanda",
+      "Bihar",
+      "810302"
+    ]
+  }
+}

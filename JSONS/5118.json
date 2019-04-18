@@ -1,0 +1,44 @@
+{
+  "contacts": [
+    {
+      "name": "K.Uma Maheshwari",
+      "email": "ards.97@gmail.com",
+      "designation": "Computer Operator",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5118",
+  "name": "ACTION FOR RURAL DEVELOPMENT SOCIETY",
+  "primaryEmail": "ards.97@gmail.com",
+  "website": "No",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919440155869"
+  ],
+  "mainAddrress": {
+    "state": "Telangana",
+    "address": [
+      "H.No.9-147",
+      "Gandhi Bazar",
+      "Devarakonda",
+      "Nalgonda",
+      "Telangana",
+      "508248"
+    ]
+  },
+  "briefDescription": "Action for Rural Development Society is located in Andhra Pradesh.",
+  "yearOfEstablishment": "1997",
+  "regiseredAddrress": {
+    "state": "Telangana",
+    "address": [
+      "H.No. 9-147",
+      "Gandhi Bazar",
+      "Devarakonda",
+      "Nalgonda",
+      "Telangana",
+      "508248"
+    ]
+  }
+}

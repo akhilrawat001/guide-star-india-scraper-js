@@ -1,0 +1,38 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10951",
+  "name": "MANNA",
+  "primaryEmail": "mannacoordinator@gmail.com",
+  "website": "http://www.manna.org.in/",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919880200924",
+    "919482329766"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "No 102, Esther Harmony",
+      "N.Nagenehalli village,Kothanur",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560077"
+    ]
+  },
+  "briefDescription": "MANNA is a developmental disability centre providing holistic development to children from lower income groups with special needs in Bangalore in the state of Karnataka for the past 8 years. MANNA focuses on children with development disorders like Autism, Learning Disorders, Attention Deficit Hyperactivity Disorder (ADHD) and Attention Deficit Disorder (ADD),Cerebral Palsy and Down's Syndrome.",
+  "yearOfEstablishment": "2011",
+  "regiseredAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "200,50/7,Gubbi cross",
+      "Hennur bagalur Main road,Kothanur PO",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560077"
+    ]
+  }
+}

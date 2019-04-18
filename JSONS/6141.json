@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Bharat Nagda",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6141",
+  "name": "Muskan Sansthan",
+  "primaryEmail": "wrddtti@yahoo.com",
+  "website": "www.muskansewa.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "912964220584",
+    "912964220584"
+  ],
+  "mainAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "Chaubisa Samaj Ka nohra",
+      "Mhalla Ghanti",
+      "DUNGARPUR",
+      "Dungarpur",
+      "Rajasthan",
+      "314001"
+    ]
+  }
+}

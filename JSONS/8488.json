@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Rakesh Kiran",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8488",
+  "name": "MUHEEM",
+  "primaryEmail": "muheemindia@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919431173725"
+  ],
+  "mainAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "-GANGA ASHRAM COMPLEX",
+      "KUTCHERY ROAD",
+      "RANCHI",
+      "Ranchi",
+      "Jharkhand",
+      "834001"
+    ]
+  }
+}

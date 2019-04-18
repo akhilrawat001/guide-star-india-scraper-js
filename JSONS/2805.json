@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Nakhatdan Detha",
+      "email": "skss_jsmr@yahoo.co.in",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2805",
+  "name": "Seemant Kisan Sahyog Sansthan",
+  "primaryEmail": "skss_jsmr@yahoo.co.in",
+  "website": "www.skssjsmr.co.cc",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919829446228"
+  ],
+  "mainAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "B304 R.P.COLONY JAISALMER",
+      "JAISALMER",
+      "Jaisalmer",
+      "Rajasthan",
+      "345001"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Dr Manju Jha",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8353",
+  "name": "Abhigyan Disha",
+  "primaryEmail": "abhigyan_disha@yahoo.co.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "916276223071",
+    "916276223071"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "At+PO- Narhi",
+      "Via- Kaluahi",
+      "Dist- Madhubani",
+      "Madhubani",
+      "Bihar",
+      "847229"
+    ]
+  }
+}

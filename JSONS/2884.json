@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "Mayur Chauhan",
+      "email": "mayurchauhan_2k@yahoo.com",
+      "designation": "Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2884",
+  "name": "PRAYAS CHARITABLE TRUST",
+  "primaryEmail": "mayurchauhan_2k@yahoo.com",
+  "telephone": [
+    "912669233699",
+    "912669233221"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "Care of INFOTECH INTERNATIONAL",
+      "OPP POWER HOUSE",
+      "CHHOTAUDEPUR TALUKA",
+      "Vadodara",
+      "Gujarat",
+      "391165"
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "Ramesh Chandra Bhandeye",
+      "email": "shantiratnafoundation@gmail.com",
+      "designation": "PRESIDENT",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4908",
+  "name": "Shantiratna Parivartan Foundation Sanstha",
+  "primaryEmail": "shantiratnafoundation@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919890649349"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "RAJDHANI TOWER SATARA",
+      "Satara",
+      "Maharashtra",
+      "415002"
+    ]
+  }
+}

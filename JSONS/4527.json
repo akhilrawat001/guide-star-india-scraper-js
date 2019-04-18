@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "TAPASH KUMAR DHALI",
+      "email": "suvam.org@gmail.com",
+      "designation": "CHAIRMAN",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4527",
+  "name": "Social Unique Voluntary Affairs Management SUVAM",
+  "primaryEmail": "suvam.org@gmail.com",
+  "website": "-",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919937842869"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "At/Po- Sriramnagar , Parabeda , Jeypore,",
+      "Jeypore",
+      "Koraput",
+      "Odisha",
+      "764001"
+    ]
+  }
+}

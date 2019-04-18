@@ -1,0 +1,33 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2922",
+  "name": "Imam-E-Zamana Mission",
+  "primaryEmail": "izm@izm.in",
+  "website": "www.izm.in",
+  "telephone": [
+    "914027635285",
+    "914027634832",
+    "914027635285"
+  ],
+  "mainAddrress": {
+    "state": "Telangana",
+    "address": [
+      "H.No. 1-5-23",
+      "IZM House, MUSHEERABAD",
+      "HYDRABAD",
+      "Hyderabad",
+      "Telangana",
+      "500020"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Telangana",
+    "address": [
+      "H.No. 1-5-23",
+      "IZM House, MUSHEERABAD",
+      "Hyderabad",
+      "Telangana",
+      "500020"
+    ]
+  }
+}

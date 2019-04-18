@@ -1,0 +1,29 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1854",
+  "name": "Jyothis Charitable Trust",
+  "primaryEmail": "jyothisk.jyothis@gmail.com",
+  "website": "www.jyothis.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "912227423399",
+    "912227426967",
+    "919967017772"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Plot No.4",
+      "Sector-11,",
+      "Kalamboli.",
+      "Raigad",
+      "Maharashtra",
+      "410218"
+    ]
+  }
+}

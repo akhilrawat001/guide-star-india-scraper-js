@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "V B Baligatti",
+      "email": "",
+      "designation": "Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2903",
+  "name": "Swami Vivekananda Samaj Seva Samsthe",
+  "primaryEmail": "scss_sut@yahoo.com",
+  "telephone": [
+    "918312423264",
+    "918312418168",
+    "918312423264"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "AP Sutagatti",
+      "Taluk Belgaum",
+      "Belgaum",
+      "Belagavi (Belgaum)",
+      "Karnataka",
+      "591147"
+    ]
+  }
+}

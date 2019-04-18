@@ -1,0 +1,27 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6919",
+  "name": "Noor E Falah",
+  "primaryEmail": "noorefalah@gmail.com",
+  "website": "www.noorefalah.org",
+  "organisationType": [
+    "Direct Service",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919835258435",
+    "918863937902"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "Nadra Ganj Teli Tola",
+      "Ramsagar Road",
+      "Gaya",
+      "Bihar",
+      "823001"
+    ]
+  }
+}

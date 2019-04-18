@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Deshmukh Vivek",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8139",
+  "name": "LOKMUDRA FOUNDATION",
+  "primaryEmail": "lokmudra@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "912424223680",
+    "912424223680"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Expert Computers Opp S T Stand",
+      "K G Road",
+      "At Po Tal Akole",
+      "Ahmednagar",
+      "Maharashtra",
+      "422601"
+    ]
+  }
+}

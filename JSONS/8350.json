@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Harmanpreet Singh",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8350",
+  "name": "Punjab Folk Art Centre Gurdaspur",
+  "primaryEmail": "pfacgsp@hotmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919855284240"
+  ],
+  "mainAddrress": {
+    "state": "Punjab",
+    "address": [
+      "326-A/9,",
+      "Rose Avenue ,D B N Road,",
+      "Gurdaspur",
+      "Punjab",
+      "143521"
+    ]
+  }
+}

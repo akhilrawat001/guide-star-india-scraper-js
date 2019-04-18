@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Basavaraju R",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6681",
+  "name": "Grassroots Research And Advocacy Movement",
+  "primaryEmail": "graam@graam.org.in",
+  "website": "http://www.graam.org.in/",
+  "organisationType": [
+    "Advocacy & Campaigning"
+  ],
+  "telephone": [
+    "919686666306"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "CA 2, KIADB Industrial Housing Area,",
+      "Ring Road,",
+      "Hebbal",
+      "Mysuru (Mysore)",
+      "Karnataka",
+      "570016"
+    ]
+  },
+  "briefDescription": "Grassroots Research and Advocacy Movement (GRAAM) is a public policy research and advocacy initiative based in Mysore that focuses on research incorporating grassroots perspectives and policy advocacy driven by empirical evidence through a collaborative approach and dialogue. GRAAM aims to ensure that 'voice' of the communities at the grassroots are significantly accounted for in the process of development and believes in enriching the interaction among all stakeholders of development - the community, the State,the NGO sector and the private sector.",
+  "yearOfEstablishment": "2014"
+}

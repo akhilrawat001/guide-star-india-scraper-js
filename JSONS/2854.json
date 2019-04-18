@@ -1,0 +1,26 @@
+{
+  "contacts": [
+    {
+      "name": "Gurpreet Kaur",
+      "email": "act_ngo@yahoo.co.uk",
+      "designation": "Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2854",
+  "name": "Action in Community and Training",
+  "primaryEmail": "act_ngo@yahoo.co.uk",
+  "telephone": [
+    "919313984414"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "J 1 /72",
+      "DDA Flats, Kalkaji,",
+      "New Delhi",
+      "Delhi",
+      "110019"
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "A.Albert",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7507",
+  "name": "RAIN TRUST",
+  "primaryEmail": "albertrain@yahoo.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "9976559017"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "Kommedu Village",
+      "Thalvanur Post",
+      "Gingee",
+      "Viluppuram",
+      "Tamil Nadu",
+      "604205"
+    ]
+  }
+}

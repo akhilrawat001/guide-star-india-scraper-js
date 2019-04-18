@@ -1,0 +1,27 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1817",
+  "name": "Anbalayam",
+  "primaryEmail": "anbalayamforwomen@yahoo.co.in",
+  "website": "www.anbalayam.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "914132291909",
+    "914132290081",
+    "919443469358"
+  ],
+  "mainAddrress": {
+    "state": "Puducherry",
+    "address": [
+      "140",
+      "Villianur Road, Moolakulam",
+      "Puducherry",
+      "605010"
+    ]
+  }
+}

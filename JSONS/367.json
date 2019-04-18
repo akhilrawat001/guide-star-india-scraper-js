@@ -1,0 +1,37 @@
+{
+  "contacts": [
+    {
+      "name": "K Prakash",
+      "email": "guard_society@yahoo.co.in",
+      "designation": "Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=367",
+  "name": "Guard Society",
+  "primaryEmail": "guard_society@yahoo.co.in",
+  "website": "http://www.giveindia.org/GetOrganisationProfile.aspx?ngoid=170",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "914622930441",
+    "914622930441"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "47, Pothigai Nagar",
+      "Perumalpuram",
+      "Tirunelveli",
+      "Tamil Nadu",
+      "627007"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "Tamil Nadu"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "contacts": [
+    {
+      "name": "Baman Dev Thakur",
+      "email": "",
+      "designation": "Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=623",
+  "name": "People Awareness for Rural Action Society",
+  "primaryEmail": "baman_thakur@rediffmail.com",
+  "telephone": [
+    "911908228817",
+    "911908228817"
+  ],
+  "mainAddrress": {
+    "state": "Himachal Pradesh",
+    "address": [
+      "Vill& Post Drahal, Tehsil Joginder Nagar",
+      "Tehsil Joginder Nagar",
+      "Mandi",
+      "Himachal Pradesh",
+      "176120"
+    ]
+  }
+}

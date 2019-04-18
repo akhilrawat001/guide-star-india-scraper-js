@@ -1,0 +1,46 @@
+{
+  "contacts": [
+    {
+      "name": "Ruchi Nadkarni",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4254",
+  "name": "World for All Animal Care and Adoptions",
+  "primaryEmail": "ruchinadkarni@worldforall.in",
+  "website": "www.worldforall.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919820001506",
+    "919820191321",
+    "919833244414"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "15/A/21, Takshila, Mahakali, Andheri East",
+      "Near Holy Spirit Hospital",
+      "Mumbai",
+      "Maharashtra",
+      "400093"
+    ]
+  },
+  "briefDescription": "World for All is the only organisation in Mumbai whose main activity is the adoptions of stray pups and kittens. WFA has successfully done 4000+ adoptions of strays and abandoned pets into loving homes. The adoptions are carried out like human adoptions and each animal is given indivisual attention. Along with this the WFA mobile ambulance also carries out rescue and first aid operations of animals. WFA also runs volunteer programmes and awareness events and campaigns. The mindset of the average Mumbaikar has been changed and made more compassionate towards animals through adoptions and awareness via WFA. WFA also aids other NGO's with animal adoptions and carries out spay neuter programmes to control the animal population.",
+  "yearOfEstablishment": "2010",
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "15/A/21, Takshila, Mahakali Caves Road, Andheri East",
+      "Near Holy Spirit Hospital",
+      "Mumbai",
+      "Maharashtra",
+      "400093"
+    ]
+  }
+}

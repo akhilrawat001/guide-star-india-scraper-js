@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "NARENDRA KUMAR",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8536",
+  "name": "Pragati Nalanda Seva Sansthan",
+  "primaryEmail": "pragatinss@yahoo.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919631014414"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "Vill+PO- Nepura",
+      "VIA- Pawapuri",
+      "Dist- Nalanda",
+      "Nalanda",
+      "Bihar",
+      "803115"
+    ]
+  }
+}

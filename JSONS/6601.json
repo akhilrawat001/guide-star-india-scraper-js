@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "R.L.Sharma",
+      "email": "sonutraning@gmail.com",
+      "designation": "Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6601",
+  "name": "Jeevan Lok Nirman Sansthan",
+  "primaryEmail": "sonutraning@gmail.com",
+  "website": "www.jeevanlok.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919950438606"
+  ],
+  "mainAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "nigohi road deeg",
+      "nigohi road",
+      "deeg",
+      "Jaipur",
+      "Rajasthan",
+      "321203"
+    ]
+  }
+}

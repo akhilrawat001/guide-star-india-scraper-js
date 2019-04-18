@@ -1,0 +1,40 @@
+{
+  "contacts": [
+    {
+      "name": "Mukunda Sahu",
+      "email": "bbp.org@gmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8607",
+  "name": "Bolangir Bikash Parishad",
+  "primaryEmail": "bbp.org@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919937535174"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "At/po-Kantabanji",
+      "Dist-Bolangir",
+      "Balangir",
+      "Odisha",
+      "767039"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Odisha",
+    "address": [
+      "Salemudga",
+      "Po Sundehkela",
+      "Dist-Bolangir",
+      "Balangir",
+      "Odisha",
+      "767035"
+    ]
+  }
+}

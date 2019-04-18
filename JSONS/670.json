@@ -1,0 +1,38 @@
+{
+  "contacts": [
+    {
+      "name": "K C Pant",
+      "email": "",
+      "designation": "CEO & Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=670",
+  "name": "RASTA",
+  "primaryEmail": "kcpant60@yahoo.co.in",
+  "website": "www.rasta.org.in",
+  "telephone": [
+    "911122478418",
+    "911122478418"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "E- 169, Shanti Marg",
+      "West Vinod Nagar",
+      "East Delhi",
+      "Delhi",
+      "110092"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "Gali No 7, C- Block",
+      "Vinod Nagar",
+      "East Delhi",
+      "Delhi",
+      "110092"
+    ]
+  }
+}

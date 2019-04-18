@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Mr.Pradeep Raj",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7055",
+  "name": "Association for Disabled People",
+  "primaryEmail": "disabledpower@yahoo.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919350164514",
+    "918800226202"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "F-1,Sudar Nagri",
+      "Basti Vikas Kendra,Wazirabad Road",
+      "Delhi",
+      "North East Delhi",
+      "110095"
+    ]
+  }
+}

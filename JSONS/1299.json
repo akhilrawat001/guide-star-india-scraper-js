@@ -1,0 +1,46 @@
+{
+  "contacts": [
+    {
+      "name": "J.K.Sathyaseeli",
+      "email": "matha.vellore@gmail.com",
+      "designation": "Manager",
+      "mobile": [
+        "91-416-2241800",
+        "91-9367778111"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1299",
+  "name": "MATHA EDUCATIONAL TRUST",
+  "primaryEmail": "mathaunaa@yahoo.co.in",
+  "website": "www.mathaeducationaltrust.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "914162241800",
+    "914162241800",
+    "914162247455",
+    "919367778111"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "No.1, Matha Nagar, Maruthi Nagar Extention,",
+      "Vellore",
+      "Tamil Nadu",
+      "632006"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "5.2 Nd East Main Road,",
+      "Gandhi Nagar,",
+      "Katpadi",
+      "Vellore",
+      "Tamil Nadu",
+      "632006"
+    ]
+  }
+}

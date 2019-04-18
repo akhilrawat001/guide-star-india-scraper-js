@@ -1,0 +1,34 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9271",
+  "name": "MADHESHIYA VAISHY GATHBANDHAN SAMAJ SEVA SAMITI",
+  "primaryEmail": "mvgs.sevasamiti@gmail.com",
+  "website": "www.mvgssevasamiti.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "+919334083775"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "C/O Soni Mistan Bhandar",
+      "Opp. Patna Museum , Budh Marg",
+      "Patna",
+      "Bihar",
+      "800001"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Bihar",
+    "address": [
+      "Opp. Patna Museum",
+      "Budh Marg",
+      "Patna",
+      "Bihar",
+      "800001"
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "contacts": [
+    {
+      "name": "L H Pattar (Prof)",
+      "email": "Spurthimm@yahoo.com",
+      "designation": "Chief Coordinator",
+      "mobile": []
+    },
+    {
+      "name": "L H Pattar (Prof)",
+      "email": "Spurthimm@yahoo.com",
+      "designation": "Chief Coordinator",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=483",
+  "name": "Spurthi Mahila Mandal",
+  "primaryEmail": "spurthimm@yahoo.com",
+  "website": "http://www.giveindia.org/GetOrganisationProfile.aspx?ngoid=892",
+  "organisationType": [
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "918352260454",
+    "918352260454"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "Varsha, Sadashiv Nagar",
+      "Solapur Road",
+      "Bijapur",
+      "Vijayapura (Bijapur)",
+      "Karnataka",
+      "586103"
+    ]
+  }
+}

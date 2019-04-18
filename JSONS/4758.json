@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Zacharias",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4758",
+  "name": "DEEPAM TRUST",
+  "primaryEmail": "deepamtrust1995@yahoo.co.in",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "914352470118",
+    "914352470118"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "Thathuvanchery Main Road Loweranaicut  via Thanjavur District",
+      "Tamilnadu India",
+      "Kumbakonam",
+      "Thanjavur",
+      "Tamil Nadu",
+      "612502"
+    ]
+  }
+}

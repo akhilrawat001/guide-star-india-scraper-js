@@ -1,0 +1,45 @@
+{
+  "contacts": [
+    {
+      "name": "Sanjay Joshi",
+      "email": "sanjayjoshi@usa.com",
+      "designation": "Manager",
+      "mobile": [
+        "91-22-26429158",
+        "91-9326058777"
+      ]
+    },
+    {
+      "name": "Sanjay Joshi",
+      "email": "sanjayjoshi@usa.com",
+      "designation": "Manager",
+      "mobile": [
+        "91-22-26429158",
+        "91-9326058777"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5394",
+  "name": "KRIPA FOUNDATION",
+  "primaryEmail": "kripabandra@gmail.com",
+  "website": "www.kripafoundation.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service"
+  ],
+  "telephone": [
+    "912226405411",
+    "912226405411"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "81/A, CHAPEL ROAD, Mt. CARMEL CHURCH",
+      "NEXTO TO LILAVATI HOSPITAL, BANDRA(W)",
+      "MUMBAI",
+      "Mumbai",
+      "Maharashtra",
+      "400050"
+    ]
+  }
+}

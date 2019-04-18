@@ -1,0 +1,26 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8247",
+  "name": "NAYANA TRUST",
+  "primaryEmail": "nayanatrust2012@gmail.com",
+  "website": "www.nayanatrust.org",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "918006622238",
+    "911232260287"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "25 , Gali No. 16 , New Defence Coloney ,Railway Road",
+      "Behind Shiv Mandir",
+      "Muradnagar",
+      "Ghaziabad",
+      "Uttar Pradesh",
+      "201206"
+    ]
+  }
+}

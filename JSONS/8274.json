@@ -1,0 +1,44 @@
+{
+  "contacts": [
+    {
+      "name": "Sukhbir Singh",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "9811895134"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8274",
+  "name": "My Angels Academy",
+  "primaryEmail": "myangelsacademy@gmail.com",
+  "website": "www.myangelsacademy.org",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919811895134"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "W-167/114, Indira Camp # 4, New Krishna Park",
+      "Vikas Puri, New Delhi-110018",
+      "West Delhi",
+      "Delhi",
+      "110018"
+    ]
+  },
+  "briefDescription": "My Angels academy is an academy working for welfare of underprivileged children in a slum of Vikaspuri, called Indira Camp No.4 New Delhi .Though it is registered as trust (Regd No 12110) around 6 years back but for past more than 30 years it has been running. Through our academy we aim for dignity to slum children by providing moral theoretical and practical teachings. Currently this academy serves 130 slum children.",
+  "yearOfEstablishment": "2009",
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "31 Naval Apartments, Vasundara Enclave",
+      "Delhi",
+      "East Delhi",
+      "110096"
+    ]
+  }
+}

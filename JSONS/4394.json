@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "PRAVEEN",
+      "email": "reachcard@gmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4394",
+  "name": "COMMUNITY ACADEMY IN RURAL DEVELOPMENT (CARD)",
+  "primaryEmail": "reachcard@gmail.com",
+  "website": "NA",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918579251148",
+    "918579251148"
+  ],
+  "mainAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "# 29-80/1",
+      "BEHIND O.L.L. SCHOOL",
+      "PALAMANER",
+      "Chittoor",
+      "Andhra Pradesh",
+      "517408"
+    ]
+  }
+}

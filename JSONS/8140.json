@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Sohail Ahmad Khan",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8140",
+  "name": "National Education And Welfare Society",
+  "primaryEmail": "newspusad@gmail.com",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "919423435551"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Near Sabil Prss Gaddi Ward",
+      "Pusad Tq.Pusad Dist.Yavatmal",
+      "Yavatmal",
+      "Maharashtra",
+      "445204"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5552",
+  "name": "Jupiter Academy",
+  "primaryEmail": "jupiteracademy1@gmail.com",
+  "website": "www.jupiteracademy.org.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Intermediary",
+    "Network"
+  ],
+  "telephone": [
+    "+919616217737"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "A-1489/7 Indira nagar Lucknow",
+      "Takrohi Indira nagar Lucknow",
+      "Lucknow",
+      "Uttar Pradesh",
+      "226016"
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Shobha Hg",
+      "email": "sasesa@rediffmail.com",
+      "designation": "Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3161",
+  "name": "Samaj Seva Samithi",
+  "primaryEmail": "sasesa@rediffmail.com",
+  "telephone": [
+    "918026600022",
+    "918026671599",
+    "918026600022"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "60, 3Rd Cross",
+      "Gavipuram Extension,",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560019"
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "contacts": [
+    {
+      "name": "Keshav Ranjan",
+      "email": "sjvsbgp@gmail.com",
+      "designation": "Secretary Cum Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6831",
+  "name": "Surya Jan Manas Vikas Samiti",
+  "primaryEmail": "sjvsbgp@gmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919973186330"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "Surya Lok Colony",
+      "Bagbari, Post- Mirjanhat",
+      "Bhgalpur",
+      "Bhagalpur",
+      "Bihar",
+      "812005"
+    ]
+  }
+}

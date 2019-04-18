@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "name": "Chinnapillai",
+      "email": "avardeducationaltrust@rediffmail.com",
+      "designation": "secretary",
+      "mobile": []
+    },
+    {
+      "name": "Chinnapillai",
+      "email": "avardeducationaltrust@rediffmail.com",
+      "designation": "secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1918",
+  "name": "Awareness Volunter To Agriculture For Rural Development - Educational",
+  "primaryEmail": "avardtrust@yahoo.com",
+  "organisationType": [
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "914149293306",
+    "919842552916"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "245",
+      "West Street,Pinnalvadi-Po,",
+      "Ulundur Pettai",
+      "Viluppuram",
+      "Tamil Nadu",
+      "607202"
+    ]
+  }
+}

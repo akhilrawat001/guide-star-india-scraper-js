@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "MIRZA TAJUDDIN",
+      "email": "mirzataj@gmail.com",
+      "designation": "General Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5737",
+  "name": "Centre for Research Information Publication and Training CRIPT",
+  "primaryEmail": "mirzataj@gmail.com",
+  "telephone": [
+    "919393501966"
+  ],
+  "mainAddrress": {
+    "state": "Telangana",
+    "address": [
+      "Office No;210, 2nd Floor, Left wing, NBK Complex,",
+      "Musheerabad, Near RTC X Roads",
+      "Hyderabad",
+      "Telangana",
+      "500048"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Telangana",
+    "address": [
+      "Office No 210, 2nd Floor, Left wing, NBK Complex,",
+      "Musheerabad, Near RTC X Roads",
+      "Hyderabad",
+      "Telangana",
+      "500048"
+    ]
+  }
+}

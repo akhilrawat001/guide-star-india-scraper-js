@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "MS. SAJIDA ALI",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7534",
+  "name": "LIFE LINE SEVA SANSTHAN",
+  "primaryEmail": "lifelinegkp@yahoo.com",
+  "website": "www.lifelineseva.org",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919415848573"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "East Gate of  Imambara, Miya Bazar",
+      "Gorakhpur",
+      "Uttar Pradesh",
+      "273001"
+    ]
+  }
+}

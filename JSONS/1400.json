@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "name": "Rajesh Kakade",
+      "email": "",
+      "designation": "Does not have email id",
+      "mobile": []
+    },
+    {
+      "name": "Rajesh Kakade",
+      "email": "",
+      "designation": "Does not have email id",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1400",
+  "name": "Shantha Jeeva Jyothi",
+  "primaryEmail": "sjj@sancharnet.in",
+  "website": "http://www.sjj.engo.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918022234093",
+    "918027275628",
+    "919449130499"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "No.348",
+      "J.K. Pura, Behind KSRTC Quarters, Shanthinagar",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560030"
+    ]
+  }
+}

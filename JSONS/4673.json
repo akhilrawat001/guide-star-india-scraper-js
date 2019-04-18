@@ -1,0 +1,27 @@
+{
+  "contacts": [
+    {
+      "name": "M Mary Jones",
+      "email": "kanthi_samstha@rediffmail.com",
+      "designation": "Secretary/Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4673",
+  "name": "Kanthi Samstha",
+  "primaryEmail": "kanthi_samstha@rediffmail.com",
+  "telephone": [
+    "919440136570"
+  ],
+  "mainAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "D.No.15/546/34",
+      "Housing Board Colony",
+      "MACHILIPATNAM",
+      "Krishna",
+      "Andhra Pradesh",
+      "521001"
+    ]
+  }
+}

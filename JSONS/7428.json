@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Mr.Dhirubhai D. Patel",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7428",
+  "name": "Shri Mangalmurti Viklang Trust",
+  "primaryEmail": "mangalmurti_jnd@yahoo.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919879015440"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "Shop No-2",
+      "Mangalmurti Complex, Javahar Road, Kalwa Chowk",
+      "Junagadh",
+      "Gujarat",
+      "362001"
+    ]
+  }
+}

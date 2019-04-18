@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "X Rajakumari",
+      "email": "wedsswedss@yahoo.com",
+      "designation": "Managing Trustee",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4977",
+  "name": "Women Education Development Social Service Trust",
+  "primaryEmail": "wedsswedss@yahoo.com",
+  "website": "NA",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919360333055"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "3/783, Sebasthiyar Koil Street, Manakkarambai, Vediyapuram(PO), Ammanpettai",
+      "Near Indian Bank",
+      "Thanjavur",
+      "Tamil Nadu",
+      "613205"
+    ]
+  }
+}

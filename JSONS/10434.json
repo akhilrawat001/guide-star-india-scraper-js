@@ -1,0 +1,36 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10434",
+  "name": "Cheshire Disability Trust",
+  "primaryEmail": "chinc.blr@gmail.com",
+  "website": "http://www.cheshiredisability.org",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919880219515"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "Opp  Manipal Hospital Next to Bharath Petrol Bunk",
+      "HAL Old Airport Road, Kodihalli",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560017"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "No 34, 6th Main",
+      "HAL Second Stage Extention",
+      "Kodihalli",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560008"
+    ]
+  }
+}

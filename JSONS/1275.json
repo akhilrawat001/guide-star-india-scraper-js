@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "S.Joshua Christopher",
+      "email": "sjoshuakpc@yahoo.com",
+      "designation": "Vice-President",
+      "mobile": [
+        "91-9480525863"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1275",
+  "name": "Karnataka Pentecostal Church",
+  "primaryEmail": "karnatakapentecostalchurch@yahoo.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918026741588",
+    "918026741588"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "No 6, 1st Main road,",
+      "New Guddadahalli, Mysore Road,",
+      "Bangalore",
+      "Bengaluru (Bangalore) Rural",
+      "Karnataka",
+      "560026"
+    ]
+  }
+}

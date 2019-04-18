@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "name": "NASEEM KHAN",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5565",
+  "name": "PARTH SEWA SAMITI DEORI",
+  "primaryEmail": "parthsewasamiti@rediffmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919098204311"
+  ],
+  "mainAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "H.NO. 109 GANDHI WARD B/O/ OLD HOSPITAL DEORI KALAN",
+      "DEORI",
+      "Sagar",
+      "Madhya Pradesh",
+      "470226"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "H.NO. 109 GANDHI WARD B/O/ OLD HOSPITAL DEORI KALAN",
+      "DEORI",
+      "Sagar",
+      "Madhya Pradesh",
+      "470226"
+    ]
+  }
+}

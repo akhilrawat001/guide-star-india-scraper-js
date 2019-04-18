@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "name": "Nelson Vinodh",
+      "email": "intactindia.ed@gmail.com",
+      "designation": "Executive Director",
+      "mobile": [
+        "91-431-2458776"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5829",
+  "name": "Integrated Action Trust  INTACT",
+  "primaryEmail": "intactindia@gmail.com",
+  "website": "www.intactindia.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919843133421",
+    "914312458776",
+    "914312459541"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "Intact Campus",
+      "K.Sathanur",
+      "Tiruchirapalli",
+      "Tiruchirappalli",
+      "Tamil Nadu",
+      "620021"
+    ]
+  },
+  "briefDescription": "INTACT works to empower marginalised individuals in society by creating opportunities for independent living.  We work to achieve a society where everyone, regardless of caste, ethnicity, gender, religion, colour and ability is accepted and given opportunity to develop to their full potential-without discrimination.Direct beneficiaries:  70 children with intellectual disabilities in Special School and 60 adults with intellectual disabilities through vocational training.  436 girls were provided school education through sponsorship support, 183 tribal children provided primary schooling and 3000 tribal population provided free medical treatment through medical camps.",
+  "yearOfEstablishment": "1992"
+}

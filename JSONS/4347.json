@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "ATUL RAJAN CLAUDIUS",
+      "email": "cmsmp2012@gmail.com",
+      "designation": "Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4347",
+  "name": "CHRISTIAN MISSIONARY SOCIETY",
+  "primaryEmail": "cmsmp2012@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919755365200"
+  ],
+  "mainAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "Pathak Ward",
+      "Civil Lines",
+      "NARSINGHPUR",
+      "Narsinghpur",
+      "Madhya Pradesh",
+      "487001"
+    ]
+  }
+}

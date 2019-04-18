@@ -1,0 +1,35 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8212",
+  "name": "Mayur Vyayam Shala Va Krida Prasarak Mandal Vasmat",
+  "primaryEmail": "mayurvyayamshala@Gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919028514444"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Majeed Sound Service Somwara Peth",
+      "Near Mahatma Gandhi School",
+      "Vasmat",
+      "Hingoli",
+      "Maharashtra",
+      "431512"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "C/O Majeed Sound Service Somwara Peth",
+      "Near Mahatma Gandhi School",
+      "Vasmat",
+      "Hingoli",
+      "Maharashtra",
+      "431512"
+    ]
+  }
+}

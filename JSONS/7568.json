@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Annie Agnus D'Souza",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7568",
+  "name": "SANDESH",
+  "primaryEmail": "info@sandeshindia.org",
+  "website": "sandeshindia.org",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919845616049"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "No.166",
+      "Chinappa Road",
+      "St. Thomas Town P O Kamanahalli",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560084"
+    ]
+  }
+}

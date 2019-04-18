@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "J.Israel Premkumar",
+      "email": "xbenedict@aarde.in",
+      "designation": "Secretary",
+      "mobile": [
+        "91-9940079444"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6259",
+  "name": "Aarde Foundation",
+  "primaryEmail": "premkumar@aarde.in",
+  "website": "www.aarde.in",
+  "telephone": [
+    "914442321995",
+    "914442321995"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "35/18, First Floor",
+      "Pushpa Nagar Main Road",
+      "Nungambakkam",
+      "Chennai",
+      "Tamil Nadu",
+      "600034"
+    ]
+  }
+}

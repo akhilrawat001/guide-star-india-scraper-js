@@ -1,0 +1,27 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1942",
+  "name": "Humanity Foundation",
+  "primaryEmail": "humanityindia@gmail.com",
+  "website": "www.karmayog.org/ngo/humaniti/",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919870785228"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "14/965",
+      "M.H.B.Colony, Abhyuday Nagar Kalachowki,",
+      "Mumbai",
+      "Maharashtra",
+      "400033"
+    ]
+  }
+}

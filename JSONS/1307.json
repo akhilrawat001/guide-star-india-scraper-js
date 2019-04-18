@@ -1,0 +1,28 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1307",
+  "name": "Krushak Seva Sangh",
+  "primaryEmail": "krushaksevasangha@gmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "912412426791",
+    "919763715712"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Plot No.35, Vaishnavi Colony,",
+      "Shrikrushnanagar,Pipeline Road",
+      "Sawedi",
+      "Ahmednagar",
+      "Maharashtra",
+      "414003"
+    ]
+  }
+}

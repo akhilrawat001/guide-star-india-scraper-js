@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Jaishankar.V",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4507",
+  "name": "Vanamitra",
+  "primaryEmail": "contact@vanamitra.org",
+  "website": "www.vanamitra.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919590331323"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "# 48, Near Jalageramma Temple, Lottegollahalli,  R.M.V 2nd Stage",
+      "Behind Brilliant Printers",
+      "Bangalore",
+      "Bengaluru (Bangalore) Rural",
+      "Karnataka",
+      "560094"
+    ]
+  }
+}

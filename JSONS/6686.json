@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Sangeeta Banginwar",
+      "email": "sangeeta@sroat.org",
+      "designation": "Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6686",
+  "name": "SROAT",
+  "primaryEmail": "sangeeta@sroat.org",
+  "website": "http://www.sroat.org",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919850041770"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "B-10, Shivamrut Kripa Soc,",
+      "Karve Road,",
+      "Kothrud",
+      "Pune",
+      "Maharashtra",
+      "411038"
+    ]
+  }
+}

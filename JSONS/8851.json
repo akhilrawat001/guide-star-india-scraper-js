@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Akhilesh Sharma",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "8800221134"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8851",
+  "name": "PRITHAK",
+  "primaryEmail": "prithaksociety@gmail.com",
+  "website": "www.prithak.org",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "918800221134",
+    "918826615444"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "E-64, Sanjay Colony, Okhla Phase-2",
+      "New Delhi",
+      "South West Delhi",
+      "Delhi",
+      "110020"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "contacts": [
+    {
+      "name": "Mr. J.L. Modi",
+      "email": "jlmodi.modi@gmail.com",
+      "designation": "Founder & Chief Petron",
+      "mobile": [
+        "0141-2522406"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=872",
+  "name": "Shri Bhagwan Mahavir Viklang Sahayata Samiti",
+  "primaryEmail": "bmvssjpr@datainfosys.net",
+  "website": "www.jaipurfoot.org",
+  "telephone": [
+    "911412522406",
+    "911412522406",
+    "911412522406"
+  ],
+  "mainAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "13-A, Gurunanak Path",
+      "Kalgiri Road,Malviya Nagar",
+      "Jaipur",
+      "Rajasthan",
+      "302014"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "Sawai Mansingh Hospital",
+      "Jaipur",
+      "Rajasthan",
+      "302004",
+      "AP_TelBill_785.PDF"
+    ]
+  }
+}

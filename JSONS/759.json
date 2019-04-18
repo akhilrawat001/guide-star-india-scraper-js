@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Lalit Purohit",
+      "email": "",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=759",
+  "name": "Yuva Social Friends Society",
+  "primaryEmail": "ysfs_jsm@yahoo.co.in",
+  "website": "www.ysfs.webs.com",
+  "organisationType": [
+    "Direct Service",
+    "Network"
+  ],
+  "telephone": [
+    "912992250270",
+    "919929661115"
+  ],
+  "mainAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "In Side Fort, Chougan Para",
+      "Jaisalmer",
+      "Rajasthan",
+      "345001"
+    ]
+  }
+}

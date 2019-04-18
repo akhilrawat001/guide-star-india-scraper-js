@@ -1,0 +1,51 @@
+{
+  "contacts": [
+    {
+      "name": "Manish Rathore",
+      "email": "graminvikastrust1999@gmail.com",
+      "designation": "Faculty",
+      "mobile": []
+    },
+    {
+      "name": "Manish Rathore",
+      "email": "graminvikastrust1999@gmail.com",
+      "designation": "Faculty",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10247",
+  "name": "GRAMIN VIKAS TRUST",
+  "primaryEmail": "graminvikastrust1999@gmail.com",
+  "website": "www.gvtindia.org",
+  "organisationType": [
+    "Direct Service",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919522224113"
+  ],
+  "mainAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "Village at post Bhadwasa, Near Maleni River",
+      "Mhow neemuch Highway, District Ratlam 457222",
+      "Ratlam",
+      "Madhya Pradesh",
+      "457222"
+    ]
+  },
+  "briefDescription": "GVT was started as a division of KRIBHCO to look after Eastern India Rainfed Projects(EIRFP) and Western India Rainfed Projects (WIRFP) in seven states by forming several clusters in tribal areas for the upliftment of the tribals. The main objectives of the project on a broader scale are outlined below as:Integrated development of farming systems in 250 ‘core’ villages involving identifying and testing technologies to meet the needs of the poor farmers.    Designing, Construction and Management of productive assets.    Generating Institutional Capacity in Villages to ensure long term Sustainability.    Spreading easily transferable technologies to 550 surrounding villages of 250 core villages.    Creating awareness, changing",
+  "yearOfEstablishment": "1999",
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "Plot No. 60, Block - A",
+      "Kailash Colony, New Delhi 110048",
+      "New Delhi",
+      "Delhi",
+      "110048"
+    ]
+  }
+}

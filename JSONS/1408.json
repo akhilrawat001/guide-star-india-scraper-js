@@ -1,0 +1,37 @@
+{
+  "contacts": [
+    {
+      "name": "Mohammed Rangari",
+      "email": "rangrej786@gmail.com",
+      "designation": "Data Entry Operator",
+      "mobile": []
+    },
+    {
+      "name": "Mohammed Rangari",
+      "email": "rangrej786@gmail.com",
+      "designation": "Data Entry Operator",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1408",
+  "name": "United Social Welfare Association, Belgaum",
+  "primaryEmail": "uswabelgaum@yahoo.com",
+  "organisationType": [
+    "Advocacy & Campaigning"
+  ],
+  "telephone": [
+    "918312456925",
+    "919880350568"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "#2528",
+      "Gorekhan Building, Income Tax Colony, Mahantesh Nagar",
+      "Belgaum",
+      "Belagavi (Belgaum)",
+      "Karnataka",
+      "590016"
+    ]
+  }
+}

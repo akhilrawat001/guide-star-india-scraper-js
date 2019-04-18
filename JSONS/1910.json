@@ -1,0 +1,40 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1910",
+  "name": "KETTO FOUNDATION",
+  "primaryEmail": "varun@ketto.org",
+  "website": "www.ketto.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919820951923",
+    "919820282660"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "GB-4,Virwani Industrial Estate,",
+      "Off western express highway, Goregoan East",
+      "Mumbai",
+      "Maharashtra",
+      "400063"
+    ]
+  },
+  "briefDescription": "The main objective of Ketto is to bring the three major user types, the Indivdiual, the Organisation and Impact Partners together on one common platform where they can share ideas, create causes, create awareness, fundraise and voice their opinions.Ketto aims to mobilize the Internet to multiply the efforts of the philanthropic community, both by making online giving, volunteering, and speaking out on issues easy and safe and by enabling nonprofits to increase their capacity and their effectiveness.Ketto aims to connect over 500 NGOs with close to 8 Million people and 180+ Brands in the next few years.",
+  "yearOfEstablishment": "2011",
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "705,Kings apartment,",
+      "Juhu Tara Road, Next to Tulip Star Hotel",
+      "Mumbai",
+      "Mumbai Suburban",
+      "Maharashtra",
+      "400049"
+    ]
+  }
+}

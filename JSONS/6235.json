@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "K.Chanti Babu",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6235",
+  "name": "RURAL ACTION FOR INTEGRITY & SOCIAL EDUCATION",
+  "primaryEmail": "raiseindia1997@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "914040044388",
+    "914040044388"
+  ],
+  "mainAddrress": {
+    "state": "Telangana",
+    "address": [
+      "8-4-544/M/54/B New Sultan Nagar, Erragadda, Hyderabad-500 018, Telangana.",
+      "Hyderabad",
+      "Telangana",
+      "500018"
+    ]
+  }
+}

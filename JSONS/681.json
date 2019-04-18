@@ -1,0 +1,38 @@
+{
+  "contacts": [
+    {
+      "name": "Anuja Gupta",
+      "email": "",
+      "designation": "Founder & Executive Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=681",
+  "name": "Rahi Foundation",
+  "primaryEmail": "rahifoundation@gmail.com",
+  "website": "www.rahifoundation.org",
+  "telephone": [
+    "911126274041",
+    "911126274041"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "M 50, Chitaranjan Park",
+      "Ground Floor",
+      "New Delhi",
+      "Delhi",
+      "110019"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "M-79, Greater Kailash-II",
+      "II Floor",
+      "New Delhi",
+      "Delhi",
+      "110048"
+    ]
+  }
+}

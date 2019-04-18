@@ -1,0 +1,34 @@
+{
+  "contacts": [
+    {
+      "name": "Lakshmipriya",
+      "email": "secretary@viruksha.org",
+      "designation": "Secretary",
+      "mobile": [
+        "91-44-42867248"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1230",
+  "name": "Viruksha Trust",
+  "primaryEmail": "founder@viruksha.org",
+  "website": "http://www.viruksha.org",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "914312704598",
+    "914312704598"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "2, East Rani Street,",
+      "Trichy",
+      "Tiruchirappalli",
+      "Tamil Nadu",
+      "620008"
+    ]
+  }
+}

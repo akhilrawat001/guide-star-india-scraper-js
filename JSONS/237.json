@@ -1,0 +1,34 @@
+{
+  "contacts": [
+    {
+      "name": "Latha Suresh",
+      "email": "",
+      "designation": "Trustee",
+      "mobile": []
+    },
+    {
+      "name": "Latha Suresh",
+      "email": "",
+      "designation": "Trustee",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=237",
+  "name": "Manava Seva Dharma Samvardhani",
+  "primaryEmail": "lathacsim@gmail.com",
+  "telephone": [
+    "914442805365",
+    "914424867565",
+    "919282205123"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "391/1, Venkatachalapathy Nagar",
+      "Alapakam",
+      "Chennai",
+      "Tamil Nadu",
+      "600116"
+    ]
+  }
+}

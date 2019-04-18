@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "name": "Praveen Kumar Roy",
+      "email": "",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10462",
+  "name": "KRISHNA CHANDRA FOUNDATION",
+  "primaryEmail": "kchandrafoundation@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919708251824"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "Care of I.S.SINGH, 27, Guru Sahay Lal Nagar",
+      "Magistrate Colony, Ashiyan Nagar",
+      "Patna",
+      "Bihar",
+      "800025"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Bihar",
+    "address": [
+      "At Post- Bithouli, P.S.- Baheri",
+      "P.S.- Baheri",
+      "Darbhanga",
+      "Bihar",
+      "847201"
+    ]
+  }
+}

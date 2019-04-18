@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Md Nazimuddin Hazari",
+      "email": "hazarimdnazimuddin@gmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8096",
+  "name": "SHASHWATA SUCHETANA GRAMIN PATHAGAR",
+  "primaryEmail": "hazarimdnazimuddin@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919732831031"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "VILLAGE : RADHABALLAV PUR",
+      "P.O : PATUL",
+      "P.S : KHANAKUL",
+      "Hooghly",
+      "West Bengal",
+      "712406"
+    ]
+  }
+}

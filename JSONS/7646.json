@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Nisha Ranpara",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7646",
+  "name": "DEVELOPMENT EDUCATION AND CHARITABLE TRUST -RAJKOT",
+  "primaryEmail": "dectrustrjt@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "+919824208687"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "Samruddhi Bhawan,",
+      "SF-110,4th floor,Gondal Road,",
+      "Rajkot",
+      "Gujarat",
+      "360002"
+    ]
+  }
+}

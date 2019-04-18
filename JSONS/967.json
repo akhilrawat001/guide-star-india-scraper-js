@@ -1,0 +1,28 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=967",
+  "name": "Indian Institute of Cerebral Palsy",
+  "primaryEmail": "ssei@vsnl.com",
+  "website": "www.iicpindia.org",
+  "organisationType": [
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "913324014177",
+    "913324010240",
+    "913324013488",
+    "919836802289"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "P-35/1, TARATALA ROAD",
+      "KOLKATA",
+      "Kolkata",
+      "West Bengal",
+      "700088"
+    ]
+  }
+}

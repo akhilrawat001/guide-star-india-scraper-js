@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Sukumar Mohanty",
+      "email": "sahanubhuti_ngo@yahoo.in",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8641",
+  "name": "Sahanubhuti",
+  "primaryEmail": "sahanubhuti_ngo@yahoo.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919937563621"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "OLD CHRISTIAN STREET",
+      "AT/P.O-BERHAMPUR",
+      "DIST-GANJAM,9",
+      "Ganjam",
+      "Odisha",
+      "760003"
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "contacts": [
+    {
+      "name": "Thomson MC",
+      "email": "finance@thfi.in",
+      "designation": "Finance Officer",
+      "mobile": []
+    },
+    {
+      "name": "Thomson MC",
+      "email": "finance@thfi.in",
+      "designation": "Finance Officer",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=148",
+  "name": "Tropical Health Foundation of India",
+  "primaryEmail": "mail@thfi.in",
+  "website": "www.thfi.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "914885224817",
+    "914885224817",
+    "918547279419"
+  ],
+  "mainAddrress": {
+    "state": "Kerala",
+    "address": [
+      "Near Govt.Girl's High School",
+      "Arthat, Guruvayoor Road",
+      "Kunnamkulam",
+      "Thrissur",
+      "Kerala",
+      "680503"
+    ]
+  },
+  "briefDescription": "Tropical Health Foundation of India has been working in the area or rehabilitation of people with disability since 1986.  In the last 28 years THFI has completed community based rehabilitation programmes, outreach programmes for the physically disabled by providing artificial limbs AND other appliances, corrective surgery for cleft lip, palate and burns contracture.  It has established special schools for children with mental handicap, cerebral palsy, and autism, CRB programme to early detection and intervention of child hood disability in a population of 0.4 million including neonatal screening for the hearing impaired, an artificial limb centre and a vocation training unit. In the last 28 years of our work we have come to realize that a large number of parents with disability have to run from pillar to post to get help for their children with disabilities.  One of the reasons for this many centres dealing with disability carers to just one type of disability.  So far all other they have to go elsewhere.  Often there is no understanding among those who are involved in the management of that particular child.  This often results in delay and under treatment.  Considering these factors, we at Tropical Health Foundation of India had undertaken the ambitious project to develop a one stop referral for all types of disabilities titled “PRERANA”, to facilitate early identification of disability and early intervention.  This will be based at the THFI campus, where we propose to add another 3000 Sq.ft of space at cost of Rs. 90 lakhs.  The project will have the artificial limb centre, vocational training centre and neuro development centre.",
+  "yearOfEstablishment": "1986",
+  "regiseredAddrress": {
+    "state": "Kerala",
+    "address": [
+      "IV/224, Guruvayur Road",
+      "Arthat",
+      "Kunnamkulam",
+      "Thrissur",
+      "Kerala",
+      "680503",
+      "AP_TelBill_48.PDF"
+    ]
+  }
+}

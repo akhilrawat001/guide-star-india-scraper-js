@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Agnelo George",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "9820026858"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4778",
+  "name": "Abundant Life Ministries",
+  "primaryEmail": "alife21c@gmail.com",
+  "website": "www.abundantlife.co.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service"
+  ],
+  "telephone": [
+    "919820026858"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "27/A CHAPEL ROAD, BANDRA (WEST),",
+      "Mumbai",
+      "Maharashtra",
+      "400050"
+    ]
+  }
+}

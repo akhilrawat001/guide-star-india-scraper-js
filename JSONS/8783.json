@@ -1,0 +1,49 @@
+{
+  "contacts": [
+    {
+      "name": "Col V P Gupta",
+      "email": "vp.gupta@pria.org",
+      "designation": "Director (Operations)",
+      "mobile": [
+        "91-11-29960931",
+        "91-9873341924"
+      ]
+    },
+    {
+      "name": "Col V P Gupta",
+      "email": "vp.gupta@pria.org",
+      "designation": "Director (Operations)",
+      "mobile": [
+        "91-11-29960931",
+        "91-9873341924"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8783",
+  "name": "Society for Participatory Research in Asia",
+  "primaryEmail": "info@pria.org",
+  "website": "www.pria.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "911129960931"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "42",
+      "Tughlakabad Institutional Area",
+      "New Delhi",
+      "South Delhi",
+      "Delhi",
+      "110062",
+      "IT Return PRIA FY 09-10 AY 2010-11.PDF"
+    ]
+  },
+  "briefDescription": "Established in 1982, PRIA (Participatory Research in Asia) is a global centre for participatory research and training based in New Delhi. PRIA has field offices in 8 states and linkages with 3000 NGOs to deliver its programmes on the ground.PRIA’s work is focused on empowerment of the excluded through capacity building, knowledge building and policy advocacy. Over three decades PRIA has promoted ‘participation as empowerment’, capacity building of community organisations, and people’s participation in governance. Initiatives are undertaken in the overall perspective of ‘making democracy work for all’ – in the political system; democratic culture in families, communities, and society; and participatory democracy with active citizenship.",
+  "yearOfEstablishment": "1982"
+}

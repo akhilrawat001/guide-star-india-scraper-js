@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Lal Mohar Jha",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5311",
+  "name": "Adarsh Balika Innovative Educational Handicapped and Welfare Society",
+  "primaryEmail": "abiehw221012@gmail.com",
+  "website": "-",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919891748410"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "E- 6/4 Mangal Bazar Thana Road Sangam Vihar New Delhi - 110062",
+      "Thana Road",
+      "Sangam Vihar",
+      "South Delhi",
+      "Delhi",
+      "110062"
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Suresh Ranade",
+      "email": "info@dnyandeep.net",
+      "designation": "Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2972",
+  "name": "Dyandeep Education and Research Foundation",
+  "primaryEmail": "info@dnyandeep.net",
+  "website": "http://www.dnyandeep.net",
+  "telephone": [
+    "912332601381",
+    "919422410520"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "18, Dnyandeep",
+      "Shilp Chintamani Soc",
+      "Vijaynagar, Post-Wanlesswadi Sangli",
+      "Sangli",
+      "Maharashtra",
+      "416414"
+    ]
+  }
+}

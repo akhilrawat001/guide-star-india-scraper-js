@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Shri Jaymalsinh I Khamt",
+      "email": "khantmangal@gmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8062",
+  "name": "SEVA ASHARAM",
+  "primaryEmail": "khantmangal@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "912773272529",
+    "912773272529"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "at:kothiya",
+      "po:khalikpur",
+      "ta: malpur dist: sabarkantha",
+      "Sabarkantha",
+      "Gujarat",
+      "383335"
+    ]
+  }
+}

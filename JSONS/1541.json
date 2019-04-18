@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "GURUNATHAN.A",
+      "email": "dhantank@dhan.org",
+      "designation": "Programme Leader",
+      "mobile": [
+        "91-452-2601673"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1541",
+  "name": "DHAN (Development of Humane Action) Foundation",
+  "primaryEmail": "dhanfoundation@dhan.org",
+  "website": "http://www.dhan.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "914522610794",
+    "914522610805"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "18",
+      "Pillaiyar Koil Street, Soma Sundaram Colony,",
+      "Madurai",
+      "Tamil Nadu",
+      "625010"
+    ]
+  }
+}

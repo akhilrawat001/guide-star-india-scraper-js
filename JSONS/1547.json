@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "name": "Radhika Ramnath",
+      "email": "radhika.ramnath@gmail.com",
+      "designation": "Member, DCCW",
+      "mobile": []
+    },
+    {
+      "name": "Radhika Ramnath",
+      "email": "radhika.ramnath@gmail.com",
+      "designation": "Member, DCCW",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1547",
+  "name": "Delhi Council For Child Welfare",
+  "primaryEmail": "delhi.council@gmail.com",
+  "website": "http://www.dccw.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "911123968907",
+    "911123944655"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "Qudsia Bagh",
+      "Yamuna MargCivil Lines ,",
+      "North Delhi",
+      "Delhi",
+      "110054"
+    ]
+  },
+  "briefDescription": "Delhi Council for Child Welfare (www.dccw.org)is an NGO which was established in 1952 to provide care to children who had been displaced during the Partition of India. Over the decades, DCCW’s programmes – all aimed at underprivileged children in and around Delhi - have grown to cover medical services, home for abandoned children (Palna), adoption, nutrition, vocational training, rehabilitation of physically and mentally challenged children, education and daycare. Over 2500 children avail of these services every day.",
+  "yearOfEstablishment": "1963"
+}

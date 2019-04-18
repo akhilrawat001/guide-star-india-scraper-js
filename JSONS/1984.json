@@ -1,0 +1,27 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1984",
+  "name": "Paul Foundation",
+  "primaryEmail": "paulfoundation@rediffmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "914314050701",
+    "914312455816",
+    "919788979901"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "Plot No. 220 Vedhachalam Street",
+      "KK Nagar",
+      "Tiruchirappalli",
+      "Tamil Nadu",
+      "507209"
+    ]
+  }
+}

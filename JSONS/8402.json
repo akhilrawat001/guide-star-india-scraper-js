@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Manoj Kumar",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8402",
+  "name": "Adarsh",
+  "primaryEmail": "adarshhajipur@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919835474090"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "Mohalla - Ander Kila",
+      "S.D.O. Road",
+      "PO Hajipur",
+      "Vaishali",
+      "Bihar",
+      "844101"
+    ]
+  }
+}

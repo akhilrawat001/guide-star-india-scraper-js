@@ -1,0 +1,43 @@
+{
+  "contacts": [
+    {
+      "name": "Shabnam Khatoon",
+      "email": "ikon_asia@yahoo.com",
+      "designation": "Manager",
+      "mobile": [
+        "91-9334231300"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1718",
+  "name": "Ikon Welfare Society",
+  "primaryEmail": "ikon_asia@rediffmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Grant-making",
+    "Support"
+  ],
+  "telephone": [
+    "919304669913"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "Ikon Management School",
+      "infront of Anugrah College,katari Hill Road",
+      "Gaya",
+      "Bihar",
+      "823001"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Bihar",
+    "address": [
+      "Road no.-2 Near Post office",
+      "Karimganj,",
+      "Gaya",
+      "Bihar",
+      "823001"
+    ]
+  }
+}

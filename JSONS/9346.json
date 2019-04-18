@@ -1,0 +1,38 @@
+{
+  "contacts": [
+    {
+      "name": "Gunajit Kakati",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "265042"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9346",
+  "name": "STUDENTS WELFARE MISSION",
+  "primaryEmail": "swm.ptsl@gmail.com",
+  "website": "www.studentswelfaremission.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "913666265042",
+    "913666265042"
+  ],
+  "mainAddrress": {
+    "state": "Assam",
+    "address": [
+      "Ward no.6 santipur",
+      "Near Maruti service center",
+      "Pathsala",
+      "Barpeta",
+      "Assam",
+      "781325",
+      "IT Return Copy.PDF"
+    ]
+  },
+  "briefDescription": "Students Welfare Mission is non Govt. Organization specially working in the field of Differently able Children,Abandoned Children,Orphan Children and such children which need care and protection.We provide free residential facilities, Medical Treatment, Special education for Disable Children and vocational training for such children for rehabilitation.",
+  "yearOfEstablishment": "2005"
+}

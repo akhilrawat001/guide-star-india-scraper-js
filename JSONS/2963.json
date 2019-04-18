@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "Deepika Mondol",
+      "email": "dcosws@gmail.com",
+      "designation": "Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2963",
+  "name": "Divya Jyoti Cultural Organisation and Social Welfare",
+  "primaryEmail": "dcosws@gmail.com",
+  "telephone": [
+    "911122024209",
+    "919968277163"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "N-108 B",
+      "NARAYAN NAGAR",
+      "LAKSHMI NAGAR",
+      "New Delhi",
+      "Delhi",
+      "110092"
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Amita Bhuyan",
+      "email": "sintam_ngo@yahoo.in",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8637",
+  "name": "SINTAM",
+  "primaryEmail": "sintam_ngo@yahoo.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919437375916"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "AT-RUMBATIN",
+      "P.O-CHINASARI",
+      "VIA-GUNUPUR",
+      "Rayagada",
+      "Odisha",
+      "765022"
+    ]
+  }
+}

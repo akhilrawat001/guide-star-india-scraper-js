@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Snehal R Patni",
+      "email": "",
+      "designation": "Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2968",
+  "name": "Ajintha Medical and Education Sanstha",
+  "primaryEmail": "rm_patni@yahoo.com",
+  "telephone": [
+    "912402481361",
+    "912402474589",
+    "912402481361"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "A-65,",
+      "NEAR M.I.T.SCHOOL, N-4, CIDCO",
+      "AURANGABAD",
+      "Aurangabad",
+      "Maharashtra",
+      "431003"
+    ]
+  }
+}

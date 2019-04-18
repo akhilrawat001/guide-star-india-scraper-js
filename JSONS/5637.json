@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Dr. Sunder Thakur",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5637",
+  "name": "The Research, Education & Development Foundation",
+  "primaryEmail": "contact@readfdn.org",
+  "website": "www.readfdn.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918025321202",
+    "918025321202"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "B132, Century Park,",
+      "48 Richmond Road",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560025"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=204",
+  "name": "Janpath",
+  "primaryEmail": "janpathnetwork@gmail.com",
+  "website": "www.janpathindia.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network"
+  ],
+  "telephone": [
+    "917926821553",
+    "917926820719",
+    "919824048842",
+    "917926820719"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "B-3, Sahjanand Tower,",
+      "Jivaraj Park Char-Rasta,",
+      "Ahmedabad,",
+      "Ahmedabad",
+      "Gujarat",
+      "380051"
+    ]
+  },
+  "briefDescription": "JANPATH is state level network of voluntary organizations in Gujarat. Currently 216 organizations are associated with JANPATH. The primary goal of the organization is to promote and strengthen voluntarism and social actions to alleviate the conditions of marginalized sections of the society",
+  "yearOfEstablishment": "1989",
+  "regiseredAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "B-3, Sahjanand Tower",
+      "Jivaraj Park Char-Rasta,",
+      "Ahmedabad",
+      "Gujarat",
+      "380051"
+    ]
+  }
+}

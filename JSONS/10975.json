@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Savita Jadhav",
+      "email": "",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10975",
+  "name": "Sadhana Institute for Sustainable Development",
+  "primaryEmail": "sadhana_dehu@rediffmail.com",
+  "website": "Not available",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "+919822998462"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Flat 2, Bhondve Building, Behind Pdcc Bank, Old Mumbai-Pune Highway",
+      "Dehuroad,",
+      "Taluka Haveli",
+      "Pune",
+      "Maharashtra",
+      "412101"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "contacts": [
+    {
+      "name": "Kalpana Shastree",
+      "email": "",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1146",
+  "name": "Samuday",
+  "primaryEmail": "samuday1980@gmail.com",
+  "telephone": [
+    "916122267187",
+    "916122267187"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "202 Laxmi Apartment",
+      "Nehru Nagar P.O. Patliputra Colony",
+      "Patna",
+      "Bihar",
+      "800013"
+    ]
+  }
+}

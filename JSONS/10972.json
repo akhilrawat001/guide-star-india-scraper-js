@@ -1,0 +1,44 @@
+{
+  "contacts": [
+    {
+      "name": "Kaustubh Gawande",
+      "email": "kaustubhgawande269@gmail.com",
+      "designation": "Rescue Incharge",
+      "mobile": [
+        "91-8625969168"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10972",
+  "name": "PEOPLE FOR ANIMALS, WARDHA",
+  "primaryEmail": "Ashish_pfa@yahoo.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919422141262"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "25/1",
+      "People for Animals Pipri Meghe",
+      "Wardha",
+      "Maharashtra",
+      "442001"
+    ]
+  },
+  "briefDescription": "People for Animals is located in Wardha, Maharashtra.",
+  "yearOfEstablishment": "1999",
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Geeta Bhavan Gopuri",
+      "Wardha",
+      "Maharashtra",
+      "442001"
+    ]
+  }
+}

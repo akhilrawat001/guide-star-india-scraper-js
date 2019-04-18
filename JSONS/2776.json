@@ -1,0 +1,34 @@
+{
+  "contacts": [
+    {
+      "name": "Amish Nathwani",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "28060707"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2776",
+  "name": "RESCUE FOUNDATION",
+  "primaryEmail": "secretary@rescuefoundation.net",
+  "website": "http://rescuefoundation.net/",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "912228060707",
+    "912228060707"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "PLOT 39, LADY FATIMA ROAD",
+      "POISAR, KANDIVALI WEST",
+      "MUMBAI",
+      "Mumbai",
+      "Maharashtra",
+      "400067"
+    ]
+  }
+}

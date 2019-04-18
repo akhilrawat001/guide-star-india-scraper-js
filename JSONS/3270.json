@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "Kasi G",
+      "email": "cardskanchi@yahoo.com",
+      "designation": "Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3270",
+  "name": "Community Association For Rural Development Society",
+  "primaryEmail": "cardskanchi@yahoo.com",
+  "telephone": [
+    "914427225039",
+    "919364320785"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "No.7",
+      "E.V.R.Street Vadivel Nagar, Near Collectorate",
+      "Kanchipuram",
+      "Kancheepuram",
+      "Tamil Nadu",
+      "631502"
+    ]
+  }
+}

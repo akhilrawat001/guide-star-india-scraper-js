@@ -1,0 +1,41 @@
+{
+  "contacts": [
+    {
+      "name": "ASHVIN V ANJIKAR",
+      "email": "ashvinanjikar25@gmail.com",
+      "designation": "PRESIDENT",
+      "mobile": []
+    },
+    {
+      "name": "ASHVIN V ANJIKAR",
+      "email": "ashvinanjikar25@gmail.com",
+      "designation": "PRESIDENT",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7037",
+  "name": "SBBM SOCIAL FOUNDATION NAGPUR",
+  "primaryEmail": "sbbmsocialfoundation@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Grant-making",
+    "Support"
+  ],
+  "telephone": [
+    "919890898081",
+    "919326172824"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "ANJIKAR HOUSE, PANCHPAOLI",
+      "TIMKI, CHIMABAI PETH",
+      "NAGPUR",
+      "Nagpur",
+      "Maharashtra",
+      "440018"
+    ]
+  },
+  "briefDescription": "SBBM SOCIAL FOUNDATION LOCATED IN NAGPUR,MAHARASHTRA.",
+  "yearOfEstablishment": "2015"
+}

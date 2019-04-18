@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Juber Chand Dargiwale",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8868",
+  "name": "Sangharsh Minority Education and Multipurpose Society",
+  "primaryEmail": "sangharshminorityeducation@rediffmail.com",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "919767913184"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "At.Surkandi",
+      "Post Washim",
+      "Washim",
+      "Maharashtra",
+      "444505"
+    ]
+  }
+}

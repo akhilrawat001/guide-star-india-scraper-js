@@ -1,0 +1,24 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1112",
+  "name": "Sri Vidyaranya Vidya Samsthe",
+  "primaryEmail": "vidyaranya.vs@gmail.com",
+  "website": "www.vidyaranyainstitutions.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918174265973",
+    "919448885297"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "NH 234",
+      "Kanakatte",
+      "Hassan",
+      "Karnataka",
+      "573144"
+    ]
+  }
+}

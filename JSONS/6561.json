@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Sashi Kanta Panda",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6561",
+  "name": "Navjivan Foundation",
+  "primaryEmail": "navjivanfoundation@gmail.com",
+  "website": "www.navjivanfoundation.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "911126238444",
+    "911126238444"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "252.Nazar Singh Place,2nd Floor, Plot No.-S-11,Sant Nagar, East Of Kailash, New Delhi-110065",
+      "South Delhi",
+      "Delhi",
+      "110065"
+    ]
+  }
+}

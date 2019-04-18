@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Alagesan",
+      "email": "credmfi@gmail.com",
+      "designation": "Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3159",
+  "name": "Centre For Rural Education And Development",
+  "primaryEmail": "credngo@gmail.com",
+  "website": "http://www.credindia.org",
+  "telephone": [
+    "914543254453",
+    "914543254453"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "301, Main Road,",
+      "Opp Police Station,",
+      "T.Vadipatty",
+      "Madurai",
+      "Tamil Nadu",
+      "625218"
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "Amit Sharma",
+      "email": "",
+      "designation": "Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2974",
+  "name": "National Institute Of Technology and Management Trust",
+  "primaryEmail": "amit@nitmedu.org",
+  "telephone": [
+    "911412500314",
+    "911412500314"
+  ],
+  "mainAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "B-8,",
+      "NEAR CITY HOSPITAL",
+      "BHAGWATI NAGAR-I,KARTARPURA",
+      "Jaipur",
+      "Rajasthan",
+      "302015"
+    ]
+  }
+}

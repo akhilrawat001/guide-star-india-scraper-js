@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "Nadaf",
+      "email": "nutanedutrust@yahoo.com",
+      "designation": "Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3194",
+  "name": "Nutan Education Trust",
+  "primaryEmail": "nutanedutrust@yahoo.com",
+  "telephone": [
+    "918337254672",
+    "918337254672"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "At/Post:Yaragatti,",
+      "Tq:Soundatt",
+      "Belgaum",
+      "Belagavi (Belgaum)",
+      "Karnataka",
+      "591129"
+    ]
+  }
+}

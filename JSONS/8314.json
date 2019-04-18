@@ -1,0 +1,24 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8314",
+  "name": "MAHATMA JYOTIBA PHULE SHIKSHA SAMITI",
+  "primaryEmail": "suresh.saini.amroha@gmail.com",
+  "website": "www.mjpngo.org",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919758124619"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "Home.No-711",
+      "Villeg&Post-Patai Khalsa Distt Amroha",
+      "Amroha",
+      "Uttar Pradesh",
+      "244221"
+    ]
+  }
+}

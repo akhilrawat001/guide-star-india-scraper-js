@@ -1,0 +1,40 @@
+{
+  "contacts": [
+    {
+      "name": "Deepak Kanade",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "23627777",
+        "9819511144"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6637",
+  "name": "Vision Foundation of India",
+  "primaryEmail": "secretarygeneral@visionfoundationofindia.in",
+  "website": "www.visionfoundationofindia.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "912223627777",
+    "912223627777"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "5 Babulnath Road",
+      "Near Central Bank of India",
+      "Mumbai",
+      "Maharashtra",
+      "400007"
+    ]
+  },
+  "briefDescription": "Vision Foundation of India is a non-profit, non-governmental organisation established in 1993, with the primary objective of reducing avoidable blindness in India.The beneficiaries are needy people from lower socio-economical strata of the society especially from rural areas & urban slums. Currently the activities of Vision Foundation of India are going on in 20 states of India. Since 1993 till now, Vision Foundation of India has surgically benefitted 1,07,037 patients.Our new Project called “Rashtriya Netra Yagna” aims at treating more than 1 million needy people from all over India requiring eye surgery.",
+  "yearOfEstablishment": "1993"
+}

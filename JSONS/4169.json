@@ -1,0 +1,26 @@
+{
+  "contacts": [
+    {
+      "name": "B.K. Katkar",
+      "email": "shivaneri_vidyalaya@yahoo.com",
+      "designation": "Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4169",
+  "name": "Janseva shikshan prasarak trust",
+  "primaryEmail": "JSPTM2000@hotmail.com",
+  "telephone": [
+    "919221952736"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "shivneri vidyalaya, indira nagar, gali no : 17",
+      "mandala police chowki road, mankhurd (w)",
+      "Mumbai",
+      "Maharashtra",
+      "400043"
+    ]
+  }
+}

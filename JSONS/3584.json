@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "Mohita Keshari",
+      "email": "",
+      "designation": "Director (Programs)",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3584",
+  "name": "Dove Foundation",
+  "primaryEmail": "thedove.india@gmail.com",
+  "website": "www.thedoveindia.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "918896452972",
+    "918604357250"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "S-8/392 A1",
+      "KHAJURI COLONY",
+      "VARANASI",
+      "Varanasi",
+      "Uttar Pradesh",
+      "221002"
+    ]
+  },
+  "briefDescription": "We are a youth led NGO working with and for youth and young people in India. We aim to strengthen youth engagement and leadership  in National & Regional responses  for better health and rights of  youth and young people.Through our various programs we have reached 'directly' to a population of 15,000 young people, youth and children for capacity building initiatives,mobilization particularly for issues concerning their health, education and employment. Our areas of work include HIV/AIDS, ARSH, Maternal & Child Health and Employment Generation through skill building.",
+  "yearOfEstablishment": "2010"
+}

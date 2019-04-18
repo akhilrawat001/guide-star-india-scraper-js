@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "A.vijayalakshmi",
+      "email": "swead_india@yahoo.co.in",
+      "designation": "Tresurer",
+      "mobile": [
+        "91-9659190739"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1326",
+  "name": "Society for women's Education and Awareness Development",
+  "primaryEmail": "swead_india@yahoo.co.in",
+  "website": "www.swead.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919942540984"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "R.C .Street",
+      "Thurinjickollai, Nellickollai,",
+      "Chidambaram Taluk",
+      "Cuddalore",
+      "Tamil Nadu",
+      "608704"
+    ]
+  }
+}

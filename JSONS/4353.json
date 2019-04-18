@@ -1,0 +1,25 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4353",
+  "name": "DIVYA PREM SEWA MISSION",
+  "primaryEmail": "divyaprem03@gmail.com",
+  "website": "www.divyaprem.co.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "911334222211",
+    "911334222211"
+  ],
+  "mainAddrress": {
+    "state": "Uttarakhand",
+    "address": [
+      "sewa kun,",
+      "divya prem sewa mission, chandi ghat",
+      "haridwar",
+      "Haridwar",
+      "Uttarakhand",
+      "249408"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "contacts": [
+    {
+      "name": "Rebbeca Devi",
+      "email": "satyaindia.ngo@gmail.com",
+      "designation": "Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2934",
+  "name": "Social Awakening through Youth Action",
+  "primaryEmail": "satyaindia.ngo@gmail.com",
+  "telephone": [
+    "911122615116"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "B-263/A Gali-2",
+      "Rajbeer Colony, Ghrauli Ext.Mayur Vihar Phase-3",
+      "New Delhi",
+      "Delhi",
+      "110096"
+    ]
+  }
+}

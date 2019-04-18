@@ -1,0 +1,47 @@
+{
+  "contacts": [
+    {
+      "name": "Chaturbhai Parmar",
+      "email": "finance@navsarjan.org",
+      "designation": "Program Director",
+      "mobile": [
+        "91-2717-324832",
+        "91-9879440085"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4362",
+  "name": "Navsarjan Trust",
+  "primaryEmail": "director@navsarjan.org",
+  "website": "http://www.navsarjan.org",
+  "organisationType": [
+    "Advocacy & Campaigning"
+  ],
+  "telephone": [
+    "917926630872",
+    "912717324832",
+    "919879440085"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "2, Ruchit Apartments",
+      "Behind Dharnidhar Derasar, Vasna",
+      "Ahmedabad",
+      "Gujarat",
+      "380007"
+    ]
+  },
+  "briefDescription": "Navsarjan is a grassroots Dalit organization dedicated to ensuring human rights for all. Our mission is to eliminate discrimination based on untouchability practices; ensure equality of status and opportunities for all, regardless of caste, class or gender; and to ensure the rule of law.Navsarjan is the largest Dalit organization in Gujarat, and one of the most effective in India.  It is active in more than 3,000 villages, as well as in the cities.  A field staff of about 80 men and women—most of whom come from the communities in which they work—keep Navsarjan in tune with the needs of people on the ground.",
+  "yearOfEstablishment": "1989",
+  "regiseredAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "Vankar Vas",
+      "Village-Khakhsar, Taluka-Cambay",
+      "Anand",
+      "Gujarat",
+      "388620"
+    ]
+  }
+}

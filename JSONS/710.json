@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "Rajkumar Ghadge",
+      "email": "info@palawi.org",
+      "designation": "PRO",
+      "mobile": [
+        "91-9860069949"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=710",
+  "name": "Prabha Hira Pratishthan",
+  "primaryEmail": "dimple@palawi.org",
+  "website": "www.palawi.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919970169949",
+    "9860069949"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "4588/1, Gatade Plot",
+      "Old Karad Naka",
+      "Pandharpur",
+      "Solapur",
+      "Maharashtra",
+      "413304"
+    ]
+  },
+  "briefDescription": "Rehabilitation project for HIV affected  orphan children & nowadays 80 children beneficiary",
+  "yearOfEstablishment": "2003"
+}

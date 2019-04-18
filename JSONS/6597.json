@@ -1,0 +1,37 @@
+{
+  "contacts": [
+    {
+      "name": "SHARIQUE NADEEM",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "9999230652"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6597",
+  "name": "THE ORIGIN",
+  "primaryEmail": "ngo@theorigingo.org",
+  "website": "http://www.theorigingo.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Intermediary"
+  ],
+  "telephone": [
+    "919999230652"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "H-117, 3RD FLOOR, MURADI ROAD",
+      "NEAR PNB ATM, BATLA HOUSE, JAMIA NAGAR",
+      "OKHLA",
+      "South West Delhi",
+      "Delhi",
+      "110025"
+    ]
+  },
+  "briefDescription": "Our objective is to focus on Human Rights. An objective to bring citizen concerns to government, advocate and monitor policies and encourage political participation through provision of information.",
+  "yearOfEstablishment": "2010"
+}

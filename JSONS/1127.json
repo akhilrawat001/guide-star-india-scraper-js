@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Eldred Tellis",
+      "email": "",
+      "designation": "Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1127",
+  "name": "Sankalp Rehabilitation Trust",
+  "primaryEmail": "Sankalp.trust@gmail.com",
+  "website": "http://www.sankalptrust.org/",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service"
+  ],
+  "telephone": [
+    "912265252685"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "1st Floor, S.S. Bengali Municipal School",
+      "Thakurdwar Rd, Charni Road (E)",
+      "Mumbai",
+      "Maharashtra",
+      "400002"
+    ]
+  },
+  "briefDescription": "Sankalp Rehabilitation Trust was founded in 1995 to minimize the spread of blood-borne viruses including HIV/AIDS and Hepatitis C, provide medical and psychological support for injecting drug users (IDUs), and rehabilitate and reintegrate drug users into society.  Since our inception, we have provided services to over 15,000 individuals  in and around Mumbai.",
+  "yearOfEstablishment": "1995"
+}

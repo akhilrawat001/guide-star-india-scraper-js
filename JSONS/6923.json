@@ -1,0 +1,37 @@
+{
+  "contacts": [
+    {
+      "name": "Gulrez Anwar",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "8444020740"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6923",
+  "name": "Sir Syed Group of Schools",
+  "primaryEmail": "taleemat@bsnl.in",
+  "website": "www.ssgos.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Intermediary",
+    "Support"
+  ],
+  "telephone": [
+    "918444020740",
+    "913322233922"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "71/1C, Diamond Harbour Road",
+      "Kidderpore",
+      "Kolkata",
+      "West Bengal",
+      "700023"
+    ]
+  },
+  "briefDescription": "Sir Syed Group of Schools is a grass-root level voluntary organization implementing educational, healthcare, elderly care, socio-economic uplift and advocacy programmes for the disadvantaged sections of the port slums in Kolkata. We have benefited more than 50000 people directly over the past four decades of our existence.Our Vision is to touch lives and spread happiness to the underprivileged people of port area slums of Kolkata on a sustainable basis. We will make use of multiple platforms and mediums to reach this goal and be one of the most respected NGO known for its practice and ethics.",
+  "yearOfEstablishment": "1985"
+}

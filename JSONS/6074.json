@@ -1,0 +1,48 @@
+{
+  "contacts": [
+    {
+      "name": "Thomas P.D",
+      "email": "thomaspd1@gmail.com",
+      "designation": "Director",
+      "mobile": [
+        "91-9496003337"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6074",
+  "name": "Trivandrum Don Bosco Veedu Society",
+  "primaryEmail": "dbveedu@gmail.com",
+  "website": "www.dbveedu.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network"
+  ],
+  "telephone": [
+    "919496003337"
+  ],
+  "mainAddrress": {
+    "state": "Kerala",
+    "address": [
+      "Don Bosco Nivas,",
+      "TC 25/913 (1),Thampanoor,",
+      "Thycaud P.O- Trivandrum",
+      "Thiruvananthapuram",
+      "Kerala",
+      "695014"
+    ]
+  },
+  "briefDescription": "Advocating and intervening on behalf of at risk children to rescue them, protect them, giving them a home away from home, promoting their rights, restoring them, creating awareness among the general public on issues facing children and intervening with the stake holders to make better laws for the care of children.",
+  "yearOfEstablishment": "1991",
+  "regiseredAddrress": {
+    "state": "Kerala",
+    "address": [
+      "Don Bosco Veedu",
+      "Kalipamkulam Road, TC 41/2065",
+      "Manacaud",
+      "Thiruvananthapuram",
+      "Kerala",
+      "695009"
+    ]
+  }
+}

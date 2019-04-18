@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "Dr Digpal Dharkar",
+      "email": "digpaldharkar@gmail.com",
+      "designation": "Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4712",
+  "name": "Indore Cancer Foundation Charitable Trust",
+  "primaryEmail": "infoicf@indorecancerfoundation.org",
+  "website": "http://www.indorecancerfoundation.org",
+  "telephone": [
+    "917312563878",
+    "917312563878"
+  ],
+  "mainAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "Raj Tilak, 779 D",
+      "Manishpuri, Saket Extension",
+      "Indore",
+      "Madhya Pradesh",
+      "452018"
+    ]
+  }
+}

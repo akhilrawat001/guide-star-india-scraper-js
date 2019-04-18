@@ -1,0 +1,40 @@
+{
+  "contacts": [
+    {
+      "name": "Chandrakant Koticha",
+      "email": "",
+      "designation": "Executive Trustee",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4231",
+  "name": "Indian Medical Scientific Research Foundation",
+  "primaryEmail": "savelife@999life.org",
+  "website": "www.999life.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "912812479133",
+    "912812479133"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "Life, Racecourse Ring Road",
+      "Rajkot",
+      "Gujarat",
+      "360001"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "Ajay Mantion",
+      "Malaviya Road",
+      "Rajkot",
+      "Gujarat",
+      "360001"
+    ]
+  }
+}

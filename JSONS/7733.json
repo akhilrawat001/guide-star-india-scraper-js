@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Mr. Chiranjeeva Kumar Singh",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7733",
+  "name": "Mukti Niketan Bhagalpur",
+  "primaryEmail": "muktiniketan@rediffmail.com",
+  "website": "www.muktiniketan.org.in",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919955392252"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "Katoria Banka Bihar",
+      "Sultanganj Road",
+      "Katoria",
+      "Banka",
+      "Bihar",
+      "813106"
+    ]
+  }
+}

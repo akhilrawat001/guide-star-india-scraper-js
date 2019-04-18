@@ -1,0 +1,47 @@
+{
+  "contacts": [
+    {
+      "name": "Ganesh",
+      "email": "aavingo@gmail.com",
+      "designation": "secretary",
+      "mobile": [
+        "91-81-85267050",
+        "91-9731554955"
+      ]
+    },
+    {
+      "name": "Ganesh",
+      "email": "aavingo@gmail.com",
+      "designation": "secretary",
+      "mobile": [
+        "91-81-85267050",
+        "91-9731554955"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6347",
+  "name": "Aavi Rural and Urban Development Organisation (ARUDO)",
+  "primaryEmail": "aavingo@gmail.com",
+  "website": "http://www.arudo.org",
+  "organisationType": [
+    "Direct Service",
+    "Grant-making"
+  ],
+  "telephone": [
+    "918185267050",
+    "918185267050"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "kodur-post. hosanagara -taluk",
+      "shimoga - district",
+      "kodur",
+      "Shivamogga (Shimoga)",
+      "Karnataka",
+      "577418"
+    ]
+  },
+  "briefDescription": "‘Aavi rural and urban development organization’ ® (ARUDO), at Kodur village in Shimoga district, Karnatka state, India.  In this organization, we have a bunch of likeminded people including a team of doctors, social workers, literates, journalists, engineers and students who have extended their hands to work with co-operation and co-ordination, towards a better tomorrow.We are well aware that we will not be creating miracles and change everything around us all of a sudden. But we work with a dream which will come true with our efforts; we begin from the small basic level goals and aspire to walk towards achieving bigger goals with the due course of time.Currently we have Kodur as the centre for our work.",
+  "yearOfEstablishment": "2009"
+}

@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "R.D.Gnaniah",
+      "email": "gnaniah@chdp.org.in",
+      "designation": "Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4537",
+  "name": "Community Health and Development Programme",
+  "primaryEmail": "gnaniah@chdp.org.in",
+  "website": "www.chdp.org.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919003556151"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "3/5 Rajendra road, ,   district Tamilnadu South India",
+      "opposite railway station",
+      "Udumalpet",
+      "Coimbatore",
+      "Tamil Nadu",
+      "642126"
+    ]
+  }
+}

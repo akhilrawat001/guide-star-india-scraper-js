@@ -1,0 +1,29 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=549",
+  "name": "Samraksha",
+  "primaryEmail": "sulekha@samraksha.org",
+  "website": "www.samraksha.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919033000230",
+    "918023534563"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "No. 17, 3 Main, 1 Cross",
+      "SBM Colony, Anandnagar",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560024"
+    ]
+  },
+  "briefDescription": "A grassroots NGO with two decades of experience in communtty work, particularly with vulnerable groups affected by HIV. We have worked with over 12000 vulnerable people, focusing on their empowerment and reducing vulnerability. Our care and support services have reached over 14000 people affected by HIV.",
+  "yearOfEstablishment": "2006"
+}

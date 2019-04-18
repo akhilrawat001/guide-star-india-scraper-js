@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Mritunjoy Bhattacharjee",
+      "email": "causeforchange@hotmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7326",
+  "name": "Cause For Change",
+  "primaryEmail": "causeforchange@hotmail.com",
+  "website": "www.causeforchange.org.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919771472730"
+  ],
+  "mainAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "H.No. 7, 157 new layout baradwari, jamshedpur",
+      "BSNL exchange line, Beside APEX hospital",
+      "Jamshedpur",
+      "East Singhbhum",
+      "Jharkhand",
+      "831001"
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7415",
+  "name": "PRAKALP SANSTHAN,UDAIPUR",
+  "primaryEmail": "kl_menaria@rediffmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "9950109285"
+  ],
+  "mainAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "Prakalp Sansthan Care of.Kanahaiyalal Menaria",
+      "Plot No.08, Dholi Magri Paneriyon ki Madri",
+      "Udaipur",
+      "Rajasthan",
+      "313002"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "Prakalp Sansthan c/o.Kanahaiyalal Menaria",
+      "Plot No.08, Dholi Magri Paneriyon ki Madri",
+      "Udaipur",
+      "Rajasthan",
+      "313002"
+    ]
+  }
+}

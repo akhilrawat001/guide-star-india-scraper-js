@@ -1,0 +1,53 @@
+{
+  "contacts": [
+    {
+      "name": "Bhanudas Dhakras",
+      "email": "gs@vkendra.org",
+      "designation": "General Secretary",
+      "mobile": [
+        "91-177-2835995"
+      ]
+    },
+    {
+      "name": "Bhanudas Dhakras",
+      "email": "gs@vkendra.org",
+      "designation": "General Secretary",
+      "mobile": [
+        "91-177-2835995"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6676",
+  "name": "Vivekananda Rock Memorial and Vivekananda Kendra",
+  "primaryEmail": "info@vkendra.org",
+  "website": "http://www.vivekanandakendra.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "914652247012",
+    "919418036995",
+    "919443150490"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "Vivekanandapuram",
+      "Mithila - General Secretary Office",
+      "Kanyakumari",
+      "Tamil Nadu",
+      "629702"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "5, Singarachari Street",
+      "Triplicane",
+      "CHENNAI",
+      "Chennai",
+      "Tamil Nadu",
+      "600005"
+    ]
+  }
+}

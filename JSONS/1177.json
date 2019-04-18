@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Arun Khandagale",
+      "email": "",
+      "designation": "Manager",
+      "mobile": [
+        "91-233-2671318"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1177",
+  "name": "SAVE Foundation (Services to AIDS Victims and Empowerment Foundation)",
+  "primaryEmail": "savefoundation@rediffmail.com",
+  "telephone": [
+    "912332671316",
+    "912332672796"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Care of Yerala Bhavan,Near Guest House",
+      "Sangli-Miraj Road,Vishrambag",
+      "Sangli",
+      "Maharashtra",
+      "416415",
+      "AP_ElecBill_1080.PDF"
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Vilas Pawar",
+      "email": "sanskrutikdarpannnd@rediffmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8366",
+  "name": "Sanskrutik Darpan Nanded",
+  "primaryEmail": "sanskrutikdarpannnd@rediffmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919420942178"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Sinchan Colony",
+      "Taroda K",
+      "Dist Nanded",
+      "Nanded",
+      "Maharashtra",
+      "431601"
+    ]
+  }
+}

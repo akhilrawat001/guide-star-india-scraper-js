@@ -1,0 +1,33 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1880",
+  "name": "Gangotree Social Organisation",
+  "primaryEmail": "gangotreeorg@rediffmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "916742391392"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "Type 2",
+      "8/3, Unit- 3, Khavelnagar",
+      "Bhubanswar",
+      "Khordha",
+      "Odisha",
+      "751001"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Odisha",
+    "address": [
+      "Plot no- 1325/ 3037",
+      "K.b lane, oldtown",
+      "Cuttack",
+      "Odisha",
+      "751002"
+    ]
+  }
+}

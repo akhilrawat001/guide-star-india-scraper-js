@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Mr.Vivek Pandey",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7074",
+  "name": "GUJARATI SMARAK SIKSHAN SEVA SANSTHAN",
+  "primaryEmail": "gssssup@rediffmail.com",
+  "website": "www.gssssindia.ngo",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919415454242"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "Vill-Bhawanpur, Po- Ariyaso,",
+      "Teh-Ghosi,  (U.P.)",
+      "Ghosi",
+      "Mau",
+      "Uttar Pradesh",
+      "275105"
+    ]
+  }
+}

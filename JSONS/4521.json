@@ -1,0 +1,35 @@
+{
+  "contacts": [
+    {
+      "name": "Krishna Dave",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "9637870425"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4521",
+  "name": "Sukh Bhumi India Trust",
+  "primaryEmail": "sukhbhumi@gmail.com",
+  "website": "http://www.sukhbhumi.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service"
+  ],
+  "telephone": [
+    "919637870425"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "2202, Orchid, Hiranandani Meadows",
+      "Gladys Alvarez road",
+      "Thane",
+      "Maharashtra",
+      "400610"
+    ]
+  },
+  "briefDescription": "Sukh Bhumi India Trust works in adivasis villages of Tansa river watershed (Thane District, Maharashtra), Four programs developed by the team of 11 people:1) Water management: dams, rainwater harvest structures in villages and schools, spring catchment and recharge systems.2) Adult farming training: Self-Help Groups with organic farming training to 350 villagers. Kitchen garden program with 501 women, feeding family and earning money from vegetable sale.3) Environmental education: weekly sessions in 15 Zilla Parishad schools reaching over 900 students from 1st to 7th Standard. Teachings with interactive methods and teaching games on science topics and farming training. Visits to educational places (Science Centre, Museum, National Park, zoo, aquarium).4) Tree plantation in village surroundings.",
+  "yearOfEstablishment": "2006"
+}

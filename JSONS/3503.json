@@ -1,0 +1,22 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3503",
+  "name": "Maharashtra Arogya Mandal",
+  "primaryEmail": "secretary@mam.org.in",
+  "website": "http://www.ayurvedmampune.com",
+  "telephone": [
+    "912026999358",
+    "912026999405",
+    "919850730341"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "S.No 165 A,Malwadi",
+      "Hadapsar",
+      "Pune",
+      "Maharashtra",
+      "411028"
+    ]
+  }
+}

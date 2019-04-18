@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Prayaag Joshi",
+      "email": "prayaag_joshi@yahoo.com",
+      "designation": "Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1360",
+  "name": "Akanksha Public Charitable Trust",
+  "primaryEmail": "prayaag_joshi@yahoo.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "914424403447",
+    "919926683778"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "B 404",
+      "The Atrium, 49 Kalakshetra Road,",
+      "Thiruvanmiyur",
+      "Chennai",
+      "Tamil Nadu",
+      "600041"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6955",
+  "name": "Sankalp",
+  "primaryEmail": "sankalpngo2012@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919987648294",
+    "919969391025"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "B Wing ,Shamim Tower,",
+      "Opp Bldg No 151,Nehru Nagar,Kurla (east)",
+      "Mumbai",
+      "Maharashtra",
+      "400022"
+    ]
+  }
+}

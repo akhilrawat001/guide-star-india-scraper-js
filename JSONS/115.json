@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "Manasi Kulkarni",
+      "email": "kulkarni.manasi@somaiya.com",
+      "designation": "Manager",
+      "mobile": [
+        "91-22-22048272",
+        "91-9167924964"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=115",
+  "name": "Somaiya Vidyavihar",
+  "primaryEmail": "kulkarni.manasi@somaiya.com",
+  "website": "http://www.helpachild.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "912222048272",
+    "919167924964"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Help A Child to Study, Somaiya Bhavan",
+      "45/47 M.G.Road, Fort",
+      "Mumbai",
+      "Maharashtra",
+      "400001"
+    ]
+  },
+  "briefDescription": "Help A Child to Study, a project of Somaiya Vidyavihar, sponsors the higher education of underprivileged students. Since its inception in 2001 more than 1000 students have been supported to finish their higher education.",
+  "yearOfEstablishment": "1960"
+}

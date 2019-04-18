@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Senthil Murugan",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6422",
+  "name": "MADHUR MITHRAAS TRUST",
+  "primaryEmail": "perumalsenthil29@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919442811909"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "57/21, Arunagiripuram 1st street",
+      "Tirukoilur Road",
+      "Tiruvannamalai",
+      "Tamil Nadu",
+      "606601"
+    ]
+  },
+  "briefDescription": "Serving in the field of health, education, environment, economic development and rights. Targeting the poor and/or needy in and around Tiruvannamalai District of Tamil Nadu.",
+  "yearOfEstablishment": "2014"
+}

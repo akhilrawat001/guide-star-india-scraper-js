@@ -1,0 +1,42 @@
+{
+  "contacts": [
+    {
+      "name": "D Shankarappa",
+      "email": "d_shankarappa@yahoo.com",
+      "designation": "Chief Functionary",
+      "mobile": [
+        "91-9880444749"
+      ]
+    },
+    {
+      "name": "D Shankarappa",
+      "email": "d_shankarappa@yahoo.com",
+      "designation": "Chief Functionary",
+      "mobile": [
+        "91-9880444749"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1121",
+  "name": "Parivarthana (The Rural Development Society)",
+  "primaryEmail": "d_shankarappa@yahoo.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919880444749"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "Near Government Hospital H.K.Road",
+      "Shiralakoppa",
+      "Shivamogga (Shimoga)",
+      "Karnataka",
+      "577428"
+    ]
+  }
+}

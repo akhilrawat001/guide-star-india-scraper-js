@@ -1,0 +1,44 @@
+{
+  "contacts": [
+    {
+      "name": "MADAN KUMAR BHATTACHARJEE",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6498",
+  "name": "SILIGURI SUMITA CANCER RELIEF WELFARE & EDUCATIONAL SOCIETY",
+  "primaryEmail": "sumita.cancersociety@gmail.com",
+  "website": "sumitacancersociety.org",
+  "organisationType": [
+    "Direct Service",
+    "Intermediary",
+    "Network"
+  ],
+  "telephone": [
+    "INDIA",
+    "9733030723"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "ADMINISTRATIVE OFFICE:RAMA KRISHNA VEDENTA ASHRAMA SARANI, PRADHAN NAGAR",
+      "SILIGURI",
+      "Darjeeling",
+      "West Bengal",
+      "734003"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "ADMINISTRATIVE OFFICE:RAMA KRISHNA VEDENTA ASHRAMA SARANI, PRADHAN NAGAR",
+      "Pradhan Nagar",
+      "SILIGURI",
+      "Darjeeling",
+      "West Bengal",
+      "734003"
+    ]
+  }
+}

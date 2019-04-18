@@ -1,0 +1,48 @@
+{
+  "contacts": [
+    {
+      "name": "Anisha Singh",
+      "email": "",
+      "designation": "Head- Communications & Partnership",
+      "mobile": []
+    },
+    {
+      "name": "Anisha Singh",
+      "email": "",
+      "designation": "Head- Communications & Partnership",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=179",
+  "name": "Bharti Foundation",
+  "primaryEmail": "bharti.foundation@bhartifoundation.org",
+  "website": "www.bhartifoundation.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "911244666000",
+    "919971108230",
+    "911244666209"
+  ],
+  "mainAddrress": {
+    "state": "Haryana",
+    "address": [
+      "Plot no. 47, Udyog Vihar-IV",
+      "Gurgaon",
+      "Gurugram",
+      "Haryana",
+      "122015"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "H-5/12 Qutab Ambience, Mehrauli Road",
+      "New Delhi",
+      "Delhi",
+      "110030",
+      "AP_BankStat_79.PDF"
+    ]
+  }
+}

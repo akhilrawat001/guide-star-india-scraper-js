@@ -1,0 +1,47 @@
+{
+  "contacts": [
+    {
+      "name": "Anand Joshi",
+      "email": "ganesh@amtmindia.org",
+      "designation": "Manager",
+      "mobile": [
+        "91-9819380310"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1901",
+  "name": "Animals matter to me, Mumbai",
+  "primaryEmail": "ganesh@amtmindia.org",
+  "website": "www.amtmmumbai.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919819380310"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "B601 Blue Meadows off Jvlr Road Jogesh wari east",
+      "Near ganpati madir lane",
+      "Mumbai",
+      "Maharashtra",
+      "400060"
+    ]
+  },
+  "briefDescription": "Animals matter! They can feel pain and can suffer, and WE ALL have a responsibility to put an end to cruelty to animals wherever we find it.Animals Matter To Me (Mumbai) is a likeminded - led community, to persuade the locals in Mumbai to adopt a loving attitude towards Animal Welfare, similar to earlier initiatives in the sphere of Human Rights and the Environment.It all started with a couple who always wanted to give something back to the society and it was their dream to do something against cruelty to animals in and around Mumbai.A number of leading Animal Welfare Organizations are helping out for the same cause and sometimes are unable to reachout on a large scale and thats when we thought we should join our hands in assisting them",
+  "yearOfEstablishment": "2010",
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Animals matter to me Mumbai , Transapartment B205 mahakali caves andheri east",
+      "Neae mahakal",
+      "Mumbai",
+      "Maharashtra",
+      "400060"
+    ]
+  }
+}

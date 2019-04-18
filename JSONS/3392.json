@@ -1,0 +1,42 @@
+{
+  "contacts": [
+    {
+      "name": "IMAM REZA KHAN",
+      "email": "unicomcare@gmail.com",
+      "designation": "SECRETARY",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3392",
+  "name": "ASANSOL UNICOM INSTITUTE OF TECHNOLOGY",
+  "primaryEmail": "unicomcare@gmail.com",
+  "website": "www.auit.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919333105803"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "119/10 T.P. MARKET ROAD, HUTTON ROAD, ASANSOL, BURDWAN, WEST BENGAL",
+      "ISLAMPUR",
+      "ASANSOL",
+      "Bardhaman",
+      "West Bengal",
+      "713301"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "119/10 T.P. MARKET ROAD, HUTTON ROAD, ASANSOL",
+      "ISLAMPUR",
+      "ASANSOL",
+      "Bardhaman",
+      "West Bengal",
+      "713301"
+    ]
+  }
+}

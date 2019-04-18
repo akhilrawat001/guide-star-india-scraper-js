@@ -1,0 +1,22 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=636",
+  "name": "Sahyog Pariwar",
+  "primaryEmail": "sahyog.p@indiatimes.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919423851016"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "42767, Gosavi Chawl",
+      "Parshiwadi, Agra Road, Ghatkopar (West)",
+      "Mumbai",
+      "Maharashtra",
+      "400086"
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "contacts": [
+    {
+      "name": "Ajitha Duvvuri",
+      "email": "ajitha.duvvuri@321-foundation.org",
+      "designation": "Senior Finance Manager",
+      "mobile": []
+    },
+    {
+      "name": "Ajitha Duvvuri",
+      "email": "ajitha.duvvuri@321-foundation.org",
+      "designation": "Senior Finance Manager",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10897",
+  "name": "3.2.1 Education Foundation",
+  "primaryEmail": "finance@321-foundation.org",
+  "website": "http://www.321-foundation.org/",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919538205909"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "No 41, Golden Palace Suburban Society, Gurunanak Marg",
+      "Behind Union Bank (Turner Road Branch), Bandra (W)",
+      "Mumbai",
+      "Maharashtra",
+      "400050"
+    ]
+  },
+  "briefDescription": "Despite having over 14,00,000 lakh schools with over 80,000 crores spent on education in India, over 50% of 5th grade children are at least 3 grades behind in reading and math. With less than 1 in 5 elementary Indian school teachers trained, 100 million students in India risk not making it to college.321’s mission is to make a transformative impact on India’s education system by maximizing the potential of each educator and each school and through them the potential of millions of children in our country. We aim to do this through our 2 year Teacher Empowerment & School Strengthening program called Ignite!. In 2018-19 we are empowering 2600 educators from 125 schools and impacting 1,04,000 children.",
+  "yearOfEstablishment": "2011",
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "No 55A",
+      "Jorbagh",
+      "New Delhi",
+      "Delhi",
+      "110003"
+    ]
+  }
+}

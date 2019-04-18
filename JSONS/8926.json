@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Nabin Chandra Shil",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8926",
+  "name": "DR. BIDHAN CHANDRA ROY MEDICAL RESEARCH FOUNDATION",
+  "primaryEmail": "nabinchandrashil@gmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919002124831"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Vill & Post Sakdaha",
+      "Near Colony Bazar",
+      "Sakdaha",
+      "Nadia",
+      "West Bengal",
+      "741167"
+    ]
+  }
+}

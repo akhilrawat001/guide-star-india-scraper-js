@@ -1,0 +1,35 @@
+{
+  "contacts": [
+    {
+      "name": "Sujata Sahu",
+      "email": "sujata.sahu@17000ft.org",
+      "designation": "Founder, Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5027",
+  "name": "17000 ft Foundation",
+  "primaryEmail": "sujata.sahu@17000ft.org",
+  "website": "http://www.17000ft.org",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919871100334",
+    "919811646467"
+  ],
+  "mainAddrress": {
+    "state": "Haryana",
+    "address": [
+      "Q-139, Ground Floor",
+      "Sector 40, South City 1",
+      "Gurgaon,",
+      "Gurugram",
+      "Haryana",
+      "122001"
+    ]
+  },
+  "briefDescription": "17000 ft Foundation is a Not for profit setup to improve lives of people settled in very remote mountainous hamlets, in areas that are inaccessible and isolated due to reasons of harsh mountainous terrain. 17000 ft has its roots in high altitude Ladakh, a desolate cold desert in the Himalayan mountainous state of Jammu and Kashmir, India, home to hundreds of tiny, remote villages scattered across the high altitude mountains. With bare minimum infrastructure, the people of these villages suffer from isolation and neglect, unwilling but driven to migrate to faraway cities in search of a better life.Our mission is to draw attention to ancient communities living in isolated mountainous terrains, create opportunities for development and help them live transformed lives within their chosen regions.",
+  "yearOfEstablishment": "2012"
+}

@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Mr.Sumant Kumar",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7384",
+  "name": "JYOTI SEVA SADAN",
+  "primaryEmail": "jyotisevasadan_gpj@yahoo.in",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919199331550"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "SUMANT PUSTAK",
+      "BHAWANAT-PO- SASAMUSA",
+      "SASAMUSA",
+      "Gopalganj",
+      "Bihar",
+      "841505"
+    ]
+  }
+}

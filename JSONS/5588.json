@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "P.Srinivasa Rao",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5588",
+  "name": "PAYASAM WELFARE SOCIETY",
+  "primaryEmail": "payasam_ozific@rediffmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919989991788"
+  ],
+  "mainAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "49-1-13, Mainroad,",
+      "Akkayyapalem",
+      "Visakhapatnam",
+      "Andhra Pradesh",
+      "530016"
+    ]
+  }
+}

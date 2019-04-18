@@ -1,0 +1,28 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5178",
+  "name": "SEWA BHARAT",
+  "primaryEmail": "mail@sewabharat.org",
+  "website": "www.sewabharat.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "911125841369",
+    "911125841369"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "7/5,first floor",
+      "south patel nagar",
+      "new delhi",
+      "New Delhi",
+      "Delhi",
+      "110008"
+    ]
+  }
+}

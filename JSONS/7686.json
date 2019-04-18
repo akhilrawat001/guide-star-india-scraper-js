@@ -1,0 +1,43 @@
+{
+  "contacts": [
+    {
+      "name": "Ramaprakash B N",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7686",
+  "name": "SREE INFOTECH EDUCATIONAL TRUST",
+  "primaryEmail": "siet04@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919343077999"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "173 3rd Block 4th Stage",
+      "Basaveshwaranagar",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560079"
+    ]
+  },
+  "briefDescription": "Sree Infotech offers quality, Software, Hardware, Fashion Designing, Beauty Culture & Mobile Phone Servicing Training Courses to our students.  We are concentrating on specializations Software. Hardware, Fashion Technology, Mobile Phone Servicing Training.  We are conducting special courses on Beauty Culture Courses, Free Tailoring Classes at Ullal Upanagar, Ullal Upanagar Post, Bangalore – 560 056.",
+  "yearOfEstablishment": "2004",
+  "regiseredAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "21 80 Feet Ring Road  Opp Bangalore University Quarters Bus Stop",
+      "Jnanajyothinagar",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560056"
+    ]
+  }
+}

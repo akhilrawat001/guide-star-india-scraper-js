@@ -1,0 +1,27 @@
+{
+  "contacts": [
+    {
+      "name": "Arvind Pandey",
+      "email": "narmdapatna@yahoo.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4661",
+  "name": "National Rural and Mountain Tribal Development Association",
+  "primaryEmail": "narmdapatna@yahoo.com",
+  "telephone": [
+    "916122452317",
+    "919431181545"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "Brindaban Colony",
+      "Road No. 2 Near Walmi Complex,",
+      "Azamgarh",
+      "Bihar",
+      "801505"
+    ]
+  }
+}

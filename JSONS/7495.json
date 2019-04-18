@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Mr.Pramod Kumar",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7495",
+  "name": "(VICAS) VOLUNTARY INSTITUTE FOR COMMUNITY APPLIED SCIENCE",
+  "primaryEmail": "vicasald@gmail.com",
+  "website": "www.vicas.india.org",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919450961953"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "HD-86",
+      "ADA, NAINI",
+      "Allahabad",
+      "Uttar Pradesh",
+      "211008"
+    ]
+  }
+}

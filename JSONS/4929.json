@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Shilpa Bhagat",
+      "email": "cuddles4cancerbabies@gmail.com",
+      "designation": "Chief Operating Officer",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4929",
+  "name": "Cuddles Foundation",
+  "primaryEmail": "cuddles4cancerbabies@gmail.com",
+  "website": "cuddlesfoundation.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919820216381"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "1st floor, Bahubali building,17/17H,Cawasji Patel Street, Fort",
+      "Mumbai",
+      "Maharashtra",
+      "400001"
+    ]
+  }
+}

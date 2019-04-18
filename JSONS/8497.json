@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Jayraj B",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8497",
+  "name": "Shakthi",
+  "primaryEmail": "shakthitumkur@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919916391565"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "# 1403,",
+      "NARAYANA KRUPA”, 2ND CROSS,",
+      "K.R.EXTN., TUMAKURU,",
+      "Tumakuru (Tumkur)",
+      "Karnataka",
+      "572102"
+    ]
+  }
+}

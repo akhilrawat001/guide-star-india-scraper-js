@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "VINOD KUMAR BHARTI",
+      "email": "gdarpan@rediffmail.com",
+      "designation": "PRESIDENT",
+      "mobile": []
+    },
+    {
+      "name": "VINOD KUMAR BHARTI",
+      "email": "gdarpan@rediffmail.com",
+      "designation": "PRESIDENT",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4646",
+  "name": "Gayan Darpan",
+  "primaryEmail": "gdarpan@rediffmail.com",
+  "telephone": [
+    "919934387079"
+  ],
+  "mainAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "At+Po- Bhadani Nagar",
+      "RAMGARH",
+      "Ramgarh",
+      "Jharkhand",
+      "829105"
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "PRAMOD KUMAR MISHRA",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8461",
+  "name": "PRAGATI YUBA CHAKRA",
+  "primaryEmail": "pycorissa@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919438838238"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "AT- PURBAKACHHA",
+      "PO- MADHYAKACHHA",
+      "VIA- BAHUGRAM",
+      "Cuttack",
+      "Odisha",
+      "753003"
+    ]
+  }
+}

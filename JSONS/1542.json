@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "Jyoti Gosavi",
+      "email": "jo@lifeschool.co.in",
+      "designation": "CEO",
+      "mobile": [
+        "91-7721065000"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1542",
+  "name": "Life School Foundation",
+  "primaryEmail": "contact@lifeschool.co.in",
+  "website": "www.lifeschool.co.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919822477682",
+    "919422078597",
+    "917721065000"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "2nd Flr, Ksna Chambers,",
+      "11 Galaxy Garden, North Main Road, Koregaon Park",
+      "Pune",
+      "Maharashtra",
+      "411001"
+    ]
+  },
+  "briefDescription": "We are dedicated to the cause of education. Our operations include attitudinal training and moral uplifment of adolescent youth. We also train teachers to empower them to be mentors and guides to their students. Since Jan 2001, every year, we reach out to approxiamtely 3000 teachers and 5000 students with a dedicated team of 500 volunteers in 30 cities in India.We are headquartered at Pune.",
+  "yearOfEstablishment": "2009"
+}

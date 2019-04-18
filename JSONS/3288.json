@@ -1,0 +1,46 @@
+{
+  "contacts": [
+    {
+      "name": "Bobby Zachariah",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "26333044",
+        "9689003044"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3288",
+  "name": "Connecting Trust",
+  "primaryEmail": "connectingngo@gmail.com",
+  "website": "www.connectingngo.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "912026333044",
+    "912026333044"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Dastur Girls School,",
+      "Moledina Road, Camp,",
+      "Pune",
+      "Maharashtra",
+      "411001"
+    ]
+  },
+  "briefDescription": "Connecting…NGO is committed to the cause of suicide prevention and support to survivors of suicide.Help Line for those in emotional distress or feeling suicidal. The helpline (2 to 8 p.m.) numbers are: 1800-209-4353(Toll-free)9922001122Awareness Programme for sensitization about suicide and related issues in educational institutes, organizations and community settings. Peer Educators Programme: Connecting trains and mentors a section of students from the Grades VIII to XII, who then become `peer educators’ within the school community.Support for Survivors: Connecting team is concerned about the emotional distress of those who have lost someone to suicide and those who have attempted suicide and offer programs to support healing and recovery.Community Counseling programs offer support in the home and neighborhood context to stimulate responses by community to address the root cause of suicides and create caring responses to those in distress.",
+  "yearOfEstablishment": "2005",
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "11, Thakkar Road,",
+      "Mangaldas Road,",
+      "Pune",
+      "Maharashtra",
+      "411001"
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "MR.S CHANDRA REDDY",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7048",
+  "name": "PROTECT",
+  "primaryEmail": "protectngo@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "918985317357",
+    "919848369415"
+  ],
+  "mainAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "Door No 12-121, Pathachirala (BPO) Jandra pet post,",
+      "Chirala Mandal,Prakasam AP",
+      "CHIRALA",
+      "Prakasam",
+      "Andhra Pradesh",
+      "523165"
+    ]
+  }
+}

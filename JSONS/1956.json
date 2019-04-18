@@ -1,0 +1,40 @@
+{
+  "contacts": [
+    {
+      "name": "Mahadeo Namdeoraoji Khaire",
+      "email": "",
+      "designation": "president",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1956",
+  "name": "Janahit Gramin Va Shahari Bahuuddeshiya Vikas Sanstha Wardha",
+  "primaryEmail": "janhitsanstha@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919730439450"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "At post kumbha",
+      "Tal Maregaon",
+      "Yavatmal",
+      "Maharashtra",
+      "445001"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "C/o Ashok Chaudhary",
+      "Gaurakshan ward",
+      "wardha",
+      "Wardha",
+      "Maharashtra",
+      "442001"
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9057",
+  "name": "RASHTRIYA YOUTH COMPUTER LITERACY MISSION (RYCLM)",
+  "primaryEmail": "ryclm.edu@gmail.com",
+  "website": "www.ryclm.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919002729477"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Vill-Birsinghapur, Po-Mundamari, Ps-Pingla,",
+      "Mundamari",
+      "West Medinipur",
+      "West Bengal",
+      "721140"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Vill-Birsinghapur, Po-Mundamari, Ps-Pingla,",
+      "MUNDAMARI",
+      "West Medinipur",
+      "West Bengal",
+      "721140"
+    ]
+  }
+}

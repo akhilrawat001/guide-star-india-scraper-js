@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "SATISH KUMAR",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "9250925923"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6160",
+  "name": "HELP A 2 Z EDUCATION SOLUTIONS",
+  "primaryEmail": "helpa2zeducationsolutions@gmail.com",
+  "website": "www.helpa2zeducationsolutions.com",
+  "organisationType": [
+    "Grant-making",
+    "Support"
+  ],
+  "telephone": [
+    "919250925923"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "A5A-352 JANAKPURI",
+      "NEW DELHI",
+      "West Delhi",
+      "Delhi",
+      "110058"
+    ]
+  }
+}

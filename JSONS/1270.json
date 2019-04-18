@@ -1,0 +1,40 @@
+{
+  "contacts": [
+    {
+      "name": "A. George Stephen Raj",
+      "email": "magstephen@yahoo.co.in",
+      "designation": "Program Manager ICT",
+      "mobile": []
+    },
+    {
+      "name": "A. George Stephen Raj",
+      "email": "magstephen@yahoo.co.in",
+      "designation": "Program Manager ICT",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1270",
+  "name": "Pondicherry Multipurpose Social Service Society",
+  "primaryEmail": "pmssspondy@gmail.com",
+  "website": "www.pmsss.org.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network"
+  ],
+  "telephone": [
+    "914132222928",
+    "914132222982",
+    "914132222928"
+  ],
+  "mainAddrress": {
+    "state": "Puducherry",
+    "address": [
+      "81, Laporte Street",
+      "Pondicherry",
+      "Puducherry",
+      "605001",
+      "AP_TelBill_1174.PDF"
+    ]
+  }
+}

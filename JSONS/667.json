@@ -1,0 +1,25 @@
+{
+  "contacts": [
+    {
+      "name": "Rajkaran Singh",
+      "email": "",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=667",
+  "name": "Maa Jan Kalyan Sewa Sansthan",
+  "primaryEmail": "maajangkp@yahoo.in",
+  "telephone": [
+    "919450436470"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "C - 105/171, Choota Kajipur",
+      "Gorakhpur",
+      "Uttar Pradesh",
+      "273004"
+    ]
+  }
+}

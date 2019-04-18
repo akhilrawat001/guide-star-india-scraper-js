@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "name": "Dhanlal Kumar",
+      "email": "globe.jamunia@gmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    },
+    {
+      "name": "Dhanlal Kumar",
+      "email": "globe.jamunia@gmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1380",
+  "name": "Globe",
+  "primaryEmail": "globe.jamunia@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Grant-making",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919546722901"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "Vill-Jamunia",
+      "Ps-Jagdishpur P. O. Majhariya Kishun,",
+      "Bettiah",
+      "West Champaran",
+      "Bihar",
+      "845459"
+    ]
+  }
+}

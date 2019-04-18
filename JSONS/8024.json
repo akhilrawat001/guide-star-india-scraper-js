@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Binaya Kumar Das",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8024",
+  "name": "SRI ACHYUTA AKALIT SEBA SANGHA (SAASS)",
+  "primaryEmail": "saass_645@rediffmail.com",
+  "website": "www.saass.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Intermediary",
+    "Support"
+  ],
+  "telephone": [
+    "9937273542"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "At/Po/Ps-Nemalo,",
+      "Near Mhapurusha Sri Sri Achyutananda Pitha",
+      "Cuttack",
+      "Odisha",
+      "754293"
+    ]
+  }
+}

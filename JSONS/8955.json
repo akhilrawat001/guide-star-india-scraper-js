@@ -1,0 +1,26 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8955",
+  "name": "MOHANJI FOUNDATION",
+  "primaryEmail": "info@mohanji.org",
+  "website": "www.mohanji.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919004373331"
+  ],
+  "mainAddrress": {
+    "state": "Kerala",
+    "address": [
+      "Pathirisseri, Puthoor",
+      "Palakkad",
+      "Kerala",
+      "678001"
+    ]
+  }
+}

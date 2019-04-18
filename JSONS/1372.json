@@ -1,0 +1,40 @@
+{
+  "contacts": [
+    {
+      "name": "Jalaja",
+      "email": "jalajasp@yahoo.com",
+      "designation": "Programme Officer",
+      "mobile": []
+    },
+    {
+      "name": "Jalaja",
+      "email": "jalajasp@yahoo.com",
+      "designation": "Programme Officer",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1372",
+  "name": "Vidyanikethan",
+  "primaryEmail": "vidyanik@gmail.com",
+  "website": "www.vidyanikethan.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918041487965",
+    "918041487965"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "Jaraganahalli",
+      "6th Phase, J.P.Nagar,",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560078"
+    ]
+  },
+  "briefDescription": "Vidyanikethan, (Society for Education and Social development) is a not-for-profit organization founded in 1988 to improve the lives and livelihoods of individuals and families, especially children and women, from low income groups and from the vulnerable, marginalized and under-developed sections of the society.Vidyanikethan works in the urban, peri-urban, and rural areas of Karnataka and Tamil Nadu. It works in over 270 villages and overall, its interventions impact 11500 families.",
+  "yearOfEstablishment": "1988"
+}

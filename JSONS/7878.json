@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Tushar Ashok Bagul",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7878",
+  "name": "Wajood Foundation",
+  "primaryEmail": "wajoodfoundation@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "918600740099"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Office No-02,Plot No-110, Veena Apt ,Shivganga Nagar",
+      "Next To Indicash Atm",
+      "Ambarnath",
+      "Thane",
+      "Maharashtra",
+      "421501"
+    ]
+  }
+}

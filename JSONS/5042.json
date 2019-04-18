@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "name": "DR.S.P.PRAMANIK",
+      "email": "mgm.india.edu@gmail.com",
+      "designation": "FOUNDER & SECRETORY",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5042",
+  "name": "MATTEI GROUP OF MISSION",
+  "primaryEmail": "mgm.india.edu@gmail.com",
+  "website": "www.mgmeducation.org.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919932428199"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "KAKDWIP SOUTH 24 PARGANAS",
+      "117,NH ROAD",
+      "South 24 Parganas",
+      "West Bengal",
+      "743347"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "not provided",
+      "South 24 Parganas",
+      "West Bengal",
+      "743347"
+    ]
+  }
+}

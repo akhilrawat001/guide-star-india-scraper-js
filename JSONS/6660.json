@@ -1,0 +1,38 @@
+{
+  "contacts": [
+    {
+      "name": "Manikanta Kamatam",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "8939912365"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6660",
+  "name": "Team Everest",
+  "primaryEmail": "info@teameverestindia.org",
+  "website": "www.teameverestindia.org",
+  "organisationType": [
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "918939912365",
+    "918939712365"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "5/1B",
+      "Mahaveer Street, Arni Palyam",
+      "Arni",
+      "Tiruvannamalai",
+      "Tamil Nadu",
+      "632301"
+    ]
+  },
+  "briefDescription": "Team Everest is one of the biggest youth run NGO in India. We have 9500+ volunteers with our focus on motivating individuals to volunteer atleast once a month (12/365) and make a difference by providing quality education to under privileged children through volunteering. We have touched the lives of 8,00,000 Children in the past 10 years through our various volunteering opportunities. Team Everest Mantra is “Volunteer atleast once a month (12/365)”. For more details, please check www.teameverestindia.org",
+  "yearOfEstablishment": "2009"
+}

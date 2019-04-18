@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Ratikanta Nayak",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8410",
+  "name": "RURAL DEVELOPMENT CENTRE",
+  "primaryEmail": "rdcngo.bls@gmail.com",
+  "website": "www.rdcodisha.org",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919937625758"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "Rural Development Centre (RDC)",
+      "At/po- Bahanaga,",
+      "Balasore",
+      "Baleswar",
+      "Odisha",
+      "756042"
+    ]
+  }
+}

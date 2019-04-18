@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Shankar Krishnamoorthy",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9019",
+  "name": "BLUESUN FOUNDATION",
+  "primaryEmail": "skm@bluesunfoundation.com",
+  "website": "www.bluesunfoundation.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Grant-making",
+    "Support"
+  ],
+  "telephone": [
+    "919884084089"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "2/581 Singaravelan Rd",
+      "1st cross st",
+      "Chinna neelangarai",
+      "Chennai",
+      "Tamil Nadu",
+      "280569"
+    ]
+  }
+}

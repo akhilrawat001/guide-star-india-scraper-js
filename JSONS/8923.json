@@ -1,0 +1,38 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8923",
+  "name": "YUVA KRIDA MANDAL BAHUDDESHIYA SANSTHA",
+  "primaryEmail": "yuvakrida15@rediffmail.com",
+  "website": "www.yuvakridamandal.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "918605180466"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Care of Gajanan Sadanshiv",
+      "Khadki Takli Post Sukoda",
+      "Akola",
+      "Maharashtra",
+      "444001"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "C/O Gajanan Sadnshiv Shastri Nagar Khadan",
+      "Near Shiv Tempal Akola",
+      "Akola",
+      "Maharashtra",
+      "444001"
+    ]
+  }
+}

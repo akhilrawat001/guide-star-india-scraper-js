@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Neerja Pahwa Sardana",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6363",
+  "name": "Shrimati Subhash Pahwa Memorial Educational Society",
+  "primaryEmail": "jagritithebanyantreeschool97@gmail.com",
+  "website": "http://subhashpahwamemorialeducational.blogspot.com",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "919810113209"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "1268, Bara Bazar",
+      "Kashmere Gate",
+      "Delhi",
+      "New Delhi",
+      "110006"
+    ]
+  }
+}

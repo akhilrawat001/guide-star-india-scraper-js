@@ -1,0 +1,27 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6251",
+  "name": "RAJYOG FOUNDATION",
+  "primaryEmail": "rajyogfoundation@gmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Intermediary",
+    "Support"
+  ],
+  "telephone": [
+    "919821184292"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "13, Om apartment,",
+      "tilak road, near sarvesh hall, below jyotirmay hospital,",
+      "Dombivli [E], Mumbai",
+      "Thane",
+      "Maharashtra",
+      "421201"
+    ]
+  }
+}

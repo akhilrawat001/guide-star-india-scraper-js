@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "V K Yadav",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3601",
+  "name": "Visible Research Educational and Environment Society Of India",
+  "primaryEmail": "vreesiindia@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "0118802208790"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "Post Box No.9276",
+      "Krishna Nagar Head Post Office",
+      "Delhi",
+      "East Delhi",
+      "110051"
+    ]
+  }
+}

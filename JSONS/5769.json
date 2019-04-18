@@ -1,0 +1,26 @@
+{
+  "contacts": [
+    {
+      "name": "Dr Sukumar Kar",
+      "email": "babita_mandale@hotmail.com",
+      "designation": "Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5769",
+  "name": "GLOBAL ENVIRONMENT RESEARCH FOUNDATION",
+  "primaryEmail": "babita_mandale@hotmail.com",
+  "telephone": [
+    "913365459318",
+    "919331766088"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "A 10/316",
+      "Nadia",
+      "West Bengal",
+      "741235"
+    ]
+  }
+}

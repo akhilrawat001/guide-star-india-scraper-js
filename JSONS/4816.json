@@ -1,0 +1,31 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4816",
+  "name": "AGB FOUNDATION",
+  "primaryEmail": "agbfoundation@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919344702811"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "3/53, North Street, Melayakudi,",
+      "Paramakudi, Ramanathapuram",
+      "Ramanathapuram",
+      "Tamil Nadu",
+      "623707"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "31, Mothilal, 2nd Street,",
+      "Madurai",
+      "Tamil Nadu",
+      "625016"
+    ]
+  }
+}

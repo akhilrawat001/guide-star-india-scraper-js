@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Mr.Rahul Yadav",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "8826758692"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7674",
+  "name": "BUNDELKHAND VIKAS SAMITI",
+  "primaryEmail": "bdsup.org@gmail.com",
+  "website": "http://bdsup.org/",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Support"
+  ],
+  "telephone": [
+    "918826758692"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "37,Mahaveer Pura",
+      "Orai",
+      "Jalaun",
+      "Uttar Pradesh",
+      "285001"
+    ]
+  }
+}

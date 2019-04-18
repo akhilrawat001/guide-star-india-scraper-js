@@ -1,0 +1,37 @@
+{
+  "contacts": [
+    {
+      "name": "Somya",
+      "email": "mangalam.foundation@yahoo.com",
+      "designation": "Administrator",
+      "mobile": []
+    },
+    {
+      "name": "Somya",
+      "email": "mangalam.foundation@yahoo.com",
+      "designation": "Administrator",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3588",
+  "name": "Mangalam Charitable Foundation",
+  "primaryEmail": "mangalam.foundation@yahoo.com",
+  "website": "http://www.mangalamfoundation.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919167157626"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "702, Neelsidhi Enclave, Sector-14, Vashi, Navi Mumbai - 400703",
+      "Near Navi Mumbai Merchant Gymkhana",
+      "Navi Mumbai",
+      "Thane",
+      "Maharashtra",
+      "400703"
+    ]
+  }
+}

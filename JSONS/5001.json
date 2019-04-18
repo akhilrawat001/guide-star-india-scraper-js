@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Balvir singh",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5001",
+  "name": "Social Welfare and Research Group (SWARG) Sansthan",
+  "primaryEmail": "swargrajasthan09@gmail.com",
+  "website": "www.swarganngo.blogspot.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919460293733"
+  ],
+  "mainAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "786 Dr. Shayama Prasad Mukharjee Nagar Bharatpur -321001(raj)",
+      "Deed Road",
+      "Bharatpur",
+      "Rajasthan",
+      "321001"
+    ]
+  }
+}

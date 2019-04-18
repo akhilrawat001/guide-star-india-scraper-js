@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Pooja Verma",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "9970576828"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4840",
+  "name": "Trinity Foundation",
+  "primaryEmail": "mail.trinityfoundation@gmail.com",
+  "website": "www.trifo.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919970576828"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Plot No. 72",
+      "Oppsite Sony Center, Hill Road, Ram Nagar",
+      "Nagpur",
+      "Maharashtra",
+      "440033"
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "name": "Madhav Chavan (Dr)",
+      "email": "madhavchavan@gmail.com",
+      "designation": "Trustee & Director- Programme",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=291",
+  "name": "Pratham Education Foundation",
+  "primaryEmail": "prathamindia_accounts@rediffmail.com",
+  "website": "www.pratham.org",
+  "organisationType": [
+    "Direct Service",
+    "Network"
+  ],
+  "telephone": [
+    "912222881033",
+    "919821184632",
+    "912222875809"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "1203-06, Arcadia",
+      "12th Floor, 195 NCPA Road, Nariman Point",
+      "Mumbai",
+      "Maharashtra",
+      "400021"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Maharashtra"
+    ]
+  }
+}

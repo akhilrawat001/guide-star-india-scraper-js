@@ -1,0 +1,37 @@
+{
+  "contacts": [
+    {
+      "name": "Rakesh Nair",
+      "email": "manavseva@vsnl.com",
+      "designation": "General Secretary",
+      "mobile": [
+        "91-551-2261396",
+        "91-8691933000"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4742",
+  "name": "Manav Seva Sansthan SEVA",
+  "primaryEmail": "manavseva@vsnl.com",
+  "website": "www.manavsevaindia.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network"
+  ],
+  "telephone": [
+    "918691933000"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "Vikas Nagar Colony, P.O. Fertilizer",
+      "Bargadwa",
+      "Gorakhpur",
+      "Uttar Pradesh",
+      "273007"
+    ]
+  },
+  "briefDescription": "Manav Seva Sansthan \"SEVA\" has recognized itself lucratively at the grassroots level in the North Eastern Belt of U.P. and Bihar and has proved to be an ideal sculpt of an society working in close coordination with the remotest community at the grassroots, while acquiring very low administrative costs. The general objective of MSS’s thematic Programme is to support the underprivileged and underserved communities to assert their rights and realize their entitlements. The Programme covers all the essential thematic facets like livelihood, food security, education, health, and women and child violence. In terms of the Programme’s geographical approach MSS prefers to work in neglected geographic areas and backward districts",
+  "yearOfEstablishment": "1988"
+}

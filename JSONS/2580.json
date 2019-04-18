@@ -1,0 +1,38 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2580",
+  "name": "TECHNOLOGY INFORMATICS DESIGN ENDEAVOUR",
+  "primaryEmail": "info@tide-india.org",
+  "website": "www.tide-india.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918023612032",
+    "918023612031"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "No. 19 9th Cross",
+      "6th Main, Malleshwaram",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560003"
+    ]
+  },
+  "briefDescription": "VISION:Towards a world where innovations positively and equitably impact all sections of society and environmentMISSION:To develop, adapt and disseminate technological products and processes that meet rural and urban livelihood needs sustainably.",
+  "yearOfEstablishment": "1993",
+  "regiseredAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "82/1F, Kinatukara Buildings",
+      "4th Main Road, Malleswaram,",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560003"
+    ]
+  }
+}

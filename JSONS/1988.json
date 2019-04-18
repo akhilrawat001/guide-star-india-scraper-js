@@ -1,0 +1,37 @@
+{
+  "contacts": [
+    {
+      "name": "ANDRE SARKAR",
+      "email": "",
+      "designation": "PRESIDENT",
+      "mobile": []
+    },
+    {
+      "name": "ANDRE SARKAR",
+      "email": "",
+      "designation": "PRESIDENT",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1988",
+  "name": "NONADANGA SARADA SHILPA NIKETAN",
+  "primaryEmail": "saviojohn20@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Network"
+  ],
+  "telephone": [
+    "913483200095",
+    "919062661770"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "P.O. KHATUA",
+      "BERHAMPORE WB",
+      "Murshidabad",
+      "West Bengal",
+      "733134"
+    ]
+  }
+}

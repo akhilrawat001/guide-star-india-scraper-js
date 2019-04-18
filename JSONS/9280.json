@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Santosh Ranjan Tamuli",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9280",
+  "name": "SAMPRITI (Socio Economic & Educational Dev. Organization)",
+  "primaryEmail": "santosh_tamuli@rediffmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919435052822",
+    "919127487476"
+  ],
+  "mainAddrress": {
+    "state": "Assam",
+    "address": [
+      "Club Road Bongal Pukhury, Khelmati, Jorhat",
+      "Jorhat",
+      "Assam",
+      "785001"
+    ]
+  },
+  "yearOfEstablishment": "2012"
+}

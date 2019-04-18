@@ -1,0 +1,27 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1510",
+  "name": "Nanban",
+  "primaryEmail": "james@nanbanindia.org",
+  "website": "www.nanbanindia.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "914522383339",
+    "919443723842"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "Maria Complex",
+      "Ashok Nagar 3rd street, Kochadai,",
+      "Madurai",
+      "Tamil Nadu",
+      "625016"
+    ]
+  }
+}

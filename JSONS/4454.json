@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Mr. Innyasi. R",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4454",
+  "name": "Rural Development Organisation",
+  "primaryEmail": "rdo_org2002@yahoo.co.in",
+  "website": "rdoap.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918632290447",
+    "918632290447"
+  ],
+  "mainAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "Door.NO. 8-59/1,L.n.colony, Perecheral, post, Medkiondur(M),Guntur, Dt, Andhra Pradesh, India 522009",
+      "L.n.colony, Perecheral, villages, Medkindur(M),Guntur, Dt,AP, India",
+      "Guntur",
+      "Andhra Pradesh",
+      "522009"
+    ]
+  }
+}

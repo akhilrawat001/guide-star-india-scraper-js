@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Laxmikanta Nayak",
+      "email": "laxmikanta84@gmail.com",
+      "designation": "Marketing Director",
+      "mobile": [
+        "91-9937392047"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3225",
+  "name": "Wings Charitable Trust Group",
+  "primaryEmail": "wctgroup.kpr@gmail.com",
+  "telephone": [
+    "919937392047"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "Khairabad",
+      "Gulnagar",
+      "Bhubaneswar",
+      "Kendrapara",
+      "Odisha",
+      "754250"
+    ]
+  }
+}

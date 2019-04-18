@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "name": "Sanjay Darbu",
+      "email": "",
+      "designation": "Managing Trustee",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=615",
+  "name": "Om Foundation",
+  "primaryEmail": "info@omfoundation.in",
+  "website": "www.omfoundation.in",
+  "telephone": [
+    "911204329901",
+    "911204329902",
+    "911204329901"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "D-92, Sector-63",
+      "Noida",
+      "Gautam Buddha Nagar",
+      "Uttar Pradesh",
+      "201301"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "C-11, Tarang Apartments",
+      "I P Extension",
+      "New Delhi",
+      "Delhi",
+      "110092"
+    ]
+  }
+}

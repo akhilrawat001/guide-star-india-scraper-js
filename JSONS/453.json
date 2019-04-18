@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Kavitha",
+      "email": "donation@snmail.org",
+      "designation": "Secretaries Fund Raising Department",
+      "mobile": [
+        "91-44-28271616"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=453",
+  "name": "Medical Research Foundation",
+  "primaryEmail": "information@snmail.org",
+  "website": "http://www.sankaranethralaya.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "914428261265",
+    "914428254180",
+    "914428261265"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "18, College Road",
+      "Chennai",
+      "Tamil Nadu",
+      "600006"
+    ]
+  }
+}

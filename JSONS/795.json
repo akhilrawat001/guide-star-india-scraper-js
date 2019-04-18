@@ -1,0 +1,35 @@
+{
+  "contacts": [
+    {
+      "name": "Sandhya Devi",
+      "email": "",
+      "designation": "Managing Trustee",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=795",
+  "name": "EKTA Parishad Trust",
+  "primaryEmail": "savetribal@yahoo.com",
+  "website": "www.ektaparishadtrust.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "916756223439",
+    "916756223316",
+    "919437140550",
+    "916756223224"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "At - Mangaraj Pur, Po - Banpur",
+      "Khordha",
+      "Odisha",
+      "752031"
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Vinod Jain",
+      "email": "vinod.jain@kgkmail.com",
+      "designation": "Chartered Accountant",
+      "mobile": [
+        "91-9829056500"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3492",
+  "name": "Bhagwan Mahaveer Cancer Hospital and Research Centre",
+  "primaryEmail": "vinod.jain@kgkmail.com",
+  "telephone": [
+    "911412700107",
+    "911415107777",
+    "911412700107"
+  ],
+  "mainAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "Jawahar lal Nehru marg,",
+      "Near Saras Parlour",
+      "Jaipur",
+      "Rajasthan",
+      "302017"
+    ]
+  }
+}

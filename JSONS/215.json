@@ -1,0 +1,34 @@
+{
+  "contacts": [
+    {
+      "name": "Jaspreet Kaur Pannu",
+      "email": "",
+      "designation": "Head- Resource Mobilisation",
+      "mobile": []
+    },
+    {
+      "name": "Jaspreet Kaur Pannu",
+      "email": "",
+      "designation": "Head- Resource Mobilisation",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=215",
+  "name": "The Valaya Magic Foundation",
+  "primaryEmail": "magic@valaya.com",
+  "telephone": [
+    "911126800000",
+    "919899954000",
+    "911244365089"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "7 Khullar Farms, Mandi Road",
+      "New Delhi",
+      "South Delhi",
+      "Delhi",
+      "110030"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "contacts": [
+    {
+      "name": "Dayanand B Panse",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6523",
+  "name": "Ecosan Services Foundation",
+  "primaryEmail": "ecosan@ecosanservices.org",
+  "website": "http://www.ecosanservices.org/",
+  "organisationType": [
+    "Direct Service",
+    "Intermediary"
+  ],
+  "telephone": [
+    "912064000736",
+    "912064000736"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "First Floor, 24 Prashant Nagar, 721/1 Navi Peth",
+      "Off LBS Road, Near Kaka Halwai",
+      "Pune",
+      "Maharashtra",
+      "411030"
+    ]
+  },
+  "briefDescription": "ESF is a non-profit organization operating in the water and sanitation sector. Our core areas are capacity building, consulting and funded projects related to ecological sanitation, school sanitation, and natural wastewater treatment solutions. We have conducted projects across India.",
+  "yearOfEstablishment": "2006",
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "1002/42 Vishwa Chandra",
+      "Rajendra Nagar, Navi Peth",
+      "Pune",
+      "Maharashtra",
+      "411030"
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "contacts": [
+    {
+      "name": "H.M. Amitha",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "9902436298"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6899",
+  "name": "CENTRE FOR SOCIAL ACTION TRUST",
+  "primaryEmail": "csatrust@gmail.com",
+  "website": "www.csatrust.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "00919902436298"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "No 2, 5th Cross, P and T Layout,",
+      "Horamavu, Kalyan Nagar Post",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560043"
+    ]
+  },
+  "briefDescription": "We focus on: 1). Care and rehabilitation of children and adolescents with disabilities2). Education of orphan, semi-orphan, disabled and destitute children3). Promoting group processes and networking among the rural poorCSA Trust was founded solely for public charitable purposes and is irrevocable. Its benefits are open to all irrespective of any differences.",
+  "yearOfEstablishment": "1993",
+  "regiseredAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "849/1",
+      "Ramdev Gardens,Kacharakanahalli",
+      "Banglore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560084"
+    ]
+  }
+}

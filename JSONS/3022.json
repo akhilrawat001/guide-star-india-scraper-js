@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Krishan Veer Singh Rajwat",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3022",
+  "name": "Uma Shiv Sai Samaj Sewa Sansthan",
+  "primaryEmail": "krishanveer577@gmail.com",
+  "website": "www.usssssngo.blogspot.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "917599203142"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "2/335, Awas Vikas Calony,Mainpuri (U.P)",
+      "Mainpuri",
+      "Uttar Pradesh",
+      "205001"
+    ]
+  },
+  "briefDescription": "Uma Shiv Sai Samaj Sewa Sansthan",
+  "yearOfEstablishment": "2011"
+}

@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Nita Singh",
+      "email": "nita.snh@gmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8149",
+  "name": "SADHAN",
+  "primaryEmail": "nita.snh@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "913262220287",
+    "913262220287"
+  ],
+  "mainAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "Hem towers",
+      "Luby Circular Road",
+      "Hirapur",
+      "Dhanbad",
+      "Jharkhand",
+      "826001"
+    ]
+  }
+}

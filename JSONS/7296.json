@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Lakshmikandan",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7296",
+  "name": "GRAMA VALARCHI",
+  "primaryEmail": "gramavalarchi@gmail.com",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "919840656140"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "23,",
+      "Newcolony Main Road,",
+      "Adambakkam",
+      "Kancheepuram",
+      "Tamil Nadu",
+      "600088"
+    ]
+  }
+}

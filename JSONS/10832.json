@@ -1,0 +1,36 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10832",
+  "name": "Rajshreeman Vikas Evam Prashikshan Trust",
+  "primaryEmail": "RAJSHREEMAN.NGO@GMAIL.COM",
+  "website": "www.rajshreeman.com",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "919799901472"
+  ],
+  "mainAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "Care of Manju Sharma I P Colony Ramganj Mandi",
+      "ramganjmandi",
+      "Ramganjmandi",
+      "Kota",
+      "Rajasthan",
+      "326519"
+    ]
+  },
+  "briefDescription": "Rajshreeman Vikas Evam Prashikshan Trust is located in Ajmer, Rajasthan.",
+  "yearOfEstablishment": "2011",
+  "regiseredAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "1-A-1 Indraprastha Colony Ramganjmandi",
+      "Ramganjmandi",
+      "Kota",
+      "Rajasthan",
+      "326519"
+    ]
+  }
+}

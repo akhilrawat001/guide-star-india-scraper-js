@@ -1,0 +1,36 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10509",
+  "name": "CHETAK GROWTH AND DEVELOPMENT (CULTURE AND CIVILIZATION) WELFARE SOCIETY",
+  "primaryEmail": "ramata.yogi@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Intermediary",
+    "Support"
+  ],
+  "telephone": [
+    "919417491359"
+  ],
+  "mainAddrress": {
+    "state": "Punjab",
+    "address": [
+      "Plot no 15",
+      "Bhawanigarh chowk,Cheeka Road",
+      "Samana",
+      "Patiala",
+      "Punjab",
+      "147101"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Punjab",
+    "address": [
+      "Growth and development society",
+      "Near Canadian Palace",
+      "Nadampur, Sangrur",
+      "Sangrur",
+      "Punjab",
+      "148026"
+    ]
+  }
+}

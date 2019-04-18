@@ -1,0 +1,35 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10278",
+  "name": "B. K. WELFARE FOUNDATION (NGO)",
+  "primaryEmail": "bkwelfarefoundation@gmail.com",
+  "website": "bkwelfarefoundation.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service"
+  ],
+  "telephone": [
+    "910870000289"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "Plot No -A/25",
+      "Street No-2",
+      "Subhash Mouhalla Moujpur",
+      "East Delhi",
+      "Delhi",
+      "110053"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "Plot No-A/25",
+      "Street No-2 Subhash Mouhalla Moujpur",
+      "Delhi",
+      "East Delhi",
+      "110053"
+    ]
+  }
+}

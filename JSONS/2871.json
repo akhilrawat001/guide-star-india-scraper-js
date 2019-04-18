@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "name": "Jayshree Arjav Vora",
+      "email": "vatsalyatrust@gmail.com",
+      "designation": "Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2871",
+  "name": "Vatsalya Education and Charitable Trust",
+  "primaryEmail": "vatsalyatrust@gmail.com",
+  "telephone": [
+    "912816640141",
+    "919904919151"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "2nd Floor Krishna Shrushti Appartment",
+      "10 Junction Plot",
+      "Rajkot",
+      "Gujarat",
+      "360001"
+    ]
+  },
+  "briefDescription": "Our goal is to overcome poverty and ensuring a life of dignity and security for the marginalized sections of the society. Our key focus is upliftment of women  homeless peoples and unemployed persons to enable them to realise their rights, avail resources and opportunities fight social injustice, develop leadership capabilities and build a better future for themselvesOur VisionWe seek a world of hope, tolerance and social justice, where poverty has been overcome and people live in dignity and security.Our MissionVatsalya helps alleviate poverty and social exclusion by facilitating empowerment of women,  Homeless peoples and unemployed persons from poor and marginalised sections.",
+  "yearOfEstablishment": "2008",
+  "regiseredAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "VATSALYA",
+      "Trishul Chok Sahakar Main Road",
+      "Rajkot",
+      "Gujarat",
+      "360002"
+    ]
+  }
+}

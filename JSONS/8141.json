@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "Zulfikar Ali NIyazi",
+      "email": "saqtifoundation@gmail.com",
+      "designation": "Trustee",
+      "mobile": [
+        "91-33-22350008",
+        "91-8100051555"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8141",
+  "name": "The Sirri Saqti Foundation",
+  "primaryEmail": "saqtifoundation@gmail.com",
+  "website": "www.saqti.org",
+  "organisationType": [
+    "Direct Service",
+    "Intermediary"
+  ],
+  "telephone": [
+    "918100051555"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "2, Rajmohan Street",
+      "Near Nakhoda Mosque",
+      "Kolkata",
+      "West Bengal",
+      "700073"
+    ]
+  },
+  "briefDescription": "TSSF is a Volunteer Group of people who believe that it's 'better to light a candle than to curse the darkness'. TSSF runs 2 charitable clinics in Kolkata (with medicines), provides medical and pension support, conducts educational counselling and scholarship support, food, clothes and blanket distribution projects and cleanliness initiatives.",
+  "yearOfEstablishment": "2012"
+}

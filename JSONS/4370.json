@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Swapnil D. Waghmare",
+      "email": "adarsh.mahila.sanstha@gmail.com",
+      "designation": "Vice-President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4370",
+  "name": "ADARSH  MAHILA  SEVABHAVI  SANSTHA",
+  "primaryEmail": "adarsh.mahila.sanstha@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918806390631"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "22/A, Deogiri Valley",
+      "Near Machindranath Temple",
+      "Mitmita, At Post:  Padegoan",
+      "Aurangabad",
+      "Maharashtra",
+      "431001"
+    ]
+  }
+}

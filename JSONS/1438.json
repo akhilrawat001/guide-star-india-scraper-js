@@ -1,0 +1,27 @@
+{
+  "contacts": [
+    {
+      "name": "Jinka Santhamma",
+      "email": "",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1438",
+  "name": "Mother Theresa Mahila Mandali",
+  "primaryEmail": "drds.kadapa@gmail.com",
+  "telephone": [
+    "919848437810"
+  ],
+  "mainAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "Door.No. 3/24",
+      "Surendra Nagar, Badvel,",
+      "Badvel",
+      "YSR District, Kadapa (Cuddapah)",
+      "Andhra Pradesh",
+      "516227"
+    ]
+  }
+}

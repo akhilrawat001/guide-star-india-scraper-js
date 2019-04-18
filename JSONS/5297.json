@@ -1,0 +1,41 @@
+{
+  "contacts": [
+    {
+      "name": "N.P.MISHRA",
+      "email": "dcay@vsnl.net",
+      "designation": "PRESIDENT",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5297",
+  "name": "DEPRIVED CHILD ! AND YOU",
+  "primaryEmail": "dcay@vsnl.net",
+  "website": "www.deprivedchild.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "912228514515",
+    "912228514515"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "7- GYANESHWAR BHAVAN",
+      "PEREIRAWADI ROAD",
+      "SAKINAKA,MUMBAI",
+      "Mumbai Suburban",
+      "Maharashtra",
+      "400072"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Not provided",
+      "Mumbai",
+      "Maharashtra",
+      "400072"
+    ]
+  }
+}

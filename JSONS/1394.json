@@ -1,0 +1,25 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1394",
+  "name": "Shri Om Sai Charitable Health & Education Trust",
+  "primaryEmail": "pvidhani1@gmail.com",
+  "website": "www.saieducation.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "912912514503",
+    "912912517452",
+    "912912514503"
+  ],
+  "mainAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "B-37 Umaid Club Road",
+      "Jodhpur",
+      "Rajasthan",
+      "342001"
+    ]
+  }
+}

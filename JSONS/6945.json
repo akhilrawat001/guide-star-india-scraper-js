@@ -1,0 +1,47 @@
+{
+  "contacts": [
+    {
+      "name": "Suraj Patro",
+      "email": "suraj@oscar-foundation.org",
+      "designation": "Associate Director",
+      "mobile": [
+        "91-22-22630718",
+        "91-9619254979"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6945",
+  "name": "OSCAR(Organisation for Social Change Awareness and Responsibility) Foundation",
+  "primaryEmail": "info@-oscar-foundation.org",
+  "website": "www.oscar-foundation.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "912269529005",
+    "919619254979",
+    "919967218287"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "301/302, 3rd Floor, Malhotra Chambers, 31/33 Police court Lane, Fort",
+      "Near Khadi Bhandar",
+      "Mumbai",
+      "Maharashtra",
+      "400001"
+    ]
+  },
+  "briefDescription": "The Organisation for Social Change, Awareness and Responsibility (OSCAR) is a not-for-profit organisation which provides high quality football coaching to underprivileged boys and girls in Mumbai and across different areas of India. OSCAR runs a unique programme that not only teaches sport to children & youth but also helps them to understand the value of education.OSCAR's vision is to create a world that enables youth to become role models through sport, to take active roles in various community initiatives and to mobilise other members of their community by using sport for positive social change.OSCAR's Mission To use sports to teach life skill, positive values and enable active citizenship.",
+  "yearOfEstablishment": "2010",
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Room No.363, Lane No.14, Dr. Babasaheb Ambedkar Nagar,",
+      "Sadhu T.L. Waswani Marg Cuffe Parade, Colaba",
+      "Mumbai",
+      "Maharashtra",
+      "400005"
+    ]
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "contacts": [
+    {
+      "name": "Radhika Gadiyar",
+      "email": "gadiyar.radhika@gmail.com",
+      "designation": "Help Desk",
+      "mobile": []
+    },
+    {
+      "name": "Radhika Gadiyar",
+      "email": "gadiyar.radhika@gmail.com",
+      "designation": "Help Desk",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8764",
+  "name": "Vidyadaan Sahayyak Mandal Thane",
+  "primaryEmail": "vsmthane@gmail.com",
+  "website": "http://vsmthane.org/",
+  "organisationType": [
+    "Direct Service",
+    "Grant-making",
+    "Support"
+  ],
+  "telephone": [
+    "919323959433"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Block No. 2, 1st Staircase, 1st Floor, S.T. Stand,",
+      "S.T. Stand, Khopat,",
+      "Thane (W)",
+      "Thane",
+      "Maharashtra",
+      "400602"
+    ]
+  },
+  "briefDescription": "Vidyadaan Sahayyak Mandal (VSM), Thane is a registered Charitable Trust working in the field of education, providing financial support to students from weaker sections of society to complete education and become self-sufficient.",
+  "yearOfEstablishment": "2008",
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "D-119, Chandravadan,",
+      "Ganeshwadi, Opp. Kaushalya Hospital",
+      "Thane(W)",
+      "Thane",
+      "Maharashtra",
+      "400602"
+    ]
+  }
+}

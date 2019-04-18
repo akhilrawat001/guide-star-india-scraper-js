@@ -1,0 +1,41 @@
+{
+  "contacts": [
+    {
+      "name": "Madhavi Deshpande",
+      "email": "meljolmumbai@yahoo.co.in",
+      "designation": "Coordinator",
+      "mobile": [
+        "91-22-25390470"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=404",
+  "name": "Meljol",
+  "primaryEmail": "meljolmumbai@yahoo.co.in",
+  "website": "http://www.meljol.net",
+  "organisationType": [
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "912223081050",
+    "912223081050"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Room No 47, 2nd Floor",
+      "Gilder Lane Municipal School Building, Mumbai Central",
+      "Mumbai",
+      "Maharashtra",
+      "400008"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Maharashtra"
+    ]
+  }
+}

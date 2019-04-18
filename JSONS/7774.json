@@ -1,0 +1,52 @@
+{
+  "contacts": [
+    {
+      "name": "MR.RAGHLAND DANIEL SAMUEL",
+      "email": "raghlanddaniel@gmail.com",
+      "designation": "TRUSTEE",
+      "mobile": []
+    },
+    {
+      "name": "MR.RAGHLAND DANIEL SAMUEL",
+      "email": "raghlanddaniel@gmail.com",
+      "designation": "TRUSTEE",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7774",
+  "name": "THE SATKAARYA TRUST",
+  "primaryEmail": "srisatkaarya@gmail.com",
+  "website": "www.thesatkaaryatrust.in",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "914426642033",
+    "914426642033"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "12A, CHENGALVARAYAN STREET",
+      "SHENOY NAGAR",
+      "CHENNAI",
+      "Chennai",
+      "Tamil Nadu",
+      "600030"
+    ]
+  },
+  "briefDescription": "for the past 10 years we are an NGO striving to help children help themselves for life. We focus on children who are orphan, wards of single parent, children from abused homes, children rescued from early marriage and wards of migrant workers.  A holistic care and nurture is provided to girls and boys aged between 6 to 18 and after care for young adults.",
+  "yearOfEstablishment": "2010",
+  "regiseredAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "12A, Chengalvarayan street",
+      "shenoy nagar",
+      "chennai",
+      "Chennai",
+      "Tamil Nadu",
+      "600030"
+    ]
+  }
+}

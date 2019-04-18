@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Sasti Laha",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8986",
+  "name": "Birbhum Bolpur People Living with HIV/AIDS Society",
+  "primaryEmail": "bbpsplus@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919474307515"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Netaji Road, Nichupatty(Near Addya sakti club and INDANE Gas Office),",
+      "P.O. &P.S.:-Bolpur,Birbhum,",
+      "Bolpur",
+      "Birbhum",
+      "West Bengal",
+      "731204"
+    ]
+  }
+}

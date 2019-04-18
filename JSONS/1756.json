@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Yeshwant Kunde",
+      "email": "sandesh.sanstha@gmail.com",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1756",
+  "name": "Sandesh Bahuuddeshiya Samajik Sanstha",
+  "primaryEmail": "sandesh.sanstha@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919922294373"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Taket Bhu",
+      "Igatpuri",
+      "Nashik",
+      "Maharashtra",
+      "422403"
+    ]
+  }
+}

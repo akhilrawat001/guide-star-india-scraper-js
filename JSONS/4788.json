@@ -1,0 +1,37 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4788",
+  "name": "Tarang Life Care Foundation",
+  "primaryEmail": "imtarang@gmail.com",
+  "website": "http://www.tarang.org",
+  "organisationType": [
+    "Direct Service",
+    "Network"
+  ],
+  "telephone": [
+    "912242560077",
+    "912242560077"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "5A,106, 1st floor, Akshay Building, Kush Infosystem",
+      "Mittal Industrial Estate, Andheri East",
+      "Andheri East",
+      "Mumbai Suburban",
+      "Maharashtra",
+      "400059"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "24, 2ND FLOOR, NAND DEEP INDUSTRIAL ESTATE,",
+      "KONDIVITA ROAD",
+      "ANDHERI EAST",
+      "Mumbai Suburban",
+      "Maharashtra",
+      "400059"
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3519",
+  "name": "Public Affairs Centre",
+  "primaryEmail": "mail@pacindia.org",
+  "website": "www.pacindia.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Support"
+  ],
+  "telephone": [
+    "918027839918",
+    "918027839919",
+    "918027839920"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "Public Affairs Centre-15, KIADB Industrial Area,",
+      "Jigani-Bommasandra Link Road",
+      "Jigani Post, Anekal Taluk;",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560105"
+    ]
+  },
+  "briefDescription": "Public Affairs Centre is engaged in governance and policy research through the development of social accountability tools such as Citizen Report Cards, Community Score Cards, and Climate Change Scorecard. These tools are developed to capture stakeholder knowledge and perspectives on issues related to public service delivery, resource management and impact of climate change. PAC believes in evidence-based advocacy through results generated from research to facilitate policy makers to enhance inclusive and participatory decision making. Public Affairs Centre undertakes pan India research and works closely with all stakeholders ranging from local communities, governments, Civil Society Organisations and aims to capture citizen voices throughout the region.",
+  "yearOfEstablishment": "1994"
+}

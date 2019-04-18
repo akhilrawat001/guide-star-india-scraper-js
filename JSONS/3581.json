@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "SURESH P GANATRA",
+      "email": "sedc104@gmail.com",
+      "designation": "Director - Managing Trustee",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3581",
+  "name": "SAURASHTRA ECONOMIC DEVELOPMENT CENTRE",
+  "primaryEmail": "sedc104@gmail.com",
+  "website": "www.sedcindia.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "912852654107",
+    "912852654107"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "104, Suvidha Complex, Talav Gate, Junagadh",
+      "Junagadh",
+      "Gujarat",
+      "362001"
+    ]
+  }
+}

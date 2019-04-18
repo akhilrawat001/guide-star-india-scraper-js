@@ -1,0 +1,49 @@
+{
+  "contacts": [
+    {
+      "name": "Suchaita Tenneti",
+      "email": "",
+      "designation": "Manager",
+      "mobile": [
+        "91-22-27891050"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1170",
+  "name": "Aarambh",
+  "primaryEmail": "info@aarambh.org",
+  "website": "www.aarambh.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "912227680965",
+    "912227680965"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Gyan Vikas Kendra",
+      "Opp Turbhe Rly Stn",
+      "Turbhe",
+      "Thane",
+      "Maharashtra",
+      "400703",
+      "MTNL.docx"
+    ]
+  },
+  "briefDescription": "Aarambh provides quality education and health care to over 2000 children of migrant workers.We also train women of marginalised communities to  learn skills that will enable them to earn a decent living",
+  "yearOfEstablishment": "1997",
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "146/4922, MIG colony,",
+      "Tilak Nagar",
+      "Mumbai",
+      "Mumbai Suburban",
+      "Maharashtra",
+      "400089",
+      "AP_TelBill_1073.PDF"
+    ]
+  }
+}

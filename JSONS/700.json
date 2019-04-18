@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "name": "Pradip Pradhan",
+      "email": "",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=700",
+  "name": "The Humanity",
+  "primaryEmail": "thehumanity@rediffmail.com",
+  "website": "www.thehumanity.dev4india.org",
+  "telephone": [
+    "916658222159",
+    "919337405756",
+    "916658222138"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "At: Linepara, Post - Patnagarh",
+      "Bolangir",
+      "Balangir",
+      "Odisha",
+      "767025"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Odisha",
+    "address": [
+      "At - G.I.E. -12 V.S.S. Nagar",
+      "Bhabaneshwar",
+      "Puri",
+      "Odisha",
+      "751004"
+    ]
+  }
+}

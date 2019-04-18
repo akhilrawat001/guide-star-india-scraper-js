@@ -1,0 +1,47 @@
+{
+  "contacts": [
+    {
+      "name": "Pravin Alai",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "2318599"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8707",
+  "name": "CRIME PREVENTION COUNCIL & INVESTIGATION",
+  "primaryEmail": "crime.investigation.cpci@gmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Support"
+  ],
+  "telephone": [
+    "912532318599",
+    "912532318599"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "L-4 SUYOJIT CHAMBERS",
+      "NR HOTEL TALK OF THE TOWN TRIMBAK NAKA",
+      "NASHIK",
+      "Nashik",
+      "Maharashtra",
+      "422001"
+    ]
+  },
+  "briefDescription": "WE HAVE ARRANGED CRIME PREVENTION AWARENESS PROGRAMS, BLOOD DONATIONS CAMPS, ROAD SAFETY CAMPS, HEALTH CHECKUP CAMPS, DONATIONS AND CHARITY FOR BEGGARS ETC..",
+  "yearOfEstablishment": "2013",
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "304, R-20, Pratap Complex",
+      "Aruna Park, Vikas Marg",
+      "Shakarpur",
+      "East Delhi",
+      "Delhi",
+      "110092"
+    ]
+  }
+}

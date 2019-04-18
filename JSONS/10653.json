@@ -1,0 +1,34 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10653",
+  "name": "SAMARTH BHARAT VYASPEETH",
+  "primaryEmail": "samarthbharat@gmail.com",
+  "website": "www.signalshala.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919987030916"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Ground floor, Saikrupa CHS., Opp.Devi Darshan Society",
+      "Ghantali Road,Noupada",
+      "Thane west",
+      "Thane",
+      "Maharashtra",
+      "400602"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Flat 301, Sno 120 A/B, Kadambari APARTMENT, PL545/30",
+      "Sinhagad Road/ Parvati",
+      "Pune",
+      "Maharashtra",
+      "411030"
+    ]
+  }
+}

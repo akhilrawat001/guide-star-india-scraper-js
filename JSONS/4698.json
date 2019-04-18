@@ -1,0 +1,48 @@
+{
+  "contacts": [
+    {
+      "name": "Aditi Jha",
+      "email": "aditi@mia.org.in",
+      "designation": "Fundraising and Communication Officer",
+      "mobile": [
+        "91-11-43799100"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4698",
+  "name": "Sarva Jan Unnati Bodhini",
+  "primaryEmail": "mia@mia.org.in",
+  "website": "www.microinsuranceacademy.org",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "911143799100",
+    "911143799117"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "86, 1st Floor",
+      "Phase III",
+      "New Delhi",
+      "South Delhi",
+      "Delhi",
+      "110020"
+    ]
+  },
+  "briefDescription": "The Micro Insurance Academy (MIA) is a global leader in microinsurance research and implementation providing innovative solutions for breaking the cycle of poverty and vulnerability. We leverage community groups and equip them with the skills to design, manage, and govern their own insurance schemes; an approach defined as Community-Based Insurance (CBI). We have applied our CBI model in nine locations throughout India and Nepal, covering more than 27,700 members. We provide technical assistance to microinsurance partners across Asia and Africa supporting over 300,000 individuals. Originally specializing in health insurance, MIA has expanded our portfolio to include life, crop, livestock, and natural catastrophic risks. We push forward the growth of the sector by disseminating research results and engage in advocacy efforts to promote supportive supervision and regulation policies. MIA was awarded “Insurance Education Service Provider of the Year” in 2010 and 2011 by the Asia Insurance Industry. We believe communities have the power to drive change. Join us in helping communities manage risks from the ground up.",
+  "yearOfEstablishment": "2007",
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "C 366",
+      "Defence Colony",
+      "New Delhi",
+      "South Delhi",
+      "Delhi",
+      "110024"
+    ]
+  }
+}

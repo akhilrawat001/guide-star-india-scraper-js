@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "Md Asif Ali",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "9830078687"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5165",
+  "name": "Astitva Foundation",
+  "primaryEmail": "astitva.india@live.com",
+  "website": "http://astitvafoundation.wordpress.com/",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919830078687"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "19C, Cantopher Lane",
+      "Beside Bell Masjid",
+      "Kolkata",
+      "West Bengal",
+      "700014"
+    ]
+  },
+  "briefDescription": "At ASTITVA Foundation we are committed to end the cycle of violence against women and in helping them fight for their rights through education, awareness and prevention programs including crisis counseling and support groups to anyone who has been a victim of violence or is at risk.ASTITVA Foundation is dedicated to empowering women and their families to stay free of violence and abuse in all aspects of their life.",
+  "yearOfEstablishment": "2013"
+}

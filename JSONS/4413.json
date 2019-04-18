@@ -1,0 +1,37 @@
+{
+  "contacts": [
+    {
+      "name": "Dr. Lavanya Suneetha",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "9440516310"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4413",
+  "name": "NIREEKSHANA ACET INDIA",
+  "primaryEmail": "info@nireekshanaacet.org",
+  "website": "http://www.nireekshanaacet.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network"
+  ],
+  "telephone": [
+    "919885150381",
+    "919440516310"
+  ],
+  "mainAddrress": {
+    "state": "Telangana",
+    "address": [
+      "3-5-170/1/5, Adj to Shanthi Theater,",
+      "Narayanguda",
+      "Hyderabad",
+      "Telangana",
+      "500029"
+    ]
+  },
+  "briefDescription": "*Counseling & free medical care for 800 HIV positives including 200 children each month & two community clinics reaching an additional 250 HIV positives in Hyderabad; *Two satellite programs in Visakhapatnam & Hubli reaching 200 HIV positives & their families; *Hospital & home based care to 30 families in Dimapur; *Skill training & rehabilitation of about 100 AIDS widows; *Educational support to 50 HIV infected & 200 HIV affected children each month; *150 AIDS prevention seminars/training annually reaching about 5000 individuals in communities; *Adolescent sex education, prevention of abuse & trafficking in 50 schools reaching 5000 boys & girls annually; *Clinical/ basic research in HIV,TB, leprosy & diseases of poverty.",
+  "yearOfEstablishment": "2007"
+}

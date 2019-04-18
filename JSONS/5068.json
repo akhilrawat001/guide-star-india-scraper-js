@@ -1,0 +1,41 @@
+{
+  "contacts": [
+    {
+      "name": "Kazi Sahanuwaz",
+      "email": "kumarpurrdsociety@yahoo.co.in",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5068",
+  "name": "KUMARPUR RURAL DEVELOPMENT SOCIETY",
+  "primaryEmail": "kumarpurrdsociety@yahoo.co.in",
+  "website": "www.krdsociety.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919732189352"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Vill-Kumarpur,P.O.-Baidyapur Shibtala,P.S.-Madhabdihi,Dist.-Burdwan-712410,West Bengal",
+      "Bengal Hotel,69 No. Rabindra Sarani, Kolkata-700073",
+      "Burdwan",
+      "Bardhaman",
+      "West Bengal",
+      "712410"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "not provided",
+      "Burdwan",
+      "Bardhaman",
+      "West Bengal",
+      "712410"
+    ]
+  }
+}

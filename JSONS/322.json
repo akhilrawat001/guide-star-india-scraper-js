@@ -1,0 +1,40 @@
+{
+  "contacts": [
+    {
+      "name": "V Praveen",
+      "email": "ardar_vvr@yahoo.com",
+      "designation": "Technical Director",
+      "mobile": [
+        "91-891-2525501"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=322",
+  "name": "Association for Rural Development and Action Research",
+  "primaryEmail": "ardar_vvr@yahoo.com",
+  "website": "http://www.ardar.org.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "918912525501"
+  ],
+  "mainAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "G-10, Sri Varshini Enclave",
+      "6-20-20/5, Behind K.D.P.M. High School, East Point Colony",
+      "Visakhapatnam",
+      "Andhra Pradesh",
+      "530017"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "Andhra Pradesh"
+    ]
+  }
+}

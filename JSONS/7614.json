@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Mr.Sanjay Kumar",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7614",
+  "name": "JAGRAN KALYAN  BHARTI",
+  "primaryEmail": "jagrankalyanbharti@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "+919470023344"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "W.NO.03 REGISTRY  OFFICE  ROAD ,FORBESGANJ,",
+      "FORBESGANJ,",
+      "Araria",
+      "Bihar",
+      "854318"
+    ]
+  }
+}

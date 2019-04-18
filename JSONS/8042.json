@@ -1,0 +1,37 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8042",
+  "name": "LANTERN CHARITABLE TRUST",
+  "primaryEmail": "trustlantern@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Grant-making",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "917092400087"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "No.33,3Rd Main Street",
+      "Mvm Nagar",
+      "Dindigul",
+      "Tamil Nadu",
+      "624001"
+    ]
+  },
+  "briefDescription": "The Mission of Lantern Charitable Trust is to create an egalitarian society thereby reducing disparity between classes through a gender- based and human rights approach. It seeks to create a SELF–reliant society by harnessing use of Information Technology enhancing productivity, speed, accountability and thereby overall efficiency in project management. It also seeks to build relationships with in communities by adopting participatory methods, ensuring that the benefits of development reach the disadvantaged and marginalized.",
+  "yearOfEstablishment": "2011",
+  "regiseredAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "No.536,Thanthai Periyar Nagar",
+      "Balakrishnapuram(P.O)",
+      "Dindigul",
+      "Tamil Nadu",
+      "624005"
+    ]
+  }
+}

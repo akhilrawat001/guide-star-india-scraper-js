@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Peeyush Arya",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4260",
+  "name": "Vayam Value Education Foundation",
+  "primaryEmail": "contact@vayamfoundation.org",
+  "website": "http://vayamfoundation.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "910773899455"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "2/42, Suraj Building",
+      "Elphinstone Road,",
+      "Mumbai-400013",
+      "Mumbai",
+      "Maharashtra",
+      "400013"
+    ]
+  }
+}

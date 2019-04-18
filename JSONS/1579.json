@@ -1,0 +1,46 @@
+{
+  "contacts": [
+    {
+      "name": "P.Sekar",
+      "email": "cribgrub@gmail.com",
+      "designation": "President",
+      "mobile": [
+        "91-11-24636066",
+        "91-9582264005"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1579",
+  "name": "Vishwas Sewak Society (NGO)",
+  "primaryEmail": "vishwassewak@gmail.com",
+  "website": "http://www.vishwassewaksociety.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service"
+  ],
+  "telephone": [
+    "911124636066",
+    "919582264005"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "E-107",
+      "B.K. Dutt Colony, Near Jor Bagh Metro Station,",
+      "New Delhi",
+      "Delhi",
+      "110003"
+    ]
+  },
+  "briefDescription": "Women Empowerment-creating job opportunities-training them in handicrafts/helping in marketing.No. of women involved-13Education - chosen 20 students from the Safdarjung area slum dewelling- overall personality development, spoken English, basic Maths and Hindi. The students(11)who are in ixth/xth are given career guidance",
+  "yearOfEstablishment": "2009",
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "1340, Lodhi Road Complex,",
+      "New Delhi",
+      "Delhi",
+      "110003"
+    ]
+  }
+}

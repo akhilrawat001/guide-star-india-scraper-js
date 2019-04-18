@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "RAVI KUMAR VERMA",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5987",
+  "name": "Gramin Vikas Shodh Sansthan",
+  "primaryEmail": "gvss6108@gmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service"
+  ],
+  "telephone": [
+    "919125236108"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "MOH- PAHALWARA, BAHRICH  ROAD, BALRAMPUR",
+      "BALRAMPUR",
+      "Balrampur",
+      "Uttar Pradesh",
+      "271201"
+    ]
+  }
+}

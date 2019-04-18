@@ -1,0 +1,26 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1327",
+  "name": "Shree Ramana Maharishi Academy for the Blind",
+  "primaryEmail": "mail@srmab.org.in",
+  "website": "www.srmab.org.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918026581076",
+    "918026588045",
+    "919242871964"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "C A 1-B",
+      "3rd Cross, 3rd Phase, J P Nagar",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560078"
+    ]
+  }
+}

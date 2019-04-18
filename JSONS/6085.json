@@ -1,0 +1,60 @@
+{
+  "contacts": [
+    {
+      "name": "Anshul Bhardwaj",
+      "email": "president@agwo.org",
+      "designation": "President",
+      "mobile": [
+        "41010774",
+        "9350644483"
+      ]
+    },
+    {
+      "name": "Anshul Bhardwaj",
+      "email": "president@agwo.org",
+      "designation": "President",
+      "mobile": [
+        "41010774",
+        "9350644483"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6085",
+  "name": "A Giggles Welfare Organisation",
+  "primaryEmail": "corporate@agwo.org",
+  "website": "http://www.agwo.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919350644483",
+    "1141010774"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "63, Block-C,Basement",
+      "South Ext.-2,",
+      "New Delhi",
+      "Delhi",
+      "110049"
+    ]
+  },
+  "briefDescription": "\"A Giggles Welfare Organisation\"  has been relentlessly working for the  Rehabilitation of   Physically and Mentally underprivileged children. The Organization provides free Counseling and Vocational guidance to children suffering from physical and mental deficiencies The programme has clear focus on special children along with their needs. The Rehabilitation Centre established by AGWO offers free services in Regular Treatment Facilities for: a) Physiotherapy    b) Speech Therapy   c) Occupational Therapy   d) Special Education    e) Pre Vocational      f) Vocational Training  g)  Rehabilitation Medicine      f) Patient   TransportationSince Women consist of a major and a very important part of the world population and their participation in the development of mankind is very essential at all levels but extremely critical at the grass root level.   Most of the women at the grass root level are not imparted with good education and other rights as they are dominated by male society and suffer from gender inequality.We here at A Giggles Welfare Organization  support the first and second generation’s rights of women by imparting Free Vocational Training  . These activities comprise of:a) Computer literacy Program   b)Candle Making   c)  Envelope Making d) Paper Handicraft  e) Spoken English f)Call Centre Training &  Personality   Development  f)Cutting & Tailoring A Giggles Welfare Organization\", a community based Non Profit, Non Government Organization, was established in 2007 and is registered in Delhi under Societies Registration Act 1860/Section 12-AA / Section 80-G of Income Tax Act.",
+  "yearOfEstablishment": "2007",
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "E-74 Third Floor",
+      "Bharat Nagar,",
+      "New Friends Colony",
+      "New Delhi",
+      "Delhi",
+      "110025"
+    ]
+  }
+}

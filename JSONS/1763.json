@@ -1,0 +1,27 @@
+{
+  "contacts": [
+    {
+      "name": "U.Raja Sekhar",
+      "email": "",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1763",
+  "name": "Dalith Rural Development Society",
+  "primaryEmail": "drds_kadapa@yahoo.com",
+  "telephone": [
+    "919848437810"
+  ],
+  "mainAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "38146",
+      "Opp Chandra Mouli Vidya Nilayam , Prakash Nagar",
+      "Cuddapah",
+      "YSR District, Kadapa (Cuddapah)",
+      "Andhra Pradesh",
+      "516004"
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "Kbr Prasad",
+      "email": "jlcministries@yahoo.co.in",
+      "designation": "Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2921",
+  "name": "Jesus Love and Care Ministries",
+  "primaryEmail": "jlcministries@yahoo.co.in",
+  "telephone": [
+    "914024127012",
+    "914024127012"
+  ],
+  "mainAddrress": {
+    "state": "Telangana",
+    "address": [
+      "KBR PRASAD. PLOT NO-197,",
+      "ABHYUDAYA NAGAR, CHINTAL KUNTA. LB NAGAR",
+      "HYDRABAD",
+      "Hyderabad",
+      "Telangana",
+      "500074"
+    ]
+  }
+}

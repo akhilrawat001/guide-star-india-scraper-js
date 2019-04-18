@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Wg Cdr (Retd) Ashish Kumar Saxena",
+      "email": "",
+      "designation": "Chairman",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6783",
+  "name": "AKASH MEMORIAL CHARITABLE TRUST",
+  "primaryEmail": "ashish@aksitservices.co.in",
+  "website": "www.akashmemorial.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "911202342118",
+    "911202342118"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "J-234, Akashdeep, Sector-25, Noida",
+      "Noida",
+      "Gautam Buddha Nagar",
+      "Uttar Pradesh",
+      "201301"
+    ]
+  }
+}

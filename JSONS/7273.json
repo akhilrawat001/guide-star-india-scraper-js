@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Prof. Barbara Cangan",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7273",
+  "name": "Society for Indian institute of Rural Management",
+  "primaryEmail": "iirm@iirm.ac.in",
+  "website": "www.iirm.ac.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Support"
+  ],
+  "telephone": [
+    "911412395402",
+    "911412395402"
+  ],
+  "mainAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "IIRM Campus, Sector 11,",
+      "Tagore Marg, Mansarovar, Jaipur",
+      "Jaipur",
+      "Rajasthan",
+      "302020"
+    ]
+  }
+}

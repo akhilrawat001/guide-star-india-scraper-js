@@ -1,0 +1,38 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=874",
+  "name": "Multiple Sclerosis Society of India",
+  "primaryEmail": "mschennaichap@gmail.com",
+  "website": "http;//www.mssocietyindia.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919962100256",
+    "919884314021"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "Care of. BOSCH, \"Sunnyside\", No.8/17, Shafee Mohammed Road,",
+      "2nd Floor, Middle Wing,Next to Apollo Children's Hospital,",
+      "Chennai",
+      "Tamil Nadu",
+      "600006"
+    ]
+  },
+  "briefDescription": "We, at the Multiple Sclerosis Society of India, Chennai Chapter, aim at helping patients diagnosed with MS, by enabling them and their families to cope with this disease by offering a variety of services such as counselling, physiotherapy, procuring disability certificates from the Government (which entitles the disabled to certain concessions in travel fares, etc), social and recreational programmes and visits to patients home bound.   Our goal is to identify patients diagnosed with MS so that we can help them in our endeavour to “Turn a life sentence into a life”.",
+  "yearOfEstablishment": "1985",
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "259, Seeta Sadan, Flat No.2, Ground Floor,",
+      "Opp. Gandhi Market, Sion West",
+      "Mumbai",
+      "Maharashtra",
+      "400022"
+    ]
+  }
+}

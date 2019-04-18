@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Rukmani",
+      "email": "pushpanathan2006@yahoo.com",
+      "designation": "President",
+      "mobile": [
+        "91-9443016506"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1644",
+  "name": "Rural Depressed Welfare Association",
+  "primaryEmail": "pushpanathan2006@yahoo.com",
+  "website": "www.rdwatvm.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919443016506"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "Melkachirappattu Village",
+      "Meyyur Post",
+      "Tiruvannamalai",
+      "Tamil Nadu",
+      "606753"
+    ]
+  }
+}

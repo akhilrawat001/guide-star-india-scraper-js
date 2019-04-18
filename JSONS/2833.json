@@ -1,0 +1,27 @@
+{
+  "contacts": [
+    {
+      "name": "Suresh Prabu S",
+      "email": "prabueducationaltrust@gmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2833",
+  "name": "Prabu Educational Trust (PET)",
+  "primaryEmail": "prabueducationaltrust@gmail.com",
+  "telephone": [
+    "919940420453"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "No.97, 5th Cross Street",
+      "Rathansanth Nagar",
+      "Arakkonam",
+      "Vellore",
+      "Tamil Nadu",
+      "631001"
+    ]
+  }
+}

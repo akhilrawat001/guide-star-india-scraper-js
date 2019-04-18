@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Md Quamaruzzama",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7499",
+  "name": "NORTH EAST WELFARE SERVICES",
+  "primaryEmail": "news_ngobth@yahoo.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919431642612"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "Md QuamaruzzamaSecretary NEWS.Residence:-Christian Quarters,",
+      "Ward No.8.Bettiah",
+      "West Champaran",
+      "Bihar",
+      "845438"
+    ]
+  }
+}

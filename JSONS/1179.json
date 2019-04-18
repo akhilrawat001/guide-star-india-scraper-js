@@ -1,0 +1,38 @@
+{
+  "contacts": [
+    {
+      "name": "Jerry Darvey",
+      "email": "chevaliar_society@yahoo.co.in",
+      "designation": "Vice President",
+      "mobile": [
+        "91-461-2346220",
+        "91-9842146227"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1179",
+  "name": "Chevaliar J.L.P. Roche Victoria K.S.G. Memorial Trust Society",
+  "primaryEmail": "chevaliar_society@yahoo.co.in",
+  "website": "http://www.chevaliar.org.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "914612346220",
+    "914612346227",
+    "914612346220"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "42-Polpettai,",
+      "Opp. to New Bus stand",
+      "Thoothukudi",
+      "Tamil Nadu",
+      "628002"
+    ]
+  }
+}

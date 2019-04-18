@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "S Santhi",
+      "email": "",
+      "designation": "Executive Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=436",
+  "name": "Rural Welfare Organisation",
+  "primaryEmail": "rwo_raj@yahoo.com",
+  "website": "http://www.giveindia.org/GetOrganisationProfile.aspx?ngoid=868",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "914513290987",
+    "914513290987"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "Sundarapuri, Nallamanarkottai",
+      "Dindigul",
+      "Tamil Nadu",
+      "624005"
+    ]
+  }
+}

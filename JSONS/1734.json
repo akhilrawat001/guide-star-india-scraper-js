@@ -1,0 +1,35 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1734",
+  "name": "General Movement for Rural Education and Environment (GREEN)",
+  "primaryEmail": "greenvision1@rediffmail.com",
+  "website": "www.green.org.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "914554246746",
+    "914554248851",
+    "919443926439"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "22",
+      "Samykulam 4th Street,",
+      "Chinnamanur",
+      "Theni",
+      "Tamil Nadu",
+      "625515"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "99, Indiranagar colony",
+      "Theni",
+      "Tamil Nadu",
+      "625515"
+    ]
+  }
+}

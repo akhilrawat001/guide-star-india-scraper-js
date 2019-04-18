@@ -1,0 +1,41 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6916",
+  "name": "Bal Sakha",
+  "primaryEmail": "balsakha@yahoo.com",
+  "website": "http://www.balsakhaindia.org/",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "916122270043",
+    "916123293953",
+    "916122270043"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "Manju Niwas, House no. 36",
+      "Road no. -1, New Patliputra Colony",
+      "Patna",
+      "Bihar",
+      "800013"
+    ]
+  },
+  "briefDescription": "Bal Sakha is a registered voluntary organization working with street/working children and children in Juvenile Justice System in Bihar & Jharkhand since 1984. It is an initiative for the rehabilitation & mainstreaming of children in distress.We work in close liaison with Government, Judiciary, NGOs and other people and organization for the protection of child rights.We have 78 people associated with us which includes full as well as part time supported staffs. Interns from different institution Volunteer us time to time.",
+  "yearOfEstablishment": "1988",
+  "regiseredAddrress": {
+    "state": "Bihar",
+    "address": [
+      "Bal Sakha, Lane No. 7, S.K. Puram",
+      "Near Open Mind Birla School, Arya Samaj Mandir, RPS More",
+      "Danapur, Patna",
+      "Patna",
+      "Bihar",
+      "801503"
+    ]
+  }
+}

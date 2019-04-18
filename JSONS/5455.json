@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Sanjeet Banarjee",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5455",
+  "name": "Saksham",
+  "primaryEmail": "banarjeesanjeet@yahoo.com",
+  "website": "www.sakshamngo.ORG",
+  "organisationType": [
+    "Direct Service",
+    "Grant-making"
+  ],
+  "telephone": [
+    "918103770888"
+  ],
+  "mainAddrress": {
+    "state": "Chhattisgarh",
+    "address": [
+      "MIG 01 Sagardwip Inclave Phase01 Super Delux Apartment Ameri",
+      "Bilaspur",
+      "Chhattisgarh",
+      "495001"
+    ]
+  },
+  "briefDescription": "Develop sustainable livelihoods for rural and backward community on natural resource management within the context of watershed development. We undertake windup & foreclosure of watershed management project run by Govt, Develop skill and trained them. 20 Volunteers are working with us",
+  "yearOfEstablishment": "2010"
+}

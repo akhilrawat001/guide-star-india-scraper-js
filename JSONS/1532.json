@@ -1,0 +1,31 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1532",
+  "name": "Gram Vikas Sanstha",
+  "primaryEmail": "gvsaurangabad@gmail.com",
+  "website": "www.gramvikassanstha.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "912402481811",
+    "919822431778"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Gramvikas Bhavan",
+      "BH 28/1, Thakare Nagar, N-2 CIDCO",
+      "CIDCO, Aurangabad",
+      "Aurangabad",
+      "Maharashtra",
+      "431003",
+      "AP_TelBill_1427.TIF"
+    ]
+  }
+}

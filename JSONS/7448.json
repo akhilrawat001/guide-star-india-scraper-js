@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Dr Prabhakar Singh",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7448",
+  "name": "Vikas Path Sewa Sansthan",
+  "primaryEmail": "vpssckt@gmail.com",
+  "website": "www.vikaspath.ngo",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919451676834",
+    "918382886570"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "Kasahai Road",
+      "Near Adarsh Public school, Karwi",
+      "Chitrakoot",
+      "Uttar Pradesh",
+      "210205"
+    ]
+  }
+}

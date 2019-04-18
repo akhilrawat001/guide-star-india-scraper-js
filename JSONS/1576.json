@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "Milind Kotre",
+      "email": "milind.kotre@rediff.com",
+      "designation": "Coordinator",
+      "mobile": []
+    },
+    {
+      "name": "Milind Kotre",
+      "email": "milind.kotre@rediff.com",
+      "designation": "Coordinator",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1576",
+  "name": "Bhagya Abhivrudhi Seva Samasthe",
+  "primaryEmail": "Bhagyaglb2011@gmail.com",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "919632035607"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "43",
+      "New Venkatesh Nagar,",
+      "Gulbarga",
+      "Kalaburagi (Gulbarga)",
+      "Karnataka",
+      "585102"
+    ]
+  }
+}

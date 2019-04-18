@@ -1,0 +1,34 @@
+{
+  "contacts": [
+    {
+      "name": "Dwithiya Raghavan",
+      "email": "dwithiya@cfbtes.com",
+      "designation": "COO",
+      "mobile": [
+        "91-9949354599"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6954",
+  "name": "CFBT Education Services",
+  "primaryEmail": "gvsp@cfbtes.com",
+  "website": "http://www.cfbtes.com/index.php",
+  "organisationType": [
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "914066259722",
+    "914066259722"
+  ],
+  "mainAddrress": {
+    "state": "Telangana",
+    "address": [
+      "10-3-300, NRI house, Main building,",
+      "Humayun Nagar",
+      "Hyderabad",
+      "Telangana",
+      "500028"
+    ]
+  }
+}

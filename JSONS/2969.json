@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "Kishore Shankar Moghe",
+      "email": "mumbai@sevasahayog.com",
+      "designation": "Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2969",
+  "name": "Seva Sahayog Foundation",
+  "primaryEmail": "mumbai@sevasahayog.com",
+  "website": "http://www.sevasahayog.org",
+  "telephone": [
+    "912224446094",
+    "912224446094"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "1st Floor",
+      "S.H.Paralkar Marg, Shivaji Park, Dadar (West)",
+      "Mumbai",
+      "Maharashtra",
+      "400028"
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "contacts": [
+    {
+      "name": "Dr.S.A.THASLEEM SULTHANA",
+      "email": "sthasleem@yahoo.com",
+      "designation": "DIRECTOR",
+      "mobile": [
+        "9291225514"
+      ]
+    },
+    {
+      "name": "Dr.S.A.THASLEEM SULTHANA",
+      "email": "sthasleem@yahoo.com",
+      "designation": "DIRECTOR",
+      "mobile": [
+        "9291225514"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5239",
+  "name": "ABHAYA KSHETHRAM CHARITABLE TRUST",
+  "primaryEmail": "sthasleem@yahoo.com,",
+  "website": "http://www.abhayakshethram.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919291225514"
+  ],
+  "mainAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "13/404/9, ABHAYA KSHETHRAM CHARITABLE TRUST.",
+      "BISMILLA NAGAR,  NEAR RAIL WAY GATE,",
+      "RENIGUNTA / CHITTOOR",
+      "Chittoor",
+      "Andhra Pradesh",
+      "517520"
+    ]
+  },
+  "briefDescription": "Dr. Shaik Abdul Thasleem Sultana, a doctorate in  Special Education (Related to children with special needs) from Sri Venkateswara University, Tirupati (A.P) founded a rehabilitation centre for physically and mentally challenged children, called ‘Abhaya Kshethsram Charitable Trust’ at Renigunta, Chittoor District, A.P., the location being 5 kms. away on Tirupati.  It is a registered Charitable Trust (With registration No.Sec.37/BK4 with District Registrar, Chittoor-A.P.) and is recognized by the Welfare of Disabled and Senior Citizens Department, Chittoor District of Govt. of A.P. and the National Trust for the Welfare of persons with autism, cerebral palsy, mental retardation and multiple disabilities under the Ministry of Social Justice &",
+  "yearOfEstablishment": "2007",
+  "regiseredAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "13/404/9, ABHAYA KSHETHRAM CHARITABLE TRUST.",
+      "BISMILLA NAGAR,  NEAR RAILWAY GATE.",
+      "RENIGUNTA.",
+      "Chittoor",
+      "Andhra Pradesh",
+      "517520"
+    ]
+  }
+}

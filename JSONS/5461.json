@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "ADITYA MOHAN B G",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5461",
+  "name": "BALALA HAKKULA SANGAM",
+  "primaryEmail": "balalahakkulasangham@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919246177882"
+  ],
+  "mainAddrress": {
+    "state": "Telangana",
+    "address": [
+      "plot no.272,h.no.4-12/3/2,budhanagar,boduppal depot",
+      "opp:life spring hospital",
+      "peerzadiguda,ghatkesar mandal,hyderabad",
+      "Hyderabad",
+      "Telangana",
+      "500092"
+    ]
+  }
+}

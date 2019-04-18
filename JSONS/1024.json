@@ -1,0 +1,25 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1024",
+  "name": "Yours Family Association",
+  "primaryEmail": "yoursfamilyassociation92@gmail.com",
+  "website": "ashayain.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "911132696046",
+    "911132329469",
+    "919310099464"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "Office 545 1st floor Street no 14  Gurudwara road",
+      "West Guru Angad nagar Laxmi nagar",
+      "Delhi",
+      "East Delhi",
+      "110092"
+    ]
+  }
+}

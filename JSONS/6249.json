@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Rajesh Patel",
+      "email": "rajeshpatel_sid@yahoo.com",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6249",
+  "name": "Society for Indian Development, Sundalpura",
+  "primaryEmail": "rajeshpatel_sid@yahoo.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919978519143"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "In Vadi",
+      "Sundalpura",
+      "Anand",
+      "Gujarat",
+      "388210"
+    ]
+  }
+}

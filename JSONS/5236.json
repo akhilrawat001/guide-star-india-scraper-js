@@ -1,0 +1,35 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5236",
+  "name": "Love Care Foundation",
+  "primaryEmail": "lovecare.foundation@gmail.com",
+  "website": "www.lovecarefoundation.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Support"
+  ],
+  "telephone": [
+    "919899079000"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "Chamber No.1,Nanda Tower",
+      "Opposite Pacific Mall",
+      "Kaushambi, Ghaziabad",
+      "Ghaziabad",
+      "Uttar Pradesh",
+      "201010"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "B-50, G-2,",
+      "Dilshad Clony",
+      "Delhi",
+      "New Delhi",
+      "110095"
+    ]
+  }
+}

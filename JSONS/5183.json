@@ -1,0 +1,41 @@
+{
+  "contacts": [
+    {
+      "name": "Dr Subhan Khan",
+      "email": "drsubhankhan@gmail.com",
+      "designation": "Patron",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5183",
+  "name": "Mewat Development Society (MDS)",
+  "primaryEmail": "drsubhankhan@gmail.com",
+  "website": "http:// www.mdsindia.org.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919811024504"
+  ],
+  "mainAddrress": {
+    "state": "Haryana",
+    "address": [
+      "13/15, Type VI, 7th Floor, Multistory Building, NPL Colony, New Rajinder Nagar, New Delhi-110060",
+      "H.O. House No. 3",
+      "Vill & P.O. Chharora via Taoru",
+      "Mewat",
+      "Haryana",
+      "122105"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Haryana",
+    "address": [
+      "not provided",
+      "Vill & P.O. Chharora via Taoru",
+      "Mewat",
+      "Haryana",
+      "122105"
+    ]
+  }
+}

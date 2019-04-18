@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "RAJESH KUMAR SINGH",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8270",
+  "name": "NAV YUVA",
+  "primaryEmail": "chotuint@rediffmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919431122550"
+  ],
+  "mainAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "Main Road",
+      "Opposite-Raymond Showroom Kapoor Complex",
+      "Ranchi",
+      "Jharkhand",
+      "826004"
+    ]
+  }
+}

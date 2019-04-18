@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "R Seetharaman",
+      "email": "devedn@yahoo.co.in",
+      "designation": "Chairman",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2925",
+  "name": "Development Education and Welfare Institute",
+  "primaryEmail": "devedn@yahoo.co.in",
+  "telephone": [
+    "914632233226",
+    "914632233226"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "57 A",
+      "Sriram Nagar Second Street, Manthithoppu Road",
+      "Kovilpatti",
+      "Thoothukudi",
+      "Tamil Nadu",
+      "628501"
+    ]
+  }
+}

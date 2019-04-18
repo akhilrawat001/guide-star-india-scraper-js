@@ -1,0 +1,42 @@
+{
+  "contacts": [
+    {
+      "name": "Sajida Nadeem",
+      "email": "dbasajida@gmail.com",
+      "designation": "Treasurer",
+      "mobile": [
+        "91-9411283720"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1323",
+  "name": "Dr Zakir Hussain Foundation",
+  "primaryEmail": "zakirhussainfoundtion@gmail.com",
+  "website": "www.aligarhzhf.org",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919411413466"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "4/751",
+      "Friends Colony, Dodhpur, Civil Lines",
+      "Aligarh",
+      "Uttar Pradesh",
+      "202002"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "201, Alshahid Apartment Road No.5, Iqra Colony,",
+      "Aligarh",
+      "Uttar Pradesh",
+      "202002"
+    ]
+  }
+}

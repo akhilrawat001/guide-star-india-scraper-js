@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Pravin Gangurde",
+      "email": "foundationlokmangal@gmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=562",
+  "name": "Lokmangal Educational Foundation",
+  "primaryEmail": "foundationlokmangal@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "912224364592",
+    "919890631933"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "1, Kondabai Wadi",
+      "Sasmira Marg, Behind N.A.B. Workshop, Worli",
+      "Mumbai",
+      "Maharashtra",
+      "400030"
+    ]
+  }
+}

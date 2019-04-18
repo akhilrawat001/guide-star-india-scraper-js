@@ -1,0 +1,27 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1281",
+  "name": "CHETHANA",
+  "primaryEmail": "chethana10@rediffmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "918022103446",
+    "918022103446"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "# 94 \"Abbi Nest\", 5th Cross, Ayappa Garden,",
+      "Shanthi Nagar, St. Michael's School Road",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560027"
+    ]
+  }
+}

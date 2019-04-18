@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "M.ELANGOVAN",
+      "email": "gramalayango@gmail.com",
+      "designation": "EXECUTIVE DIRECTOR",
+      "mobile": [
+        "91-431-4021563",
+        "91-9443161263"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6729",
+  "name": "GRAMALAYA TRUST",
+  "primaryEmail": "gramalayango@gmail.com",
+  "website": "http://www.gramalaya.in",
+  "organisationType": [
+    "Direct Service",
+    "Grant-making"
+  ],
+  "telephone": [
+    "919443161263"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "No.C-62 B, 10th Cross",
+      "Thillainagar West",
+      "Tiruchirappalli",
+      "Tamil Nadu",
+      "620018"
+    ]
+  },
+  "briefDescription": "Gramalaya  envisions a society in which all people  will have equal rights and access to protected water, sanitation , health and improved income status without gender discrimination. Government of India has approved Gramalaya as one of the National Key Resource Centres of the Ministry of Drinking Water  and Sanitation for providing training to Government officials in Karnataka, Andhra Pradesh and Tamilnadu.So far, Gramalaya has constructed more than 1,00,000 toilets with funding support  under CRSP, TSC, NBA schemes of Government and with the grant support of WaterAid, Water.org, Arghyam and UNICEF.",
+  "yearOfEstablishment": "1987"
+}

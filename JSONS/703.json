@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "Mallika Nadda (Dr)",
+      "email": "",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=703",
+  "name": "Chetna",
+  "primaryEmail": "chetna_bilaspur@yahoo.com",
+  "telephone": [
+    "911978221524",
+    "911978221524",
+    "911978221524"
+  ],
+  "mainAddrress": {
+    "state": "Himachal Pradesh",
+    "address": [
+      "House No 68, Raura Sector - II",
+      "Bilaspur",
+      "Himachal Pradesh",
+      "174001"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Himachal Pradesh",
+    "address": [
+      "Swamy Vivekanand Memorial School Kandraur",
+      "Bilaspur",
+      "Himachal Pradesh",
+      "174004"
+    ]
+  }
+}

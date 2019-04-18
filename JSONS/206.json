@@ -1,0 +1,34 @@
+{
+  "contacts": [
+    {
+      "name": "Yogavi Sharada Priya",
+      "email": "infinitedimension@gmail.com",
+      "designation": "CFO & PRO",
+      "mobile": [
+        "91-9380638528"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=206",
+  "name": "Infinite Dimension Charitable Trust",
+  "primaryEmail": "infinitedimension@gmail.com",
+  "website": "www.infinitedimension.org;www.yogamandiram.info",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "914465444252",
+    "914443500897",
+    "919380638528"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "A-101, 1st floor",
+      "3rd Avenue, Anna Nagar",
+      "Chennai",
+      "Tamil Nadu",
+      "600102"
+    ]
+  }
+}

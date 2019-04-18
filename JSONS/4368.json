@@ -1,0 +1,45 @@
+{
+  "contacts": [
+    {
+      "name": "Seema Sayyed",
+      "email": "manager@aasthaparivaar.org.in",
+      "designation": "Manager",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4368",
+  "name": "Aastha Parivaar",
+  "primaryEmail": "manager@aasthaparivaar.org.in",
+  "website": "http://www.aasthaparivaar.org",
+  "organisationType": [
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919870378911"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "86-D,Kamgar Nagar",
+      "S.G. Barve Road,Near Tilak Nagar Railway station (E)",
+      "Kurla (E)",
+      "Mumbai",
+      "Maharashtra",
+      "400024"
+    ]
+  },
+  "briefDescription": "We are born of the Aastha Project, an HIV/AIDS intervention project funded by BMGF addressing health needs of sex workers across Mumbai and Thane. A common platform which brings the issues and concerns of over 30,000 sex workers together. The umbrella organization representing different kinds of sex workers – street based, brothel based, home based, male sex workers and transgender sex workers. The mentors for the 13 registered Community Based Organizations formed (at the field level) by sex workers to address the needs of their peers and enhancing the capacities of sex workers – individual capabilities and come together in an effective manner.",
+  "yearOfEstablishment": "2009",
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Room no. 6&7, 1st floor, Bhimabai Rane Municipal School,",
+      "Opp.Central Plaza,  Charni Road (E), Girgaon",
+      "Mumbai",
+      "Maharashtra",
+      "400004"
+    ]
+  }
+}

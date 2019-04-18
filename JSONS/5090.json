@@ -1,0 +1,47 @@
+{
+  "contacts": [
+    {
+      "name": "Ms. Rina Sahoo",
+      "email": "",
+      "designation": "Chief Functionary/ Secretary",
+      "mobile": [
+        "23595475"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5090",
+  "name": "Association for Social and Health Advancement",
+  "primaryEmail": "Ashango98@gmail.com",
+  "website": "www.ashaindia.in",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "913323595475",
+    "913323595475"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "BE-135, Sector -1",
+      "Salt Lake City",
+      "Kolkata",
+      "North 24 Parganas",
+      "West Bengal",
+      "700064"
+    ]
+  },
+  "briefDescription": "Association for Social and Health Advancement (ASHA) is a non-profit, non-political, non-governmental organization which has been working to improve the socio-economic and health status of disadvantaged communities since it’s inception in 1998. ASHA implements development initiatives in socio-economic and health sectors and also acts as a technical support agency for other organizations and institutions and collaborates with both Government and Non –Governmental agencies. Support provided includes training, action research and evaluation exercises.",
+  "yearOfEstablishment": "1997",
+  "regiseredAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "BE-135, Sector - 1",
+      "Salt Lake City",
+      "Kolkata",
+      "North 24 Parganas",
+      "West Bengal",
+      "700064"
+    ]
+  }
+}

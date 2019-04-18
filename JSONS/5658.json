@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Hethana Kinimi",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "9862089330"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5658",
+  "name": "K HOLLOHON WELFARE SOCIETY",
+  "primaryEmail": "KHollohonwelsoc01@gmail.com",
+  "website": "KHOLLOHON.ORG",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919862089330"
+  ],
+  "mainAddrress": {
+    "state": "Nagaland",
+    "address": [
+      "1 1/2 mile, Darogapathar, P.Box No. 276, Dimapur, Nagaland.",
+      "Dimapur",
+      "Nagaland",
+      "797112"
+    ]
+  }
+}

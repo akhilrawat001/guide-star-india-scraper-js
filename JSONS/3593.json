@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Arti Meena",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3593",
+  "name": "BABA SURAKSHA SEVA SANSTHA",
+  "primaryEmail": "srm0112@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919461553169"
+  ],
+  "mainAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "Shri Sawal Ram Meena, Hans Bhawan, Meena Colony, Bajaria Sawai Madhopur(Raj)",
+      "Qtr No. 40,  Type-III(New), Group Centre, CRPF,",
+      "Neemuch(MP)",
+      "Neemuch",
+      "Madhya Pradesh",
+      "458441"
+    ]
+  }
+}

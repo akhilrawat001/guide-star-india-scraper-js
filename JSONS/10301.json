@@ -1,0 +1,33 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10301",
+  "name": "SAJAR HEALTH EDUCATIONAL AND CHARITABLE TRUST",
+  "primaryEmail": "sajartrust@gmail.com",
+  "website": "www.sajartrust.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919994999493"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "52, Vaigai Street, Velmurugan Nagar, Bypass Road",
+      "Madurai",
+      "Tamil Nadu",
+      "625010"
+    ]
+  },
+  "briefDescription": "Sajar health educational and charitable trust headquartered in Madurai, Tamil nadu rendering services in field of health, skill training, wen upliftment since23/7/2008.",
+  "yearOfEstablishment": "2008",
+  "regiseredAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "10, TV colony,  Andalpuram",
+      "Madurai",
+      "Tamil Nadu",
+      "625003"
+    ]
+  }
+}

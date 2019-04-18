@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Popat Maruti Raut",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4385",
+  "name": "SHREE HIMALAY BHUMIDEEP TRUST",
+  "primaryEmail": "shbt@in.com",
+  "website": "http //www.shbtindia.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919833111980"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "8-Bwing,shree ram achal,hsg,sty,",
+      "pandit dindayal road.crass lane,thakurwadi,opp-sethiya appartment,",
+      "Dombivali(west) Taluka-Kalyan,",
+      "Thane",
+      "Maharashtra",
+      "421202"
+    ]
+  }
+}

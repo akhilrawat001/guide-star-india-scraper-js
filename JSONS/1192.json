@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Seema Hemant Pujari",
+      "email": "",
+      "designation": "Vice President",
+      "mobile": []
+    },
+    {
+      "name": "Seema Hemant Pujari",
+      "email": "",
+      "designation": "Vice President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1192",
+  "name": "Succor Manav Seva Vikas Sanstha",
+  "primaryEmail": "succorsupport2mankind@gmail.com",
+  "website": "www.succor.2itb.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "mainAddrress": {
+    "address": []
+  }
+}

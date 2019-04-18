@@ -1,0 +1,53 @@
+{
+  "contacts": [
+    {
+      "name": "Suraj Roy",
+      "email": "suraj.roy@kiss.ac.in",
+      "designation": "Resource Mobilization Officer",
+      "mobile": [
+        "9937013344"
+      ]
+    },
+    {
+      "name": "Suraj Roy",
+      "email": "suraj.roy@kiss.ac.in",
+      "designation": "Resource Mobilization Officer",
+      "mobile": [
+        "9937013344"
+      ]
+    },
+    {
+      "name": "Suraj Roy",
+      "email": "suraj.roy@kiss.ac.in",
+      "designation": "Resource Mobilization Officer",
+      "mobile": [
+        "9937013344"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5180",
+  "name": "KALINGA INSTITUTE OF SOCIAL SCIENCES",
+  "primaryEmail": "dwiti.vikramaditya@gmail.com",
+  "website": "www.kiss.ac.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919937220249"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "KIIT Campus-10",
+      "PO-KIIT",
+      "BHUBANESWAR",
+      "Khordha",
+      "Odisha",
+      "751024"
+    ]
+  },
+  "briefDescription": "Kalinga Institute of Social Sciences(KISS)is the largest residential institute for the tribals(Indigenous)in the World,providing Accommodation,Food,Healthcare,Education from Kindergarten to Postgraduation,Vocational training and all other amenities of life absolutely free to 20,000 children with a job after completion of education.Every indigenous child who comes to KISS,goes back to his family as an educated,economically independent and socially conderned individual.The institute plans to educate 2,00,000 children over the span of next decade,For acheiving this goal,it has setup or in the process of setting up branches in five states and 20 tribal dominated districts of Odisha.KISS has 20 years of existence and 16 years of excellence.",
+  "yearOfEstablishment": "2008"
+}

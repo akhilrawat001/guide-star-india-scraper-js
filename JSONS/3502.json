@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "Prapti Vishal Patil",
+      "email": "imssndd@gmail.com",
+      "designation": "Vice Chairman",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3502",
+  "name": "Indira Mahila Seva Society",
+  "primaryEmail": "imssndd@gmail.com",
+  "telephone": [
+    "912564221504",
+    "912564222136",
+    "912564221504"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Lokmanya Colony",
+      "Vishal Plot No. 05,",
+      "Nandurbar",
+      "Maharashtra",
+      "425412"
+    ]
+  }
+}

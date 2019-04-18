@@ -1,0 +1,41 @@
+{
+  "contacts": [
+    {
+      "name": "R.Karthikeyan",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7308",
+  "name": "AGNI SIRAGUGAL CHARITABLE TRUST",
+  "primaryEmail": "agnisiragugaltrust@yahoo.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918190076323"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "34, 2nd Floor,",
+      "West Raja Street,",
+      "Kancheepuram",
+      "Tamil Nadu",
+      "631502"
+    ]
+  },
+  "briefDescription": "Since 2013, We are in skill development, like NSDC STAR/PMKVY/ESDM",
+  "yearOfEstablishment": "2013",
+  "regiseredAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "33,THIRUVALLUVAR STREET,",
+      "KANCHIPURAM",
+      "Kancheepuram",
+      "Tamil Nadu",
+      "631501"
+    ]
+  }
+}

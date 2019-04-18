@@ -1,0 +1,37 @@
+{
+  "contacts": [
+    {
+      "name": "Charu Garg",
+      "email": "charu@noidadeafsociety.org",
+      "designation": "Manager, Programs",
+      "mobile": [
+        "91-9811643244"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2645",
+  "name": "Noida Deaf Society",
+  "primaryEmail": "info@noidadeafsociety.org",
+  "website": "www.noidadeafsociety.org",
+  "organisationType": [
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919811643244"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "Flat # 469,",
+      "Sector 29,",
+      "Noida",
+      "Gautam Buddha Nagar",
+      "Uttar Pradesh",
+      "201303"
+    ]
+  },
+  "briefDescription": "Our mission is to empower and enable the deaf community to develop their capabilities so that they can lead self-reliant lives and be a productive partner of our society. Our vision is to mainstream deaf children and youth in society by providing quality education and specialized vocational training leading to gainful employment. From humble beginnings, today NDS has reached out to over 4000 deaf children and youth from across the country. In spite of the limitations of space and infrastructure, we are able to positively impact over 1000 Deaf children and youth every year. Over 1000 youth are successfully working in some of the most leading companies across sectors ranging from Hospitality, Retail, Information Technology, Banking, Print and Publishing, Education, Textile and Manufacturing among others",
+  "yearOfEstablishment": "2005"
+}

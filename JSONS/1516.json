@@ -1,0 +1,43 @@
+{
+  "contacts": [
+    {
+      "name": "Chandni Taneja",
+      "email": "chandni@navjyoti.org.in",
+      "designation": "Executive Director",
+      "mobile": [
+        "91-11-25953095"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1516",
+  "name": "Navjyoti India Foundation",
+  "primaryEmail": "admin@navjyoti.org.in",
+  "website": "www.navjyoti.org.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "911125953095",
+    "919818070787"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "Khasra No. 99",
+      "Majri karala, Main Kanjhawala Road, Near Rohini, Sec-22",
+      "Delhi",
+      "New Delhi",
+      "110081"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "3rd Floor, Police Station,",
+      "Sarai Rohilla",
+      "New Delhi",
+      "Delhi",
+      "110007"
+    ]
+  }
+}

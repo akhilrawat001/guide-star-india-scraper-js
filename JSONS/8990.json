@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Chandra Bhusha",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8990",
+  "name": "UPKAR CHARITABLE WELFARE AND EDUCATIONAL SOCIETY",
+  "primaryEmail": "upkar95043@rediffmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919934428017",
+    "919473336838"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "Vill- Dhpbahi, PO.PS - Sheohar",
+      "Sheohar",
+      "Bihar",
+      "843329"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "contacts": [
+    {
+      "name": "T Karthika",
+      "email": "vidyarambam@gmail.com",
+      "designation": "Administration in charge",
+      "mobile": [
+        "91-44-24465377"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=508",
+  "name": "Vidyarambam Trust",
+  "primaryEmail": "vidyarambam@gmail.com",
+  "website": "http://www.vidyarambam.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "914424465377",
+    "914424465590",
+    "914452132900",
+    "914424465377"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "No.10/2, First Main Road",
+      "Kasthuribai Nagar, Adyar",
+      "Chennai",
+      "Tamil Nadu",
+      "600020"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "Tamil Nadu"
+    ]
+  }
+}

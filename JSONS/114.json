@@ -1,0 +1,46 @@
+{
+  "contacts": [
+    {
+      "name": "Tushita Dabir",
+      "email": "tushita@aanganindia.org",
+      "designation": "Head, Finance",
+      "mobile": [
+        "91-22-23525832",
+        "91-9820815684"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=114",
+  "name": "The Aangan Trust",
+  "primaryEmail": "contact@aanganindia.org",
+  "website": "www.aanganindia.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "912223525832"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "101 Arun Chambers",
+      "Tardeo Road, Tardeo",
+      "Mumbai",
+      "Maharashtra",
+      "400034"
+    ]
+  },
+  "briefDescription": "Aangan works to strengthen India's child protection system so that even the most vulnerable child can have access to a safe childhood. We work with children who are at risk of child marriage, trafficking, violence and abuse, or hazardous work.Our prevention model for most vulnerable villages/urban bastis/districts facilitates working relationships between most marginalized women and\tchildren in hotspots and key child protection officials  like police, education officials, child marriage prohibition officer and labor officials. Aangan works across 75 hotspots in 23 districts.We also work with government functionaries to strengthen systems of response, recovery and reintegration for child survivors of serious harm.",
+  "yearOfEstablishment": "2000",
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "102A Jagat Vidya,",
+      "Kalanagar, Bandra East",
+      "Mumbai",
+      "Maharashtra",
+      "400051",
+      "AP_BankStat_14.PDF"
+    ]
+  }
+}

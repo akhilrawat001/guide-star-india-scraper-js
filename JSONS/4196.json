@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Zokhumi Vankung",
+      "email": "mz_4789@yahoo.com",
+      "designation": "Chairperson",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4196",
+  "name": "Spastic Society of Mizoram",
+  "primaryEmail": "mz_4789@yahoo.com",
+  "website": "www.spasticsocietymizoram.org",
+  "telephone": [
+    "913892350019",
+    "913892300371",
+    "913892350019"
+  ],
+  "mainAddrress": {
+    "state": "Mizoram",
+    "address": [
+      "Falkland Veng",
+      "Zemabawk",
+      "Aizawl",
+      "Mizoram",
+      "796017"
+    ]
+  }
+}

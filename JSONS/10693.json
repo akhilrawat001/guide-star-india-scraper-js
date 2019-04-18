@@ -1,0 +1,32 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10693",
+  "name": "MISSING LINK TRUST",
+  "primaryEmail": "reachus@savemissinggirls.com",
+  "website": "www.savemissinggirls.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919831025181"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "22, Alipore Road, Kolkata",
+      "Kolkata",
+      "Alipurduar",
+      "West Bengal",
+      "700027"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "73, Bentinck Street, Kolkata",
+      "Kolkata",
+      "West Bengal",
+      "700001"
+    ]
+  }
+}

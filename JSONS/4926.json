@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Jagmohan Singh",
+      "email": "lokkalyansamiti4u@gmail.com",
+      "designation": "chairman",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4926",
+  "name": "LOK KALYAN SAMITI",
+  "primaryEmail": "lokkalyansamiti4u@gmail.com",
+  "website": "www.lks.co.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919872465799"
+  ],
+  "mainAddrress": {
+    "state": "Punjab",
+    "address": [
+      "chheharta",
+      "amritsar",
+      "Amritsar",
+      "Punjab",
+      "143001"
+    ]
+  }
+}

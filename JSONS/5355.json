@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "DR KAILASH BRIJWASI",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5355",
+  "name": "JATAN SANSTHAN",
+  "primaryEmail": "kailash.brijwasi@gmail.com",
+  "website": "www.jatansansthan.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "912952267620",
+    "912952267620"
+  ],
+  "mainAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "JATAN SANSTHAN, 05- TIRUPATI VIHAR",
+      "OPP. CELEBRATION MALL, BHUWANA",
+      "UDAIPUR",
+      "Udaipur",
+      "Rajasthan",
+      "313001"
+    ]
+  }
+}

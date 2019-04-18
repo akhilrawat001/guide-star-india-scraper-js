@@ -1,0 +1,41 @@
+{
+  "contacts": [
+    {
+      "name": "TITUS.J​",
+      "email": "retmte@gmail.com​",
+      "designation": "FOUNDER & MANAGING TRUSTEE​",
+      "mobile": [
+        "91-9740383700"
+      ]
+    },
+    {
+      "name": "TITUS.J​",
+      "email": "retmte@gmail.com​",
+      "designation": "FOUNDER & MANAGING TRUSTEE​",
+      "mobile": [
+        "91-9740383700"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6032",
+  "name": "REVELATION EDUCATIONAL TRUST",
+  "primaryEmail": "retmte@gmail.com",
+  "website": "www.ret.org.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919740383700"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "15, 4th Cross,Modi Garden",
+      "J.C.Nagar Post",
+      "Bangalore 560 006",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560006"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "contacts": [
+    {
+      "name": "M. Yesudass",
+      "email": "",
+      "designation": "Secretary",
+      "mobile": []
+    },
+    {
+      "name": "M. Yesudass",
+      "email": "",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1120",
+  "name": "Chaitanya Rural Development Social Service Society",
+  "primaryEmail": "crdsss1995@gmail.com",
+  "organisationType": [
+    "Network"
+  ],
+  "telephone": [
+    "919866500534"
+  ],
+  "mainAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "H. No. 78/3B5 Upstairs  RCM Buildings",
+      "Deva Nagar  Near Railway Gate",
+      "Kurnool",
+      "Andhra Pradesh",
+      "518002"
+    ]
+  },
+  "briefDescription": "CRDSSS is to Alleviative Povrty and protect enviornoment by promoting and working with the communities,strengthening the resources Base and Enchabcing Their Capabilities in Soial,Economical, Technical, Health,Conditions and Enviornimental Areas,through Indigenous Knowledge and Skills with sustaninable and participatory Apporaches as a Resource Base Knowledge Centre.",
+  "yearOfEstablishment": "1995"
+}

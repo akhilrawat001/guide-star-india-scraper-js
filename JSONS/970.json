@@ -1,0 +1,29 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=970",
+  "name": "Surya",
+  "primaryEmail": "shm_1992@hotmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "914522536867",
+    "914523040005",
+    "914522535240",
+    "919842153022"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "No 7A Maruthupandiar Nagar, 4th Main Road",
+      "Narimedu",
+      "Madurai",
+      "Tamil Nadu",
+      "625002"
+    ]
+  }
+}

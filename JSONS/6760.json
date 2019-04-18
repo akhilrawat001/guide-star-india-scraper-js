@@ -1,0 +1,41 @@
+{
+  "contacts": [
+    {
+      "name": "Naresh Shinde",
+      "email": "kudalkar_foundation@hotmail.com",
+      "designation": "Project Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6760",
+  "name": "KUDALKAR FOUNDATION",
+  "primaryEmail": "kudalkar_foundation@hotmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919987353524"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Flat No. 12, Plot No.46-B,Care of Santosh Co-op Hsg Society,",
+      "Sindhi Society, Chembur",
+      "Mumbai",
+      "Maharashtra",
+      "400071"
+    ]
+  },
+  "briefDescription": "KUDALKAR FOUNDATION is located in Maharashtra.",
+  "yearOfEstablishment": "2009",
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Flat No. 12, Plot No.46-B, C/o Santosh Co-op Hsg Society,",
+      "Sindhi Society, Chembur",
+      "Mumbai",
+      "Maharashtra",
+      "400071"
+    ]
+  }
+}

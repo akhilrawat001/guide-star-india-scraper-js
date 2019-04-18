@@ -1,0 +1,40 @@
+{
+  "contacts": [
+    {
+      "name": "Jeyaseelan",
+      "email": "samparkkoppal@sampark.org",
+      "designation": "Field Projects Manager",
+      "mobile": [
+        "91-8539-230640"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=448",
+  "name": "Sampark",
+  "primaryEmail": "sampark@sampark.org",
+  "website": "http://www.sampark.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918025521268",
+    "918025521268"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "No. 80, Sree Nilayam (Ground Floor) 2nd Main Road",
+      "1st Block Koramangala",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560034"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "Karnataka"
+    ]
+  }
+}

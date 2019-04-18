@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "name": "Shubham Tiwari",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "9897675753"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6010",
+  "name": "ACRIOLIS AUTOMOTIVE DEVELOPMENT & RESEARCH OMNISOCIETY",
+  "primaryEmail": "ayushsinghjadon@live.com",
+  "website": "http://www.aadroindia.org",
+  "organisationType": [
+    "Direct Service",
+    "Grant-making",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919897675753",
+    "919934360037",
+    "918963947444"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "6, Gurubhartipuram, Sector-9",
+      "Indira Nagar",
+      "Lucknow",
+      "Uttar Pradesh",
+      "226016"
+    ]
+  },
+  "briefDescription": "To connect and educate engineers while promoting, developing and advancing aerospace andautomotive engineering. AADRO also aim to be the essential resource for mechanicalengineers throughout the world for solutions that benefit mankind.AADRO’s mission is to serve diverse global communities by advancing, disseminating andapplying engineering knowledge as it is a global body of engineers and practitioners in theservice of Nation that advances automotives and system knowledge in a neutral form forimproving the quality of life; and communicating the excitement of engineering.",
+  "yearOfEstablishment": "2012"
+}

@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Satyajit Adhikary",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6708",
+  "name": "Human Research Sanstha",
+  "primaryEmail": "hrs20.03.07@gmail.com",
+  "website": "...",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919811005292"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "2011-A,Pillanji,Kotlamubarakpur,New Delhi",
+      "2011-A,Pillanji,Kotlamubarakpur,Near D.D.A Park",
+      "Delhi",
+      "South Delhi",
+      "110003"
+    ]
+  }
+}

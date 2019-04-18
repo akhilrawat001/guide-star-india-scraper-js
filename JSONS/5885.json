@@ -1,0 +1,64 @@
+{
+  "contacts": [
+    {
+      "name": "Avi Karan",
+      "email": "avikaran@dikshafoundation.org",
+      "designation": "Coordinator",
+      "mobile": []
+    },
+    {
+      "name": "Avi Karan",
+      "email": "avikaran@dikshafoundation.org",
+      "designation": "Coordinator",
+      "mobile": []
+    },
+    {
+      "name": "Avi Karan",
+      "email": "avikaran@dikshafoundation.org",
+      "designation": "Coordinator",
+      "mobile": []
+    },
+    {
+      "name": "Avi Karan",
+      "email": "avikaran@dikshafoundation.org",
+      "designation": "Coordinator",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5885",
+  "name": "Diksha Foundation",
+  "primaryEmail": "contact@dikshafoundation.org",
+  "website": "www.dikshafoundation.org",
+  "organisationType": [
+    "Direct Service",
+    "Network"
+  ],
+  "telephone": [
+    "916122595151",
+    "919204056412",
+    "919525189928",
+    "918987364379"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "C-1, Shanti Vihar Colony, Ambedkar Path, Jagdeo Path",
+      "Near Poonam Gas Godown",
+      "Patna",
+      "Bihar",
+      "800014"
+    ]
+  },
+  "briefDescription": "Diksha Foundation endeavours to create transformative learning spaces for children. To achieve this goal, we at Diksha strive to provide holistic education based on principals of economic inclusivity, socio-cultural rejuvenation and innovation that use both traditional and modern technologies.",
+  "yearOfEstablishment": "2010",
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "B 4, Shama Vihar, Plot No 9, Sector 23, Dwarka",
+      "New Delhi",
+      "South West Delhi",
+      "Delhi",
+      "110075"
+    ]
+  }
+}

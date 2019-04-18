@@ -1,0 +1,46 @@
+{
+  "contacts": [
+    {
+      "name": "Lokesh Abrol",
+      "email": "labrol@yahoo.com",
+      "designation": "Founder Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9094",
+  "name": "FUNDACJA ARAVINDAM SOCIAL DEVELOPMENT",
+  "primaryEmail": "info@aravindam.org",
+  "website": "www.aravindam.org",
+  "organisationType": [
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919717990127",
+    "919810213442"
+  ],
+  "mainAddrress": {
+    "state": "Haryana",
+    "address": [
+      "828, sector 15, Part II, Gurgaon",
+      "828, Sector 15 Part-II",
+      "Gurgaon",
+      "Gurugram",
+      "Haryana",
+      "122001"
+    ]
+  },
+  "briefDescription": "Aravindam Foundation is a not-for profit organization dedicated to creating community based inspiring learning spaces and empowering children and women for a bright sustainable future through entrepreneurial development.VisionEvery individual is an Aravindam, a lotus, aspiring to rise above the muddy water, to flower into an inspiring bloom. Aravindam vision is to see many lotuses bloom.  It is to see the true potential of the underserved, flourish in a joyful, inspiring learning environment.",
+  "yearOfEstablishment": "2013",
+  "regiseredAddrress": {
+    "state": "Haryana",
+    "address": [
+      "828, sector 15, Part II, Gurgaon",
+      "Gurgaon",
+      "Gurugram",
+      "Haryana",
+      "122001"
+    ]
+  }
+}

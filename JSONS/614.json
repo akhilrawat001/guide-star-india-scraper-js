@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "name": "Yogesh Kumar (Dr)",
+      "email": "",
+      "designation": "Executive Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=614",
+  "name": "Samarthan - Center for Development Support",
+  "primaryEmail": "info@samarthan.org",
+  "website": "www.samarthan.org",
+  "telephone": [
+    "917552467625",
+    "917552468663",
+    "917552467625"
+  ],
+  "mainAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "36, Green Avenue",
+      "Chuna Bhatti, Kolar Road",
+      "Bhopal",
+      "Madhya Pradesh",
+      "462016"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "HIG-R-4, E/6",
+      "Arera Colony",
+      "Bhopal",
+      "Madhya Pradesh",
+      "462016"
+    ]
+  }
+}

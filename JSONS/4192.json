@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "Shamim Mohammad",
+      "email": "aravali-rj@nic.in",
+      "designation": "Excecutive Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4192",
+  "name": "Association for Rural Advancement through Voluntary Action and Local Involvement (ARAVALI)",
+  "primaryEmail": "aravali-rj@nic.in",
+  "website": "www.aravali.org.in",
+  "telephone": [
+    "911412710556",
+    "919414075899"
+  ],
+  "mainAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "Patel Bhawan, HCM-RIPA",
+      "Jawahar Lal Nehru Marg",
+      "Jaipur",
+      "Rajasthan",
+      "302017"
+    ]
+  }
+}

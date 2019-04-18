@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "Sriram Krishnan",
+      "email": "skrishnan86@gmail.com",
+      "designation": "MANAGER",
+      "mobile": [
+        "91-9212468533"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1089",
+  "name": "Society for the Promotion of Women and Child Welfare",
+  "primaryEmail": "spowac@hotmail.com",
+  "website": "www.spowac.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service"
+  ],
+  "telephone": [
+    "911145751740",
+    "911165427670",
+    "911145751740",
+    "919717141118"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "5002  Ashoka Enclave",
+      "Plot-8A  Sec-11  Dwarka",
+      "New Delhi",
+      "Delhi",
+      "110075"
+    ]
+  }
+}

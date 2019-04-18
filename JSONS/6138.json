@@ -1,0 +1,37 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6138",
+  "name": "The Pink Foundation",
+  "primaryEmail": "info@tpfworld.org",
+  "website": "http://www.tpfworld.org/",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919824023204",
+    "919824353958"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "B-1, Arun Complex, Behind C.U.Shah College",
+      "Income Tax, Ashram Road",
+      "Ahmedabad",
+      "Gujarat",
+      "380014"
+    ]
+  },
+  "briefDescription": "The Pink Foundation is run by a group of professionals facilitating community development initiatives. It promotes holistic development of marginalized section of society, by adopting an integrated approach with main emphasis on Four Es: - Entrepreneurship, Employment, Education and Empowerment.Our prime focus is on developing self- dependence in women, children and youth to enable them to lead more effective and satisfactory lives.We wish to bring visible developmental change on the ground by achieving sustainable solutions to problems pestering India, through its many health, education, livelihood, vocational training and skill-based programs.",
+  "yearOfEstablishment": "2014",
+  "regiseredAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "A-5/3, Parth Indraprasth Towers, Vastrapur Govt. Colony Road, Gurukul,Ahmedabad",
+      "Ahmedabad",
+      "Gujarat",
+      "380052"
+    ]
+  }
+}

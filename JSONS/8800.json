@@ -1,0 +1,49 @@
+{
+  "contacts": [
+    {
+      "name": "Prathyusha",
+      "email": "hermianfoundation@gmail.com",
+      "designation": "Trustee & Co Founder",
+      "mobile": []
+    },
+    {
+      "name": "Prathyusha",
+      "email": "hermianfoundation@gmail.com",
+      "designation": "Trustee & Co Founder",
+      "mobile": []
+    },
+    {
+      "name": "Prathyusha",
+      "email": "hermianfoundation@gmail.com",
+      "designation": "Trustee & Co Founder",
+      "mobile": []
+    },
+    {
+      "name": "Prathyusha",
+      "email": "hermianfoundation@gmail.com",
+      "designation": "Trustee & Co Founder",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8800",
+  "name": "HERMIAN FOUNDATION FOR NEURO RESEARCH & INNOVATION",
+  "primaryEmail": "hermianfoundation@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Grant-making",
+    "Support"
+  ],
+  "telephone": [
+    "919496961285"
+  ],
+  "mainAddrress": {
+    "state": "Kerala",
+    "address": [
+      "Door No. XIX/122, Sreenikethan, Kunnirikka",
+      "Pathiriyad P.O, Kerala",
+      "Kannur",
+      "Kerala",
+      "670741"
+    ]
+  }
+}

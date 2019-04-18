@@ -1,0 +1,45 @@
+{
+  "contacts": [
+    {
+      "name": "Anudeep Kosuri",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4718",
+  "name": "Pratibimb Organisation",
+  "primaryEmail": "teampratibimb@gmail.com",
+  "website": "www.teampratibimb.org",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919966338291"
+  ],
+  "mainAddrress": {
+    "state": "Telangana",
+    "address": [
+      "#311",
+      "Kuntloor colony,",
+      "Hayathnagar",
+      "Rangareddy",
+      "Telangana",
+      "501505"
+    ]
+  },
+  "briefDescription": "We are a Social Service Organization formed by a group of friends with the hope of changing the way people think, and we pledge our undying efforts to save the universal morals of humanity.1.To do different kinds of Social and Eco friendly events to create awareness and to improve the participation of people in these kind of activities2.To bring difference in the minds of the people & an unbreakable efforts to save our morals of humanity",
+  "yearOfEstablishment": "2012",
+  "regiseredAddrress": {
+    "state": "Telangana",
+    "address": [
+      "#311",
+      "Kuntloor colony",
+      "Hayathnagar",
+      "Rangareddy",
+      "Telangana",
+      "501505"
+    ]
+  }
+}

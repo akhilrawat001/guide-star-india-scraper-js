@@ -1,0 +1,31 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2581",
+  "name": "Aman",
+  "primaryEmail": "jamal@amanpanchayat.org",
+  "website": "www.amanpanchayat.org",
+  "telephone": [
+    "911141328040",
+    "911141328040"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "O – 63 Lajpat Nagar – II",
+      "II Floor,",
+      "New Delhi",
+      "Delhi",
+      "110024"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "O ï¿½ 63 Lajpat Nagar ï¿½ II",
+      "II Floor,",
+      "New Delhi",
+      "Delhi",
+      "110024"
+    ]
+  }
+}

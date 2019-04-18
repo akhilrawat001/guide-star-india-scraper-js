@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Basanta Kumar Padhi",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6237",
+  "name": "PRAKRUTIMITRA SAMAJIKA SANGATHAN",
+  "primaryEmail": "pss.socialorg@gmail.com",
+  "website": "Not available",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919668362904"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "N A",
+      "Near Road side",
+      "Kupari",
+      "Baleswar",
+      "Odisha",
+      "756059"
+    ]
+  }
+}

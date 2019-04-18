@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Mr.Abhishek Anand",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "9431156245"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7294",
+  "name": "Manav Kalyan Kendra Dumka",
+  "primaryEmail": "Mkkdumka@gmail.com",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "919431156245"
+  ],
+  "mainAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "Ramayan Bhawan",
+      "Rakhabani",
+      "Dumka",
+      "Jharkhand",
+      "814101"
+    ]
+  }
+}

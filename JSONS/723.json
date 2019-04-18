@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "Maulana Badruddin Ajmal AI-Qasmi",
+      "email": "",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=723",
+  "name": "Markazul Ma'arif Education and Research Centre",
+  "primaryEmail": "manager@markazulmaarif.org",
+  "website": "www.markazulmaarif.org",
+  "organisationType": [
+    "Direct Service",
+    "Grant-making",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "912226798538",
+    "912265567157",
+    "919820760545",
+    "912226798538"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Pratiskha Nagar (Masjid Complex) Patilputra Nagar, Oshiwara",
+      "New Link Road, Jogeshwari (West)",
+      "Mumbai",
+      "Maharashtra",
+      "400102"
+    ]
+  }
+}

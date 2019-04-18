@@ -1,0 +1,27 @@
+{
+  "contacts": [
+    {
+      "name": "Capt. Baldev Singh Rana",
+      "email": "rajkhanoria76@gmail.com",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4702",
+  "name": "I.C.E. Educational Society",
+  "primaryEmail": "rajkhanoria76@gmail.com",
+  "telephone": [
+    "911894263738",
+    "919418251466"
+  ],
+  "mainAddrress": {
+    "state": "Himachal Pradesh",
+    "address": [
+      "Near Electricity Office, 2Nd Floor,",
+      "Ganesh Bazar Baijnath",
+      "Kangra",
+      "Himachal Pradesh",
+      "176125"
+    ]
+  }
+}

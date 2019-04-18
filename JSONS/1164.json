@@ -1,0 +1,47 @@
+{
+  "contacts": [
+    {
+      "name": "Sarita Devi",
+      "email": "prem.krsinha@gmail.com",
+      "designation": "Manager",
+      "mobile": [
+        "91-9334044931"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1164",
+  "name": "The Vigil",
+  "primaryEmail": "thevigil123@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Network"
+  ],
+  "telephone": [
+    "916122303223",
+    "916122303223"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "Sehgal Path,",
+      "New  Area Jakkanpur, Mithapur",
+      "Patna",
+      "Bihar",
+      "800001",
+      "AP_BankStat_1067.PDF"
+    ]
+  },
+  "briefDescription": "The Vigil is a non-profit and non-political NGO operational since 1994 in Bihar state of India. The organization is established by a group of committed social activists and professionals with a common vision and sincerity to work for the development of the poor and marginalized section of the society, so that they can be integrated into the mainstream of the society. The Society is working in field of mother & child care, Rural youth training   creach  center ,condense course for women  with the help of 16 full time staff staff 12 part time worker, 15 volunteers and  250 social worker. The society is registered with all legal identity.",
+  "yearOfEstablishment": "1997",
+  "regiseredAddrress": {
+    "state": "Bihar",
+    "address": [
+      "Sehgal Path",
+      "New  Area Jakkanpur, Mithapur",
+      "Patna",
+      "Bihar",
+      "800001",
+      "AP_BankStat_1067.PDF"
+    ]
+  }
+}

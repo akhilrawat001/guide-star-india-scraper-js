@@ -1,0 +1,26 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=171",
+  "name": "Khairabad Eye Hospital",
+  "primaryEmail": "khairabad@hotmail.com",
+  "website": "www.mahendraeyeinstitute.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "915122525221",
+    "915123290447",
+    "919336118273",
+    "915122549430"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "Swaroop Nagar",
+      "Kanpur",
+      "Kanpur Nagar",
+      "Uttar Pradesh",
+      "208002"
+    ]
+  }
+}

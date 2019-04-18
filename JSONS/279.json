@@ -1,0 +1,35 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=279",
+  "name": "Jan Jagran Sansthan",
+  "primaryEmail": "jjs_nalanda@yahoo.co.in",
+  "website": "www.atsecbihar.org",
+  "organisationType": [
+    "Direct Service",
+    "Network"
+  ],
+  "telephone": [
+    "916122273957",
+    "919431687863"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "Jan Jagran Sansthan, 30 B",
+      "Patliputra Colony",
+      "Patna",
+      "Bihar",
+      "800013"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Bihar",
+    "address": [
+      "Mohalla- Kagzi",
+      "Biharsharif",
+      "Nalanda",
+      "Bihar",
+      "803101"
+    ]
+  }
+}

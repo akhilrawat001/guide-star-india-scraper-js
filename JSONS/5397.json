@@ -1,0 +1,38 @@
+{
+  "contacts": [
+    {
+      "name": "Aniruddha Patra",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "250028"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5397",
+  "name": "Serving Communities On Poverty Eradication",
+  "primaryEmail": "info@scopeorg.in",
+  "website": "www.scopeorg.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Intermediary",
+    "Network"
+  ],
+  "telephone": [
+    "916652250028",
+    "916652250028"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "Grace Bhavan,Jai Durga Nagar,Post Rajendra College",
+      "Near Saraswati Shishu Mandir,Balangir(Orissa State)",
+      "Balangir",
+      "Odisha",
+      "767002"
+    ]
+  },
+  "briefDescription": "Our Organization works for the development of poor and vulnerable communities.We serve around 10,000 people.",
+  "yearOfEstablishment": "1996"
+}

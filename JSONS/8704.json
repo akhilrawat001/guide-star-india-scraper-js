@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Dillip Kumar Muduli",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8704",
+  "name": "UTSHARGA",
+  "primaryEmail": "utsharga@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919438291194"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "At- Biribati,",
+      "PO- Jankoti,",
+      "Jagatsinghapur",
+      "Odisha",
+      "754103"
+    ]
+  }
+}

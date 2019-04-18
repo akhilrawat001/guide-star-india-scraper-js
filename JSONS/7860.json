@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Prakash Vijaysingh Rathod",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7860",
+  "name": "Udan Multipurpose Foundation",
+  "primaryEmail": "pvrathod@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "918975762202"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Adgaon",
+      "Parola",
+      "Jalgaon",
+      "Maharashtra",
+      "425003"
+    ]
+  }
+}

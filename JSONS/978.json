@@ -1,0 +1,50 @@
+{
+  "contacts": [
+    {
+      "name": "Narayan Samanta",
+      "email": "angikar.2007@rediffmail.com",
+      "designation": "Treasurer",
+      "mobile": [
+        "91-33-24283363"
+      ]
+    },
+    {
+      "name": "Narayan Samanta",
+      "email": "angikar.2007@rediffmail.com",
+      "designation": "Treasurer",
+      "mobile": [
+        "91-33-24283363"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=978",
+  "name": "Digambarpur Angikar",
+  "primaryEmail": "angikar.2012@gmail.com",
+  "website": "www.angikar.org",
+  "telephone": [
+    "919830568630",
+    "913324283363"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Vill & P.O – Digambarpur, Via – Kashinagar",
+      "Sonarpur,",
+      "South 24 Parganas",
+      "West Bengal",
+      "743349"
+    ]
+  },
+  "briefDescription": "Ours is a NGO established by a group of dedicated social activist of Sundarban region in 2000 with a view to undertake relief and rehabilitation as well as development initiatives for empowerment of women and children and other vulnerable sections of sociology-economically backward communities. Since inception the organisation has been involved in the rural development and social action programmes for strengthening education, health, gender equity, water and sanitation and livelihood development in North and South 24 Parganas districts of Sundarban region.",
+  "yearOfEstablishment": "2000",
+  "regiseredAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Vill & P.O ï¿½ Digambarpur, Via ï¿½ Kashinagar",
+      "Sonarpur,",
+      "South 24 Parganas",
+      "West Bengal",
+      "743349"
+    ]
+  }
+}

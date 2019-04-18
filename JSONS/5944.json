@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Ashvani Kumar",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5944",
+  "name": "Shree Geeta Jan Kalyan Shiksha Samiti",
+  "primaryEmail": "shreegeetajankalyan1@gmail.com",
+  "website": "N/A",
+  "organisationType": [
+    "Direct Service",
+    "Network"
+  ],
+  "telephone": [
+    "919411411600"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "Peepal Nagar, New Abadi Rehana, FIROZABAD",
+      "Peepal Nagar New Abadi Rehana, FIROZABAD",
+      "Firozabad",
+      "Uttar Pradesh",
+      "283203"
+    ]
+  }
+}

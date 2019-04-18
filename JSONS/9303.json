@@ -1,0 +1,34 @@
+{
+  "contacts": [
+    {
+      "name": "Rajendra Tawde",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "9869074181"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9303",
+  "name": "Society for Human and Environmental Development",
+  "primaryEmail": "shedkalina@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919869074181"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "SHED Complex, Opp St Mary's High School, Santacruz (E)",
+      "Kalina Church, Santacruz (E)",
+      "Mumbai City",
+      "Mumbai",
+      "Maharashtra",
+      "400029"
+    ]
+  }
+}

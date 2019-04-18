@@ -1,0 +1,35 @@
+{
+  "contacts": [
+    {
+      "name": "Nargis Jahan",
+      "email": "info@agsamiti.org",
+      "designation": "Program Manager",
+      "mobile": [
+        "91-11-26133994"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1670",
+  "name": "Adi Gram Samiti",
+  "primaryEmail": "info@agsamiti.org",
+  "website": "www.agsamiti.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "911191-11-26133994",
+    "911191-11-26133994"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "Sector -B, Pocket -1, Flat No-1106A,, Vasant Kunj, New Delhi- 110070",
+      "New Delhi",
+      "South Delhi",
+      "Delhi",
+      "110070"
+    ]
+  },
+  "briefDescription": "Adi Gram Samiti (AGS) is imparting pre primary, Primary and adult education to underprivileged girls/women. AGS is also focusing on empowering women by imparting vocational skills in costume jewellery making and designing and tailoring. AGS is serving women/children from  marginalized communities since 2000.Achievement9000 girls have completed pre primary education from AGS education centres.More than 11500 girls have completed primary education from AGS Primary education centres 17550 girls have been admitted in formal schools after getting initial education and motivation from AGS education centres.  15000 girls/women have obtained training in costume jewellery and tailoring from AGS vocational training centres",
+  "yearOfEstablishment": "1993"
+}

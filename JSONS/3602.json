@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Md Aftab Alam",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3602",
+  "name": "YASIN EDUCATIONAL AND WELFARE SOCIETY",
+  "primaryEmail": "yeand.welfaresociety@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "916452245159",
+    "916452245159"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "At- Sharifganj",
+      "Po- Daharia Mill",
+      "Ktihar",
+      "Katihar",
+      "Bihar",
+      "854105"
+    ]
+  }
+}

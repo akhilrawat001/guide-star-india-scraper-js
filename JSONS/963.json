@@ -1,0 +1,34 @@
+{
+  "contacts": [
+    {
+      "name": "Manju Mukhi",
+      "email": "",
+      "designation": "Child Psychotherapist",
+      "mobile": []
+    },
+    {
+      "name": "Manju Mukhi",
+      "email": "",
+      "designation": "Child Psychotherapist",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=963",
+  "name": "The Psycho-Analytic Therapy and Research Centre",
+  "primaryEmail": "ptrcentre@yahoo.co.in",
+  "website": "www.psychoanalysis-mumbai.org",
+  "telephone": [
+    "912222813735",
+    "912222813735"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Veetrag Chambers, Room No 4",
+      "1st Fl",
+      "Mumbai",
+      "Maharashtra",
+      "400001"
+    ]
+  }
+}

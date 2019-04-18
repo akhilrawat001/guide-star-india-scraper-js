@@ -1,0 +1,37 @@
+{
+  "contacts": [
+    {
+      "name": "Jyotsna Maity",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "64636509"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4232",
+  "name": "Youth for Human Rights India",
+  "primaryEmail": "jyotsna.maity@yhriindia.org",
+  "website": "www.yhri.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Support"
+  ],
+  "telephone": [
+    "911164636509",
+    "911164636509"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "602-E",
+      "Ward No. 3",
+      "Mehrauli",
+      "South Delhi",
+      "Delhi",
+      "110030"
+    ]
+  },
+  "briefDescription": "Youth for Human Rights India is a non-profit organization working to promote human rights education among youth. We want to establish a culture based in human rights and the path to that culture goes through awareness of human rights. We have developed interesting materials to teach youth about human rights and have been awarded for the same. We have reached thousands of youth through workshops, events and distribution of materials through schools, other NGOs etc.",
+  "yearOfEstablishment": "2010"
+}

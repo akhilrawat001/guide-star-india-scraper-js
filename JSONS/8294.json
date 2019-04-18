@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Subhas Chandra Konai",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8294",
+  "name": "Birbhum District Netball Association",
+  "primaryEmail": "subhaskonai41@gmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network"
+  ],
+  "telephone": [
+    "918609566041"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Tarapur, Birbhum",
+      "Basic more",
+      "Tarapur",
+      "Birbhum",
+      "West Bengal",
+      "731233"
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "name": "K S Narayanan",
+      "email": "madhu.singhal59@gmail.com",
+      "designation": "Admin Officer",
+      "mobile": [
+        "91-80-25727623"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=405",
+  "name": "MITRA JYOTHI",
+  "primaryEmail": "madhu.singhal59@gmail.com",
+  "website": "http://www.mitrajyothi.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918025727623"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "C.A.Site No.P22, HSR Layout",
+      "Sector-1, 18th Cross, 31st Main, (Behind NIFT)",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560102"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "Karnataka"
+    ]
+  }
+}

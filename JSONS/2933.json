@@ -1,0 +1,26 @@
+{
+  "contacts": [
+    {
+      "name": "Vimal Chandra Mishra Fauji",
+      "email": "sarvodayvikas@gmail.com",
+      "designation": "Chairman",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2933",
+  "name": "SOCIETY FOR SARVODAYA VIKAS",
+  "primaryEmail": "sarvodayvikas@gmail.com",
+  "telephone": [
+    "918512865640"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "I-2 BLOCK",
+      "400 A GALI, NO-9 SANGAM VIHAR",
+      "New Delhi",
+      "Delhi",
+      "110062"
+    ]
+  }
+}

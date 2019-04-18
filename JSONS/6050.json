@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Akansh Kumar Sinha",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "9899938536"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6050",
+  "name": "Udaan Foundation",
+  "primaryEmail": "info@udaanfoundation.org",
+  "website": "http://www.udaanfoundation.org",
+  "organisationType": [
+    "Direct Service",
+    "Intermediary"
+  ],
+  "telephone": [
+    "919899938536"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "H-NO. 19, GROUND FLOOR, SAMMAN BAZAR",
+      "BHOGAL",
+      "New Delhi",
+      "Delhi",
+      "110014"
+    ]
+  }
+}

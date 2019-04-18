@@ -1,0 +1,40 @@
+{
+  "contacts": [
+    {
+      "name": "K V Ananda Rao",
+      "email": "nabkarnataka@yahoo.co.in",
+      "designation": "Education Officer",
+      "mobile": [
+        "91-80-25281590"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=495",
+  "name": "The National Association for the Blind- Karnataka Branch",
+  "primaryEmail": "nabkarnataka@yahoo.co.in",
+  "website": "http://www.nabkarnataka.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918025281590",
+    "918025281439"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "C A Site No 4, NAB Road",
+      "Jeevan Bima Nagar HAL II Stage",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560075"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "Karnataka"
+    ]
+  }
+}

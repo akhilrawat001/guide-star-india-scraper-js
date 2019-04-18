@@ -1,0 +1,38 @@
+{
+  "contacts": [
+    {
+      "name": "DSRC Murthy",
+      "email": "switha@gmail.com",
+      "designation": "Associate",
+      "mobile": []
+    },
+    {
+      "name": "DSRC Murthy",
+      "email": "switha@gmail.com",
+      "designation": "Associate",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=340",
+  "name": "Chitrika",
+  "primaryEmail": "switha@gmail.com",
+  "website": "http://www.giveindia.org/GetOrganisationProfile.aspx?ngoid=882",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "914027001147",
+    "914027001147"
+  ],
+  "mainAddrress": {
+    "state": "Telangana",
+    "address": [
+      "No 12-5-12/4/1, VJR Street",
+      "Vijaypuri, Tarnaka",
+      "Secunderabad",
+      "Hyderabad",
+      "Telangana",
+      "500017"
+    ]
+  }
+}

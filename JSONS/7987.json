@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "BHASKAR JANARDHAN DALAVI",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7987",
+  "name": "SWAR SANGEET SHIKSHAN PRASARAK MANDAL",
+  "primaryEmail": "swarsangeet.pachod@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "912431221261",
+    "912431221261"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "AT POST PACHOD",
+      "TAL PAITHAN",
+      "DIST AURANGABAD",
+      "Aurangabad",
+      "Maharashtra",
+      "431121"
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "P. Simmachandran",
+      "email": "tnhandicappedtrust@yahoo.co.in",
+      "designation": "State general secretary",
+      "mobile": [
+        "91-9444115936"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2734",
+  "name": "Tamil Nadu Handicapped Federation Charitable Trust",
+  "primaryEmail": "tnhandicappedtrust@yahoo.co.in",
+  "telephone": [
+    "914432927664",
+    "919382837195"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "No.21, AA, Earikarai (Lake view street), chennai",
+      "Kottur",
+      "Chennai",
+      "Tamil Nadu",
+      "600085"
+    ]
+  }
+}

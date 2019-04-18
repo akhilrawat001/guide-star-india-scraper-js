@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Ritika Bhutada",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5979",
+  "name": "CaN Trust",
+  "primaryEmail": "ritika.laddha@gmail.com",
+  "website": "www.cantrust.org.in",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "917506252294"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "B-302, Aishwarya Serenity,",
+      "Near Marthahalli Overbridge",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560037"
+    ]
+  }
+}

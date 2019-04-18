@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Mr. Kiran Devi",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "8858449909"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5847",
+  "name": "SAMAJOTTHAN",
+  "primaryEmail": "samajotthan@gmail.com",
+  "website": "samajotthan.org",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919451265699"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "Civil Line",
+      "In Front Of Kansal Automobiles",
+      "Deoria",
+      "Uttar Pradesh",
+      "274001"
+    ]
+  }
+}

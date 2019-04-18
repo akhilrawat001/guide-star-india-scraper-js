@@ -1,0 +1,37 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6847",
+  "name": "Belgaum Diocesan Social Service Society",
+  "primaryEmail": "bdsssd@gmail.com",
+  "website": "www.bdsss.org",
+  "organisationType": [
+    "Direct Service",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "918553406996"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "Sevalaya",
+      "Dr. Da Ra Bendre Road, Sadhankeri",
+      "Dharwad",
+      "Karnataka",
+      "580008"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "Bishop’s House, B.C. 69",
+      "Camp",
+      "Belgaum",
+      "Belagavi (Belgaum)",
+      "Karnataka",
+      "590001"
+    ]
+  }
+}

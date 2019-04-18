@@ -1,0 +1,28 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1308",
+  "name": "Mominpore Rabiul Foundation",
+  "primaryEmail": "rabiulfoundation@gmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "913332617768",
+    "919331116661"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "39",
+      "Mominpore Road, Kidderpore,",
+      "Kolkata",
+      "West Bengal",
+      "700023"
+    ]
+  }
+}

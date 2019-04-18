@@ -1,0 +1,25 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10501",
+  "name": "Naina Sanskritik Vikas Prashikshan Sansthan",
+  "primaryEmail": "naina.atarra1@gmail.com",
+  "website": "www.nainabundelkhand.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service"
+  ],
+  "telephone": [
+    "919005732797"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "Village Bhaggu Ka Purwa",
+      "Post Nagnedhi",
+      "Atarra",
+      "Banda",
+      "Uttar Pradesh",
+      "210120"
+    ]
+  }
+}

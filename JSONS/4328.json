@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "M MANOGARN",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4328",
+  "name": "MOTHER CHARITABLE TRUST & HERBAL RESEARCH CENTRE",
+  "primaryEmail": "motherfoundation7@gmail.com",
+  "website": "mothercharitabletrust.weebly.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918124372632"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "28.AKS COMPLEX,ARNI ROAD,VELLORE-1.",
+      "NEAR CMC EYE HOSPITAL",
+      "VELLORE",
+      "Vellore",
+      "Tamil Nadu",
+      "632001"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "contacts": [
+    {
+      "name": "Dr. B. P. VIJAYARAJU",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7585",
+  "name": "VACHAN",
+  "primaryEmail": "drbpvijayaraju@yahoo.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "9845624640"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "NO 11/1 OFFICE NO-2, SAHUKAR CHENNAIAH ROAD",
+      "OPPOSITE TO VIJAYA BANK",
+      "JANATHANAGAR MYSORE",
+      "Mysuru (Mysore)",
+      "Karnataka",
+      "570023"
+    ]
+  }
+}

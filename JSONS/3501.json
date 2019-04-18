@@ -1,0 +1,26 @@
+{
+  "contacts": [
+    {
+      "name": "Surendra Sahebrao Gore",
+      "email": "srg9975336539@gmail.com",
+      "designation": "Village Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3501",
+  "name": "Balgram (S O S Childrens Villages)",
+  "primaryEmail": "balgrampanhala@gmail.com",
+  "telephone": [
+    "912328235332",
+    "912328235332"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Tal Panhala City",
+      "Kolhapur",
+      "Maharashtra",
+      "416201"
+    ]
+  }
+}

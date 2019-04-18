@@ -1,0 +1,34 @@
+{
+  "contacts": [
+    {
+      "name": "Aditi Diwan",
+      "email": "",
+      "designation": "Secretary",
+      "mobile": [
+        "91-7492-223994"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1794",
+  "name": "Neev Samiti",
+  "primaryEmail": "aditi.diwan@gmail.com",
+  "website": "http://neevmp.blogspot.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "917492223994",
+    "917492223991",
+    "919425136094"
+  ],
+  "mainAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "White House",
+      "Katha Mill,",
+      "Shivpuri",
+      "Madhya Pradesh",
+      "473551"
+    ]
+  }
+}

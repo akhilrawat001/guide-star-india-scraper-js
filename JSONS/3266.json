@@ -1,0 +1,31 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3266",
+  "name": "The Maharashtra State Anti-Tuberculosis Association",
+  "primaryEmail": "msatba@gmail.com",
+  "telephone": [
+    "912224106583",
+    "912224109673",
+    "912224106583"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Koch’S House, Jerbai Wadia Road,",
+      "Outside Group Of Tb Hospitals, Sewree",
+      "Mumbai",
+      "Maharashtra",
+      "400015"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Kochï¿½S House, Jerbai Wadia Road,",
+      "Outside Group Of Tb Hospitals, Sewree",
+      "Mumbai",
+      "Maharashtra",
+      "400015"
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5381",
+  "name": "HAZRAT BURHANUDDIN GARIB MULTIPURPOSE WELFARE SOCIETY AURANGABAD",
+  "primaryEmail": "drm.shamsulhaq@gmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Intermediary",
+    "Network"
+  ],
+  "telephone": [
+    "919823807373"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "H.N0 5-5-2/P,KALI MASJID,KOKAN WADI,",
+      "RAILWAY STATION ROAD.",
+      "AURANAGABD",
+      "Aurangabad",
+      "Maharashtra",
+      "431005"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "H,NO,5-5-2/P,KALI MASJID,KOKAN WADI,",
+      "RAILWAY STATION ROAD,",
+      "AURANGABAD",
+      "Aurangabad",
+      "Maharashtra",
+      "431005"
+    ]
+  }
+}

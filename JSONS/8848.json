@@ -1,0 +1,37 @@
+{
+  "contacts": [
+    {
+      "name": "Chitra Gupta",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "9811477982"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8848",
+  "name": "MAHARANI FOUNDATION",
+  "primaryEmail": "maharanifoundation@gmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919811477982"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "Rz 6/10 B 3Rd Floor Gali No 6",
+      "Near Khandelwal Jewellers , Tughalakabad Extn.",
+      "New Delhi",
+      "South Delhi",
+      "Delhi",
+      "110019"
+    ]
+  }
+}

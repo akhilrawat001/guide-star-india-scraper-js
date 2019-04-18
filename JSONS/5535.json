@@ -1,0 +1,33 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5535",
+  "name": "BAHUJAN HITAY",
+  "primaryEmail": "bhthane123@gmail.com",
+  "website": "www.bhtrustthane.org.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919370070353"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Shukhavati, 820",
+      "Shivaji Nagar, Opp.Tata power, Piswali",
+      "Kalyan",
+      "Thane",
+      "Maharashtra",
+      "421306"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Bhamchakra Pravartan Mahavihar,Mahavihar road,Dapodi",
+      "Pune",
+      "Maharashtra",
+      "411012"
+    ]
+  }
+}

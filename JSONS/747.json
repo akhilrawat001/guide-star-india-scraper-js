@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "J Aivir SinGH",
+      "email": "",
+      "designation": "Director/Secretory",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=747",
+  "name": "Nirman Sewa Sansthan",
+  "primaryEmail": "nirmansewa@rediffmail.com",
+  "telephone": [
+    "915122281804",
+    "919415133030",
+    "915122281804"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "29, New MIG Barra-2",
+      "Kanpur",
+      "Kanpur Nagar",
+      "Uttar Pradesh",
+      "208027"
+    ]
+  }
+}

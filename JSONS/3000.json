@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "uma singh",
+      "email": "manager@savitrisinghngo.org",
+      "designation": "president",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3000",
+  "name": "SAVITRI SINGH SHIKSHA EVAM SEVA SAMITI",
+  "primaryEmail": "manager@savitrisinghngo.com",
+  "website": "www.savitrisinghngo.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919450580362"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "village- rauli",
+      "post- rauli",
+      "haidergarh",
+      "Barabanki",
+      "Uttar Pradesh",
+      "227301"
+    ]
+  },
+  "briefDescription": "SAVITRI SINGH SHIKSHA EVAM SEVA SAMITI",
+  "yearOfEstablishment": "2012"
+}

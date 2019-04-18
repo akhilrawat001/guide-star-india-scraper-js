@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "name": "LOK BAHADUR SINGH",
+      "email": "LOKBAHADURSINGH@YAHOO.CO.IN",
+      "designation": "PROJECT DIRECTOR",
+      "mobile": []
+    },
+    {
+      "name": "LOK BAHADUR SINGH",
+      "email": "LOKBAHADURSINGH@YAHOO.CO.IN",
+      "designation": "PROJECT DIRECTOR",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7191",
+  "name": "Progati Sangha of Dara",
+  "primaryEmail": "pragatisangha@gmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919830448717"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Vill.& PO - Dara,",
+      "PS - Joynagar,",
+      "South 24 Parganas",
+      "West Bengal",
+      "743337"
+    ]
+  },
+  "briefDescription": "Education, E-learning/E-Literacy Program and computer centre, Sanitation & Hygiene, Drinking Water, Construction of Toilets in Schools under Swachh Bharat Mission, Excavation of Ponds for Livelihood Program,Women Empowerment, Vocational & Skill Development Training,Poverty Eradication Program, etc.",
+  "yearOfEstablishment": "1972"
+}

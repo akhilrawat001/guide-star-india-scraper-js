@@ -1,0 +1,38 @@
+{
+  "contacts": [
+    {
+      "name": "Vikram Srivastava",
+      "email": "vikram@ithought.in",
+      "designation": "Founder",
+      "mobile": [
+        "91-120-2544052"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2955",
+  "name": "Independent Thought",
+  "primaryEmail": "vikram.ithought@ithought.in",
+  "website": "www.ithought.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Intermediary",
+    "Network"
+  ],
+  "telephone": [
+    "919971884900",
+    "919971384994"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "N-257",
+      "Sector 25",
+      "Noida",
+      "Gautam Buddha Nagar",
+      "Uttar Pradesh",
+      "201301"
+    ]
+  },
+  "briefDescription": "As an introduction, Independent Thought (iThought – www.ithought.in) is a National Human Rights organization working towards equity, justice and mutual respect. We work on human right and law through direct Intervention, Advocacy and Judicial actions and provide technical and hand-holding support to non government, government and multilateral Funding, Policy, Research and Grassroots organizations in several states of India.",
+  "yearOfEstablishment": "2009"
+}

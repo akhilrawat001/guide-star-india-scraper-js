@@ -1,0 +1,48 @@
+{
+  "contacts": [
+    {
+      "name": "Panimalar A",
+      "email": "csr@breadsbangalore.org",
+      "designation": "Manager - CSR Partnership",
+      "mobile": [
+        "25463476",
+        "7204796127"
+      ]
+    },
+    {
+      "name": "Panimalar A",
+      "email": "csr@breadsbangalore.org",
+      "designation": "Manager - CSR Partnership",
+      "mobile": [
+        "25463476",
+        "7204796127"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6405",
+  "name": "Bangalore Rural Educational And Development Society",
+  "primaryEmail": "director@breadsbangalore.org",
+  "website": "http://www.breadsbangalore.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "918025463476",
+    "918025463476"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "Don Bosco, 75, North Road",
+      "St.Thomas Town Post",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560084"
+    ]
+  },
+  "briefDescription": "BREADS - Bangalore Rural Educational and Development Society is the Development Organization of the Salesian Province of Bangalore. We assist and promote the development activities of NGOs, particularly the Don Bosco partners in Karnataka and Kerala. We are part of an international network of Don Bosco organizations working in over 130 countries across the globe. We draw our inspiration from Don Bosco, Priest and Educator of the 19th century, who dedicated his life to young people especially the marginalized. Children, young people and women have been the main target group of all our projects and programmes, as we believe that they are the most vulnerable and subject to abuse, neglect and exploitation.",
+  "yearOfEstablishment": "1995"
+}

@@ -1,0 +1,47 @@
+{
+  "contacts": [
+    {
+      "name": "Renu",
+      "email": "office@babul.ngo",
+      "designation": "Secretary",
+      "mobile": [
+        "91-9618082288"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6571",
+  "name": "BABUL FILMS SOCIETY",
+  "primaryEmail": "babulfilms@yahoo.com",
+  "website": "http://babul.ngo/",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Intermediary",
+    "Network"
+  ],
+  "telephone": [
+    "919618082288"
+  ],
+  "mainAddrress": {
+    "state": "Telangana",
+    "address": [
+      "S-4, Saregama Apts. opp International School, Shaikpetnala",
+      "GOLCONDA POST, Rangareddi dist",
+      "Hyderabad",
+      "Telangana",
+      "500008"
+    ]
+  },
+  "briefDescription": "Babul Films Society is a registered non-profit NGO based out of Hyderabad. We spread awareness about Environment, Biodiversity and Sustainable Development using Short Videos and Social media as tools in addition to traditional advocacy methods. In a democratic setup, awareness is the key to live and progress sustainably; Babul Films works to spread knowledge among ignorant and push the aware towards action.",
+  "yearOfEstablishment": "2012",
+  "regiseredAddrress": {
+    "state": "Telangana",
+    "address": [
+      "HNo.3-3-76/27, Chaitanya Villas",
+      "HYDERGUDA POST, Rangareddi Dist",
+      "Hyderabad",
+      "Telangana",
+      "500048"
+    ]
+  }
+}

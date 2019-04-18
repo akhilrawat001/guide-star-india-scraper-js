@@ -1,0 +1,27 @@
+{
+  "contacts": [
+    {
+      "name": "M Bhaskar Reddy",
+      "email": "arunodayaknl@yahoo.co.in",
+      "designation": "CHAIRMAN",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2919",
+  "name": "Arunodaya Educational Rural Development Society (AERDS)",
+  "primaryEmail": "arunodayaknl@yahoo.co.in",
+  "telephone": [
+    "918518229806"
+  ],
+  "mainAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "H.NO: 81-27-5,",
+      "RAM RAHIM NAGAR, KALLUR MANDAL",
+      "KURNOOL",
+      "Kurnool",
+      "Andhra Pradesh",
+      "518002"
+    ]
+  }
+}

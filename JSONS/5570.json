@@ -1,0 +1,41 @@
+{
+  "contacts": [
+    {
+      "name": "RAMAGYA TIWARY",
+      "email": "astitvabodh@rediffmail.com",
+      "designation": "SECRETARY",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5570",
+  "name": "ASTITVA BODH",
+  "primaryEmail": "astitvabodh@rediffmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919308054873"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "KISHAN SHREE ASRAM VILL+P O - MAJHIAON , BLOCK - CHARPOKHARI",
+      "BHOJPUR",
+      "ARA",
+      "Bhojpur",
+      "Bihar",
+      "802223"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Bihar",
+    "address": [
+      "KISHAN SHREE ASRAM VILL+P O - MAJHIAON ,",
+      "BLOCK - CHARPOKHARI BHOJPUR",
+      "ARA",
+      "Bhojpur",
+      "Bihar",
+      "802223"
+    ]
+  }
+}

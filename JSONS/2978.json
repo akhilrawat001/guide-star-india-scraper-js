@@ -1,0 +1,39 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2978",
+  "name": "Federation of Indian Animal Protection Organisations",
+  "primaryEmail": "mail@fiapo.org",
+  "website": "www.fiapo.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "917568768223",
+    "911141072945"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "E-18 A, 1st Floor, E- Block, East 0f Kailash, New Delhi",
+      "East of Kailash New Delhi",
+      "South Delhi",
+      "Delhi",
+      "110065"
+    ]
+  },
+  "briefDescription": "Federation of Indian Animal Protection Organisations (FIAPO) is a collective of animal protection organisations in India. It represents and advocates for NGOs and activists in the Indian animal protection sector; and also independently conducts research about and advocates for the rights of animals.",
+  "yearOfEstablishment": "2010",
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "118 Mahabhadra Kali CGHS",
+      "Sector 13, Dwarka",
+      "New Delhi",
+      "West Delhi",
+      "Delhi",
+      "110075"
+    ]
+  }
+}

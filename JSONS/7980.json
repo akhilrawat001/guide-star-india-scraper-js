@@ -1,0 +1,26 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7980",
+  "name": "Annapurna Sevabhavi Sanstha",
+  "primaryEmail": "pramodvsawant@hotmail.com",
+  "website": "www.Annapurnasewabhavisanstha.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919923267754",
+    "912164646477"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Near Bhikoba Patil Highschool",
+      "Masur-Kiwal Road,Chikhali",
+      "Ap- Chikhali,Tal-Karad",
+      "Satara",
+      "Maharashtra",
+      "415106"
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "contacts": [
+    {
+      "name": "Gautam Vohra (Dr)",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=350",
+  "name": "Development Research and Action Group",
+  "primaryEmail": "priyavari@sify.com",
+  "website": "http://www.giveindia.org/GetOrganisationProfile.aspx?ngoid=159",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "911126140646",
+    "911126140646"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "75 Paschimi Marg, Vasant Vihar",
+      "New Delhi",
+      "Delhi",
+      "110057"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "75 Paschimi Marg, Vasant Vihar",
+      "New Delhi",
+      "Delhi"
+    ]
+  }
+}

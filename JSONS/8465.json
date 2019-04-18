@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Bhanu Prakash",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8465",
+  "name": "Deepayan",
+  "primaryEmail": "kundanprakash5@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919334868978"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "Sri Kishori Priya Sharan",
+      "Ashok Nagar, Road No.11",
+      "Near Devi Asthan, Kankarbagh",
+      "Patna",
+      "Bihar",
+      "800020"
+    ]
+  }
+}

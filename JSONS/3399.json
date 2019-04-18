@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Seema Malhotra",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3399",
+  "name": "SCOPE PLUS",
+  "primaryEmail": "scopeplus@gmail.com",
+  "website": "Htttp://www.scopeplus.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919818333200"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "B-73 Soami Nagar North",
+      "Near Panchsheel enclave",
+      "New Delhi",
+      "South Delhi",
+      "Delhi",
+      "110017"
+    ]
+  },
+  "briefDescription": "Skill development and education,career guidance ,personality development, for students.Gender sensitisation of Delhi Police",
+  "yearOfEstablishment": "1996"
+}

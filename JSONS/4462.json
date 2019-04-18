@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Prabhulal Damore",
+      "email": "rasgundikuvadungarpur@gmail.com",
+      "designation": "Chairman",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4462",
+  "name": "RAJASTHAN ADIVASI SANGH",
+  "primaryEmail": "rasgundikuvadungarpur@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "917568906036"
+  ],
+  "mainAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "Manek chowk, Opp. Police Chowki, Nr. Swami Narayan",
+      "Temple, Manek chowk, Dungarpur, Rajasthan",
+      "Dungarpur",
+      "Rajasthan",
+      "314001"
+    ]
+  }
+}

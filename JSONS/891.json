@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Angela D'Souza",
+      "email": "spymhrc@gmail.com",
+      "designation": "Project Coordinator",
+      "mobile": [
+        "91-11-26893872"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=891",
+  "name": "Society For Promotion Of Youth And Masses",
+  "primaryEmail": "spym@vsnl.com",
+  "website": "http://spym.org/",
+  "telephone": [
+    "911126896229",
+    "911126893872",
+    "911126893872"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "111/9, Opposite section B4",
+      "Aruna Asaf Ali Road, Vasant Kunj",
+      "New Delhi",
+      "South West Delhi",
+      "Delhi",
+      "110070"
+    ]
+  }
+}

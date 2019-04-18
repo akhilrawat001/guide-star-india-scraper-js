@@ -1,0 +1,51 @@
+{
+  "contacts": [
+    {
+      "name": "Ranjan Kanti Panda",
+      "email": "ranjan@cinindia.org",
+      "designation": "Deputy Director (Programme & Planning)",
+      "mobile": [
+        "91-33-24978206"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=337",
+  "name": "Child in need Institute",
+  "primaryEmail": "cini@cinindia.org",
+  "website": "http://www.cini-india.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "913324978192",
+    "913324978241",
+    "913324978192"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Daulatpur, P.O. Pailan, via Joka,",
+      "24 Parganas (South)",
+      "Kolkata",
+      "South 24 Parganas",
+      "West Bengal",
+      "700104"
+    ]
+  },
+  "briefDescription": "Child In Need Institute (CINI) is a registered national level voluntary organization working with deprived community since 1974. CINI runs operations in the states of West Bengal, Jharkhand, Assam and Odisha, reaching about 7 million people. CINI has received twice the National Award for Child Welfare – 1985 and 2004 – for its contributions to child welfare. It is guided by its mission of sustainable development in the domains of health, nutrition, education and protection for children, adolescents and women in need. The organization Developed a convergence model known as “Child Friendly Community” (CFC) to reach vulnerable children and women access Nutrition, Health, Education and Protection services from govt. functionaries. In this last 45 years of journey, CINI has grown over the years and made significant contributions in the sector of Health, Nutrition, Education & Protection of which many have been recognised at the National & State level.",
+  "yearOfEstablishment": "1975",
+  "regiseredAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Daulatpur, P.O. Pailan, Via Joka,",
+      "24 Parganas (South)",
+      "Kolkata",
+      "South 24 Parganas",
+      "West Bengal",
+      "700104"
+    ]
+  }
+}

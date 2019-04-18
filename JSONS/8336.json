@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Sarat Kumar Patnaik",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8336",
+  "name": "Koraput Farmers' Association",
+  "primaryEmail": "kfakoraput@gmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network"
+  ],
+  "telephone": [
+    "916852252849",
+    "916852252849"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "Goutam Nagar,",
+      "First Lane",
+      "Koraput",
+      "Odisha",
+      "764020"
+    ]
+  }
+}

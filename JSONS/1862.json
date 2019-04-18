@@ -1,0 +1,28 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1862",
+  "name": "Sanjivani Vikas Foundation",
+  "primaryEmail": "sanjivanivf@gmail.com",
+  "website": "www.sanjivanivf.webs.com",
+  "organisationType": [
+    "Direct Service",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "916122360350",
+    "916122352469",
+    "919472919482"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "BEHIND PNB;",
+      "PATNA",
+      "Patna",
+      "Bihar",
+      "800026"
+    ]
+  }
+}

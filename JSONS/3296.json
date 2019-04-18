@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "Helen Mary",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "9677064727"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3296",
+  "name": "St.Mary's Educational trust",
+  "primaryEmail": "stmarytrust@yahoo.co.in",
+  "website": "http://stmaryseducationaltrust.weebly.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919677064727",
+    "919443682016"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "Rubicon Complex, Near ICC group of institution",
+      "Opposite market",
+      "kulasekharam",
+      "Kanyakumari",
+      "Tamil Nadu",
+      "629161"
+    ]
+  },
+  "briefDescription": "St.Mary's Educational Trust (SMET) aims to provide educational and economic opportunities for unprivileged children, youth and women. Objectives:1.To prevent school drop out, child labor and adolescent marriages. 2.Giving free internet, reading room and resource facilities for all.3.To offer higher education,Computer education, Vocational education and training programs4.To create economic improvement opportunities for unprivileged women and Youth.",
+  "yearOfEstablishment": "2004"
+}

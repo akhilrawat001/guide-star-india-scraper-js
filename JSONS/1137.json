@@ -1,0 +1,47 @@
+{
+  "contacts": [
+    {
+      "name": "T Vasantha Kumari",
+      "email": "",
+      "designation": "Admin Officer",
+      "mobile": [
+        "91-9849303220"
+      ]
+    },
+    {
+      "name": "T Vasantha Kumari",
+      "email": "",
+      "designation": "Admin Officer",
+      "mobile": [
+        "91-9849303220"
+      ]
+    },
+    {
+      "name": "T Vasantha Kumari",
+      "email": "",
+      "designation": "Admin Officer",
+      "mobile": [
+        "91-9849303220"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1137",
+  "name": "Centre For People's Forestry",
+  "primaryEmail": "info@cpf.in",
+  "website": "www.cpf.in",
+  "telephone": [
+    "914027154484",
+    "914027154484"
+  ],
+  "mainAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "12-13-483/39, 1st Floor,",
+      "Street No -14, Lane : 6, Nagargunanagar Colony, Tarnaka",
+      "Secunderabad",
+      "East Godavari",
+      "Andhra Pradesh",
+      "500017"
+    ]
+  }
+}

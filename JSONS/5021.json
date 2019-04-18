@@ -1,0 +1,41 @@
+{
+  "contacts": [
+    {
+      "name": "Dr. Komal Ganotra",
+      "email": "jovitadelhi@gmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5021",
+  "name": "JOVITA",
+  "primaryEmail": "jovitadelhi@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919899998023"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "B-24/C-2, Ground Floor",
+      "Shalimar Garden Ext-II",
+      "Sahibabad, Ghaziabad",
+      "Ghaziabad",
+      "Uttar Pradesh",
+      "201005"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "C4/97/2",
+      "Safadargunj Development Area",
+      "Hauz Khas",
+      "New Delhi",
+      "Delhi",
+      "110001"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6348",
+  "name": "NEW LIGHT",
+  "primaryEmail": "info@newlightindia.org",
+  "website": "www.newlightindia.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "913324850068",
+    "913324850068"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "162 KALIGHAT ROAD",
+      "KOLKATA",
+      "Kolkata",
+      "West Bengal",
+      "700026"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "contacts": [
+    {
+      "name": "Shiv Shankar Sahani",
+      "email": "jansuvidhasansthan@gmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8434",
+  "name": "JAN SUVIDHA SANSTHAN",
+  "primaryEmail": "jansuvidhasansthan@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919835119104"
+  ],
+  "mainAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "Care of SHIV SHANKAR SAHANI KALINAGA",
+      "NAMKUM",
+      "PO KHIJRI",
+      "Dhanbad",
+      "Jharkhand",
+      "0"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "C/O SHIV SHANKAR SAHANI KALINAGA",
+      "NAMKUM",
+      "PO KHIJRI",
+      "Dhanbad",
+      "Jharkhand",
+      "834010"
+    ]
+  }
+}

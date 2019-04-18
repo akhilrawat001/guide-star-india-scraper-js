@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "name": "Shazar Robinson",
+      "email": "shazar@srdsindia.org",
+      "designation": "Advisor",
+      "mobile": []
+    },
+    {
+      "name": "Shazar Robinson",
+      "email": "shazar@srdsindia.org",
+      "designation": "Advisor",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4448",
+  "name": "Sankalapa Rural Development Society",
+  "primaryEmail": "info@srdsindia.org",
+  "website": "https://srdsindia.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919986840730"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "DCSE building BVB CET Campus Vidyanagr Huvli 31",
+      "Vidyanar Hubli 31",
+      "Hubli",
+      "Dharwad",
+      "Karnataka",
+      "580031"
+    ]
+  },
+  "briefDescription": "SRDS works with farmers, and urban installations.  We promote rainwater harvesting through bore well recharge using a cost effective and guaranteed method even on dried up bore wells.  To date we have served over 1500 farmers in 10 states of India and numerous industrial and apartment urban installations. We also work with Self Help Groups providing microfinance to more than 460 groups of women.",
+  "yearOfEstablishment": "2008"
+}

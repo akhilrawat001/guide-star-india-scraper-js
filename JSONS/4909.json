@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "KRISHNA SHIPKULE",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4909",
+  "name": "SOCIETY FOR EMPOWERMENT OF VILLAGES AND AGRICULTURE (SEVA)",
+  "primaryEmail": "seva_satara@rediffmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919860925382"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "FF-21 SHAH STADIUM",
+      "OPP. HP PETROL PUMP",
+      "SATARA",
+      "Satara",
+      "Maharashtra",
+      "415002"
+    ]
+  }
+}

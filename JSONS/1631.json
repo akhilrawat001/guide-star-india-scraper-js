@@ -1,0 +1,27 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1631",
+  "name": "Socio- Economic Development Programme",
+  "primaryEmail": "sedpcal@cal2.vsnl.net.in",
+  "website": "www.sedpindia.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "913322190554",
+    "919433509088"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "65A",
+      "Mahatma Gandhi Road,",
+      "Kolkata",
+      "West Bengal",
+      "700009"
+    ]
+  }
+}

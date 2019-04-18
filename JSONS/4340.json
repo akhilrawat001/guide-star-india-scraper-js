@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Sandeep Ramchandra Kadam",
+      "email": "ramparva@gmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4340",
+  "name": "Ramparva Samajik Shaikshanik Seva Samiti",
+  "primaryEmail": "ramparva@gmail.com",
+  "website": "http://ramparva.webs.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service"
+  ],
+  "telephone": [
+    "919272161123"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "junna",
+      "at.junna tq.mukhed dist.nanded",
+      "nanded",
+      "Nanded",
+      "Maharashtra",
+      "431715"
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Meena Srivastava",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8163",
+  "name": "Gramin Mahila Vikas Parishad",
+  "primaryEmail": "gmvp70@gmail.com",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "919450671011"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "Village & Post-Chero",
+      "Via Salempur Tahshil-Salempur",
+      "Deoria",
+      "Uttar Pradesh",
+      "274509"
+    ]
+  }
+}

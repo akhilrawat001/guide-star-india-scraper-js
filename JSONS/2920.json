@@ -1,0 +1,27 @@
+{
+  "contacts": [
+    {
+      "name": "Pawan Sharma",
+      "email": "khojdelhi@gmail.com",
+      "designation": "Chairman",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2920",
+  "name": "Khoj Foundation",
+  "primaryEmail": "khojdelhi@gmail.com",
+  "telephone": [
+    "911120531848",
+    "911120531848"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "10/4,",
+      "1st Floor, indra vikas colony Opp. shiv dairy",
+      "New Delhi",
+      "Delhi",
+      "110009"
+    ]
+  }
+}

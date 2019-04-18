@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Ashok Kumar Penthoi",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3433",
+  "name": "PRACHANDESWAR SEVA SANSTHAN (PSS)",
+  "primaryEmail": "pss_india@yahoo.in",
+  "website": "www.pssngo.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919938018328"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "seva bhawan,nadakhanda,po-abhymukhi,via-berboi,dist-puri,odisha,pin-752016",
+      "nadakhanda",
+      "Puri",
+      "Odisha",
+      "752016"
+    ]
+  },
+  "briefDescription": "Prachandeswar Seva Sansthan",
+  "yearOfEstablishment": "2003"
+}

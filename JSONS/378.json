@@ -1,0 +1,43 @@
+{
+  "contacts": [
+    {
+      "name": "K.S.NANJAPPA",
+      "email": "bcchi2002@yahoo.com",
+      "designation": "Vice President - Rural Projects",
+      "mobile": [
+        "91-821-2302045",
+        "91-9880251819"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=378",
+  "name": "International Human Development & Upliftment Academy",
+  "primaryEmail": "ihdua@yahoo.co.in",
+  "website": "http://www.ihdua.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918212302045",
+    "918212565506"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "18, 19",
+      "Hebbal Induatrial Area, Metagalli Post",
+      "Mysore",
+      "Mysuru (Mysore)",
+      "Karnataka",
+      "570016"
+    ]
+  },
+  "briefDescription": "The activities of the trust at present are mainly oriented towards Improving rural literacy, Education programs & Rural Development with Focus on Women Economic Empowerment.  Apart from this we work in the field of improving environment. We are at present working in 70 villages of Gundlupet taluk, Chamrajnagar District, Karnataka, which is one of the most drought prone area of the state.",
+  "yearOfEstablishment": "1991",
+  "regiseredAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "Karnataka"
+    ]
+  }
+}

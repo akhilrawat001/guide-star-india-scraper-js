@@ -1,0 +1,37 @@
+{
+  "contacts": [
+    {
+      "name": "Laxman Jayant Akarshe",
+      "email": "",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1066",
+  "name": "Parisar Vikas Pratishtan",
+  "primaryEmail": "parisarvp@gmail.com",
+  "telephone": [
+    "919850588016"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "C-100  F - 302",
+      "Taradatta Park",
+      "Purandhar",
+      "Pune",
+      "Maharashtra",
+      "412305"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "At & Po - Khalad",
+      "Purandhar",
+      "Pune",
+      "Maharashtra",
+      "412301"
+    ]
+  }
+}

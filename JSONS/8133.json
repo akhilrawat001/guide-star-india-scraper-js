@@ -1,0 +1,35 @@
+{
+  "contacts": [
+    {
+      "name": "Anjani Kumar",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8133",
+  "name": "JEEVAN VAHINI SAMAJIK SUDHAR SAMITI",
+  "primaryEmail": "jeevanvahini@gmail.com",
+  "website": "http://www.jeevanvahini.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919026969519"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "Plot No.3 Parvana Vihar Colony, Near Vikas Bhawan Delhi Road",
+      "Govenment I.T.I",
+      "Saharanpur",
+      "Uttar Pradesh",
+      "247001"
+    ]
+  }
+}

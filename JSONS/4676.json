@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "name": "Sandeep Kumar",
+      "email": "sk-group@in.com",
+      "designation": "Secretary",
+      "mobile": []
+    },
+    {
+      "name": "Sandeep Kumar",
+      "email": "sk-group@in.com",
+      "designation": "Secretary",
+      "mobile": []
+    },
+    {
+      "name": "Sandeep Kumar",
+      "email": "sk-group@in.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4676",
+  "name": "S K Education Society",
+  "primaryEmail": "sk-group@in.com",
+  "telephone": [
+    "911214027768",
+    "919058714854"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "D - 46, Ganga Nagar",
+      "Mawana Road",
+      "Meerut",
+      "Uttar Pradesh",
+      "250001"
+    ]
+  }
+}

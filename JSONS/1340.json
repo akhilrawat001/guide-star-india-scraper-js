@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "C M Narayanan",
+      "email": "narayanan@gmail.com",
+      "designation": "Co Ordinator",
+      "mobile": [
+        "91-843-8417116"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1340",
+  "name": "Community Action,Development,Liberative and Education Trust (CANDLE)",
+  "primaryEmail": "candlengo@yahoo.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919486814622"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "5816 upstair",
+      "Santhanathapuram 4th street,",
+      "Pudukkottai",
+      "Tamil Nadu",
+      "622001"
+    ]
+  }
+}

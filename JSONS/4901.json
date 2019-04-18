@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Rajendra D Panchal",
+      "email": "mahantabanandgirict@redifmail.com",
+      "designation": "CHAIRMAN",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4901",
+  "name": "MAHANT ABANANDGIRI CHARITABLE TRUST",
+  "primaryEmail": "mahantabanandgirict@redifmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919850929245"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "AT KAPSEWADI POST SATARA",
+      "TAL JAOLI",
+      "SATARA",
+      "Satara",
+      "Maharashtra",
+      "415513"
+    ]
+  }
+}

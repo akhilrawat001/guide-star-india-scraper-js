@@ -1,0 +1,48 @@
+{
+  "contacts": [
+    {
+      "name": "Swati Agrawal",
+      "email": "swati@idialaw.com",
+      "designation": "Director",
+      "mobile": [
+        "91-8130679884"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6771",
+  "name": "IDIA Charitable Trust",
+  "primaryEmail": "shamnad@gmail.com",
+  "website": "www.idialaw.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service"
+  ],
+  "telephone": [
+    "919818825148",
+    "918042197924"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "Care of Spire, 45,",
+      "Jubilee Building, 2nd Floor,",
+      "Museum Road,",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560025"
+    ]
+  },
+  "briefDescription": "IDIA  is a pan India movement to train underprivileged students and help transform them to leading lawyers and community advocates. IDIA is premised on the notion that access to premier legal education empowers marginalized communities and helps them help themselves. The project is run on the backbone of highly passionate student volunteers from various law schools, who travel across the length and breadth of India to identify marginalised students with aptitude for the study of law. It then trains these selected students through a rigorous program for the leading law entrance examination, CLAT (Common Law Admission Test) and AILET (All India Law Entrance Test). Once selected to the top law schools, IDIA arranges for sponsorships/scholarships and mentorship schemes to help candidates blossom to their full potential and take their rightful places as leading lawyers and community advocates In the last five years, approximately 70 students trained by IDIA procured admission to various law schools in India and 40 of them made it to the leading National Law Universities (NLUs). They reflect a truly diverse mix, comprising candidates from various backgrounds (children of farmers, stone quarry workers, shopkeepers and clerks) and hailing from various states such as Karnataka, West Bengal, Jharkand, Rajasthan, Bihar, Manipur and Mizoram.",
+  "yearOfEstablishment": "2011",
+  "regiseredAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "C/o Spire, 45,",
+      "Jubilee Building, 2nd Floor,",
+      "Museum Road,",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560025"
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1606",
+  "name": "Moyrabandh Gram Bikash Kendra",
+  "primaryEmail": "mgbkendra@yahoo.co.in",
+  "website": "http://www.moyrabandhgrambikashkendra.org",
+  "organisationType": [
+    "Direct Service",
+    "Network"
+  ],
+  "telephone": [
+    "913242254137",
+    "919933759254"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "28/1,",
+      "Mukti Sinha road,Schooldanga,",
+      "Bankura",
+      "West Bengal",
+      "722101"
+    ]
+  }
+}

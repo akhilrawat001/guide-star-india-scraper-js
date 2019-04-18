@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Arundhati Kulkarni",
+      "email": "",
+      "designation": "Principal",
+      "mobile": [
+        "91-7759-225962",
+        "91-9926099708"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3355",
+  "name": "Ankur",
+  "primaryEmail": "ankurkorba@gmail.com",
+  "telephone": [
+    "917759215871",
+    "917759225927",
+    "917759215871"
+  ],
+  "mainAddrress": {
+    "state": "Chhattisgarh",
+    "address": [
+      "Nc-21.Cseb Colony (E), Nf-3,",
+      "Sada Colony",
+      "Korba",
+      "Chhattisgarh",
+      "495677"
+    ]
+  }
+}

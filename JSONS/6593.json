@@ -1,0 +1,56 @@
+{
+  "contacts": [
+    {
+      "name": "Ashwini Naik",
+      "email": "cs.positivepeople@gmail.com",
+      "designation": "Program Manager ( Care and Support)",
+      "mobile": [
+        "91-9767200473"
+      ]
+    },
+    {
+      "name": "Ashwini Naik",
+      "email": "cs.positivepeople@gmail.com",
+      "designation": "Program Manager ( Care and Support)",
+      "mobile": [
+        "91-9767200473"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6593",
+  "name": "Positive People",
+  "primaryEmail": "ppeoplegoa@gmail.com",
+  "website": "www.positivepeoplegoa.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919767200473"
+  ],
+  "mainAddrress": {
+    "state": "Goa",
+    "address": [
+      "Care of Francis Braganza, Opp. CMM Furniture Showroom",
+      "Vaddy,",
+      "Merces",
+      "North Goa",
+      "Goa",
+      "403005"
+    ]
+  },
+  "briefDescription": "Positive People is a pioneering organization working in the field of HIV since 1992 in the state of Goa. It works for people living with HIV and the most at risk population which include female sex workers and injecting drug users in Goa. It also has a rehabilitation centre for drug users.",
+  "yearOfEstablishment": "1992",
+  "regiseredAddrress": {
+    "state": "Goa",
+    "address": [
+      "C/o Francis Braganza, Opp. CMM Furniture Showroom",
+      "Vaddy,",
+      "Merces",
+      "North Goa",
+      "Goa",
+      "403005"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "DR. B. HALDER",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7151",
+  "name": "Birati Society For Human, Educational And Environmental Development",
+  "primaryEmail": "bsheed_birati@yahoo.co.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Support"
+  ],
+  "telephone": [
+    "919231868929"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "F-7,MANDIR PARK",
+      "P.O.BIRATI. P.S.NIMTA",
+      "BIRATI",
+      "North 24 Parganas",
+      "West Bengal",
+      "700051"
+    ]
+  }
+}

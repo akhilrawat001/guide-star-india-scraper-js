@@ -1,0 +1,49 @@
+{
+  "contacts": [
+    {
+      "name": "Rashid Khan",
+      "email": "rashid@corbettfoundation.org",
+      "designation": "Manager - Accounts",
+      "mobile": [
+        "91-22-61466424"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2280",
+  "name": "THE CORBETT FOUNDATION",
+  "primaryEmail": "info@corbettfoundation.org",
+  "website": "http://www.corbettfoundation.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network"
+  ],
+  "telephone": [
+    "912261466417",
+    "919820231239"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "The Corbett Foundation Care of Conservation Corporation of India 81-88, Atlanta, 8th floor, Nariman Point, Mumbai 400021",
+      "Nariman Point",
+      "Churchgate",
+      "Mumbai Suburban",
+      "Maharashtra",
+      "400021"
+    ]
+  },
+  "briefDescription": "The Corbett Foundation was established in 1994 by Mr. Dilip D. Khatau.  The Corbett Foundation (TCF) is fully dedicated to the cause of wildlife conservation, environmental awareness, community outreach programmes, tribal welfare, alternate livelihoods and sustainable development initiatives.  From a small beginning in 1994 in Corbett, TCF has over the years grown into one of the foremost NGOs working in Kanha and Bandhavgarh tiger reserves and around the Rann of Kutch. TCF reaches out to over 50000 people annually from around 300 villages to which it extends its projects and schemes.",
+  "yearOfEstablishment": "1994",
+  "regiseredAddrress": {
+    "state": "Uttarakhand",
+    "address": [
+      "The Corbett Foundation Post Office-Dhikuli",
+      "Ramnagar",
+      "Post Office-Dhikuli",
+      "Nainital",
+      "Uttarakhand",
+      "244715"
+    ]
+  }
+}

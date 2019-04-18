@@ -1,0 +1,27 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8523",
+  "name": "SANJAY RAMNIWAS VINOD WELFARE SOCIETY",
+  "primaryEmail": "srvwelfaresociety@gmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Intermediary",
+    "Support"
+  ],
+  "telephone": [
+    "918750464555"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "Vill- Narrey",
+      "Post- Gagha",
+      "Gagha",
+      "Gorakhpur",
+      "Uttar Pradesh",
+      "273411"
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "name": "Srinibash Sahoo",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "2354250",
+        "9437014422"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4828",
+  "name": "SAMPARK (Social Action for Motivation of People for Awakening about Rights and Knowledge)",
+  "primaryEmail": "samparkatrust@gmail.com",
+  "website": "www.samparktrust.org.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "916742354250",
+    "916742354250"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "B-30, BDA Duplex",
+      "BARAMUNDA",
+      "BHUBANESWAR",
+      "Khordha",
+      "Odisha",
+      "751003"
+    ]
+  }
+}

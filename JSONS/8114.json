@@ -1,0 +1,44 @@
+{
+  "contacts": [
+    {
+      "name": "A. B. Jha",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8114",
+  "name": "SARDA Agriculture Research and Development Agency",
+  "primaryEmail": "sardaresearch@gmail.com",
+  "website": "http://www.sardaresearch.com/",
+  "organisationType": [
+    "Grant-making",
+    "Support"
+  ],
+  "telephone": [
+    "919471565011"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "SARDA, “B/228”,",
+      "Birla Colony,  Phulwari Sharif",
+      "Patna",
+      "Bihar",
+      "801505"
+    ]
+  },
+  "briefDescription": "“SARDA Agriculture Research & Development Agency (SARDA)” is a multi-dimensional grass root level Consultancy Company working in the field of Agriculture, Watershed, Forest Conservation, NRM, Livelihood Promotional Activities, Environment, Women Empowerment and other Developmental Programmes.The company has been established with an aim to initiate, conduct and assist the process of agricultural advancement to improve agricultural productivity through conducting various research works and agriculture development programmes. SARDA Agriculture Research and Development Agency is a private not-for-profit Company incorporated on 06 November 2012 under Company Registration Act-1956.",
+  "yearOfEstablishment": "2012",
+  "regiseredAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "“SARDA Bhawan”,",
+      "Chhotki Murram,",
+      "Ramgarh Cantt.",
+      "Ramgarh",
+      "Jharkhand",
+      "829122"
+    ]
+  }
+}

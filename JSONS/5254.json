@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Sushanta De",
+      "email": "youthforum2k@yahoo.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5254",
+  "name": "The Young Exlorers Institute for Social Service",
+  "primaryEmail": "youthforum2k@yahoo.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919874764732"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "C 2/8 Karunamoyee Estate",
+      "Salt Lake Sector II",
+      "Kolkata",
+      "North 24 Parganas",
+      "West Bengal",
+      "700091"
+    ]
+  }
+}

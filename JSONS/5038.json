@@ -1,0 +1,37 @@
+{
+  "contacts": [
+    {
+      "name": "Syed Merajuddin",
+      "email": "merajuddinsyed@gmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    },
+    {
+      "name": "Syed Merajuddin",
+      "email": "merajuddinsyed@gmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5038",
+  "name": "Adharshila Shiksha Samiti",
+  "primaryEmail": "president@adharshila.org.in",
+  "website": "www.adharshila.org.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919810094224"
+  ],
+  "mainAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "Village Agraa, Vijaypur tehsil, District Sheopur",
+      "Sheopur",
+      "Madhya Pradesh",
+      "476332"
+    ]
+  },
+  "briefDescription": "Adharshila works in the Chambal Division of Madhya Pradesh to provide meaningful and high quality education to underprivileged rural children. Adharshila currently helps over 1500 children in district Sheopur to access high quality, joyful education. Adharshila has a cadre of dedicated local teachers who are trained intensively to create a stress-free, fun and creative learning environment for students from preschool to the 12th grade. Adharshila is governed by a team of professionals from Delhi and Bangalore who strive for the highest standards of professionalism and accountability to back their passion for rural education.",
+  "yearOfEstablishment": "2003"
+}

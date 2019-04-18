@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Sweta Katiyar",
+      "email": "monikaneetu@gmail.com",
+      "designation": "Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2937",
+  "name": "People for People Society",
+  "primaryEmail": "monikaneetu@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "915122682725",
+    "915122682725"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "c-935,",
+      "World Bank of Barra",
+      "Kanpur",
+      "Kanpur Nagar",
+      "Uttar Pradesh",
+      "208027"
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "contacts": [
+    {
+      "name": "Paul Bursting",
+      "email": "",
+      "designation": "Founder and Director",
+      "mobile": [
+        "23339497",
+        "9448379497"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5419",
+  "name": "Water Literacy Foundation",
+  "primaryEmail": "Ayyappa@waterliteracy.com",
+  "website": "www.waterliteracy.tk",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "918023339497",
+    "918023339497"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "347,Parvathi Nilaya, Kallappa Layout, Amruthahalli",
+      "Byatarayanapura Bus Station",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560092"
+    ]
+  }
+}

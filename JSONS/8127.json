@@ -1,0 +1,38 @@
+{
+  "contacts": [
+    {
+      "name": "Anuttama Ganguly",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "24121764",
+        "9971791504"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8127",
+  "name": "Vivekananda International Foundation",
+  "primaryEmail": "info@vifindia.org",
+  "website": "http://www.vifindia.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Support"
+  ],
+  "telephone": [
+    "911124121764",
+    "911124121764"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "3, San Martin Marg,",
+      "Chanakyapuri",
+      "New Delhi",
+      "South West Delhi",
+      "Delhi",
+      "110021"
+    ]
+  },
+  "briefDescription": "The Vivekananda International Foundation (VIF) is a New Delhi-based think tank set up with the collaborative efforts of India's leading security experts, diplomats, industrialists and philanthropists under the aegis of the Vivekananda Kendra. The VIF’s objective is to become a centre of excellence to kick start innovative ideas and thoughts that can lead to a stronger, secure and prosperous India playing its destined role in global affairs.",
+  "yearOfEstablishment": "2010"
+}

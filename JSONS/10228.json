@@ -1,0 +1,32 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10228",
+  "name": "SWAVALAMBAN VIKASH SANSTHAN",
+  "primaryEmail": "swalmvika@gmail.com",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "919453266283"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "114-Naibasti, Uttrulla Road, Bairipur Ramnath",
+      "Mankapur,",
+      "Gonda",
+      "Uttar Pradesh",
+      "271302"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "114-Naibasti, Uttrulla Road, Bairipur Ramnath",
+      "Mankapur",
+      "Gonda",
+      "Uttar Pradesh",
+      "271302"
+    ]
+  }
+}

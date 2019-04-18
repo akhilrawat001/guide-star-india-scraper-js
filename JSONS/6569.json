@@ -1,0 +1,26 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6569",
+  "name": "Child Fund (India)",
+  "primaryEmail": "office@childfundindia.org",
+  "website": "www.childfundindia.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "911141006540"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "B-105, 1st Floor",
+      "Greater Kailash-1",
+      "New-Delhi",
+      "South Delhi",
+      "Delhi",
+      "110048"
+    ]
+  }
+}

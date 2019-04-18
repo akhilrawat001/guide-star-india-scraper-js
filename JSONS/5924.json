@@ -1,0 +1,24 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5924",
+  "name": "nari uthan sansthan",
+  "primaryEmail": "manoj_bhatt2002@yahoo.com",
+  "website": "www.nusrajasthan.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "917727026130"
+  ],
+  "mainAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "snehalaya, alwar road, virat nagar, jaipur-303102",
+      "narayanpur, alwar by pass road, thanagazi, alwar",
+      "viratnagar",
+      "Jaipur",
+      "Rajasthan",
+      "303102"
+    ]
+  }
+}

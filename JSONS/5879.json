@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "E.Karunakarrao",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5879",
+  "name": "(PARD) People Association for Rural Development",
+  "primaryEmail": "pardkarunakarrao@yahoo.com",
+  "website": "inprocess",
+  "organisationType": [
+    "Direct Service",
+    "Network"
+  ],
+  "telephone": [
+    "919989559613"
+  ],
+  "mainAddrress": {
+    "state": "Telangana",
+    "address": [
+      "2-2-206 AP Housing board colony Chunchupalli Post kottagudem mandal Khammam District, Telangana",
+      "Kottagudem",
+      "Bhadradri Kothagudem",
+      "Telangana",
+      "507101"
+    ]
+  }
+}

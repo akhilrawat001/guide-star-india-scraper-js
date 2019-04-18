@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Jayadev Das",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5775",
+  "name": "GILI (Give It Live It)",
+  "primaryEmail": "giveitliveit@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Network"
+  ],
+  "telephone": [
+    "917894645444"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "Plot No 276",
+      "Southside Kalinga Stadium",
+      "Nayapalli, Bhubaneswar",
+      "Khordha",
+      "Odisha",
+      "751012"
+    ]
+  }
+}

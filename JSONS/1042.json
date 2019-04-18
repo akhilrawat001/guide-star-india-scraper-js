@@ -1,0 +1,22 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1042",
+  "name": "Udaan Society",
+  "primaryEmail": "mail@udaansociety.org",
+  "website": "http://.udaansociety.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919837067681"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "8/140 Raguvir Puri GT road",
+      "Aligarh",
+      "Uttar Pradesh",
+      "202001"
+    ]
+  }
+}

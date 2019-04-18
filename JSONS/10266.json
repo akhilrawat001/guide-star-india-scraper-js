@@ -1,0 +1,35 @@
+{
+  "contacts": [
+    {
+      "name": "Vinay Jaiswal",
+      "email": "hello@aidforchildtrust.org",
+      "designation": "General Secretary",
+      "mobile": [
+        "91-9871806355"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10266",
+  "name": "Aid for Child Trust",
+  "primaryEmail": "hello@aidforchildtrust.org",
+  "website": "http://www.aidforchildtrust.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919871806355"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "House Number 359, Floor 1st, C-4 PKT-4, Sec 2",
+      "Landmark, Near Jain Sweet",
+      "Rohini",
+      "North West Delhi",
+      "Delhi",
+      "110085"
+    ]
+  },
+  "briefDescription": "Aid for Child Trust is a nonprofit organization that envisions the world where everyone lives in dignity. We have child development projects for 150 beneficiaries in Noida and Bihar where we give free education to working children who are out of school and awareness class to their parents in Noida and help poor children get enrolled in formal school and give free tuition classes to them  and give awareness class to parents in Bihar.",
+  "yearOfEstablishment": "2016"
+}

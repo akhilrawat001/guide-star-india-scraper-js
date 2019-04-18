@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "Sakuntala Dutta",
+      "email": "d_sakuntala@yahoo.com",
+      "designation": "Coordinator",
+      "mobile": [
+        "91-33-24244294"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1501",
+  "name": "Schools of the World (Kolkata)",
+  "primaryEmail": "schoolsoftheworldkolkta@gmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "913365211579",
+    "919830474269"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "38",
+      "Golf Club Road,",
+      "Kolkata",
+      "South 24 Parganas",
+      "West Bengal",
+      "700033"
+    ]
+  }
+}

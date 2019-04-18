@@ -1,0 +1,39 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5818",
+  "name": "Nupi Khunai",
+  "primaryEmail": "nillababu_oinam@rediffmail.com",
+  "website": "www.nupikhunai.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making"
+  ],
+  "telephone": [
+    "919402881817"
+  ],
+  "mainAddrress": {
+    "state": "Manipur",
+    "address": [
+      "C/O Oinam Ibohal Polytechnic",
+      "Keishampat Junction",
+      "Imphal",
+      "Imphal West",
+      "Manipur",
+      "795001"
+    ]
+  },
+  "briefDescription": "The society is running Oinam Ibohal Polytechnic. It is accredited to NEILIT, IGNOU, Mahatma Gandhi Univ. It is registered Vocational Training Provider (VTP) under SDI Scheme of DGET. It is running one centre of Rajeev Gandhi Computer Saksharta Mission.",
+  "yearOfEstablishment": "1991",
+  "regiseredAddrress": {
+    "state": "Manipur",
+    "address": [
+      "Oinam Bazar",
+      "Oinam",
+      "Nambol",
+      "Imphal West",
+      "Manipur",
+      "795134"
+    ]
+  }
+}

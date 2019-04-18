@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Sandeep S Ranasubhe",
+      "email": "rank_org@yahoo.com",
+      "designation": "Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2887",
+  "name": "RURAL ANALYSIS OF NORTH KARNATAKA (RANK)",
+  "primaryEmail": "rank_org@yahoo.com",
+  "telephone": [
+    "918314210506",
+    "918314202706",
+    "918314210506"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "B.C.No.102,",
+      "Independence Road, Camp",
+      "Belgaum",
+      "Belagavi (Belgaum)",
+      "Karnataka",
+      "590001"
+    ]
+  }
+}

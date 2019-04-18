@@ -1,0 +1,55 @@
+{
+  "contacts": [
+    {
+      "name": "Rekha Thaker",
+      "email": "admin@stampngo.org",
+      "designation": "Trustee",
+      "mobile": [
+        "91-9322893060"
+      ]
+    },
+    {
+      "name": "Rekha Thaker",
+      "email": "admin@stampngo.org",
+      "designation": "Trustee",
+      "mobile": [
+        "91-9322893060"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10649",
+  "name": "Swachh Tan Man Paryavaran Charitable Trust",
+  "primaryEmail": "ceo@stampngo.org",
+  "website": "https://www.stampngo.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service"
+  ],
+  "telephone": [
+    "919820970219",
+    "919322893060"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "2102, Vishwadeep Heights, K. T. Soni Marg,",
+      "Mahavir Nagar, Kandivali (West),",
+      "Mumbai",
+      "Mumbai Suburban",
+      "Maharashtra",
+      "400067"
+    ]
+  },
+  "briefDescription": "STaMP NGO is formed to spread awareness & provide effective solutions about Menstrual Hygiene Management - a component of Swachh Bharat AbhiyaanMISSION•Imparting knowledge & creating awareness about menstrual hygiene & cleanliness of body during menstrual cycle, ergo Swachh Tan•Addressing social issues & cleaning minds of people by eradicating myths attached & related to menstruation, ergo Swachh Man•Arranging availability of pads within easy reach of users by providing & installing pad vending machines free of cost•Enabling affordability by providing supply of pads at a nominal rate of Rs. 2/- per pad•Ensuring eco-friendly disposal of used pads by providing & installing pad incinerator machine free of cost, ergo Swachh Paryavaran",
+  "yearOfEstablishment": "2018",
+  "regiseredAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "At Post: Khed,",
+      "Tal.: Himmatnagar",
+      "Sabarkantha",
+      "Gujarat",
+      "383001"
+    ]
+  }
+}

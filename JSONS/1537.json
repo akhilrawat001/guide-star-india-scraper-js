@@ -1,0 +1,33 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1537",
+  "name": "Vardhaman Mahila Sewa Mandir",
+  "primaryEmail": "paras_vmsm1@indiatimes.com",
+  "organisationType": [
+    "Grant-making"
+  ],
+  "telephone": [
+    "912957233322",
+    "919414156322"
+  ],
+  "mainAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "Kanore",
+      "Udaipur",
+      "Rajasthan",
+      "313604"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "collage road",
+      "near sani tempel",
+      "KANORE",
+      "Udaipur",
+      "Rajasthan",
+      "313604"
+    ]
+  }
+}

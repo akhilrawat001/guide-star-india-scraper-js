@@ -1,0 +1,38 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1905",
+  "name": "AmeriCares India Foundation",
+  "primaryEmail": "sdesai@americares.org",
+  "website": "www.americaresindia.org",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "912265568098, 23894452",
+    "912265568098, 23894452"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Seagull House, 1st Floor, P.No. 6,",
+      "Shivaji Colony,Chakala, Andheri Kurla Road, Andheri East",
+      "Mumbai",
+      "Mumbai Suburban",
+      "Maharashtra",
+      "400099",
+      "MTNL Bill-NovDec 12.PDF"
+    ]
+  },
+  "briefDescription": "AmeriCares is an emergency response and global health organization committed to saving lives and building healthier futures for people in crisis. When disaster, poverty, disease, or policy cause health crises, we deliver medicines, medical supplies and humanitarian aid to a trusted network of NGOs, hospitals and health care providers across India. We also create and support programs that increase capacity, improve quality and provide more access to health care for underprivileged population across India.Our programs focus on 6 core areas: Disaster Response, Access to Primary Care, Medical Commodity Assistance, Health Care Worker Safety, Community Health Program and School Health Program",
+  "yearOfEstablishment": "2006",
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "A 2/78, Safdarjung Enclave",
+      "New Delhi",
+      "Delhi",
+      "110029"
+    ]
+  }
+}

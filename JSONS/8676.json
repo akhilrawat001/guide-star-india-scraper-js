@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "PRAVAS RANJAN MISHRA",
+      "email": "kartabya_socialaction@rediffmail.com",
+      "designation": "SECRETARY",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8676",
+  "name": "KARTABYA",
+  "primaryEmail": "kartabya_socialaction@rediffmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919937138830"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "Plot-519,",
+      "Unit-III, Kharvelnagar,",
+      "Bhubaneswar",
+      "Puri",
+      "Odisha",
+      "751001"
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Sudip Baneerjee",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4360",
+  "name": "Alipurduar Shadow Welfare Organization",
+  "primaryEmail": "sudipbanerjee4u@gmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service"
+  ],
+  "telephone": [
+    "919800135309"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "P.O Alipurduar Court, Dist- Jalpaiguri",
+      "Alipurduar",
+      "Jalpaiguri",
+      "West Bengal",
+      "736122"
+    ]
+  }
+}

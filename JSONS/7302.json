@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "MOHD ABDULLAH",
+      "email": "abdullah.mohd47@yahoo.com",
+      "designation": "SECRETARY",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7302",
+  "name": "Ladakh Educational and Social Development Organisation",
+  "primaryEmail": "abdullah.mohd47@yahoo.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919419842530"
+  ],
+  "mainAddrress": {
+    "state": "Jammu and Kashmir",
+    "address": [
+      "22 Titichumik Baroo, Kargil",
+      "Titichumik Baroo",
+      "Kargil",
+      "Jammu and Kashmir",
+      "194105"
+    ]
+  }
+}

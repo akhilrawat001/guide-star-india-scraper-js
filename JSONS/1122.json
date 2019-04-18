@@ -1,0 +1,28 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1122",
+  "name": "PARDA",
+  "primaryEmail": "parda_ngo@yahoo.com",
+  "website": "www.parda.org.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "916678223036",
+    "919437119702"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "At: Radhakrishnapada",
+      "Nuapada",
+      "Odisha",
+      "766105"
+    ]
+  },
+  "briefDescription": "PARDA; in tune with its nomenclature, believes that people have a right to a just and equal society. We are committed to making that right a reality for the people on the boarder lines of Indian society.",
+  "yearOfEstablishment": "2000"
+}

@@ -1,0 +1,26 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4180",
+  "name": "Malda Vivekananda Seva Kendra",
+  "primaryEmail": "mvsk_11@yahoo.in",
+  "website": "www.mvskngo.org",
+  "organisationType": [
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "913512266402",
+    "919433044485"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Joardar Villa",
+      "Ramakrishna Palli",
+      "Malda",
+      "West Bengal",
+      "732101"
+    ]
+  }
+}

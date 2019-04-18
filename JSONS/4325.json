@@ -1,0 +1,36 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4325",
+  "name": "Jeevoday Education Society",
+  "primaryEmail": "jeevoday@gmail.com",
+  "website": "www.jeevodayschool.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "+918806289704"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Residency Road",
+      "Sadar",
+      "Nagpur",
+      "Maharashtra",
+      "440001"
+    ]
+  },
+  "briefDescription": "Jeevoday Education Society, Special School for the Mentally Handicapped, Nagpur, was established in the year 1989. it is rendering loving service to the children and adult with mental retardation. Jeevoday is imparting education and training to these less privileged of the society to bring them to the mainstream. At present in jeevoday we have 350 students. Besides this we are also rendering home based training to the severely & profound retarded.",
+  "yearOfEstablishment": "1989",
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Jeevoday Education Society",
+      "Residency Road, Sadar",
+      "nagpur",
+      "Nagpur",
+      "Maharashtra",
+      "440001"
+    ]
+  }
+}

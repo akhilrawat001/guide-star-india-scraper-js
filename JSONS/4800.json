@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "NOORNISHA",
+      "email": "utopianschool.nios@rediffmail.com",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4800",
+  "name": "MEWAT EDUCATION REFORM COMMITTEE",
+  "primaryEmail": "utopianschool.nios@rediffmail.com",
+  "website": "www.utopianschool.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919991114500"
+  ],
+  "mainAddrress": {
+    "state": "Haryana",
+    "address": [
+      "DERWAL MOHALLAH BICHHOR",
+      "PUNHANA",
+      "Mewat",
+      "Haryana",
+      "122508"
+    ]
+  }
+}

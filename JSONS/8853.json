@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Saurabh Dongre",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8853",
+  "name": "Environmental and Animal Research Society (EARS)",
+  "primaryEmail": "earschanda@gmail.com",
+  "website": "http://www.earsmaha.blogspot.in",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "918411807629"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Jaganath Baba Nagar, Wasekar Layout, Plot No.8,  Jaising Dongre,",
+      "Near Akashwani Tower",
+      "Chandrapur",
+      "Maharashtra",
+      "442401"
+    ]
+  }
+}

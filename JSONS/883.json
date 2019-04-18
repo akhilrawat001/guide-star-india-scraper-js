@@ -1,0 +1,34 @@
+{
+  "contacts": [
+    {
+      "name": "P. Srinivasarao",
+      "email": "ngowork.p@gmail.com",
+      "designation": "Manager",
+      "mobile": []
+    },
+    {
+      "name": "P. Srinivasarao",
+      "email": "ngowork.p@gmail.com",
+      "designation": "Manager",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=883",
+  "name": "Sameem Mahila Mandali",
+  "primaryEmail": "sameem09@gmail.com",
+  "website": "www.sameem.org",
+  "telephone": [
+    "919866761500"
+  ],
+  "mainAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "President Sameem mahila mandali, 4th line extension",
+      "Gopal nagar",
+      "Ongole",
+      "Prakasam",
+      "Andhra Pradesh",
+      "523001"
+    ]
+  }
+}

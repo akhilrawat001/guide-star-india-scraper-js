@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Shakti Sharma",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4482",
+  "name": "SWAYAMSHAKTI FOUNDATION",
+  "primaryEmail": "shaktisharma5@yahoo.co.in",
+  "website": "http: // www.ssfindia.net",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919350885892"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "F- 3 / 27",
+      "SECTOR 11, ROHINI",
+      "DELHI",
+      "New Delhi",
+      "Delhi",
+      "110085"
+    ]
+  }
+}

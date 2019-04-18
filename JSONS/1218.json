@@ -1,0 +1,29 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1218",
+  "name": "Vishvodayaa Trust",
+  "primaryEmail": "vishvodayaatrust@rediffmail.com",
+  "website": "www.vishvodayaatrust.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "914422470058",
+    "914422470242",
+    "914422470058"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "13/15,Baalyaa House",
+      "I Cross StreetMadipakkam",
+      "Chennai",
+      "Tamil Nadu",
+      "600091",
+      "AP_TelBill_1122.PDF"
+    ]
+  }
+}

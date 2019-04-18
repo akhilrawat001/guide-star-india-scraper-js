@@ -1,0 +1,41 @@
+{
+  "contacts": [
+    {
+      "name": "RAKESH MONDAL",
+      "email": "itdi.society@gmail.com",
+      "designation": "SECRETARY",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5078",
+  "name": "ICON TRAINING AND DEVELOPMENT INSTITUTE",
+  "primaryEmail": "itdi.society@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919143288480"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "VILL. + P.O. - BONHOOGHLY, P.S. - SONARPUR",
+      "NALGORAHAT MORE",
+      "KOLKATA",
+      "South 24 Parganas",
+      "West Bengal",
+      "700103"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Not Provided",
+      "Not provided",
+      "KOLKATA",
+      "South 24 Parganas",
+      "West Bengal",
+      "700103"
+    ]
+  }
+}

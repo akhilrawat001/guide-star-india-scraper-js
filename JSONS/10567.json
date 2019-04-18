@@ -1,0 +1,35 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10567",
+  "name": "VIVO KIDNEY CARE FOUNDATION",
+  "primaryEmail": "contactus@vkcf.org",
+  "website": "http://www.vkcf.org/",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919167290680",
+    "912226652024"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "25, Creative Industries Building,",
+      "Sundar Nagar Road No. 2, Kalina, Santacruz (East)",
+      "Mumbai",
+      "Maharashtra",
+      "400098"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "23, Rainbow, Manipada",
+      "Vidyanagari, Santacruz (East)",
+      "Mumbai",
+      "Maharashtra",
+      "400098"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "contacts": [
+    {
+      "name": "Dr.Justus Joshua",
+      "email": "justus@greenfuturefoundation.com",
+      "designation": "Director",
+      "mobile": [
+        "91-9810839907"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6357",
+  "name": "GREEN FUTURE FOUNDATION",
+  "primaryEmail": "LROSALIND@GMAIL.COM",
+  "organisationType": [
+    "Intermediary",
+    "Support"
+  ],
+  "telephone": [
+    "919810839907"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "8177, Pocket-8, Sector-D",
+      "Vasant Kunj,",
+      "New Delhi",
+      "South Delhi",
+      "Delhi",
+      "110070"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "Flat No: 8177, Pocket-8, Sector-D,",
+      "Vasant Kunj,",
+      "New Delhi",
+      "South Delhi",
+      "Delhi",
+      "110070"
+    ]
+  }
+}

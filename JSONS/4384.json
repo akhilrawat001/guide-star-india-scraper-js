@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Anand Bhabar",
+      "email": "",
+      "designation": "Chairman",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4384",
+  "name": "RASTRIYA SAMAJIK UTTHAN SANSTHAN",
+  "primaryEmail": "rusu1999@gmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Intermediary"
+  ],
+  "telephone": [
+    "919406856109"
+  ],
+  "mainAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "Village Khajuri",
+      "post khajuri",
+      "thandla",
+      "Jhabua",
+      "Madhya Pradesh",
+      "457777"
+    ]
+  },
+  "briefDescription": "Rastriya samajik utthan sansthan is working in education and helth sector in jhabua district of madhya pradesh. RUSU has well exprencied team for education.",
+  "yearOfEstablishment": "1999"
+}

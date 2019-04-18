@@ -1,0 +1,35 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7038",
+  "name": "Devi Convent School Educational Society",
+  "primaryEmail": "rayududcses@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919194405901"
+  ],
+  "mainAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "5-53-1 Gandla Street,Vadamalapet, Mandal Chittoor",
+      "5-53-1 Gandla Street,",
+      "Vadamalapet",
+      "Chittoor",
+      "Andhra Pradesh",
+      "517551"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "10/208",
+      "Bellam Mandy Street",
+      "Cudappah",
+      "YSR District, Kadapa (Cuddapah)",
+      "Andhra Pradesh",
+      "516001"
+    ]
+  }
+}

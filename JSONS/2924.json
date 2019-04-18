@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "Shri Shakti Malik",
+      "email": "fippresident@gmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2924",
+  "name": "The Federation of Indian Publishers",
+  "primaryEmail": "fippresident@gmail.com",
+  "telephone": [
+    "911126964847",
+    "911126852263",
+    "911126964847"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "18/1-C, Institutional Area,",
+      "Aruna Asaf Ali Marg, (Near JNU),",
+      "New Delhi",
+      "Delhi",
+      "110067"
+    ]
+  }
+}

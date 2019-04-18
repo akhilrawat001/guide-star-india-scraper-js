@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "M.Sumitra",
+      "email": "ankuram@yahoo.com",
+      "designation": "Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4450",
+  "name": "Ankuram Woman and child development society",
+  "primaryEmail": "ankuram@yahoo.com",
+  "website": "http://www.ankuram.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "914027017446",
+    "914027017446"
+  ],
+  "mainAddrress": {
+    "state": "Telangana",
+    "address": [
+      "12-13-3309,",
+      "st.no.19, Tarnaka",
+      "Secunderabad-500017",
+      "Hyderabad",
+      "Telangana",
+      "500017"
+    ]
+  }
+}

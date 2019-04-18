@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "name": "Velmurugan  K",
+      "email": "wfw_wfw@yahoo.co.in",
+      "designation": "Project Advisor",
+      "mobile": []
+    },
+    {
+      "name": "Velmurugan  K",
+      "email": "wfw_wfw@yahoo.co.in",
+      "designation": "Project Advisor",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1421",
+  "name": "Women For Women",
+  "primaryEmail": "wfw_wfw@yahoo.co.in",
+  "website": "http:/www.wfwsociety.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919443036269"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "6",
+      "2Nd Street, Sasikumar Nagar,",
+      "Kannamangalam",
+      "Tiruvannamalai",
+      "Tamil Nadu",
+      "632311"
+    ]
+  },
+  "briefDescription": "WOMEN FOR WOMEN(WFW) is a Registered voluntary organsiation working for rural and Tribal women and child development activities. To undertake programs, projects and activities aimed at fulfilling the all round developmental needs of rural and tribal women that are in consonance with the vision of the organization that reads as \"Emergence of empowered rural and tribal women with equality of rights, freedom of expression, and with a deep concern for the suffering irrespective of caste, creed, religion, race and language differences\"",
+  "yearOfEstablishment": "1999"
+}

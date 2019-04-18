@@ -1,0 +1,24 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1378",
+  "name": "Manasa",
+  "primaryEmail": "manasa_912000@yahoo.com",
+  "website": "www.manasaindia.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "914024041680",
+    "919908221082"
+  ],
+  "mainAddrress": {
+    "state": "Telangana",
+    "address": [
+      "H.No.2-53/2",
+      "Road No.13, Chaithanyapuri, Dilsukhnagar",
+      "Hyderabad",
+      "Telangana",
+      "500060"
+    ]
+  }
+}

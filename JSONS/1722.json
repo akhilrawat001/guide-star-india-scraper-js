@@ -1,0 +1,33 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1722",
+  "name": "Society to Promote Education and Rehabilitation of Social Health (SPERSH)",
+  "primaryEmail": "spersh.ngo@gmail.com",
+  "website": "www.spersh.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919899616108"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "19 A",
+      "Bharat Nagar,",
+      "New Delhi",
+      "Delhi",
+      "110065"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "392",
+      "Zakir Nagar,",
+      "New Delhi",
+      "Delhi",
+      "110025"
+    ]
+  }
+}

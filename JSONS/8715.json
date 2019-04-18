@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "SANJEEV KAPOOR",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8715",
+  "name": "AKANKSHA",
+  "primaryEmail": "rishi31_atreyeepharma@rediffmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "9431193145"
+  ],
+  "mainAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "AKANKSHA BELWATIKA CHOWK,",
+      "DALTONGANJ",
+      "Ranchi",
+      "Jharkhand",
+      "822101"
+    ]
+  }
+}

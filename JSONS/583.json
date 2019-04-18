@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "Lavkush Vishwakarma (Dr)",
+      "email": "",
+      "designation": "Director /Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=583",
+  "name": "Amar Shahid Chetna Sansthan",
+  "primaryEmail": "ascs06@yahoo.co.in",
+  "telephone": [
+    "915461267708",
+    "915461267708",
+    "915461267708"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "Vill. Jai Nagar, P.O.- Gaura Jai Nagar",
+      "Barhaj",
+      "Deoria",
+      "Uttar Pradesh",
+      "274601"
+    ]
+  }
+}

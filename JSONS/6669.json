@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Prakash C.S",
+      "email": "bharathiwelfaresociety@gmail.com",
+      "designation": "Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6669",
+  "name": "BHARATHI WELFARE SOCIETY",
+  "primaryEmail": "bharathiwelfaresociety@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919845876695"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "P.B.No.22",
+      "Srilakshmi Nilaya",
+      "Chintamani",
+      "Kolar",
+      "Karnataka",
+      "563125"
+    ]
+  }
+}

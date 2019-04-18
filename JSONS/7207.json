@@ -1,0 +1,23 @@
+{
+  "contacts": [
+    {
+      "name": "Rajesh Kumar  Sharma",
+      "email": "rajesh_g72@yahoo.com",
+      "designation": "Secretary",
+      "mobile": [
+        "91-5862-240119"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7207",
+  "name": "GRAMIN VIKAS EVAM VIKLANG SEWA SAMITI",
+  "primaryEmail": "info.graminorg@gmail.com",
+  "website": "www.gvevss.org",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "mainAddrress": {
+    "address": []
+  }
+}

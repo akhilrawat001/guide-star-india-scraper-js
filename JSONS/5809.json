@@ -1,0 +1,46 @@
+{
+  "contacts": [
+    {
+      "name": "Rohit Kumar",
+      "email": "rohit.kumar@khojschool.org",
+      "designation": "Co-founder, Khoj",
+      "mobile": [
+        "91-9833809260"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5809",
+  "name": "Apni Shala Foundation",
+  "primaryEmail": "contact@apnishala.org",
+  "website": "www.apnishala.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service"
+  ],
+  "telephone": [
+    "919820508580",
+    "919833809260"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Apni Shala Foundation, 61/C, 1st floor, Kamgar Nagar, SG Barve Marg,",
+      "Near Madhavbaug Clinic, Kurla (E)",
+      "Mumbai",
+      "Maharashtra",
+      "400024"
+    ]
+  },
+  "briefDescription": "Apni Shala is a registered non-profit organization with the vision to help develop social-emotional competency for children and youth across socio-economic backgrounds. This year, we are working with over 3500 children and youth in collaboration with government schools, private schools and NGOs to run experiential learning programs that aim to develop social and emotional competencies with a promotive and preventive approach to mental health.",
+  "yearOfEstablishment": "2013",
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "201, Anand villa",
+      "Buddha Mandir Road, Parel(E)",
+      "Mumbai",
+      "Maharashtra",
+      "400012"
+    ]
+  }
+}

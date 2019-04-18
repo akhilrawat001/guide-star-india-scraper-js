@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "Sarosh Khan",
+      "email": "drsarosh@gmail.com",
+      "designation": "Vice President 1",
+      "mobile": [
+        "91-9419073324"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1873",
+  "name": "Chotay Taray Foundation",
+  "primaryEmail": "info@chotaytaray.org",
+  "website": "www.chotaytaray.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "911942474893",
+    "919419009750"
+  ],
+  "mainAddrress": {
+    "state": "Jammu and Kashmir",
+    "address": [
+      "Kursoo Rajbagh",
+      "Baker Lane, House No. 75 D",
+      "Srinagar",
+      "Jammu and Kashmir",
+      "190008"
+    ]
+  }
+}

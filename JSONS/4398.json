@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Mehul Jayant Maru",
+      "email": "jaykhanna@live.com",
+      "designation": "Managing Trustee",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4398",
+  "name": "SHREE NAVSARJAN SEVA SANGH",
+  "primaryEmail": "jaykhanna@live.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919638822111",
+    "919979711788"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "2 , Ashoka society , near old pilot diary kankaria , ahmedabad 380022",
+      "Ahmedabad",
+      "Gujarat",
+      "380022"
+    ]
+  }
+}

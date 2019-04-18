@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "ISAHOQUE CHOUDHARY",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4510",
+  "name": "NIBONUA YUVA UNNAYAN PARISHAD",
+  "primaryEmail": "nyup41210@gmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service"
+  ],
+  "telephone": [
+    "919401668265"
+  ],
+  "mainAddrress": {
+    "state": "Assam",
+    "address": [
+      "HOUSE NO-25, FATASHIL AMBARI, NEAR RANG PATHER, GUWAHATI.781025",
+      "GUWAHATI, KAMRUP(M)",
+      "Kamrup Metropolitan",
+      "Assam",
+      "781025"
+    ]
+  }
+}

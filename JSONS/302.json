@@ -1,0 +1,50 @@
+{
+  "contacts": [
+    {
+      "name": "Shreeja Nair",
+      "email": "shreeja@seedsindia.org",
+      "designation": "Manager - Communications",
+      "mobile": [
+        "91-11-26174272",
+        "91-9871888664"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=302",
+  "name": "Sustainable Environment and Ecological Development Society",
+  "primaryEmail": "manu@seedsindia.org",
+  "website": "www.seedsindia.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "911126174272",
+    "919810211035",
+    "911126174572",
+    "919871888664"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "15A, Institutional Area",
+      "Sector - IV, R.K.Puram",
+      "New Delhi",
+      "South Delhi",
+      "Delhi",
+      "110022"
+    ]
+  },
+  "briefDescription": "Sustainable Environment and Ecological Development Society (SEEDS) is a humanitarian non-profit organization working to make vulnerable communities resilient to disasters.SEEDS has worked on over 12 emergencies including Indian Ocean Tsunami in 2005, Kosi Floods, Uttarakhand Flash Floods 2013, Kashmir Floods 2014, Nepal Earthquake 2015 and the most recent Chennai Floods 2015. It has been able to achieve highest level of professionalism and quality in all its endeavors. This is attributed to the team of young professionals consisting of planners, architects, engineers, project management specialists and media experts. Over the years, the SEEDS team has reached out to numerous families affected by natural calamities by helping them in restoring homes, schools and hospitals. Today, we continue to advocate for and work with communities across Asia to build a more safer and more sustainable world.",
+  "yearOfEstablishment": "1994",
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "315, Kailash Tower -I",
+      "Mount Kailash",
+      "New Delhi",
+      "South Delhi",
+      "Delhi",
+      "110065"
+    ]
+  }
+}

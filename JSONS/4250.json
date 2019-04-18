@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Mrs. Anuradha Jatar",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4250",
+  "name": "Sulabha Trust For Special Education And Research",
+  "primaryEmail": "info.sulabhatrust@mtnl.net.in",
+  "website": "www.sulabhaspecialschool.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "912225229660",
+    "912225229660"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "8/3,Tilaknagar, Hsg. board colony,Chembur (W)",
+      "Near Sahakar Plaza Theatre",
+      "Mumbai",
+      "Mumbai Suburban",
+      "Maharashtra",
+      "400089"
+    ]
+  }
+}

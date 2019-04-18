@@ -1,0 +1,35 @@
+{
+  "contacts": [
+    {
+      "name": "Sharad Sharma",
+      "email": "",
+      "designation": "Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10411",
+  "name": "INDIAN SOFTWARE PRODUCT INDUSTRY ROUND TABLE FOUNDATION",
+  "primaryEmail": "sharad@ispirt.in",
+  "website": "http://www.ispirt.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919980521520"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "No 231-236 2nd Floor Raheja Arcade",
+      "Koramangala",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560095"
+    ]
+  },
+  "briefDescription": "To transform India into a hub for new generation software products, it is crucial to address government policy, create market catalysts and grow the maturity of product entrepreneurs. An integrative approach is fundamental and vital. Since the stakes are high and industry is moving very fast, a reactive ivory tower approach cannot succeed. In addition to top-down policy recommendations, the hive mind of the industry must be leveraged to support conversations for grassroots involvement and actions. With this context in mind, about 30 product companies and individuals joined hands together to form iSPIRT – the Indian Software Product Industry Roundtable in early 2013.",
+  "yearOfEstablishment": "2013"
+}

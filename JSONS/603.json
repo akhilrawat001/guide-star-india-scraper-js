@@ -1,0 +1,27 @@
+{
+  "contacts": [
+    {
+      "name": "Sunil Pandey (Dr)",
+      "email": "",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=603",
+  "name": "Neo Integrated Development of Himalaya Society",
+  "primaryEmail": "nidhiproject@yahoo.com",
+  "telephone": [
+    "915964224035",
+    "915964224902",
+    "919412095963"
+  ],
+  "mainAddrress": {
+    "state": "Uttarakhand",
+    "address": [
+      "Pilkha Sadan, Chimsyanaula College Road",
+      "Pithoragarh",
+      "Uttarakhand",
+      "262501"
+    ]
+  }
+}

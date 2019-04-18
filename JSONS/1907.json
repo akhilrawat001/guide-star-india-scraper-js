@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "Donita Dickson",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "9968098425"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1907",
+  "name": "Aurobindo Chaudhuri Memorial Great Indian Dream Foundation",
+  "primaryEmail": "a.paul@gidf.org",
+  "website": "www.gidf.org",
+  "organisationType": [
+    "Direct Service",
+    "Network"
+  ],
+  "telephone": [
+    "919968098425"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "IIPM Campus, Chattarpur Bhattimines Road,",
+      "Satbari Chandanhaula",
+      "New Delhi",
+      "South Delhi",
+      "Delhi",
+      "110074"
+    ]
+  },
+  "briefDescription": "ACM GIDF, a not for profit organization that branches out of New Delhi, India, believes in the creation of an all-round and inclusive growth atmosphere. We work across India, and integrate in all our projects all four key sectors that lead to growth – education, health, livelihood and Environment.Through innovative projects that reach out to the un-reached, and through effective utilization of donor’s funds, ACM GIDF carries out development projects in remote and inaccessible parts of India and the urban regions alike. Looking back at the journey that began in 2002, we can now proudly claim to have made a difference to millions of lives across 14 Indian states where we operate.",
+  "yearOfEstablishment": "2002"
+}

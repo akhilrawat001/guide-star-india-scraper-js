@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Putchala Visweswara Rao",
+      "email": "putchala_yss@yahoo.co.in",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5578",
+  "name": "Yuvajana Seva Sangham",
+  "primaryEmail": "putchala_yss@yahoo.co.in",
+  "website": "www.yuvajanasevasangham.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919581921699"
+  ],
+  "mainAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "indiranagar Door.no. 24-232",
+      "Narasannapeta village and mandal",
+      "Srikakulam",
+      "Andhra Pradesh",
+      "532421"
+    ]
+  }
+}

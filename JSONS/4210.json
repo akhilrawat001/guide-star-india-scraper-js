@@ -1,0 +1,26 @@
+{
+  "contacts": [
+    {
+      "name": "Dr.Swarupananda Patra",
+      "email": "sudhansusekhar.naik@rediffmail.com",
+      "designation": "Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4210",
+  "name": "Young Men's Christian Association of Bhubaneswar",
+  "primaryEmail": "sudhansusekhar.naik@rediffmail.com",
+  "telephone": [
+    "919938000000"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "YMCA,plot-A-121,Nayapolli,Unit-8,Bhubaneswar",
+      "Bhubaneswar",
+      "Khordha",
+      "Odisha",
+      "751012"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "contacts": [
+    {
+      "name": "P K Sharma",
+      "email": "",
+      "designation": "General Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=789",
+  "name": "Centre for Documentation, Information, Research, Education, Communication & Training (Centre Direct)",
+  "primaryEmail": "centredirect@yahoo.com",
+  "website": "www.centredirect.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Intermediary"
+  ],
+  "telephone": [
+    "916122540599",
+    "916122265938",
+    "919334114078"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "F-152, Road No. 3F",
+      "Srikrishanapuri",
+      "Patna",
+      "Bihar",
+      "800001"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Bihar",
+    "address": [
+      "4 B, Charuvilla apartment",
+      "Boring Road, (Behind Heera Panna Market)",
+      "Patna",
+      "Bihar",
+      "800001",
+      "AP_TelBill_703.PDF"
+    ]
+  }
+}

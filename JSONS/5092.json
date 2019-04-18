@@ -1,0 +1,34 @@
+{
+  "contacts": [
+    {
+      "name": "Perumal",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "9894862612"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5092",
+  "name": "KALPATHARU RAJAGOPALANAR TRUST",
+  "primaryEmail": "karatrust2008@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919894862612"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "12/3,",
+      "pound street",
+      "sivagangai",
+      "Sivagangai",
+      "Tamil Nadu",
+      "630561"
+    ]
+  },
+  "briefDescription": "We are a non-political,non-communal organisation working for the cause of women and children,in the fields of literacy,health and self sustainability.Also work for the cause of farmers and rural development through creating awareness/training the target community for gain full livelihood activities.We touched the lives of more than 6000 people through our activities.",
+  "yearOfEstablishment": "2008"
+}

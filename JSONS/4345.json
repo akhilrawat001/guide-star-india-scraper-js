@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Manisha Parikh",
+      "email": "parikhmanisha4@gmail.com",
+      "designation": "President Of The Trust",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4345",
+  "name": "VRUNDA HASTAKALA KENDRA",
+  "primaryEmail": "vrunda.hastakala@yahoo.com",
+  "website": "https://www.facebook.com/VrundaHastakalaKendra",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919824029354"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "C-108,Jay Vaikhunthdham Society Behind Ganesh-Hall,Near Darbar Chowkadi, Manjalpur. Vadodara",
+      "Manjalpur 390011",
+      "Vadodara",
+      "Gujarat",
+      "390011"
+    ]
+  }
+}

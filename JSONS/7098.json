@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Mr. A.V.Ramanaiah",
+      "email": "",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7098",
+  "name": "DEVELOPMENT OF INTEGRATED NURTURING ASSOCIATION TO KINDLE AWAKENING FOR RENAISSANCE",
+  "primaryEmail": "dinakar_ramanaiah@yahoo.com",
+  "organisationType": [
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919440478989"
+  ],
+  "mainAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "D.NO. 7/2/16/4, Nehru Nagar",
+      "Near Vijaya Talkies",
+      "Dhone",
+      "Kurnool",
+      "Andhra Pradesh",
+      "518222"
+    ]
+  }
+}

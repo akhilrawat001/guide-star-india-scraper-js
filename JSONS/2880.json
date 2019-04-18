@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "Mansukhbhai D Vala",
+      "email": "panchal.sayala@gmail.com",
+      "designation": "Chairman",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2880",
+  "name": "Panchal Gram Vikas Trust",
+  "primaryEmail": "panchal.sayala@gmail.com",
+  "telephone": [
+    "912755280754",
+    "912755225577",
+    "912755280754"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "Post-Navagam",
+      "Block-Sayala",
+      "Surendranagar",
+      "Gujarat",
+      "363440"
+    ]
+  }
+}

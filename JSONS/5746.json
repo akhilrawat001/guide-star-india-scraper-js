@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "Sayeed Ahmed",
+      "email": "sayeed1969@gmail.com",
+      "designation": "Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5746",
+  "name": "EFRAH (A Society for Social Welfare)",
+  "primaryEmail": "efrahindia@gmail.com",
+  "website": "www.efrahindia.org.in",
+  "telephone": [
+    "911126020132",
+    "911126020132"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "Community Centre, 2nd Floor D DA Flats",
+      "Kalkaji, Behind D D A Flats market (Opposite Bhumiheen Camp)",
+      "South Delhi",
+      "Delhi",
+      "110019"
+    ]
+  }
+}

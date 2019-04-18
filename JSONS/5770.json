@@ -1,0 +1,49 @@
+{
+  "contacts": [
+    {
+      "name": "MR AJOY KUMAR SARKAR",
+      "email": "gournagarkalyansamity@gmail.com",
+      "designation": "Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5770",
+  "name": "GOURNAGAR KALYAN SAMITY",
+  "primaryEmail": "gournagarkalyansamity@gmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "918768283223",
+    "913472250105"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "H/O ANUDEV BISWAS VILL GOURNAGAR (HOSPITAL PARA)",
+      "P.O. SREE MAYAPUR",
+      "NABADWIP",
+      "Nadia",
+      "West Bengal",
+      "741313"
+    ]
+  },
+  "briefDescription": "WE DO ALL THE ACTIVITIES FOR THE POORS AND BACKWARD CLASSES OF THE SOCIETY. WE TRY TO DO OUR BEST FOR WELFARE OF SOCIETY.",
+  "yearOfEstablishment": "2008",
+  "regiseredAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "H/O ANUDEV BISWAS VILL GOURNAGAR (HOSPITAL PARA)",
+      "P.O. SREE MAYAPUR",
+      "Mayapur",
+      "Nadia",
+      "West Bengal",
+      "741313"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "KUMAR",
+      "email": "ediamal@yahoo.com",
+      "designation": "DIRECTOR",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4997",
+  "name": "ANNAMMAL EDUCATIONAL TRUST",
+  "primaryEmail": "ediamal@yahoo.com",
+  "website": "http://www.iibtindia.com/annamalinstitute.html",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919940594940"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "17/9,PILLAYAR KOIL STREET, GANDHI NAGAR, SALIGRAMAM,CHENNAI",
+      "16/2, J N SALAI (100 FEET ROAD), NEXT TO AISWARYA KALYANA MAHAL, ARUMBAKAM,CHENNAI",
+      "CHENNAI",
+      "Chennai",
+      "Tamil Nadu",
+      "600093"
+    ]
+  }
+}

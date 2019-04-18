@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Mr.Deepak Singhal",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7481",
+  "name": "HEMOPHILIA SOCIETY DEHRADUN CHAPTER",
+  "primaryEmail": "hemophilia.dehradun@gmail.com",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "919412954711"
+  ],
+  "mainAddrress": {
+    "state": "Uttarakhand",
+    "address": [
+      "45/1,",
+      "KHURBURA",
+      "DEHRADUN",
+      "Dehradun",
+      "Uttarakhand",
+      "248001"
+    ]
+  }
+}

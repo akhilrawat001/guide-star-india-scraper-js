@@ -1,0 +1,40 @@
+{
+  "contacts": [
+    {
+      "name": "Disha Mullick",
+      "email": "disha@khabarlahariya.org",
+      "designation": "Director",
+      "mobile": []
+    },
+    {
+      "name": "Disha Mullick",
+      "email": "disha@khabarlahariya.org",
+      "designation": "Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6463",
+  "name": "Women, Media & News Trust",
+  "primaryEmail": "wmntrust@gmail.com",
+  "website": "www.khabarlahariya.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "911146012574",
+    "911146012574"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "25, Adhchini Village, 2nd Floor",
+      "Above Professional Touch Beauty Parlour",
+      "New Delhi",
+      "South Delhi",
+      "Delhi",
+      "110017"
+    ]
+  },
+  "briefDescription": "The WoMeN Trust was set up in 2013 with the objective of setting up an independent media collective with rural, Dalit women journalists in its leadership.The WoMeN Trust produces Khabar Lahariya- a rural newspaper that is run by a team of women journalists in Chitrakoot, Banda, Mahoba and Faizabad districts of Uttar Pradesh, and Sitamarhi district of Bihar. The newspaper has a readership of nearly 80,000, with a considerable percentage of readers in rural areas. Khabar Lahariya is the only newspaper to reach rural readers in areas with low media penetration. It is the only newspaper that reaches news to rural communities in their own local language. And it is the only newspaper that has an all women team or journalists and hawkers.",
+  "yearOfEstablishment": "2013"
+}

@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "A.J.Babu",
+      "email": "visionindia.india@gmail.com",
+      "designation": "Executive Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3613",
+  "name": "Vision India Ministries Welfare Association",
+  "primaryEmail": "visionindia.india@gmail.com",
+  "website": "http://www.visionindia.co",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service"
+  ],
+  "telephone": [
+    "919989993911"
+  ],
+  "mainAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "Brels Home",
+      "Zami Dintakuru",
+      "Gudivada,",
+      "Krishna",
+      "Andhra Pradesh",
+      "521263"
+    ]
+  }
+}

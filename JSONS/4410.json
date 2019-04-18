@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "BIJAY KUNDU",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4410",
+  "name": "GOPABANDHU VIKASH SOCIETY",
+  "primaryEmail": "gvsociety@ymail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "916723238426",
+    "916723238426"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "AT/P.O-ABHIMAANPURVIA-NUAAPATNA,P.S-BARAMBA ,DIST-CUTTACK ,ODISHA",
+      "VIA-NUAPATNA P.S-BARAMBA ,DIST-CUTTACK, ODISHA",
+      "ABHIMANPUR",
+      "Cuttack",
+      "Odisha",
+      "754035"
+    ]
+  }
+}

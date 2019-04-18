@@ -1,0 +1,47 @@
+{
+  "contacts": [
+    {
+      "name": "XXX",
+      "email": "XX@gmail.com",
+      "designation": "XXXXX",
+      "mobile": []
+    },
+    {
+      "name": "XXX",
+      "email": "XX@gmail.com",
+      "designation": "XXXXX",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1155",
+  "name": "CARE India Solutions for Sustainable Development",
+  "primaryEmail": "XXX@gam.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "911122222222"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "New Delhi",
+      "Delhi",
+      "110020",
+      "AP_TelBill_1058.PDF"
+    ]
+  },
+  "briefDescription": "XXXXXXX",
+  "yearOfEstablishment": "0",
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "CCCC",
+      "CCCCC",
+      "South Delhi",
+      "Delhi",
+      "110000"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "contacts": [
+    {
+      "name": "Nagarjuna Akkineni",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "9346709720"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6690",
+  "name": "BLUE CROSS OF HYDERABAD",
+  "primaryEmail": "bluecrosshyd@gmail.com",
+  "website": "http://www.bluecrosshyd.in",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919346709720"
+  ],
+  "mainAddrress": {
+    "state": "Telangana",
+    "address": [
+      "403/9, Road No.35,",
+      "Jubilee Hills",
+      "Hyderabad",
+      "Telangana",
+      "500033"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Telangana",
+    "address": [
+      "403/9, Road No.35,",
+      "Jubilee Hills",
+      "Telangana State",
+      "Hyderabad",
+      "Telangana",
+      "500033"
+    ]
+  }
+}

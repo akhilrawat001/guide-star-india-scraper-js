@@ -1,0 +1,25 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8036",
+  "name": "Kamta Cyclone Club",
+  "primaryEmail": "mahato.manohar3@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919735881139",
+    "913252228150"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Vill-Baliguma P.O- Bijoydih",
+      "P.S- Kenda Dist-Purulia",
+      "Kolkata",
+      "Purulia",
+      "West Bengal",
+      "723128"
+    ]
+  }
+}

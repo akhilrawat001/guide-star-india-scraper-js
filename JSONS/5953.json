@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Goswamy Gouri Shankar Dash",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5953",
+  "name": "ASSOCIATION FOR SOCIAL AND HUMAN RURAL ACTIVITY (ASHRA)",
+  "primaryEmail": "ashra.brahmapur@gmail.com",
+  "website": "ashra.in",
+  "organisationType": [
+    "Direct Service",
+    "Intermediary",
+    "Support"
+  ],
+  "telephone": [
+    "919692078797"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "old khajuria",
+      "po-phulatta",
+      "brahmapur",
+      "Ganjam",
+      "Odisha",
+      "760003"
+    ]
+  }
+}

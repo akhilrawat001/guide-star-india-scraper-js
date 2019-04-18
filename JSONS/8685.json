@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Dr. Subrat Kumar Prusty",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8685",
+  "name": "INSTITUTE OF ODIA STUDIES & RESEARCH",
+  "primaryEmail": "iosrodisha@gmail.com",
+  "website": "http://www.iosrodisha.in",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "916742544505",
+    "916742544505"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "Plot No- A-164, Saheed Nagar",
+      "Near  VaniVihar Chawak",
+      "Bhubaneswar",
+      "Khordha",
+      "Odisha",
+      "751007"
+    ]
+  }
+}

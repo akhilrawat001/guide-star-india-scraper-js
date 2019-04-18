@@ -1,0 +1,27 @@
+{
+  "contacts": [
+    {
+      "name": "Vaijinath S Bandenor",
+      "email": "blesssociety@yahoo.com",
+      "designation": "PRESIDENT",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2633",
+  "name": "BLESS SOCIETY OF RURAL AND URBAN DEVELOPMENT",
+  "primaryEmail": "blesssociety@yahoo.com",
+  "telephone": [
+    "919483515347"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "NH 9 Road, Molkera,",
+      "Tq Humnabad",
+      "Molkera",
+      "Bidar",
+      "Karnataka",
+      "585330"
+    ]
+  }
+}

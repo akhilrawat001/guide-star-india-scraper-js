@@ -1,0 +1,27 @@
+{
+  "contacts": [
+    {
+      "name": "Madhav Bhanudas Shinde",
+      "email": "",
+      "designation": "Chairman",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3210",
+  "name": "Gram Vikas Bahuuddeshiya Sava Mandal",
+  "primaryEmail": "gbsmosd@rediffmail.com",
+  "telephone": [
+    "912472228975",
+    "919423340875"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "27/1040, Prasad Colony,",
+      "Manik Chowk,",
+      "Osmanabad",
+      "Maharashtra",
+      "413501"
+    ]
+  }
+}

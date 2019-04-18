@@ -1,0 +1,37 @@
+{
+  "contacts": [
+    {
+      "name": "Satish Manchikanti",
+      "email": "satish@uandi.org.in",
+      "designation": "Co-Founder",
+      "mobile": [
+        "91-7022386750"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3416",
+  "name": "U&I Trust",
+  "primaryEmail": "ajit@uandi.org.in",
+  "website": "http://uandi.org.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service"
+  ],
+  "telephone": [
+    "919886191810",
+    "+917022386750"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "8/1, Gover Road",
+      "Cox town",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560005"
+    ]
+  },
+  "briefDescription": "U&I is a volunteer-driven charity committed to driving change in education, child and women welfare, and mental health. Our education initiative, U&I Teach is an after-school tutoring service through which we coach underprivileged children at Learning Centers across the country. Our rehab initiative U&I Care impacts special-needs boys and men by providing therapy, social interaction and vocational training. We also provide vocational training to trafficked women at a Shelter in Bangalore.As of today, U&I impacts more than 1200 men, women and children directly on a daily basis.",
+  "yearOfEstablishment": "2011"
+}

@@ -1,0 +1,59 @@
+{
+  "contacts": [
+    {
+      "name": "Parvathy G",
+      "email": "atmafoundation@gmail.com",
+      "designation": "Project Coordinator",
+      "mobile": [
+        "2325232",
+        "9400995232"
+      ]
+    },
+    {
+      "name": "Parvathy G",
+      "email": "atmafoundation@gmail.com",
+      "designation": "Project Coordinator",
+      "mobile": [
+        "2325232",
+        "9400995232"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5408",
+  "name": "ATMA FOUNDATION",
+  "primaryEmail": "atmatrust@gmail.com",
+  "website": "http://www.atmafoundation.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Intermediary",
+    "Support"
+  ],
+  "telephone": [
+    "914872325232",
+    "919400995232"
+  ],
+  "mainAddrress": {
+    "state": "Kerala",
+    "address": [
+      "ATMA Foundation, Surya Gardens, Paliyam Road, Trichur -680001",
+      "Trichur",
+      "Thrissur",
+      "Kerala",
+      "680001"
+    ]
+  },
+  "briefDescription": "ATMA Foundation is an NGO in Kerala State, India, committed to empowering individuals and families to lead happier lives with healthier relationships, and to bring positive change in the community. Over the years, we have organized over 1426 programmes, directly impacting over 2,28,000 families (8 May 2006 – 31 March 2018).  Our core philosophy is Living in Harmony- a practical philosophy of intrapersonal and interpersonal integration, for vision oriented value based happy living. We conduct campaigns, workshops & seminars   to empower families, teachers, adolescents, women, children, elders & helping professionals relationship counselling skills.Our key projects include ATMA Gurukulam Girls' Home (with orphanage license), ATMA Railway Child Help Desk, Child & Adolescent Development Centre, Family Counselling Centre, Arts & Yoga Centres.",
+  "yearOfEstablishment": "2006",
+  "regiseredAddrress": {
+    "state": "Kerala",
+    "address": [
+      "No 1, Vrindavan Colony, Pushpagiri,",
+      "Punkunnam, Trichur - 680002",
+      "Trichur",
+      "Thrissur",
+      "Kerala",
+      "680002"
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Mr.Kailas Chavan",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8001",
+  "name": "Snehal Dnyansagar Shikshan Prasarak Mandal",
+  "primaryEmail": "Klschvn09@gmail.com",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "917776857662"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Plot no.20 Ravindra Colony",
+      "Kat Kat Gate Road Aurangabad",
+      "Aurangabad",
+      "Maharashtra",
+      "431005"
+    ]
+  }
+}

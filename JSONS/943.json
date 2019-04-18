@@ -1,0 +1,43 @@
+{
+  "contacts": [
+    {
+      "name": "Nimitta Bhatt",
+      "email": "nimittabhatt@yahoo.com",
+      "designation": "Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=943",
+  "name": "Trust For Reaching The Unreached",
+  "primaryEmail": "nimitta.bhatt@gmail.com",
+  "website": "http://www.truguj.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "912652338117",
+    "919825072944"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "41, Vishwas Colony",
+      "Nr Apna Bazaar, Alkapuri",
+      "Vadodara",
+      "Gujarat",
+      "390007"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "21, Nirman Society, Alkapuri",
+      "Vadodara",
+      "Gujarat",
+      "390007",
+      "AP_ElecBill_858.PDF"
+    ]
+  }
+}

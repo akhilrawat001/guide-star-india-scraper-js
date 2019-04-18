@@ -1,0 +1,36 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6952",
+  "name": "Sarvajan Rozgar Sanstha",
+  "primaryEmail": "sarvjanrozgar@gmail.com",
+  "website": "www.sarvjanrozgar.org",
+  "organisationType": [
+    "Direct Service",
+    "Intermediary",
+    "Support"
+  ],
+  "telephone": [
+    "917860065656"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "fatehgarh,farrukhabad",
+      "fatehgarh",
+      "Farrukhabad",
+      "Uttar Pradesh",
+      "209601"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "Siddhartha Nagar",
+      "Nagar,Khadri,Near Bharat Atta Chakki, Thana-Mandiyaon,",
+      "Lucknow",
+      "Farrukhabad",
+      "Uttar Pradesh",
+      "209601"
+    ]
+  }
+}

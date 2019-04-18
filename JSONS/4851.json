@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Manish",
+      "email": "pdssindia@gmail.com",
+      "designation": "secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4851",
+  "name": "Prakaash Deep Sewa Sansthan",
+  "primaryEmail": "pdssindia@gmail.com",
+  "website": "www.pdssindia.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919616542695"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "H.NO. B-86",
+      "INDIRA NAGAR AWAS-VIKAS COLONY",
+      "RAE-BARELI",
+      "RaeBareli",
+      "Uttar Pradesh",
+      "229001"
+    ]
+  },
+  "briefDescription": "Prakash Deep Sewa Sansthan is a voluntary, non-profit organisation working for the development and empowerment of the rural and urban poor and needy children and women.Prakash Deep Sewa Sansthan is now effective in Raebareli  District of Uttar Pradesh, India.  The key target groups are Dalits/Minor ( so called untouchables or lowest caste group), children, child laborers, disadvantaged youth, rural women and unorganized rural laborers",
+  "yearOfEstablishment": "1997"
+}

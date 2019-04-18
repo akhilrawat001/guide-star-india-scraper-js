@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "AARADHANA KATARE",
+      "email": "zwsngo@gmail.com",
+      "designation": "SECRETARY",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7208",
+  "name": "ZENITH WELFARE SOCIETY",
+  "primaryEmail": "zwsngo@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919753654666"
+  ],
+  "mainAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "97D, MAHAKAUSHAL NAGAR,",
+      "SARASWATI H.S. SCHOOL KE PASS, ADHARTAL",
+      "JABALPUR",
+      "Jabalpur",
+      "Madhya Pradesh",
+      "482004"
+    ]
+  }
+}

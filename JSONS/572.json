@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "S M Farooque",
+      "email": "",
+      "designation": "Secretary / Ceo",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=572",
+  "name": "Fellowship of the Disabled",
+  "primaryEmail": "fello_ship@yahoo.com",
+  "website": "www.visitfellowship.8k.com",
+  "telephone": [
+    "916784250189",
+    "916784250384",
+    "916784250189"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "Tarini Bhawan, Women'S College",
+      "Post Box No-3, P.O Bhadrak",
+      "Santhia",
+      "Bhadrak",
+      "Odisha",
+      "756100"
+    ]
+  }
+}

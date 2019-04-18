@@ -1,0 +1,34 @@
+{
+  "contacts": [
+    {
+      "name": "Mr.Ashutosh Mishra",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7221",
+  "name": "Jagabandhu Jarashram",
+  "primaryEmail": "jagabandhujarashram@gmail.com",
+  "website": "www.jagabandhujarashram.org",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "919437452007",
+    "918598035403"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "At/Po- BHUBAN (Word.No.04),",
+      "Pala Mandap",
+      "Bhuban",
+      "Dhenkanal",
+      "Odisha",
+      "759017"
+    ]
+  },
+  "briefDescription": "The Mission of the organization is to assure socioeconomic justice to the underprivileged sections of the society through different developmental activities. To bring about a qualitative change of these people in particular, PRAYAS strives to assure health, education and livelihood for all. PRAYAS strives to act as a catalyst for better community organization, resource mobilization, idea initiation and capacity building of the community at the grass roots level.",
+  "yearOfEstablishment": "2007"
+}

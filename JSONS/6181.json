@@ -1,0 +1,41 @@
+{
+  "contacts": [
+    {
+      "name": "BHALCHANDRA SADASHIV BAPAT",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6181",
+  "name": "Ekatma Samaj Kendra",
+  "primaryEmail": "san_sub@sancharnet.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919422410378"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "EKATMA SAMAJ KENDRA Care of SANGLI URBAN CO-OPERATIVE BANK LTD.",
+      "LONI BAZAR, NEAR JUBILEE GIRLS HIGH SCHOOL.",
+      "MIRAJ",
+      "Sangli",
+      "Maharashtra",
+      "416410"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "EKATMA SAMAJ KENDRA C/O SANGLI URBAN CO-OPERATIVE BANK LTD.",
+      "LONI BAZAR, NEAR JUBILEE GIRLS HIGH SCHOOL.",
+      "MIRAJ",
+      "Sangli",
+      "Maharashtra",
+      "416410"
+    ]
+  }
+}

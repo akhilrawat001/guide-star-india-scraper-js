@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Goutam Daripa",
+      "email": "goutam.daripa2010@gmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5104",
+  "name": "Bankura Rural Association for Medical and Health Awareness",
+  "primaryEmail": "goutam.daripa2010@gmail.com",
+  "website": "http://www.bramha.net.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "913242254985",
+    "913242254985"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Saraswati Nivas, Manpara, Keshiakole , Bankura",
+      "Shankharipara",
+      "Bankura",
+      "West Bengal",
+      "722155"
+    ]
+  }
+}

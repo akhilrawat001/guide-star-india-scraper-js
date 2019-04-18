@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Shri K Das Tiwary",
+      "email": "nycs@rediffmail.com",
+      "designation": "Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8367",
+  "name": "National Young Cadets Society",
+  "primaryEmail": "nycs@rediffmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919431592280"
+  ],
+  "mainAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "748/F1,",
+      "Sukhdeo Nagar,",
+      "Ratu Road",
+      "Ranchi",
+      "Jharkhand",
+      "834005"
+    ]
+  }
+}

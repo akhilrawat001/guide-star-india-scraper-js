@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Uttam Mukherjee",
+      "email": "kbs.bankura.2009@gmail.com",
+      "designation": "Secretary",
+      "mobile": [
+        "91-3242-243199"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6305",
+  "name": "Kenduadihi Bikash Society",
+  "primaryEmail": "kbs.bankura.2009@gmail.com",
+  "website": "http://bikashngo.org/",
+  "telephone": [
+    "913242243199",
+    "913242243199"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Kenduadihi Post Office",
+      "Aliakundi Road",
+      "Bankura",
+      "West Bengal",
+      "722012"
+    ]
+  }
+}

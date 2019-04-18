@@ -1,0 +1,26 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5833",
+  "name": "Utthan Education Trust",
+  "primaryEmail": "utthaneducation@yahoo.in",
+  "website": "www.utthaneducation.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Support"
+  ],
+  "telephone": [
+    "+912763289321",
+    "+918000036233"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "Barot Hirenkumar Sureshbhai",
+      "Karnavat vas",
+      "Veda ( post - Pundhara) , Taluka - Mansa.",
+      "Gandhinagar",
+      "Gujarat",
+      "382855"
+    ]
+  }
+}

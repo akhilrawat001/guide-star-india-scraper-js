@@ -1,0 +1,40 @@
+{
+  "contacts": [
+    {
+      "name": "Himmat Singh Vijoriya",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "9414186410"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8969",
+  "name": "Vijoriya Foundation",
+  "primaryEmail": "vijoriyafoundation@gmail.com",
+  "website": "http://vijoriya.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919414186410"
+  ],
+  "mainAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "159, Vijoriya Bhawan",
+      "Banwari Pur Mod",
+      "Shri Mahaveer",
+      "Jaipur",
+      "Rajasthan",
+      "322220"
+    ]
+  },
+  "briefDescription": "Vijoriya Foundation is Public Charitable and welfare objects creating facilities for benefit of society at large more specifically for objects and purpose to welfare, Development,  Employment Generation, Environment Protection, Education and Health, Spirituality, Humanity, Peace, Nature.",
+  "yearOfEstablishment": "2016"
+}

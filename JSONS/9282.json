@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "AJAY KUMAR PRASAD",
+      "email": "caajayprasadca@hotmail.com",
+      "designation": "DIRECTOR",
+      "mobile": [
+        "91-9312369843"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9282",
+  "name": "MUSKAAN FOUNDATION",
+  "primaryEmail": "info.muskaanfoundation@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919312369843"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "Maa Gayatri Complex, Mirchaibari, Katihar",
+      "Katihar",
+      "Bihar",
+      "854105"
+    ]
+  },
+  "briefDescription": "Muskaan Foundation is located in Katihar, Bihar.",
+  "yearOfEstablishment": "2016"
+}

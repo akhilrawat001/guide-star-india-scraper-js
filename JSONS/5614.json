@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Sudhanidhi Rout",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5614",
+  "name": "CENTRE FOR CHILD WELFARE AND SOCIAL DEVELOPMENT",
+  "primaryEmail": "director.ccwsd@gmail.com",
+  "website": "www.ccwsdindia.org",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "916742565503",
+    "916742565503"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "1075/3165",
+      "Shatabdi Nagar, Unit-8",
+      "Bhubaneswar",
+      "Khordha",
+      "Odisha",
+      "751003"
+    ]
+  }
+}

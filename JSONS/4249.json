@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "Raman Rekhi",
+      "email": "raman@specialolympicsbharat.org",
+      "designation": "Senior Manager, Marketing &Communications",
+      "mobile": [
+        "9811938889"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4249",
+  "name": "Special Olympics Bharat",
+  "primaryEmail": "raman@specialolympicsbharat.org",
+  "website": "www.specialolympicsbharat.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919810081636",
+    "919811129677"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "J-47 Lajpat Nagar-III",
+      "Lower Ground Floor",
+      "New Delhi",
+      "South Delhi",
+      "Delhi",
+      "110024"
+    ]
+  },
+  "briefDescription": "Special Olympics Bharat works for the development of persons with intellectual disabilities using sports as a catalyst for development.Using the sports platform for mass mobilization we offer a range of service designed for development and empowerment of our Special Athletes and their families thus leading to an inclusive society in the long term.We have now also extended our reach to the development of sports for all disabilities and for which we have been declared the nodal agency for the Government. In addition we are also responsible for the training of all coaches and trainers cross disabilities in partnership with the LNUPE, Gwalior.",
+  "yearOfEstablishment": "2001"
+}

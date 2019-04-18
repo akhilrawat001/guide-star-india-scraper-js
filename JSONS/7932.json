@@ -1,0 +1,35 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7932",
+  "name": "Gramin Lok Kalyan va Shikshan  Sanstha Aurangabad",
+  "primaryEmail": "akash.dikale@gmail.com",
+  "website": "www.mg",
+  "organisationType": [
+    "Grant-making"
+  ],
+  "telephone": [
+    "912402362297",
+    "8275937548"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Opp Samajik Naya Bhavan",
+      "Khokadpura, Banjara Colony",
+      "Aunragabad",
+      "Aurangabad",
+      "Maharashtra",
+      "431001"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Opp Samajik Naya Bhavan",
+      "Khokadpura, Banjara Colony",
+      "Aurangabad",
+      "Maharashtra",
+      "431001"
+    ]
+  }
+}

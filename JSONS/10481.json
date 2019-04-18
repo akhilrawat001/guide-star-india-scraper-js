@@ -1,0 +1,34 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10481",
+  "name": "HEALTH, EDUCATION AND ENVIRONMENT AWARENESS SOCIETY",
+  "primaryEmail": "heeasociety@gmail.com",
+  "website": "www.heeasociety.org",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919899366172"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "106 St.No.5 Krishna Nagar (S.J.Enclave)",
+      "New Delhi",
+      "South West Delhi",
+      "Delhi",
+      "110029"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "106/5, Krishna Nagar",
+      "New Delhi",
+      "South West Delhi",
+      "Delhi",
+      "110029"
+    ]
+  }
+}

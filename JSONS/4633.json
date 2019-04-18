@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "Rajen Kumar",
+      "email": "sgvvranchi@gmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4633",
+  "name": "Sinduar Tola Gramodaya Vikas Vidyalaya",
+  "primaryEmail": "sgvvranchi@gmail.com",
+  "telephone": [
+    "916512552341",
+    "916512552341"
+  ],
+  "mainAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "House Of Mr. R.B. Sinha,",
+      "Sarda Bhawan",
+      "New Area Morabadi",
+      "Ranchi",
+      "Jharkhand",
+      "834008"
+    ]
+  }
+}

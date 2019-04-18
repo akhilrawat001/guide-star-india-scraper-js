@@ -1,0 +1,24 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10936",
+  "name": "Sunbird Trust",
+  "primaryEmail": "connect@sunbirdtrust.com",
+  "website": "www.sunbirdtrust.com",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "917022260784",
+    "919342502893"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "Col. C J Rego (Retd.), CEO Sunbird Trust, 201 Serenity,33/5 Hutchins Road, 3rd Cross",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560084"
+    ]
+  }
+}

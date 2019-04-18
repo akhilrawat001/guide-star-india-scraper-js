@@ -1,0 +1,25 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1888",
+  "name": "Gramin Vikas Vigyan Kendra",
+  "primaryEmail": "gvvktiynr@yahoo.com",
+  "website": "www.gvvk.co.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "911732228962",
+    "911732646303",
+    "919215646303"
+  ],
+  "mainAddrress": {
+    "state": "Haryana",
+    "address": [
+      "Main Chowk Bazar",
+      "V.P.O Bilaspur,",
+      "Yamunanagar",
+      "Haryana",
+      "135102"
+    ]
+  }
+}

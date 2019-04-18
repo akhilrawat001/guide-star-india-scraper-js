@@ -1,0 +1,27 @@
+{
+  "contacts": [
+    {
+      "name": "Vijay Bhasker Yetapu",
+      "email": "vb@vchangeu.com",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5740",
+  "name": "VChangeU",
+  "primaryEmail": "vb@vchangeu.com",
+  "telephone": [
+    "9140645004443",
+    "9140645004443"
+  ],
+  "mainAddrress": {
+    "state": "Telangana",
+    "address": [
+      "109, Pasha Colony, Poppalaguda,",
+      "Manikonda",
+      "Hyderabad",
+      "Telangana",
+      "500075"
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Fairoz Jamal Abdul Raheem",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8861",
+  "name": "P.N.B. EDUCATION, SOCIAL AND WELFARE SOCIETY",
+  "primaryEmail": "pnb303@gmail.com",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "918390979085"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Sr. No. 41, Plot No. 38/2",
+      "Merchant Nagar",
+      "Malegaon",
+      "Nashik",
+      "Maharashtra",
+      "423203"
+    ]
+  }
+}

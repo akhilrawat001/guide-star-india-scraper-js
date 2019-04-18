@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Sh. Rattan L Goyal",
+      "email": "rtgoyal@gmail.com",
+      "designation": "Chairman",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3395",
+  "name": "HELP IN EDUCATION AND LEARNING PROGRAMS (HELP) EDUCATIONAL SOCIETY",
+  "primaryEmail": "rtgoyal@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Grant-making",
+    "Support"
+  ],
+  "telephone": [
+    "911642213594",
+    "911642213594"
+  ],
+  "mainAddrress": {
+    "state": "Punjab",
+    "address": [
+      "SCF 75, MODEL TOWN, PHASE-1",
+      "BATHINDA",
+      "Bathinda",
+      "Punjab",
+      "151001"
+    ]
+  }
+}

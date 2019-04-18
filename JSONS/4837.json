@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Siby Joseph",
+      "email": "aheadabd@gmail.com",
+      "designation": "Program Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4837",
+  "name": "AHEAD Association for Human, logical & Agricultural Development",
+  "primaryEmail": "aheadabd@gmail.com",
+  "website": "http://aheadngo.webs.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network"
+  ],
+  "telephone": [
+    "919408493568"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "21, Gitgovind Tenaments",
+      "Thaltej Silaj Road, Thaltej",
+      "Ahmedabad",
+      "Gujarat",
+      "380059"
+    ]
+  }
+}

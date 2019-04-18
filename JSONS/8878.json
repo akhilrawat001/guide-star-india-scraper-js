@@ -1,0 +1,37 @@
+{
+  "contacts": [
+    {
+      "name": "Santosh Raghunath Nalawade",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "9545388331"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8878",
+  "name": "KAI GOPALRAO JOTI NALWADE CHARITABLE TRUST",
+  "primaryEmail": "lategjntrust@gmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919545388331",
+    "919921241993"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "A/P Minche Khurd, Tal-Bhudargad,",
+      "Minche Khurd",
+      "Kolhapur",
+      "Maharashtra",
+      "416223"
+    ]
+  }
+}

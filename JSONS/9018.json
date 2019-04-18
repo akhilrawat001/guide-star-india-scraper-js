@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Gulabkhan Jarifkhan Pathan",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9018",
+  "name": "Nawazish -E- Qutb -E -Konkan Trust",
+  "primaryEmail": "nawazishequtbekonkan@rediffmail.com",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "919892190708"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "616/B Nabi Nagar Co Op Hsg Soc Ltd",
+      "Sant Kabir Marg Dharavi",
+      "Mumbai",
+      "Maharashtra",
+      "400017"
+    ]
+  }
+}

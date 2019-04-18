@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Mr.Jagdishbhai",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7431",
+  "name": "JAY SHITALAMATA MANAV KALYAN CHARITABLE TRUST",
+  "primaryEmail": "chirag@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919925663664"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "At Sindhavadar",
+      "Morbi",
+      "Rajkot",
+      "Gujarat",
+      "363621"
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "contacts": [
+    {
+      "name": "Udai Malhotra",
+      "email": "chikitsa@chikitsatrust.org",
+      "designation": "Trustee",
+      "mobile": [
+        "91-9650730860"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6470",
+  "name": "CHIKITSA",
+  "primaryEmail": "chikitsa@chikitsatrust.org",
+  "website": "http://www.chikitsatrust.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "911242381696",
+    "919650730860",
+    "911244225698"
+  ],
+  "mainAddrress": {
+    "state": "Haryana",
+    "address": [
+      "C-524 Sushant Lok (1st Floor)",
+      "Sushant Lok Phase 1, Block C",
+      "Gurgaon",
+      "Gurugram",
+      "Haryana",
+      "122002"
+    ]
+  },
+  "briefDescription": "CHIKITSA was started in 1999 as a community health initiative by General OP Malhotra (Retd), PVSM. It currently provides free community based primary health care (free consultations and free medicines) to over 100,000 patients annually out of 3 base clinics and 11 mobile clinics in Delhi-NCRs. The unique feature of our operations is that we use locations provided to us free by local bodies or community organisations, thus vastly reducing our overhead costs and freeing up funds that can be used to treat more patients. By providing free, quality community based primary healthcare, CHIKITSA reduces the burden on an already overcrowded and stressed government secondary  and tertiary level public health system.",
+  "yearOfEstablishment": "1999",
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "C-503 SOM VIHAR",
+      "RK PURAM",
+      "NEW DELHI",
+      "South West Delhi",
+      "Delhi",
+      "110022"
+    ]
+  }
+}

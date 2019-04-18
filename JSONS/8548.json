@@ -1,0 +1,28 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8548",
+  "name": "Rural & Urban Development Of India (RUDI)",
+  "primaryEmail": "rudi.trust@gmail.com",
+  "website": "www.rudi.org.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Support"
+  ],
+  "telephone": [
+    "913365222555",
+    "918013117211"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "95/57, Hari Sava Road, Nonachandanpukur",
+      "Barrackpore",
+      "Kolkata",
+      "North 24 Parganas",
+      "West Bengal",
+      "700122"
+    ]
+  }
+}

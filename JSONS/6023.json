@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Dr.Pramod Shravan Kasabe",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6023",
+  "name": "Yashodeep Medical and Research Foundation, Solapur",
+  "primaryEmail": "yashodeepmedicalfoundation111@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Intermediary"
+  ],
+  "telephone": [
+    "918855952973"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "10  paparam nager",
+      "vijapur road",
+      "solapur",
+      "Solapur",
+      "Maharashtra",
+      "413004"
+    ]
+  }
+}

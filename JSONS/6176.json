@@ -1,0 +1,27 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6176",
+  "name": "Orissa State Volunteers and Social Workers Association",
+  "primaryEmail": "info@osvswa.org",
+  "website": "http://www.osvswa.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Intermediary",
+    "Network"
+  ],
+  "telephone": [
+    "916742350384"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "Plot No. 502/1, Mallick Complex, Jagamara",
+      "Lane-9",
+      "Bhubaneswar",
+      "Khordha",
+      "Odisha",
+      "751030"
+    ]
+  }
+}

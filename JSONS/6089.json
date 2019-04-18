@@ -1,0 +1,45 @@
+{
+  "contacts": [
+    {
+      "name": "Purnendu Singh",
+      "email": "secretariat@cyberpeace.net",
+      "designation": "Director - Operations",
+      "mobile": [
+        "91-651-2970355",
+        "91-9570000265"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6089",
+  "name": "CYBER PEACE FOUNDATION",
+  "primaryEmail": "cyberpeacefoundation@gmail.com",
+  "website": "www.cyberpeace.org",
+  "organisationType": [
+    "Direct Service",
+    "Network"
+  ],
+  "telephone": [
+    "919570000265"
+  ],
+  "mainAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "B-55 (MIG) Harmu Housing Colony",
+      "Birsa Munda Rajpath",
+      "Ranchi",
+      "Jharkhand",
+      "834002"
+    ]
+  },
+  "briefDescription": "Cyber Peace Foundation (CPF) is an award-winning civil society organization, think tank of cyber security and policy experts with the vision of pioneering Cyber Peace Initiatives to build collective resiliency against cyber crimes & global threats of cyber warfare. Cyber Peace Foundation is involved in Policy Advocacy, Research and Training related to all aspects of Cyber Peace and Cyber Security. Key areas of Cyber Peace Foundation work are in Technology Governance, Policy Review and Advocacy, Capacity and Capability creation and building through partnerships with various government organizations, academic institutions and civil society entities.",
+  "yearOfEstablishment": "2013",
+  "regiseredAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "Cyber Peace Building, Plot no: H-39, Birsa Munda rajpath, Harmu Housing Colony",
+      "Ranchi",
+      "Jharkhand",
+      "834002"
+    ]
+  }
+}

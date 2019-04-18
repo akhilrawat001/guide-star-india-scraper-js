@@ -1,0 +1,42 @@
+{
+  "contacts": [
+    {
+      "name": "Renuka Devi",
+      "email": "",
+      "designation": "President",
+      "mobile": []
+    },
+    {
+      "name": "Renuka Devi",
+      "email": "",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1811",
+  "name": "Navabharat Rural Development Society",
+  "primaryEmail": "madhusarmaus@gmail.com",
+  "telephone": [
+    "919440285580"
+  ],
+  "mainAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "Flat 504",
+      "Sri Dutta Towers , Aravinda Nagar",
+      "Anantapur",
+      "Andhra Pradesh",
+      "515001"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "11-1-748",
+      "Jyothi Apartments,Naik Nagar",
+      "Anantapur",
+      "Andhra Pradesh",
+      "515001"
+    ]
+  }
+}

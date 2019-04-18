@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Sushila Mishra",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8619",
+  "name": "GRAMIN MAHILA EVAM BAL UTTHAN SEVA SAMITI",
+  "primaryEmail": "grameen.mahila@gmail.com",
+  "website": "http://www.graminmahila.org/index.html",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919450342595"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "Near Bhimapar Railway Crossing, Bansi Road,",
+      "Bhimapar, Naugarh",
+      "Bhimapar",
+      "Siddharthnagar",
+      "Uttar Pradesh",
+      "272207"
+    ]
+  }
+}

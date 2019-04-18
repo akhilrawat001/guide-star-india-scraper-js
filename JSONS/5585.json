@@ -1,0 +1,34 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5585",
+  "name": "Adarsh Mahila Griha Udyog",
+  "primaryEmail": "amgulatur@gmail.com",
+  "website": "htp://www.adarshmahila.org",
+  "organisationType": [
+    "Direct Service",
+    "Intermediary"
+  ],
+  "telephone": [
+    "919422013855"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Chandrakala Bhargaw, Care of Shree Sales and Services,Chandra Nagar, Oppo. Amba Mata Mandir",
+      "Chandrakala Bhargaw,Care of  Shree Sales and Services, Chandra Nagar, Oppo. Amba Mata Mandir",
+      "Latur",
+      "Maharashtra",
+      "413512"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Chandrakala Bhargaw,c/o Shree Sales and Services,Chandra Nagar, Oppo. Amba Mata Mandir",
+      "Chandrakala Bhargaw,c/o Shree Sales and Services, Chandra Nagar, Oppo. Amba Mata Mandir",
+      "Latur",
+      "Maharashtra",
+      "413512"
+    ]
+  }
+}

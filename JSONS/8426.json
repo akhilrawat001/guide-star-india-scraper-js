@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Miss Binita Chakraborty",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8426",
+  "name": "HRIDAYPUR SRIJA",
+  "primaryEmail": "sumitroychowdhury@ymail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919836280523"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "West Hridaypur,",
+      "C.P.T.A. Block,",
+      "P.O-Hridaypur,P.S-Barasa",
+      "North 24 Parganas",
+      "West Bengal",
+      "700127"
+    ]
+  }
+}

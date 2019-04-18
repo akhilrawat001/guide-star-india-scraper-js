@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "Sandhya",
+      "email": "sandhyamsw@gmail.com",
+      "designation": "Assistant Program Officer",
+      "mobile": []
+    },
+    {
+      "name": "Sandhya",
+      "email": "sandhyamsw@gmail.com",
+      "designation": "Assistant Program Officer",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=913",
+  "name": "Urborural Integrated Development Association",
+  "primaryEmail": "urida1992@yahoo.com",
+  "website": "www.uridango.org",
+  "telephone": [
+    "914312472878",
+    "911125333206",
+    "919810077875"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "WZ - 33A, DAYALSAR ROAD",
+      "UTTAM NAGAR",
+      "New Delhi",
+      "West Delhi",
+      "Delhi",
+      "110059"
+    ]
+  }
+}

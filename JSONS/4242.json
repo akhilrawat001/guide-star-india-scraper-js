@@ -1,0 +1,21 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4242",
+  "name": "SOUTH KOLKATA SANNIDHYA",
+  "primaryEmail": "southkolkatasannidhya@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919830311435"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "38A, Balaram Bose Ghat Road",
+      "Kolkata",
+      "West Bengal",
+      "700025"
+    ]
+  }
+}

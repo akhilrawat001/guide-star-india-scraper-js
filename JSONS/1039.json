@@ -1,0 +1,26 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1039",
+  "name": "Association For The Welfare of Persons with a Mental Handicap in Maharashtra",
+  "primaryEmail": "awmh@rediffmail.com",
+  "website": "www.awmh.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service"
+  ],
+  "telephone": [
+    "912223889956",
+    "912223889814",
+    "912223889956"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "B.M.C. Marathi Primary School, Ground Floor",
+      "Khetwadi, 1st Lane, S.V.P. Road, Behind Alankar Cinema",
+      "Mumbai",
+      "Maharashtra",
+      "400004"
+    ]
+  }
+}

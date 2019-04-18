@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "S.NIMAICHAND SINGH",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5428",
+  "name": "THE EDUCATIONAL AND SOCIAL UPLIFTMENT ORGANIZATION",
+  "primaryEmail": "s.nimaisingh@rediffmail.com",
+  "website": "nil",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Support"
+  ],
+  "telephone": [
+    "919436890825"
+  ],
+  "mainAddrress": {
+    "state": "Manipur",
+    "address": [
+      "Mongjam",
+      "Mantripukhri",
+      "Imphal",
+      "Imphal East",
+      "Manipur",
+      "795002"
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "contacts": [
+    {
+      "name": "DEBASISH MONDAL",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6768",
+  "name": "RESQUE AND OXYGEN SOCIETY",
+  "primaryEmail": "rescuenos5@gmail.com",
+  "website": "non",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service"
+  ],
+  "telephone": [
+    "919332959019"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Cooper’s Notified Area, P.S.- Ranaghat",
+      "Near ujjyal sanghya club",
+      "Ranaghat",
+      "Nadia",
+      "West Bengal",
+      "741232"
+    ]
+  },
+  "briefDescription": "RESQUE AND OXYGEN SOCIETY is located in West Bengal.",
+  "yearOfEstablishment": "2009",
+  "regiseredAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Cooper’s Notified Area, P.S.- Ranaghat",
+      "ujjyal sanghya club",
+      "Ranaghat",
+      "Nadia",
+      "West Bengal",
+      "741232"
+    ]
+  }
+}

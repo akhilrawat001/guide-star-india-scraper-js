@@ -1,0 +1,40 @@
+{
+  "contacts": [
+    {
+      "name": "Srujana",
+      "email": "srujana@datri.org",
+      "designation": "Marketing & Communication",
+      "mobile": [
+        "91-44-40795316"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4789",
+  "name": "DATRI BLOOD STEM CELL DONORS REGISTRY",
+  "primaryEmail": "raghu@datri.org",
+  "website": "http://datri.org/",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Intermediary",
+    "Support"
+  ],
+  "telephone": [
+    "919035270021",
+    "919840218667",
+    "914422542744"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "Modules 1207 & 1208, 12th Floor",
+      "Ticel Bio Park Phase 2",
+      "CSIR-Taramani Road, Chennai",
+      "Chennai",
+      "Tamil Nadu",
+      "600113",
+      "DATRI_BSNL_DEC16_Bill copy.PDF"
+    ]
+  },
+  "briefDescription": "DATRI is a non-profit organization that has been set up to help save lives of those suffering from life threatening disorders like leukemia, lymphoma, thalassemia etc.With very few registered donors available in India, the possibility of finding a match for an Indian anywhere in the world is very bleak. DATRI is working towards creating a wide and diverse database of potential donors that can be accessed by any patient, living anywhere in the world, in need of a blood stem cell transplant.",
+  "yearOfEstablishment": "2009"
+}

@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Kavita Thampy",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2671",
+  "name": "Action for Community Development Trust",
+  "primaryEmail": "kavitathampy@gmail.com",
+  "website": "www.actionforcommunity.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919717472228",
+    "919811516185"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "9D1 Hindustan Times Apartments, Mayur Vihar, Phase 1.",
+      "New Delhi 110091",
+      "Delhi",
+      "East Delhi",
+      "110091"
+    ]
+  }
+}

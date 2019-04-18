@@ -1,0 +1,33 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2686",
+  "name": "PIMPLE AANAND DHAM",
+  "primaryEmail": "pimple.trust@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919869103425"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "C-604, Pacific Towers, Sagar city, Andheri (West), Mumbai- 400058",
+      "V.P.Road, Andheri (west).",
+      "Mumbai",
+      "Maharashtra",
+      "400058"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "C-604, Pacific Towers, Sagar city, Andheri (West)",
+      "V.P. Road, Andheri (West)",
+      "Mumbai",
+      "Maharashtra",
+      "400058"
+    ]
+  }
+}

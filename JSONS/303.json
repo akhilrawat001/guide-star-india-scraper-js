@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Gitanjali Ghosh",
+      "email": "gitanjali99@yahoo.com",
+      "designation": "Director and Managing Trustee",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=303",
+  "name": "The Anando Trust",
+  "primaryEmail": "anando.kolkata@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919830006747"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "301 Priyadarshini",
+      "36/3 Southend Park",
+      "Kolkata",
+      "West Bengal",
+      "700029"
+    ]
+  },
+  "briefDescription": "Anando works with children from disadvantaged backgrounds in Kolkata, West Bengal.",
+  "yearOfEstablishment": "2006"
+}

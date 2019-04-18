@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Fr. Jose Kondoor",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6753",
+  "name": "Nirmal Jyoti Educational and Charitable Society, Ujjain",
+  "primaryEmail": "nirmaljyotimds@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Intermediary"
+  ],
+  "telephone": [
+    "919479855086"
+  ],
+  "mainAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "Santhome Bhavan",
+      "P.B No. 227",
+      "Motilal Nehru Nagar",
+      "Ujjain",
+      "Madhya Pradesh",
+      "456001"
+    ]
+  }
+}

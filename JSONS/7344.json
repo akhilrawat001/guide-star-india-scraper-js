@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Rajan Kumar Mishra",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7344",
+  "name": "Center For Social Welfare",
+  "primaryEmail": "csw_2500@rediffmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919431355021"
+  ],
+  "mainAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "House-7,",
+      "st peter campus, birsa chouk, po- doranda",
+      "Ranchi",
+      "Jharkhand",
+      "834002"
+    ]
+  }
+}

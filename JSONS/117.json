@@ -1,0 +1,40 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=117",
+  "name": "SNEHA (Society for Nutrition, Education and Health Action)",
+  "primaryEmail": "snehamumbai@snehamumbai.org",
+  "website": "www.snehamumbai.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "912224042627",
+    "912224086011",
+    "912224042627",
+    "912226614488"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "310, 3rd Floor, Urban Health Centre",
+      "60 Feet Road, Dharavi",
+      "Mumbai",
+      "Maharashtra",
+      "400017"
+    ]
+  },
+  "briefDescription": "A secular, Mumbai-based non-profit organization, SNEHA believes that investing in women's health is essential to building viable communities. SNEHA focuses on four large public health areas: Maternal and Newborn Health, Child Health and Nutrition, Adolescent Health and Empowerment, Prevention of Violence against Women and Children among vulnerable communities. Our approach is two pronged: We work at the community level to empower women and slum communities to be catalysts of change in health care behaviors and also collaborate with existing public health systems and health care providers to create sustainable improvements in health.",
+  "yearOfEstablishment": "1998",
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "53, Sea Springs Co-op Hsg Soc,",
+      "B.J.Road, Bandstand, Bandra West",
+      "Mumbai",
+      "Maharashtra",
+      "400050"
+    ]
+  }
+}

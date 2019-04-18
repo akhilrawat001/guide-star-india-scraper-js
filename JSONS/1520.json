@@ -1,0 +1,59 @@
+{
+  "contacts": [
+    {
+      "name": "Dhaval Mehta",
+      "email": "loveandcare@srmd.org",
+      "designation": "Trustee",
+      "mobile": [
+        "91-9819951135"
+      ]
+    },
+    {
+      "name": "Dhaval Mehta",
+      "email": "loveandcare@srmd.org",
+      "designation": "Trustee",
+      "mobile": [
+        "91-9819951135"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1520",
+  "name": "Shrimad Rajchandra Sarva Mangal Trust",
+  "primaryEmail": "loveandcare@shrimadrajchandramission.org",
+  "website": "http://www.srloveandcare.org/",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919820051478",
+    "912240023377",
+    "919819951135"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Patel Chambers, Third Floor, Plot - 13,",
+      "Padmakar L Khandke Marg,Opera House, Mumbai - 400004, Mathew Road,",
+      "Mumbai",
+      "Maharashtra",
+      "400004"
+    ]
+  },
+  "briefDescription": "An initiative to offer service and bring joy to the lives of the underprivileged sections of our society.  Included in this programme are 10 Cares related to mankind, animals and the environment:1. Health Care2. Educational Care3. Child Care4. Woman Care5. Tribal Care6. Community Care7. Humanitarian Care8. Emergency Relief Care9. Animal Care10.Environmental Care",
+  "yearOfEstablishment": "2003",
+  "regiseredAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "Sumangal Corporation, 401,",
+      "Union square, Rangeela Park, Char rasta, Ghod Dod road",
+      "Surat",
+      "Gujarat",
+      "395007"
+    ]
+  }
+}

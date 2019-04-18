@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Sumant Sharma",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4258",
+  "name": "J. B. Foundation",
+  "primaryEmail": "jbfoundation@yahoo.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "9981183869"
+  ],
+  "mainAddrress": {
+    "state": "Haryana",
+    "address": [
+      "306/8, Bharti Niketan,",
+      "State Bank Colony",
+      "Kurukshetra",
+      "Haryana",
+      "136118"
+    ]
+  }
+}

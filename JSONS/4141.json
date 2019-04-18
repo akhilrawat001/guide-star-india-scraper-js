@@ -1,0 +1,27 @@
+{
+  "contacts": [
+    {
+      "name": "Rajesh Ramkrishna Mahakulkar",
+      "email": "rajeshmahakulkar123@gmail.com",
+      "designation": "Chairman",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4141",
+  "name": "Abhiruchi Sahitya Kala Va Shaikshanik Sanstha",
+  "primaryEmail": "rajeshmahakulkar123@gmail.com",
+  "telephone": [
+    "917239225691",
+    "919850331670"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Near Old State Bank",
+      "A/P Wani",
+      "Yavatmal",
+      "Maharashtra",
+      "445304"
+    ]
+  }
+}

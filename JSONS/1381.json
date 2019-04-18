@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "name": "K. Mary",
+      "email": "",
+      "designation": "Financial Trustee",
+      "mobile": []
+    },
+    {
+      "name": "K. Mary",
+      "email": "",
+      "designation": "Financial Trustee",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1381",
+  "name": "Rural Women Development  Trust",
+  "primaryEmail": "rwdt2002@yahoo.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Support"
+  ],
+  "telephone": [
+    "919344380931"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "46 Thaiyur",
+      "Chinnammanagar,",
+      "Kelambakkam",
+      "Kancheepuram",
+      "Tamil Nadu",
+      "603103"
+    ]
+  }
+}

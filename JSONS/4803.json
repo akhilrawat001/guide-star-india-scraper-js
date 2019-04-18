@@ -1,0 +1,58 @@
+{
+  "contacts": [
+    {
+      "name": "AKBAR ALI SAYYED",
+      "email": "mjkdilly@yahoo.com",
+      "designation": "COORDINATOR",
+      "mobile": [
+        "91-98-21460039",
+        "91-9172924564"
+      ]
+    },
+    {
+      "name": "AKBAR ALI SAYYED",
+      "email": "mjkdilly@yahoo.com",
+      "designation": "COORDINATOR",
+      "mobile": [
+        "91-98-21460039",
+        "91-9172924564"
+      ]
+    },
+    {
+      "name": "AKBAR ALI SAYYED",
+      "email": "mjkdilly@yahoo.com",
+      "designation": "COORDINATOR",
+      "mobile": [
+        "91-98-21460039",
+        "91-9172924564"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4803",
+  "name": "Maharashtra Jan Vikas Kendra",
+  "primaryEmail": "mjkdilly@yahoo.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "912225213307",
+    "912225213307"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "9, Parijat, Deonar Road,",
+      "Near Telecommunication Fact, Deonar,",
+      "MUMBAI",
+      "Mumbai",
+      "Maharashtra",
+      "400088"
+    ]
+  },
+  "briefDescription": "Maharashtra Janavikas Kendra (MJK)is a registered Society working in Collaboration with Mumbai District Tuberculosis Control Society (MDTCS)and Thane District Tuberculosis Control Programme (TDTCS) under Revised National Tuberculosis Control Programme (RNTCP) since last 12 years. MJK is running 20 Dot centre and 12 Sputum Collection Centre in Mumbai and Thane Areas. MJK is also Running Balwadies in Mumbai in Collaboration with Brihnmumbai Mahanagar Corporation.",
+  "yearOfEstablishment": "1996"
+}

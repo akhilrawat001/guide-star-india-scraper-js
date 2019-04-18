@@ -1,0 +1,35 @@
+{
+  "contacts": [
+    {
+      "name": "Kumar GuptaPardeep",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5864",
+  "name": "Community Empowerment Organization for Rural Development",
+  "primaryEmail": "ceordhp@gmail.com",
+  "website": "www.emergingchamba.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919418152733",
+    "919816657776"
+  ],
+  "mainAddrress": {
+    "state": "Himachal Pradesh",
+    "address": [
+      "Near Bus Stand Banikhet",
+      "Tehsil Dalhousie",
+      "District Chamba",
+      "Chamba",
+      "Himachal Pradesh",
+      "176303"
+    ]
+  }
+}

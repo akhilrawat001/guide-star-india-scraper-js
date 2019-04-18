@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "Sudripta Tagore",
+      "email": "sudriptatagore@gmail.com",
+      "designation": "Member",
+      "mobile": [
+        "91-9679100623"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10639",
+  "name": "Santiniketan Sishutirtha",
+  "primaryEmail": "sudriptatagore@gmail.com",
+  "website": "http://www.sishutirtha.net/",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919679100623"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Sohini, Diganta Pally",
+      "Santiniketan",
+      "P.O: Santiniketan",
+      "Birbhum",
+      "West Bengal",
+      "731235"
+    ]
+  },
+  "briefDescription": "Santiniketan Sishutirtha was created in order to care for children in the rural areas of Birbhum district, West Bengal, India. The goal is to provide these children with a protected nurturing environment that not only protects them from harsh poverty but also provides them with the skills necessary in order to become self sufficient for the future.The project encompasses an orphanage and we are trying to establish a school in the ideals of Rabindranath Tagore, so that the surplus will allow the Orphanage to stabilize and grow.",
+  "yearOfEstablishment": "1989"
+}

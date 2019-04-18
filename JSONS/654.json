@@ -1,0 +1,40 @@
+{
+  "contacts": [
+    {
+      "name": "David Selvaraj",
+      "email": "",
+      "designation": "Executive Trustee",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=654",
+  "name": "VISTHAR",
+  "primaryEmail": "mail@visthar.org",
+  "website": "www.visthar.org",
+  "telephone": [
+    "918028465294",
+    "918028465295",
+    "918028465294",
+    "918028465294"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "Dodda Gubbi Post",
+      "Bangalore",
+      "Bengaluru (Bangalore) Rural",
+      "Karnataka",
+      "562149"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "No. 25, Lewis Road",
+      "Cooke Town",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560005"
+    ]
+  }
+}

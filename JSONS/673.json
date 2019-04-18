@@ -1,0 +1,26 @@
+{
+  "contacts": [
+    {
+      "name": "Talapada Babu Bhai P",
+      "email": "",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=673",
+  "name": "Pachhat Varg Vikas Mandal",
+  "primaryEmail": "pvvm1958@rediffmail.com",
+  "telephone": [
+    "912697221906",
+    "912697221906"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "Malav Bhagol Petlad, At & Po - Petlad",
+      "Anand",
+      "Gujarat",
+      "388450"
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Shivaji Khogare",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8235",
+  "name": "JAY PRABHA GRAMIN VIKAS MANDAL",
+  "primaryEmail": "jayprabha123@yahoo.com",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "918275004590"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Loknayak Janata Sampark Karyalay,",
+      "Behind Maitree Park, Anand Nagar, Ring Road,",
+      "Ambajogai",
+      "Beed",
+      "Maharashtra",
+      "431517"
+    ]
+  }
+}

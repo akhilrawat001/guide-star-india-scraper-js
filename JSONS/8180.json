@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Kanakasai Murumuri",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8180",
+  "name": "LIGHT ORGANISATION FOR RURAL DEVELOPMENT (LORD), KANCHIKACHERLA",
+  "primaryEmail": "lordkvb@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "917306026799"
+  ],
+  "mainAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "H No 7-110 Nehrucentar",
+      "Mainroad. Nh-9",
+      "Kanchikacharla",
+      "Krishna",
+      "Andhra Pradesh",
+      "521180"
+    ]
+  }
+}

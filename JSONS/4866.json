@@ -1,0 +1,44 @@
+{
+  "contacts": [
+    {
+      "name": "Ashok Bhujapal Goundaje",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4866",
+  "name": "AJINKYA FOUNDATION",
+  "primaryEmail": "ajinkya_gouda@bsnl.in",
+  "website": "www.ajinkyafoundation.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919422613032"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "1318 Near Lal Jain Mandir, Kupwad,Dist-Sangli",
+      "AS ABOVE",
+      "SANGLI",
+      "Sangli",
+      "Maharashtra",
+      "416436"
+    ]
+  },
+  "briefDescription": "Ajinkya Foundation is an Institute for the mentally handicapped, located at Kupwad, Maharashtra.",
+  "yearOfEstablishment": "2002",
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "1318 Near Lal Jain Mandir, Kupwad,Dist-Sangli",
+      "AS ABOVE",
+      "SANGLI",
+      "Sangli",
+      "Maharashtra",
+      "416425"
+    ]
+  }
+}

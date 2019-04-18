@@ -1,0 +1,35 @@
+{
+  "contacts": [
+    {
+      "name": "Piyush Jain",
+      "email": "",
+      "designation": "Founder & CEO",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6095",
+  "name": "Impact Guru Foundation",
+  "primaryEmail": "info@impactguru.com",
+  "website": "http://www.impactguru.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "912265542131"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "101-102, 1st floor, Jewel Building, Mama Parmanand Marg,",
+      "Opera House",
+      "Mumbai",
+      "Maharashtra",
+      "400004"
+    ]
+  }
+}

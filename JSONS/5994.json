@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "SUNIL RAJU JADHAO",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5994",
+  "name": "RASHTRASANT TUKDOJI MAHARAJ BAHUDESHIYA SHIKSHAN AND KRIDA SANSTHA WASHIM",
+  "primaryEmail": "rstmbskswashim@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "INDIA",
+    "9822241158"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "PARAM COMPUTER SHIV CHOWK",
+      "KATIWESH",
+      "WASHIM",
+      "Washim",
+      "Maharashtra",
+      "444505"
+    ]
+  }
+}

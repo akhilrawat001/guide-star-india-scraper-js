@@ -1,0 +1,35 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9329",
+  "name": "STUDENT DEVELOPMENT FOUNDATION SADAVALI",
+  "primaryEmail": "studentdev007@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "02354",
+    "9890264144"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Paras Niwas, House No.416,Sadawali,Tal-Sangmeshwar,",
+      "A/P.Sadawali (Bhudhawadi) Tal-Sangmeshwar",
+      "Devrukh  Tal-Sangmeshwar,",
+      "Ratnagiri",
+      "Maharashtra",
+      "415804"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Paras Niwas,House No.416,sadawali Tal-sangmeshwar,",
+      "A/P-Sadawali,Tal-Sangmeshwar",
+      "Devrukh Sangmeshwar",
+      "Ratnagiri",
+      "Maharashtra",
+      "415804"
+    ]
+  }
+}

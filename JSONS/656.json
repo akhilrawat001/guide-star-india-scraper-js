@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "name": "Shailendra Kumar Singh",
+      "email": "",
+      "designation": "General Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=656",
+  "name": "Abhivyakti Foundation",
+  "primaryEmail": "abhivyaktifoundation_2000@yahoo.co.in",
+  "website": "www.abhivyaktifoundation.org",
+  "telephone": [
+    "911123232102",
+    "919868035848",
+    "911123232102"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "Room No 403, Dreamland",
+      "1/18-B, Asaf Ali Road, Opposite Kamla Market",
+      "New Delhi",
+      "Delhi",
+      "110002"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "No. C-217, LIG Flat",
+      "East of Loni Road",
+      "New Delhi",
+      "Delhi",
+      "110093"
+    ]
+  }
+}

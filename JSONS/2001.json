@@ -1,0 +1,37 @@
+{
+  "contacts": [
+    {
+      "name": "Balaji Ippar (Dr)",
+      "email": "ppdbabspm@gmail.com",
+      "designation": "Secretary",
+      "mobile": [
+        "91-9552460805"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2001",
+  "name": "P.P. Dr Babasaheb Ambedkar Bahu Uddeshiy Shikshan Mandal",
+  "primaryEmail": "ppdbabspm@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "912453270176",
+    "919552460805",
+    "9421188988"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Nagraj Hospital Building",
+      "Laha Road",
+      "Palam",
+      "Parbhani",
+      "Maharashtra",
+      "431720"
+    ]
+  },
+  "briefDescription": "P.P.DR.BABASAHEB AMBEDKAR BAHU-UDDESHIY SHIKSHAN PRASARAK MANDAL IS a registered orgnization working in health,education and women empowerment. we are running a charity hospital at palam tq.palam dist.parbhani",
+  "yearOfEstablishment": "1992"
+}

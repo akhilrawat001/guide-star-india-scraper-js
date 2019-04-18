@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Sr. Amal Regi",
+      "email": "snehasss2016@gmail.com",
+      "designation": "Secretary cum Treasurer",
+      "mobile": [
+        "91-09443913767"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10485",
+  "name": "Sneha Social Service Society",
+  "primaryEmail": "snehasss2016@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919443913767"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "Annai Velankanni Convent, Mangalam Road, Palladam",
+      "Coimbatore",
+      "Tamil Nadu",
+      "641664"
+    ]
+  }
+}

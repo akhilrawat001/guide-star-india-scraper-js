@@ -1,0 +1,37 @@
+{
+  "contacts": [
+    {
+      "name": "Sanjib Debnath",
+      "email": "",
+      "designation": "Chairman",
+      "mobile": []
+    },
+    {
+      "name": "Sanjib Debnath",
+      "email": "",
+      "designation": "Chairman",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1695",
+  "name": "Nabadwip  Sibayan Village Development Society",
+  "primaryEmail": "nsvds_ngo@yahoo.com",
+  "website": "www.nsvds.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919332387509"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Vill-Biswnupur",
+      "P.O-bablary,P.S-Nabadwip",
+      "Krishnagar",
+      "Nadia",
+      "West Bengal",
+      "741316"
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6647",
+  "name": "Ashwamegh Gramin Panlot Kshetra Vikas Va Shaikshanik Sanstha",
+  "primaryEmail": "mr.yashpande@rediffmail.com",
+  "website": "www.agvsss.org.in",
+  "organisationType": [
+    "Direct Service",
+    "Intermediary"
+  ],
+  "telephone": [
+    "919422121922"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "At P.O Fatepuri",
+      "Shivangaon",
+      "Tiosa",
+      "Amravati",
+      "Maharashtra",
+      "444902"
+    ]
+  }
+}

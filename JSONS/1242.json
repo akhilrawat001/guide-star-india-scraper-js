@@ -1,0 +1,25 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1242",
+  "name": "Navyug Samajik Vikas Sanstha",
+  "primaryEmail": "infonsvs@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "mainAddrress": {
+    "address": []
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "C/O- Sharada Vishwanath Talole, Yashwant Vidyalaya Road,",
+      "Near Shriram nagar section 29, Ashele Pada",
+      "Ulhasnagar",
+      "Thane",
+      "Maharashtra",
+      "421004"
+    ]
+  }
+}

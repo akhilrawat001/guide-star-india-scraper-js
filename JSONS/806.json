@@ -1,0 +1,48 @@
+{
+  "contacts": [
+    {
+      "name": "Brijendra Narain Choudahry",
+      "email": "",
+      "designation": "Program Development Manager",
+      "mobile": []
+    },
+    {
+      "name": "Brijendra Narain Choudahry",
+      "email": "",
+      "designation": "Program Development Manager",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=806",
+  "name": "Agragami India",
+  "primaryEmail": "agragami_india@yahoo.co.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "916122278201",
+    "916122278201",
+    "916122278201"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "1/A, Vivekanand Marg",
+      "North S K Puri, Boring Road",
+      "Patna",
+      "Bihar",
+      "800013"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "4, Community Shopping Centre",
+      "Anupam Apartment, Saidullajaib",
+      "New Delhi",
+      "Delhi",
+      "110068",
+      "AP_TelBill_721.PDF"
+    ]
+  }
+}

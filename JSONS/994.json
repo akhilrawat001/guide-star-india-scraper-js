@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "D K Manavalan",
+      "email": "",
+      "designation": "Executive Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=994",
+  "name": "Action for Food Production Organisation",
+  "primaryEmail": "afprodel@afpro.org",
+  "website": "www.afpro.org",
+  "telephone": [
+    "911128522575",
+    "911128521452",
+    "911128522575"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "25/1 A Institutional Area, Pankha Road",
+      "D Block",
+      "Janakpuri",
+      "New Delhi",
+      "Delhi",
+      "110058"
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Nita Sharma",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6973",
+  "name": "BHAGINI NIKETAN",
+  "primaryEmail": "bhagininiketan@yahoo.com",
+  "website": "www.bhagininiketan.org",
+  "organisationType": [
+    "Direct Service",
+    "Intermediary",
+    "Support"
+  ],
+  "telephone": [
+    "919998316137"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "355, GOKUL NAGAR, ADINATH NAGAR,",
+      "NEW ODHAV",
+      "AHMEDABAD",
+      "Ahmedabad",
+      "Gujarat",
+      "382415"
+    ]
+  }
+}

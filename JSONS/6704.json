@@ -1,0 +1,25 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6704",
+  "name": "International Resources For Fairer Trade",
+  "primaryEmail": "gaynor@irft.org",
+  "website": "http://irft.org/index.html",
+  "organisationType": [
+    "Direct Service",
+    "Intermediary",
+    "Support"
+  ],
+  "telephone": [
+    "912226860040"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "112/113 Udyog Bhavan",
+      "Sonawala Lane, Goregaon East,",
+      "Mumbai",
+      "Maharashtra",
+      "400063"
+    ]
+  }
+}

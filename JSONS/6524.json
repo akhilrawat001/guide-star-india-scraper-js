@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Rajashree Shirke",
+      "email": "rajashreeshirke.2008@rediffmail.com",
+      "designation": "Founder Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6524",
+  "name": "LASYA",
+  "primaryEmail": "rajashreeshirke.2008@rediffmail.com",
+  "website": "www.lasya.net.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919820050854"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Row Hse. No. 4, Amol Pereira Nagar, Phase I,",
+      "Naigaoun (E), behind Vishwanath Wines",
+      "Taluka - Vasai",
+      "Thane",
+      "Maharashtra",
+      "401208"
+    ]
+  }
+}

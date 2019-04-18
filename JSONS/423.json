@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "Sanjay Srivastava",
+      "email": "pacelko2000@gmail.com",
+      "designation": "Administrator",
+      "mobile": [
+        "0522-4073227",
+        "91-9473584633"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=423",
+  "name": "Participatory Action & Community empowerment",
+  "primaryEmail": "pacelko2000@gmail.com",
+  "website": "http://www.pacelko.org.in",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "915224073227",
+    "915222771761"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "1/22, Jankipuram extension",
+      "Sitapur road",
+      "Lucknow",
+      "Uttar Pradesh",
+      "226020"
+    ]
+  },
+  "briefDescription": "Participatory Action for Community Empowerment is a voluntary development organization committed for people centered development established on 18th Dec 2000 with the mission of empowering the dalits, women, and poor and marginalized, children and old aged community people.PACE strives to educate, organise and empower the rural poor to promote people centred development as a liberating force aimed at social justice, economic growth and self-reliance.",
+  "yearOfEstablishment": "2000"
+}

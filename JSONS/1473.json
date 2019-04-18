@@ -1,0 +1,34 @@
+{
+  "contacts": [
+    {
+      "name": "Dattatray",
+      "email": "dujadhav_10@rediffmail.com",
+      "designation": "Manager",
+      "mobile": [
+        "91-2184-229224",
+        "91-9881770525"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1473",
+  "name": "Rani Laxmibai Shikshan Prasarak va Bahuuddeshiya Sanstha",
+  "primaryEmail": "ranilaxmibai_organize@yahoo.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "912184225135",
+    "919604727778"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Uplai Road",
+      "Waikule Plot, Near Ganpati Mandir,",
+      "Barshi",
+      "Solapur",
+      "Maharashtra",
+      "413401"
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "Avijit Ghosh",
+      "email": "santana.maynaguri@gmail.com",
+      "designation": "Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2834",
+  "name": "Santana",
+  "primaryEmail": "santana.maynaguri@gmail.com",
+  "website": "http://www.santana.ngo",
+  "telephone": [
+    "913561235788",
+    "913561235788"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Vivekananda Pally",
+      "Maynaguri",
+      "Jalpaiguri",
+      "West Bengal",
+      "735224"
+    ]
+  }
+}

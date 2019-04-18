@@ -1,0 +1,47 @@
+{
+  "contacts": [
+    {
+      "name": "usha chauhan",
+      "email": "sudha.chauhan1307@gmail.com",
+      "designation": "treasurer",
+      "mobile": []
+    },
+    {
+      "name": "usha chauhan",
+      "email": "sudha.chauhan1307@gmail.com",
+      "designation": "treasurer",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5338",
+  "name": "VED VANI GYAN SAGAR JAN KALYAN SAMITI",
+  "primaryEmail": "sudha.chauhan1307@gmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service"
+  ],
+  "telephone": [
+    "india",
+    "9250335801"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "8/456, khichri pur, New Delhi-110091",
+      "B-1/A, East Vinod Nagar, New Delhi-110091",
+      "East Delhi",
+      "Delhi",
+      "110091"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "8/456, khichri pur, New Delhi-110091",
+      "Near Anand Vihar ISBT",
+      "Delhi",
+      "East Delhi",
+      "110091"
+    ]
+  }
+}

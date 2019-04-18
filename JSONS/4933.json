@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Shamiul Haque",
+      "email": "waia_4u@yahoo.in",
+      "designation": "chief functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4933",
+  "name": "Watgunge Adolescent Improvement Association",
+  "primaryEmail": "waia_4u@yahoo.in",
+  "website": "www.waiakolkata.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919681068092"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "4/2B, Munshigunj Road",
+      "Watgunj Street, Kidderpore",
+      "kolkata",
+      "Kolkata",
+      "West Bengal",
+      "700023"
+    ]
+  }
+}

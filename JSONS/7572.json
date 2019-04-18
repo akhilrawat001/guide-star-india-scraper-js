@@ -1,0 +1,34 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7572",
+  "name": "Society for Action in Disability and Health Awareness (SADHANA)",
+  "primaryEmail": "sadhana.india@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Intermediary"
+  ],
+  "telephone": [
+    "919583542197"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "At-Julka, Po-Bankisole,",
+      "Via-Laxmiposi,",
+      "Baripada",
+      "Mayurbhanj",
+      "Odisha",
+      "757107"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Odisha",
+    "address": [
+      "At-Sanamundali",
+      "PO-Mundali Colony",
+      "Cuttack",
+      "Odisha",
+      "754006"
+    ]
+  }
+}

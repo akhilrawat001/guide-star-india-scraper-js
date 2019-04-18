@@ -1,0 +1,49 @@
+{
+  "contacts": [
+    {
+      "name": "G.K.Gupta",
+      "email": "abhinavsamaj2010@gmail.com",
+      "designation": "Chairman",
+      "mobile": [
+        "91-11-25371724",
+        "91-9810901970"
+      ]
+    },
+    {
+      "name": "G.K.Gupta",
+      "email": "abhinavsamaj2010@gmail.com",
+      "designation": "Chairman",
+      "mobile": [
+        "91-11-25371724",
+        "91-9810901970"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5252",
+  "name": "ABHINAV SAMAJ",
+  "primaryEmail": "abhinavsamaj2010@gmail.com",
+  "website": "http://www.abhinavsamaj.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919810901970",
+    "919643405487"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "R-10, R-Block, Old Uttam Nagar,",
+      "(Behind Uttam Nagar West Metro Stn.)",
+      "Delhi",
+      "South West Delhi",
+      "110059"
+    ]
+  },
+  "briefDescription": "Our organisation's main focus is welfare and rehabilitation of elderly/parents de-sheltered by their own children. Presently running a Free Old-Age Home under name 'Jai Ma Durga Old-Age Home' for old-age people where they are provided free food, shelter and medical facilities. 23 old-age people are presently living in our Old-Age Home. Secondly we are interested to work for the women-empowerment, environment protection and child education.",
+  "yearOfEstablishment": "2010"
+}

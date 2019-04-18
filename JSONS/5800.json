@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "R. JOTHI",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5800",
+  "name": "ALL WOMEN AND RURAL DEVELOPMENT SOCIETY (AWARDS)",
+  "primaryEmail": "awardsngo2002@gmail.com",
+  "website": "http://www.awardsngo.org",
+  "organisationType": [
+    "Direct Service",
+    "Network"
+  ],
+  "telephone": [
+    "919842385356"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "No.350",
+      "Dr. Ambedkar Street,",
+      "Melnallathur Village & Post, Thiruvallur Taluka",
+      "Tiruvallur",
+      "Tamil Nadu",
+      "600002"
+    ]
+  }
+}

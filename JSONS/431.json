@@ -1,0 +1,25 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=431",
+  "name": "Public Welfare and Development Society (PWDS)",
+  "primaryEmail": "pwds_erode@yahoo.co.uk",
+  "website": "http://www.pwdserode.org.in/",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "914285263431",
+    "914285263431"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "Kanakkampalayam, (Via) Kalliaptti",
+      "Gobichettipalayam Taluk",
+      "Gobichettipalayam",
+      "Erode",
+      "Tamil Nadu",
+      "638505"
+    ]
+  }
+}

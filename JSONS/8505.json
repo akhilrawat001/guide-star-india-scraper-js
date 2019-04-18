@@ -1,0 +1,43 @@
+{
+  "contacts": [
+    {
+      "name": "Dillip Kumar Nanda",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8505",
+  "name": "SAHAYA",
+  "primaryEmail": "sahaya1996@rediffmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "916753265191",
+    "916753265191"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "At/Po-Godipada,",
+      "Ps- Sarankul",
+      "Nayagarh",
+      "Odisha",
+      "752092"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Odisha",
+    "address": [
+      "At/Po-Godipada,",
+      "Po- Bhaliadihi",
+      "Ps- Sarankul",
+      "Nayagarh",
+      "Odisha",
+      "752092"
+    ]
+  }
+}

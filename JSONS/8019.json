@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Mr.Angelo K Anto",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8019",
+  "name": "Pratham Foundation",
+  "primaryEmail": "contact@prathamfoundation.org",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919654272768"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "D-399,S/F,Old No- D-141,",
+      "Kh No. 432,Gali No. 9,",
+      "Bhajan Pura",
+      "East Delhi",
+      "Delhi",
+      "110053"
+    ]
+  }
+}

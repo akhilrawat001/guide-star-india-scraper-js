@@ -1,0 +1,42 @@
+{
+  "contacts": [
+    {
+      "name": "Sanjay Kashyap",
+      "email": "societytosociety@india.com",
+      "designation": "Managing Trustee",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3278",
+  "name": "Society To Society",
+  "primaryEmail": "societytosociety@india.com",
+  "website": "www.societytosociety.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "9101127028830",
+    "9101127028830"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "136, vardhman primum mall",
+      "outer ring road (opposite kali mata mandir)",
+      "pitampura",
+      "West Delhi",
+      "Delhi",
+      "110034"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "E-370",
+      "Gali No 15, Ashok Nagar",
+      "Delhi",
+      "New Delhi",
+      "110093"
+    ]
+  }
+}

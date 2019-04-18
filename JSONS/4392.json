@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Suvajit Kundu",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4392",
+  "name": "LANSDOWNE ACTION HELPLINE",
+  "primaryEmail": "actionhelpline1@gmail.com",
+  "website": "www.lahworld.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "913324740166",
+    "913324740166"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "79 , Beltala Road , Kolkata :- 700 026",
+      "Opposit School Board , Lansdowne Crossing",
+      "Kolkkata",
+      "Kolkata",
+      "West Bengal",
+      "700026"
+    ]
+  }
+}

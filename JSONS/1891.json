@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Rahimi Muzammil Husain",
+      "email": "royal.mlg@gmail.com",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1891",
+  "name": "Royal Educational Medical Research And Social Welfare Society",
+  "primaryEmail": "royal.mlg@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "912554237072",
+    "919270594488"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "S.No 58/1",
+      "P.No 26, Naya Islampura",
+      "Malegoan",
+      "Nashik",
+      "Maharashtra",
+      "423203"
+    ]
+  }
+}

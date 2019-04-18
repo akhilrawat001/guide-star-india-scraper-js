@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "N V L NAGARAJU",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5569",
+  "name": "DELHI TELUGU ACADEMY",
+  "primaryEmail": "nemaninagaraju@hotmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919849588555"
+  ],
+  "mainAddrress": {
+    "state": "Telangana",
+    "address": [
+      "aditya eden wood villa 31, tellapur, R C PURAM,",
+      "aditya eden wood villa 31 Tellapur R.C. PURAM",
+      "HYDERABAD",
+      "Hyderabad",
+      "Telangana",
+      "502032"
+    ]
+  }
+}

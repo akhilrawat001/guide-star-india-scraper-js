@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "K Kiranmai",
+      "email": "kiranmai@svechha.org",
+      "designation": "Chief-Coordinator",
+      "mobile": []
+    },
+    {
+      "name": "K Kiranmai",
+      "email": "kiranmai@svechha.org",
+      "designation": "Chief-Coordinator",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=159",
+  "name": "Svechha Foundation",
+  "primaryEmail": "info@svechha.org",
+  "website": "www.svechha.org",
+  "telephone": [
+    "919866273535"
+  ],
+  "mainAddrress": {
+    "state": "Telangana",
+    "address": [
+      "#402, ParkView Estates",
+      "Plot# 60, Pragathi Nagar, Yousuf Guda",
+      "Hyderabad",
+      "Telangana",
+      "500045"
+    ]
+  }
+}

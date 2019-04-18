@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "SONA CHOHAN",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "9872086417"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5621",
+  "name": "SWAMI PIARA SINGH MAHARAJ INTERNATIONAL HUMANITY WELFARE SOCIETY",
+  "primaryEmail": "sona.chohan@yahoo.com",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "919872086417"
+  ],
+  "mainAddrress": {
+    "state": "Punjab",
+    "address": [
+      "H NO 1386 PHASE 2 SHIVALIK AVENUE",
+      "NAYA NANGAL",
+      "TEHSIL NANGAL",
+      "Rupnagar",
+      "Punjab",
+      "140126"
+    ]
+  }
+}

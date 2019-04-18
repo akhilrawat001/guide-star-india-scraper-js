@@ -1,0 +1,34 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1848",
+  "name": "Society For Innovative Rural Development",
+  "primaryEmail": "jhw_cls@yahoo.com",
+  "organisationType": [
+    "Grant-making"
+  ],
+  "telephone": [
+    "911123210628",
+    "919810839895"
+  ],
+  "mainAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "Koilabazar",
+      "Rajmahal,",
+      "Sahibganj",
+      "Jharkhand",
+      "816108"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "78B-DDA Flat",
+      "Mata Sundari Road,",
+      "Central Delhi",
+      "New Delhi",
+      "Delhi",
+      "110002"
+    ]
+  }
+}

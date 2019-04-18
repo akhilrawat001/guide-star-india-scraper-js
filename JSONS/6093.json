@@ -1,0 +1,37 @@
+{
+  "contacts": [
+    {
+      "name": "Sohail Farid",
+      "email": "contactus@ummeedfoundation.in",
+      "designation": "Office Cordinator",
+      "mobile": [
+        "91-22-25491122"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6093",
+  "name": "Ummeed Foundation",
+  "primaryEmail": "ceo@ummeedfoundation.in",
+  "website": "www.ummeedfoundation.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Intermediary"
+  ],
+  "telephone": [
+    "919029320222"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "204,Alshakreen Apt,Nr.City Convent School, M H M Rd., Kausa-Mumbra, Thane- 400612",
+      "Nr. City Convent School.",
+      "Mumbai",
+      "Thane",
+      "Maharashtra",
+      "400612"
+    ]
+  },
+  "briefDescription": "Ummeed Foundation is to empower the disabled and neglected people through education and employment opportunities so that they live better and respectable lives. There are various government schemes for the needy but unfortunately not much is known about such schemes to common man. At Ummeed Foundation, emphasis is given to the factor that the needy and poor are educated and informed about various schemes offered by the government of India to help such people. In case, people are found unable to obtain the benefit of such schemes due to lack of knowledge and education, our special “HELP” cell ensures that the necessary official formalities are completed on behalf of such people helping them get their rights.Ummeed Foundation serves humanity",
+  "yearOfEstablishment": "2011"
+}

@@ -1,0 +1,55 @@
+{
+  "contacts": [
+    {
+      "name": "Rashmi Singh",
+      "email": "rashmisingh0204@gmail.com",
+      "designation": "Director",
+      "mobile": [
+        "91-9840476185"
+      ]
+    },
+    {
+      "name": "Rashmi Singh",
+      "email": "rashmisingh0204@gmail.com",
+      "designation": "Director",
+      "mobile": [
+        "91-9840476185"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=140",
+  "name": "International Foundation for Crime Prevention and Victim Care (PCVC)",
+  "primaryEmail": "pcvc2000@yahoo.com",
+  "website": "http://www.pcvconline.org/",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "914443111143",
+    "919841061184"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "2030, First Floor",
+      "13th Main Road, Annanagar West",
+      "Chennai",
+      "Tamil Nadu",
+      "600040"
+    ]
+  },
+  "briefDescription": "PCVC, an 8 year old NGO in Chennai is a primary provider of domestic violence and sexual abuse services and offers a 24-Hour Crisis SupportLine, a safehouse, counseling, legal assistance, prevention education, and several other services free of cost. It has proven record of serving all women, men, and children regardless of gender, race, sexual orientation, or income level to end domestic violence and sexual assault in partnership with the community.  We are around 7 staffs and we work for the safety and empowerment of women in the community, society and state",
+  "yearOfEstablishment": "2001",
+  "regiseredAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "4B Eden Apartments, 1 Kilpauk Garden Road",
+      "Chennai",
+      "Tamil Nadu",
+      "600010",
+      "AP_TelBill_40.PDF"
+    ]
+  }
+}

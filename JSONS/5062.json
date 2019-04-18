@@ -1,0 +1,37 @@
+{
+  "contacts": [
+    {
+      "name": "Soumitra Dutta",
+      "email": "finance@sanjogindia.org",
+      "designation": "Finance Manager",
+      "mobile": [
+        "91-33-24861090"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5062",
+  "name": "Kolkata Sanjog Initiatives",
+  "primaryEmail": "uma@sanjogindia.org",
+  "website": "www.sanjogindia.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "913324861091",
+    "919830244220"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "50E",
+      "Hazra Road",
+      "Kolkata",
+      "West Bengal",
+      "700019"
+    ]
+  },
+  "briefDescription": "Based in Kolkata, India, Sanjog is a technical resource organization, registered as a society, and works on protection and empowerment of children and adolescents, prevention of abuse of children in families, communities, institutions and through organized crime. Behind all Sanjog initiatives are a growing group of committed professionals from various sectors - mental health, social business development, research, child protection specialists, communication and media. Through research, development and training, Sanjog builds grassroots organizations’ capacities in research, programming and advocacy, programme and project management and organizational development.",
+  "yearOfEstablishment": "2012"
+}

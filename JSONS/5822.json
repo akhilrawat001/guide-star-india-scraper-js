@@ -1,0 +1,35 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5822",
+  "name": "VIJAYGURU TRUST",
+  "primaryEmail": "mail@vijaygurutrust.org",
+  "website": "www.vijaygurutrust.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "+914563222075",
+    "914563222075"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "6, subbaraja madam street",
+      "Rajapalayam",
+      "Virudhunagar",
+      "Tamil Nadu",
+      "626117"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "152 A,",
+      "Thiruvalluvar Street,",
+      "Rajapalayam",
+      "Virudhunagar",
+      "Tamil Nadu",
+      "626117"
+    ]
+  }
+}

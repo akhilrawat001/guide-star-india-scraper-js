@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Jitendra Kumar Jaiswal",
+      "email": "acm.danapur@gmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8446",
+  "name": "ADARSH CHETNA MANCH",
+  "primaryEmail": "acm.danapur@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919334790725"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "AT-SADAR BAZAR",
+      "KALI STHAN,",
+      "PO.-DANAPUR",
+      "Patna",
+      "Bihar",
+      "801503"
+    ]
+  }
+}

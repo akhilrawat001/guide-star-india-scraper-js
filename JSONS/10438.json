@@ -1,0 +1,35 @@
+{
+  "contacts": [
+    {
+      "name": "Naresh Mali",
+      "email": "nnaresh335@gmail.com",
+      "designation": "Secretary",
+      "mobile": [
+        "91-7798495254"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10438",
+  "name": "Om Gagangiri Maharaj Aashirvadit Trust",
+  "primaryEmail": "nnaresh335@gmail.com",
+  "website": "www.gmtseva.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "917798495254"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Shiva Mandir Road",
+      "Post Kelthan",
+      "Village Nimboli, Tal Wada",
+      "Palghar",
+      "Maharashtra",
+      "401204"
+    ]
+  },
+  "briefDescription": "Om Gagangiri Maharaj Aashirvadit Trust is an NGO registered in 2006 under the ‘Bombay Society Registration Act 1950’. GMT has been instrumental in empowerment of tribal people through intervention of various health care practices, appropriate technologies, self-help groups, watershed development programs, and livelihood generation activities in Wada  block of Palghar.",
+  "yearOfEstablishment": "2006"
+}

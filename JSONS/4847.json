@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Ms. Nidhi Kotak",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "9322102980"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4847",
+  "name": "Rotary Sanskardham Charitable Trust",
+  "primaryEmail": "sanskardham.vidyalaya@yahoo.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919322102980",
+    "919594518518"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Rotary Sanskardham Academy",
+      "Unnat Nagar, Off M.G. Road, Goregaon (West).",
+      "Mumbai",
+      "Mumbai Suburban",
+      "Maharashtra",
+      "400090"
+    ]
+  }
+}

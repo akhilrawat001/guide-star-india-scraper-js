@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Kiran Dharma Channe",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8444",
+  "name": "VISHAL FOUNDATION",
+  "primaryEmail": "vishalfoundation2014@yahoo.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919820016612"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "B/3 Amrutbaug",
+      "Manisha Nagar",
+      "Kalwa, Thane",
+      "Thane",
+      "Maharashtra",
+      "400605"
+    ]
+  }
+}

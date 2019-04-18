@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Arindam Banerjee",
+      "email": "arindambb@gmail.com",
+      "designation": "Founder-Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8152",
+  "name": "Purbachal Ananda Foundation",
+  "primaryEmail": "pafindia@pafindia.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919434085296"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "2/32,",
+      "Purbachal",
+      "Burdwan",
+      "Bardhaman",
+      "West Bengal",
+      "713201"
+    ]
+  }
+}

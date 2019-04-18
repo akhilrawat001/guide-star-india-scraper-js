@@ -1,0 +1,34 @@
+{
+  "contacts": [
+    {
+      "name": "Veena Pinto",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "9969037574"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4253",
+  "name": "Plant And Animal Lover's Society (PALS) India",
+  "primaryEmail": "veensp2004@yahoo.com",
+  "website": "https://www.facebook.com/groups/149090742221/",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919969037574"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "2, Ferena",
+      "Opp. Fariyas Hotel, Arthur Bunder Road, Colaba,",
+      "Mumbai",
+      "Maharashtra",
+      "400005"
+    ]
+  },
+  "briefDescription": "PALS is an NGO set up in 1993 to improve the quality of life of the stray animals of Mumbai.  Our work includes: treating sick and injured stray animals and the pets of poor owners, sterilizing stray dogs and cats, (re)vaccinating strays against rabies and other diseases, ambulance pickup service, helping with adoptions and conducting stray animal awareness programs for children.",
+  "yearOfEstablishment": "1993"
+}

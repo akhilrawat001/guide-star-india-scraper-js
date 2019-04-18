@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "Rajneesh Kapur",
+      "email": "",
+      "designation": "Chairman",
+      "mobile": [
+        "26566800"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3568",
+  "name": "The Braj Foundation",
+  "primaryEmail": "info@brajfoundation.org",
+  "website": "www.brajfoundation.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "911126566800",
+    "919873946800"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "C-6/28, Ground Floor",
+      "SDA, Hauz Khas",
+      "New Delhi",
+      "South Delhi",
+      "Delhi",
+      "110016"
+    ]
+  },
+  "briefDescription": "The Braj Foundation is a non-profit organization, established in December 2005 to restore and revitalize the environmental and cultural heritage of Braj Bhoomi (land of Braj)- the land of Shri Radha Krishna, which falls within the Golden Triangle of Delhi, Jaipur & Agra, most parts of which are lying in various stages of neglect for centuries despite its significant historical, cultural and tourism significance.Initially established by leading industrialists from India & abroad, in a short span of 7 years the Foundation has achieved impressive targets of restoration and revitalisation across many sites in Braj Bhoomi.",
+  "yearOfEstablishment": "2005"
+}

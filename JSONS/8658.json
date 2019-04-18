@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Ramesh Shiyal",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8658",
+  "name": "Vatsalya Charitable Trust Nichakotada",
+  "primaryEmail": "vatsalya2975@gmail.com",
+  "website": "www.vatsalyango.blogspot.in",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "918690190111",
+    "919925873521"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "Plot No.1",
+      "Near Panchayat Office Nichakotada",
+      "Mahuva",
+      "Bhavnagar",
+      "Gujarat",
+      "364130"
+    ]
+  }
+}

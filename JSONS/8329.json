@@ -1,0 +1,34 @@
+{
+  "contacts": [
+    {
+      "name": "Minaxiben A Jambucha",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "9376855966"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8329",
+  "name": "Bapa Sitaram Education and Charitable Trust",
+  "primaryEmail": "jaynti_2004@yahoo.com",
+  "organisationType": [
+    "Direct Service",
+    "Grant-making",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919376855966"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "Chitrakut",
+      "3 Saurabh Society Raiya Road",
+      "Rajkot",
+      "Gujarat",
+      "360001"
+    ]
+  }
+}

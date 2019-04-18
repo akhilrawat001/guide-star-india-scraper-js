@@ -1,0 +1,33 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8995",
+  "name": "Sishumangal Raiganj",
+  "primaryEmail": "sishumangal@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919434144847",
+    "913523243837"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Ukill Para, Raiganj, North Dinajpur",
+      "Raiganj",
+      "North Dinajpur",
+      "West Bengal",
+      "733134"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Ukilpara,P.O. & P.S. Raiganj",
+      "Raiganj",
+      "North Dinajpur",
+      "West Bengal",
+      "733134"
+    ]
+  }
+}

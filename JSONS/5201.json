@@ -1,0 +1,25 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5201",
+  "name": "KEDAR AMAR RESEARCH AND ACADEMIC MANAGEMENT SOCIETY (KARAMS)",
+  "primaryEmail": "karamsociety@gmail.com",
+  "website": "www.karamsociety.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Grant-making"
+  ],
+  "telephone": [
+    "918010224545"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "6, M.G. Road, New Manglapuri,",
+      "Opposite Bhartiya International Ltd. (E-52)",
+      "Mehrauli",
+      "South Delhi",
+      "Delhi",
+      "110030"
+    ]
+  }
+}

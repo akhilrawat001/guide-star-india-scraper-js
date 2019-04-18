@@ -1,0 +1,38 @@
+{
+  "contacts": [
+    {
+      "name": "Rajeev Annaluru",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "41235918"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9285",
+  "name": "Caring with Colour- A Manasi Kirloskar Initiative",
+  "primaryEmail": "rajeev@caringwithcolour.org",
+  "website": "https://www.caringwithcolour.org/",
+  "organisationType": [
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "918041235918",
+    "918041235918"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "Embassy Star, 7th Floor,",
+      "No.8, Palace Road, Vasanthnagar",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560052"
+    ]
+  },
+  "briefDescription": "CWC seeks to create wholesome young minds through a reformed education paradigm rooted in experience and discovery. Equitable socio-economic development can be achieved in India only when the education system is geared towards providing students with relevant skills that will help them be productive participants of the future economy. Redefining the outdated one-size-fits-all education model with contextually relevant and hands-on creativity based learning paradigm is key to providing sustainable career options to millions of young minds in the country. CWC aims to be the catalyst that will help bring about that transformation in India’s education system through embracing activity driven learning systems and thoughtful use of technology.",
+  "yearOfEstablishment": "2016"
+}

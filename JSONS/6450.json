@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Ranju Minhas",
+      "email": "anju@shieldcitizensinitiative.org",
+      "designation": "Executive Director (Founder)",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6450",
+  "name": "SHIELD-CITIZEN'S INITIATIVE (SCI)",
+  "primaryEmail": "shieldnd@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919810883117"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "21 D,DDA flats Masjid moth phase1 New Delhi-48",
+      "Near Chirag Delhi flyover",
+      "New Delhi",
+      "South Delhi",
+      "Delhi",
+      "110048"
+    ]
+  }
+}

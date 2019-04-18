@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "Naveen Mittal",
+      "email": "aanyasocialservice.org@gmail.com",
+      "designation": "Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2944",
+  "name": "AANYA SOCIAL SERVICE ORGANIZATION",
+  "primaryEmail": "aanyasocialservice.org@gmail.com",
+  "telephone": [
+    "911165351382",
+    "911145669411",
+    "911165351382"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "879, Kucha Pati Ram Bazar",
+      "Sita Ram",
+      "Delhi",
+      "Central Delhi",
+      "110006"
+    ]
+  }
+}

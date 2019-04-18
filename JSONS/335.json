@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "name": "T S Ramkumar",
+      "email": "",
+      "designation": "Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=335",
+  "name": "Centre for Social Reconstruction",
+  "primaryEmail": "csrnagar@csrngo.org",
+  "website": "http://www.giveindia.org/GetOrganisationProfile.aspx?ngoid=887",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "914652261998",
+    "914652265155",
+    "914652261998"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "139 D, Eathamozhi Road",
+      "Chennavannanvilai",
+      "Nagercoil",
+      "Kanyakumari",
+      "Tamil Nadu",
+      "629002"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "Tamil Nadu"
+    ]
+  }
+}

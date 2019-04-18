@@ -1,0 +1,23 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8284",
+  "name": "Anand Gramin Vikas Pratishthan",
+  "primaryEmail": "anandgraminngo@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919527532450"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "At Anandgaon",
+      "Post Jawalban Tq Kaij",
+      "Beed",
+      "Maharashtra",
+      "431123"
+    ]
+  }
+}

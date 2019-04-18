@@ -1,0 +1,39 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4542",
+  "name": "The Bombay Natural History Society",
+  "primaryEmail": "info@bnhs.org",
+  "website": "www.bnhs.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "912222821811",
+    "912222821811"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Hornbill House, Dr. Salim Ali Chowk,",
+      "Shaheed Bhagat Singh Road, Fort",
+      "Mumbai",
+      "Maharashtra",
+      "400001"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Hornbill House, Dr. Salim Ali Chowk,",
+      "Shaheed Bhagat Singh Marg, Fort",
+      "Mumbai",
+      "Maharashtra",
+      "400001"
+    ]
+  }
+}

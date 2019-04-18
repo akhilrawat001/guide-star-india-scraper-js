@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "Vijay Krishnamani",
+      "email": "contact@suniye.in",
+      "designation": "Committee Member",
+      "mobile": [
+        "91-9899147999"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8996",
+  "name": "SUNIYE",
+  "primaryEmail": "suniye@suniye.in",
+  "website": "http://www.suniye.in",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "911126160936",
+    "919899147999"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "Opposite House Number 828, Type 1 Quarters,",
+      "Sector 2, R.K.Puram,",
+      "New Delhi",
+      "South Delhi",
+      "Delhi",
+      "110022"
+    ]
+  },
+  "briefDescription": "Suniye is an NGO of parents of hearing impaired children, professionals in the filed of hearing impairment and persons interested in helping such children.We are running a support school for hearing impaired children  since 1995. We encourageinclusive education and help  children  in developing speech and language and join mainstream schools . Our service  to the children  is totally free of charge, except  for an annual membership fee of Rs.1000.00.  Over the last 20 years , we have helped more than 1000 students, a large number of  whom come  from  low income backgrounds",
+  "yearOfEstablishment": "1995"
+}

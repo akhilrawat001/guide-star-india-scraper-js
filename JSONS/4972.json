@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Bhupesh Kumar Yadav",
+      "email": "pr.awareness@gmail.com",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4972",
+  "name": "AN ASSOCIATION FOR AWARNESS",
+  "primaryEmail": "pr.awareness@gmail.com",
+  "website": "www.awarenessindia.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919999778946"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "52/59 A St No 18",
+      "Nai Basti",
+      "Anand Parbat",
+      "Central Delhi",
+      "Delhi",
+      "110005"
+    ]
+  }
+}

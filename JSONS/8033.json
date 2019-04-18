@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Mr.Sanjay Lal",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8033",
+  "name": "Jagriti Seva Sansthan",
+  "primaryEmail": "jagriti_mah@rediffmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919919195922"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "Vill & Post-Belawa Kaji,Distt.Maharajganj(U.P.)",
+      "Maharajganj",
+      "Uttar Pradesh",
+      "273303"
+    ]
+  }
+}

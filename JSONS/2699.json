@@ -1,0 +1,35 @@
+{
+  "contacts": [
+    {
+      "name": "Mr.UDAI VEER SINGH",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "227024"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2699",
+  "name": "PRATHAM SAMAJIK AVAM MAHILA VA BAL VIKAS SANSTHA",
+  "primaryEmail": "p.s.m.b.v.sanstha@gmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "915612227024",
+    "915612227024"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "262/3 GANDHIPURAM",
+      "AGRA ROAD,",
+      "TUNDLA",
+      "Firozabad",
+      "Uttar Pradesh",
+      "283204"
+    ]
+  }
+}

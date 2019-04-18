@@ -1,0 +1,35 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6988",
+  "name": "JAN KALYAN SANSTHA",
+  "primaryEmail": "jankalyansanstha@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919358610774"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "65-B, Agarwal Complex, Panchsheel",
+      "Opp. Rampurna Gas Agency, Garh Road",
+      "Meerut",
+      "Uttar Pradesh",
+      "250002"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "Panchsheel Colony , Lane no 8",
+      "Garth Road",
+      "Meerut",
+      "Uttar Pradesh",
+      "250002"
+    ]
+  }
+}

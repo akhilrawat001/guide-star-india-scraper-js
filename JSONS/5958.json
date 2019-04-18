@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Mahboob Ali Khan",
+      "email": "aflak.computer786@rediffmail.com",
+      "designation": "Manager",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5958",
+  "name": "Aflak Technical Computer Institute & Educational Society",
+  "primaryEmail": "aflak.computer786@rediffmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "+910988913142"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "Mohl- Pura Rani",
+      "Mubarakpur",
+      "Azamgarh",
+      "Uttar Pradesh",
+      "276404"
+    ]
+  }
+}

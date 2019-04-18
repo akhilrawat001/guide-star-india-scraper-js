@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Anjana Kumari",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9344",
+  "name": "KRISHNA BALLABH WELFARE SOCIETY",
+  "primaryEmail": "krishnaballabhwelfaresociety@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919931004529",
+    "919931004529"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "Village - Jhikatia Kala, P.O. Maigra, P.S. Imamganj,",
+      "Gaya",
+      "Bihar",
+      "824206"
+    ]
+  },
+  "yearOfEstablishment": "2012"
+}

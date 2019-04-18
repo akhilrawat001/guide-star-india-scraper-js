@@ -1,0 +1,31 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5114",
+  "name": "Indian United Trust",
+  "primaryEmail": "www.indianunitedtrust@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919919176717"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "EWS- 296, Awas Vikas Colony",
+      "Fatehpur",
+      "Uttar Pradesh",
+      "212601"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "Gurhar Ashram, Hanuman Grah",
+      "Radha Nagar-Chhichhani Road, Post- Ramwan",
+      "Fatehpur",
+      "Uttar Pradesh",
+      "212601"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Sumana Chakraborty",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2995",
+  "name": "Loka Kalyan Parishad",
+  "primaryEmail": "lokakalyanparishad@gmail.com",
+  "website": "www.lkp.org.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "913324657107",
+    "913324657107"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Loka Kalyan Parishad, 28/8 Library Road (Kalighat), Kolkata - 700026",
+      "Beside Gouriya Matth",
+      "Kolkata",
+      "West Bengal",
+      "700026"
+    ]
+  }
+}

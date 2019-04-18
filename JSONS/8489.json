@@ -1,0 +1,48 @@
+{
+  "contacts": [
+    {
+      "name": "Smita Nayak",
+      "email": "smita906@yahoo.com",
+      "designation": "Asst. Director",
+      "mobile": [
+        "91-6784-230985"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8489",
+  "name": "CENTRE FOR REHABILITATION SERVICES AND RESEARCH (CRSR)",
+  "primaryEmail": "crsrorissa@gmail.com",
+  "website": "www.crsr.org.in",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "916784231387",
+    "916784231387"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "Dhanigadhia",
+      "Back side of Old Dalda factory)",
+      "Po- Charampa",
+      "Bhadrak",
+      "Odisha",
+      "756101"
+    ]
+  },
+  "briefDescription": "CRSR, the voluntary development organization of committed professionals in health, rehabilitation of PwDs and Social welfare etc. engaged in socio-development alternatives, aims to promote a society free from exploitation, injustice and to make community self reliant based on model principles of an egalitarian society. Organization rejuvenates the team spirit of marginalized class of people and also the distressed differently abled segment of population which strengthen the self help movement for their participation in developmental programmes. The self help movement also enable them to envisage their socio-economic status, self worth and dignity like have class people in the community. The distressed have not class of people are provided vocational training, income generating programme, skill development training, technical support and social support for their independent living in the community. Organization through corporate efforts of public and private sectors create conducive environment for the sustainability of the continuing programmes.",
+  "yearOfEstablishment": "1996",
+  "regiseredAddrress": {
+    "state": "Odisha",
+    "address": [
+      "Netajinagar",
+      "Po- Madhupatana",
+      "Cuttack-10",
+      "Cuttack",
+      "Odisha",
+      "753010"
+    ]
+  }
+}

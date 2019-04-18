@@ -1,0 +1,51 @@
+{
+  "contacts": [
+    {
+      "name": "M K Sharma",
+      "email": "upskillscouncil@gmail.com",
+      "designation": "COO",
+      "mobile": []
+    },
+    {
+      "name": "M K Sharma",
+      "email": "upskillscouncil@gmail.com",
+      "designation": "COO",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10417",
+  "name": "UPSKILLS LEARNING COUNCIL",
+  "primaryEmail": "upskillscouncil@gmail.com",
+  "website": "http://upskillslearningcouncil.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "916350112286"
+  ],
+  "mainAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "82/120, Mansarovar",
+      "Mansarovar",
+      "Jaipur",
+      "Rajasthan",
+      "302020"
+    ]
+  },
+  "briefDescription": "An International Diplomatic Mission for educational and entrepreneurship development.",
+  "yearOfEstablishment": "2018",
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "S-11D/A, 3rd Floor, Opposite Akshardham, Temple, Pandav Nagar",
+      "New Delhi",
+      "Delhi",
+      "110092"
+    ]
+  }
+}

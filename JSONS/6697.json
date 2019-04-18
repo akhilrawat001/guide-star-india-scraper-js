@@ -1,0 +1,24 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6697",
+  "name": "India Institute",
+  "primaryEmail": "bala@indiai.org",
+  "website": "http://www.indiaI.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Intermediary"
+  ],
+  "telephone": [
+    "911141612301"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "M-111, FF",
+      "SAKET,",
+      "New Delhi",
+      "Delhi",
+      "110017"
+    ]
+  }
+}

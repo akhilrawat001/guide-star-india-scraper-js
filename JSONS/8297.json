@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Bairagi Charan Jena",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8297",
+  "name": "ADARSA SIKSHYA KENDRA",
+  "primaryEmail": "ASKBJENA@YAHOO.CO.IN",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "916742492775",
+    "916742492775"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "At- Belapada",
+      "Po- Badatota",
+      "Jatni",
+      "Khordha",
+      "Odisha",
+      "752050"
+    ]
+  }
+}

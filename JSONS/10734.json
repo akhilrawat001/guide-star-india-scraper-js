@@ -1,0 +1,33 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10734",
+  "name": "GLOBAL CITIZENSHIP FOUNDATION",
+  "primaryEmail": "globalcitizenshipfoundation@gmail.com",
+  "website": "globalcitizenshipfoundation.org",
+  "organisationType": [
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "918383023447"
+  ],
+  "mainAddrress": {
+    "state": "Haryana",
+    "address": [
+      "Global Citizenship Foundation, 139, Sector 14, Sector 14",
+      "Global Citizenship FOundation, 139, Sector 14",
+      "Sonipat",
+      "Haryana",
+      "131001"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Haryana",
+    "address": [
+      "House No 139, Sector 14,",
+      "Sonipat",
+      "Haryana",
+      "131001"
+    ]
+  }
+}

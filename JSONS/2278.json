@@ -1,0 +1,20 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2278",
+  "name": "URBAN HEALTH RESOURCE CENTRE",
+  "primaryEmail": "admin@uhrc.in",
+  "telephone": [
+    "911126199771",
+    "911126199771"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "Urban Health Resource Centre 136, First Floor, Humayun Pur,",
+      "Safdarjung Enclave,",
+      "New Delhi",
+      "Delhi",
+      "110029"
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Sunil Verma",
+      "email": "shubhdristi@gmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8271",
+  "name": "SHUBH DRISHTI",
+  "primaryEmail": "shubhdristi@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919470504328"
+  ],
+  "mainAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "At-Luby",
+      "Circular Road",
+      "Dhanbad",
+      "Jharkhand",
+      "828111"
+    ]
+  }
+}

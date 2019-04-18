@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Shova Chhetri",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5091",
+  "name": "Hill Social Welfare Society",
+  "primaryEmail": "hsws_kpg@yahoo.com",
+  "website": "http://www.hswskalimpong.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919434166419"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Sherpa Building",
+      "Primtam Road",
+      "Kalimpong",
+      "Darjeeling",
+      "West Bengal",
+      "734301"
+    ]
+  },
+  "briefDescription": "The Hill Social Welfare Society (HSWS), Kalimpong, is a non-governmental, non political, non profiteeing and women based organization established in the year 2000. It’s an organization with a vision of “A Society where community people specially women, distressed and other vulnerable are empowered towards participating in sustained comprehensive development”, and the mission is “to create/facilitate an enabling environment in health, education, social and economic, justice and rights by meaningful environmental/natural existence with continuous process of development and making best advocacy for convergence of vision existing service.”",
+  "yearOfEstablishment": "2000"
+}

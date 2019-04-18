@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "Valji K. Bagada",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "2597390",
+        "9574114444"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5305",
+  "name": "Love Humanity International",
+  "primaryEmail": "louise@lovehumanity.org",
+  "website": "http://www.lovehumanity.org",
+  "organisationType": [
+    "Direct Service",
+    "Network"
+  ],
+  "telephone": [
+    "912602597390",
+    "912602597390"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "C2/101 Sea Breeze Plaza",
+      "Nargol",
+      "Taluka Umeragon",
+      "Valsad",
+      "Gujarat",
+      "396135"
+    ]
+  }
+}

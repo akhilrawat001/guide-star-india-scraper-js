@@ -1,0 +1,25 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1872",
+  "name": "Baghban Educational & Welfare Society",
+  "primaryEmail": "baghban_society@yahoo.in",
+  "organisationType": [
+    "Direct Service",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919455032581"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "546/3/432",
+      "Akbarnagar, Faizabad Road, Mahanagar",
+      "Lucknow",
+      "Uttar Pradesh",
+      "226006"
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10437",
+  "name": "SAISHREE FOUNDATION",
+  "primaryEmail": "saishreefoundation@yahoo.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service"
+  ],
+  "telephone": [
+    "916762226762",
+    "919937267101"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "Saishree Eye Hospital, Maa Kamala Mandap",
+      "Jagannath Road,",
+      "Dhenkanal",
+      "Odisha",
+      "759001"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Odisha",
+    "address": [
+      "At- Fisheries Lane, North Madhuban, Kunjakanta",
+      "Po- Dhenkanal",
+      "Dhenkanal",
+      "Odisha",
+      "759001"
+    ]
+  }
+}

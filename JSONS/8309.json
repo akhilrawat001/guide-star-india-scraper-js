@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Pushkar Joshi",
+      "email": "yugantar_ngo@rediffmail.com",
+      "designation": "Cheif Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8309",
+  "name": "YUGANTAR SANSTHAN",
+  "primaryEmail": "yugantar_ngo@rediffmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919829330332"
+  ],
+  "mainAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "Kedariya",
+      "Post Bansda",
+      "Via Bhinder",
+      "Udaipur",
+      "Rajasthan",
+      "313603"
+    ]
+  }
+}

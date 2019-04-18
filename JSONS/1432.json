@@ -1,0 +1,36 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1432",
+  "name": "KOSISH",
+  "primaryEmail": "ratuldam@indiatimes.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network"
+  ],
+  "telephone": [
+    "918986872998"
+  ],
+  "mainAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "Qr.2120",
+      "Sector 4 C, Bokaro Steel City,",
+      "Bokaro Steel City",
+      "Bokaro",
+      "Jharkhand",
+      "827004"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "Plot No: B/5, Sector Market,",
+      "Sector IV",
+      "Bokaro Steel City",
+      "Bokaro",
+      "Jharkhand",
+      "827004"
+    ]
+  }
+}

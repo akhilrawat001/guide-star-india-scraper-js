@@ -1,0 +1,23 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7410",
+  "name": "SIMS SANSTHAN",
+  "primaryEmail": "arunmandot@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919414156570"
+  ],
+  "mainAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "205, SUN Campus,",
+      "Navkar Complex, University Road",
+      "Udaipur",
+      "Rajasthan",
+      "313001"
+    ]
+  }
+}

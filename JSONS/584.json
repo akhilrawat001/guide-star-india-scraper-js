@@ -1,0 +1,37 @@
+{
+  "contacts": [
+    {
+      "name": "Shivlal Singh (Dr)",
+      "email": "",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=584",
+  "name": "Arpit Gramin Vikas Sansthan",
+  "primaryEmail": "agvsghatampur@gmail.com",
+  "telephone": [
+    "915115292856",
+    "919236693183",
+    "915115270903"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "Vill + Post Moosanagar",
+      "Kanpur Dehat",
+      "Uttar Pradesh",
+      "209206"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "Vill - Kirawn",
+      "Kotaramakarandpur",
+      "Kanpur Dehat",
+      "Uttar Pradesh",
+      "209206"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Dr B P Wagh",
+      "email": "bhagwanfunde@gmail.com",
+      "designation": "Secretary",
+      "mobile": [
+        "91-9730674927"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2744",
+  "name": "Sanjivani Medical Training Centre",
+  "primaryEmail": "sanjivani90@rediffmail.com",
+  "telephone": [
+    "912412610128",
+    "912412610149",
+    "912412610128"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "A/P Mehekari",
+      "Tal Ahmadnagar",
+      "Ahmadnagar",
+      "Ahmednagar",
+      "Maharashtra",
+      "414002"
+    ]
+  }
+}

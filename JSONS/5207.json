@@ -1,0 +1,40 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5207",
+  "name": "Thoughtshop Foundation",
+  "primaryEmail": "tsfoundation@gmail.com",
+  "website": "http://thoughtshopfoundation.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "913365259273",
+    "913324988928",
+    "913365259273"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "2nd floor, 456, Block K, New Alipore",
+      "Kolkata",
+      "South 24 Parganas",
+      "West Bengal",
+      "700053"
+    ]
+  },
+  "briefDescription": "Thoughtshop Foundation is a social communications organization that develops innovative tools and behaviour change communication strategies to facilitate social change at the grassroots. Work themes include • Children's issues • Adolescent health • Youth Issues • Reproductive Health • Gender Equity • HIV/AIDS • Health & Environment • Ability",
+  "yearOfEstablishment": "1993",
+  "regiseredAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "2nd floor, 456, Block K, New Alipore",
+      "Block K, New Alipore",
+      "Kolkata",
+      "South 24 Parganas",
+      "West Bengal",
+      "700053"
+    ]
+  }
+}

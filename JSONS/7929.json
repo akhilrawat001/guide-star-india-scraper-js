@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Shoaib Khan",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7929",
+  "name": "ALFAAZ Education and Cultural Society",
+  "primaryEmail": "alfaazpublication@yahoo.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919821304808"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Block No. E,3/15, 1st Floor",
+      "Shahu Nagar Colony, Mahim",
+      "Mumbai",
+      "Maharashtra",
+      "400017"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Mollika Narginari",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9012",
+  "name": "Santalpur Nagarik Adhikar Suraksha Welfare Society",
+  "primaryEmail": "samuktala@rediffmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "917044221898"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Sadananda Chakrabarti,Room No: E 210, Raj Tripti Complex",
+      "Devi Nagar, Jagodhatri Sarani,New Town, Alipurduar",
+      "Alipurduar",
+      "Jalpaiguri",
+      "West Bengal",
+      "736121"
+    ]
+  }
+}

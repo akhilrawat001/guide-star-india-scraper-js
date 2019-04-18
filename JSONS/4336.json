@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "M Kumari",
+      "email": "kapilamay1998@gmail.com",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4336",
+  "name": "Kapila Social Justice Education Society",
+  "primaryEmail": "kapilamay1998@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "India",
+    "9289567636"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "M-157, Mangol puri, Delhi",
+      "Mother dairy booth",
+      "Delhi",
+      "North West Delhi",
+      "110083"
+    ]
+  }
+}

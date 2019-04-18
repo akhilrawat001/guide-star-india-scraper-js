@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Suresh yadav",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8610",
+  "name": "KRANTI GRAM VIKAS SANSTHA KOLPIMPRI",
+  "primaryEmail": "sureshyadav5177@gmail.com",
+  "website": "www.krantigram.in",
+  "organisationType": [
+    "Network"
+  ],
+  "telephone": [
+    "919130005177"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "At Kolpimpri Post Anjandoh",
+      "Tq Dharur",
+      "Dharu",
+      "Beed",
+      "Maharashtra",
+      "431124"
+    ]
+  }
+}

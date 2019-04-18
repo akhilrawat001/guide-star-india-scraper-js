@@ -1,0 +1,25 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=714",
+  "name": "Family Service Centre",
+  "primaryEmail": "director@fscmumbai.org",
+  "website": "www.fscmumbai.org",
+  "organisationType": [
+    "Direct Service",
+    "Network"
+  ],
+  "telephone": [
+    "912222021432",
+    "912222828862"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Eucharisdtic Congress Bldg - III, Ground Floor",
+      "5, Convent street",
+      "Mumbai",
+      "Maharashtra",
+      "400001"
+    ]
+  }
+}

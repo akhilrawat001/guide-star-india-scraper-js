@@ -1,0 +1,47 @@
+{
+  "contacts": [
+    {
+      "name": "SHEETAL JAIN",
+      "email": "utthaan1996@yahoo.co.in",
+      "designation": "MANAGER",
+      "mobile": [
+        "91-651-2410405"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7370",
+  "name": "UTTHAAN",
+  "primaryEmail": "utthaan1996@yahoo.co.in",
+  "website": "www.utthaan.org.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "916512410405",
+    "916512410405"
+  ],
+  "mainAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "103 Anjali Apartment",
+      "North Office Para, Doranda",
+      "Ranchi",
+      "Jharkhand",
+      "834002"
+    ]
+  },
+  "briefDescription": "With the assistance of 168 development professional UTTHAAN is actively engaged in integrated rural development, education, health, anticorruption, human right , advocacy, women empowerment etc.",
+  "yearOfEstablishment": "1996",
+  "regiseredAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "123-4 , Ground Floor",
+      "Sukhdeo Nagar, Ratu Road",
+      "Ranchi",
+      "Jharkhand",
+      "834005"
+    ]
+  }
+}

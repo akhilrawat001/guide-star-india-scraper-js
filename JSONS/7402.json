@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Mr. Shanti Lal Bhandari",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7402",
+  "name": "SAJEEV SEVA SAMITI",
+  "primaryEmail": "sarjuindian@hotmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "912942412538",
+    "912942412538"
+  ],
+  "mainAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "Kannak Nikunj",
+      "Jasraj Marg, 475 Bhopalpura",
+      "Udaipur",
+      "Rajasthan",
+      "313001"
+    ]
+  }
+}

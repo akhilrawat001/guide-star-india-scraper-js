@@ -1,0 +1,27 @@
+{
+  "contacts": [
+    {
+      "name": "Swami Triguneshananda Maharaj",
+      "email": "",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=612",
+  "name": "Ramakrishna Vivekananda Charitable Trust",
+  "primaryEmail": "rkvct@rediffmail.com",
+  "telephone": [
+    "919333906980"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "B-57, Jayjayanti Sarani",
+      "Sec-2C, Bidhannagar",
+      "Durgapur",
+      "Bardhaman",
+      "West Bengal",
+      "713212"
+    ]
+  }
+}

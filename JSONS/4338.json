@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Bhaskar Reddy",
+      "email": "srigangablr@gmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4338",
+  "name": "SRI GANGA SOCIAL WELFARE SOCIETY",
+  "primaryEmail": "srigangablr@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919845988442"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "6, uttara,10th cross.Giddappa block",
+      "Ganganagar",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560032"
+    ]
+  }
+}

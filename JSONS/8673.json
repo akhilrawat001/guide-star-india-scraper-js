@@ -1,0 +1,37 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8673",
+  "name": "SHARAN SOCIAL WELFARE ASSOCIATION",
+  "primaryEmail": "sswassociation07@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919902421864"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "Sswassociation Care of S S Sharan",
+      "Yatnal Road",
+      "Jalageri",
+      "Vijayapura (Bijapur)",
+      "Karnataka",
+      "586104"
+    ]
+  },
+  "briefDescription": "Sharan Social Welfare Association is Located in Jalageri, Karnataka.",
+  "yearOfEstablishment": "2006",
+  "regiseredAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "Sswassociation C/O S S Sharan",
+      "Yatnal Road",
+      "Jalageri",
+      "Vijayapura (Bijapur)",
+      "Karnataka",
+      "586104"
+    ]
+  }
+}

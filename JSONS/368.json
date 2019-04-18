@@ -1,0 +1,41 @@
+{
+  "contacts": [
+    {
+      "name": "Jamini Ranjan Das",
+      "email": "gvsassam@hotmail.com",
+      "designation": "Sr Co Coordinator",
+      "mobile": [
+        "91-361-2652219"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=368",
+  "name": "Gyan Vigyan Samiti",
+  "primaryEmail": "gvsassam@hotmail.com",
+  "website": "http://www.gvsassam.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "913612517230",
+    "913612511794",
+    "913612517230"
+  ],
+  "mainAddrress": {
+    "state": "Assam",
+    "address": [
+      "Mandovi Apartment. Unit C& D, First Floor",
+      "G.N.B. Road Ambari",
+      "Guwahati",
+      "Dhubri",
+      "Assam",
+      "781001"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Assam",
+    "address": [
+      "Assam"
+    ]
+  }
+}

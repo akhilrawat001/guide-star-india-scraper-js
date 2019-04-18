@@ -1,0 +1,38 @@
+{
+  "contacts": [
+    {
+      "name": "Anima Nair",
+      "email": "",
+      "designation": "Founder & Director",
+      "mobile": [
+        "8553033006"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5783",
+  "name": "AYATHI TRUST",
+  "primaryEmail": "ayathi.akshayeeshetty@gmail.com",
+  "website": "https://www.facebook.com/SenseKaleidoscopes",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "+918553033006",
+    "+919886627870"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "Bungalow No. 21, First Floor, Yashoda Nagara,",
+      "Opposite Jakkur Aerodrome,",
+      "Jakkur Plantations, Airport  Road,",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560064"
+    ]
+  },
+  "briefDescription": "Sense Kaleidoscopes-  A unit of Ayathi Trust, as an academy, ensure financial and livelihood independence to teenagers and adults with Autism by tailoring customized cognitive & creative arts-centric programs.Sense Kaleidoscopes celebrates the brilliance of children on the Autism spectrum. We focus on developing the unique strengths of children and young adults with special needs with the idea of enabling them to be contributors in society. We believe they deserve to be given the same chances that are available to any other child.",
+  "yearOfEstablishment": "2013"
+}

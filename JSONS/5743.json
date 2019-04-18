@@ -1,0 +1,34 @@
+{
+  "contacts": [
+    {
+      "name": "Sourav Singh",
+      "email": "",
+      "designation": "founder/chairperson",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5743",
+  "name": "Bestower Charitable Foundation",
+  "primaryEmail": "bestowercharitablefoundation@gmail.com",
+  "website": "www.bcfindia.in",
+  "organisationType": [
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "911165884143",
+    "911165884143"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "AG-1/38b Vikaspuri",
+      "New Delhi",
+      "Delhi",
+      "110018"
+    ]
+  },
+  "briefDescription": "BCF is an Indian non-profit organisation working to improve the lives of disadvantaged children, their families and communities through an approach that puts children at the centre of community development. Founded by Mr Sourav Singh on 9 February 2012, we have been working with our members and volunteers to help children access their rights to proper healthcare, basic education, skills training and healthy environment. To protect them from abuse and exploitation, and help them participate fully in decisions that affect their lives. BCF currently works in Three states in India: Delhi, UP and Bihar",
+  "yearOfEstablishment": "2012"
+}

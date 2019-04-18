@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "MR.CYRIL R. RAPHAEL",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7484",
+  "name": "THE HIMALAYA TRUST",
+  "primaryEmail": "cyrilrraphael@gmail.com",
+  "website": "www.himalyatrust.in",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919412076433"
+  ],
+  "mainAddrress": {
+    "state": "Uttarakhand",
+    "address": [
+      "4,MANDIR MARG",
+      "1/2 VASANT VIHAR",
+      "DEHRADUN",
+      "Dehradun",
+      "Uttarakhand",
+      "248006"
+    ]
+  }
+}

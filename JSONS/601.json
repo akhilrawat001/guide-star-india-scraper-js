@@ -1,0 +1,27 @@
+{
+  "contacts": [
+    {
+      "name": "Denish Joshi (Dr)",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=601",
+  "name": "Jan Sewa Sansthan",
+  "primaryEmail": "jssbhatt@yahoo.com",
+  "telephone": [
+    "915966240101",
+    "915966240101",
+    "915966240101"
+  ],
+  "mainAddrress": {
+    "state": "Uttarakhand",
+    "address": [
+      "Village & Post-Kathpuria (Koshi)",
+      "Almora",
+      "Uttarakhand",
+      "263643"
+    ]
+  }
+}

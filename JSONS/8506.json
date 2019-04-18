@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Subrata Banerjee",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8506",
+  "name": "AHMADPUR SPORTS COMPLEX",
+  "primaryEmail": "sportscomplex.ngo@gmail.com",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "919434634931"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Banerjee House",
+      "CHOURANHGI PARA",
+      "Ahmadpur",
+      "Birbhum",
+      "West Bengal",
+      "731201"
+    ]
+  },
+  "briefDescription": "Ahmadpur Sports Complex is Located in VILL+PO Ahmadpur, PS Sainthia, DIST Birbhum, West Bengal, PIN-731201. The organisation runs a school, and also is into healthcare services. The organisation also provides free ambulance services. We run coaching camps for football and volleyball and encourage kids in our school to participate in athletic events as well. We also run a computer centre where kids are provided computer education free of cost.",
+  "yearOfEstablishment": "2003"
+}

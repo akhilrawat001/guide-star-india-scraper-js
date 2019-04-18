@@ -1,0 +1,41 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5160",
+  "name": "Voluntary Aid Association",
+  "primaryEmail": "voluntaryaidassn.mgn@gmail.com",
+  "website": "Nil",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919436308354"
+  ],
+  "mainAddrress": {
+    "state": "Assam",
+    "address": [
+      "Phuleswari Path",
+      "Rajagaon",
+      "Morigaon",
+      "Assam",
+      "782105"
+    ]
+  },
+  "briefDescription": "The organisation works for the upliftment of the poor,helpless,women and child,olderly people etc and take up various action plans for the alround developments of the rural  as well as urban people.",
+  "yearOfEstablishment": "1997",
+  "regiseredAddrress": {
+    "state": "Assam",
+    "address": [
+      "Rajagaon P.O. & District Marigaon(Assam)",
+      "Phuleswari Path",
+      "Marigaon",
+      "Morigaon",
+      "Assam",
+      "782105"
+    ]
+  }
+}

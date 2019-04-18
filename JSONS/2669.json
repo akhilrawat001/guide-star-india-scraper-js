@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "Deepak Kumar",
+      "email": "peoplefirst@topmail.co.in",
+      "designation": "Chairman",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2669",
+  "name": "People First Educational Charitable Trust",
+  "primaryEmail": "peoplefirst@topmail.co.in",
+  "website": "http://www.peoplefirstindia.net",
+  "telephone": [
+    "916312200657",
+    "916312200657"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "Gyan Vikas Centre",
+      "Bodhgaya",
+      "Gaya",
+      "Bihar",
+      "824234"
+    ]
+  }
+}

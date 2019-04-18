@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Faheem Ahmad Shaikh",
+      "email": "Gulzar.indian@gmail.com",
+      "designation": "Member",
+      "mobile": [
+        "91-9371237107"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1952",
+  "name": "Ummeed Organization For Upliftment Of Muslim Minorities Educational And Economical Development",
+  "primaryEmail": "ummeed.org@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919371237107"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Line No : 02",
+      "Mahevi Nagar",
+      "Malegaon",
+      "Nashik",
+      "Maharashtra",
+      "423203"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "contacts": [
+    {
+      "name": "M Narayana",
+      "email": "ppehws@gmail.com",
+      "designation": "Founder",
+      "mobile": [
+        "91-9866645393"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5227",
+  "name": "Parvathi Parameswara Educational Heath Welfare Society",
+  "primaryEmail": "ppehws@gmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning"
+  ],
+  "telephone": [
+    "919866645393"
+  ],
+  "mainAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "41/473-1S",
+      "Saibaba Sanjeeva Nagar, Opp. District Court",
+      "Kurnool",
+      "Andhra Pradesh",
+      "518001"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "1/53",
+      "Jolapuram village, Banaganapalle Mandal",
+      "Kurnool",
+      "Andhra Pradesh",
+      "518124"
+    ]
+  }
+}

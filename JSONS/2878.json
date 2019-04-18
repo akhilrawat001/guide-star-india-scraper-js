@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "H F Akki",
+      "email": "needsorg.rnr92@gmail.com",
+      "designation": "Chairman",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2878",
+  "name": "Navodaya Educational and Enviornment Development Service (NEEDS)",
+  "primaryEmail": "needsorg.rnr92@gmail.com",
+  "telephone": [
+    "998373260111",
+    "918373260111"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "I M A BUILDING",
+      "BEHIND SANGAM TALKIES, RANGNATH NAGAR",
+      "RANEBENNUR",
+      "Haveri",
+      "Karnataka",
+      "581115"
+    ]
+  }
+}

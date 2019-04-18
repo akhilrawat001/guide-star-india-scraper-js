@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "Kunti Oza",
+      "email": "kuntioza@yahoo.com",
+      "designation": "Chairperson",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=208",
+  "name": "Clean Mumbai Foundation",
+  "primaryEmail": "kuntioza@yahoo.com",
+  "telephone": [
+    "912222044838",
+    "919820343406",
+    "912222622489"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "91, Bonnett Villa 27",
+      "Wodehouse Road",
+      "Mumbai",
+      "Maharashtra",
+      "400001"
+    ]
+  }
+}

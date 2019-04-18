@@ -1,0 +1,34 @@
+{
+  "contacts": [
+    {
+      "name": "Shipra",
+      "email": "jamghat@gmail.com",
+      "designation": "project Head",
+      "mobile": [
+        "91-9818705715"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=182",
+  "name": "Jamghat - A Group of Street Children",
+  "primaryEmail": "jamghat@gmail.com",
+  "website": "www.jamghat.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919818705715"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "18A MIG Flats, Triveni",
+      "Phase – I, Sheikh Sarai",
+      "Delhi",
+      "New Delhi",
+      "110017"
+    ]
+  },
+  "briefDescription": "A Brief Introduction:Established in 2003, Jamghat comprises of young adult professionals and volunteers with a variety of skills and experiences. We are a registered NGO that aims to help children living and working on the streets of Delhi to realize their dreams and re-join society by offering opportunities for street children and society alike to make changes in their lives.In 2003, Action Aid India forwarded a grant to design a play about life on the streets.Fourteen street children came together with Theatre artists Amit Sinha and Lokesh Jain, and their lives were forever changed. The play was performed for Prince Charles and was such a success that it travelled India and abroad for the next 3 months. The experience nurtured self confidence and a feeling of capability in the children. They realized this and refused to return to the streets. Despite lack of funds, they decided to live together and continue spreading awareness through theatre. Jamghat, a lively gathering, was born. Our Vision:  To form a joyful, open, living, learning collective that facilitates growth and takes care of children’s needs according to age.",
+  "yearOfEstablishment": "2006"
+}

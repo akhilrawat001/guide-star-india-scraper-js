@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "name": "Vaishali Kelkar",
+      "email": "",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1677",
+  "name": "Tejaswini Bahuddeshiya Sevabhavi Vikas Sanstha",
+  "primaryEmail": "tejaswini.sanstha@rediffmail.com",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "919403146818"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Care of. Plot. No. 28",
+      "Shubhalaxmi Developers Layout, Kawads Road, Near New Bus-Stop.",
+      "Hingna",
+      "Nagpur",
+      "Maharashtra",
+      "441110"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "At. Lalkhed Th. Dharva",
+      "Yavatmal",
+      "Maharashtra",
+      "445001"
+    ]
+  }
+}

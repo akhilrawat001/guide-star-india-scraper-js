@@ -1,0 +1,43 @@
+{
+  "contacts": [
+    {
+      "name": "A.Shanthi",
+      "email": "wordtrust@yahoo.co.in",
+      "designation": "Programme Coordinator",
+      "mobile": [
+        "91-9443797410"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1824",
+  "name": "Welfare Organization for Rural Development Trust (WORD)",
+  "primaryEmail": "wordtrust@yahoo.co.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919952842801"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "12420",
+      "Tondamanpatti, R.S, Ayyampatti",
+      "Tiruchirappalli",
+      "Tamil Nadu",
+      "620022"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "Kottarapatti",
+      "Pathalapettai (Post),",
+      "Tiruchirappalli",
+      "Tamil Nadu",
+      "620013"
+    ]
+  }
+}

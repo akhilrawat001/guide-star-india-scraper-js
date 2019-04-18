@@ -1,0 +1,40 @@
+{
+  "contacts": [
+    {
+      "name": "Dr. Nirala Prasad",
+      "email": "svwsociety18@gmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5133",
+  "name": "SWAMI VIVEKANANDA WELFARE SOCIETY",
+  "primaryEmail": "svwsociety18@gmail.com",
+  "website": "no",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "916228243604",
+    "916228243604"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "Vill+Post-Chikna",
+      "Via-Janakpur Road",
+      "Sitamarhi",
+      "Bihar",
+      "843320"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Bihar",
+    "address": [
+      "Not Provided",
+      "Sitamarhi",
+      "Bihar",
+      "843320"
+    ]
+  }
+}

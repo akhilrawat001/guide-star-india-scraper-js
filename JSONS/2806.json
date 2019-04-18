@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Rev.B.Jebaraj",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2806",
+  "name": "Kotagiri Women`s Welfare Trust",
+  "primaryEmail": "thewomenstrust@yahoo.com",
+  "website": "no",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919245789911"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "Kotagiri Womens Welfare Trust P.O Box No 40 Thananadu Village, Gundada (P.O) Kotagiri,The Nilgiris -643217",
+      "Thananadu Village, Gundada (P.O) Kotagiri,The Nilgiris -643217",
+      "Kotagiri",
+      "The Nilgiris",
+      "Tamil Nadu",
+      "643217"
+    ]
+  }
+}

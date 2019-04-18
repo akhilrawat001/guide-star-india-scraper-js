@@ -1,0 +1,46 @@
+{
+  "contacts": [
+    {
+      "name": "Dr. Anil K. Luniya",
+      "email": "info@udaanwelfare.org",
+      "designation": "Founder President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3553",
+  "name": "Udaan Welfare Foundation",
+  "primaryEmail": "info@udaanwelfare.org",
+  "website": "http://www.udaanwelfare.org",
+  "organisationType": [
+    "Direct Service",
+    "Intermediary",
+    "Support"
+  ],
+  "telephone": [
+    "919819033773"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "2202, FIONA, Hiranandani Estate",
+      "Ghodbunder Road",
+      "Thane West",
+      "Thane",
+      "Maharashtra",
+      "400607"
+    ]
+  },
+  "briefDescription": "Udaan Welfare Foundation was conceived on 16th March, 2008 when a group of 41 professionals from different walks of life decided to work together with a common vision of empowering lives. The Foundation is a registered Society and Trust since October, 2008 with the Charity Commissioner, Mumbai (Society Reg. No. ”Maharashtra Rajya, Mumbai, 200 GBBSD, 2188 dt. 20.10.2008″; Trust Reg. No. ”F – 36842 [MUM]“).The flight of Udaan Welfare Foundation has taken off and completed five successful years, working in and around Thane and Mumbai. The NGO has implemented several projects in the areas of Health, Nutrition and Education and in a small way restored the environment.  We are continuously growing and have initiated some sustainable projects like Rainwater harvesting, Waste Water Recycling, Educational support, Nutrition support. Lately we have started a community centre in Thane for the Semi Urban population with an outreach to nearly 2,50000 residents.",
+  "yearOfEstablishment": "2008",
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "4, SAVITHA, 70 PESTOM SAGAR, 2ND MAIN ROAD, CHEMBUR",
+      "CHEMBUR",
+      "MUMBAI",
+      "Mumbai",
+      "Maharashtra",
+      "400089"
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "M N Chandrashekar",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5654",
+  "name": "JEEVAN JYOTHI RURAL DEVELOPMENT AND SELF EMPLOYMENT TRAINING INSTITUTE",
+  "primaryEmail": "jjrds2014@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919008711348"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "Reg off: malapanahalli vaddagere post koratagere taluk tumkur Karnataka pin 572129",
+      "Adm office: JJRD Training Intitute PRC College Campus Tumkur Road, karnataka 572129",
+      "koratagere",
+      "Tumakuru (Tumkur)",
+      "Karnataka",
+      "572129"
+    ]
+  }
+}

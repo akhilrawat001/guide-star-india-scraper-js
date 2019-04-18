@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "Mr.Nitin Manohar Kamble",
+      "email": "advnitinmkamble@gmail.com",
+      "designation": "Secretery",
+      "mobile": []
+    },
+    {
+      "name": "Mr.Nitin Manohar Kamble",
+      "email": "advnitinmkamble@gmail.com",
+      "designation": "Secretery",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7329",
+  "name": "TRIGYA BUDDHIST MULTIPURPOSE FOUNDATION",
+  "primaryEmail": "trigyabuddhist@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919850108321"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "H. No. 4/9/1141, Boudh Nagar,",
+      "Jawahar Colony, Aurangbad,",
+      "Aurangabad",
+      "Maharashtra",
+      "431001"
+    ]
+  }
+}

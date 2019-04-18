@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "KiranKumar D.Parmar",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6537",
+  "name": "SHRI RAMROTI ANNAKSHETRA ASHRAM",
+  "primaryEmail": "ramrotiannakshetra@yahoo.com",
+  "website": "www.ramroti.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919825547265"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "at-Kothaariya,ta-wadhwan,dist-surendranagar-363030",
+      "ta-wadhwan,",
+      "Surendranagar",
+      "Gujarat",
+      "363030"
+    ]
+  }
+}

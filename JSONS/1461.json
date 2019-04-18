@@ -1,0 +1,36 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1461",
+  "name": "Subham",
+  "primaryEmail": "subham.orissa@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "916752223545",
+    "916752213400",
+    "919937372049"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "At-Guru Vihar",
+      "Matiapada,",
+      "Puri",
+      "Odisha",
+      "752002"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Odisha",
+    "address": [
+      "At- Mudirath,",
+      "Po-Bhubanpur, Via-Brahmagiri",
+      "Puri",
+      "Odisha",
+      "752011"
+    ]
+  }
+}

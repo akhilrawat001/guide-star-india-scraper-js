@@ -1,0 +1,40 @@
+{
+  "contacts": [
+    {
+      "name": "Bhawani Shankar Bharti",
+      "email": "bhawanishiv@gmail.com",
+      "designation": "Manager (Information & Communication system)",
+      "mobile": [
+        "91-7366944704"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=760",
+  "name": "Mahila Kalayan Samiti Dhori,Bokaro",
+  "primaryEmail": "mksdbharti@rediffmail.com",
+  "website": "www.mahilakalyansamiti.in",
+  "organisationType": [
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "916549222117",
+    "919955509286",
+    "917366944704",
+    "918877319377"
+  ],
+  "mainAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "Staff Colony",
+      "Near Dhori Dispensary",
+      "Dhori",
+      "Bokaro",
+      "Jharkhand",
+      "825102"
+    ]
+  },
+  "briefDescription": "Mahila Kalyan Samiti belongs to Bokaro district of Jharkhand state. It has been working for women & child development, health, education, self-employment and anything that may cause development since its establishment.",
+  "yearOfEstablishment": "1991"
+}

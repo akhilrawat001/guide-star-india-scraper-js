@@ -1,0 +1,35 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10756",
+  "name": "BRIGHT LIFE FOUNDATION",
+  "primaryEmail": "blfngoindia@gmail.com",
+  "website": "www.blfindia.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918929812812"
+  ],
+  "mainAddrress": {
+    "state": "Haryana",
+    "address": [
+      "Nahar Road",
+      "Kosli",
+      "Rewari",
+      "Haryana",
+      "123302"
+    ]
+  },
+  "briefDescription": "Bright Life Foundation is located in Rewari, Haryana.",
+  "yearOfEstablishment": "2014",
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "685, B/2, Gosian Mohalla",
+      "Nahafgarh",
+      "South West Delhi",
+      "Delhi",
+      "110043"
+    ]
+  }
+}

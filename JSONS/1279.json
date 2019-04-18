@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "Pranesh",
+      "email": "pranesh123@indiatimes.com",
+      "designation": "Manager",
+      "mobile": [
+        "91-835-8244443",
+        "91-9035265795"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1279",
+  "name": "Sabala",
+  "primaryEmail": "sabala2000@hotmail.com",
+  "website": "www.sabalaindia.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918352278204",
+    "918352278204"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "Sabala , samatha building,",
+      "Keertinagar",
+      "Bijapur",
+      "Vijayapura (Bijapur)",
+      "Karnataka",
+      "586101",
+      "AP_TelBill_2002.PDF"
+    ]
+  }
+}

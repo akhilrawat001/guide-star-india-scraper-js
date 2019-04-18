@@ -1,0 +1,49 @@
+{
+  "contacts": [
+    {
+      "name": "Nehal Daga",
+      "email": "Nehal@miraclefoundation.org",
+      "designation": "Coordinator - Resource Mobilisation",
+      "mobile": []
+    },
+    {
+      "name": "Nehal Daga",
+      "email": "Nehal@miraclefoundation.org",
+      "designation": "Coordinator - Resource Mobilisation",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10406",
+  "name": "Miracle Foundation India",
+  "primaryEmail": "Nehal@miraclefoundation.org",
+  "website": "https://miraclefoundationindia.in",
+  "organisationType": [
+    "Intermediary"
+  ],
+  "telephone": [
+    "919971155490",
+    "918826540404"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "B-14, First Floor, Saket Avenue, Saket",
+      "New Delhi",
+      "South Delhi",
+      "Delhi",
+      "110017"
+    ]
+  },
+  "briefDescription": "Miracle Foundation India is leading the global movement that brings life changing care to orphaned & vulnerable children in India. Since our inception in 2011, we have transformed lives of 7100 children in 7 states. We have 342 children enrolled in higher education and 18 are employed. Our mission is to bring life-changing care to orphaned and vulnerable children. We partner with community-based organisations to strengthen families and communities, reunite children with parents or relatives, advocate adoptive families for abandoned children, and strengthen Children's Homes in rural and semi-urban areas by improving their quality of care.Until all children are in a loving family, we will continue to make sure they thrive wherever they are.",
+  "yearOfEstablishment": "2011",
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "Chamber No. 2, 512A, Deepeshikha Buliding, Rajendra Place",
+      "New Delhi",
+      "South Delhi",
+      "Delhi",
+      "110008"
+    ]
+  }
+}

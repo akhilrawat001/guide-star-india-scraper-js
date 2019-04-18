@@ -1,0 +1,38 @@
+{
+  "contacts": [
+    {
+      "name": "Chauhan Narsinhbhai Nathabhai",
+      "email": "pajetadadara@gmail.com",
+      "designation": "Coordinator",
+      "mobile": [
+        "91-9979751557"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=469",
+  "name": "Shree Panchmahal Anusuchit Jati Education Trust",
+  "primaryEmail": "pajet_adadara@yahoo.com",
+  "website": "www.pajetadadara.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919974169881"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "AT.Adadara Taluka, Kalol",
+      "Adadra",
+      "Panchmahal",
+      "Gujarat",
+      "389341"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "Gujarat"
+    ]
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "contacts": [
+    {
+      "name": "Rekha Kumari",
+      "email": "k.rekha01@gmail.com",
+      "designation": "Trustee & Program Manager",
+      "mobile": []
+    },
+    {
+      "name": "Rekha Kumari",
+      "email": "k.rekha01@gmail.com",
+      "designation": "Trustee & Program Manager",
+      "mobile": []
+    },
+    {
+      "name": "Rekha Kumari",
+      "email": "k.rekha01@gmail.com",
+      "designation": "Trustee & Program Manager",
+      "mobile": []
+    },
+    {
+      "name": "Rekha Kumari",
+      "email": "k.rekha01@gmail.com",
+      "designation": "Trustee & Program Manager",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6514",
+  "name": "KAUSHALYA Foundation",
+  "primaryEmail": "info@kaushalyafoundation.org",
+  "website": "www.kaushalyafoundation.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919334407981",
+    "917765991206"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "No. 32, Awaas Apartment",
+      "East Boring Canal Road",
+      "Patna",
+      "Bihar",
+      "800001"
+    ]
+  },
+  "briefDescription": "We are working with more than 23000 smallholders and the poor addressing the regressive issues pertaining to their livelihoods, agriculture, education, gender-relations, health, hygiene, nutrition, climate change adaptability and environmental-solidarity. We focus our efforts in these areas:Development programs1) We work with the underprivileged communities on long-term area approach to eradicate poverty and inequity through creating new opportunities for them..2) We promote sustainable micro- enterprises in environment friendly manner3) We impart knowledge and ensure sustainability through training, capacity building and organizing the poor in their own institutions collaborating with Government & Private bodies.",
+  "yearOfEstablishment": "2008"
+}

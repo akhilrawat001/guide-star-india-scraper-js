@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "name": "SANJAY KUMAR",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "9304832180"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3005",
+  "name": "SANKALP JYOTI",
+  "primaryEmail": "sankalpjyoti23@gmail.com",
+  "website": "sankalpjyoti.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919304832180",
+    "919430954712"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "ASHOK NAGAR, ROAD NO.-1, LAST, KANKARBAGH",
+      "KANKARBAGH",
+      "Patna",
+      "Bihar",
+      "800020"
+    ]
+  },
+  "briefDescription": "Sankalp Jyoti is Bihar based registered not profit organization. We are working in Patna,Gaya,Jehanabd, Shekhpura & Nawada district of Bihar. Our focus area is Women empowerment, Education, Health, Skill Development Training to youth,Disaster etc. We are serving about 2500 people right now with the support of Nabard, Central Social welfare Board, DRDA, Canara Bank etc",
+  "yearOfEstablishment": "2004"
+}

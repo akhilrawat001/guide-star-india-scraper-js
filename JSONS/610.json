@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Dinesh Josh (Dr)",
+      "email": "",
+      "designation": "Executive Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=610",
+  "name": "Himalayan Study Circle for Environment, Child Education Health & Research",
+  "primaryEmail": "hscpith@yahoo.co.in",
+  "telephone": [
+    "915964264242",
+    "915964264071",
+    "915964264209",
+    "915964264242"
+  ],
+  "mainAddrress": {
+    "state": "Uttarakhand",
+    "address": [
+      "G.I.C Road",
+      "Pandegaon",
+      "Pithoragarh",
+      "Uttarakhand",
+      "262501"
+    ]
+  }
+}

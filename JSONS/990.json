@@ -1,0 +1,27 @@
+{
+  "contacts": [
+    {
+      "name": "R Sivakamavalli",
+      "email": "",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=990",
+  "name": "Women's Organisation for Rural Development",
+  "primaryEmail": "siva_word@hotmail.com",
+  "website": "www.mywordindia.org",
+  "telephone": [
+    "914268230960",
+    "914268230960"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "Post Box No. 1, Pandamangalam Post",
+      "Namakkal",
+      "Tamil Nadu",
+      "634208"
+    ]
+  }
+}

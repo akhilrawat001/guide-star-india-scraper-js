@@ -1,0 +1,41 @@
+{
+  "contacts": [
+    {
+      "name": "Uday Kumar",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6791",
+  "name": "Dalit Association for Social and Human Rights Awareness (DASHRA)",
+  "primaryEmail": "dashra.india.southasia@gmail.com",
+  "website": "http://www.dashra.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "916122270134",
+    "916122270134"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "DASHRA, Care of Uday Kumar, at- Ambedkar Nagar.  Vill- Deokuli, Po-Musepur ( Bihta), PS Bihta",
+      "Near Air force Station",
+      "Patna",
+      "Bihar",
+      "801103"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Bihar",
+    "address": [
+      "DASHRA, c/o Uday Kumar, at- Ambedkar Nagar.  Vill- Deokuli, Po-Musepur ( Bihta), PS Bihta",
+      "Near Air force Station",
+      "Patna",
+      "Bihar",
+      "801103"
+    ]
+  }
+}

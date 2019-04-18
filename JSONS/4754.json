@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Lanu Ranjeeta",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4754",
+  "name": "SOCIETY FOR HEALTH AND EDUCATIONAL DEVELOPMENT (SHED)",
+  "primaryEmail": "shedschool@yahoo.in",
+  "website": "shedneindia.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919859943117"
+  ],
+  "mainAddrress": {
+    "state": "Assam",
+    "address": [
+      "house no.07, Kanaklata path",
+      "lalmati road,",
+      "Guwahati",
+      "Kamrup Metropolitan",
+      "Assam",
+      "781028"
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Nur Ahachan Habib",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8977",
+  "name": "Hajaripara Bengal Institute of Open Education",
+  "primaryEmail": "aicvejal786@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "913561260094",
+    "913561260094"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Vill : Hajari Para Po :Garalbari Ps : Kotwali",
+      "Jalpaiguri",
+      "West Bengal",
+      "735140"
+    ]
+  }
+}

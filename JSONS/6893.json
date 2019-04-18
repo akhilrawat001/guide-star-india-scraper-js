@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Bapuso Shamrao Chavan",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6893",
+  "name": "CHARAK SWASTHYA BAHUUDHESIA SANSTHA",
+  "primaryEmail": "csbssangli@gmail.com",
+  "website": "www.charakvision.org",
+  "organisationType": [
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "9823243738"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Revenue Colony, plot no.16, sangli, 416 416",
+      "Near Chandani Chowk",
+      "sangli",
+      "Sangli",
+      "Maharashtra",
+      "416416"
+    ]
+  }
+}

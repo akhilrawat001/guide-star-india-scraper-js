@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Mr. Premchand Zambad",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4502",
+  "name": "Shree Vardhaman Jain Educational and Research Multipurpose Foundation",
+  "primaryEmail": "vjaineducation@gmail.com",
+  "website": "Work in progress",
+  "organisationType": [
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919422181892"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Alankar",
+      "Bhagvan Mahavir Marg",
+      "Nandura",
+      "Buldhana",
+      "Maharashtra",
+      "443404"
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "contacts": [
+    {
+      "name": "Ashish Bhatnagar",
+      "email": "",
+      "designation": "Secretary",
+      "mobile": []
+    },
+    {
+      "name": "Ashish Bhatnagar",
+      "email": "",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=746",
+  "name": "Manav Rozgar Kshamata Vikas Sansthan",
+  "primaryEmail": "nemichandheads@gmail.com",
+  "website": "www.ngoheads.org",
+  "telephone": [
+    "912942425647",
+    "912942462616",
+    "912942425647"
+  ],
+  "mainAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "Mehta Bhawan, 1",
+      "Ashok Nagar",
+      "Udaipur",
+      "Rajasthan",
+      "313001"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "Sky Land, 156",
+      "Roop Nagar, Sector-3, Hiran Margri,",
+      "Udaipur",
+      "Rajasthan",
+      "313001"
+    ]
+  }
+}

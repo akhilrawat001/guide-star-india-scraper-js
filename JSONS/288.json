@@ -1,0 +1,42 @@
+{
+  "contacts": [
+    {
+      "name": "Ranjan Kumar Mohanty",
+      "email": "pecuc@hotmail.com",
+      "designation": "Chief Executive",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=288",
+  "name": "Peopleï¿½s Cultural Center (PECUC)",
+  "primaryEmail": "pecuc@hotmail.com",
+  "website": "www.pecuc.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "916742740432",
+    "916742740178",
+    "919438297518",
+    "916742740432"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "People's Cultural Center (PECUC) HIG: VII-M-13, Sailashree Vihar",
+      "Bhubaneswar",
+      "Khordha",
+      "Odisha",
+      "751021"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Odisha",
+    "address": [
+      "Odisha"
+    ]
+  }
+}

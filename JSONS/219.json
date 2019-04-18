@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "D K Oza",
+      "email": "",
+      "designation": "Managing Trustee",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=219",
+  "name": "Anasuya Foundation for Women & Children",
+  "primaryEmail": "oza.devendra@gmail.com",
+  "website": "www.anasuyafoundation.org",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "914424422269",
+    "919444216627"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "No.1, First Cross Street",
+      "Indira Nagar, Adyar",
+      "Chennai",
+      "Tamil Nadu",
+      "600020"
+    ]
+  }
+}

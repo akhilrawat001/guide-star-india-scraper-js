@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "Sasanka Christopher Hazarika",
+      "email": "sasanka.hazarika@shishusarothi.org",
+      "designation": "HR & Admin Officer",
+      "mobile": [
+        "91-9435040607"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7333",
+  "name": "Shishu Sarothi (Centre for Rehabilitation & Training for Multiple Disability)",
+  "primaryEmail": "info@shishusarothi.org",
+  "website": "http://www.shishusarothi.org/",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Support"
+  ],
+  "telephone": [
+    "919207049810"
+  ],
+  "mainAddrress": {
+    "state": "Assam",
+    "address": [
+      "Shishu Sarothi",
+      "Off Ramkrishna Mission Road",
+      "Guwahati",
+      "Kamrup Metropolitan",
+      "Assam",
+      "781016"
+    ]
+  },
+  "briefDescription": "Shishu Sarothi, Centre for Rehabilitation and Training for Multiple Disability is a not for profit organization in the Northeast region of India, Guwahati, established in the year 1987. Since its inception, Shishu Sarothi has been working in the disability sector in the areas of education, training and manpower development, early intervention and rehabilitation, livelihood and protection of rights of persons with disabilities.",
+  "yearOfEstablishment": "1988"
+}

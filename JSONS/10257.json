@@ -1,0 +1,51 @@
+{
+  "contacts": [
+    {
+      "name": "Uttara Jadhav",
+      "email": "uttarashieldfoundation20@gmail.com",
+      "designation": "Sr. Social Worker",
+      "mobile": [
+        "91-9769352598"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10257",
+  "name": "SHIELD FOUNDATION",
+  "primaryEmail": "shieldfoundation@gmail.com",
+  "website": "https://shieldfoundation.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919833406288",
+    "919769352598",
+    "912225527246"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Hall Space, Gandhi Nagar Society",
+      "Near Ambedkar School, Sant Kakkaya Marg",
+      "Dharavi,",
+      "Mumbai",
+      "Maharashtra",
+      "400017"
+    ]
+  },
+  "briefDescription": "SHIELD FOUNDATION was created in 2009 by Swati Ingole and was registered in 2010 under Society and Public Trust Act 1950. We have 3 Centers- Dharavi, Mumbra and Matunga- providing skill development training and respite care for senior citizens. In 2011, Shield Foundation was honored to become an investee of UnLtd India, a social enterprise incubator. We have trained more than 2500 ladies under the self-designed training course. The organization has networked with more than 50 organizations, hospitals, corporate and colleges.Shield Foundation is a vocational skilling arm. The objective was to train youth from economically disadvantaged backgrounds (age 18‐35 years) and provide them with employable skills, coupled with access to employment and entrepreneurship opportunities. Today our programs enable youth to access entry-level positions and placements in 4 major vocations. Approximately 3,000 young people were reached in 2010-18 of whom 2,500 have been trained and placed either in entry level jobs or helped to start their own business.We conduct short-term courses, focusing on young men and women from urban slums. The model is based on strong industry linkages and youth counseling, and focuses on hands-on skills training. Courses taught including Tailoring, Respite Care Giver, Welding, Healthcare Nursing (CSR Project-Tech Mahindra Foundation), and ITES (BPO CSR Project-Tech Mahindra Foundation). In addition to industry specific skills, students also learn Basic English, Computer literacy and life skills. We have a four-step mechanism which includes mobilization from source, training, placement in jobs, and post-placement support.",
+  "yearOfEstablishment": "2010",
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "202, 2nd Floor",
+      "Shiv Sagar Apartment, Gayatri Nagar",
+      "Nagpur",
+      "Maharashtra",
+      "440022"
+    ]
+  }
+}

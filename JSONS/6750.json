@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Shri. Datta B.Naik",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6750",
+  "name": "JAN SHIKSHAN SANSTHAN GOA",
+  "primaryEmail": "jssgoa@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Intermediary"
+  ],
+  "telephone": [
+    "918322416025",
+    "918322416025"
+  ],
+  "mainAddrress": {
+    "state": "Goa",
+    "address": [
+      "IInd Floor, SCERT Bldg",
+      "Behind Goa Board",
+      "Alto-Porvorin",
+      "North Goa",
+      "Goa",
+      "403521"
+    ]
+  }
+}

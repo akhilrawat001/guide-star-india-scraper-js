@@ -1,0 +1,44 @@
+{
+  "contacts": [
+    {
+      "name": "Shubhangi Abhyankar",
+      "email": "admin@sofosh.org",
+      "designation": "Administration coordinator",
+      "mobile": []
+    },
+    {
+      "name": "Shubhangi Abhyankar",
+      "email": "admin@sofosh.org",
+      "designation": "Administration coordinator",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=481",
+  "name": "Society of Friends of the Sassoon Hospital",
+  "primaryEmail": "admin@sofosh.org",
+  "website": "http://www.sofosh.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "912026124660",
+    "912026120762"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Room No.87, Sassoon General Hospitals",
+      "Pune",
+      "Maharashtra",
+      "411001"
+    ]
+  },
+  "briefDescription": "We provide help to the patients while taking treatment in the Sassoon General hospital and sometimes even after the treatment is over.SOFOSH( Society of the Friends of the Sassoon hospitals) is a non government charitable organisation established in 1964 to supplement the efforts of the Sassoon General Hospitals, Pune by offering  a wide range of patient welfare services.In 1973 , SOFOSH established SHREEVATSA ,  a child care centre which provides shelter,  care, educational and medical aid  to   family deprived children. All efforts are made to rehabilitate these children through our well established adoption programme.The TARA , SOFOSH Dhadphale Centre, a home for the mentally and physically challenged family deprived children was established by SOFOSH in 2008 at Pimple Gurav. All efforts are made to provide shelter, care,  educational and medical aid to these children to facilitate their growth and development.",
+  "yearOfEstablishment": "1964",
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Maharashtra"
+    ]
+  }
+}

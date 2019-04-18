@@ -1,0 +1,27 @@
+{
+  "contacts": [
+    {
+      "name": "Pavan Dattatraya Khebudkar",
+      "email": "chetanavikas@gmail.com",
+      "designation": "Principal",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3505",
+  "name": "Chetna Apangmati Vikas Sanstha",
+  "primaryEmail": "chetanavikas@gmail.com",
+  "telephone": [
+    "912312690307",
+    "912312690307"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Kusthadham",
+      "Shenda Park",
+      "Kolhapur",
+      "Maharashtra",
+      "416012"
+    ]
+  }
+}

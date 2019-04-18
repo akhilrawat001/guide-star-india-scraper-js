@@ -1,0 +1,27 @@
+{
+  "contacts": [
+    {
+      "name": "md mustafa",
+      "email": "siddibaba@gmail.com",
+      "designation": "PRESIDENT",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5750",
+  "name": "SIDDI BABA EDUCATION AND RURAL DEVELOPMENT SOCIETY",
+  "primaryEmail": "siddibaba@gmail.com",
+  "telephone": [
+    "919742428786"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "HOUSE NO. 17-3-266, GANDHI NAGAR.",
+      "MAILOOR,",
+      "BIDAR",
+      "Bidar",
+      "Karnataka",
+      "585403"
+    ]
+  }
+}

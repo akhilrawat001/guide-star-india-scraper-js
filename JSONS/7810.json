@@ -1,0 +1,26 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7810",
+  "name": "Pruthvi Foundation Social Organisation",
+  "primaryEmail": "pruthvifoundationorg@gmail.com",
+  "website": "http://www.pruthvifoundation.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Network"
+  ],
+  "telephone": [
+    "918105515948",
+    "918025717029"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "No. 5, \"RASI\"",
+      "7th Cross, Gajendra Nagar,",
+      "Adugodi",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560030"
+    ]
+  }
+}

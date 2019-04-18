@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "name": "Dr Manoj Kumar",
+      "email": "mk_@rediffmail.com",
+      "designation": "President",
+      "mobile": []
+    },
+    {
+      "name": "Dr Manoj Kumar",
+      "email": "mk_@rediffmail.com",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7470",
+  "name": "SUSHANTI FOUNDATION",
+  "primaryEmail": "kiddusplayway@gmail.com",
+  "website": "http://www.kiddusplayway.com",
+  "organisationType": [
+    "Intermediary"
+  ],
+  "telephone": [
+    "918545957917"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "MMIG-71/II,",
+      "TIKAIT RAI TALAB LDA COLONY,",
+      "LUCKNOW",
+      "Lucknow",
+      "Uttar Pradesh",
+      "226017"
+    ]
+  },
+  "briefDescription": "SOCIETY IS WORKING IN THE FIELD OF PRE-PRIMARY EDUCATION OF CHILDREN",
+  "yearOfEstablishment": "2014"
+}

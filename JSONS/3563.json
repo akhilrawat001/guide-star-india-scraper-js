@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Santosh Subhash Saraf",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3563",
+  "name": "Lokranjan Bahuuddeshiya Sanstha",
+  "primaryEmail": "lokranjan22@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919011474963"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      ".Santosh Saraf, Mahavir Marga",
+      "Saraf Bazar",
+      "Jamner Tal- Jamner Dist-Jalgaon",
+      "Jalgaon",
+      "Maharashtra",
+      "424206"
+    ]
+  }
+}

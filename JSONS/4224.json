@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Vijay Singh",
+      "email": "IMCOOLVIJAYSINGH7@REDIFFMAIL.COM",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4224",
+  "name": "Vijayshree Sewa Sansthan",
+  "primaryEmail": "IMCOOLVIJAYSINGH7@REDIFFMAIL.COM",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919460905774"
+  ],
+  "mainAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "JAT MOHLLA IN FRONT OF HIMSHIKHAR SHIVE MANDER,  RAMGARH , ALWAR, RAJASTHAN, PIN ,301026",
+      "L-16,A,BLOCK,SAJJAN NAGAR, UDAIPUR RAJASTHAN",
+      "RAMGARH (ALWAR)",
+      "Alwar",
+      "Rajasthan",
+      "301026"
+    ]
+  }
+}

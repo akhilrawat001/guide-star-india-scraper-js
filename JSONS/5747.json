@@ -1,0 +1,37 @@
+{
+  "contacts": [
+    {
+      "name": "Vimala Ramakrishnan",
+      "email": "vimalaram@gmail.com",
+      "designation": "Chief Functionary/secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5747",
+  "name": "Jaishankar Memorial Centre",
+  "primaryEmail": "vimalaram@gmail.com",
+  "telephone": [
+    "911164784300",
+    "911164784300"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "\"Darshan\", Plot 5, Sarita Vihar Institutional Area,",
+      "Sarita Vihar",
+      "South Delhi",
+      "Delhi",
+      "110076"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "Darshan, Plot 5, Sarita Vihar Institutional Area,",
+      "Sarita Vihar",
+      "South Delhi",
+      "Delhi",
+      "110076"
+    ]
+  }
+}

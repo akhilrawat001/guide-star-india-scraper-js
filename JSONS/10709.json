@@ -1,0 +1,45 @@
+{
+  "contacts": [
+    {
+      "name": "Charudatta Mhasde",
+      "email": "",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10709",
+  "name": "MANAVATAVADI BAHUUDDESHIYA SANSTHA",
+  "primaryEmail": "manavatavadisanstha@gmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "918888837478"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "F3 Uravashi Housing Society Gorakshangar Rto Corner Meri",
+      "Nashik",
+      "Maharashtra",
+      "422004"
+    ]
+  },
+  "briefDescription": "Manavatavadi Bahu-uddeshiya Sanstha Nashik, Is registered as Trust and Society with  details as Reg Number: - F-14002 (Nashik) Date Of Registration 28-09-2012 (Bombay Public Trust Act 1950) and  Reg Number:- Maharashtra- 1437 (Nashik) Date of Registration 23-07-2012 (Society act 1860) as Not For Profit Entity.",
+  "yearOfEstablishment": "2012",
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "F3 Uravashi Housing Society, Gorakshnagar",
+      "RTO Corner Meri Nashik",
+      "Nashik",
+      "Maharashtra",
+      "422004"
+    ]
+  }
+}

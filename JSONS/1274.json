@@ -1,0 +1,40 @@
+{
+  "contacts": [
+    {
+      "name": "K.Venkataramanan",
+      "email": "bommyyashica@gmail.com",
+      "designation": "Principal",
+      "mobile": []
+    },
+    {
+      "name": "K.Venkataramanan",
+      "email": "bommyyashica@gmail.com",
+      "designation": "Principal",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1274",
+  "name": "Ritham Charitable Trust",
+  "primaryEmail": "rithamschool@yahoo.co.in",
+  "website": "www.rithamschool.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "914563226040",
+    "914563226040"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "391, Dharmaraja Big street, Opposite to Periya Chavadi,",
+      "Periya kadai Bazar,",
+      "Rajapalayam",
+      "Virudhunagar",
+      "Tamil Nadu",
+      "626117"
+    ]
+  },
+  "briefDescription": "Our Ritham charitable trust organization was started on 04.02.2004 for the purpose of helping the mentally retarded chiidren.We teach activities of daily life, good habits, physiotherapy, speech therapy,Special education, games and yoga for our students.",
+  "yearOfEstablishment": "2005"
+}

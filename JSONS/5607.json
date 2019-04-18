@@ -1,0 +1,36 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5607",
+  "name": "Annapoorna Charitable Trust",
+  "primaryEmail": "act1103@yahoo.co.in",
+  "website": "http://www.anchart.org/",
+  "organisationType": [
+    "Direct Service",
+    "Grant-making",
+    "Support"
+  ],
+  "telephone": [
+    "919845131944",
+    "918023241014"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "#162, ManganaHalli Cross, Ullal Main Road",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560056"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "#13, Mico Layout, Attiguppe, Vijayanagar 2nd Stage",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560040"
+    ]
+  }
+}

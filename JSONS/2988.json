@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Bijendra Kumar",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2988",
+  "name": "SAHARA BHARTI FOUNDATION OF DELHI",
+  "primaryEmail": "saharabharti@rediffmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919971981438"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "531",
+      "STREET No. 13, NEAR WATER TANK",
+      "VILLAGE MANDOLI",
+      "North East Delhi",
+      "Delhi",
+      "110093"
+    ]
+  }
+}

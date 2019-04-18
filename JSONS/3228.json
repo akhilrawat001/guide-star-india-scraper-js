@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "Saranya",
+      "email": "readsaundipatty@gmail.com",
+      "designation": "Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3228",
+  "name": "Rural Education Awareness and Development Society",
+  "primaryEmail": "readsaundipatty@gmail.com",
+  "telephone": [
+    "914546244447",
+    "919842195092"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "5-1/1145",
+      "Mukunthan Nadar Street",
+      "Aundipatty",
+      "Theni",
+      "Tamil Nadu",
+      "625531"
+    ]
+  }
+}

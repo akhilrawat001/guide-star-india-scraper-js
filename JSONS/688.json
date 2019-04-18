@@ -1,0 +1,71 @@
+{
+  "contacts": [
+    {
+      "name": "Iqbal Baig",
+      "email": "iqbalsamerth@gmail.com",
+      "designation": "Programme Manager",
+      "mobile": [
+        "91-771-4025628",
+        "91-9425508620"
+      ]
+    },
+    {
+      "name": "Iqbal Baig",
+      "email": "iqbalsamerth@gmail.com",
+      "designation": "Programme Manager",
+      "mobile": [
+        "91-771-4025628",
+        "91-9425508620"
+      ]
+    },
+    {
+      "name": "Iqbal Baig",
+      "email": "iqbalsamerth@gmail.com",
+      "designation": "Programme Manager",
+      "mobile": [
+        "91-771-4025628",
+        "91-9425508620"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=688",
+  "name": "Samerth Charitable Trust",
+  "primaryEmail": "samerthtrust1992@gmail.com",
+  "website": "www.samerth.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "917926825731",
+    "918905709638",
+    "917926829004",
+    "919825465731"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "Q - 402, Shrinand Nagar",
+      "Part - 2",
+      "Vejalpur",
+      "Ahmedabad",
+      "Gujarat",
+      "380051"
+    ]
+  },
+  "briefDescription": "Samerth has been running programmes in 3 geographies (Ahmedabad Urban, Rapar and Nakhatrana in Kutch and Kwardha, Sarguja, Mungeli, Mahasamund and Raipur districts of Chhattisgarh. In Urban areas the focus is on education in government schools helping develop child friendly pedagogy and working with school dropouts. Samerth also runs a daycare center for mentally challenged. In Kutch, the programmes are directed towards water resource management with the most marginalized communities. In chhattisgarh the tribals and a particularly vulnerable tribe groups are our target group. We reach out to them for basic entitlements, Improving quality of education, developing leadership, building disability peoples group, developing participatory ground water management and livelihoods. We also work in Urban sector on housing under Prime minister Housing Programme for financial inclusion,",
+  "yearOfEstablishment": "1992",
+  "regiseredAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "T/7, Century Appartments Near Shamme Burhan Society",
+      "Sarkhej Road",
+      "Juhapura",
+      "Ahmedabad",
+      "Gujarat",
+      "380055"
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7531",
+  "name": "Venus Foundation Trust",
+  "primaryEmail": "chandinipatel1301@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "8238559055"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "Sadhuvasvani Road,",
+      "Self Tax Society 1",
+      "Rajkot",
+      "Gujarat",
+      "360005"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "Sapphire B 407,Opposite Satyam Party Plot",
+      "Nanamahuva Main Road",
+      "Rajkot",
+      "Gujarat",
+      "360005"
+    ]
+  }
+}

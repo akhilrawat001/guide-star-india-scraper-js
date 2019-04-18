@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Mr.Praveen Pandey",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8052",
+  "name": "Environmental Studies and Rural Development Society",
+  "primaryEmail": "esards.org96@gmail.com",
+  "organisationType": [
+    "Intermediary",
+    "Support"
+  ],
+  "telephone": [
+    "919415168281"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "290,Katehri Bagh",
+      "Near Baudh Vihar Mandir Moh- Rajgarh",
+      "Lakhimpur-Kheri",
+      "Lakhimpur Kheri",
+      "Uttar Pradesh",
+      "262701"
+    ]
+  },
+  "briefDescription": "Environmental Studies and Rural Development Society is Located in Kheri, Uttar Pradesh.",
+  "yearOfEstablishment": "11"
+}

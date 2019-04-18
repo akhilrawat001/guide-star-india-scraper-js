@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Ms.Rashmi kaushik",
+      "email": "aissj@rediffmail.com",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5058",
+  "name": "All India Society For Social Justice",
+  "primaryEmail": "aissj@rediffmail.com",
+  "website": "WWW.AISSJ.ORG",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919266621050"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "G-83/204,VIJAY CHOWK,LAXMI NAGAR",
+      "NEAR WALIA NURSING HOME",
+      "DELHI",
+      "East Delhi",
+      "Delhi",
+      "110092"
+    ]
+  },
+  "briefDescription": "All India Society for Social Justice is not just a Ngo. It is the place where we come forward to work for the nation and its people. AISSJ is active in various parts of India like Bihar, Uttar Pradesh, Rajasthan, Assam, Haryana and Delhi as their head office. We have setup these regional offices so that we can study the problems coming out at those places and to take the suitable steps to avoid these problems.",
+  "yearOfEstablishment": "2003"
+}

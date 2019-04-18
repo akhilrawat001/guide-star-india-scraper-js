@@ -1,0 +1,38 @@
+{
+  "contacts": [
+    {
+      "name": "Anirudh Tagat",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "28575919"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8798",
+  "name": "Monk Prayogshala",
+  "primaryEmail": "lok@monkprayogshala.in",
+  "website": "http://www.monkprayogshala.in/",
+  "organisationType": [
+    "Direct Service",
+    "Intermediary",
+    "Network"
+  ],
+  "telephone": [
+    "912228575919",
+    "912228575919"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "4114, Oberoi Garden Estates, C Wing",
+      "4th Floor, Next to Chandivali Studios, Powai",
+      "Mumbai",
+      "Mumbai Suburban",
+      "Maharashtra",
+      "400072"
+    ]
+  },
+  "briefDescription": "We are a not-for-profit academic research institution (sec 8). We undertake projects covering the entire research life cycle from proposals to experimentation through to publishing and feedback integration. We follow rigorous processes in the development of our research proposals, while ensuring that we adhere to ethical considerations prescribed by international organisations. We respect the confidentiality of our participants, their activities and expect all research personnel to adhere to the same. We are an equal opportunity employer.",
+  "yearOfEstablishment": "2011"
+}

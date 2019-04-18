@@ -1,0 +1,54 @@
+{
+  "contacts": [
+    {
+      "name": "Dr Sushil Patel",
+      "email": "sushdr3@gmail.com",
+      "designation": "Project Manager",
+      "mobile": [
+        "91-76-27439977"
+      ]
+    },
+    {
+      "name": "Dr Sushil Patel",
+      "email": "sushdr3@gmail.com",
+      "designation": "Project Manager",
+      "mobile": [
+        "91-76-27439977"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5600",
+  "name": "All India Institute of Diabetes and Research",
+  "primaryEmail": "diabetes@swasthyaindia.com",
+  "website": "www.stopdiabetesindia.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "917927439977",
+    "917927439977"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "\"Swasthya\", Opp. Jaymangal BRTS Bus stop",
+      "132 ft Ring Road, Naranpura",
+      "Ahmedabad",
+      "Gujarat",
+      "380013"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "Swasthya, Opp. Jaymangal BRTS Bus stop",
+      "132 ft Ring Road, Naranpura",
+      "Ahmedabad",
+      "Gujarat",
+      "380013"
+    ]
+  }
+}

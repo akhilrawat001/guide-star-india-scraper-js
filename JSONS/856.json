@@ -1,0 +1,43 @@
+{
+  "contacts": [
+    {
+      "name": "John Joseph Silas",
+      "email": "john@hopeww.in",
+      "designation": "Program Director",
+      "mobile": [
+        "91-11-25291498",
+        "91-9958894079"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=856",
+  "name": "Hope Worldwide",
+  "primaryEmail": "hope_worldwide@hopeww.in",
+  "website": "www.hopeworldwide.org.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "911124319672",
+    "919650871234",
+    "911126515373"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "H-6/B, Hauz Khas",
+      "New Delhi",
+      "Delhi",
+      "110014"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "H-6/B, Hauz Khas",
+      "New Delhi",
+      "Delhi",
+      "110016"
+    ]
+  }
+}

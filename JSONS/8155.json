@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "BAJRANGI LAL",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8155",
+  "name": "MANAV KAVACH SANSTHAN",
+  "primaryEmail": "mks2011@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919956260562"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "Village Kanihar (Narharpur)",
+      "Post Hetapur",
+      "Bahadurpur Phoolpur",
+      "Allahabad",
+      "Uttar Pradesh",
+      "221505"
+    ]
+  }
+}

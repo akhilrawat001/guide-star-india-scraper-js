@@ -1,0 +1,38 @@
+{
+  "contacts": [
+    {
+      "name": "A Sivakami",
+      "email": "",
+      "designation": "Managing Trustee",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=675",
+  "name": "Social Agriculture Childrens Education and Women Development Trust",
+  "primaryEmail": "sacewdtrust283@rediffmail.com",
+  "website": "www.sacewd.org",
+  "telephone": [
+    "914322294596",
+    "919965485609"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "Mangankollai Patti, Surackadu",
+      "Post - Vadakadu Via",
+      "Pudukkottai",
+      "Tamil Nadu",
+      "622304"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "Indra Nagar, Mettupatty",
+      "Thirukattalai Via",
+      "Pudukkottai",
+      "Tamil Nadu",
+      "614302"
+    ]
+  }
+}

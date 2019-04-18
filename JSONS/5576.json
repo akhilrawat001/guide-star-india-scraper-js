@@ -1,0 +1,35 @@
+{
+  "contacts": [
+    {
+      "name": "Shoury Reddy",
+      "email": "director@balavikasa.org",
+      "designation": "Executive Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5576",
+  "name": "Bala Vikasa Social Service Soceity",
+  "primaryEmail": "balavikasa@balavikasa.org",
+  "website": "http://www.balavikasa.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network"
+  ],
+  "telephone": [
+    "919849165890",
+    "918702459287"
+  ],
+  "mainAddrress": {
+    "state": "Telangana",
+    "address": [
+      "1-1-867, Siddharthanagar, NIT Post",
+      "Kazipet",
+      "Warangal (Urban)",
+      "Telangana",
+      "506004"
+    ]
+  },
+  "briefDescription": "Bala Vikasa is a registered non-profit, secular, voluntary community development organization. We are one of the most impactful and innovative non-profits in South India. We have reached approximately 7000 villages in Andhra Pradesh and Telangana benefitting millions of rural poor through our different community driven development programs in the spheres of women's empowerment, water and sanitation, food security and education.We organize regular exposure/capacity building programs in which hundreds of national NGOs and representatives from 41 countries have participated.",
+  "yearOfEstablishment": "1991"
+}

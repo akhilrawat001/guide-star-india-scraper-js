@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "John K Thirunavukkarasu",
+      "email": "rosetrust2007@gmail.com",
+      "designation": "Managing Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6870",
+  "name": "RURAL ORGANISATION FOR SOCIAL AND EDUCATION TRUST (ROSE TRUST)",
+  "primaryEmail": "rosetrust2007@gmail.com",
+  "website": "Nil",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919345487870"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "46/A,Jubilee Road,",
+      "Opp to Pallivasal,",
+      "Kumar silks Building,Jayamkondam",
+      "Ariyalur",
+      "Tamil Nadu",
+      "621802"
+    ]
+  }
+}

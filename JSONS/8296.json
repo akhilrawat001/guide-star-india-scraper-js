@@ -1,0 +1,42 @@
+{
+  "contacts": [
+    {
+      "name": "Bhagirathi Pradhan",
+      "email": "bhagirathi@nhrdi.org",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8296",
+  "name": "National Human Rural Development Institute (N.H.R.D.I)",
+  "primaryEmail": "bhagirathi@nhrdi.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "916742462578",
+    "916742462578"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "AT/PO: BALIPATNA",
+      "VIA-BHUBANESWAR,",
+      "DIST-KHURDA",
+      "Khordha",
+      "Odisha",
+      "752102"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Odisha",
+    "address": [
+      "VIL/PO: RATILO",
+      "VIA: RENCH",
+      "PURI",
+      "Puri",
+      "Odisha",
+      "753114"
+    ]
+  }
+}

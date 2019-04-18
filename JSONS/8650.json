@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "SWADESH KUMAR RATH",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8650",
+  "name": "Janhit",
+  "primaryEmail": "janhitngr@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919438424546"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "4/2-Debottar Colony,",
+      "P.O./Distt.-NAYAGARH,",
+      "Nayagarh",
+      "Odisha",
+      "752069"
+    ]
+  }
+}

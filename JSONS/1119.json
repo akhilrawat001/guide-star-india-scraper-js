@@ -1,0 +1,26 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1119",
+  "name": "Hope Trust",
+  "primaryEmail": "info@hopetrustindia.com",
+  "website": "www.hopetrustindia.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "914023302230",
+    "914023396339",
+    "914023305386",
+    "919849069609"
+  ],
+  "mainAddrress": {
+    "state": "Telangana",
+    "address": [
+      "175  Road No. 12",
+      "Banjara Hills",
+      "Hyderabad",
+      "Telangana",
+      "500034"
+    ]
+  }
+}

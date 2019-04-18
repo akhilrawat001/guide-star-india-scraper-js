@@ -1,0 +1,27 @@
+{
+  "contacts": [
+    {
+      "name": "Mathuresh Joshi",
+      "email": "navis64@yahoo.com",
+      "designation": "Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2848",
+  "name": "Nand Lal Samdhaniya Lok Kalyan Sansthan",
+  "primaryEmail": "navis64@yahoo.com",
+  "telephone": [
+    "917442386491",
+    "917442386491"
+  ],
+  "mainAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "74-Bundi Ka Chowk",
+      "Saraikaisthan Patanpole",
+      "Kota",
+      "Rajasthan",
+      "324006"
+    ]
+  }
+}

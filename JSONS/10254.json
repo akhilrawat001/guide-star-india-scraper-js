@@ -1,0 +1,45 @@
+{
+  "contacts": [
+    {
+      "name": "Amal Mohan",
+      "email": "amal.mohan@riseschool.net.in",
+      "designation": "COO",
+      "mobile": [
+        "91-8129530737"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10254",
+  "name": "RISE INDIA TRUST",
+  "primaryEmail": "admin@riseschool.net.in",
+  "website": "http://www.riseschool.net.in/",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "914259253693"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "RISE India Trust",
+      "Samiyandipudur, Thimmanguthu PO",
+      "Pollachi",
+      "Coimbatore",
+      "Tamil Nadu",
+      "642005"
+    ]
+  },
+  "briefDescription": "Rise India Trust is located in Coimbatore, Tamil Nadu.",
+  "yearOfEstablishment": "2002",
+  "regiseredAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "No. 41, Jayaram Nagar, Teacher Colony",
+      "Tiruvanmiyur",
+      "Chennai",
+      "Tamil Nadu",
+      "600041"
+    ]
+  }
+}

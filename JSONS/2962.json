@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "Subodh Kumar Ravidas",
+      "email": "djks_pawapuri@yahoo.com",
+      "designation": "Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2962",
+  "name": "Deep Jyoti Kalyan Sansthan",
+  "primaryEmail": "djks_pawapuri@yahoo.com",
+  "telephone": [
+    "916112255849",
+    "916112255849"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "VILL.+P.O.-NANAND",
+      "VIA-PAWAPURI",
+      "BIHAR SHARIF",
+      "Nalanda",
+      "Bihar",
+      "803126"
+    ]
+  }
+}

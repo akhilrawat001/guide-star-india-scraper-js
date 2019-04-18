@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "Manas Kumar Maji",
+      "email": "bjksamity@yahoo.in",
+      "designation": "Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2835",
+  "name": "Bhateghori Jankalyan Samity",
+  "primaryEmail": "bjksamity@yahoo.in",
+  "telephone": [
+    "913326618410",
+    "913326618410"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Vill-Bhateghori,",
+      "PO-Thalia,",
+      "Joypur",
+      "Howrah",
+      "West Bengal",
+      "711401"
+    ]
+  }
+}

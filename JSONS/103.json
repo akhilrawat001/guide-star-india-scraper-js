@@ -1,0 +1,26 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=103",
+  "name": "Shraddha Charitable Trust",
+  "primaryEmail": "shraddha@hathway.com",
+  "website": "www.shraddhamumbai.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "912223513751",
+    "912223524463",
+    "919820904079",
+    "912223513735"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "14/19, Mahalaxmi Municipal School Bldg",
+      "3rd Floor, Bhulabhai Desai Road, Next to Shobha Restaurant",
+      "Mumbai",
+      "Maharashtra",
+      "400026"
+    ]
+  }
+}

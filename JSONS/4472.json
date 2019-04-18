@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Dr. Vinod Ganpatrao Gajghate",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4472",
+  "name": "Ekatmata Samajik Shikshan Mandal",
+  "primaryEmail": "dr.vggajghate@gmail.com",
+  "website": "--",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919370276826",
+    "919370276826"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "26, Madhur Enclave, Shramjivinagar, Manewada Raod, Nagpur-440027 MS, India",
+      "Care of Madhur Integreted Rehabilitation Center for Addicts",
+      "Nagpur",
+      "Maharashtra",
+      "440027"
+    ]
+  },
+  "briefDescription": "Ekatmata Samajik Shikshan Mandal is located in Maharashtra",
+  "yearOfEstablishment": "1998"
+}

@@ -1,0 +1,34 @@
+{
+  "contacts": [
+    {
+      "name": "Sushil Haldar",
+      "email": "hamiltonwelfaresociety@gmail.com",
+      "designation": "President",
+      "mobile": []
+    },
+    {
+      "name": "Sushil Haldar",
+      "email": "hamiltonwelfaresociety@gmail.com",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2873",
+  "name": "Sundarban Hamilton Welfare Society",
+  "primaryEmail": "hamiltonwelfaresociety@gmail.com",
+  "telephone": [
+    "913218261461",
+    "913218261461"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Vill- sahebpur",
+      "PO- Champahati, PS & Block",
+      "Soranpur",
+      "South 24 Parganas",
+      "West Bengal",
+      "743330"
+    ]
+  }
+}

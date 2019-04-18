@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Kandhare B.M",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7993",
+  "name": "SHANTI BAHUUDDESHIYA SEVABHAVI SANSTHA",
+  "primaryEmail": "kandharen1976@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919657250540"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Goinwad Kiran",
+      "Pandurang Nagar",
+      "Nanded",
+      "Maharashtra",
+      "431605"
+    ]
+  }
+}

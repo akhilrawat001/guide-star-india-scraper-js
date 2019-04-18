@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "GOURANGA CHARAN SAHOO",
+      "email": "sdmc2004@gmail.com",
+      "designation": "SECRETARY",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8597",
+  "name": "SOCIAL DISASTER MITIGATION CENTRE (SDMC)",
+  "primaryEmail": "sdmc2004@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919338577094"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "AT/PO- JAMKUNDA",
+      "PS- BALIAPAL",
+      "Baleswar",
+      "Odisha",
+      "756026"
+    ]
+  }
+}

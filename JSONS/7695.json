@@ -1,0 +1,53 @@
+{
+  "contacts": [
+    {
+      "name": "Krishnamurti Singh",
+      "email": "",
+      "designation": "Executive Director",
+      "mobile": [
+        "91-9810492420"
+      ]
+    },
+    {
+      "name": "Krishnamurti Singh",
+      "email": "",
+      "designation": "Executive Director",
+      "mobile": [
+        "91-9810492420"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7695",
+  "name": "Centre for Social Responsibility and Leadership",
+  "primaryEmail": "kmurty73@gmail.com",
+  "website": "http://www.csrl.in",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "911122732662",
+    "919810492420"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "B-42, Aditi, Plot No. 16 A",
+      "I.P.Extn. Patparganj",
+      "New Delhi",
+      "Delhi",
+      "110092"
+    ]
+  },
+  "briefDescription": "Centre for Social Responsibility and Leadership, a civil society was established in 2008 by a group of social scientists, bureaucrats, academicians and experts from general management, health and legal fraternity. The objective of society is to create excellence in growing horizon of CSR by   promoting sense of individual responsibility and create leadership qualities among youth. CSRL has taken initiative of building strong nation through execution of strategically and systematically designed various activities viz educational projects (Abhayanand Super 30), knowledge based activism and arranging symposiums on relevant CSR related issues.",
+  "yearOfEstablishment": "2008",
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "B-95, Manavsthali Appt",
+      "Vasundhara Enclave",
+      "New Delhi",
+      "Delhi",
+      "110096"
+    ]
+  }
+}

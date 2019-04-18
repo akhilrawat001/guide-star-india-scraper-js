@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Bhavna Sharma",
+      "email": "udkjs.kota@gmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3406",
+  "name": "UJJAWAL DISHAKALP JANKALYAN SANSTHA",
+  "primaryEmail": "udkjs.kota@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918058487526"
+  ],
+  "mainAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "GALI NO.- 5,H.NO.-282,SHYAM NAGAR, RAWATBHATTA ROAD",
+      "NEAR OF MURGI FARM",
+      "KOTA",
+      "Kota",
+      "Rajasthan",
+      "070809"
+    ]
+  }
+}

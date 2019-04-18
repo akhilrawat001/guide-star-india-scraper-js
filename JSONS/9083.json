@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Vikram Moyal",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9083",
+  "name": "NARBADA SOCIAL AND EDUCATIONAL SOCIETY",
+  "primaryEmail": "nses.jodhpur@gmail.com",
+  "website": "13 - MOYAL VILLA, 'B' ROAD",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919982212299"
+  ],
+  "mainAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "1st Floor Moyal Villa, Saran Nagar Banar Road",
+      "Jodhpur",
+      "Rajasthan",
+      "342010"
+    ]
+  },
+  "briefDescription": "Narbada Social and Educational Society is located in Jodhpur, Rajasthan.",
+  "yearOfEstablishment": "2012"
+}

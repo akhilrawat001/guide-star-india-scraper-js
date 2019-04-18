@@ -1,0 +1,42 @@
+{
+  "contacts": [
+    {
+      "name": "Bhabesh Kar",
+      "email": "humanity_decency@yahoo.com",
+      "designation": "Programme Liasoning Officer",
+      "mobile": [
+        "91-9437794254"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1890",
+  "name": "Humanity and Decency International",
+  "primaryEmail": "humanity_decency@yahoo.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network"
+  ],
+  "telephone": [
+    "919437794254"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "Brajamohanpur",
+      "Post- Chacradharpur ,Via-Harichandanpur",
+      "Kendujhar",
+      "Odisha",
+      "758028"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Odisha",
+    "address": [
+      "Vill/Post-Jaganathpur",
+      "Bhadrak",
+      "Odisha",
+      "756100"
+    ]
+  }
+}

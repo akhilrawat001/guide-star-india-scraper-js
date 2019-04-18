@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Kunika Sood",
+      "email": "kunika.sood@telradsol.com",
+      "designation": "Chief Functionary",
+      "mobile": [
+        "91-8179190747"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4116",
+  "name": "TELRAD FOUNDATION",
+  "primaryEmail": "kunika.sood@telradsol.com",
+  "website": "www.teleradfoundation.org",
+  "telephone": [
+    "918040187500",
+    "918179190747"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "Care of Teleradiology Solutions Pvt Ltd,Plot No. 7G, Council Khata,",
+      "180/63,Vishveshwaraiah Industrial Area,Whitefield,",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560048"
+    ]
+  }
+}

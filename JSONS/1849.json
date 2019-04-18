@@ -1,0 +1,54 @@
+{
+  "contacts": [
+    {
+      "name": "Dr.Ashwin Brhambhatt",
+      "email": "ashvinb4@gmail.com",
+      "designation": "M.D (Education)",
+      "mobile": [
+        "91-9429032638"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1849",
+  "name": "Adijati Gramin Vikas Trust",
+  "primaryEmail": "rbparekh09@gmail.com",
+  "website": "www.adijatigvtrust.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "912772228696",
+    "919429032638",
+    "919173441041",
+    "919898200851"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "11.Eaklingjisocity",
+      "Nr.S.T.Workshop.Motipura,",
+      "Himatnagar",
+      "Sabarkantha",
+      "Gujarat",
+      "383001"
+    ]
+  },
+  "briefDescription": "The Adijati gramin vikas trust has been for development for Adijati tribes people working in Social.IT computer coaching class,Old age Home,HIV AIDS Awareness Programme, Economical.Agriculture.employment.Health. Education.Welfare.activities of 165 village in Sabarkantha.Bnaskantha.district of Guarat.and Udaipur district of Rajasthan  vist.over . web - www.adijatigvtrust.org",
+  "yearOfEstablishment": "1998",
+  "regiseredAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "ADGVT College,D.D.Thakkar arts,  & K.J.Patel Commerce College,Khedbrahma",
+      "College Road,Khedbrhama",
+      "Khedbrahma",
+      "Sabarkantha",
+      "Gujarat",
+      "383255"
+    ]
+  }
+}

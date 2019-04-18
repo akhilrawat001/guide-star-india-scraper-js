@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "AMIT KUMAR",
+      "email": "mercywelfarefoundation@gmail.com",
+      "designation": "Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3307",
+  "name": "MERCY WELFARE FOUNDATION",
+  "primaryEmail": "mercywelfarefoundation@gmail.com",
+  "website": "http://www.mercywelfare.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918574739707"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "G-1546",
+      "AWAS VIKAS -1 KALYANPUR",
+      "KANPUR",
+      "Kanpur Nagar",
+      "Uttar Pradesh",
+      "208017"
+    ]
+  }
+}

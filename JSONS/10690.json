@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "name": "Priyanka Kaul Lakdawala",
+      "email": "",
+      "designation": "Trustee",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10690",
+  "name": "CENTRE FOR OBESITY AND DIABETES SUPPORT",
+  "primaryEmail": "dm@thedigestive.in",
+  "website": "www.thedigestive.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919167224113"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "L 301, Trade View, Oasis City, Gate No 4",
+      "Pandurang Budhkar Marg , Worli",
+      "Mumbai",
+      "Maharashtra",
+      "400013"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "No L301, Trade View, Oasis City, P.B. Marg, Worli, Mumbai - 400013",
+      "Mumbai",
+      "Maharashtra",
+      "400013"
+    ]
+  }
+}

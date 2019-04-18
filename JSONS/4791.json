@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Bimbadhar Senapati",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4791",
+  "name": "Development Initiative (DI)",
+  "primaryEmail": "di.admn@gmail.com",
+  "website": "http://www.diorissa.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919937845200"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "Basukera, Sakhigopal",
+      "Puri",
+      "Odisha",
+      "752014"
+    ]
+  }
+}

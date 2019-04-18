@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Nikhil Kumar Sing",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7068",
+  "name": "UDAAN WELFARE FOUNDATION",
+  "primaryEmail": "udaanwelfare2015@gmail.com",
+  "website": "www.udaanwelfare.org.in",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "917722942799",
+    "+917677999922"
+  ],
+  "mainAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "Dawnadag, Ranka",
+      "Ranka",
+      "Garhwa",
+      "Jharkhand",
+      "822125"
+    ]
+  }
+}

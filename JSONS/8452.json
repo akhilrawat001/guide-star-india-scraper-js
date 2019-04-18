@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Arbind Kachhap",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8452",
+  "name": "SAMRIDH NAV BHARAT",
+  "primaryEmail": "snbngo@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919234744330"
+  ],
+  "mainAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "3-B",
+      "Amarnath Apartment",
+      "Kailash Babu Street Main Road",
+      "Ranchi",
+      "Jharkhand",
+      "834001"
+    ]
+  }
+}

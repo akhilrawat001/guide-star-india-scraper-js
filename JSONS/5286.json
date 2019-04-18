@@ -1,0 +1,34 @@
+{
+  "contacts": [
+    {
+      "name": "DATTA BHUJBAL",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "240383",
+        "8698689215"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5286",
+  "name": "BELESHWAR SOCIAL WELFARE SOCIETY TADBORGAON",
+  "primaryEmail": "beleshwar_bssp@rediffmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning"
+  ],
+  "telephone": [
+    "912452240383",
+    "912452240383"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "BANK COLANY DARGA RAOD",
+      "SALASAR HANUMAN MANDIR",
+      "PARBHANI",
+      "Parbhani",
+      "Maharashtra",
+      "431401"
+    ]
+  }
+}

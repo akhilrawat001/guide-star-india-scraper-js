@@ -1,0 +1,27 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=937",
+  "name": "Sambhali Trust",
+  "primaryEmail": "info@sambhali-trust.org",
+  "website": "http://sambhali-trust.org",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919828089293",
+    "912912512361"
+  ],
+  "mainAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "1 Setrawa House, Old Public Park Lane",
+      "Near K.N.College for Women, Raikabagh",
+      "Jodhpur",
+      "Rajasthan",
+      "342001"
+    ]
+  },
+  "briefDescription": "Sambhali Trust is a non-profit, grass-roots womens empowerment organization in Jodhpur, Rajasthan. We work almost exclusively with Dalit women and girls, teaching our members how to become independent and self-sustained through education and vocational training.",
+  "yearOfEstablishment": "2007"
+}

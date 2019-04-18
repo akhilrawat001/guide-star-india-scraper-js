@@ -1,0 +1,34 @@
+{
+  "contacts": [
+    {
+      "name": "Gainimlung Kamei",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "267740"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3322",
+  "name": "Namrijinang Educational Ministry",
+  "primaryEmail": "nem_tml@yahoo.com",
+  "website": "www.nemtml.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "913877267740",
+    "913877267740"
+  ],
+  "mainAddrress": {
+    "state": "Manipur",
+    "address": [
+      "Dimthanlong",
+      "Tamenglong - 3",
+      "P.O. Tamenglong",
+      "Tamenglong",
+      "Manipur",
+      "795141"
+    ]
+  }
+}

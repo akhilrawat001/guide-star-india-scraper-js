@@ -1,0 +1,27 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7670",
+  "name": "MAITRI",
+  "primaryEmail": "maitri_ramgarh@rediff.com",
+  "website": "www.maitringo.org",
+  "organisationType": [
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919031079796",
+    "918593947919"
+  ],
+  "mainAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "BRINDAVAN HOSPITAL CAMPUS, RANCHI ROAD,",
+      "PO- MARAR,",
+      "RAMGARH",
+      "Ramgarh",
+      "Jharkhand",
+      "829117"
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "Shashi Kumar",
+      "email": "srishakthi@indiatimes.com",
+      "designation": "Secretary",
+      "mobile": [
+        "91-8192-240004",
+        "91-9986408105"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=132",
+  "name": "Sri Shakthi Association",
+  "primaryEmail": "shakthi1992@yahoo.co.in",
+  "website": "www.srishakthi.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918192240003",
+    "918192240004",
+    "919986408105",
+    "918192240004"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "Guttur Colony",
+      "Harihar",
+      "Davangere",
+      "Karnataka",
+      "577601"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "contacts": [
+    {
+      "name": "Dipak Kumar Singh",
+      "email": "dipaksingh011@gmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2879",
+  "name": "Nyaya Manch (NGO)",
+  "primaryEmail": "dipaksingh011@gmail.com",
+  "telephone": [
+    "911164143318"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "352 E/11A",
+      "Munirka Village",
+      "New Delhi",
+      "Delhi",
+      "110067"
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "D P Bishnoi",
+      "email": "sgjss20@gmail.com",
+      "designation": "Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4637",
+  "name": "Shri Guru Jambheshwar Seva Sansthan",
+  "primaryEmail": "sgjss20@gmail.com",
+  "telephone": [
+    "911412354581",
+    "911412354581"
+  ],
+  "mainAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "26,Krishna Colony",
+      "Jharkhand Mod",
+      "Khatipura",
+      "Jaipur",
+      "Rajasthan",
+      "302012"
+    ]
+  }
+}

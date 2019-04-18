@@ -1,0 +1,35 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1350",
+  "name": "Smt. Putunnadevi Rajnarayan Bharati Charitable  Trust",
+  "primaryEmail": "prbcharitabletrust@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "912228183939",
+    "919324493939"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Shree Sai, Shop No. 1, Clinic",
+      "Jyotirling Niwas, Kasturi Tower, Hanuman Nagar, Phatak Road",
+      "Bhayander East",
+      "Thane",
+      "Maharashtra",
+      "401105"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "263, Arun Niwas,",
+      "Narsipada, Akurli Road, Kandivali East",
+      "Mumbai",
+      "Mumbai Suburban",
+      "Maharashtra",
+      "400101"
+    ]
+  }
+}

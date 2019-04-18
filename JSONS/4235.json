@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Bal Ram Bhama",
+      "email": "sec.mks89@yahoo.com",
+      "designation": "Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4235",
+  "name": "Manav Kalyan Samiti",
+  "primaryEmail": "sec.mks89@yahoo.com",
+  "website": "--------------------------",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919413230284"
+  ],
+  "mainAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "Suratgarh Road,",
+      "Behind Civil Hospital",
+      "Sri Ganganagar",
+      "Rajasthan",
+      "335001"
+    ]
+  }
+}

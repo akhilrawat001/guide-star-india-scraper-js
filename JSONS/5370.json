@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "name": "ARPAN KUMAR",
+      "email": "mdayasociety@gmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5370",
+  "name": "DAYA SOCIETY",
+  "primaryEmail": "mdayasociety@gmail.com",
+  "website": "www.dayasociety.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919431418843"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "268A, Madhopur",
+      "PO- Basudeopur",
+      "Munger",
+      "Bihar",
+      "811202"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Bihar",
+    "address": [
+      "not provided",
+      "Munger",
+      "Bihar",
+      "811202"
+    ]
+  }
+}

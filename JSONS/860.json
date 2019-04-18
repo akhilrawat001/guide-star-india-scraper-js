@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "L Wolring",
+      "email": "",
+      "designation": "Chairman",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=860",
+  "name": "Anallon Christian Development Committee",
+  "primaryEmail": "wolring_acdc@yahoo.com",
+  "organisationType": [
+    "Intermediary",
+    "Support"
+  ],
+  "telephone": [
+    "919402262258",
+    "919436846559"
+  ],
+  "mainAddrress": {
+    "state": "Manipur",
+    "address": [
+      "Anallon Christian Institute Campus, Lambung",
+      "P.O. Box - 34",
+      "Chandel",
+      "Manipur",
+      "795127"
+    ]
+  },
+  "briefDescription": "Literacy promotion and educational development programme. Community development programmes. Programmes on women's empowerment. Agricultural development programmes. Youth development programme. Promotion of democracy. Community-based health care programme. Eye care programme. Programmes on HIV/AIDs.",
+  "yearOfEstablishment": "1985"
+}

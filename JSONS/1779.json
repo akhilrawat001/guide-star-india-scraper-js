@@ -1,0 +1,34 @@
+{
+  "contacts": [
+    {
+      "name": "Veerabadregowda",
+      "email": "mykapsiwmp@gmail.com",
+      "designation": "Office In-charge",
+      "mobile": []
+    },
+    {
+      "name": "Veerabadregowda",
+      "email": "mykapsiwmp@gmail.com",
+      "designation": "Office In-charge",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1779",
+  "name": "Belaku Community Managed Resource Centre",
+  "primaryEmail": "mykapsiwmp@gmail.com",
+  "telephone": [
+    "918228268468",
+    "918228268468"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "Beechanahally",
+      "H.D.Kote ,",
+      "Mysore",
+      "Mysuru (Mysore)",
+      "Karnataka",
+      "573211"
+    ]
+  }
+}

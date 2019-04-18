@@ -1,0 +1,40 @@
+{
+  "contacts": [
+    {
+      "name": "Birendra Kumar Soni",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "28526851"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8028",
+  "name": "National Coalition for Education",
+  "primaryEmail": "info@nceindia.org",
+  "website": "http://nceindia.org.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "911128526851",
+    "911128526851"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "Shikshak Bhawan",
+      "41 Institutional Area, D-Block",
+      "Janakpuri",
+      "West Delhi",
+      "Delhi",
+      "110058"
+    ]
+  },
+  "briefDescription": "The mission of National Coalition for Education is to advocate the right to education with the participation of civil society stakeholders, as a justifiable right for every child on the basis of equal opportunity, gender equity, in a child friendly environment.NCE has members of 278 affiliate members across the country. This includes National, State and Grass roots level NGO’s. NCE is conglomeration of Teacher’s Union comprising All India Primary Teacher’s Federation (AIPTF) ,  AFTO, All India secondary Teacher’s Federations (AISTF), AICHHI  which include the member teacher’s across the state is around 3.9 millions. The Coalition works through mandate taken from the board of trustees.",
+  "yearOfEstablishment": "2010"
+}

@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Mr. Rb Rai",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6928",
+  "name": "People Society For Justice",
+  "primaryEmail": "peoplesocietyforjustice@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Grant-making",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919415017521"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "Vill &Po. Mohammadalla.",
+      "Mohammadalla",
+      "Azamgarh",
+      "Uttar Pradesh",
+      "276001"
+    ]
+  }
+}

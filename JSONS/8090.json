@@ -1,0 +1,36 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8090",
+  "name": "Narendra Gramin Vikas Sansthan",
+  "primaryEmail": "ngvsfzd@gmail.com",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "919415717615",
+    "915278240186"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "Near Reliance Tower,",
+      "Deokali Road",
+      "Faizabad",
+      "Uttar Pradesh",
+      "224001"
+    ]
+  },
+  "briefDescription": "Narendra Gramin Vikas Sansthan is Located in Faizabad, Uttar Pradesh.",
+  "yearOfEstablishment": "2002",
+  "regiseredAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "Shahpur Maniyari Patti, Asgwan",
+      "Chanha Churaha Bhiti",
+      "Ambedkar Nagar",
+      "Faizabad",
+      "Uttar Pradesh",
+      "224141"
+    ]
+  }
+}

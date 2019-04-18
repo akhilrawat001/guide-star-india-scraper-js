@@ -1,0 +1,29 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1799",
+  "name": "FACE (Federation of Association for Community Empowerment)",
+  "primaryEmail": "fcrtgtn@rediffmail.com",
+  "website": "http:www.facengo.webs.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "914369368289",
+    "914369368289",
+    "919442333503"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "Ana Runa Building",
+      "Sethu Road,",
+      "Vedaraniyam",
+      "Nagapattinam",
+      "Tamil Nadu",
+      "614810"
+    ]
+  }
+}

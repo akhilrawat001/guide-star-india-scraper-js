@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "N.Dhakshinamurthy",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3439",
+  "name": "SUDAR ACADEMY AND CHARITABLE TRUST",
+  "primaryEmail": "sudartrust@gmail.com",
+  "website": "www.sudartrust.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919943523888"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "458.,mariyamman koil street,",
+      "Thirucherai(post)Kumbakonam(Taluk)Thanjavur(District)",
+      "Thanjavur",
+      "Tamil Nadu",
+      "612605"
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "contacts": [
+    {
+      "name": "Percy Ghaswala",
+      "email": "contact@ghaswalafoundation.org",
+      "designation": "Trustee",
+      "mobile": [
+        "91-22-26415560",
+        "91-9820863931"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6456",
+  "name": "GHASWALA VISION FOUNDATION",
+  "primaryEmail": "percy@ghaswalafoundation.org",
+  "website": "www.ghaswalafoundation.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919820863931"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Care of Mr K M Dalal, Trustee, 1 Go-Nidhi,",
+      "53, Hill Road, Bandra (West)",
+      "Mumbai",
+      "Maharashtra",
+      "400050"
+    ]
+  },
+  "briefDescription": "We are a unique charitable trust registered in Mumbai since 2002 having our virtual office at www.ghaswalafoundation.org. Most of the details regarding the trust, trustees, patients, etc are available online. We network with NPOs, Insts, corporate, hospitals, and Drs to restore vision to patients belonging to the under privileged sections of society anywhere in India. We follow a stringent process of due diligence to ensure that aid (surgery, medication, etc) is provided to the poor and needy thereby turning them into socially responsible/employable citizens who ultimately become a part of social sustainability and inclusive growth",
+  "yearOfEstablishment": "2002",
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "c/o Mr K M Dalal, Trustee, 1 Go-Nidhi,",
+      "53, Hill Road, Bandra (West)",
+      "Mumbai",
+      "Maharashtra",
+      "400050"
+    ]
+  }
+}

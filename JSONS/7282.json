@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Mr.Jamal Akber",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7282",
+  "name": "Prasar Kendra",
+  "primaryEmail": "jamalakber123@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919708133096"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "Shukla Road,Data Kambal Shah Mazar Chowk,",
+      "Sukla Road,",
+      "Muzaffarpur",
+      "Bihar",
+      "842001"
+    ]
+  }
+}

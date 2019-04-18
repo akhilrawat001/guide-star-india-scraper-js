@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "Praveen Vempadapu",
+      "email": "director@kidpower.org.in",
+      "designation": "Director",
+      "mobile": [
+        "0891 2525501"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=205",
+  "name": "Kidpower (A Welfare Society)",
+  "primaryEmail": "director@kidpower.org.in",
+  "website": "www.kidpower.org.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918912525501",
+    "918790231555"
+  ],
+  "mainAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "206, Sri Varshini Enclave I",
+      "D.No: 6-20-20/5, Behind: K.D.P.M. High School, East Point Colony",
+      "Visakhapatnam",
+      "Andhra Pradesh",
+      "530017",
+      "AP_TelBill_105.PDF"
+    ]
+  },
+  "briefDescription": "KIDPOWER India provides trainings in safety skills to children, teens and adults. The trainings teach how to stay safe, protect oneself and others and increase self confidence in any situation. Every year Kidpower provides safety training to more then 500 children. Kidpower has also launched comic books to reach more number of children and to create awareness on child safety.KIDPOWER also provides education scholarship for girl children and children with disability. Every year Kidpower also supports nearly 200 children through scholarships.",
+  "yearOfEstablishment": "2007"
+}

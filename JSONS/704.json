@@ -1,0 +1,35 @@
+{
+  "contacts": [
+    {
+      "name": "Indraprasad R Meshram",
+      "email": "",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=704",
+  "name": "Blue Flag Education Society",
+  "primaryEmail": "indraprasad.meshram@gmail.com",
+  "telephone": [
+    "917184276582",
+    "919763891298"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Care of I R Meshram, At - Petrol Pump (Thana)",
+      "Bhandara",
+      "Maharashtra",
+      "441906"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Dhangoan, Taluka. Tumsr",
+      "Bhandara",
+      "Maharashtra",
+      "441906"
+    ]
+  }
+}

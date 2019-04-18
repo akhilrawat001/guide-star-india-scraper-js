@@ -1,0 +1,45 @@
+{
+  "contacts": [
+    {
+      "name": "Akshatha",
+      "email": "akshatha@iad.org.in",
+      "designation": "PA to Director",
+      "mobile": [
+        "91-49-94230116"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=376",
+  "name": "Institute of Applied Dermatology",
+  "primaryEmail": "iadorg@satyam.net.in",
+  "website": "www.iad.org.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "914994230116",
+    "914994230116"
+  ],
+  "mainAddrress": {
+    "state": "Kerala",
+    "address": [
+      "Admn Office: Near New Bus Stand",
+      "Kotekani Road",
+      "Kasargod",
+      "Kasaragod",
+      "Kerala",
+      "671121"
+    ]
+  },
+  "briefDescription": "Institute of Applied Dermatology (IAD) is a non profit organization committed in providing effective care for skin-related diseases,which were hitherto be labelled as incurable or included in the list of neglected diseases. IAD was founded in 1999 by Dr.S.R.Narahari, a dermatologist, along with 9 other like –minded academicians.IAD is the pioneering organization that has developed a unique, integrated treatment protocol for Elephantiasis (Lymphatic Filariasis), with the collective effort of multi-disciplinary team of doctors from Allopathy, Ayurveda and Homoeopathy streams, and Yoga experts. Today, IAD also treats other diseases like Vitiligo, Psoriasis, Lichen Planus, Warts and non healing UlcersIAD’s key interventions include developing:(i)Evidence- based clinical treatment protocols for difficult- to- treat skin diseases like Lymphatic Filariasis, Vitiligo, Psoriasis and Lichen Planus(ii)Protocols to conduct systematic review in Ayurveda(iii)Vitiligo colour image analysis system in collaboration with Medical Intelligence & Language Engineering (MILE) Lab, Indian Institute of Science (IISC)The treatment protocol for Lymphatic Filariasis (known as Lymphoedema in medical language) is well developed; treatment for other diseases is at various stages of development.A WHO publication in 2010 named IAD as a lead Lymphatic clinic in the world along with Foldi’s Clinical in Germany and Dreyer’s in Brazil.IAD is based at Kasaragod, Kerala, in South India. Based on the success it has achieved, it has started two more treatment centres, at Alleppey in Kerala and Gulbarga in Karnataka.Why are these programmes unique?IAD’s programmes are unique because they attemt to give relief to those patients who could not be cured by any one system of medicine. The beneficial effect of therapies from Allopathy, Ayurveda, Homoeopathy and Yoga are combined together in a way that is useful and safe for the patients. The outcome following such an integrated treatment is evidence based.Global RecognitionIAD has gained international recognition and appreciation for its expertise in treating Lymphoedema using self- care, homoeopathy, non- surgical integrative treatment, International Lymphoedema Framework, London and International Society of Lymphology, Arizona gave their awards to IAD during International Congress.Now this integrated treatment is a ray of hope for the patients. IAD is recognized for its Excellence in Lymphoedema Practice by International Lymphoedema Framework London and as lead lymphodema centre in the world by a WHO publication.IAD is also developing integrated treatment protocol for Vitiligo, Psoriasis, Lichen Planus and other skin diseases.",
+  "yearOfEstablishment": "1999",
+  "regiseredAddrress": {
+    "state": "Kerala",
+    "address": [
+      "Nayaks Road",
+      "Kasaragod",
+      "Kerala",
+      "671121"
+    ]
+  }
+}

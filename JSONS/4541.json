@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Swapan Kumar Dey",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4541",
+  "name": "Su- Samadhan",
+  "primaryEmail": "susamadhan@yahoo.co.in",
+  "website": "Nil",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service"
+  ],
+  "telephone": [
+    "0339830083595"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "2 / 96 D,Rabindranagar, P.O. Parnasree,P,S, Parnasree, Kolkata.",
+      "Kolkata",
+      "West Bengal",
+      "700060"
+    ]
+  }
+}

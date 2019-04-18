@@ -1,0 +1,38 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6743",
+  "name": "SWASTH FOUNDATION",
+  "primaryEmail": "sundeep@swasth.org",
+  "website": "http://www.swasth.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "912266712705",
+    "912266712705"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "439, Mastermind-I",
+      "Royal Palms Estate, Aarey Colony, Goregaon East",
+      "Mumbai",
+      "Mumbai Suburban",
+      "Maharashtra",
+      "400065"
+    ]
+  },
+  "briefDescription": "We are a non-profit social enterprise operating a network of self-sustainable, just-around-the-corner primary health centers that provide affordable and high quality primary and preventive healthcare services to the low income population.We currently operate a network of 18 primary health centers in Mumbai slums serving a total population of 1.5 million people. We have served over 500,000 patient encounters with a recovery rate of above 90% and satisfaction rating of above 90%.We are looking to expand to 52 centers across Mumbai  and expand to atleast 2 more cities in the next 3 years",
+  "yearOfEstablishment": "2009",
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "615-616, Palms 2",
+      "Royal Palms Estate, Aarey Colony, Goregaon East",
+      "Mumbai",
+      "Mumbai Suburban",
+      "Maharashtra",
+      "400065"
+    ]
+  }
+}

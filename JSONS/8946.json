@@ -1,0 +1,41 @@
+{
+  "contacts": [
+    {
+      "name": "Tarik Anwar",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8946",
+  "name": "Kumbhira Green Rural Welfare Society",
+  "primaryEmail": "kgrw.society@gmail.com",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "919475237199"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Kumbhira,",
+      "P.O. Sabdal Pur",
+      "P.S. Baishnabnagar",
+      "Malda",
+      "West Bengal",
+      "732201"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Kumbhira",
+      "P.O. Sabdal Pur",
+      "P.S. Baishnabnagar",
+      "Malda",
+      "West Bengal",
+      "732201"
+    ]
+  }
+}

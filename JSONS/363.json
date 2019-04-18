@@ -1,0 +1,46 @@
+{
+  "contacts": [
+    {
+      "name": "Banshi Lal Meena",
+      "email": "gck_1989@yahoo.com",
+      "designation": "Accountant",
+      "mobile": []
+    },
+    {
+      "name": "Banshi Lal Meena",
+      "email": "gck_1989@yahoo.com",
+      "designation": "Accountant",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=363",
+  "name": "Gram Chetna Kendra",
+  "primaryEmail": "gck_1989@yahoo.com",
+  "website": "http://www.gck.org.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network"
+  ],
+  "telephone": [
+    "911424282234",
+    "911424282234"
+  ],
+  "mainAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "Kheda Milak via Renwal",
+      "Jaipur",
+      "Rajasthan",
+      "303603"
+    ]
+  },
+  "briefDescription": "GCK intend for unrelenting efforts for a catalytically initiation of people based development intervention to ensure just and equal opportunities, minimum basic essentials to all with dignified and quality of life for rural masses and to bring awareness among rural populace through democratic means so as to empower them and help them in gaining control over all factors that affect their individual life and community at large. Organization initiate a catalytic intervention that will encourage the rural population to take the advancement of their lives into their own hands through ensuring socio-economic self-reliance for the deprived and poverty stricken rural masses. Organization served 1, 15,358 population under five districts of Rajasthan",
+  "yearOfEstablishment": "1989",
+  "regiseredAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "Rajasthan"
+    ]
+  }
+}

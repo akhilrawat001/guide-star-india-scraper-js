@@ -1,0 +1,49 @@
+{
+  "contacts": [
+    {
+      "name": "Freya Walker",
+      "email": "freya@worldhealthpartners.org",
+      "designation": "PA to the President",
+      "mobile": [
+        "91-11-40757100"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=849",
+  "name": "World Health Partners",
+  "primaryEmail": "info@worldhealthpartners.org",
+  "website": "www.worldhealthpartners.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network"
+  ],
+  "telephone": [
+    "911166500700",
+    "911166500738"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "Building #  BB - 11 Greater Kailash Enclave II",
+      "Masjid Moth",
+      "New Delhi",
+      "South Delhi",
+      "Delhi",
+      "110048"
+    ]
+  },
+  "briefDescription": "WHP is a non-profit global organization committed to delivering Health & family planning services by harnessing private and non government sector resources",
+  "yearOfEstablishment": "2008",
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "B-57, 2nd Floor,",
+      "New Rajinder Nagar",
+      "New Delhi",
+      "Delhi",
+      "110060",
+      "AP_BankStat_762.PDF"
+    ]
+  }
+}

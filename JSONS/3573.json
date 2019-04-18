@@ -1,0 +1,42 @@
+{
+  "contacts": [
+    {
+      "name": "Dr Sandeep A.Sandbhor",
+      "email": "info@indrayani.org",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3573",
+  "name": "INDRAYANI MEDICAL FOUNDATION",
+  "primaryEmail": "drsandeepas@rediffmail.com",
+  "website": "www.indrayani.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919822869228"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Dr Sandeep A.Sandbhor",
+      "Dehu-Alandi Road Dehugaon",
+      "Tal- haveli , Dist -Pune",
+      "Pune",
+      "Maharashtra",
+      "412109"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Care of Dr Sandeep A.Sandbhor",
+      "Dehu-Alandi Road Dehugaon",
+      "Tal- haveli , Dist -Pune",
+      "Pune",
+      "Maharashtra",
+      "0"
+    ]
+  }
+}

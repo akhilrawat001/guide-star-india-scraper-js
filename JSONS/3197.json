@@ -1,0 +1,27 @@
+{
+  "contacts": [
+    {
+      "name": "Kafeel Ahmed",
+      "email": "",
+      "designation": "Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3197",
+  "name": "Muslim Maashra Taraqui Society",
+  "primaryEmail": "kafeelahmed29@sify.com",
+  "telephone": [
+    "917552731134",
+    "919303114670"
+  ],
+  "mainAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "House No: 793",
+      "Indira Nagar, Tila Jamalpur Road",
+      "Bhopal",
+      "Madhya Pradesh",
+      "462001"
+    ]
+  }
+}

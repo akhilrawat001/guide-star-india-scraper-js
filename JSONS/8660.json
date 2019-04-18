@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Chandrika Prasad Singh",
+      "email": "jan_jagrity2006@yahoo.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8660",
+  "name": "Jan Jagrity Sansthan",
+  "primaryEmail": "jan_jagrity2006@yahoo.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919973507572"
+  ],
+  "mainAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "Hanuman Mandir Road,",
+      "Jharudih,",
+      "Bekar Bandh",
+      "Dhanbad",
+      "Jharkhand",
+      "826001"
+    ]
+  }
+}

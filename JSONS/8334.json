@@ -1,0 +1,41 @@
+{
+  "contacts": [
+    {
+      "name": "KUMAR DEV RANJAN",
+      "email": "saral_ngo@yahoo.com",
+      "designation": "SECRETARY",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8334",
+  "name": "SARAL INTERNATIONAL",
+  "primaryEmail": "saral_ngo@yahoo.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919431168747"
+  ],
+  "mainAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "Care of:- MULTI-TECH I.T.I.",
+      "JORAPHTAK",
+      "DHANSAR",
+      "Dhanbad",
+      "Jharkhand",
+      "0"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "C/o:- MULTI-TECH I.T.I.",
+      "JORAPHTAK",
+      "DHANSAR",
+      "Dhanbad",
+      "Jharkhand",
+      "828106"
+    ]
+  }
+}

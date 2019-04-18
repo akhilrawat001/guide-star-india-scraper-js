@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "name": "DIPAK KHANNA",
+      "email": "dipak@servesamman.org",
+      "designation": "MANAGING TRUSTEE",
+      "mobile": [
+        "91-11-47155030",
+        "91-9350009916"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5173",
+  "name": "SERVE SAMMAN",
+  "primaryEmail": "dipak@servesamman.org",
+  "website": "www.servesamman.org",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "india",
+    "9310286664",
+    "911149055030",
+    "911147155030"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "M-65,",
+      "Greater Kailash Part-I",
+      "New Delhi",
+      "South Delhi",
+      "Delhi",
+      "110048"
+    ]
+  },
+  "briefDescription": "Serve Samman is a Delhi based NGO working in Uttrakahand & NCR in area of Vocational Training, Skill Development in computer Literacy & Empowering Women in Sewing/Tailoring and also Eye Camps for Free Cataract Surgeries",
+  "yearOfEstablishment": "2012"
+}

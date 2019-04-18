@@ -1,0 +1,38 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10797",
+  "name": "Try",
+  "primaryEmail": "utpaldutttry@gmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919386898565",
+    "916122270685"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "House No 255A, Patliputra Colony",
+      "Patna",
+      "Bihar",
+      "800013"
+    ]
+  },
+  "briefDescription": "Try is located in Patna, Bihar.",
+  "yearOfEstablishment": "2004",
+  "regiseredAddrress": {
+    "state": "Bihar",
+    "address": [
+      "Tilak Nagar",
+      "Road No 2",
+      "Rukunpura, Bailey road",
+      "Patna",
+      "Bihar",
+      "800014"
+    ]
+  }
+}

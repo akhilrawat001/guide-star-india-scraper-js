@@ -1,0 +1,42 @@
+{
+  "contacts": [
+    {
+      "name": "Mangala",
+      "email": "mangala@manavcharities.in",
+      "designation": "Coordinator",
+      "mobile": [
+        "91-80-23451084",
+        "91-9036819907"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1490",
+  "name": "Manav Charities",
+  "primaryEmail": "rajkul@manavcharities.org",
+  "website": "www.manavcharities.org/www.manavcharities.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "918028386828",
+    "919342358091",
+    "918023451084",
+    "918023454878"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "No.66",
+      "14th Main, Kammagondanahalli, Jalahalli West",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560015"
+    ]
+  },
+  "briefDescription": "Manav Charities is a registered NGO – Non-Profitable, Secular, Voluntary organization registered under Karnataka society’s registration act in the year 1999, established by a team of like minded people working passionately towards development of the socio-economic, educational, health, community development and environmental conditions for the welfare and development of rural & underprivileged sectors of Karnataka. The Organization is working for the betterment and welfare of the Physically handicapped, destitute, widows, senior citizens, child labor and downtrodden by supporting them by various ways and means. The Organization also works towards eradication of poverty with personal involvement by way of conducting programs and projects with self-less devotion and zeal to work under any condition of constraint to quote a few examples are Government School Adoption Program, Health Awareness Promotion and Education, Nutritious Meal Supplement to under privileged children, Communal Harmony, Running a Child Care Centre, a Non-Formal School for Slum Children, Establishing SHGs etc.,",
+  "yearOfEstablishment": "1999"
+}

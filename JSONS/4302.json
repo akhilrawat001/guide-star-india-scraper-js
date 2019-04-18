@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Pankaj P. Puri",
+      "email": "jansevabeed9495@gmail.com",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4302",
+  "name": "Janseva Sevabhavi Sanstha",
+  "primaryEmail": "jansevabeed9495@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919403939495"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "1819,padma niwas, pingle nagar,beed",
+      "pingle nagar, dhanora road beed",
+      "beed",
+      "Beed",
+      "Maharashtra",
+      "431122"
+    ]
+  }
+}

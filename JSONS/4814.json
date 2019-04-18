@@ -1,0 +1,40 @@
+{
+  "contacts": [
+    {
+      "name": "Raju",
+      "email": "jennnnny4@gmail.com",
+      "designation": "Trustee",
+      "mobile": [
+        "91-9448432008"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4814",
+  "name": "Sri Balaji Educational and Rural Development Trust",
+  "primaryEmail": "sribalajitrust73@gmail.com",
+  "website": "nil",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919448432008"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "Balaji Nagar, Basavantapur",
+      "post: Thanagundi",
+      "Tq:Dist: Yadgir",
+      "Kalaburagi (Gulbarga)",
+      "Karnataka",
+      "585202"
+    ]
+  },
+  "briefDescription": "Sri Balaji Educational and Rural Development Trust (R) objective is to established and run the institutions of all state in India from Nursery to Post Graduate level, General, Vocational, Technical, Professional, Para Medical, Unani, Ayurved, Hemeopathic etc for the general masses of educationally and economically weaker section irrespective of caste, creed, religion.",
+  "yearOfEstablishment": "2010"
+}

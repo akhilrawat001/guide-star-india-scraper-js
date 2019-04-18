@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Nikul Ladva",
+      "email": "youthshine2@gmail.com",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4704",
+  "name": "Youth Shine Acitivities Foundation",
+  "primaryEmail": "youthshine2@gmail.com",
+  "website": "www.youthshine.org",
+  "telephone": [
+    "912752253009",
+    "919228288829"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "112 Mahalaxmi Avenue, 1St Floor",
+      "Vitthal Press Road",
+      "SURENDRANAGAR",
+      "Surendranagar",
+      "Gujarat",
+      "363001"
+    ]
+  }
+}

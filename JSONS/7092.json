@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Mr. M.M. Vasu",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7092",
+  "name": "AIMS HUMAN RIGHTS SOCIETY SURVEY's",
+  "primaryEmail": "madhavvasu@hotmail.com",
+  "website": "www.aimshumanrights.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919838861801"
+  ],
+  "mainAddrress": {
+    "state": "Telangana",
+    "address": [
+      "24-387, Srisai Nagar Colony",
+      "Lothukunta, Aiwal",
+      "Secunderabad",
+      "Hyderabad",
+      "Telangana",
+      "500015"
+    ]
+  }
+}

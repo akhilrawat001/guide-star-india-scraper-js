@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Anshuman Bhattacharjee",
+      "email": "gbkie.ngo@gmail.com",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4383",
+  "name": "Governing Body Kalpataru Institute of Entrepreneurship",
+  "primaryEmail": "gbkie.ngo@gmail.com",
+  "website": "www.gbkiengo.com",
+  "organisationType": [
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919435171700"
+  ],
+  "mainAddrress": {
+    "state": "Assam",
+    "address": [
+      "Ramkrishna Sarani, National Highway Road, Silchar, Cachar, Assam.",
+      "Mishra Mension, N.S. Avenue, Silchar, Assam",
+      "Silchar",
+      "Cachar",
+      "Assam",
+      "788012"
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "K Ananthachari",
+      "email": "spasticssocietyofkarnataka@yahoo.com",
+      "designation": "Public Relations Officer",
+      "mobile": [
+        "91-80-40745906"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=166",
+  "name": "Spastics Society of Karnataka",
+  "primaryEmail": "spasticssocietyofkarnataka@yahoo.com",
+  "website": "www.spasticssocietyofkarnataka.org",
+  "telephone": [
+    "918040745900",
+    "918040745901",
+    "918040745903",
+    "918040745900"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "31, 5th Cross",
+      "Off 5th Main Ist Stage, Indiranagar",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560038"
+    ]
+  }
+}

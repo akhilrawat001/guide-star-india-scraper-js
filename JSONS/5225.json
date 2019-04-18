@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "Sarwan Tiwari",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "65098081",
+        "9311188080"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5225",
+  "name": "Agriculture Research & Rural Development Society",
+  "primaryEmail": "info@agricultureworld.org.in",
+  "website": "www.agricultureworld.org.in",
+  "organisationType": [
+    "Direct Service",
+    "Grant-making",
+    "Support"
+  ],
+  "telephone": [
+    "911165098081",
+    "911165098081"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "L 1, 2534/15, Ground Floor, Sangam Vihar",
+      "New Delhi",
+      "South Delhi",
+      "Delhi",
+      "110062"
+    ]
+  }
+}

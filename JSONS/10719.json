@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Raksha Thakur",
+      "email": "raksha.thakur@icagroup.in",
+      "designation": "Deputy Manager",
+      "mobile": []
+    },
+    {
+      "name": "Raksha Thakur",
+      "email": "raksha.thakur@icagroup.in",
+      "designation": "Deputy Manager",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10719",
+  "name": "ICA FOUNDATION",
+  "primaryEmail": "raksha.thakur@icagroup.in",
+  "website": "www.icajobguarantee.com",
+  "telephone": [
+    "918390545694"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "27, 4th & 5th Floor",
+      "Netaji Subhash Rd.,",
+      "Kolkata",
+      "West Bengal",
+      "700001"
+    ]
+  }
+}

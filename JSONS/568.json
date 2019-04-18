@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Pius Kalathil",
+      "email": "",
+      "designation": "Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=568",
+  "name": "Gremaltes Referral Hospital and Leprosy Centre",
+  "primaryEmail": "gremaltes@gmail.com",
+  "website": "www.gremaltes.org",
+  "telephone": [
+    "914426643411",
+    "914426645235",
+    "914426643411"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "New No. 92, Old No. 5",
+      "Gajapathy Street",
+      "Shenoy Nagar",
+      "Chennai",
+      "Tamil Nadu",
+      "600030"
+    ]
+  }
+}

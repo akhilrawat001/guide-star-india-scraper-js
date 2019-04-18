@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Vinod Khandelwal",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5544",
+  "name": "Sewak Social and Environmental Welfare Association of Khilchipur Samiti",
+  "primaryEmail": "anita11may@yahoo.com",
+  "website": "www.sewakindia.org",
+  "organisationType": [
+    "Direct Service",
+    "Network"
+  ],
+  "telephone": [
+    "919300795322"
+  ],
+  "mainAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "Khandelwal Compound, NH 12",
+      "Ward No 14",
+      "Khilchipur",
+      "Rajgarh",
+      "Madhya Pradesh",
+      "465679"
+    ]
+  }
+}

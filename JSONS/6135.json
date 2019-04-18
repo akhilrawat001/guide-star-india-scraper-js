@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Dr. Chandrasekhar Chikkamuniyappa",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6135",
+  "name": "The People Tree Foundation",
+  "primaryEmail": "foundation@peopletreehospitals.com",
+  "website": "www.peopletreefoundation.in",
+  "organisationType": [
+    "Direct Service",
+    "Network"
+  ],
+  "telephone": [
+    "919845853344"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "2, Tumkur Road, Goraguntepalya",
+      "Opp. Taj Vivanta, Yeshwanthpur",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560022"
+    ]
+  }
+}

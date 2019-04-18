@@ -1,0 +1,41 @@
+{
+  "contacts": [
+    {
+      "name": "Pralhad.B.Bhoyi",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6858",
+  "name": "DIVYA DARSHAN GRAMEEN ABHIVRADHI HAGU SWAYAM UDYOG TARABETI SANSTHE BAGALKOT",
+  "primaryEmail": "pralhadbhovi@yahoo.in",
+  "website": "www.divyadarshan.org.in",
+  "organisationType": [
+    "Direct Service",
+    "Intermediary",
+    "Support"
+  ],
+  "telephone": [
+    "919980174819"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "#38, basaveshwar nilaya,19th cross,B.E collage road,Vijay nagar,vidyagiri,Bagalkot",
+      "Bagalkot",
+      "Karnataka",
+      "587102"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "#38, Basaveshwar Nilaya,19th cross,B.E Collage Road,Vijay Nagar,",
+      "Vidyagiri",
+      "Bagalkot",
+      "Karnataka",
+      "587102"
+    ]
+  }
+}

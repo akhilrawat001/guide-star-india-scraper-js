@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "Tonmoy Chaudhuri",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "22622222",
+        "9911453177"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6692",
+  "name": "Horizon Foundation",
+  "primaryEmail": "info@foundationhorizon.org",
+  "website": "http://www.foundationhorizon.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Intermediary",
+    "Support"
+  ],
+  "telephone": [
+    "911122622222",
+    "911122622222"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "A-73, GD Colony, 2nd Floor",
+      "Mayur Vihar Phase 3",
+      "Delhi",
+      "East Delhi",
+      "110096"
+    ]
+  }
+}

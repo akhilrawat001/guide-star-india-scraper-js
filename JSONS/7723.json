@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Shawn Simon",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7723",
+  "name": "NOEL PUBLIC CHARITABLE TRUST",
+  "primaryEmail": "consult.shawn@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919845024292"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "No 37, 8th Cross, 2nd A Main,",
+      "Vignan Nagar, NTPO.",
+      "Bengaluru (Bangalore) Rural",
+      "Karnataka",
+      "560075"
+    ]
+  }
+}

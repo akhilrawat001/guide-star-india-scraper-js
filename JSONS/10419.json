@@ -1,0 +1,44 @@
+{
+  "contacts": [
+    {
+      "name": "Dr. Satish Ghanta",
+      "email": "choicefoundation.hyderabad@gmail.com",
+      "designation": "Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10419",
+  "name": "CHOICE FOUNDATION",
+  "primaryEmail": "choicefoundation.hyderabad@gmail.com",
+  "website": "http://www.choicefoundation.in",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919908162303"
+  ],
+  "mainAddrress": {
+    "state": "Telangana",
+    "address": [
+      "3rd Floor, G. Pulla Reddy Sweets Building, Kothaguda X Roads",
+      "Landmark residency, Kothaguda",
+      "Hyderabad",
+      "Rangareddy",
+      "Telangana",
+      "500081"
+    ]
+  },
+  "briefDescription": "MISSION:To provide access to state-of-the-art Tertiary Intensive& Emergency Medical Care for under privileged children.To promote preventive child healthcare and bring about awareness of good health practices through focused research on physical and mental health determinants by using Standard Pediatric Protocols.VISION:To ensure a future healthy generation for a healthy nation",
+  "yearOfEstablishment": "2012",
+  "regiseredAddrress": {
+    "state": "Telangana",
+    "address": [
+      "F-202, Emkay Manor, Plot No 30, Main Road",
+      "Srinagar Colony",
+      "Hyderabad",
+      "Telangana",
+      "500073"
+    ]
+  }
+}

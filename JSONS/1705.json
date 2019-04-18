@@ -1,0 +1,49 @@
+{
+  "contacts": [
+    {
+      "name": "Ratnaraju Tadigiri",
+      "email": "ratansubob@gmail.com",
+      "designation": "Program Manager",
+      "mobile": []
+    },
+    {
+      "name": "Ratnaraju Tadigiri",
+      "email": "ratansubob@gmail.com",
+      "designation": "Program Manager",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1705",
+  "name": "Hope Arpana Positive People Effective Network (HAPPEN)",
+  "primaryEmail": "happen.srinivas@gmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "918142083779"
+  ],
+  "mainAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "No:23",
+      "Vikaspuri, Opp Sriram Nagar, Nallapadu Road",
+      "Guntur",
+      "Andhra Pradesh",
+      "522004"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "D No 2-59 D,  Agathavarappadu",
+      "Sivareddy Palem, Pedakakani",
+      "Guntur",
+      "Andhra Pradesh",
+      "522509"
+    ]
+  }
+}

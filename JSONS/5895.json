@@ -1,0 +1,34 @@
+{
+  "contacts": [
+    {
+      "name": "GURIQBAL SINGH BEDI",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "9356767367"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5895",
+  "name": "AUTISM INDIA TODAY",
+  "primaryEmail": "autismindiatoday@yahoo.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919356767367"
+  ],
+  "mainAddrress": {
+    "state": "Punjab",
+    "address": [
+      "#5, hargobind nagar",
+      "sirhind road",
+      "patiala",
+      "Patiala",
+      "Punjab",
+      "147004"
+    ]
+  }
+}

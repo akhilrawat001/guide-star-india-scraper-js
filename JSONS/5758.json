@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "Rajiv Ranjan Kumar",
+      "email": "rahsociety@gmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5758",
+  "name": "Rah Society",
+  "primaryEmail": "rahsociety@gmail.com",
+  "telephone": [
+    "916542326040",
+    "916542326040"
+  ],
+  "mainAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "Vill + P.o : KHAIRACHATAR,",
+      "P.S - KASMAR, NEAR HARI MANDIR",
+      "BOKARO",
+      "Bokaro",
+      "Jharkhand",
+      "829115"
+    ]
+  }
+}

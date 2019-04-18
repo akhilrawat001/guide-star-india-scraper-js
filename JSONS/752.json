@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Anita L Shah",
+      "email": "",
+      "designation": "Managing Trustee",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=752",
+  "name": "Anjali (Society for Rural Health & Development)",
+  "primaryEmail": "anjalisrhd@yahoo.com",
+  "website": "www.anjaliruralhealth.org.in",
+  "telephone": [
+    "912770282034",
+    "912770282135",
+    "912770282135",
+    "912770282034"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "PO: Ranasan",
+      "Talod",
+      "Sabarkantha",
+      "Gujarat",
+      "383305"
+    ]
+  }
+}

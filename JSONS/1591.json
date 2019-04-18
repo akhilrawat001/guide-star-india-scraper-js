@@ -1,0 +1,25 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1591",
+  "name": "I Initiate",
+  "primaryEmail": "juigangan@gmail.com",
+  "website": "www.i-initiate.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service"
+  ],
+  "telephone": [
+    "919867987031"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "A- 702, Om Residency,",
+      "Dr. Walimbe Marg, Gururani Chowk Behind KEM Hospital",
+      "Parel Village",
+      "Mumbai",
+      "Maharashtra",
+      "400012"
+    ]
+  }
+}

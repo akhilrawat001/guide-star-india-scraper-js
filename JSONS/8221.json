@@ -1,0 +1,42 @@
+{
+  "contacts": [
+    {
+      "name": "Madhav Pandharinath Gundre",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8221",
+  "name": "Rajvilas Vyayamshala Va Krida Mandal",
+  "primaryEmail": "rajvilasngo@rediffmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919766669211"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Women's Counselling & Helpline Center,",
+      "Panchayat Samiti Ahmedpur Tq.Ahmedpur,",
+      "Latur",
+      "Maharashtra",
+      "413515"
+    ]
+  },
+  "briefDescription": "Rajvilas Vyayamshala Va Krida Mandal is Located in Latur, Maharashtra.",
+  "yearOfEstablishment": "1996",
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Borgaon,",
+      "Tq.Ahmedpur,dist.Latur",
+      "Latur",
+      "Maharashtra",
+      "413515"
+    ]
+  }
+}

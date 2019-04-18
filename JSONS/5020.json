@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "brihaspati kumar pandey",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5020",
+  "name": "Yuva Vikas Samiti",
+  "primaryEmail": "yvsngo@gmail.com",
+  "website": "www.yvsngo.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919454309514"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "vill-tharauli post-gaura upadhya district-basti uttar pradesh pin-272124",
+      "mahshon raod",
+      "tharauli",
+      "Basti",
+      "Uttar Pradesh",
+      "272124"
+    ]
+  }
+}

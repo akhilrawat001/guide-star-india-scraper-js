@@ -1,0 +1,35 @@
+{
+  "contacts": [
+    {
+      "name": "Mayadhar Paikaray",
+      "email": "nsp_india@yahoo.com",
+      "designation": "Project Coordinator",
+      "mobile": []
+    },
+    {
+      "name": "Mayadhar Paikaray",
+      "email": "nsp_india@yahoo.com",
+      "designation": "Project Coordinator",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=991",
+  "name": "Nilachal Seva Pratisthan",
+  "primaryEmail": "nsp_india@sify.com",
+  "website": "www.nilachal.org",
+  "telephone": [
+    "916752240028",
+    "916752240137",
+    "916752240138",
+    "919438018582"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "Nilachal Seva Pratisthan,",
+      "Puri",
+      "Odisha",
+      "752017"
+    ]
+  }
+}

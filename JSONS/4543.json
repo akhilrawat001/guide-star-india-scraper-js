@@ -1,0 +1,37 @@
+{
+  "contacts": [
+    {
+      "name": "Urmila Prabhu",
+      "email": "urmila@parisarasha.org",
+      "designation": "Head, Prog & Projects",
+      "mobile": [
+        "91-22-26120070",
+        "91-9967126639"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4543",
+  "name": "Parisar Asha",
+  "primaryEmail": "aarati.savur@parisarasha.org",
+  "website": "www.parisarasha.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "912226124442",
+    "912226124442"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "103/104 , Dunhill Villa",
+      "Besant Street , Off S. V Road ,",
+      "Santacruz (West",
+      "Mumbai Suburban",
+      "Maharashtra",
+      "400054"
+    ]
+  },
+  "briefDescription": "Parisar Asha is an Educational Environmental Centre. It is a non-profit making organisation working with schools ( regular, state-govt.owned, municipal schools as well as Non- Formal like Balwadis, Ashramshalas). We are spread Pan-India.We have created  Environmental Studies Approach to Learning (ESAL ). The ESAL is a problem-solving alternative to the cramming of meaningless facts. It offers the student and teacher a means of growth in KNOWLEDGE, LEARNING SKILLS, ATTITUDES  and  VLAUES. It seeks to promote an awareness and understanding of the environment, one's relationship to it, and the concern and responsible action necessary to assure our survival, to preserve traditional assets- Physical, Intellectual, Social and Cultural",
+  "yearOfEstablishment": "1982"
+}

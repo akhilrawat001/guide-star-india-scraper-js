@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Arati Prava Das",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8387",
+  "name": "AASHA",
+  "primaryEmail": "secretary@aashaorissa.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "916724231184",
+    "916724231184"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "AT-PURUNABASANTA",
+      "VIA-NALIBAR",
+      "JAGATSINGHPUR",
+      "Jagatsinghapur",
+      "Odisha",
+      "754104"
+    ]
+  }
+}

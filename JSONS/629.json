@@ -1,0 +1,35 @@
+{
+  "contacts": [
+    {
+      "name": "Ashok Patil",
+      "email": "",
+      "designation": "Secretary",
+      "mobile": []
+    },
+    {
+      "name": "Ashok Patil",
+      "email": "",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=629",
+  "name": "Gram Vikas Seva Sanstha Nagpur",
+  "primaryEmail": "gvss.ngp@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919881412915"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "40288, Mig Colony",
+      "Trimurty Nagar, Ring Road",
+      "Nagpur",
+      "Maharashtra",
+      "440022"
+    ]
+  }
+}

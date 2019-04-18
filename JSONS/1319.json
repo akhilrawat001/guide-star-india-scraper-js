@@ -1,0 +1,36 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1319",
+  "name": "Mercy Eyes Social Service Organisation (India) (M.E.S.S.O.)",
+  "primaryEmail": "messoindia2000@yahoo.co.in",
+  "website": "messoindia.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network"
+  ],
+  "telephone": [
+    "914142259552",
+    "919965726552"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "6/172 C",
+      "NLC Officer Nagar ,Vadalur,",
+      "Cuddalore",
+      "Tamil Nadu",
+      "607303"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "5 A Benwels Road,",
+      "Cantonment",
+      "Tiruchirappalli",
+      "Tamil Nadu",
+      "620002"
+    ]
+  }
+}

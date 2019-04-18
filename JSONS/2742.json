@@ -1,0 +1,27 @@
+{
+  "contacts": [
+    {
+      "name": "Shailendar Sharma",
+      "email": "shailendra@pratham.org",
+      "designation": "Program Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2742",
+  "name": "Pratham Delhi Education Initiative",
+  "primaryEmail": "shailendra@pratham.org",
+  "website": "www.pratham.org",
+  "telephone": [
+    "911125847721",
+    "911125847721"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "8/40 South Patel Nagar",
+      "New Delhi",
+      "Delhi",
+      "110008"
+    ]
+  }
+}

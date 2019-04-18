@@ -1,0 +1,48 @@
+{
+  "contacts": [
+    {
+      "name": "Gopal Kulkarni",
+      "email": "kulkarni@ihmp.org",
+      "designation": "Research Director",
+      "mobile": [
+        "91-20-64100790",
+        "91-8446050790"
+      ]
+    },
+    {
+      "name": "Gopal Kulkarni",
+      "email": "kulkarni@ihmp.org",
+      "designation": "Research Director",
+      "mobile": [
+        "91-20-64100790",
+        "91-8446050790"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5213",
+  "name": "Ashish Gram Rachna Trust",
+  "primaryEmail": "admin@ihmp.org",
+  "website": "http://www.ihmp.org",
+  "organisationType": [
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "912431221382",
+    "912431221419",
+    "918446050790"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "P.O Pachod, Paithan Taluka",
+      "District Aurangabad",
+      "Aurangabad",
+      "Maharashtra",
+      "431121"
+    ]
+  },
+  "briefDescription": "Programme at the rural site has 3 components:1. Empowerment of unmarried adolescent girls through ‘Life Skills Education’.2. Attitudinal change in unmarried and young married men to demonstrate a measurable change in the prevalence of domestic violence and gender inequitable behaviors 3. Protection of young married women from the adverse consequences of early marriage.Beneficiary population 42,000The Trust is implementing a primary health care project in the urban slums of Pune city, a successful model of health care for urban poor, which has resulted in improved access to maternal neonatal and child health services.Beneficiary population 20,000",
+  "yearOfEstablishment": "17031979"
+}

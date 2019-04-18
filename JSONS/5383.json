@@ -1,0 +1,50 @@
+{
+  "contacts": [
+    {
+      "name": "Rinsa S Perapdan",
+      "email": "rinsa@gyanada.org",
+      "designation": "Consultant",
+      "mobile": []
+    },
+    {
+      "name": "Rinsa S Perapdan",
+      "email": "rinsa@gyanada.org",
+      "designation": "Consultant",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5383",
+  "name": "GYANADA FOUNDATION",
+  "primaryEmail": "info@gyanada.org",
+  "website": "http://gyanada.org/",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Grant-making",
+    "Support"
+  ],
+  "telephone": [
+    "919819044922"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Gyanada Foundation, C/o Ashika Capital Limited, 1008, Raheja Centre, 10th Floor,214",
+      "Nariman Point, Mumbai",
+      "Mumbai",
+      "Maharashtra",
+      "400021"
+    ]
+  },
+  "briefDescription": "Gyanada Foundation is a new NGO based in Singapore and India that provides a private school education to Indian girls from disadvantaged backgrounds. We support students from marginalized sections of society to attend low-cost but relatively high quality private school. We believe educating girls is the necessary first step a family can take to emerge from poverty. Hence, we work with educational non-profits in India to put girls through good, low-cost private schools near their homes. In the first year we have supported 124 girls to access quality education at budget private schools in Kolkata, Delhi, and Ranchi for 2012-2013 academic year.",
+  "yearOfEstablishment": "2013",
+  "regiseredAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "226/1 A.J.C BOSE ROAD, TRINITY BUILDING, 7TH FLOOR,",
+      "KOLKATA",
+      "Kolkata",
+      "West Bengal",
+      "700020"
+    ]
+  }
+}

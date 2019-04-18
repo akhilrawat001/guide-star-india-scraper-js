@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Alemnungsang",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4862",
+  "name": "Sulain Society",
+  "primaryEmail": "sanggli2003@yahoo.com",
+  "website": "N/A",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918974763565"
+  ],
+  "mainAddrress": {
+    "state": "Nagaland",
+    "address": [
+      "Sulain society Chare town",
+      "Tuensang,Nagaland",
+      "Town",
+      "Tuensang",
+      "Nagaland",
+      "798612"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "contacts": [
+    {
+      "name": "S.Nagarajan",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4967",
+  "name": "National Informatics Service Centre (NISC)",
+  "primaryEmail": "niscindia@gmail.com",
+  "website": "http://www.nisc.in",
+  "organisationType": [
+    "Direct Service",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "917418181844"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "D129, Bharathiar Street East",
+      "Thirunagar 8th Stop",
+      "Madurai",
+      "Tamil Nadu",
+      "625006"
+    ]
+  },
+  "briefDescription": "National Informatics Service Centre (NISC) is a Not-for-Profit Organization; it was formed with one goal in mind to works to promote micro and small scale industries, shops, non-organized Work/Worker, individuals of India, partnering middle class people and government alike through advisory and promotional activity.",
+  "yearOfEstablishment": "2012"
+}

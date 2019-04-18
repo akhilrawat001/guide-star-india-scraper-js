@@ -1,0 +1,37 @@
+{
+  "contacts": [
+    {
+      "name": "Anjana Acharya",
+      "email": "",
+      "designation": "Coordinator",
+      "mobile": []
+    },
+    {
+      "name": "Anjana Acharya",
+      "email": "",
+      "designation": "Coordinator",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=207",
+  "name": "Ashirwad Viklang Trust",
+  "primaryEmail": "jadavatd@yahoo.com",
+  "website": "ashirvadsayla.org",
+  "telephone": [
+    "912755281185",
+    "912755281184",
+    "919825327351",
+    "912755281184"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "Ashirwad Trust for Disabled, B/H Police Station",
+      "National Highway No 8",
+      "Sayla",
+      "Surendranagar",
+      "Gujarat",
+      "363430"
+    ]
+  }
+}

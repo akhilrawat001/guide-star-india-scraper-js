@@ -1,0 +1,38 @@
+{
+  "contacts": [
+    {
+      "name": "Sreelekha Ray (Dr)",
+      "email": "vha_tripura@rediffmail.com",
+      "designation": "Executive Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=517",
+  "name": "Voluntary Health Association of Tripura",
+  "primaryEmail": "vha_tripura@rediffmail.com",
+  "website": "http://www.giveindia.org/GetOrganisationProfile.aspx?ngoid=862",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "913812222849",
+    "913812300482",
+    "913812222849"
+  ],
+  "mainAddrress": {
+    "state": "Tripura",
+    "address": [
+      "Circuit House Area, P.O. Kunjaban",
+      "Agartala",
+      "South Tripura",
+      "Tripura",
+      "799006"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Tripura",
+    "address": [
+      "Tripura"
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Dakshayani Madangopal",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "24163343"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4869",
+  "name": "THE BOMBAY SALESIAN SOCIETY",
+  "primaryEmail": "donboscoresearchmumbai@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "912224163343",
+    "912224163343"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Don Bosco School Campus, 3rd Floor,",
+      "DBYS Building, Matunga (E),",
+      "Mumbai",
+      "Maharashtra",
+      "400019"
+    ]
+  }
+}

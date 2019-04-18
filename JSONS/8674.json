@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Mihar Naskar",
+      "email": "sitarampurwelfare@yahoo.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8674",
+  "name": "Sitarampur Welfare Association",
+  "primaryEmail": "sitarampurwelfare@yahoo.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919933961074"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Vill-Sitarampur",
+      "P.O-Srinagar Makarpara",
+      "P.S-Kakdwip,",
+      "South 24 Parganas",
+      "West Bengal",
+      "743374"
+    ]
+  }
+}

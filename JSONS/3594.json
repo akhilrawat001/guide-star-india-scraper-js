@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "Pravin Mankar",
+      "email": "gramswaraj.wda@gmail.com",
+      "designation": "CEO",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3594",
+  "name": "Gramswaraj Seva Trust",
+  "primaryEmail": "gramswaraj.wda@gmail.com",
+  "website": "www.gram-swaraj.in",
+  "organisationType": [
+    "Direct Service",
+    "Grant-making",
+    "Support"
+  ],
+  "telephone": [
+    "918380096967",
+    "917152251918"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Manohardham",
+      "Nagpur Road",
+      "P.O. Dattapur",
+      "Wardha",
+      "Maharashtra",
+      "442001"
+    ]
+  },
+  "briefDescription": "GSST has been implementing integrated rural development programs with landless and marginal communities in 3 districts of the Vidarbha region.Program Activities-\tNatural Resource Management\tOrganic Farming\tTraining & Skill Development\tFarm & Non-Farm Employment & Entrepreneurship\tMicrofinance for women entrepreneurs through its         subsidiary ‘dMatrix Development Foundation’",
+  "yearOfEstablishment": "1998"
+}

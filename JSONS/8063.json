@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Ankit joshi",
+      "email": "dhyeyfoundation@yahoo.co.in",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8063",
+  "name": "DHYEY FOUNDATION",
+  "primaryEmail": "dhyeyfoundation@yahoo.co.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919925158595"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "FF- 106, Tarang Complex",
+      ", Beside Vrajsiddhi Tower",
+      "Rajmahal road,",
+      "Vadodara",
+      "Gujarat",
+      "390007"
+    ]
+  }
+}

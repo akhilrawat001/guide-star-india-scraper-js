@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "MR.RATHOD RAMESHKUMAR SHIVABHAI",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7366",
+  "name": "JIVAN JYOT YUVA PRAGATI MANDAL",
+  "primaryEmail": "jivanjyotpragatimandal@rediffmail.com",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "9924375564"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      ". RAMESHKUMAR SHIVABHAI RATHOD",
+      "RES. JAWAHAR SOCIETY, THANGADH",
+      "TA-CHOTILA",
+      "Surendranagar",
+      "Gujarat",
+      "363530"
+    ]
+  }
+}

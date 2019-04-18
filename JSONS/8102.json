@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Suresh Sahu",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8102",
+  "name": "BUNIYAD NEW DEVELOPMENT YOUTH ORGANISATION WARASEONI",
+  "primaryEmail": "buniyad.2009@rediffmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "917633280045",
+    "917633280045"
+  ],
+  "mainAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "SURESH SAHU BEHIEND SAVITA TALKIES",
+      "SAMRAT NAGAR 01",
+      "WARASEONI",
+      "Balaghat",
+      "Madhya Pradesh",
+      "481331"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "contacts": [
+    {
+      "name": "D. Sivaprasad",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7106",
+  "name": "ARNOLD EDUCATIONAL AND RURAL DEVELOPMENT SOCIETY",
+  "primaryEmail": "dogiparthi.prasad@gmail.com",
+  "website": "www.arnold.co.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919912421771"
+  ],
+  "mainAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "402, Ridgemount Apartment. Mayuri Nagar",
+      "Miyapur",
+      "Hyderbad",
+      "Andhra Pradesh",
+      "500049"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "402, Ridgemount Apartment. Mayuri Nagar",
+      "Miyapur",
+      "Hyderbad",
+      "Alwar",
+      "Andhra Pradesh",
+      "500049"
+    ]
+  }
+}

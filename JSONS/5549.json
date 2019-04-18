@@ -1,0 +1,26 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5549",
+  "name": "The Voluntary Health Association of India",
+  "primaryEmail": "admin@vhai.org",
+  "website": "http://www.vhai.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Network"
+  ],
+  "telephone": [
+    "911147004300",
+    "911147004300"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "B-40, Qutab Institutional Area",
+      "South of IIT Delhi",
+      "New Delhi",
+      "South Delhi",
+      "Delhi",
+      "110016"
+    ]
+  }
+}

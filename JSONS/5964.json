@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "V M Kaul",
+      "email": "shantisahyog@shantisahyog.org",
+      "designation": "General Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5964",
+  "name": "Shanti Sahyog (Cooperation for Peace, India)",
+  "primaryEmail": "shantisahyog@shantisahyog.org",
+  "website": "www.shantisahyog.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "911126210185",
+    "911126210185"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "Shanti Sahyog, 1656 A/1",
+      "Gali No. 15, Govindpuri",
+      "New Delhi",
+      "South Delhi",
+      "Delhi",
+      "110019"
+    ]
+  }
+}

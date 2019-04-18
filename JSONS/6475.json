@@ -1,0 +1,38 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6475",
+  "name": "Sustainable Training for Empowering People with Shalom-STEPS",
+  "primaryEmail": "shalom_fsag@yahoo.co.in",
+  "website": "http://www.stepshalom.com/",
+  "organisationType": [
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "914147250068",
+    "914147250068"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "Shalom Provincialate,   604 002",
+      "Pragasapuram,",
+      "Tindivanam",
+      "Viluppuram",
+      "Tamil Nadu",
+      "604002"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "Shalom Home, Pragasapuram, Marakkanam Road, Tindivanam, Villupuram Dt",
+      "Marakkanam  Road,  Pragasapuram",
+      "Tindivanam",
+      "Viluppuram",
+      "Tamil Nadu",
+      "604002"
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "contacts": [
+    {
+      "name": "Samhita Ganguly",
+      "email": "samhitag@onebillionliterates.org",
+      "designation": "Trustee",
+      "mobile": [
+        "91-80-41649782"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1622",
+  "name": "One Billion Literates Foundation",
+  "primaryEmail": "anamikam@onebillionliterates.org",
+  "website": "http://onebillionliterates.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918041649782",
+    "919741344001"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "6",
+      "Vaswani Ashtonwoods, 38/2 Kariyammana Agrahara, Devarabeesanahalli",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560038"
+    ]
+  }
+}

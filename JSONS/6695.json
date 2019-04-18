@@ -1,0 +1,37 @@
+{
+  "contacts": [
+    {
+      "name": "Mrs. Alka Bipin Sharma",
+      "email": "",
+      "designation": "President",
+      "mobile": [
+        "11232334"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6695",
+  "name": "ASSOCIATION FOR SOCIAL HEALTH IN INDIA",
+  "primaryEmail": "ashidelhi@hotmail.com",
+  "website": "www.ashiindia.org",
+  "organisationType": [
+    "Direct Service",
+    "Intermediary",
+    "Support"
+  ],
+  "telephone": [
+    "911123233428",
+    "911111232334"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "19,ROUSE AVENUE INSTITUTIONAL AREA",
+      "NEW DELHI",
+      "Central Delhi",
+      "Delhi",
+      "110002"
+    ]
+  },
+  "briefDescription": "ASHI has been working relentlessly in the field of upliftment and empowerment of Women and Children, particularly the Girl Child for the last 87 years. Having started with a humble beginning in 1928 with a single centre in Kolkatta, ASHI has come a long way and has grown wings all over the country. Today ASHI, with its Head Quarters at 19, Rouse Avenue, Institutional Area, New Delhi and branches in various states, has become a life line for thousands of women and children seeking an escape from a life of oppression and exploitation.Health Camps are regularly arranged and medicines provided. Working women’s Hostels are run with a view to provide shelter to working girls from low income group with nominal charges for accommodation.",
+  "yearOfEstablishment": "1937"
+}

@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Dimple Stalin",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6021",
+  "name": "RVM FOUNDATION",
+  "primaryEmail": "rpasnetwork@rvm.co.in",
+  "website": "www.rvmfoundation.org",
+  "organisationType": [
+    "Direct Service",
+    "Network"
+  ],
+  "telephone": [
+    "919739544444"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "kempfort mall terrace, old airport road,",
+      "Murugeshpalaya",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560016"
+    ]
+  }
+}

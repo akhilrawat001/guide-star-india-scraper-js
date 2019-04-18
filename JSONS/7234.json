@@ -1,0 +1,54 @@
+{
+  "contacts": [
+    {
+      "name": "Sudhir Kumar Nayak",
+      "email": "readprogmshead@gmail.com",
+      "designation": "Program Director",
+      "mobile": []
+    },
+    {
+      "name": "Sudhir Kumar Nayak",
+      "email": "readprogmshead@gmail.com",
+      "designation": "Program Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7234",
+  "name": "Rural Educational Activities for Development",
+  "primaryEmail": "readngo93@gmail.com",
+  "website": "www.readodisha.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919438039026",
+    "919437722771"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "Ambapua main road, Near New Depaul School.",
+      "PO- Engineerings School Road",
+      "Berhampur",
+      "Ganjam",
+      "Odisha",
+      "760010"
+    ]
+  },
+  "briefDescription": "Rural Educational Activities for Development located in Gajapati, Orissa.Rural Educational Activities for Development (READ) is a Non-government, non-profit organization, registered under Societies Registration Act 1860. READ was established in the year 1993 by a group of development professionals belong to Dalit and Tribal youths, realizing the unjust situation like discrimination, exploitation and acute poverty, illiteracy of their own people. In order to bring about sustainable improvement in the quality of life of Dalit, Tribal, poor & marginalized rural communities in Orissa, Strengthening people’s organizations at various level.",
+  "yearOfEstablishment": "1993",
+  "regiseredAddrress": {
+    "state": "Odisha",
+    "address": [
+      "At/Po Antarba",
+      "Via Chandragiri",
+      "Gajapati",
+      "Odisha",
+      "761017"
+    ]
+  }
+}

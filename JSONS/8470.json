@@ -1,0 +1,27 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8470",
+  "name": "NATIONAL INSTITUTE OF TECHNOLOGY AND MANAGEMENT TRUST",
+  "primaryEmail": "amit@nitmedu.org",
+  "website": "www.nitmindia.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Support"
+  ],
+  "telephone": [
+    "911414008966",
+    "911414008966"
+  ],
+  "mainAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "B-4 Pink Tower",
+      "Behind Sahara Chamber Tonk Road",
+      "Jaipur",
+      "Rajasthan",
+      "302015"
+    ]
+  }
+}

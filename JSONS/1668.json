@@ -1,0 +1,34 @@
+{
+  "contacts": [
+    {
+      "name": "Sumedha D Sharma",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "9212771660"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1668",
+  "name": "SUNAINA",
+  "primaryEmail": "kanaka@sunaina.org",
+  "website": "www.sunaina.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919212771660",
+    "+919582888090"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "WZ 121, GALI NO. 13, KRISHNA PARK ,NEW DELHI,-110018",
+      "WZ 201b, 2nd floor, street no. 1, Krishna Puri, New Delhi 110018",
+      "New Delhi",
+      "West Delhi",
+      "Delhi",
+      "110018"
+    ]
+  }
+}

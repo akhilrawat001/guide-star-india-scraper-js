@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Ms.Savitri Rai",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8164",
+  "name": "Ankit Anusuchit Samaj Kalyan Technical Nari Utthan Evam Shikshan Sansthan",
+  "primaryEmail": "ankit_seva@rediffmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "915561265033",
+    "915561265033"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "Nandana Ward Pachimi",
+      "Infront of PG Bank Barhaj Deoria",
+      "Deoria",
+      "Uttar Pradesh",
+      "274601"
+    ]
+  }
+}

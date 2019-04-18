@@ -1,0 +1,48 @@
+{
+  "contacts": [
+    {
+      "name": "Deepa.S.A",
+      "email": "deepaaralikatti@rediffmail.com",
+      "designation": "Manager",
+      "mobile": [
+        "91-9449042399"
+      ]
+    },
+    {
+      "name": "Deepa.S.A",
+      "email": "deepaaralikatti@rediffmail.com",
+      "designation": "Manager",
+      "mobile": [
+        "91-9449042399"
+      ]
+    },
+    {
+      "name": "Deepa.S.A",
+      "email": "deepaaralikatti@rediffmail.com",
+      "designation": "Manager",
+      "mobile": [
+        "91-9449042399"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1093",
+  "name": "Shree Laxmi Institute for Women and Rural Development",
+  "primaryEmail": "silward2001@gmail.com",
+  "organisationType": [
+    "Intermediary",
+    "Support"
+  ],
+  "telephone": [
+    "918362742424",
+    "919449042399"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "“Srinivas”  Koppadakere",
+      "Dharwad",
+      "Karnataka",
+      "580008"
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Ashok Patil",
+      "email": "soma.konduri@pmtpims.org",
+      "designation": "Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2931",
+  "name": "Pravara Medical Trust",
+  "primaryEmail": "soma.konduri@pmtpims.org",
+  "website": "www.pravara.com",
+  "telephone": [
+    "912422273600",
+    "912422273486",
+    "912422273600"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "K.V. Somasundaram Director,",
+      "Centre for Social Medicine",
+      "Loni BK",
+      "Ahmednagar",
+      "Maharashtra",
+      "413736"
+    ]
+  }
+}

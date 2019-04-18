@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "NIRMAL MANDAL",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "9775539078"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6603",
+  "name": "NADIA SAHAMARMI",
+  "primaryEmail": "nadiasahamarmi@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919775539078"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "vill-anandapally p.o-karimpur p.s-karimpur dist-nadia",
+      "near about shris chandra bidhyapith",
+      "karimpur",
+      "Nadia",
+      "West Bengal",
+      "741152"
+    ]
+  }
+}

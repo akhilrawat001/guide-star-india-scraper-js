@@ -1,0 +1,27 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=328",
+  "name": "Bani Mandir",
+  "primaryEmail": "banimandir06@rediffmail.com",
+  "website": "http://www.banimandir.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "913174244290",
+    "913174244291",
+    "913174244290"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Vill. Khordanahalla P.O. Sadhurhat",
+      "South 24 Parganas",
+      "West Bengal",
+      "743504"
+    ]
+  }
+}

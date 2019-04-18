@@ -1,0 +1,51 @@
+{
+  "contacts": [
+    {
+      "name": "P. Arul Doss",
+      "email": "weedsarul@gmail.com",
+      "designation": "Coordinator",
+      "mobile": []
+    },
+    {
+      "name": "P. Arul Doss",
+      "email": "weedsarul@gmail.com",
+      "designation": "Coordinator",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1373",
+  "name": "Womens Education and Economic Development Society",
+  "primaryEmail": "weedsindia@gmail.com",
+  "website": "weedsngo.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "914432017422",
+    "919003052052"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "85, South Kamatchi Nagar",
+      "Near Pattu Koot road football Ground",
+      "Mangadu",
+      "Chennai",
+      "Tamil Nadu",
+      "600122"
+    ]
+  },
+  "briefDescription": "WEEDS is a secular, not for profit organization formed by a group of social activists to promote physical, psychological and social well being of the members of the society by helping them to remove all the disparities which acts as a barrier for reaching their desired quality of life. WEEDS was registered on 1989 under the Tamil Nadu Societies Registration Act, 1975 and is a NGO with all credentials like FCRA registration, 80G and 12 A and all other sanctions and registrations. WEEDS also works for empowerment of down trodden people, social and economic development of the needy where it is required. The organization has envisaged the empowerment of the people through educating, health, developing the skills of the community and creating sustainable livelihood activities for the social and economic development of the people in the real need. In the present scenario its committed intervention is needed to create the organization’s vision and mission in operation area.",
+  "yearOfEstablishment": "1989",
+  "regiseredAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "3/688",
+      "Sathyavani Muthu Street, Gerugambakkam,",
+      "Gerugambakkam",
+      "Kancheepuram",
+      "Tamil Nadu",
+      "600128"
+    ]
+  }
+}

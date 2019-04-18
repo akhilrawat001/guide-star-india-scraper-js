@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Dr. Vinod Ganpatrao Gajghate",
+      "email": "dr.vggajghate@gmail.com",
+      "designation": "secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4310",
+  "name": "INDIAN SOCIAL EDUCATION SOCIETY",
+  "primaryEmail": "dr.vggajghate@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "India",
+    "7122751707",
+    "917122751707"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "26, Madhur Enclave, Shramjivinagar, Manewada Road, Nagpur-440027 (MS)",
+      "--",
+      "Nagpur",
+      "Maharashtra",
+      "440027"
+    ]
+  }
+}

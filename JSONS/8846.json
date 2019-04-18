@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Bharat Gaikwad",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8846",
+  "name": "PANCHSHIL EDUCATION SOCIETY",
+  "primaryEmail": "bharatgaikwad5044@gmail.com",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "917378626811"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "379/ 2122, Sant Tukaram Nagar",
+      "Pimpri",
+      "Pune",
+      "Maharashtra",
+      "411018"
+    ]
+  }
+}

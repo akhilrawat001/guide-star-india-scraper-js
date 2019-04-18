@@ -1,0 +1,27 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1313",
+  "name": "Sevadham  Trust",
+  "primaryEmail": "sevadhampune@rediffmail.com",
+  "website": "www.sevadham.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "912024453979",
+    "918888897129"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "1779/84",
+      "Sadashiv Peth,Gurutrai Smarak,Near Khajina Vihir Chowk",
+      "Pune",
+      "Maharashtra",
+      "411030"
+    ]
+  }
+}

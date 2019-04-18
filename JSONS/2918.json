@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "N S Manna",
+      "email": "ashalatango@gmail.com",
+      "designation": "Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2918",
+  "name": "Ashalata, Centre For Education, Health, Environment and Culture",
+  "primaryEmail": "ashalatango@gmail.com",
+  "telephone": [
+    "913388208853",
+    "913388208853"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "vill- Kalaghatu,",
+      "P.O- Kotra",
+      "PS.- Shyampur",
+      "Howrah",
+      "West Bengal",
+      "711301"
+    ]
+  }
+}

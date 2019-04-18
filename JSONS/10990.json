@@ -1,0 +1,41 @@
+{
+  "contacts": [
+    {
+      "name": "Laxman Tukaram Madan",
+      "email": "",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10990",
+  "name": "Madan Bahuuddeshiya Sevabhavi Sanstha",
+  "primaryEmail": "mbssjalna@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919764011680"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Gala No.03 Gramsachivalay Building Shelgavon ,",
+      "Jalna- Aurangabad Road Shelagavon",
+      "Tq. Badnapur,",
+      "Jalna",
+      "Maharashtra",
+      "431202"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Gramsachivaly Building Shelgavon",
+      "Jalna- Aurangabad Road Shelgavon",
+      "Badnapur",
+      "Jalna",
+      "Maharashtra",
+      "431202"
+    ]
+  }
+}

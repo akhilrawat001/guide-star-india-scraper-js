@@ -1,0 +1,35 @@
+{
+  "contacts": [
+    {
+      "name": "Pramod Sahu",
+      "email": "pksahu007@gmail.com",
+      "designation": "Web Developer",
+      "mobile": [
+        "91-9703247360"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10342",
+  "name": "HAPPY HOME TRUST",
+  "primaryEmail": "info@happyhome.org.in",
+  "website": "http://happyhome.org.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919703247360"
+  ],
+  "mainAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "Green Lands, Opposite S. L.V. Servicing Centre,",
+      "Air Port Road,",
+      "Puttaparthi",
+      "Anantapur",
+      "Andhra Pradesh",
+      "515134"
+    ]
+  },
+  "briefDescription": "Happy Home is filled with vibrant joyful, loveable little flowers waiting to bloom and transform their small garden into a peaceful paradise for them and many others like them. They all need the emotional encouragement that comes from knowing someone cares.Happy Home took shape in the year 2008 as a home for orphans, with just five abandoned street children. We gained recognition with a registration in 2009, and with 14 budding girls and five young underprivileged boys .Happy Home has since that time proudly blossomed into a beautiful bouquet of thirty four well behaved humble young children. Slowly but steadily they have become a strong family, step by step.",
+  "yearOfEstablishment": "2009"
+}

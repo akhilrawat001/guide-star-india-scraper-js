@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "NARESH PURUSHOTHAM",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "24988875"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5943",
+  "name": "BRHADDHVANI",
+  "primaryEmail": "admin@brhaddhvani.org",
+  "website": "http://www.brhaddhvani.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "914424988875",
+    "914424988875"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "27/55,",
+      "3rd Street, East Abhiramapuram, Mylapore",
+      "Chennai",
+      "Tamil Nadu",
+      "600004"
+    ]
+  }
+}

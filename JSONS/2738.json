@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Preeti Johar",
+      "email": "preeti.johar@familyofdisabled.org",
+      "designation": "Chief Functionary",
+      "mobile": [
+        "91-9811792505"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2738",
+  "name": "Family of Disabled",
+  "primaryEmail": "preeti.johar@familyofdisabled.org",
+  "telephone": [
+    "911125597328",
+    "911141570140",
+    "911125597328"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "B 1/500 Janakpuri",
+      "New Delhi",
+      "Delhi",
+      "110058"
+    ]
+  }
+}

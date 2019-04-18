@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Dr B.M.Bhardwaj",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5342",
+  "name": "Maa Madhuri Brij Varis Seva Sadan 'Apna Ghar' Sanstha",
+  "primaryEmail": "mmbvss@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919950737673"
+  ],
+  "mainAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "Bajhera, Achhnera Road",
+      "Bharatpur,",
+      "Bharatpur",
+      "Rajasthan",
+      "321001"
+    ]
+  }
+}

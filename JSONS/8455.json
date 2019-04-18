@@ -1,0 +1,42 @@
+{
+  "contacts": [
+    {
+      "name": "Dr. Samson Idahosa",
+      "email": "cavi.india@gmail.com",
+      "designation": "General Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8455",
+  "name": "COMMUNITY AWARENESS & VILLAGE IMPROVEMENT",
+  "primaryEmail": "cavi.india@gmail.com",
+  "website": "https://www.cavi.org.in",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919704038050"
+  ],
+  "mainAddrress": {
+    "state": "Telangana",
+    "address": [
+      "D No 1-2-54/4/15/12/3 Gandhewar Thota, Shanti Nagar, Adilabad 504001, Ts",
+      "Adilabad",
+      "Telangana",
+      "504001"
+    ]
+  },
+  "briefDescription": "CAVI (Community Awareness & Village Improvement) is a voluntary organization, established in 1989 in Guntur district. CAVI is a Humanitarian Voluntary Organization, whose Mission is to create lasting change in the lives of Children, Families and Communities, living in Poverty and Injustice irrespective of Caste, Creed and Color working in Andhra Pradesh and Telangana states by focusing on women empowerment, youth empowerment, life skills for adolescents, Income Generation activities, Micro finance, Adult Education, Health (HIV/AIDS) etc. activities since 1989.",
+  "yearOfEstablishment": "1989",
+  "regiseredAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "D No 1-21, 1st Line, ST Colony, Phirangipuram, Guntur district",
+      "PHIRANGIPURAM",
+      "Guntur",
+      "Andhra Pradesh",
+      "522529"
+    ]
+  }
+}

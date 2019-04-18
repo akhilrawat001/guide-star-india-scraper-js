@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "BABU RAM BISHNOI",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3020",
+  "name": "SAHAJ SANSTHAN",
+  "primaryEmail": "sahajkhichan@rediffmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919950222895"
+  ],
+  "mainAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "B-182-Jawahar Colony-Khichan-342308 (Phalodi) District-Jodhpur",
+      "Khichan(PHALODI)",
+      "Jodhpur",
+      "Rajasthan",
+      "342308"
+    ]
+  }
+}

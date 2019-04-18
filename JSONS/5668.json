@@ -1,0 +1,23 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5668",
+  "name": "POORNIMA WORLD",
+  "primaryEmail": "poornimaworld@yahoo.co.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "00919869148202"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "munuswami lane,nehru nagar v.m. rd. no.-5,vile parle (w)",
+      "munuswami lane,nehru nagar (post b.no.-18004) vile parle (w)",
+      "mumbai",
+      "Mumbai",
+      "Maharashtra",
+      "400056"
+    ]
+  }
+}

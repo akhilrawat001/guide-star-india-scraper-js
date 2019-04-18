@@ -1,0 +1,35 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=551",
+  "name": "Bhumi",
+  "primaryEmail": "contact@bhumi.ngo",
+  "website": "www.bhumi.ngo",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919840868441"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "3/2 Karpaga Vinayagar Koil Street",
+      "Alandur",
+      "Chennai",
+      "Tamil Nadu",
+      "600016"
+    ]
+  },
+  "briefDescription": "Bhumi is one of India’s largest independent youth volunteer non-profit organisations. Bhumi as a platform will enable over 15,000 volunteers in more than 12 cities across India for causes like education, environment, animals and community welfare. Bhumi is the recipient of the ‘Leader in Volunteer Engagement Award’ conferred by iVolunteer Geographical Presence: Tamil Nadu, Karnataka, Telengana, Maharashtra, West Bengal, Rajasthan, Chandigarh and Delhi NCR. Bhumi has two core areas of work - Education and Civic Projects > Ignite: Transformational EducationIgnite is Bhumi's supplementary education programme for under-privileged children. The programme is delivered during the weekends by over 2,000 trained volunteers of Bhumi. Over 10,000 children are benefiting from the programme in 2015 across 12 Indian cities. The programme consists of English, Mathematics, Science, computers, mentoring, arts, sports and life skills support. > Catalyse: Transforming CitizenryCatalyse consists of Bhumi’s civic initiatives that engage volunteers in causes like animal welfare, community welfare, disability, environment, health etc. The programmes consisting of one-off and regular volunteering activities engage over 10,000 volunteers each year in over 15 cities across India.",
+  "yearOfEstablishment": "2006",
+  "regiseredAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "3/2, Karpaga Vinayagar Koil Street,",
+      "Alandur",
+      "Chennai",
+      "Tamil Nadu",
+      "600016"
+    ]
+  }
+}

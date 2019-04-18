@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Narendra Kumar Kapoor",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9105",
+  "name": "Anjal Trust",
+  "primaryEmail": "anjaltrust2003@gmail.com",
+  "website": "www.anjalvidhyalaya.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "912652711242",
+    "912652711242"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "B-10, Shivali, Gokuldham Society, Near Union Bank of India,",
+      "Sama Road,",
+      "Vadodara",
+      "Gujarat",
+      "390008"
+    ]
+  },
+  "briefDescription": "It is an educational trust initiated to start educational activities by opening up of a school as Anjal Vidhalaya at vill; Manjusar Ta: Savli Dist. Vadodara in Gujarat state in June 2003. The school started on 19th June 2003 with pre primary level having 25 students and today this school has reached upto upper primary level ( 8th std.) with 400 students ( 50 percent girl child ) getting education in English and Gujarati medium. The purpose is to impart quality elementary / primary education to rural children in an affordable manner at the doorstep. The students come from five satellite villages around Manjusar village. We want to strengthen this school up to 10th std with kind cooperation of all stakeholders.",
+  "yearOfEstablishment": "2003"
+}

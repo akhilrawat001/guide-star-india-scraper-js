@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "B V Sesha",
+      "email": "abalashram@yahoo.com",
+      "designation": "Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2866",
+  "name": "The Abalashrama",
+  "primaryEmail": "info@abalashram.org",
+  "website": "www.abalashram.org",
+  "telephone": [
+    "918026678694",
+    "918026678694"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "125-6",
+      "Dr D V G Road",
+      "Basavanagudi",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560004"
+    ]
+  }
+}

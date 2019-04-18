@@ -1,0 +1,51 @@
+{
+  "contacts": [
+    {
+      "name": "Jasmine Jose",
+      "email": "jasminejose@protsahan.in",
+      "designation": "Prog Dev Officer",
+      "mobile": []
+    },
+    {
+      "name": "Jasmine Jose",
+      "email": "jasminejose@protsahan.in",
+      "designation": "Prog Dev Officer",
+      "mobile": []
+    },
+    {
+      "name": "Jasmine Jose",
+      "email": "jasminejose@protsahan.in",
+      "designation": "Prog Dev Officer",
+      "mobile": []
+    },
+    {
+      "name": "Jasmine Jose",
+      "email": "jasminejose@protsahan.in",
+      "designation": "Prog Dev Officer",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6071",
+  "name": "PROTSAHAN",
+  "primaryEmail": "info@protsahan.in",
+  "website": "www.kamalini.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "911126498556",
+    "911126498556"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "33 Shahpur Jat",
+      "Ground Floor,",
+      "Delhi",
+      "New Delhi",
+      "110049"
+    ]
+  },
+  "briefDescription": "Vision: Women are the key to a thriving future for their family and community.Mission: To empower underprivileged women to attain holistic development through encouragement, basic education and vocational skills.Core Values:Genuine care and respect for the dignity of each personHigh-quality trainingCommitment and spirit of serviceEthical conduct and transparencyFostering solidarity & social responsibility",
+  "yearOfEstablishment": "2003"
+}

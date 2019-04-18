@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Mr. Sanjay Kumar Singh",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7396",
+  "name": "AASHISH FOUNDATION",
+  "primaryEmail": "afbihar10@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "917870802342"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "Jagdev Nagar, Jagdev Path",
+      "Gali No 2, Anaith",
+      "Ara",
+      "Bhojpur",
+      "Bihar",
+      "802301"
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "contacts": [
+    {
+      "name": "Naomi Menezes",
+      "email": "naomi.menezes@unltdindia.org",
+      "designation": "Communications Associate",
+      "mobile": []
+    },
+    {
+      "name": "Naomi Menezes",
+      "email": "naomi.menezes@unltdindia.org",
+      "designation": "Communications Associate",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6832",
+  "name": "Social Entrepreneurs Foundation India",
+  "primaryEmail": "support@unltdindia.org",
+  "website": "http://www.unltdindia.org",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "912226434351"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Block No. 1, Flat No. 1 & 2, Ground Floor",
+      "Baitul Karim, 4 Boran Road, Off Hill Road",
+      "Bandra West",
+      "Mumbai",
+      "Maharashtra",
+      "400050"
+    ]
+  },
+  "briefDescription": "UnLtd India is a launchpad for social entrepreneurs in India. Our mission is to find, support and grow entrepreneurial individuals with passion and ideas to bring about long-lasting solutions to pressing problems in India. Our work enables these individuals to develop as effective leaders and their ideas into high impact and sustainable organisations.o   We have an Entrepreneur Centric model and support early-stage social entrepreneurs in the first 0–5 years of their lifecycle. o   We provide and enable stage appropriate capital and support. o   We are sector agnostic and support projects in education, environment, agriculture, livelihoods, gender equality, financial inclusion and health amongst others.o   We support non-profits and social enterprises as we believe that India needs both approaches to solve its pressing problems.We provide social entrepreneurs with an enabling eco-system in their early stages through our Incubation Program. Each entrepreneur is provided with personalised coaching, access to sector experts and mentors, finance through grants/funds, peer learning as well as leadership and business management workshops and retreats.In 11 years, UnLtd India has incubated 201 social entrepreneurs, who have facilitated 4,23,959 jobs/livelihoods and impacted over 5 million lives.",
+  "yearOfEstablishment": "2009",
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Block No.1, Flat No. 1&2, Ground Floor",
+      "Baitul Karim,4 Boran Road, Off Hill Road",
+      "Bandra West",
+      "Mumbai",
+      "Maharashtra",
+      "400050"
+    ]
+  }
+}

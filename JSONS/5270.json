@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Sr. Dafini Anto",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5270",
+  "name": "Franciscan Family Apostolate",
+  "primaryEmail": "ffaalleppey@gmail.com",
+  "website": "http://franciscanfamilyapostolate.org/",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "914772244312"
+  ],
+  "mainAddrress": {
+    "state": "Kerala",
+    "address": [
+      "FFA Office",
+      "Mount Carmel Cathedral",
+      "Alleppey",
+      "Alappuzha",
+      "Kerala",
+      "688001"
+    ]
+  }
+}

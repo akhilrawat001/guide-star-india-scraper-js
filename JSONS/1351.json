@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Indira",
+      "email": "sorati@rediffmail.com",
+      "designation": "President",
+      "mobile": [
+        "91-9481107751"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1351",
+  "name": "Women And Physically Handicapped Development Society",
+  "primaryEmail": "sorati@rediffmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919481107751"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "Radhapurpete",
+      "Ramdurg",
+      "Belagavi (Belgaum)",
+      "Karnataka",
+      "591123"
+    ]
+  }
+}

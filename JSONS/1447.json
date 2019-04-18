@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "H S Lamba",
+      "email": "",
+      "designation": "Trustee",
+      "mobile": [
+        "91-9910001793"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1447",
+  "name": "Robotics Foundation of India",
+  "primaryEmail": "gurmeeta_s@yahoo.co.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "911147560156",
+    "919910001793"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "A-1/124A",
+      "Lawrance Road, Keshavpuram,",
+      "Delhi",
+      "New Delhi",
+      "110035"
+    ]
+  }
+}

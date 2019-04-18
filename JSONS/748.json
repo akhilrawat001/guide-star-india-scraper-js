@@ -1,0 +1,38 @@
+{
+  "contacts": [
+    {
+      "name": "Viraf M Mehta",
+      "email": "",
+      "designation": "Chief Executive",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=748",
+  "name": "Partners in Change",
+  "primaryEmail": "info@picindia.org",
+  "website": "www.picindia.org",
+  "telephone": [
+    "911141642348",
+    "911141642351",
+    "911141642995",
+    "911141642348"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "C-75, South Extension Part II",
+      "New Delhi",
+      "Delhi",
+      "110049"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "N-6, Chittaranjan Park",
+      "South Delhi",
+      "Delhi",
+      "110019"
+    ]
+  }
+}

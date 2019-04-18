@@ -1,0 +1,38 @@
+{
+  "contacts": [
+    {
+      "name": "K Sundara Raj",
+      "email": "partlibraries@yahoo.co.in",
+      "designation": "Secretary",
+      "mobile": [
+        "91-4651-267215",
+        "91-9443606404"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=828",
+  "name": "Peoples Association for Reading and Transformation",
+  "primaryEmail": "partlibraries@yahoo.co.in",
+  "website": "www.partlibraries.info",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service"
+  ],
+  "telephone": [
+    "914651267215",
+    "919443606404"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "Kottavilai, Vadakkankarai",
+      "Kappiyarai Post",
+      "Kottavilai",
+      "Kanyakumari",
+      "Tamil Nadu",
+      "629156"
+    ]
+  },
+  "briefDescription": "Creating lending librariesCreating home librariesReading awareness programmes and competitions in schoolsPublications and Book EvaluationSkill development programmesJan 2012 will be the 25th year of the organisation. Has served more than 15000 people sofar.",
+  "yearOfEstablishment": "1988"
+}

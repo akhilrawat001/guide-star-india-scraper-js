@@ -1,0 +1,33 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5358",
+  "name": "WomenPowerConnect",
+  "primaryEmail": "network.wpc@gmail.com",
+  "website": "www.womenpowerconnect.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "911142705170",
+    "911142705170"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "WomenPowerConnect   A 1/271",
+      "First Floor  Safdarjung Enclave",
+      "New Delhi",
+      "Delhi",
+      "110029"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "delhi",
+      "New Delhi",
+      "Delhi",
+      "110029"
+    ]
+  }
+}

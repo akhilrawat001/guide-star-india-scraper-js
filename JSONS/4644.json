@@ -1,0 +1,27 @@
+{
+  "contacts": [
+    {
+      "name": "Basudeo Pandit",
+      "email": "gvsmahesmunda@yahoo.com",
+      "designation": "Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4644",
+  "name": "Gramin Vikas Samiti",
+  "primaryEmail": "gvsmahesmunda@yahoo.com",
+  "telephone": [
+    "916532237337",
+    "919939313527"
+  ],
+  "mainAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "Gramin Vikas Samiti Maheshmunda",
+      "At & Po Maheshmunda",
+      "Giridih",
+      "Jharkhand",
+      "815312"
+    ]
+  }
+}

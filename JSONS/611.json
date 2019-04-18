@@ -1,0 +1,25 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=611",
+  "name": "Slum Rehabilitation Society (S.R.S)",
+  "primaryEmail": "srsmumbai@gmail.com",
+  "website": "srsindia.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "912226408911",
+    "912226518918",
+    "912226408911"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Swapna Safalya, A-Wing",
+      "Gr.Floor, 25Th Road, Bandra - (W)",
+      "Mumbai",
+      "Maharashtra",
+      "400050"
+    ]
+  }
+}

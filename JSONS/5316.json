@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Neeraj Srivastava",
+      "email": "gvs_gkp@rediffmail.com",
+      "designation": "Co-ordinator",
+      "mobile": [
+        "91-7800030975"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5316",
+  "name": "Gram Vikas Samiti",
+  "primaryEmail": "gvs_gkp@rediffmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919415378665"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "L.I.G.-45, Phase-3",
+      "Raptinagar Colony,  Post: Arogya Mandir",
+      "Gorakhpur",
+      "Uttar Pradesh",
+      "273003"
+    ]
+  },
+  "briefDescription": "Gram Vikas Samiti is located in Gorakhpur Uttar Pradesh. Working in area of Maharajganj, Siddharthnagar, Gorakhpur & Shrawasti. The organization is working basically on Socio economic and overall development of downtrodden section of society. Organization have team of 11 staff.",
+  "yearOfEstablishment": "1988"
+}

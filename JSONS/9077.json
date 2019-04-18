@@ -1,0 +1,37 @@
+{
+  "contacts": [
+    {
+      "name": "Mr. Abhishek Singh",
+      "email": "secretary@sachet.ngo",
+      "designation": "Secretary",
+      "mobile": [
+        "91-9695876666"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9077",
+  "name": "SARASWATI CHARITABLE EDUCATIONAL AND TRAINING SOCIETY",
+  "primaryEmail": "sachetindia@gmail.com",
+  "website": "www.sachet.ngo",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Support"
+  ],
+  "telephone": [
+    "915229876543"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "2/677, Sector H",
+      "Jankipuram",
+      "Lucknow",
+      "Uttar Pradesh",
+      "226021"
+    ]
+  },
+  "briefDescription": "SACHET | सचेत Saraswati Charitable Educational and Training Society works on the ideology of its Founder and President Mr. Ram Krishna Singh “बुनियादी विकास से ही देश एवं जनता की उन्नति संभव है” i.e. only concrete development such as education, skill development, and knowledge can lead to prosperity of an individual and the country.",
+  "yearOfEstablishment": "2011"
+}

@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Nikita Sarah",
+      "email": "nikita.sarah@tlmindia.org",
+      "designation": "Head Media & Advocacy",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4765",
+  "name": "The Leprosy Mission Trust India",
+  "primaryEmail": "nikita.sarah@tlmindia.org",
+  "website": "www.tlmindia.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service"
+  ],
+  "telephone": [
+    "911143533300",
+    "911143533300"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "CNI Bhavan",
+      "16, Pandit Pant Marg",
+      "New Delhi",
+      "Central Delhi",
+      "Delhi",
+      "110001"
+    ]
+  }
+}

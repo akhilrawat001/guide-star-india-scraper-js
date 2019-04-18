@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "M M Gajbhiye",
+      "email": "gvssamt@gmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2954",
+  "name": "Gramin Vikas Shikshan Sanstha",
+  "primaryEmail": "gvssamt@gmail.com",
+  "organisationType": [
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "917212672693",
+    "917212672693"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Manjiri Mhasala",
+      "Nandagaon",
+      "Amravati",
+      "Maharashtra",
+      "444701"
+    ]
+  }
+}

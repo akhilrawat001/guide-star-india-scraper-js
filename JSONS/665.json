@@ -1,0 +1,48 @@
+{
+  "contacts": [
+    {
+      "name": "Gourisankar Ghosh",
+      "email": "",
+      "designation": "Chief Executive Officer",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=665",
+  "name": "FXB India Suraksha",
+  "primaryEmail": "fxbindia@fxbsuraksha.org",
+  "website": "http://www.fxbsuraksha.in/",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network"
+  ],
+  "telephone": [
+    "911204751900",
+    "911204751901",
+    "911204751900"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "D-60 second floor",
+      "Kalkaji",
+      "New Delhi",
+      "South Delhi",
+      "Delhi",
+      "110019"
+    ]
+  },
+  "briefDescription": "FXB India Suraksha (FXBIS) is an Indian non-governmental, non-profit organization providing integrated development assistance to disadvantaged  women, children and communities in rural and urban India to reduce their vulnerabilities in respect of poverty, health, education and protection.  As the country chapter of the Geneva-based NGO François-Xavier Bagnoud International (FXBI), FXB’s activities in India date back to 1991. In 2007 FXB India Suraksha was established as an autonomous Indian entity registered under section 8 of the Companies Act, 2013. FXBIS’ area of intervention expanded over the years from its original focus on working with families affected by HIV/AIDS to a community-based, multi-sectoral programme approach along its four ‘Domains for Change' – Access to Quality Education, Livelihood Promotion, Improved Health Status, and Protection and Safety. With the vision to see an India in which children and communities lead self-reliant and empowered lives FXBIS aims to ensure that every child achieves her/his potential in a healthy, poverty free and protective environment. Today, FXBIS works in different pockets across 14 Indian states and union territories and reaches out to over 3, 00,000 people through its community-based multi- sectoral programmes and interventions",
+  "yearOfEstablishment": "2007",
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "66/2253, 'Sarvpriya'",
+      "Gurudwara Road",
+      "Karol Bagh",
+      "New Delhi",
+      "Delhi",
+      "110005"
+    ]
+  }
+}

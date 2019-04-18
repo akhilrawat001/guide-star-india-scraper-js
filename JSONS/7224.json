@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Dr. Shisir Kumar Das",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7224",
+  "name": "Indian Institute of Education and Care(IIEC)",
+  "primaryEmail": "shisirdas.iiec@gmail.com",
+  "website": "www.iiecodisha.org",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919853910405"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "K ï¿½ 7/161,",
+      "Kalinga Nagar, P.O.- Ghatikia",
+      "Bhubaneswar",
+      "Khordha",
+      "Odisha",
+      "751003"
+    ]
+  }
+}

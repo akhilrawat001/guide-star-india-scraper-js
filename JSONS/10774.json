@@ -1,0 +1,23 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10774",
+  "name": "CENTRE FOR POLICY STUDIES",
+  "primaryEmail": "info@cpsindia.org",
+  "website": "http://cpsindia.org/",
+  "organisationType": [
+    "Network"
+  ],
+  "telephone": [
+    "919937487360"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "Plot No. 11-12, Ashok Nandhavanam",
+      "Manickam Nagar Off Murugan Kovil Road,Kundrathur",
+      "Chennai",
+      "Tamil Nadu",
+      "600069"
+    ]
+  }
+}

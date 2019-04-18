@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "GEETA PURI",
+      "email": "ektarafoundation@gmail.com",
+      "designation": "CHAIR PERSON",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4701",
+  "name": "Ek Tara Foundation",
+  "primaryEmail": "ektarafoundation@gmail.com",
+  "website": "www.ektarafoundation.com",
+  "telephone": [
+    "911126251849",
+    "919811130726"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "L-24 A",
+      "South Extension Part II",
+      "New Delhi",
+      "Delhi",
+      "110049"
+    ]
+  }
+}

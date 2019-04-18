@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "NARESH CHAGANTI",
+      "email": "nareshsssdhp@gmail.com",
+      "designation": "PRESIDENT & CEO",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5739",
+  "name": "Kalayika Seva Sangam",
+  "primaryEmail": "nareshsssdhp@gmail.com",
+  "telephone": [
+    "918008078067"
+  ],
+  "mainAddrress": {
+    "state": "Telangana",
+    "address": [
+      "H.NO:6-77,OPP:Railway Quaters,",
+      "Hyderabad Road, Dichpally(R/S)",
+      "Nizamabad",
+      "Telangana",
+      "503175"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Telangana",
+    "address": [
+      "H.NO:6-77,OPP:Railway Quaters,",
+      "Hyderabad Road, Dichpally(R/S)",
+      "Nizamabad",
+      "Telangana",
+      "503175"
+    ]
+  }
+}

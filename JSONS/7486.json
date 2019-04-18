@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Akhilesh Kumar",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7486",
+  "name": "PEOPLES ASSOCIATION FOR DEVELOPMENT",
+  "primaryEmail": "peoplesdevelopment@gmail.com",
+  "website": "www.peoplesassociation.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919415364281"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "Sarraf Kunj, Opp.Mandi Samiti,",
+      "Jangi Road",
+      "Mirzapur",
+      "Uttar Pradesh",
+      "230001"
+    ]
+  }
+}

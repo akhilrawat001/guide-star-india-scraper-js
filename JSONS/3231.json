@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "Shahid Aslam",
+      "email": "wajidaslam@gmail.com",
+      "designation": "Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3231",
+  "name": "Aman Social Welfare and Medical Foundation",
+  "primaryEmail": "wajidaslam@gmail.com",
+  "telephone": [
+    "912402348544",
+    "918055573232"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "B5 Sarfraz Nagar",
+      "St Colony",
+      "Fazalapur",
+      "Aurangabad",
+      "Maharashtra",
+      "431001"
+    ]
+  }
+}

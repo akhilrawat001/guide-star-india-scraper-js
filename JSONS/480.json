@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "name": "Manju Utamchandani/ Aadil Nadeem",
+      "email": "sec@bom4.vsnl.net.in",
+      "designation": "Project Co-ordinator/ Manager",
+      "mobile": [
+        "91-22-23090887"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=480",
+  "name": "Society for the Education of the Crippled (Child and Adult)",
+  "primaryEmail": "sec@bom4.vsnl.net.in",
+  "website": "http://www.sec-india.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "912223090355",
+    "912223074517",
+    "912223090355"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Agripada Municipal School Bldg. Motlibai Street",
+      "Mumbai",
+      "Maharashtra",
+      "400011"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Maharashtra"
+    ]
+  }
+}

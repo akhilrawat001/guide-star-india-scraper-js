@@ -1,0 +1,36 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10636",
+  "name": "GiftAbled Foundation",
+  "primaryEmail": "info@giftabled.org",
+  "website": "www.giftabled.org",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "919980350180",
+    "919980350180"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "11l17 3rd Cross road,",
+      "1st Block, Jayangar East,",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560011"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "PR-406, Golden Blossom",
+      "Opp. Sathya Sai Ashram Kadugodi",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560067"
+    ]
+  }
+}

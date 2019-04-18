@@ -1,0 +1,25 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=201",
+  "name": "Akshaya Trust",
+  "primaryEmail": "gopalan1960@gmail.com",
+  "website": "www.akshayatrust2001.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "914424984134",
+    "914443577224",
+    "919841013690"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "B-1, Kumara Vijayam",
+      "99, Royapettah High Road, Mylapore",
+      "Chennai",
+      "Tamil Nadu",
+      "600004"
+    ]
+  }
+}

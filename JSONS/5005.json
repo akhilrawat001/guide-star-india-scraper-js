@@ -1,0 +1,27 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5005",
+  "name": "Karthikeya Gramodyog Shikshan Sansthan (KGSS)",
+  "primaryEmail": "info@kgss.org",
+  "website": "http://www.kgss.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Grant-making",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "915422339321",
+    "919450541367"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "Bahadurpur , Kustashram Parao",
+      "Chandauli",
+      "Uttar Pradesh",
+      "221102"
+    ]
+  }
+}

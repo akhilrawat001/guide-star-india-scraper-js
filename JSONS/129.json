@@ -1,0 +1,35 @@
+{
+  "contacts": [
+    {
+      "name": "Anjana",
+      "email": "",
+      "designation": "Programme Coordinator",
+      "mobile": []
+    },
+    {
+      "name": "Anjana",
+      "email": "",
+      "designation": "Programme Coordinator",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=129",
+  "name": "FAME India (Foundation for Action Motivation & Empowerment)",
+  "primaryEmail": "fameindia@rediffmail.com",
+  "website": "www.fameindia.org",
+  "telephone": [
+    "918022446622",
+    "918022446623"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "#156, II main 36th cross",
+      "VII block Jayanagar",
+      "Bangalore",
+      "Bengaluru (Bangalore) Rural",
+      "Karnataka",
+      "560082"
+    ]
+  }
+}

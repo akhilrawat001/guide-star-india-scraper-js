@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Uday Pratap Singh",
+      "email": "vikashkendra.palamau@gmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8583",
+  "name": "Vikash Kendra",
+  "primaryEmail": "vikashkendra.palamau@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919431351591"
+  ],
+  "mainAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "Village +po-Sudna Gayatri Mandir Road",
+      "Daltonganj[Medninagar]",
+      "Palamu",
+      "Jharkhand",
+      "822101"
+    ]
+  }
+}

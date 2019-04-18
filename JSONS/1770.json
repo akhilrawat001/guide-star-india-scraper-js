@@ -1,0 +1,28 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1770",
+  "name": "Vision India",
+  "primaryEmail": "info@visionindia.net.in",
+  "website": "www.visionindia.net.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network"
+  ],
+  "telephone": [
+    "917418452535",
+    "917418828580",
+    "917418452535"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "1/445",
+      "Charlu Street,Pillaikulam,Vandalur",
+      "Chennai",
+      "Kancheepuram",
+      "Tamil Nadu",
+      "600048"
+    ]
+  }
+}

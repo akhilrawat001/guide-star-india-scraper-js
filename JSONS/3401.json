@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Dr.Pramod Sitaramji Ghuge",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3401",
+  "name": "DR.PRAMOD GHUGE BAHUUDDESHIYA SANSTHA",
+  "primaryEmail": "dr.pramodghuge@rediffmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919423611230"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Near Panchayat Samiti,",
+      "New Malegaon",
+      "Washim",
+      "Maharashtra",
+      "444503"
+    ]
+  }
+}

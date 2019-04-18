@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "SRIMAN NARAYAN MISHRA",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8686",
+  "name": "CANMASS",
+  "primaryEmail": "canmass@rediffmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919437028205"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "NB-84",
+      "FRIENDS COLONY",
+      "NUABAZAR PARADIP PORT",
+      "Jagatsinghapur",
+      "Odisha",
+      "754142"
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1305",
+  "name": "Kheti Virasat",
+  "primaryEmail": "khetivirasat@gmail.com",
+  "website": "www.khetivirasat.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "911887224411",
+    "911887224411",
+    "919417011250"
+  ],
+  "mainAddrress": {
+    "state": "Punjab",
+    "address": [
+      "539,Indra Nagar,",
+      "Opposit Khawaja Peer Mandir",
+      "Nangal",
+      "Rupnagar",
+      "Punjab",
+      "140124"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Punjab",
+    "address": [
+      "4042/3,Peeli Sarak,",
+      "Ragho Majra",
+      "Patiala",
+      "Punjab",
+      "147001"
+    ]
+  }
+}

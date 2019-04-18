@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Ms. Mhalo  Ezung",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5292",
+  "name": "CHARITY  CLUB  MULTIPURPOSE  SOCIETY",
+  "primaryEmail": "ccmsociety@redifmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919436000257"
+  ],
+  "mainAddrress": {
+    "state": "Nagaland",
+    "address": [
+      "Tsumang Colony, Wokha Town",
+      "Near Daily Market, Wokha Town",
+      "Wokha  Town",
+      "Wokha",
+      "Nagaland",
+      "797111"
+    ]
+  }
+}

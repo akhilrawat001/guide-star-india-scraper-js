@@ -1,0 +1,45 @@
+{
+  "contacts": [
+    {
+      "name": "G S Nathawat",
+      "email": "",
+      "designation": "Chief Executive",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1803",
+  "name": "Watershed Consultant Organisation",
+  "primaryEmail": "wasco34@rediffmail.com",
+  "website": "http://www.wasco.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "911478222005",
+    "912969233150",
+    "911478222005",
+    "919414236454"
+  ],
+  "mainAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "1/186",
+      "Housing Board Colony",
+      "Pratapgarh",
+      "Rajasthan",
+      "312605"
+    ]
+  },
+  "briefDescription": "WASCO since inception engaged in Natural Resource Management. No. of people served is 20",
+  "yearOfEstablishment": "1995",
+  "regiseredAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "230",
+      "Shri Gopal Nagar , Gopalpura  By- Pass Road",
+      "Jaipur",
+      "Rajasthan",
+      "302019"
+    ]
+  }
+}

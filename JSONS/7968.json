@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Avinash Samarsing Kumavat",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7968",
+  "name": "Shri Ashtang Yog Bahuuddeshiya Sanstha",
+  "primaryEmail": "saybsjalgaon@gmail.com",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "912572254826",
+    "912572254826"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Krupachhatra Plot No 13,",
+      "Gut No 94/1 Jay Hind Colony Khote Nagar",
+      "Jalgaon",
+      "Maharashtra",
+      "425002"
+    ]
+  }
+}

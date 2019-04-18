@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "BHUSHAN BHAGAT",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8150",
+  "name": "JAGRITI GUMLA",
+  "primaryEmail": "jagriti1199@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "916524224594",
+    "916524224594"
+  ],
+  "mainAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "YASHODA PATH LAXMAN NAGAR",
+      "JASHPUR ROAD",
+      "GUMLA",
+      "Gumla",
+      "Jharkhand",
+      "835207"
+    ]
+  }
+}

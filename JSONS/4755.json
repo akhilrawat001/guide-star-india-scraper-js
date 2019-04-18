@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Hema Khatri",
+      "email": "madhayam2005@yahoo.co.in",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4755",
+  "name": "Madhayam Samajik Sanatha",
+  "primaryEmail": "madhayam2005@yahoo.co.in",
+  "website": "www.madhayam.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919336669096"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "Sec-9/550",
+      "IndiraNagar",
+      "Lucknow",
+      "Uttar Pradesh",
+      "226016"
+    ]
+  }
+}

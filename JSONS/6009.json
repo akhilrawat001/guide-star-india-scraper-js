@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Dr.T.Venkateswara Rao, M.Sc., Ph.D",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6009",
+  "name": "SRI DAKSHINYA BHAVA SAMITHI",
+  "primaryEmail": "dakshinya1995@yahoo.com",
+  "website": "www.dakshinya.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919382934157"
+  ],
+  "mainAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "Madhavi Nilayam, JKC College Road,",
+      "Swarna Bharathi Nagar,",
+      "Guntur",
+      "Andhra Pradesh",
+      "522006"
+    ]
+  }
+}

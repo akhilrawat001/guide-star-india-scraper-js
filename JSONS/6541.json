@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Mr. Russel Fernandes",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6541",
+  "name": "El-Elyon Charity Trust",
+  "primaryEmail": "elelyontrust@live.com",
+  "website": "http://www.elelyontrust.org/",
+  "organisationType": [
+    "Direct Service",
+    "Intermediary",
+    "Support"
+  ],
+  "telephone": [
+    "919890443630"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Anne Villa, Fatima Colony",
+      "Fatima road",
+      "Ambernath",
+      "Thane",
+      "Maharashtra",
+      "421501"
+    ]
+  }
+}

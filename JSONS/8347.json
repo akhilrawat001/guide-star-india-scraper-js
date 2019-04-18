@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Antaryami Nanda",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8347",
+  "name": "DIGA DARSHAN",
+  "primaryEmail": "antaryaminanda_uti@rediffmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "916762284012",
+    "916762284012"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "At/P.O. Mandar",
+      "Via Gondia",
+      "Dist. Dhenkanal",
+      "Dhenkanal",
+      "Odisha",
+      "759016"
+    ]
+  }
+}

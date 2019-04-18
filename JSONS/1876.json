@@ -1,0 +1,37 @@
+{
+  "contacts": [
+    {
+      "name": "Priti Mishra",
+      "email": "pritim17@rediffmail.com",
+      "designation": "programme officer(SHGs)",
+      "mobile": []
+    },
+    {
+      "name": "Priti Mishra",
+      "email": "pritim17@rediffmail.com",
+      "designation": "programme officer(SHGs)",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1876",
+  "name": "People's Empowerment and Need Based Community Development (PENCODE)",
+  "primaryEmail": "pencode_SHG@rediffmail.com",
+  "website": "www.pencode.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "916752221868",
+    "919861133932"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "Water Works Road",
+      "Infront of Puri Sadar Block Office,",
+      "Puri",
+      "Odisha",
+      "752002"
+    ]
+  }
+}

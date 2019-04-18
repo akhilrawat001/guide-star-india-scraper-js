@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Suneel Jain Khajuria",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8283",
+  "name": "SUYASH",
+  "primaryEmail": "suyashltp@rediffmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919452593100"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "65, Sarainpura",
+      "Lalitpur",
+      "Uttar Pradesh",
+      "284403"
+    ]
+  }
+}

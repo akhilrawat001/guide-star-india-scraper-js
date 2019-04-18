@@ -1,0 +1,36 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=152",
+  "name": "Bethany Gospel Ministries and Social Service Centre",
+  "primaryEmail": "bgmsocialservice@yahoo.com",
+  "website": "www.bgm.org.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "914712273267",
+    "919746122137"
+  ],
+  "mainAddrress": {
+    "state": "Kerala",
+    "address": [
+      "BGM Social Service Centre",
+      "Neyyardam",
+      "Thiruvananthapuram",
+      "Kerala",
+      "695572"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Kerala",
+    "address": [
+      "BGM Social Service Centre, Ammamkulangara",
+      "Panniyode P O",
+      "Kattakkada",
+      "Thiruvananthapuram",
+      "Kerala",
+      "695572",
+      "AP_TelBill_52.PDF"
+    ]
+  }
+}

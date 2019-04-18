@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Nanda Sudam Sarode",
+      "email": "",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9313",
+  "name": "Sarode Bahudeshiy Samajik Audhogik Shaikshanik Sanstha Nagpur",
+  "primaryEmail": "sarodebsass@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "917387075355"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "H NO.1,Sarode Layout,Padmavati Nagar,",
+      "Godhani(Rly)",
+      "Nagpur",
+      "Maharashtra",
+      "441123"
+    ]
+  },
+  "briefDescription": "Sarode Bahuuuddeshiy Samajik Auddhogik Shaaikshanik Sanstha is located in Nagpur, Maharashtra.",
+  "yearOfEstablishment": "2004"
+}

@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "VISWANATHAN",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5057",
+  "name": "BHARATHA DIFFERENTLY ABLED WELFARE TRUST",
+  "primaryEmail": "bharathatrust@gmail.com",
+  "website": "-",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919443205931"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "50/29 D , Mahalakshmi Nagar, Kannankurichi, SALEM-636008",
+      "SALEM",
+      "Salem",
+      "Tamil Nadu",
+      "636008"
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "contacts": [
+    {
+      "name": "sathiya Babu",
+      "email": "ssbaburam@gmail.com",
+      "designation": "Managing Trustee",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5267",
+  "name": "SCOPE INDIA",
+  "primaryEmail": "ssbaburam@gmail.com",
+  "website": "www,scopeindia,org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "914142293366",
+    "914142293366"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "5-A/1, Ramdoss Naidu Street, Pudhupalayam,",
+      "Pudhupalayam ,Cuddalore",
+      "Cuddalorer,",
+      "Cuddalore",
+      "Tamil Nadu",
+      "607001"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "not provided",
+      "Cuddalorer,",
+      "Cuddalore",
+      "Tamil Nadu",
+      "607001"
+    ]
+  }
+}

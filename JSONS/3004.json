@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Ranjan Sikdar",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3004",
+  "name": "Beleghata Society for Social & Rural Development",
+  "primaryEmail": "sarkar6@gmail.com",
+  "website": "http://www.bssrd.org",
+  "organisationType": [
+    "Advocacy & Campaigning"
+  ],
+  "telephone": [
+    "919831776327"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "85, Badan Roy Lane, Kolkata 700010",
+      "Badan Roy Lane",
+      "kolkata",
+      "Kolkata",
+      "West Bengal",
+      "700010"
+    ]
+  }
+}

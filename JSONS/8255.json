@@ -1,0 +1,26 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8255",
+  "name": "White Wings",
+  "primaryEmail": "whitewingstrust2014@gmail.com",
+  "website": "www.whitewingstrust.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919942935942"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "324/2 V O C Street  Poouthottam Nagar",
+      "Kakkalur Post",
+      "Tiruvallur",
+      "Tamil Nadu",
+      "602003"
+    ]
+  },
+  "briefDescription": "White Wings is Located in Tiruvallur, Tamil Nadu.",
+  "yearOfEstablishment": "2014"
+}

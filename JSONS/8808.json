@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Tenkale Hanmant Balira",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8808",
+  "name": "JOSHABA BAHUUDDESHIYA SEVABHAVI SANSTHA",
+  "primaryEmail": "vishwadeepppl2013@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919730349759"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "At Malwati Tq Latur",
+      "Latur",
+      "Maharashtra",
+      "413512"
+    ]
+  }
+}

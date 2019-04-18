@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "Sailendra Pratap Singh",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8680",
+  "name": "Sehat",
+  "primaryEmail": "sehatofindia@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919470218077"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "Ward no-10",
+      "Supaul",
+      "Bihar",
+      "831111"
+    ]
+  }
+}

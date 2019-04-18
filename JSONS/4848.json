@@ -1,0 +1,37 @@
+{
+  "contacts": [
+    {
+      "name": "Amitava Bhattacharya",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "24178517",
+        "9830173382"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4848",
+  "name": "Contact Base",
+  "primaryEmail": "banglanatak@gmail.com",
+  "website": "www.banglanatak.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service"
+  ],
+  "telephone": [
+    "913324178517",
+    "913324178517"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "58/81 Prince Anwar Shah Road",
+      "Lake Gardens",
+      "Kolkata",
+      "West Bengal",
+      "700045"
+    ]
+  },
+  "briefDescription": "banglanatak dot com works with a mission to foster pro-poor growth and sustainable development using culture based approach. The organisation works across India for protection of rights or women, children and indigenous people. We educate deprived communities on  rights and entitlements, and skill empower them to make their traditional art skills a means of sustainable livelihood.",
+  "yearOfEstablishment": "2002"
+}

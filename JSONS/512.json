@@ -1,0 +1,35 @@
+{
+  "contacts": [
+    {
+      "name": "S Padma",
+      "email": "vdc_raju@yahoo.com",
+      "designation": "Project Coordinator",
+      "mobile": [
+        "91-431-2561061"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=512",
+  "name": "Village Development Centre",
+  "primaryEmail": "vdc_raju@yahoo.com",
+  "website": "http://www.vdcindia.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "914312561061",
+    "914312561061"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "NO, 6",
+      "6TH STREET, GANDHINAGAR",
+      "Tiruchirappalli",
+      "Tamil Nadu",
+      "621005"
+    ]
+  },
+  "briefDescription": "VDC has been working in Tiruchirappalli district, Tamilnadu, India with children, child labourers, women, youth, farmers, tribal and gipsy community and totally serving among 10,000 population for the past 25 years. Providing education for child labourers, skill development for women and farmers, credit support for women groups, organising tree plantation, environmental awareness camps, health camps, support of postives and organising the tribal and gipsy community for their total empowerment",
+  "yearOfEstablishment": "1984"
+}

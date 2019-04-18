@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "D. Venkateshwarllu",
+      "email": "venkaterireddy276@gmail.com",
+      "designation": "Senior Spcial Teacher",
+      "mobile": [
+        "91-5892-654560",
+        "91-9440336730"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2841",
+  "name": "S.K.R. Pupil's Welfare Society",
+  "primaryEmail": "skrpupis@yahoo.co.in",
+  "website": "www.skrsociety.org.in",
+  "telephone": [
+    "918592654560",
+    "919440660692"
+  ],
+  "mainAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "BEHIND A.P.S.RTC BUS STATION",
+      "CHIMAKURTHY",
+      "PRAKASAM",
+      "Prakasam",
+      "Andhra Pradesh",
+      "523226"
+    ]
+  }
+}

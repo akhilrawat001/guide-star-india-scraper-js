@@ -1,0 +1,49 @@
+{
+  "contacts": [
+    {
+      "name": "Pravin Yadav",
+      "email": "pravinpky007@gmail.com",
+      "designation": "Project Manager",
+      "mobile": [
+        "91-9769209051"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5486",
+  "name": "Entrepreneurship Development and Resources Support Trust",
+  "primaryEmail": "edrest@gmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919769209051"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Plaza CHS, Plot No: 69, Sector: 2",
+      "Koparkhairane",
+      "Navi Mumbai - 400709",
+      "Mumbai Suburban",
+      "Maharashtra",
+      "400709"
+    ]
+  },
+  "briefDescription": "EDREST (Entrepreneurship Development and Resources Support Trust) started its work in the area of education and community development in the year 2004.  Formally it was registered on 20th February 2006, under the Bombay Public Trust Act, 1950. It is also registered under 12A of the Income Tax Act, 1961 and has 80G tax exemption certificates.  EDREST core objectives are;•\tTo enable reach of quality education, to bring sustainable changes in the lives of the poor.  •\tTo enable social and economic empowerment of women and youth through skill building programs and handhold in establishing of their own entrepreneurship and enhance local employment.•\tReach out with sports equipment, techniques and facilities to children in their community",
+  "yearOfEstablishment": "2006",
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Trimurti CHS, GL3/5/5,",
+      "Sector: 6, Ghansoli,",
+      "Navi Mumbai",
+      "Mumbai",
+      "Maharashtra",
+      "400701"
+    ]
+  }
+}

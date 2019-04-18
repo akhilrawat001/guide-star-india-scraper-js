@@ -1,0 +1,35 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10968",
+  "name": "SUVARN SHIKSHAN SANSTHA",
+  "primaryEmail": "chouguleharshad98@gmail.com",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "919407415092"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "House No.323",
+      "At Post Alkud S",
+      "Tal Kavathe Mahankal",
+      "Sangli",
+      "Maharashtra",
+      "416411"
+    ]
+  },
+  "briefDescription": "Suvarn Shikshan Sanstha is located in Sangli, Maharashtra.",
+  "yearOfEstablishment": "2012",
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "House No. 323",
+      "Alkud S",
+      "Sangli",
+      "Maharashtra",
+      "416411"
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8775",
+  "name": "Association for Human rights Education and Development (AHEAD)",
+  "primaryEmail": "ahead.npd@gmail.com",
+  "website": "www.aheadindia.org",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919437076858"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "Ramaswamy Marg,Ward No. 7, P.O. KHARIAR",
+      "Nuapada",
+      "Odisha",
+      "766107"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Odisha",
+    "address": [
+      "At/Po: Bhawanipatna",
+      "Kalahandi",
+      "Odisha",
+      "766001"
+    ]
+  }
+}

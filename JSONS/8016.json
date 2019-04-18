@@ -1,0 +1,22 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8016",
+  "name": "Mother Concern",
+  "primaryEmail": "contact@motherconcern.org",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "919654272768"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "B-22, Shop No.4,",
+      "Mayur Vihar Phase-1, Delhi",
+      "Delhi",
+      "East Delhi",
+      "110091"
+    ]
+  }
+}

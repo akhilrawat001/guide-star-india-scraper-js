@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "Lalitha Bai",
+      "email": "rev.j.russelraj@gmail.com",
+      "designation": "Seceratery",
+      "mobile": [
+        "91-33-24174611"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1353",
+  "name": "Good Tiding Mission",
+  "primaryEmail": "goodtidingm@yahoo.com",
+  "website": "http://goodtidingmission.hpage.com",
+  "organisationType": [
+    "Direct Service",
+    "Grant-making",
+    "Support"
+  ],
+  "telephone": [
+    "913332570002",
+    "913324229239",
+    "919432014692"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "D-28 K M D A Housing Project",
+      "Lake Garden-West,Tollygunje,",
+      "Kolkata",
+      "West Bengal",
+      "700033"
+    ]
+  }
+}

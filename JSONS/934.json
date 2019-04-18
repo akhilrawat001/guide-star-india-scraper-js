@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "name": "Sreedhar K R",
+      "email": "shrirayaru@yahoo.com",
+      "designation": "Volunteer",
+      "mobile": []
+    },
+    {
+      "name": "Sreedhar K R",
+      "email": "shrirayaru@yahoo.com",
+      "designation": "Volunteer",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=934",
+  "name": "Sri Guru Raghavendra Charitable Trust",
+  "primaryEmail": "shrirayaru@gmail.com",
+  "website": "http://www.sgrv.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919902937221"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "Sri Guru Raghavendra Charitable Trust(R), Lakkasandra",
+      "Tubugere Post",
+      "Doddaballapur",
+      "Bengaluru (Bangalore) Rural",
+      "Karnataka",
+      "561204"
+    ]
+  },
+  "briefDescription": "Sri Guru Raghavendra Charitable Trust is providing quality education to rural children of villages surrounded by an remote hamlet called Lakkasandra - 65Kms from Bangalore Rural District of Karnataka State, INDIA where children are prone to become child labor, remain illiterate and contribute to the overall backwardness of the rural community to the issues like poverty, unemployment, alcoholism, unhygienic livelihood etc. Majority of the population in these villages are underprivileged, economically weak and depend on small scalesmall-scale farming and daily wage duties for their livelihood. Apart from education, our programs include awareness creation campaigns, conducting health camps, computer training for rural youth etc. Approximately 1800+ children are served directly by our organization since last decade.",
+  "yearOfEstablishment": "2004"
+}

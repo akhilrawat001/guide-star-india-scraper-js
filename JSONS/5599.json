@@ -1,0 +1,65 @@
+{
+  "contacts": [
+    {
+      "name": "Ankur Dang",
+      "email": "info@unitingsmilesfoundation.org",
+      "designation": "President",
+      "mobile": [
+        "91-9810569628"
+      ]
+    },
+    {
+      "name": "Ankur Dang",
+      "email": "info@unitingsmilesfoundation.org",
+      "designation": "President",
+      "mobile": [
+        "91-9810569628"
+      ]
+    },
+    {
+      "name": "Ankur Dang",
+      "email": "info@unitingsmilesfoundation.org",
+      "designation": "President",
+      "mobile": [
+        "91-9810569628"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5599",
+  "name": "Uniting Smiles Foundation (USF)",
+  "primaryEmail": "unitingsmilesfoundation@gmail.com",
+  "website": "www.unitingsmilesfoundation.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919818002016",
+    "919810569628",
+    "919818655638",
+    "918800465747"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "705 Shivalik Towers",
+      "Kaushambi",
+      "Ghaziabad",
+      "Uttar Pradesh",
+      "201010"
+    ]
+  },
+  "briefDescription": "Building a better world for tomorrow by spreading hope and healing to the children of today.....We have ongoing health check up camps and wellness clinics for economically weaker sections of society and are adopting Bhowapur village for our projects which include wishing well and kriti.",
+  "yearOfEstablishment": "2014",
+  "regiseredAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "705 Shivalik Towers",
+      "Kaushambi, opposite Pacific Mall",
+      "Ghaziabad",
+      "Uttar Pradesh",
+      "201010"
+    ]
+  }
+}

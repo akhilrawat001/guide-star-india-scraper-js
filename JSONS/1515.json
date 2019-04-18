@@ -1,0 +1,37 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1515",
+  "name": "Association of Parents of Mentally Retarded Children",
+  "primaryEmail": "vishwasgore@adhar.org",
+  "website": "www.adhar.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "912225426753",
+    "919821054369"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "102, Om Shraddha Saburi CHS,",
+      "Vishnu Nagar, Opp. Bhagvati School Ground, Naupada",
+      "Thane (West)",
+      "Thane",
+      "Maharashtra",
+      "400602"
+    ]
+  },
+  "briefDescription": "Adhar runs a residential institution taking life long care for mentally challenged adults since 1994. Presently 201 mentally challenged adults are residing at Adhar, Badlapur and 13 at Nashik. Its a concrete solution to the worry of old Parents of Mentally Challenged adults that \"After us what? who will take care of my special child?\"",
+  "yearOfEstablishment": "1990",
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "C/o 5A/14, Pareira Nagar,",
+      "Khopat, Behind S. T. Workshop,",
+      "Thane",
+      "Maharashtra",
+      "400601"
+    ]
+  }
+}

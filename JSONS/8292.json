@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Kailas Baburao Patil",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8292",
+  "name": "National Institute For Community Development & Research",
+  "primaryEmail": "idealedptraining@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "912332327759",
+    "912332327759"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Plot No.23 Yojna Bhavan Golden Park Kalanagar,",
+      "Madhavnagar Road Sangli",
+      "Sangli",
+      "Maharashtra",
+      "416416"
+    ]
+  }
+}

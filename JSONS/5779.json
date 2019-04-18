@@ -1,0 +1,35 @@
+{
+  "contacts": [
+    {
+      "name": "Uma Shankar Sharma",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "2786340"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5779",
+  "name": "Jaipur Zila Vikas Parishad",
+  "primaryEmail": "jzvp@jaipurparishad.org",
+  "website": "www.jaipurparishad.org, www.rural-tourism.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "911412786340",
+    "911412786340"
+  ],
+  "mainAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "80/179, Mharshi Gautam Marg,",
+      "Mansarovar,",
+      "Jaipur",
+      "Rajasthan",
+      "302020"
+    ]
+  },
+  "briefDescription": "We being grass root NGO believe in innovations. Our innovative project Rural Tourism with local handicrafts development is being appreciated by every one. We are operating three Mobile Medical Units in Dausa district. Recently under National Urban Livelihoods Mission Self Help Groups in Jaipur city are being formed.",
+  "yearOfEstablishment": "1970"
+}

@@ -1,0 +1,54 @@
+{
+  "contacts": [
+    {
+      "name": "Ms. Gopika R.",
+      "email": "contact@suryodayschool.org",
+      "designation": "Project Manager",
+      "mobile": [
+        "91-9820339587"
+      ]
+    },
+    {
+      "name": "Ms. Gopika R.",
+      "email": "contact@suryodayschool.org",
+      "designation": "Project Manager",
+      "mobile": [
+        "91-9820339587"
+      ]
+    },
+    {
+      "name": "Ms. Gopika R.",
+      "email": "contact@suryodayschool.org",
+      "designation": "Project Manager",
+      "mobile": [
+        "91-9820339587"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7462",
+  "name": "SURYODAY TRUST",
+  "primaryEmail": "contact@suryodayschool.org",
+  "website": "http://suryodayschool.org/",
+  "organisationType": [
+    "Direct Service",
+    "Grant-making",
+    "Support"
+  ],
+  "telephone": [
+    "919820339587",
+    "919048827925"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "105, Shraddha Shopping Centre CHS,",
+      "Old Nagardas Road, Andheri East",
+      "Mumbai",
+      "Mumbai Suburban",
+      "Maharashtra",
+      "400069"
+    ]
+  },
+  "briefDescription": "Suryoday School is the first  school in Nala Sopara to provide affordable & quality education & therapy to children with mental disabilities. It started in 2010. Presently, we serve 43 children. We charge a nominal fees as children are from lower social economic background. Balance amount is funded through Trustees,  grants, individual and corporate donations. All Trustees are qualified professionals working with MNC's and support the school during weekends. We would like to also provide vocational training so that these children can be employed when they reach 18 years and become independent,confident and happy.  An independent school building is being taken up for construction in 2018-19 and provide education for up to 100 such children.",
+  "yearOfEstablishment": "2010"
+}

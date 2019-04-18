@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "A MOTALEB ALI",
+      "email": "bam.bhangore2@gmail.com",
+      "designation": "Contact prson",
+      "mobile": [
+        "91-3218 275755",
+        "91-9733701527"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6302",
+  "name": "KALER AIT NOOR EDUCATION SOCIETY",
+  "primaryEmail": "bam.bhangore2@gmail.com",
+  "telephone": [
+    "913218275755",
+    "913218275755"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Vill-Kalerait,P.O-Madhabpur(North)",
+      "P.S-Bhangore",
+      "South 24 Parganas",
+      "West Bengal",
+      "743502"
+    ]
+  }
+}

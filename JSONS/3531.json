@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "Gour hari Maity",
+      "email": "barbasudevpur@rediffmail.com",
+      "designation": "Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3531",
+  "name": "BARBASHUDEVPUR DESHAPRAN PRAGATI SANGHA",
+  "primaryEmail": "barbasudevpur@rediffmail.com",
+  "telephone": [
+    "913220272050",
+    "913220272102",
+    "913220272050"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "AT/PO-PAIKBHERI",
+      "MIDNAPORE",
+      "East Medinipur",
+      "West Bengal",
+      "721601"
+    ]
+  }
+}

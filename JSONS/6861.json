@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Mr.A.Manoharan",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6861",
+  "name": "NATIONAL EDUCATIONAL SOCIAL WELFARE TRUST",
+  "primaryEmail": "ram_hema2005@yahoo.co.in",
+  "website": "newst.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Support"
+  ],
+  "telephone": [
+    "919487046394",
+    "917871645367"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "1/87 Nehru Street, SATHUR,Arcot tk.,",
+      "11 B Nathala Tank St.,Navalpur,RANIPET,",
+      "VELLORE DT",
+      "Vellore",
+      "Tamil Nadu",
+      "632401"
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Dr Pramod Sitaramji Ghuge",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4474",
+  "name": "Peoples Research and Yog Ayurved Society (PRAYAS)",
+  "primaryEmail": "prayasngo@ymail.com",
+  "website": "www.guidestarindia.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919423611230"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "near panchayat samiti  New  malegaon",
+      "malegaon dist washim",
+      "Washim",
+      "Maharashtra",
+      "444503"
+    ]
+  }
+}

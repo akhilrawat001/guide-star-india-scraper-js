@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Pradeep Kumar",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5606",
+  "name": "Jan Chetna Manch Patamda",
+  "primaryEmail": "jcmpatamda@yahoo.in",
+  "website": "http://www.jan-chetna-manch-patamda.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "918102394140"
+  ],
+  "mainAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "Village- Sarangidih, P.O. - Kamalpur, Block- Patamda",
+      "East Singhbhum",
+      "Jharkhand",
+      "832105"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1403",
+  "name": "AROH Foundation",
+  "primaryEmail": "arohfoundation@gmail.com",
+  "website": "www.aroh.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "911203088070",
+    "911203088079"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "F-52,",
+      "Sector 8,",
+      "NOIDA",
+      "Gautam Buddha Nagar",
+      "Uttar Pradesh",
+      "201301"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "338, Than Singh Nagar,",
+      "Anand Parbat",
+      "New Delhi",
+      "Delhi",
+      "110005"
+    ]
+  }
+}

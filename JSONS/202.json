@@ -1,0 +1,36 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=202",
+  "name": "Udhavum Ullangal Public Charitable Trust",
+  "primaryEmail": "info@udhavumullangal.org.in",
+  "website": "www.udhavumullangal.org.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "914424344743",
+    "919444194743"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "77,First Main Road,CIT Nagar",
+      "Nandanam,Opp. to Fiat Car Showroom",
+      "Chennai",
+      "Tamil Nadu",
+      "600035"
+    ]
+  },
+  "briefDescription": "To provide educational and medical assistance, organise health awareness programmes, render timely help and relief during disaster and crisis and mobilise like-minded people to build a socially conscious selfless society",
+  "yearOfEstablishment": "2000",
+  "regiseredAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "77,First Main Road, CIT Nagar",
+      "Nandanam, Opp, to Fiat Car Showroom",
+      "Chennai",
+      "Tamil Nadu",
+      "600035"
+    ]
+  }
+}

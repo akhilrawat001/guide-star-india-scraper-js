@@ -1,0 +1,41 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2568",
+  "name": "Sukarya",
+  "primaryEmail": "sukarya@sukarya.org",
+  "website": "www.sukarya.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service"
+  ],
+  "telephone": [
+    "911244114251",
+    "911244114253",
+    "919999918517",
+    "911244043538"
+  ],
+  "mainAddrress": {
+    "state": "Haryana",
+    "address": [
+      "E Block Sushant Lok Phase I",
+      "Near Paras Hospital",
+      "Gurgaon",
+      "Gurugram",
+      "Haryana",
+      "122001"
+    ]
+  },
+  "briefDescription": "Founded in 1998, Sukarya, is a non-governmental organization working on issues of Maternal and Child Health (postnatal and prenatal services, promotion of institutional deliveries, safe motherhood, breastfeeding and spacing for pregnancies), nutritional awareness & care, Primary Health Care, Economic Empowerment for Women through SHGs, Non Formal Education for slum children, and other integrated and comprehensive approaches for rural development in Delhi, Haryana and Rajasthan. The vision of Sukarya is health for all - 'Better Health Better Society'; a society where the fundamental development needs including health, of its citizens are adequately met",
+  "yearOfEstablishment": "1998",
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "P-20 First Floor",
+      "South Extension Part II",
+      "New Delhi",
+      "South Delhi",
+      "Delhi",
+      "110049"
+    ]
+  }
+}

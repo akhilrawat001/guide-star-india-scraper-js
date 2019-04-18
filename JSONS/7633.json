@@ -1,0 +1,25 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7633",
+  "name": "RHYTHM OF LIFE",
+  "primaryEmail": "rhythmoflife@live.in",
+  "website": "www.therhythmoflife.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919911494737"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "C-41 B Kalkaji New Delhi",
+      "New Delhi",
+      "South Delhi",
+      "Delhi",
+      "110019"
+    ]
+  }
+}

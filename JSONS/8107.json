@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Gajadhar Choudhary",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8107",
+  "name": "HAZINAGAR ORGANIZATION FOR GLOBAL DISASTER MANAGEMENT",
+  "primaryEmail": "mitigator.india@gmail.com",
+  "website": "www.mitigatorindia.org",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "91933",
+    "9331027075"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "98/B, Basanto Buri Tala Road,",
+      "Post- Hazinagar",
+      "Naihati,  North 24 Parganas",
+      "North 24 Parganas",
+      "West Bengal",
+      "743135"
+    ]
+  }
+}

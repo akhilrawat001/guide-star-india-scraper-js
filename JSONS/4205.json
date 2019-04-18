@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "Jaya Pramodh Kumar",
+      "email": "akshaya.sssociety@gmail.com",
+      "designation": "Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4205",
+  "name": "Akshaya Social Service Society",
+  "primaryEmail": "akshaya.sssociety@gmail.com",
+  "telephone": [
+    "914712224663",
+    "919633181379"
+  ],
+  "mainAddrress": {
+    "state": "Kerala",
+    "address": [
+      "Near Bishop House",
+      "ATHIYANNOOR,",
+      "ARALUMOODU",
+      "Thiruvananthapuram",
+      "Kerala",
+      "695123"
+    ]
+  }
+}

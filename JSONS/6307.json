@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Indira Varadarajan",
+      "email": "info@snsf.org",
+      "designation": "Executive Director",
+      "mobile": [
+        "91-124-2333851"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6307",
+  "name": "SNS Foundation",
+  "primaryEmail": "info@snsf.org",
+  "website": "http://www.snsf.org/",
+  "telephone": [
+    "911242333851"
+  ],
+  "mainAddrress": {
+    "state": "Haryana",
+    "address": [
+      "88-89, Industrial Development Colony",
+      "Mehrauli Road",
+      "Gurgaon",
+      "Gurugram",
+      "Haryana",
+      "122001"
+    ]
+  }
+}

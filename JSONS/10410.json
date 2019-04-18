@@ -1,0 +1,33 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10410",
+  "name": "AMBA FOUNDATION",
+  "primaryEmail": "ambafoundation@hotmail.com",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "919810599275",
+    "911122248924",
+    "911122248836"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "B-94/4, Joshi Colony Mandawali,",
+      "I. P. Extn. Patparganj",
+      "Delhi",
+      "East Delhi",
+      "110092"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "Address C-76 Bathla Apts, 43 I.P. Extension",
+      "Delhi",
+      "East Delhi",
+      "110092"
+    ]
+  }
+}

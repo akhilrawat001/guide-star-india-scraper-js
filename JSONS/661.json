@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "J P Singh",
+      "email": "",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=661",
+  "name": "Srijan Society",
+  "primaryEmail": "srijansociety_2007@rediffmail.com",
+  "telephone": [
+    "915122626841",
+    "918122626041",
+    "919986378767"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "0.125, 261 Awas Vikas Hanspuram",
+      "Kanpur Nagar",
+      "Uttar Pradesh",
+      "208021"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "44 A, Taudhakpur",
+      "Kanpur Nagar",
+      "Uttar Pradesh",
+      "208021"
+    ]
+  }
+}

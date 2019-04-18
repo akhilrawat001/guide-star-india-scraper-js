@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Navneet Singh",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6119",
+  "name": "GAYATRI MEMORIAL FOUNDATION",
+  "primaryEmail": "gayatri.gmf@gmail.com",
+  "website": "www.gayatrimemorial.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918963879930"
+  ],
+  "mainAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "Flat Number S-2, Plot Number 15 A",
+      "Swaroop Vihar-Jagatpura",
+      "JAIPUR",
+      "Jaipur",
+      "Rajasthan",
+      "203017"
+    ]
+  }
+}

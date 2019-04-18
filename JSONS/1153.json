@@ -1,0 +1,38 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1153",
+  "name": "Villages In Partnership",
+  "primaryEmail": "vipapind@gmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "918542270945",
+    "918542270158"
+  ],
+  "mainAddrress": {
+    "state": "Telangana",
+    "address": [
+      "8-6-211,",
+      "Padmavathi Colony",
+      "Mahbubnagar",
+      "Mahabubnagar",
+      "Telangana",
+      "509002",
+      "AP_TelBill_1055.PDF"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "2nd Line",
+      "Vidya Nagar",
+      "Guntur",
+      "Andhra Pradesh",
+      "522007",
+      "AP_TelBill_1055.PDF"
+    ]
+  }
+}

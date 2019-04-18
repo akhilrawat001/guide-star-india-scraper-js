@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Ghanshyam B Upare",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5825",
+  "name": "NAV GUJARAT LOK SEVA CHARITABLE TRUST",
+  "primaryEmail": "navgujaratlsct@yahoo.com",
+  "organisationType": [
+    "Direct Service",
+    "Network"
+  ],
+  "telephone": [
+    "919925807100"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "A / 35 Shree Padmashali Society - 2",
+      "Near virat nagar char rasta National Highway no -8 Odhav",
+      "Ahmedabad",
+      "Gujarat",
+      "382415"
+    ]
+  },
+  "briefDescription": "NAV GUJARAT LOK SEVA CHARITABLE TRUST, is registered NGO from Ahmedabad, Gujarat.",
+  "yearOfEstablishment": "2001"
+}

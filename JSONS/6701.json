@@ -1,0 +1,24 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6701",
+  "name": "Annapurna Mahila Mandal",
+  "primaryEmail": "secretary@annapurnapariwar.org",
+  "website": "http://www.annapurnapariwar.org/",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919552555209"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "C Wing, Shubham Heights",
+      "Off Mumbai-Bangalore Highway, Service Road",
+      "Warje,",
+      "Pune",
+      "Maharashtra",
+      "411058"
+    ]
+  }
+}

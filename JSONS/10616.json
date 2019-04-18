@@ -1,0 +1,31 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10616",
+  "name": "PRAGATI HUMAN FOUNDATION",
+  "primaryEmail": "pragatihumanfoundation@yahoo.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "917503000220"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "4649/89, Street No-3, New Modern Shahdara",
+      "Shahdara",
+      "East Delhi",
+      "Delhi",
+      "110032"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "4649/89/1, Street No 3, New Modern Shahdara",
+      "Delhi",
+      "North East Delhi",
+      "110032"
+    ]
+  }
+}

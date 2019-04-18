@@ -1,0 +1,34 @@
+{
+  "contacts": [
+    {
+      "name": "Gideon Balasingam",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6227",
+  "name": "Project Kalpavriksh Society",
+  "primaryEmail": "info@pk-society.org",
+  "website": "www.pk-society.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Intermediary",
+    "Network"
+  ],
+  "telephone": [
+    "918870933988",
+    "918015000662"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "No.8, SN Layout, Kavundampalayam Road",
+      "Opposite Angappa School, Edayarpalayam",
+      "Coimbatore",
+      "Tamil Nadu",
+      "641025"
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Dr R M Arora",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3571",
+  "name": "Shiv Shakti Rakta Datta Samiti, Sirsa",
+  "primaryEmail": "bloodsafety@yahoo.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919354884426"
+  ],
+  "mainAddrress": {
+    "state": "Haryana",
+    "address": [
+      "Shiv Shakti Blood Bank",
+      "Valmiki Chowk",
+      "Sirsa",
+      "Haryana",
+      "125055"
+    ]
+  }
+}

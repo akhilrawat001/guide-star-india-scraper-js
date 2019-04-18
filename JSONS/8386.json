@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "ALOK KUMAR MALLICK",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8386",
+  "name": "PARIVARTAN SANSTHAN",
+  "primaryEmail": "alok.swarn@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "916432240006",
+    "916432240006"
+  ],
+  "mainAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "Hanuman Tikri",
+      "Opp. Jalsar Children Park",
+      "Deoghar",
+      "Jharkhand",
+      "814112"
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "contacts": [
+    {
+      "name": "Zafar Alam",
+      "email": "alamzafar691@gmail.com",
+      "designation": "Secretary",
+      "mobile": [
+        "91-7079191909"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10650",
+  "name": "SAMAJI TANZEEM WELFARE TRUST",
+  "primaryEmail": "samajitanzeem@gmail.com",
+  "website": "http://www.samajitanzeem.org/",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Support"
+  ],
+  "telephone": [
+    "917079191909",
+    "918877226390"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "Care of - Md. Kalim, Mohalla - Benta, Dharam Pokhar D.M.C",
+      "in front of Maharani Kalyani College, Benta",
+      "Darbhanga",
+      "Bihar",
+      "846003"
+    ]
+  },
+  "briefDescription": "Our organisation is a social & developmental organisation registered under public trust act, 1882 which is committed to work in the sectors like education, health, art & culture, women empowerment, agriculture, migrant labourer etc . Its foremost objective is to take along the people from different vulnerable group of men, women, young boys & girls, elders, orphans, handicapped etc in prominent section and to work for adequate development of the society. We are dedicated to the deprived ones of our societies. Recently, we served the Kerala flood victims by sending the medicines amounting to Rs. 25000 during epidemic. We always stand with the people in various tragic moments.",
+  "yearOfEstablishment": "2018",
+  "regiseredAddrress": {
+    "state": "Bihar",
+    "address": [
+      "Mohalla - Benta Dharam Pokhar D.M.C,",
+      "in front Maharani Kalyani College",
+      "Darbhanga",
+      "Bihar",
+      "846003"
+    ]
+  }
+}

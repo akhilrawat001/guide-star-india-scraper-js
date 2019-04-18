@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "R Shankar",
+      "email": "shankar_55us@sify.com",
+      "designation": "Manager-operations",
+      "mobile": [
+        "91-8754-488737",
+        "91-8754488737"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1926",
+  "name": "Sri Kumaran Charitable Trust",
+  "primaryEmail": "srikumarancharitabletrust@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "914425564358",
+    "919884707580"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "No-1419-A, Jawaharlal Nehru Extn",
+      "200 Feet Inner Ring Road,Retteri Junction,Kolathur",
+      "Chennai",
+      "Tamil Nadu",
+      "600099"
+    ]
+  }
+}

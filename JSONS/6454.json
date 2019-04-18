@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "sandeep",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "9911100091"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6454",
+  "name": "VIDYA FOUNDATION",
+  "primaryEmail": "vidyafoundationkuldeep@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "9911100091"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "G1, 52C, KRISHNA COMPLEX HASANPUR, I.P EXTN.. PATPARGANJ",
+      "G1 52C KRISHNA COMPLEX HASANPUR",
+      "DELHI",
+      "East Delhi",
+      "Delhi",
+      "110092"
+    ]
+  }
+}

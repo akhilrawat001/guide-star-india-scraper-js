@@ -1,0 +1,45 @@
+{
+  "contacts": [
+    {
+      "name": "Vanitha",
+      "email": "vanithakka@yogashree.in",
+      "designation": "Coordinator",
+      "mobile": []
+    },
+    {
+      "name": "Vanitha",
+      "email": "vanithakka@yogashree.in",
+      "designation": "Coordinator",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2017",
+  "name": "Hindu Seva Pratishthan",
+  "primaryEmail": "vanithakka@yogashree.in",
+  "telephone": [
+    "918026729894",
+    "919480316626"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "Vanitha Yogashree",
+      "Ramakrishna Park, Girinagar 1st Phase,",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "601302"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "41149",
+      "Ajithshree Bull Temple Road",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560085"
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "R.Muniammal",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5373",
+  "name": "Tamilnadu Mahalir Nala Sangam",
+  "primaryEmail": "tnmns.ngo@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919344104242"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "4/2,Muniyandi Koil Street,Vaithyanathapuram",
+      "Madurai",
+      "Tamil Nadu",
+      "625016"
+    ]
+  }
+}

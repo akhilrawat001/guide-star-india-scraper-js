@@ -1,0 +1,40 @@
+{
+  "contacts": [
+    {
+      "name": "Devesh kumar",
+      "email": "",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10750",
+  "name": "ANUGRAHA DRISHTIDAAN",
+  "primaryEmail": "ad@anugrahadrishtidaan.org",
+  "website": "www.anugrahadrishtidaan.org",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "911143103748"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "37A, 1001, First Floor,Mayur Vihar, Phase-I Near jeevan Anmol Hospital",
+      "New Delhi",
+      "East Delhi",
+      "Delhi",
+      "110091"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "121-D, Pocket-I,Phase-I, Mayur Vihar,",
+      "New Delhi",
+      "East Delhi",
+      "Delhi",
+      "110091"
+    ]
+  }
+}

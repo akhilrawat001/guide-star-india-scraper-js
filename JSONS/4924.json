@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Priyanka Gupta",
+      "email": "info@sharpdevelopments.org",
+      "designation": "Program Executive",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4924",
+  "name": "Sharp Developments",
+  "primaryEmail": "info@sharpdevelopments.org",
+  "website": "www.sharpdevelopments.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "911141066054",
+    "911141066054"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "L-124",
+      "Sector - 11",
+      "Noida",
+      "Gautam Buddha Nagar",
+      "Uttar Pradesh",
+      "201301"
+    ]
+  }
+}

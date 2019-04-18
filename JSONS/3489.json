@@ -1,0 +1,27 @@
+{
+  "contacts": [
+    {
+      "name": "Dr Sudha Randive",
+      "email": "assp1978@gmail.com",
+      "designation": "Chairman",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3489",
+  "name": "Adiwasi Sahaj Shikshan Pariwar",
+  "primaryEmail": "assp1978@gmail.com",
+  "telephone": [
+    "912525232003",
+    "912525232003"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "A/P Masvan,",
+      "Tal. Palghar",
+      "Thane",
+      "Maharashtra",
+      "401404"
+    ]
+  }
+}

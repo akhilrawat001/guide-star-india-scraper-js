@@ -1,0 +1,25 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4291",
+  "name": "Investment In Man",
+  "primaryEmail": "investmentinman.pune.india@gmail.com",
+  "website": "www.iimtrust.org",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "912024325108",
+    "912024325108"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Rahi-Sakha Apartment",
+      "FP 588/ A Parwati, Sinhgad Road",
+      "Pune",
+      "Maharashtra",
+      "411030"
+    ]
+  }
+}

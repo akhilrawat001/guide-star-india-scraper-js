@@ -1,0 +1,40 @@
+{
+  "contacts": [
+    {
+      "name": "Ruma Ghosh",
+      "email": "naynarumaghosh@gmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4264",
+  "name": "Mahatma Gandhi Road Bikash Seva  Sangha",
+  "primaryEmail": "naynarumaghosh@gmail.com",
+  "website": "www.bikassevasangha5.weebly.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919231652878"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "89,MG Road , kol-7",
+      "Care of Subir kr. Ghosh , Madhyamgram , basunagar, 2,1/2 no gate , kolkata 129, second  right by lane  .",
+      "Kolkata",
+      "West Bengal",
+      "700007"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "89,MG Road , kol-7",
+      "C/o Subir kr. Ghosh , Madhyamgram , basunagar, 2,1/2 no gate , kolkata 129, second  right by lane  .",
+      "Kolkata",
+      "West Bengal",
+      "700007"
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "contacts": [
+    {
+      "name": "Prabin Kumar Sipka",
+      "email": "bethelorissa@yahoo.co.in",
+      "designation": "Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5480",
+  "name": "Bethel Association",
+  "primaryEmail": "bethelorissa@yahoo.co.in",
+  "website": "www.bethelindia.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "916863245248",
+    "916863245248"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "Bethel Association Post Box No. – 3, Muniguda – 765020 Dist: – Rayagada, Orissa, India",
+      "bethel children home, muniguda, Rayagada",
+      "Rayagada",
+      "Odisha",
+      "765020"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Odisha",
+    "address": [
+      "not provided",
+      "Rayagada",
+      "Odisha",
+      "765020"
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "shelin George",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "9488609891"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6342",
+  "name": "RENE Foundation (Rural Empowerment for National Enlightenment)",
+  "primaryEmail": "renefoundation@gmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919488609891"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "5/334-B Melanattarkulam",
+      "Vittilapuram Post",
+      "Srivaikundam",
+      "Thoothukudi",
+      "Tamil Nadu",
+      "628809"
+    ]
+  }
+}

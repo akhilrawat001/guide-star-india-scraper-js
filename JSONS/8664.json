@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Krishna Prasad",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8664",
+  "name": "JEEWAN PATH",
+  "primaryEmail": "kpjp786@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "916572904879",
+    "916572904879"
+  ],
+  "mainAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "53, Nilgiri,",
+      "Gayatary Homes, Biluguma,",
+      "Dimna Road, Mango",
+      "Ranchi",
+      "Jharkhand",
+      "831012"
+    ]
+  }
+}

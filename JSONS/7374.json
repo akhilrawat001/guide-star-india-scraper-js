@@ -1,0 +1,50 @@
+{
+  "contacts": [
+    {
+      "name": "Dr Sarita Mehra",
+      "email": "greenmunia@yahoo.co.in",
+      "designation": "Founder",
+      "mobile": [
+        "91-9414165690"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7374",
+  "name": "Rajputana Society of Natural History",
+  "primaryEmail": "rsnhudr@gmail.com",
+  "website": "www.rsnh.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919414165690",
+    "919829144163",
+    "912942470690"
+  ],
+  "mainAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "Rajputana's Shakuntalam",
+      "Village Ramnagar, VPO Malah,",
+      "Bharatpur",
+      "Rajasthan",
+      "321001"
+    ]
+  },
+  "briefDescription": "With the aim of revival of the “Aranya Samskruti” and concept of “Prakruti Purush”, Rajputana Society of Natural History (RSNH) is involved in protection and conservation of the natural heritage through mass involvement on the principle of “Conservation Practices for Sustainable Livelihood”. Mission statement “Save Nature, Nurture Future”The Society works in the field of Nature Conservation & Environment Protection through community participation (Social Upliftment).",
+  "yearOfEstablishment": "2006",
+  "regiseredAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "Kesar Bhawan, P.No. 90",
+      "B/d Saraswati Hosp., Ganeshnagar, Pahada",
+      "Udaipur",
+      "Rajasthan",
+      "313001"
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "name": "Santosh Abraham",
+      "email": "",
+      "designation": "Partnership and Communications Coordinator",
+      "mobile": [
+        "91-9894681258"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=485",
+  "name": "Students Partnership Worldwide India Project Trust",
+  "primaryEmail": "director@spwindia.org",
+  "website": "http://www.spwindia.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "914162242695",
+    "914162242695"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "No 2, 8th East Main Road",
+      "Gandhinagar",
+      "Vellore",
+      "Tamil Nadu",
+      "632006"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "Tamil Nadu"
+    ]
+  }
+}

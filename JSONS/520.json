@@ -1,0 +1,41 @@
+{
+  "contacts": [
+    {
+      "name": "C Sekar",
+      "email": "rajyssa_social59@yahoo.co.in",
+      "designation": "Warden",
+      "mobile": [
+        "91-4565-283422"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=520",
+  "name": "Youth Social Service Association",
+  "primaryEmail": "rajyssa_social59@yahoo.co.in",
+  "website": "http://www.yssa.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "914565283422",
+    "914565283422",
+    "914565283422"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "No: 48-A, Mr. K. Street",
+      "Pallathur",
+      "Karaidudi",
+      "Sivagangai",
+      "Tamil Nadu",
+      "630107"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "Tamil Nadu"
+    ]
+  }
+}

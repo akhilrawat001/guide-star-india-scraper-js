@@ -1,0 +1,42 @@
+{
+  "contacts": [
+    {
+      "name": "Kunal Kumar",
+      "email": "info@bihanngo.org",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2801",
+  "name": "Bihan Jan Jagriti Sewa Sangathan",
+  "primaryEmail": "info@bihanngo.org",
+  "website": "http://www.bihanngo.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919899739981"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "Bihan, Care of- Shri Ram Sakal Kunwar, V+P- Barhauna, Vaya- Mohiuddin Nagar(RS), Dist- Samastipur, Bihar",
+      "H-149, 2nd floor, Old gupta colony,opst- Kalyan Vihar, Delhi-9",
+      "Delhi",
+      "Samastipur",
+      "Bihar",
+      "848502"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Bihar",
+    "address": [
+      "Bihan, C/o- Shri Ram Sakal Kunwar, V+P- Barhauna, Vaya- Mohiuddin Nagar(RS), Dist- Samastipur, Bihar",
+      "H-149, 2nd floor, Old gupta colony,opst- Kalyan Vihar, Delhi-9",
+      "Delhi",
+      "Samastipur",
+      "Bihar",
+      "848502"
+    ]
+  }
+}

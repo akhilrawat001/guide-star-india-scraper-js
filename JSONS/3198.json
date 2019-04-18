@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Priya Samuel",
+      "email": "",
+      "designation": "Managing Trustee",
+      "mobile": [
+        "91-8903469432"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3198",
+  "name": "Dr. Peter Charitable Trust",
+  "primaryEmail": "drpetertrust@yahoo.in",
+  "telephone": [
+    "914171203367",
+    "919865785854"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "90, Kumarnnagar,",
+      "Sedukkarai",
+      "Gudiyatham",
+      "Vellore",
+      "Tamil Nadu",
+      "632602"
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2694",
+  "name": "Haritika",
+  "primaryEmail": "haritika97@rediffmail.com",
+  "website": "www.haritika.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "917685255065",
+    "917685255065"
+  ],
+  "mainAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "Village: Maanpura,Mahoba Road,Near community solar power plant,Nowgong,District Chhatarpur,madhya pradesh,india",
+      "Maanpura,Block Nowgong",
+      "Chhatarpur",
+      "Madhya Pradesh",
+      "471201"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "M-6, Gwalior Road, Behind Mahila Politech",
+      "Mahendra Puri Colony",
+      "Jhansi",
+      "Uttar Pradesh",
+      "284003"
+    ]
+  }
+}

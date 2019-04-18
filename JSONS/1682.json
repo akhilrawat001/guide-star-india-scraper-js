@@ -1,0 +1,28 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1682",
+  "name": "KAFAL Samiti",
+  "primaryEmail": "kafal1@rediffmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "915963211181",
+    "915963221761",
+    "919411309777"
+  ],
+  "mainAddrress": {
+    "state": "Uttarakhand",
+    "address": [
+      "KAFAL House",
+      "Bamshera, P.O. Bharari, Pindari Glacier Road",
+      "Bageshwar",
+      "Uttarakhand",
+      "263642"
+    ]
+  }
+}

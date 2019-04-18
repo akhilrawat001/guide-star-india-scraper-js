@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "PARAMANANDA SAHOO",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5665",
+  "name": "MEERA WELFARE SOCIETY",
+  "primaryEmail": "meera_102007@rediffmail.com",
+  "website": "Meera Welfare .org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "916766256994",
+    "916766256994"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "Mining Road, Keonjhargarh",
+      "no",
+      "Keonjhar",
+      "Kendujhar",
+      "Odisha",
+      "758001"
+    ]
+  }
+}

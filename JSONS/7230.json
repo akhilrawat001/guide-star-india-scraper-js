@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "MR.DEV VRAT SHRIVASTAV",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7230",
+  "name": "BHAGINI NIVEDITA SHIKSHA SAMITI",
+  "primaryEmail": "bnssngo@gmail.com",
+  "website": "http://www.bnssngo.org",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919425006867"
+  ],
+  "mainAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "40, SHIV SHAKTI NAGAR, AHMADPUR,",
+      "HOSHANGABAD ROAD BHOPAL",
+      "BHOPAL",
+      "Bhopal",
+      "Madhya Pradesh",
+      "462026"
+    ]
+  }
+}

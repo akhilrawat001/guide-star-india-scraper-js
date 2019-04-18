@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "Banderao Patwari",
+      "email": "",
+      "designation": "Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2941",
+  "name": "Society for Community Participation and Empowerment (SCOPE)",
+  "primaryEmail": "scopedwd@gmail.com",
+  "website": "http://scope-india.org",
+  "telephone": [
+    "918362445044"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "Betadur Compound",
+      "Behind Government Primary School No.11",
+      "Malmaddi",
+      "Dharwad",
+      "Karnataka",
+      "580007"
+    ]
+  }
+}

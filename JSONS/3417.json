@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "RAVI SRIVASTAVA",
+      "email": "bahujansewasansthan@hotmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3417",
+  "name": "BAHUJAN HITAI BAHUJAN SUKHAI SEWA SANSTHAN",
+  "primaryEmail": "bahujansewasansthan@hotmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919336909030"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "1-A/19-E/2",
+      "RAMPRIYA ROAD, NEAR PRAYAG STATION,",
+      "ALLAHABAD",
+      "Allahabad",
+      "Uttar Pradesh",
+      "211002"
+    ]
+  }
+}

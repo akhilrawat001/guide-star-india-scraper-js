@@ -1,0 +1,36 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5888",
+  "name": "PADMA PANI SOCIETY FOR HUMAN EXCELLENCE",
+  "primaryEmail": "padmapani.society1@gmail.com",
+  "website": "www.padmapani.org",
+  "organisationType": [
+    "Direct Service",
+    "Grant-making",
+    "Support"
+  ],
+  "telephone": [
+    "919160585578"
+  ],
+  "mainAddrress": {
+    "state": "Telangana",
+    "address": [
+      "5-6-526",
+      "NGO Colony, opposite E-Seva",
+      "kamareddy",
+      "Kamareddy",
+      "Telangana",
+      "503111"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Telangana",
+    "address": [
+      "5-6-401",
+      "ramalayam temple",
+      "Kamareddy",
+      "Telangana",
+      "503111"
+    ]
+  }
+}

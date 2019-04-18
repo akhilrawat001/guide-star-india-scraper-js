@@ -1,0 +1,45 @@
+{
+  "contacts": [
+    {
+      "name": "KA Pillay",
+      "email": "pillay@saidham.in",
+      "designation": "Manager",
+      "mobile": [
+        "91-9310801400"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3309",
+  "name": "SHIRDI SAI BABA TEMPLE SOCIETY",
+  "primaryEmail": "motilal@saidham.in",
+  "website": "www.saidham.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919810397034",
+    "919310601400",
+    "919310801400"
+  ],
+  "mainAddrress": {
+    "state": "Haryana",
+    "address": [
+      "SaiDham, Sector 86, Tigaon Road",
+      "SaiDham, Niswara, Block Panwari, Dist Mahoba (UP)",
+      "Faridabad",
+      "Haryana",
+      "121014"
+    ]
+  },
+  "briefDescription": "2000+ underprivileged children receiving 100% free  education with food, uniforms, study material including books, sports, excursions, transport, meditation and health care with high quality computer education (certification by NIIT Foundation) and 20 Edu-Comp Smart Classes.Providing free training to rural girls on industrial sewing machines and getting them placements in export houses @Rs.10,000/- per month within 90 days of training. Also ;providing training in Beauty Culture, Electrical, Mobile Repairing, Solar Technician, Computers including Tally, and Hospitality.Performing 100 Mass Marriages of poor girls four times in a year and giving them  articles to set up a house as gifts at the time of Vidai (departure).Serving about 1000 patients daily from a network of 18 charitable clinics",
+  "yearOfEstablishment": "1988",
+  "regiseredAddrress": {
+    "state": "Haryana",
+    "address": [
+      "Sai Dham, Sector 86, Tigaon Road",
+      "Faridabad",
+      "Haryana",
+      "121014"
+    ]
+  }
+}

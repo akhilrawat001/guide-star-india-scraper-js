@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Rahul Ranjan",
+      "email": "",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=823",
+  "name": "Chandra Vikas Sansthan",
+  "primaryEmail": "chandravikassansthan@gmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning"
+  ],
+  "telephone": [
+    "919934044501"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "At - Anwarpur Chowk, Near Harijan Thana",
+      "Sahu Samaj Bhawan Road",
+      "Hajipur",
+      "Vaishali",
+      "Bihar",
+      "844101"
+    ]
+  }
+}

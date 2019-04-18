@@ -1,0 +1,42 @@
+{
+  "contacts": [
+    {
+      "name": "Bindu Kashyap",
+      "email": "kashyapbindu@gmail.com",
+      "designation": "G.Secretary",
+      "mobile": []
+    },
+    {
+      "name": "Bindu Kashyap",
+      "email": "kashyapbindu@gmail.com",
+      "designation": "G.Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1193",
+  "name": "Society for Animal Health Agriculture Science and Humanity",
+  "primaryEmail": "sahashindia@gmail.com",
+  "website": "www.sahashindia.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919473795690"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "Village -Munshiganj, Post-H.A.L.",
+      "Korwa, Amethi Road",
+      "Amethi",
+      "Sultanpur",
+      "Uttar Pradesh",
+      "227412"
+    ]
+  },
+  "briefDescription": "SAHASH is a non-profit organization with a mission to think, promise and work together within India to achieve a lasting improvement in the quality of life of the poor.",
+  "yearOfEstablishment": "2006"
+}

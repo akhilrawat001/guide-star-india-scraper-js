@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "SEEMA TOMKE",
+      "email": "seema.tomke@gmail.com",
+      "designation": "Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4324",
+  "name": "YASHASWINI CHILD & WOMEN DEVELOPMENT ORGANISATION",
+  "primaryEmail": "seema.tomke@gmail.com",
+  "website": "-",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919420007645"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "INDUMATI NIVAS AZAD ROAD GADHINGLAJ",
+      "AZAD ROAD GADHINGLAJ",
+      "KOLHAPUR",
+      "Kolhapur",
+      "Maharashtra",
+      "416502"
+    ]
+  }
+}

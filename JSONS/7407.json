@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Dhaval Karathia",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "9408939982"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7407",
+  "name": "SHRI DEVDAYA CHARITABLE TRUST - WANKANER",
+  "primaryEmail": "devdayawkr@yahoo.co.in",
+  "website": "www.devdaya.org.uk",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "9408939982"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "N.R. Doshi Eye Hospital",
+      "N 10, New Bus Station",
+      "Rajkot Road, Wankaner",
+      "Rajkot",
+      "Gujarat",
+      "363621"
+    ]
+  }
+}

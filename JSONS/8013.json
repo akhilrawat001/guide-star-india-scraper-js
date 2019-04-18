@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Mr.Ganpat Chandrao Jironekar",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8013",
+  "name": "Annabhau Sathe Magaswargiya Sevabhavi Sanstha",
+  "primaryEmail": "drjironekar@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919423136454"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Nd 41, B2 4/9 Sambhaji Chowk Cidco",
+      "New Nanded",
+      "Nanded",
+      "Maharashtra",
+      "431603"
+    ]
+  }
+}

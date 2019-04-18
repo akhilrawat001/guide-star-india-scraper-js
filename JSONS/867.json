@@ -1,0 +1,28 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=867",
+  "name": "Asha Charitable Trust",
+  "primaryEmail": "trustasha@yahoo.co.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "918322256445",
+    "919822166876"
+  ],
+  "mainAddrress": {
+    "state": "Goa",
+    "address": [
+      "Sweethome Building, 1St Floor",
+      "Near Asilo Hospital,  Rajwaddo, Mapusa, Bardez",
+      "Mapusa",
+      "North Goa",
+      "Goa",
+      "403507"
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "contacts": [
+    {
+      "name": "Urvashi Nair",
+      "email": "urvashi.iimpact@gmail.com",
+      "designation": "Coordinator",
+      "mobile": [
+        "91-124-4276862"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=375",
+  "name": "Iimpact",
+  "primaryEmail": "iimpact@texzipper.com",
+  "website": "http://www.iimpact.net",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "911244276862",
+    "911244276862"
+  ],
+  "mainAddrress": {
+    "state": "Haryana",
+    "address": [
+      "9211, (1st floor)",
+      "Sector 43, DLF Phase IV",
+      "Gurgaon",
+      "Gurugram",
+      "Haryana",
+      "122002"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Maharashtra"
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "name": "Priya Bhaskar",
+      "email": "priya@dreamadream.org",
+      "designation": "Manager - Operations",
+      "mobile": [
+        "91-80-40951084"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=355",
+  "name": "Dream A Dream",
+  "primaryEmail": "info@dreamadream.org",
+  "website": "http://dreamadream.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service"
+  ],
+  "telephone": [
+    "918040951084",
+    "919945678908",
+    "919845524118",
+    "919448395250"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "No,398/E, 17th Cross, 9th Main,",
+      "Jayanagar 3rd Block,",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560011"
+    ]
+  },
+  "briefDescription": "Dream A Dream seeks to empower children from vulnerable backgrounds by developing life skills and at the same time sensitizing the community through active volunteering leading to a non-discriminatory society where unique differences are appreciated. Currently, we enhance the lives of 3000 children from vulnerable backgrounds and engage over 1000 active volunteers who represent an increasingly sensitive community",
+  "yearOfEstablishment": "1999"
+}

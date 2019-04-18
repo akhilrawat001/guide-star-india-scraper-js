@@ -1,0 +1,35 @@
+{
+  "contacts": [
+    {
+      "name": "Bijesh Dwiwedy",
+      "email": "bijesh@y4d.ngo",
+      "designation": "Vice-President",
+      "mobile": [
+        "91-7720003440"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8611",
+  "name": "Y4D Foundation",
+  "primaryEmail": "praful@y4d.ngo",
+  "website": "http://y4d.ngo",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "918282828811"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "C-302, Callisto, Wakad",
+      "Pune",
+      "Maharashtra",
+      "411057"
+    ]
+  },
+  "briefDescription": "Y4D envisions shaping up of a healthy, happy and progressive society where every citizen’s rights are protected; they live their lives with dignity and enjoy opportunities to contribute positively towards building such a society.Believing strongly in the vast strength of the society’s youth, Y4D is committed to engage with the budding youth belonging to underprivileged backgrounds by creating an enabling environment for their Encouragement, Education and Employment so that they can harness their full potential for becoming happy and worthy citizens, who in turn would contribute positively to the society.Organization main focus area is Youth, Child & Livelihood.",
+  "yearOfEstablishment": "2015"
+}

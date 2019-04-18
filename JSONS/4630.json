@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "M JAYNNE ROSE KUMARI",
+      "email": "hallowcgc@yahoo.com",
+      "designation": "GENERAL SECRETARY",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4630",
+  "name": "Child Guidance Centre",
+  "primaryEmail": "hallowcgc@yahoo.com",
+  "website": "www.cgcindia.org",
+  "telephone": [
+    "914064575467",
+    "914064575467"
+  ],
+  "mainAddrress": {
+    "state": "Telangana",
+    "address": [
+      "7-6/2, Santoshsadan,",
+      "Near Ganeshnagar, Peerzadiguda, Uppal",
+      "HYDERABAD",
+      "Hyderabad",
+      "Telangana",
+      "500039"
+    ]
+  }
+}

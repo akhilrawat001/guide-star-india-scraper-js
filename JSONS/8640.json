@@ -1,0 +1,26 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8640",
+  "name": "Vanashakti",
+  "primaryEmail": "vanashakti@gmail.com",
+  "website": "http://www.vanashakti.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service"
+  ],
+  "telephone": [
+    "919820232302"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "19/21, Unique Industrial Estate,",
+      "Twin Towers Lane, Prabhadevi",
+      "Mumbai",
+      "Maharashtra",
+      "400025"
+    ]
+  },
+  "briefDescription": "Vanashakti is a Mumbai based non profit environmental NGO that works towards preserving mangroves, wetlands, forests and rivers, imparting environmental education to urban and rural-tribal schools, conducting research on environmental degradation, providing green livelihoods to frorest dwelling tribal communities and plantation of mangroves and terrestrial plants.",
+  "yearOfEstablishment": "2008"
+}

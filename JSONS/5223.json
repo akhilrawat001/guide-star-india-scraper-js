@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Manish Saxena",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5223",
+  "name": "WING OF RESEARCH IN LOCAL DEVELOPMENT",
+  "primaryEmail": "worldjpr@yahoo.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919829065406"
+  ],
+  "mainAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "1- GA- 12, FIRST FLOOR ,JAWAHAR NAGAR",
+      "JAIPUR",
+      "Jaipur",
+      "Rajasthan",
+      "302004"
+    ]
+  }
+}

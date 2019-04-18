@@ -1,0 +1,42 @@
+{
+  "contacts": [
+    {
+      "name": "Mr. Shrikrishna Mohite",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6623",
+  "name": "Bharati Vidya Peeth",
+  "primaryEmail": "gramin_vikas2939@rediffmail.com",
+  "website": "NO",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919822044650"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Secretary, Bharati vidyapeeth Rural Development Foundation centre Bharati Vidyapeeth Bhavan, Rajwada Chouk Sangli- 416416 Maharashtra",
+      "Secretary, Gramin Vikas Pratishtan Kendra, Rajwada Chouk Sangli- 416416 Maharashtra",
+      "Sangli",
+      "Maharashtra",
+      "416416"
+    ]
+  },
+  "briefDescription": "Bharati Vidya Peeth is located in Maharashtra.",
+  "yearOfEstablishment": "1964",
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Secretary, Bharati vidyapeeth Rural Development Foundation centre",
+      "Bharati Vidyapeeth Bhavan, Rajwada Chouk",
+      "Sangli",
+      "Maharashtra",
+      "416416"
+    ]
+  }
+}

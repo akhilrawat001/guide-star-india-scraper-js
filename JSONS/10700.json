@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Rambabu Sharma",
+      "email": "yefindia@gmail.com",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10700",
+  "name": "YOUTH EMPOWERMENT FOUNDATION",
+  "primaryEmail": "yefindia@gmail.com",
+  "website": "www.yefindia.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918459084690"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "59, Masoodpur Dairy",
+      "Vasant Kunj",
+      "New Delhi",
+      "South Delhi",
+      "Delhi",
+      "110070"
+    ]
+  },
+  "briefDescription": "We are working for education and skill training",
+  "yearOfEstablishment": "2017"
+}

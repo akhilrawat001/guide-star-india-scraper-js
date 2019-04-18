@@ -1,0 +1,37 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4299",
+  "name": "Room to Read India Trust",
+  "primaryEmail": "mansi.chandorikar@roomtoread.org",
+  "website": "www.roomtoread.org",
+  "organisationType": [
+    "Direct Service",
+    "Grant-making"
+  ],
+  "telephone": [
+    "912224965009",
+    "912224965009"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Room to Read Global Development Office, Care of Reliance Capital Ltd.",
+      "Kamala Mill Compound, Trade World, B wing 7th Floor , Lower Parel West",
+      "Mumbai",
+      "Maharashtra",
+      "400013"
+    ]
+  },
+  "briefDescription": "A global organization dedicated to promoting and enabling education through programs focused on literacy and gender equality in education. We achieve this goal by establishing school libraries, building schools, publishing local-language children's books, training teachers on literacy education and supporting girls to complete secondary school with the life skills neccessary to succeed in school and beyond.",
+  "yearOfEstablishment": "2003",
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Room to Read Global Development Office, C/O Reliance Capital Ltd.",
+      "Kamala Mill Compound, Trade World, B wing 7th Floor , Lower Parel West",
+      "Mumbai",
+      "Maharashtra",
+      "400013"
+    ]
+  }
+}

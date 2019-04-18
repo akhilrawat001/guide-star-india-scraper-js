@@ -1,0 +1,56 @@
+{
+  "contacts": [
+    {
+      "name": "Preeti Maurya",
+      "email": "mpreeti.1989@gmail.com",
+      "designation": "Secretary",
+      "mobile": [
+        "91-9648117941"
+      ]
+    },
+    {
+      "name": "Preeti Maurya",
+      "email": "mpreeti.1989@gmail.com",
+      "designation": "Secretary",
+      "mobile": [
+        "91-9648117941"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7444",
+  "name": "LOK SEWA EVAM GRAMIN PRADYOGIKI VIKAS SANSTHAN",
+  "primaryEmail": "loksewasansthanfzd@rediffmail.com",
+  "website": "www.loksewa.ngo",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "916393553770"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "Village-Ranopali, Byepass Road,",
+      "Post- Sahinwa (Darshan Nagar)",
+      "AYODHYA",
+      "Faizabad",
+      "Uttar Pradesh",
+      "224001"
+    ]
+  },
+  "briefDescription": "LOK SEWA EVAM GRAMIN PRODHYOGIKI VIKAS SANSTHAN LOCATED IN AYODHYA, UTTAR PRADESH.",
+  "yearOfEstablishment": "1989",
+  "regiseredAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "Village-Ranopali, Byepass Road,",
+      "Post- Sahinwa (Darshan Nagar)",
+      "Faizabad",
+      "Uttar Pradesh",
+      "224001"
+    ]
+  }
+}

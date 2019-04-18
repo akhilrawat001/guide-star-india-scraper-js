@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "K. Srinivasulu",
+      "email": "seedskadiri@gmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4801",
+  "name": "SOCIAL EDUCATION AND ENVIRONMENT DEVELOPMENT SOCIETY",
+  "primaryEmail": "seedskadiri@gmail.com",
+  "website": "http://www.seedsorg.in/",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network"
+  ],
+  "telephone": [
+    "919440011352",
+    "918328074752"
+  ],
+  "mainAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "D.No.14/166-20",
+      "Indira Nagar Colony",
+      "Kadiri",
+      "Anantapur",
+      "Andhra Pradesh",
+      "515591"
+    ]
+  },
+  "briefDescription": "SEEDS is a registered non-profit making service organization, founded by a group of committed and dedicated development workers during the year 1993.  SEEDS has implemented projects related to Agriculture, Ecology, Sanitation, Environment, Skill building to youth. The organization follows accountable, transparent mechanisms in implementation of the projects, mandating beneficiary participation in planning, implementation, monitoring process. SEEDS actively working in the areas of women empowerment, child issues, capacity building, livelihood, food security, skill development. Our partners are Mothers & Children, marginalised farmers, BPL families.  SEEDS closely work with the target communities, govt. line departments, NGOs, Donor partners.",
+  "yearOfEstablishment": "1993"
+}

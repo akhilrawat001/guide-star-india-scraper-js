@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "name": "Anand Veigas",
+      "email": "mariaseva_in@yahoo.com",
+      "designation": "Executive Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=401",
+  "name": "Maria Seva Sangha",
+  "primaryEmail": "mariaseva_in@yahoo.com",
+  "website": "http://www.mariasevasangha.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918022111481",
+    "918022111482",
+    "918022111481"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "No. 6, Rose Lane",
+      "Richmond Town",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560025"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "Karnataka"
+    ]
+  }
+}

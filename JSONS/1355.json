@@ -1,0 +1,43 @@
+{
+  "contacts": [
+    {
+      "name": "Nigel Studley",
+      "email": "rachel@frishta.org.uk",
+      "designation": "Director",
+      "mobile": [
+        "91-9914325229"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1355",
+  "name": "Frishta India Charitable Trust",
+  "primaryEmail": "nigel@frishta.org.uk",
+  "website": "www.frishta.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service"
+  ],
+  "telephone": [
+    "911722601583",
+    "919914906229"
+  ],
+  "mainAddrress": {
+    "state": "Chandigarh",
+    "address": [
+      "P.O. Box 202",
+      "Sector 18-D,",
+      "Chandigarh",
+      "160018"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Punjab",
+    "address": [
+      "Mukandpur Village",
+      "Derabassi",
+      "Chandigarh",
+      "Punjab",
+      "140507"
+    ]
+  }
+}

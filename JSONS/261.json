@@ -1,0 +1,28 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=261",
+  "name": "Bhavishya Alliance",
+  "primaryEmail": "ksmurthy@bhavishyaalliance.org.in",
+  "website": "www.bhavishyaalliance.org.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Grant-making",
+    "Support"
+  ],
+  "telephone": [
+    "912227821657",
+    "919930890001",
+    "912227824629"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Plot No.131, J Lane",
+      "Sector 8, Vashi",
+      "Navi Mumbai",
+      "Thane",
+      "Maharashtra",
+      "400703"
+    ]
+  }
+}

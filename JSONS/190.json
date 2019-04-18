@@ -1,0 +1,38 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=190",
+  "name": "The Sri Krishna Trust",
+  "primaryEmail": "atolcsrikrishna@gmail.com",
+  "website": "www.alphatoomega.org",
+  "organisationType": [
+    "Direct Service",
+    "Network"
+  ],
+  "telephone": [
+    "914426443090",
+    "914426476257",
+    "919840135167",
+    "914426448608"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "No.58, New Avadi Road",
+      "Kilpauk",
+      "Chennai",
+      "Tamil Nadu",
+      "600010"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "37, Khazhipattur",
+      "3/176, Samathuva Nagar Main Road",
+      "Padur Post",
+      "Kancheepuram",
+      "Tamil Nadu",
+      "603103"
+    ]
+  }
+}

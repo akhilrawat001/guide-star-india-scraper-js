@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Anup Kumar",
+      "email": "citizen81198@gmail.com",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6875",
+  "name": "CITIZEN",
+  "primaryEmail": "citizen81198@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919471105381"
+  ],
+  "mainAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "H.NO.-51,SAI GENERAL STORE,",
+      "DEPUTY PARA ROAD,KUTCHERY",
+      "RANCHI",
+      "Ranchi",
+      "Jharkhand",
+      "834001"
+    ]
+  }
+}

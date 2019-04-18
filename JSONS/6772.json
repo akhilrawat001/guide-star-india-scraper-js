@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "T RAGHAV RAO",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6772",
+  "name": "ROTARY CLUB OF JUBILEE HILLS CHARITABLE TRUST",
+  "primaryEmail": "traghavrao@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Intermediary",
+    "Support"
+  ],
+  "telephone": [
+    "914023608438",
+    "914023608438"
+  ],
+  "mainAddrress": {
+    "state": "Telangana",
+    "address": [
+      "No. 85, Road No. 71, Jubilee Hills",
+      "NO. 85, ROAD 71, JUBILEE HILLS",
+      "HYDERABAD",
+      "Hyderabad",
+      "Telangana",
+      "500096"
+    ]
+  }
+}

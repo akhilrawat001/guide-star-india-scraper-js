@@ -1,0 +1,35 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6995",
+  "name": "SKILLS FOR INDIA",
+  "primaryEmail": "info@skillsacademy.co.in",
+  "website": "www.theskillsacademy.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "911244232956",
+    "911244232956"
+  ],
+  "mainAddrress": {
+    "state": "Haryana",
+    "address": [
+      "Plot No: 108",
+      "Sector 44",
+      "Gurgaon",
+      "Gurugram",
+      "Haryana",
+      "122003"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "Flat No. 301-303, Mercantile House",
+      "15, Kasturba Gandhi Marg",
+      "New Delhi",
+      "Delhi",
+      "110001"
+    ]
+  }
+}

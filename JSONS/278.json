@@ -1,0 +1,37 @@
+{
+  "contacts": [
+    {
+      "name": "Vyjayanthiraman",
+      "email": "vyjayanthiraman@hotmail.com",
+      "designation": "Managing Trustee",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=278",
+  "name": "Helpline Charitable Trust",
+  "primaryEmail": "minnyjayaram@hotmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918026595167",
+    "919845205338"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "127, 30th Main Road",
+      "JP Nagar 6th phase",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560078"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "Karnataka"
+    ]
+  }
+}

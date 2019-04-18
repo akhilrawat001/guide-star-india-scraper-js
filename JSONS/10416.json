@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Dr Chetan Galande",
+      "email": "drchetangalande@gmail.com",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10416",
+  "name": "NIRBHID FOUNDATION",
+  "primaryEmail": "nirbhidfoundation@gmail.com",
+  "website": "www.nirbhid.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "912373270201",
+    "919422872288"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Gat No- 391, A/P - Mhaswad,",
+      "Tal- Maan",
+      "Satara",
+      "Maharashtra",
+      "415509"
+    ]
+  },
+  "briefDescription": "Nirbhid Foundation is located in rural drought prone area of Maharashtra. We are working for upliftment and empowerment of life of rural people.",
+  "yearOfEstablishment": "2018"
+}

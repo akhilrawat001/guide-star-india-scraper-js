@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "N RAMACHANDRAN",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5096",
+  "name": "CHITTOOR RURAL LEPROSY REHBILITATION AND SOCIAL WELFARE ASSOCIATION",
+  "primaryEmail": "crlr_swa1@yahoo.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "9491851165"
+  ],
+  "mainAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "3/21 ESWAR TEMPLE STREET, NAGARI PIN - 517590",
+      "CHITTOOR DIST",
+      "NAGARI",
+      "Chittoor",
+      "Andhra Pradesh",
+      "517590"
+    ]
+  }
+}

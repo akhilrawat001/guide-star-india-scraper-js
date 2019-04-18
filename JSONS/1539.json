@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "name": "Sameena begam",
+      "email": "",
+      "designation": "President",
+      "mobile": []
+    },
+    {
+      "name": "Sameena begam",
+      "email": "",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1539",
+  "name": "Kids I. T. World Education Society",
+  "primaryEmail": "irfan_rauf_99@yahoo.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "912402300284",
+    "912403208767",
+    "919822764783"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "KRANTI CHOWK POLICE STATION ROAD",
+      "NUTAN COLONY,",
+      "AURANGABAD",
+      "Aurangabad",
+      "Maharashtra",
+      "431001"
+    ]
+  }
+}

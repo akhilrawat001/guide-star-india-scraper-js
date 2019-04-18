@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "SUBAL SAHU",
+      "email": "sewa_bghindia@rediffmail.com",
+      "designation": "SECRETARY",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8348",
+  "name": "UTKAL JANA SEVA SAMITI",
+  "primaryEmail": "sewa_bghindia@rediffmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919937010416"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "AT-PILIPALI",
+      "PO-KATAPALI",
+      "DIST- BARGARH",
+      "Bargarh",
+      "Odisha",
+      "768028"
+    ]
+  }
+}

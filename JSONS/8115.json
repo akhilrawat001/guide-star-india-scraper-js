@@ -1,0 +1,40 @@
+{
+  "contacts": [
+    {
+      "name": "Anil Patrick Gudipudi",
+      "email": "sharonwelfare@rediffmail.com",
+      "designation": "Director- Resources",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8115",
+  "name": "SHARON WELFARE SOCIETY",
+  "primaryEmail": "sharonwelfare@rediffmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919849344040"
+  ],
+  "mainAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "#4-247,Near Old Railway Gate,",
+      "NAVULURU",
+      "Mangalagiri,",
+      "Guntur",
+      "Andhra Pradesh",
+      "522503"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "Karlapalem",
+      "Karlapalem Mandal",
+      "Guntur",
+      "Andhra Pradesh",
+      "522503"
+    ]
+  }
+}

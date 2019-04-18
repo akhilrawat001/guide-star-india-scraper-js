@@ -1,0 +1,48 @@
+{
+  "contacts": [
+    {
+      "name": "Tajmuhmad Shaikh",
+      "email": "support@snehalaya.org",
+      "designation": "Donor Data & Relation Manager",
+      "mobile": [
+        "91-241-2778353",
+        "91-9011028828"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=299",
+  "name": "Snehalaya",
+  "primaryEmail": "info@snehalaya.org",
+  "website": "http://www.snehalaya.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "912412778353",
+    "919011020180",
+    "919011028828",
+    "919970982505"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Block no. 239, Nr. Super Amonia PlantShree Tiles Chowk",
+      "MIDC, Nimbalak Village",
+      "Ahmednagar",
+      "Maharashtra",
+      "414111"
+    ]
+  },
+  "briefDescription": "“Snehalaya” (meaning “Home of Love”) is a unique non-profit, charitable, philanthropic, non-political, well-diversified social service organization founded in 1989, dedicated to serve the most neglected and exploited class of our society, primarily women & children Victims of Commercial Sexual Exploitation and human Trafficking (VCSET). Snehalaya is registered with the United Nations (UNODC) and also reputed organizations like GiveIndia. Snehalaya’s efforts through its multi-faceted projects from the grass-root levels, has had tremendous socio-economic & health impact by improving the lives of thousands of suffering women & children affected by the direct or indirect consequences of human trafficking including victims of sexploitation, slavery, HIV/AIDS, rape, unwanted pregnancies addictions, child labor, street children, abused/under-privileged children, physically-challenged children, slum-dwellers, unwed mothers etc. The primary objective is to seek, rescue, support, empower, rehabilitate & re-integrate oppressed women, deprived children and distressed HIV/AIDS afflicted families, through direct intervention. In addition to numerous awards, citations, trophies, the most prominent is the prestigious Dr.Durgabai Deshmukh Award presented to Snehalaya by the President of India Mr.Pranab Mukherjee, in November,2012; for innovative pioneering work in this difficult field. Snehalaya has initiated several unique pioneering measures to bring joy into the lives of under-privileged children, including curbing female feticide, rescue and rehabilitation of discarded new-born babies. With zero tolerance, Snehalaya has effectively curbed coerced prostitution of minor girls in Ahmednagar district of Maharashtra. Snehalaya operates its own school, IT Center, rehabilitation center, community kitchen, medical & counseling facilities, legal aid, vocational training facilities, recreation facilities, living accommodation etc in a homely environment. Quite a few of the beneficiaries are minors. The victims originating from various parts of the country are provided totally free-of-cost food, clothing, shelter, medications, counseling, legal aid etc. Snehalaya depends solely on the financial/material/skills/time contributions of donors/ sponsors for the implementation of its programs.",
+  "yearOfEstablishment": "1992",
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Snehalaya Bhavan,",
+      "OppChitra Theatre, Near Mahatma Gandhi Maidan",
+      "Ahmednagar",
+      "Maharashtra",
+      "414001"
+    ]
+  }
+}

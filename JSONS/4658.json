@@ -1,0 +1,27 @@
+{
+  "contacts": [
+    {
+      "name": "K.SRINIVAS",
+      "email": "kamera.srinivas320@gmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4658",
+  "name": "Samagra Social Service Society",
+  "primaryEmail": "kamera.srinivas320@gmail.com",
+  "telephone": [
+    "914065552421",
+    "919948132421"
+  ],
+  "mainAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "(Vill) Dndepally",
+      "(Mond) Elkathurthy",
+      "Karimnagar",
+      "Andhra Pradesh",
+      "505101"
+    ]
+  }
+}

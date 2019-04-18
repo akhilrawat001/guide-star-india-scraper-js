@@ -1,0 +1,51 @@
+{
+  "contacts": [
+    {
+      "name": "Mr.Ravi Kumar",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "261338",
+        "9430388115"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7258",
+  "name": "MAHILA MUKTI SANSTHA",
+  "primaryEmail": "mmshazaribag@rediffmail.com",
+  "website": "http://www.mmshazaribag.org.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "916546261338",
+    "916546261338"
+  ],
+  "mainAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "Okni Talab 4th lane, Okni Hazaribag. Jharkhand 825301",
+      "Okni Hazaribag.",
+      "Hazaribag",
+      "Jharkhand",
+      "825301"
+    ]
+  },
+  "briefDescription": "Mahila Mukti Sanstha is grass root level women voluntary organization which is concentrating on the issues like the community empowerment, capacity building, skill development, entrepreneurship development, advocacy and awareness development on several selected issues w The key focus and the target groups of the organization is women and girls belonging to the deprived classes mainly SC, ST, OBC and victims of General Classes women. During these programs we promote awareness among the women and girls to improve their health status, economic and social position etc. MMS work with approximately 25000 women and adolescent girls on the issues Legal rights, Reproductive Health, Sexuality&Rights Gender Violence and Advocacy for Change in Policy.",
+  "yearOfEstablishment": "1994",
+  "regiseredAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "Back side of Shiv Mandir",
+      "Ratanpur",
+      "Ichak",
+      "Hazaribag",
+      "Jharkhand",
+      "825402"
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Kanraben B. Patel",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7403",
+  "name": "Samarth Organisation Trust",
+  "primaryEmail": "samarth_organisation@yahoo.com",
+  "website": "www.samarthtrust.org.in",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919825467569"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "FF.56 SANSKRUT COMPLEX",
+      "B/H POOJA HOSPITAL,T.B.ROAD, VIJAPUR",
+      "VIJAPUR",
+      "Mehsana",
+      "Gujarat",
+      "382870"
+    ]
+  }
+}

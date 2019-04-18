@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "VASANTRAO YADAV",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6142",
+  "name": "Lokmangal Sarva Seva Society",
+  "primaryEmail": "lokmangal2012@gmail.com",
+  "website": "NA",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919890951365"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Vyankatesh Vrundawan Society Flat No B308",
+      "Near Nawale Bridge Vadgaon ( BK )",
+      "PUNE",
+      "Pune",
+      "Maharashtra",
+      "411041"
+    ]
+  }
+}

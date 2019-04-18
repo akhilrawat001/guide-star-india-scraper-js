@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Dr K Nithyanandan Nair",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5159",
+  "name": "Society for Cognition of Science and Art for Quality Welfare, Sustainance, Livelyhood and Economic Development of the Poor",
+  "primaryEmail": "dir@scosaq.org",
+  "website": "www.scosaq.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "India",
+    "9895028119"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "7/21 IG Road, C.Pallavaram, Chennai:6000 43",
+      "#12, 2nd Floor, SM Road, Jalahalli West. Bangalore: 560015",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560015"
+    ]
+  }
+}

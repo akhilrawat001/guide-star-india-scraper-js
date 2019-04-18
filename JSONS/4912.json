@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Sambhaji Shinde",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4912",
+  "name": "MANODHAIRYA MANASSHASTRIY SANSHODHAN VA PRASHIKSHAN SANSTHA",
+  "primaryEmail": "manodhairya1110.ngo@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919422038403"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "At Balwadi, Post Wakhari",
+      "Tal Phaltan",
+      "Satara",
+      "Maharashtra",
+      "415523"
+    ]
+  }
+}

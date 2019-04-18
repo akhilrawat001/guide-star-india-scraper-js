@@ -1,0 +1,35 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4269",
+  "name": "UNITED WAY OF DELHI",
+  "primaryEmail": "uwdelhi@gmail.com",
+  "website": "www.unitedwaydelhi.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "911140507970"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "S-79, first floor",
+      "Panchsheel Park",
+      "New Delhi",
+      "South Delhi",
+      "Delhi",
+      "110016"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "S-79, First Floor",
+      "Panchsheel Park",
+      "New Delhi",
+      "South Delhi",
+      "Delhi",
+      "110016"
+    ]
+  }
+}

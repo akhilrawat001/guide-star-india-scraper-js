@@ -1,0 +1,35 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=558",
+  "name": "Kamal Memorial Foundation",
+  "primaryEmail": "Pratap_Walase@rediffmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "912133225005",
+    "919766692444"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "2nd Floor, Trimurti Complex",
+      "Pune Nashik Road",
+      "Manchar",
+      "Pune",
+      "Maharashtra",
+      "410503"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "AT :- Nirgudsar Tal. Ambegaon",
+      "Nirgudsar",
+      "Pune",
+      "Maharashtra",
+      "412406",
+      "AP_TelBill_473.PDF"
+    ]
+  }
+}

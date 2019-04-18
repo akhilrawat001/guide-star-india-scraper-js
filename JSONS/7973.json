@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Waghmare Rameshwar Harishchandra",
+      "email": "om123sairam@gmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7973",
+  "name": "Om Sairam Bahuuddeshiya Sevabhavi Sanstha Nalwandi",
+  "primaryEmail": "om123sairam@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "917588042363"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "At Nalwandi",
+      "Dist Beed",
+      "Beed",
+      "Maharashtra",
+      "431122"
+    ]
+  }
+}

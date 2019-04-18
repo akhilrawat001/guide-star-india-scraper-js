@@ -1,0 +1,37 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10408",
+  "name": "DR. ABDUL KALAM SKILL AND VISION FOUNDATION",
+  "primaryEmail": "info@aksvf.org",
+  "website": "www.aksvf.org",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "919008099299"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "Santhosh Nair A 20 Geetanjali Enclave",
+      "Malviya Nagar New Delhi",
+      "New Delhi",
+      "South Delhi",
+      "Delhi",
+      "110017"
+    ]
+  },
+  "briefDescription": "We are a trust mainly focusing on Education and Health care related activities",
+  "yearOfEstablishment": "2017",
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "B-61-62, IInd Floor,",
+      "Lajpat Nagar-1, Near Gufa Wala Mandir",
+      "New Delhi",
+      "South Delhi",
+      "Delhi",
+      "110024"
+    ]
+  }
+}

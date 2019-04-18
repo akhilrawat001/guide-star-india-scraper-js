@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Prem Kumar Illury",
+      "email": "swsc7@rediffmail.com",
+      "designation": "Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4262",
+  "name": "SOCIAL WELFARE SERVICE COUNCIL",
+  "primaryEmail": "swsc7@rediffmail.com",
+  "website": "www.swscindia.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919866390828"
+  ],
+  "mainAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "H.No:58-7-35,Opp:Natubaburao  Park, Santhapet",
+      "ONGOLE - 523 001",
+      "Prakasam",
+      "Andhra Pradesh",
+      "523001"
+    ]
+  }
+}

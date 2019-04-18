@@ -1,0 +1,42 @@
+{
+  "contacts": [
+    {
+      "name": "Abhay Kumar",
+      "email": "dishai@bol.net.in",
+      "designation": "Manager",
+      "mobile": [
+        "91-9811071103"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=351",
+  "name": "Disha",
+  "primaryEmail": "dishai@bol.net.in",
+  "website": "http://www.dishaindia.org",
+  "organisationType": [
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "911125533204",
+    "911125553204",
+    "911125533204"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "13/88, Block C-4/B",
+      "Janakpuri",
+      "New Delhi",
+      "Delhi",
+      "110058"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "Delhi"
+    ]
+  }
+}

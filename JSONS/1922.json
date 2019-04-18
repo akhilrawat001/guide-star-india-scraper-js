@@ -1,0 +1,47 @@
+{
+  "contacts": [
+    {
+      "name": "Brij Mohan Singh",
+      "email": "brij_2002us@yahoo.com",
+      "designation": "Vice President",
+      "mobile": [
+        "91-7636-275608",
+        "91-9424906514"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1922",
+  "name": "Gram Seva Nyas",
+  "primaryEmail": "gst_balaghat@yahoo.co.in",
+  "website": "www.gramsevatrust.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "917636275608",
+    "919424906514"
+  ],
+  "mainAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "Pataleshwar",
+      "Ward No- 03",
+      "Chhindwara",
+      "Madhya Pradesh",
+      "480001"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "Kurenda Road",
+      "Tehsil + P.O. : Parswada",
+      "Balaghat",
+      "Madhya Pradesh",
+      "481556"
+    ]
+  }
+}

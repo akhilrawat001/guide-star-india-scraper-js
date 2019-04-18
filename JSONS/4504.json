@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "SAM CHELLADURAI",
+      "email": "readcentre@gmail.com",
+      "designation": "SECRETARY/EXECUTIVE DIRECTOR",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4504",
+  "name": "THE ANEKAL REHABILITATION EDUCATION AND DEVELOPMENT CENTRE",
+  "primaryEmail": "readcentre@gmail.com",
+  "website": "www.readcentre.org.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "+918026850075",
+    "918026850075"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "19.4th Cross, 1st main, Shreays colony",
+      "JP Nagar 7th Phase",
+      "Bangalore.",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560078"
+    ]
+  }
+}

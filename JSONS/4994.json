@@ -1,0 +1,43 @@
+{
+  "contacts": [
+    {
+      "name": "BHASKAR K",
+      "email": "sdhssmanjakudi@gmail.com",
+      "designation": "SENIOR TEACHER",
+      "mobile": [
+        "91-9262081544"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4994",
+  "name": "SWAMY DAYANANDA SARASWATI EDUCATIONAL SOCIETY",
+  "primaryEmail": "sdhssmanjakudi@gmail.com",
+  "website": "http://www.manjakkudischool.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919262081544"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "SWAMI DAYANANDA HIGHER  SECONDARY SCHOOL",
+      "MANJAKKUDI",
+      "THIRUVARUR DISTRICT",
+      "Tiruvarur",
+      "Tamil Nadu",
+      "612610"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "Same as the Correspondence address",
+      "Manjakkudi",
+      "Tiruvarur",
+      "Tamil Nadu",
+      "612610"
+    ]
+  }
+}

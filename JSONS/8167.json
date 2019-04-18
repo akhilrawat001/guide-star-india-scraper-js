@@ -1,0 +1,36 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8167",
+  "name": "Sahyadri Yuva Krushi va Gramin Vikas Pratishthan",
+  "primaryEmail": "sahyadri783@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "912424223680",
+    "912424223680"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Suraj Sudhakar Deshmukh",
+      "At Po Sugaon bk.",
+      "Tal Akole",
+      "Ahmednagar",
+      "Maharashtra",
+      "422601"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "c/o Suraj Sudhakar Deshmukh",
+      "At Po Sugaon bk.",
+      "Tal Akole",
+      "Ahmednagar",
+      "Maharashtra",
+      "422601"
+    ]
+  }
+}

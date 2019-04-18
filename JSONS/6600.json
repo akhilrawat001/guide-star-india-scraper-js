@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Mr.Manikant Tiwari",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6600",
+  "name": "Shiksha Seva Foundation",
+  "primaryEmail": "info@shikshasevafoundation.org",
+  "website": "www.shikshasevafoundation.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919029001618",
+    "919594907150"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "301, Satyanarayan Apt, Opp- G.H School, M.",
+      "M.G Road Borivali East.",
+      "Mumbai",
+      "Maharashtra",
+      "400066"
+    ]
+  }
+}

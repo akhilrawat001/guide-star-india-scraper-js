@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Dr. Pyare Lal",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6242",
+  "name": "BIHAR INSTITUTE OF ECONOMIC STUDIES",
+  "primaryEmail": "biespatna@gmail.com",
+  "website": "www.bies.in",
+  "organisationType": [
+    "Direct Service",
+    "Network"
+  ],
+  "telephone": [
+    "916122520721",
+    "916122520721"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "113/70 B",
+      "Lal Bahadur",
+      "Shastri Nagar",
+      "Patna",
+      "Bihar",
+      "800023"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "contacts": [
+    {
+      "name": "Manoj Satapathy",
+      "email": "virdangul2005@yahoo.co.in",
+      "designation": "Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4927",
+  "name": "VOLUNTARY INSTITUTE FOR RURAL DEVELOPMENT",
+  "primaryEmail": "virdangul2005@yahoo.co.in",
+  "website": "www.virdngo.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "9438850416"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "Hakimapada,angul,odisha",
+      "hakimapada,angul",
+      "Angul",
+      "Odisha",
+      "759143"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Odisha",
+    "address": [
+      "titigaon,aida,athmallick,angul",
+      "hakimapada,angul",
+      "angul",
+      "Angul",
+      "Odisha",
+      "759143"
+    ]
+  }
+}

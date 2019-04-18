@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "M M Nikhilesh",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5625",
+  "name": "KALISU FOUNDATION",
+  "primaryEmail": "info@kalisu.org",
+  "website": "www.kalisu.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919945110183"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "#35, 6th main, 3rd block,",
+      "jayalakshmipuram",
+      "Mysore",
+      "Mysuru (Mysore)",
+      "Karnataka",
+      "570012"
+    ]
+  }
+}

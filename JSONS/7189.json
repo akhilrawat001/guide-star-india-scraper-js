@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Mr.Bhrigu Nath Prasad",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7189",
+  "name": "Mallarpur Purvanchal Manav Seva Kendra",
+  "primaryEmail": "pmskorg@gmail.com",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "919433456351"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Vill+PO. - Mollarpur",
+      "Birbhum",
+      "Mallarpur",
+      "West Bengal",
+      "731216"
+    ]
+  }
+}

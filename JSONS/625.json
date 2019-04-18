@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "Manoj Kurian",
+      "email": "",
+      "designation": "CEO",
+      "mobile": [
+        "91-471-2314267",
+        "91-9847284866"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=625",
+  "name": "National Association for the Blind, Kerala State Branch",
+  "primaryEmail": "nabkeral@gmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "914712314267",
+    "919847284866"
+  ],
+  "mainAddrress": {
+    "state": "Kerala",
+    "address": [
+      "MRA 80, Manjadivila Road",
+      "Plamood",
+      "Trivandrum",
+      "Thiruvananthapuram",
+      "Kerala",
+      "695003"
+    ]
+  }
+}

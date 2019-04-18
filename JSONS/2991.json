@@ -1,0 +1,37 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2991",
+  "name": "Service Initiative for Voluntary Action Trust",
+  "primaryEmail": "sivatrust.tpuram@gmail.com",
+  "website": "http://www.sivatrust.in",
+  "organisationType": [
+    "Direct Service",
+    "Network"
+  ],
+  "telephone": [
+    "919442215014",
+    "914224953014"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "245/A, North Strret, Vanniconendal",
+      "Sankarankovil Taluk",
+      "Tirunelveli",
+      "Tamil Nadu",
+      "627954"
+    ]
+  },
+  "briefDescription": "The organisation works against all forms of child exploitation, health service to women, adolescent girls and newborn, income generation help to marginalised, dalit, counselling to students and youth and improved living conditions of scavengers.",
+  "yearOfEstablishment": "1994",
+  "regiseredAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "3/17, Kurunthasala Nagar",
+      "K. Vadamadurai Post",
+      "Coimbatore",
+      "Tamil Nadu",
+      "641017"
+    ]
+  }
+}

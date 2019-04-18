@@ -1,0 +1,38 @@
+{
+  "contacts": [
+    {
+      "name": "R Bhakther Solomon",
+      "email": "",
+      "designation": "Chief Executive Officer",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=271",
+  "name": "Development Promotion Group",
+  "primaryEmail": "dpgchennai1@gmail.com",
+  "website": "www.dpgsulo.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "914423744647",
+    "914423745471",
+    "914423744647"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "Joseph Centre, 60",
+      "Officer's Colony, III Street Metha Nagar, Amainthakarai",
+      "Chennai",
+      "Tamil Nadu",
+      "600029"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "Tamil Nadu"
+    ]
+  }
+}

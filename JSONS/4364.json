@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "A.Rameshbabu",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4364",
+  "name": "Society for welfare HIV infected People",
+  "primaryEmail": "shipramesh@rediffmail.com",
+  "website": "www.shipguntur.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service"
+  ],
+  "telephone": [
+    "919618205520"
+  ],
+  "mainAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "SHIP,Amaravathi Road, Anjali Township, Besiede Hosanna Mandir, Gorantla, Guntur,Pin 522032",
+      "Besiede Hosanna Mandir",
+      "Guntur, Gorantla, Guntur (Rural)",
+      "Guntur",
+      "Andhra Pradesh",
+      "522032"
+    ]
+  }
+}

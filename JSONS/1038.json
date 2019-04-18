@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "R. Mabel Pushpam",
+      "email": "sweedngo@yahoo.in",
+      "designation": "Director/ Secretary",
+      "mobile": [
+        "91-452-2415456"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1038",
+  "name": "Society For Womenï¿½s Education Economic Development (SWEED)",
+  "primaryEmail": "sweed@bsnl.in",
+  "telephone": [
+    "914522415456",
+    "914522415456"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "No: 328-B   Pandian Nagar",
+      "Melur",
+      "Madurai",
+      "Tamil Nadu",
+      "625106"
+    ]
+  }
+}

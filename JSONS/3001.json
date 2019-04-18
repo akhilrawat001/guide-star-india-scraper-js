@@ -1,0 +1,45 @@
+{
+  "contacts": [
+    {
+      "name": "B Jakeer Hussain",
+      "email": "gserds@rediffmail.com",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3001",
+  "name": "GOOD SHEPHERD EDUCATIONAL & RURAL DEVELOPMENT SOCIETY",
+  "primaryEmail": "gserds@rediffmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Grant-making",
+    "Support"
+  ],
+  "telephone": [
+    "919985386663"
+  ],
+  "mainAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "19-220-1 Gandhi Nagar Velugodu",
+      "Atmakur to Nandyal Main Road",
+      "Velugodu",
+      "Kurnool",
+      "Andhra Pradesh",
+      "518533"
+    ]
+  },
+  "briefDescription": "GOOD SHEPHERD EDUCATIONAL & RURAL DEVELOPMENT SOCIETY",
+  "yearOfEstablishment": "2000",
+  "regiseredAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "19-220-1 Gandhi Nagar Velugodu",
+      "Atmakur to Nandyal Main Road",
+      "Village",
+      "Kurnool",
+      "Andhra Pradesh",
+      "518533"
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "ShriprakashSinghNimraje",
+      "email": "gksss85_org@rediffmail.com",
+      "designation": "Presedent",
+      "mobile": [
+        "91-751-2349331",
+        "91-9425118370"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3410",
+  "name": "Gopal Kiran Shiksha Avam Sanskratik Samiti",
+  "primaryEmail": "gksss85_org@rediffmail.com",
+  "website": "gksss85_org@rediffmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "9109425118370"
+  ],
+  "mainAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "Nimraje Sadan",
+      "New Mohan Nagar",
+      "Thathipur,Gwalior",
+      "Gwalior",
+      "Madhya Pradesh",
+      "474011"
+    ]
+  },
+  "briefDescription": "Gopal Kiran Shiksha Avam Sanskratik Samiti",
+  "yearOfEstablishment": "1986"
+}

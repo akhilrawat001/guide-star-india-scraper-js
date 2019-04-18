@@ -1,0 +1,23 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6162",
+  "name": "TEAR - Training Efforts And Research",
+  "primaryEmail": "shakeelp53@yahoo.com",
+  "website": "www.tear.co.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919869315691"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "B-7, Room No.5",
+      "Road NO.5, Vikhroli Parksite",
+      "Mumbai",
+      "Maharashtra",
+      "400079"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "contacts": [
+    {
+      "name": "Sri. M.P.Varsha",
+      "email": "mpvarsha@hotmail.com",
+      "designation": "Managing Trustee",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6646",
+  "name": "CREDIT-I (Center for Rural, Education, Development and Innovative Technologies of India)",
+  "primaryEmail": "creditindia2007@gmail.com",
+  "website": "www.credit-i.org.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918214258742",
+    "919448988746"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "No.1241, \"Raghavendra Nilaya\", 2nd Cross, Krishnamurthy Puram,",
+      "Mysore",
+      "Mysuru (Mysore)",
+      "Karnataka",
+      "570004"
+    ]
+  },
+  "briefDescription": "Women Empowerment ,EDP, Skill- Training, Innovative Activites",
+  "yearOfEstablishment": "2007",
+  "regiseredAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "No.1082 ,10th cross, Sunnadakeri, K.R.Mohalla,",
+      "Mysore",
+      "Mysuru (Mysore)",
+      "Karnataka",
+      "570024"
+    ]
+  }
+}

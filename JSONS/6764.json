@@ -1,0 +1,45 @@
+{
+  "contacts": [
+    {
+      "name": "Tuna Rout",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6764",
+  "name": "Association for Sanitation and Health Activities",
+  "primaryEmail": "info@ashaworld.org",
+  "website": "WWW.ashaworld.org",
+  "organisationType": [
+    "Direct Service",
+    "Intermediary",
+    "Support"
+  ],
+  "telephone": [
+    "9990664236"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "A-2/85, KH No-1624, 1st Floor",
+      "A2/85, KH No-1624, 1st Floor,",
+      "Near Kali Mandir,Phase-V",
+      "South West Delhi",
+      "Delhi",
+      "110047"
+    ]
+  },
+  "briefDescription": "Association for Sanitation and Health Activities (ASHA) is a Non Governmental Organization ( NGO)based in New Delhi. It works at a grassroot level to reach out to the most vulnerable and marginalized communities to empower them for their self reliance and contribute towards their social and economic upliftment. Since its inception, ASHA has been working mainly with communities in the remotest and backward regions of ORISSA, Jharkhand and West Bengal . The organization enables thousands of men and women living in extremely poor and vulnerable circumstances to improve their living conditions and restore dignity through human transformation going beyond charity and development.",
+  "yearOfEstablishment": "2014",
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "A2/85, KH No-1624, 1st Floor,",
+      "Near Kali Mandir,Aya Nagar, Phase-V",
+      "South West Delhi",
+      "Delhi",
+      "110047"
+    ]
+  }
+}

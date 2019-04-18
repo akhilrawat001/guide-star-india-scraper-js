@@ -1,0 +1,23 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9062",
+  "name": "Centre for Education and Documentation",
+  "primaryEmail": "cedbom@doccentre.net",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919324315284",
+    "919892230365"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Flat No. 3, Suleman Chambers, 4, Battery Street,",
+      "Behind Regal Cinema, Colaba",
+      "Mumbai",
+      "Maharashtra",
+      "400001"
+    ]
+  }
+}

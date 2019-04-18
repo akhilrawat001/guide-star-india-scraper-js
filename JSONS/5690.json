@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "JYOTIRMOY MAHATA",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5690",
+  "name": "BHUPATI DEVELOPMENT TRUST",
+  "primaryEmail": "bhupatidevelopmenttrust@live.com",
+  "website": "www.bdtindia.com",
+  "organisationType": [
+    "Direct Service",
+    "Network"
+  ],
+  "telephone": [
+    "919002489776"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "VILL-DAHATMUL",
+      "PO-LODHASULI",
+      "JHARGRAM",
+      "West Medinipur",
+      "West Bengal",
+      "721507"
+    ]
+  }
+}

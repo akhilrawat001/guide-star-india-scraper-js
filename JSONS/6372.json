@@ -1,0 +1,47 @@
+{
+  "contacts": [
+    {
+      "name": "Dr Ashok B Yadav",
+      "email": "ashok.maulisociety@gmail.com",
+      "designation": "Secretary",
+      "mobile": [
+        "91-2164-229880"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6372",
+  "name": "Mauli Multipurpose charitable society",
+  "primaryEmail": "maulisociety.nerle@gmail.com",
+  "website": "www.maulisociety.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service"
+  ],
+  "telephone": [
+    "912164229880",
+    "912164229880"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Care of Mauli Hospital,80, Budhwar Peth,Opp. Prabhat Talkies,KARAD",
+      "KARAD",
+      "Satara",
+      "Maharashtra",
+      "415110"
+    ]
+  },
+  "briefDescription": "Mauli Multipurpose charitable society (MMCS) is established in 2005,  MMCS is a Non Political, Non Sectarian, and Voluntary Social Welfare Organization. Our main goal is to establish in underserved areas a facility that can serve as a Centre for Healthcare administration to the people in the community and as a base for our health education programs, that serve to improve basic knowledge about the normal functioning body and about common diseases endemic in that population.",
+  "yearOfEstablishment": "2005",
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "C/O Mauli Hospital,80, Budhwar Peth,Opp. Prabhat Talkies,KARAD",
+      "80, Budhwar Peth,Opp. Prabhat Talkies,",
+      "KARAD",
+      "Satara",
+      "Maharashtra",
+      "415110"
+    ]
+  }
+}

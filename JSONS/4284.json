@@ -1,0 +1,34 @@
+{
+  "contacts": [
+    {
+      "name": "Medha Somaiya",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4284",
+  "name": "Yuvak Pratishthan",
+  "primaryEmail": "yuvakp@gmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "912225644044",
+    "912225644044"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "9-C, Neelam Nagar,",
+      "Gavanpada, Mulund (East)",
+      "Mumbai",
+      "Mumbai Suburban",
+      "Maharashtra",
+      "400080"
+    ]
+  }
+}

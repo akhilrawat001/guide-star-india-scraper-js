@@ -1,0 +1,27 @@
+{
+  "contacts": [
+    {
+      "name": "Y. Surchandra Singh",
+      "email": "",
+      "designation": "Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1559",
+  "name": "Rural Service Agency",
+  "primaryEmail": "rusapalacecompound@gmail.com",
+  "telephone": [
+    "913852443816",
+    "919862278785"
+  ],
+  "mainAddrress": {
+    "state": "Manipur",
+    "address": [
+      "Sagolband Nepra major Leikai",
+      "Imphal",
+      "Imphal East",
+      "Manipur",
+      "950001"
+    ]
+  }
+}

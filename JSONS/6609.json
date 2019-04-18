@@ -1,0 +1,34 @@
+{
+  "contacts": [
+    {
+      "name": "Dr Kamal Rochaldas Chhabrani",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6609",
+  "name": "Bhagyalaxmi Health And Education Society",
+  "primaryEmail": "bhagyalaxmingo@gmail.com",
+  "website": "https://www.bhagyalaxmingo.org",
+  "organisationType": [
+    "Direct Service",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "917122733286",
+    "917122733286"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Rokde Sadan",
+      "Bhawsar Chowk, Near Hotel Amir Central Avenue",
+      "Nagpur",
+      "Maharashtra",
+      "440002"
+    ]
+  }
+}

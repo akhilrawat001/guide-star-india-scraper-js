@@ -1,0 +1,36 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5402",
+  "name": "Parivesh Purn Jagran Sansthan",
+  "primaryEmail": "parivesh_org@rediffmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network"
+  ],
+  "telephone": [
+    "919431887796"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "Vill-Hardas Bigha,Po-Baikhathpur,Khusrupur,Patna",
+      "Khusrupur",
+      "Hardas Bigha",
+      "Patna",
+      "Bihar",
+      "803202"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Bihar",
+    "address": [
+      "vill-Hardas Bigha,po-Baikhathpur,khusrupur,Patna",
+      "Khusrupur",
+      "Hardas Bigha",
+      "Patna",
+      "Bihar",
+      "803202"
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "contacts": [
+    {
+      "name": "SHRINIWAS PANDEY",
+      "email": "mail4snpandey@gmail.com",
+      "designation": "SECRETARY",
+      "mobile": [
+        "91-9631535900"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5878",
+  "name": "SRIJAN SHAKTI WELFARE SOCIETY",
+  "primaryEmail": "mail4snpandey@gmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919631535900"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "AT- KARPALIA",
+      "POST- MUSTAFABAD",
+      "SIWAN",
+      "Siwan",
+      "Bihar",
+      "841439"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "RZ-285 F",
+      "PALAM COLONY",
+      "RAJNAGAR II",
+      "West Delhi",
+      "Delhi",
+      "110045"
+    ]
+  }
+}

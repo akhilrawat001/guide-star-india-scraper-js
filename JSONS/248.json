@@ -1,0 +1,40 @@
+{
+  "contacts": [
+    {
+      "name": "Vijay Salve",
+      "email": "vishwabalak1997@gmail.com",
+      "designation": "General Manager",
+      "mobile": []
+    },
+    {
+      "name": "Vijay Salve",
+      "email": "vishwabalak1997@gmail.com",
+      "designation": "General Manager",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=248",
+  "name": "Children of the World (India) Trust",
+  "primaryEmail": "vishwabalak1997@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "912223520249",
+    "912227720765",
+    "919867445527",
+    "912223520032"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "401, Arun Chambers",
+      "Tardeo",
+      "Mumbai",
+      "Maharashtra",
+      "400034"
+    ]
+  }
+}

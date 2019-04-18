@@ -1,0 +1,26 @@
+{
+  "contacts": [
+    {
+      "name": "Sitakanta Dash",
+      "email": "",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=575",
+  "name": "Society for Promotion of Rural Technology and Education",
+  "primaryEmail": "soportebdk@rediffmail.com",
+  "telephone": [
+    "916784240993",
+    "916784240993"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "Bonth Chhak",
+      "Bhadrak",
+      "Odisha",
+      "756100"
+    ]
+  }
+}

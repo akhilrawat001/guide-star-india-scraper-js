@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Sudha",
+      "email": "",
+      "designation": "Director /Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=581",
+  "name": "Shaktivardhini",
+  "primaryEmail": "shaktivardhini123@rediffmail.com",
+  "website": "www.shaktivardhini.org",
+  "telephone": [
+    "916123240612",
+    "919835623406"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "Hold No.-188, Ground Floor",
+      "Near Saguna More, New Baily Road",
+      "Danapur",
+      "Patna",
+      "Bihar",
+      "801503"
+    ]
+  }
+}

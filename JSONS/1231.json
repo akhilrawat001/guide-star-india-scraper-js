@@ -1,0 +1,37 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1231",
+  "name": "Guidance Society for Labour Orphans and Women (GLOW)",
+  "primaryEmail": "glowtn.mfo@gmail.com",
+  "website": "www.glowtn.org.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "914179225049",
+    "914179226671",
+    "914179225049"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "92/1D,Sivaraj pet",
+      "Koviloor Road, Tirupattur Tk,",
+      "Vellore",
+      "Tamil Nadu",
+      "635601",
+      "AP_TelBill_1135.PDF"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "94, Sowlore, K.Pudur Post,",
+      "Tirupattur Tk,",
+      "Vellore",
+      "Tamil Nadu",
+      "635653",
+      "AP_TelBill_1135.PDF"
+    ]
+  }
+}

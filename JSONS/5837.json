@@ -1,0 +1,34 @@
+{
+  "contacts": [
+    {
+      "name": "Vinay Kumar",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5837",
+  "name": "Shri Luxmi Charitable Trust",
+  "primaryEmail": "hevinay@gmail.com",
+  "organisationType": [
+    "Grant-making",
+    "Support"
+  ],
+  "telephone": [
+    "918894905550",
+    "919915195073"
+  ],
+  "mainAddrress": {
+    "state": "Himachal Pradesh",
+    "address": [
+      "Moh. Mugla P/O Hardaspura",
+      "teh & Dsitt chamba",
+      "chamba",
+      "Chamba",
+      "Himachal Pradesh",
+      "176310"
+    ]
+  },
+  "briefDescription": "Work for the development of our locality.",
+  "yearOfEstablishment": "2013"
+}

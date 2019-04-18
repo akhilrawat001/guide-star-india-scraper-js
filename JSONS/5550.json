@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "S. Afsar Husain",
+      "email": "sana.society@gmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5550",
+  "name": "Sana Educational Development Society",
+  "primaryEmail": "sana.society@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "+919246865860"
+  ],
+  "mainAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "H.No.4-134, Chand Bada, Nandyal - 518501, Kurnool District, Andhra Pradesh",
+      "Nandyal Town",
+      "Kurnool",
+      "Andhra Pradesh",
+      "518501"
+    ]
+  }
+}

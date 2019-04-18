@@ -1,0 +1,27 @@
+{
+  "contacts": [
+    {
+      "name": "Paresh Nath Roy",
+      "email": "",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=613",
+  "name": "Santal Pargana Antyodaya Ashram",
+  "primaryEmail": "spaadeoghar@yahoo.co.in",
+  "telephone": [
+    "916432234797",
+    "916432222797",
+    "916432234797"
+  ],
+  "mainAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "At. Purandaha",
+      "Deoghar",
+      "Jharkhand",
+      "814112"
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10357",
+  "name": "SAHAYOG",
+  "primaryEmail": "sahayog.odisha@gmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919439196101",
+    "919438677224"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "Sahayog, 96, Surya Nagar, 1st Floor, Unit-VII",
+      "In front of Mumtaz Ali Park",
+      "Bhubaneswar",
+      "Khordha",
+      "Odisha",
+      "751003"
+    ]
+  },
+  "briefDescription": "Founded in 2008, Sahayog – a value driven voluntary institution – is dedicated to promote participatory initiatives in the fields of health, education and livelihoods for equitable development.",
+  "yearOfEstablishment": "2012",
+  "regiseredAddrress": {
+    "state": "Odisha",
+    "address": [
+      "AE/87, VSS Nagar, Po. Saheed Nagar",
+      "Po.-Saheed Nagar",
+      "Bhubaneswar",
+      "Khordha",
+      "Odisha",
+      "751007"
+    ]
+  }
+}

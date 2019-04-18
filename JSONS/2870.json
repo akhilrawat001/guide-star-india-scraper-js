@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "S B Singh Yadav",
+      "email": "viklangsevasamiti@gmail.com",
+      "designation": "Chairman",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2870",
+  "name": "Viklang Seva Samiti",
+  "primaryEmail": "viklangsevasamiti@gmail.com",
+  "telephone": [
+    "915466231829",
+    "915466231829"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "Basupar",
+      "Bankat",
+      "Sagri",
+      "Azamgarh",
+      "Uttar Pradesh",
+      "276138"
+    ]
+  }
+}

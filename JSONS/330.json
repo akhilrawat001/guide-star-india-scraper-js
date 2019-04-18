@@ -1,0 +1,38 @@
+{
+  "contacts": [
+    {
+      "name": "K S Nanjappa",
+      "email": "bcchi2002@yahoo.com",
+      "designation": "Project Coordinator",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=330",
+  "name": "Bharath Charitable Cancer Hospital and Institute",
+  "primaryEmail": "bcchi2002@yahoo.com",
+  "website": "http://www.giveindia.org/GetOrganisationProfile.aspx?ngoid=24",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918212302045",
+    "918212565506",
+    "918212302045"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "600-601, Irwin Road",
+      "Mysore",
+      "Mysuru (Mysore)",
+      "Karnataka",
+      "570016"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "Karnataka"
+    ]
+  }
+}

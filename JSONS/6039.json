@@ -1,0 +1,44 @@
+{
+  "contacts": [
+    {
+      "name": "Ajay Kavishwar",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "8755903397"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6039",
+  "name": "Vrindavan Chandrodaya Mandir Trust",
+  "primaryEmail": "suvyakta@vcm.org.in",
+  "website": "http://vcm.org.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918755903397",
+    "918954920537"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "Bhaktivedanta Swami Marg",
+      "Vrindavan",
+      "Mathura",
+      "Uttar Pradesh",
+      "281121"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "Bhaktivedanta Swami Marg",
+      "Safdarjung Development Area",
+      "Vrindavan",
+      "Mathura",
+      "Uttar Pradesh",
+      "281121"
+    ]
+  }
+}

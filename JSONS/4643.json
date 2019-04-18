@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "Chandra Sekhar Sutar",
+      "email": "ananda06_07@rediffmail.com",
+      "designation": "Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4643",
+  "name": "Ganjam District Orthopedically Handicapped Welfare Association",
+  "primaryEmail": "samarth_gdohwa@yahoo.co.in",
+  "telephone": [
+    "916811260146",
+    "919938875907"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "At:-Netaji Subash Marg,",
+      "Near S.P Residence, Chatrapur",
+      "GANJAM",
+      "Ganjam",
+      "Odisha",
+      "761020"
+    ]
+  }
+}

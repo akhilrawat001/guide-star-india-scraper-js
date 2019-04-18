@@ -1,0 +1,41 @@
+{
+  "contacts": [
+    {
+      "name": "Waseem Iqbal",
+      "email": "aasindia@hotmail.com",
+      "designation": "Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4654",
+  "name": "AAS Samiti",
+  "primaryEmail": "aasindia@hotmail.com",
+  "website": "www.aasindore.org",
+  "telephone": [
+    "917312571573",
+    "917314089521",
+    "919827300186"
+  ],
+  "mainAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "H-33, MIG",
+      "RSS Nagar",
+      "Indore",
+      "Madhya Pradesh",
+      "452001"
+    ]
+  },
+  "briefDescription": "AAs was founded in 2005 as an initiative by a group of mere seven like minded youths to bring a new vision and thought to the society and individuals. AAs got registered as a legal body under Madhya Pradesh Societies Registration Act with name “AAs – Aim for the Awareness of society”. (Registration No: 03/27/3/0431/05) AAs works to bring Hopes to the Society and especially to those deprived ones – first by identifying them, and then by taking most suitable rescues steps for them – so that they are brought back to the main stream and so that they acquire the same dignity and happy stature that every Man in the world has a right to get.",
+  "yearOfEstablishment": "2005",
+  "regiseredAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "1/43",
+      "LIG Colony RSS Nagar",
+      "Indore",
+      "Madhya Pradesh",
+      "452010"
+    ]
+  }
+}

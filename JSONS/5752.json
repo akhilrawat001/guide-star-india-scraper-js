@@ -1,0 +1,27 @@
+{
+  "contacts": [
+    {
+      "name": "SRIDHAR GUDUTHUR",
+      "email": "sridhar.gud@gmail.com",
+      "designation": "DIRECTOR",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5752",
+  "name": "FOCUS",
+  "primaryEmail": "sridhar.gud@gmail.com",
+  "telephone": [
+    "919892140757"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "2ND FLOOR, 20TH MAIN, XI CROSS,",
+      "1ST STAGE, BTM LAYOUT(NEAR GANGOTHRI CIRCLE)",
+      "Bangalore Urban",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560068"
+    ]
+  }
+}

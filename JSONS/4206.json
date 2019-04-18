@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "Arun Kumar Dash",
+      "email": "trirangango@gmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4206",
+  "name": "TRIRANGA  YUBAK SANGHA",
+  "primaryEmail": "trirangango@gmail.com",
+  "telephone": [
+    "916653201700",
+    "919668149398"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "At:Mahakhanda",
+      "Po: Rengali",
+      "Via: Agalpur",
+      "Balangir",
+      "Odisha",
+      "767022"
+    ]
+  }
+}

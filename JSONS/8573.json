@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Kamalesh Das",
+      "email": "vidyaniketan543@rediffmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8573",
+  "name": "Vidya Niketan",
+  "primaryEmail": "vidyaniketan543@rediffmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919631703330"
+  ],
+  "mainAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "At-Dharambhal (fuldungri),",
+      "P.o-Ghatsila",
+      "East Singhbhum",
+      "Jharkhand",
+      "823303"
+    ]
+  }
+}

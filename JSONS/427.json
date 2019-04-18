@@ -1,0 +1,31 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=427",
+  "name": "Prayatna",
+  "primaryEmail": "prayatna_org@sify.com",
+  "website": "http://www.giveindia.org/GetOrganisationProfile.aspx?ngoid=147",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "916122344382",
+    "916122344382"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "A-27, Vijay Nagar",
+      "Hanuman Nagar",
+      "Kankarbagh",
+      "Patna",
+      "Bihar",
+      "828122"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Bihar",
+    "address": [
+      "Bihar"
+    ]
+  }
+}

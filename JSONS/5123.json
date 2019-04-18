@@ -1,0 +1,37 @@
+{
+  "contacts": [
+    {
+      "name": "Ashley Derick Macdonald",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "266577"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5123",
+  "name": "Arohana Seva Foundation",
+  "primaryEmail": "info@arohana.in",
+  "website": "www.arohana.in",
+  "organisationType": [
+    "Direct Service",
+    "Grant-making",
+    "Network"
+  ],
+  "telephone": [
+    "914362266577",
+    "914362266577"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "Plot no. 3, First street, Natchatra Nagar,",
+      "Near New Bus Stand, Thanjavur, Tamil Nadu",
+      "Thanjavur",
+      "Tamil Nadu",
+      "613005"
+    ]
+  },
+  "briefDescription": "Arohana is a project based non profit organization and has an organization structure that reflects this. We have successfully implemented ‘Solar Lighting’, 'Mini Dairy' and 'Shakthi Amma' Projects that impact over 1000 farmers in Thanjavur and surrounding districts.",
+  "yearOfEstablishment": "2011"
+}

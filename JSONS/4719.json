@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "VIKRAMJIT SINGH",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4719",
+  "name": "RAGINI SOCIAL AWARENESS GROUP",
+  "primaryEmail": "slr.group@hotmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919871068989"
+  ],
+  "mainAddrress": {
+    "state": "Haryana",
+    "address": [
+      "C2442,BASEMENT,SUSHANT LOK-1,",
+      "GURGAON",
+      "Gurugram",
+      "Haryana",
+      "122002"
+    ]
+  }
+}

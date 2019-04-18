@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "S.Sekaran",
+      "email": "udisforum3@gmail.com",
+      "designation": "Project Co-ordinator",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4312",
+  "name": "UDIS FORUM",
+  "primaryEmail": "udisforum3@gmail.com",
+  "website": "http:/www.davo.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919442607572"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "18/17, Thadagam road, Lunanagar, Coimbatore 641025, Tamil Nadu",
+      "C/54, Cheran Colony, Thudialur, Coimbatore 641034, Tamil Nadu",
+      "Coimbatore",
+      "Tamil Nadu",
+      "641025"
+    ]
+  }
+}

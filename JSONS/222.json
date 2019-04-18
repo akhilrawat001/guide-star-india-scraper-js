@@ -1,0 +1,40 @@
+{
+  "contacts": [
+    {
+      "name": "C Sujadellfin Rose",
+      "email": "jeevajyothichennai@gmail.com",
+      "designation": "Asst. Director",
+      "mobile": []
+    },
+    {
+      "name": "C Sujadellfin Rose",
+      "email": "jeevajyothichennai@gmail.com",
+      "designation": "Asst. Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=222",
+  "name": "Jeevajyothi",
+  "primaryEmail": "jeevajyothichennai@gmail.com",
+  "website": "www.jeevajyothi.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network"
+  ],
+  "telephone": [
+    "914425591290",
+    "919444287738"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "No 58, Chinna Kulandai Main Street",
+      "Maduma Nagar",
+      "Perambur",
+      "Chennai",
+      "Tamil Nadu",
+      "600011"
+    ]
+  }
+}

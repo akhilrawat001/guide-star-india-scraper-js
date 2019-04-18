@@ -1,0 +1,36 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7423",
+  "name": "Social Action For Knowledge Building And Awareness Raising",
+  "primaryEmail": "sakar.s@rediffmail.com",
+  "website": "www.sakarindia.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919760003942"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "House No.01",
+      "BalaJi Enclave, Bhoor,Bareilly",
+      "Bareilly",
+      "Uttar Pradesh",
+      "243001"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Uttarakhand",
+    "address": [
+      "Hall-1",
+      "D Durga Nagar Center Near Degree Collage Nainital Road",
+      "Haldwani",
+      "Nainital",
+      "Uttarakhand",
+      "263136"
+    ]
+  }
+}

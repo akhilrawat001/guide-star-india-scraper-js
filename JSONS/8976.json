@@ -1,0 +1,25 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8976",
+  "name": "MANAV ADHIKAR SARNKSHAN SANGH",
+  "primaryEmail": "humanrightssonepat@gmail.com",
+  "website": "www.manavadhikarsangh.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919991361012",
+    "911302221742"
+  ],
+  "mainAddrress": {
+    "state": "Haryana",
+    "address": [
+      "45/31",
+      "Near Choturam Chowk ,",
+      "Malik Colony",
+      "Sonipat",
+      "Haryana",
+      "131001"
+    ]
+  }
+}

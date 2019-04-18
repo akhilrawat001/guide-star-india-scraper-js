@@ -1,0 +1,26 @@
+{
+  "contacts": [
+    {
+      "name": "Sanjay Ramrao Udare",
+      "email": "ncygbsmto2009@gmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4635",
+  "name": "Nehru Chacha Yuva Gramin Bahuuddeshiya Seva Mandal",
+  "primaryEmail": "ncygbsmto2009@gmail.com",
+  "telephone": [
+    "919960710154"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Village Care of Suresh Rasal Nivas",
+      "Lahuji Nagar",
+      "Osmanabad",
+      "Maharashtra",
+      "413509"
+    ]
+  }
+}

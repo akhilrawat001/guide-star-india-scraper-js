@@ -1,0 +1,41 @@
+{
+  "contacts": [
+    {
+      "name": "Gopal Chandra Sahu",
+      "email": "",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10981",
+  "name": "Organisation for Development, Integrated, Social and Health Action",
+  "primaryEmail": "ODISHA_GS@YAHOO.CO.IN",
+  "website": "WWW.ODISHAESERVICES.COM",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919040061615"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "Plot-438",
+      "Lingipur",
+      "Bhubaneswar",
+      "Khordha",
+      "Odisha",
+      "751002"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Odisha",
+    "address": [
+      "At-Mahulapalli, Po-Madhupalli",
+      "Via-Polasara",
+      "Ganjam",
+      "Odisha",
+      "761105"
+    ]
+  }
+}

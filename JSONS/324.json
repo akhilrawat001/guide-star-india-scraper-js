@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "name": "Shantha",
+      "email": "shanthaln@gmail.com",
+      "designation": "Project Co-ordinator & Administrator",
+      "mobile": [
+        "91-9448647881"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=324",
+  "name": "Association for the Mentally Challenged",
+  "primaryEmail": "amc.bangalore@gmail.com",
+  "website": "www.amcin.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918026566197",
+    "918026566197"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "Near Kidwai Cancer Hospital, Off Hosur Road",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560029"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Maharashtra"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Archana Pillai",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2819",
+  "name": "Ogaan Cancer Foundation",
+  "primaryEmail": "ebcc@ogaan.co.in",
+  "website": "http://www.ogaancancerfoundation.org/",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service"
+  ],
+  "telephone": [
+    "919820996598"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "501 Nirmal Kendra",
+      "Off Dr. E Moses Road, In famous studio lane",
+      "Mumbai",
+      "Maharashtra",
+      "400036"
+    ]
+  }
+}

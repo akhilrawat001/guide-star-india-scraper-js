@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "J Nishanth Reddy",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5618",
+  "name": "DHARMA SEVA",
+  "primaryEmail": "nishureddy@yahoo.com",
+  "website": "www.dharmaseva.org",
+  "organisationType": [
+    "Network"
+  ],
+  "telephone": [
+    "919966691000"
+  ],
+  "mainAddrress": {
+    "state": "Telangana",
+    "address": [
+      "PLOT NO: 38, KRISHINAGAR, ICRISAT COLONY",
+      "PHASE- II, BOWENPALLY",
+      "SECUNDERBAD",
+      "Hyderabad",
+      "Telangana",
+      "500051"
+    ]
+  }
+}

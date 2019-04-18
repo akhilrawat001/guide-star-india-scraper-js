@@ -1,0 +1,35 @@
+{
+  "contacts": [
+    {
+      "name": "Nagasena",
+      "email": "infomimc@gmail.com",
+      "designation": "Secretary",
+      "mobile": [
+        "91-9906982025"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2772",
+  "name": "MAHABODHI INTERNATIONAL MEDITATION CENTRE",
+  "primaryEmail": "mimcdevachen@hotmail.com",
+  "website": "www.mahabodhi-ladakh.org",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919906982025"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "A-116, Second Floor",
+      "Safdarjung Enclave",
+      "Delhi",
+      "South Delhi",
+      "110069"
+    ]
+  },
+  "briefDescription": "The Mahabodhi International Meditation Centre (MIMC) is a great example of one man's vision turning into reality. Venerable Bhikkhu Sanghasena established the Mahabodhi International Meditation Center in 1986 to offer both spiritual instructions as well as desperately needed humanitarian services to impoverished people in the remote land of Ladakh.A dedicated team of social workers, teachers, doctors, monks, nuns, community leaders and care-providers have created an integrated community at Devachan in Ladakh which provides comprehensive care to all segments of society: children, elderly, special needs individuals, monks & nuns, the sick, as well as those seeking spiritual development. The community has become a model for the region through",
+  "yearOfEstablishment": "1991"
+}

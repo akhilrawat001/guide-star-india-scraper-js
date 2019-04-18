@@ -1,0 +1,22 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1107",
+  "name": "Hindustan Lever Educational and Welfare Trust",
+  "primaryEmail": "nitin.vyas@unilever.com",
+  "website": "www.hul.co.in",
+  "telephone": [
+    "912228249416",
+    "912239832745",
+    "912239832739"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Care of Hindustan Unilever LimitedUnilever House",
+      "B.D.Sawant Marg, ChakalaAndheri(East)",
+      "Mumbai",
+      "Maharashtra",
+      "400099"
+    ]
+  }
+}

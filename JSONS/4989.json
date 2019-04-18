@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "SOMA SINHA",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4989",
+  "name": "ASHARA AALO MAA SARODA CANCER HELP LINE",
+  "primaryEmail": "asharaalo@gmail.com",
+  "website": "N/A",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919771350025"
+  ],
+  "mainAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "B3/1 Navjeen Complex,Ramni Flat,Baridhi.",
+      "Ramni Flat,Baridhi.",
+      "Jamshedpur.",
+      "East Singhbhum",
+      "Jharkhand",
+      "831017"
+    ]
+  }
+}

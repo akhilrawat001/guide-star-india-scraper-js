@@ -1,0 +1,50 @@
+{
+  "contacts": [
+    {
+      "name": "Chaitali Gupta/Sangeeta Gupta",
+      "email": "",
+      "designation": "Vice Chairpersons",
+      "mobile": []
+    },
+    {
+      "name": "Chaitali Gupta/Sangeeta Gupta",
+      "email": "",
+      "designation": "Vice Chairpersons",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=164",
+  "name": "VIDYA Integrated Development for Youth and Adults",
+  "primaryEmail": "mumbai@vidya-india.org",
+  "website": "www.vidya-india.org",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "919920328805",
+    "912225787317"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Gurukrupa, Nair Welfare Society",
+      "Navy Compound, Chaitanya Nagar, IIT Market, Powai",
+      "Mumbai",
+      "Maharashtra",
+      "400076"
+    ]
+  },
+  "briefDescription": "Empowerment of less privileged women, children and youth through education, training,Enrichment and opportunity. Number of people served  450",
+  "yearOfEstablishment": "1991",
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "D-II, 2442",
+      "Vasant Kunj",
+      "New Delhi",
+      "Delhi",
+      "110066",
+      "AP_TelBill_64.PDF"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "SK ELIYAZ",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7116",
+  "name": "AL MADINA MUSLIM EDUCATION AND CULTURAL ASSOCIATION",
+  "primaryEmail": "ammeca92@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919849253376"
+  ],
+  "mainAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "MV RAJUPALEM, KARLAPALEM",
+      "KARLAPALE(Mandal & PO)",
+      "KARLAPALE",
+      "Guntur",
+      "Andhra Pradesh",
+      "522111"
+    ]
+  }
+}

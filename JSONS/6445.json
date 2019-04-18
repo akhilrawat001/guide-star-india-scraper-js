@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Dr. Ranjit Christopher",
+      "email": "lwhmanali@gmail.com",
+      "designation": "Hospital Administrator",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6445",
+  "name": "LADY WILLINGDON HOSPITAL EVAM DAY STAR SCHOOL SOCIETY",
+  "primaryEmail": "lwhmanali@gmail.com",
+  "website": "www.manalihospital.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "911902253287"
+  ],
+  "mainAddrress": {
+    "state": "Himachal Pradesh",
+    "address": [
+      "Lady Willingdon Hospital, Manali, District Kullu, Himachal Pradesh",
+      "Manali",
+      "Kullu",
+      "Himachal Pradesh",
+      "175131"
+    ]
+  }
+}

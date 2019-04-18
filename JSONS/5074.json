@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Probal Lala",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5074",
+  "name": "Bulbulchandi and Barind Development Society",
+  "primaryEmail": "bbds2011@gmail.com",
+  "website": "NA",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network"
+  ],
+  "telephone": [
+    "919434059355"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Village & Post- Bulbulchandi, District- Malda, Pin- 732122",
+      "Bulbulchandi",
+      "Malda",
+      "West Bengal",
+      "732122"
+    ]
+  }
+}

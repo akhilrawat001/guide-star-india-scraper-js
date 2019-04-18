@@ -1,0 +1,43 @@
+{
+  "contacts": [
+    {
+      "name": "Alokeparna Ghosh",
+      "email": "alokeparna.iswarsankalpa@gmail.com",
+      "designation": "Resource Development Manager",
+      "mobile": [
+        "91-33-24197451"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4941",
+  "name": "ISWAR SANKALPA",
+  "primaryEmail": "isankalpa@gmail.com",
+  "website": "www.isankalpa.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "913324197451",
+    "913324197451"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "138, S. P. Mukherjee Road",
+      "Kolkata",
+      "West Bengal",
+      "700026"
+    ]
+  },
+  "briefDescription": "Based in the city of Kolkata, India, Iswar Sankalpa is a non-profit organization founded by mental health professionals. Iswar Sankalpa was registered as a Society under the Societies Act in 2007.We extend support, provide professional guidance and ensure sensible and sensitive services for needs of the mind.",
+  "yearOfEstablishment": "2007",
+  "regiseredAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "24A Iswar Ganguly Street, Kolkata - 700026",
+      "Kolkata",
+      "West Bengal",
+      "700026"
+    ]
+  }
+}

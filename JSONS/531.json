@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "Swati Samvatsar (Dr)",
+      "email": "",
+      "designation": "Tata Fellow",
+      "mobile": [
+        "91-2673-238601"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=531",
+  "name": "Navinchandra Mafatlal Sadguru Water and Development Foundation",
+  "primaryEmail": "nmsadguru@yahoo.com",
+  "website": "www.nmsadguru.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "912673238601",
+    "912673694175",
+    "912673238604",
+    "912673238601"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "Post Box No. 71, Near RTO Check Post",
+      "Desai Automobiles Compound",
+      "Chosala",
+      "Dahod",
+      "Gujarat",
+      "389151"
+    ]
+  }
+}

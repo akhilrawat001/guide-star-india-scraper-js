@@ -1,0 +1,38 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5903",
+  "name": "GRMD FOUNDATION",
+  "primaryEmail": "grmdfoundation@gmail.com",
+  "website": "www.grmdfoundation.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "917576847047",
+    "919207411111"
+  ],
+  "mainAddrress": {
+    "state": "Assam",
+    "address": [
+      "HOUSE-1A,ASOMI PATH",
+      "MATHURA DWARAKA PATH,MATHURA NAGAR,BEHIND DOWN TOWN HOSPITAL",
+      "GUWAHATI",
+      "Kamrup",
+      "Assam",
+      "781006"
+    ]
+  },
+  "briefDescription": "To create a healthy and educated society by providing health awareness services & education to the people, esp rural irrespective of caste, creed, sex, or religion, by establishing a charitable fund and through donations from the likeminded philanthropist",
+  "yearOfEstablishment": "2014",
+  "regiseredAddrress": {
+    "state": "Assam",
+    "address": [
+      "HOUSE-4",
+      "MATHURA DWARAKA PATH,MATHURA NAGAR,BEHIND DOWN TOWN HOSPITAL",
+      "GUWAHATI",
+      "Kamrup",
+      "Assam",
+      "781006"
+    ]
+  }
+}

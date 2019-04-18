@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "Dhiman Das",
+      "email": "uttamdey17@gmail.com",
+      "designation": "President",
+      "mobile": []
+    },
+    {
+      "name": "Dhiman Das",
+      "email": "uttamdey17@gmail.com",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1809",
+  "name": "Duttapukur Nirmola Medical Aid And Social Welfare Society",
+  "primaryEmail": "uttamdey17@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "913323349945",
+    "919830525457"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "North 24 Parganas",
+      "Duttapukur",
+      "Kolkata",
+      "West Bengal",
+      "743248"
+    ]
+  }
+}

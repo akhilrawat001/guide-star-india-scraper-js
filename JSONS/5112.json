@@ -1,0 +1,40 @@
+{
+  "contacts": [
+    {
+      "name": "Bijan Pusti",
+      "email": "dcuc@rediffmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5112",
+  "name": "Dakshin Charaikheya United Club",
+  "primaryEmail": "dcuc@rediffmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "9732740740"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Vill- Dakshin Charaikheya, PO- Satmile,PS- Contai",
+      "Do",
+      "Contai",
+      "East Medinipur",
+      "West Bengal",
+      "721452"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "NOT PROVIDED",
+      "Contai",
+      "East Medinipur",
+      "West Bengal",
+      "721452"
+    ]
+  }
+}

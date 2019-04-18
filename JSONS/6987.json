@@ -1,0 +1,44 @@
+{
+  "contacts": [
+    {
+      "name": "Mr.Dipesh Solanki",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6987",
+  "name": "Pathik Seva Trust",
+  "primaryEmail": "pathiksevatrust@gmail.com",
+  "website": "www.pathiksewatrust.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919427953355"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "B/30 Achal Residency -II",
+      "New C.G.Road",
+      "Chandkheda - Ahmedabad",
+      "Ahmedabad",
+      "Gujarat",
+      "382424"
+    ]
+  },
+  "briefDescription": "our organization does work for  Empowerment of all communities. we provide service to the poorest, backward class,schedule class,schedule Tribes, women, child & Youth.so They may become self depend & Improve  their quality of life through various Socio - economic Development programs.",
+  "yearOfEstablishment": "1996",
+  "regiseredAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "At & Po.Lilchha",
+      "Ta.Bhiloda",
+      "Sabarkantha",
+      "Gujarat",
+      "383245"
+    ]
+  }
+}

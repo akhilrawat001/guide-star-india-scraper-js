@@ -1,0 +1,27 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3441",
+  "name": "Rays of HOPE Ministries",
+  "primaryEmail": "raysofhopeindia@gmail.com",
+  "website": "www.raysofhopeindia.org",
+  "organisationType": [
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919892511503",
+    "912227746180"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "B22/2, Gharkul,",
+      "Sector-15, Kharghar",
+      "Navi Mumbai",
+      "Raigad",
+      "Maharashtra",
+      "410210"
+    ]
+  }
+}

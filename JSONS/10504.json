@@ -1,0 +1,24 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10504",
+  "name": "Sahyog Social & Cultural Development Society",
+  "primaryEmail": "sahyog_scds@rediffmail.com",
+  "website": "www.sahyogindia.co.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919810454087"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "1655-B, 1st Floor, Lane No.15",
+      "Govind Puri",
+      "Kalka Ji",
+      "South Delhi",
+      "Delhi",
+      "110019"
+    ]
+  }
+}

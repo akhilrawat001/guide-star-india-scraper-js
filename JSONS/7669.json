@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Mr.Anil Chaturvedi",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7669",
+  "name": "MAHAMAYA SHIKSHA EVAM SAMAJ KALYAN SAMITI",
+  "primaryEmail": "massaniljbpr@gmail.com",
+  "website": "wwwmahamaya.org",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "917612630881",
+    "917612630881"
+  ],
+  "mainAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "1799 Choubey Building Ranjhi Jabalpur",
+      "Jabalpur",
+      "Madhya Pradesh",
+      "482005"
+    ]
+  }
+}

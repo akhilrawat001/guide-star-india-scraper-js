@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Mr.Manish Rajput",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7497",
+  "name": "Society for Entrepreneurship Integrated Development",
+  "primaryEmail": "sied.bpl@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919424318626"
+  ],
+  "mainAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "G-3/554,",
+      "GULMOHAR COLONY, E-8, BHARAT NAGAR,",
+      "SHAHPURA",
+      "Bhopal",
+      "Madhya Pradesh",
+      "462042"
+    ]
+  }
+}

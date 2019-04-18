@@ -1,0 +1,36 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6425",
+  "name": "Neshna Trust",
+  "primaryEmail": "neshna1998@gmail.com",
+  "website": "neashna.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919491067979"
+  ],
+  "mainAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "2-17-29,First Floor,Panduranga Praja Vaidhya sala,R.s.Peta,Tuni-533401,East-Godavari,Andhra Pradesh,India.",
+      "Tuni (Post)",
+      "East Godavari",
+      "Andhra Pradesh",
+      "533401"
+    ]
+  },
+  "briefDescription": "Since 1998, we organize health checkup and Medicines successfully running several activities.1.Health2.Awarness on HIV and Deadly Diseases, Women Hygiene, 3.Development and empowerment of women Projects.",
+  "yearOfEstablishment": "1998",
+  "regiseredAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "2-17-29,First Floor",
+      "Panduranga Praja Vaidhya sala,R.s.Peta",
+      "Tuni (Post)",
+      "East Godavari",
+      "Andhra Pradesh",
+      "533401"
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Balasaheb Rajaram Bachute",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4746",
+  "name": "PANCHSHEEL SAMAJIK SANSTHA",
+  "primaryEmail": "psskaij.org@rediffmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "912445232771",
+    "912445232771"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "At Gotegaon Post yusufwadgaon",
+      "Kaij",
+      "Beed",
+      "Maharashtra",
+      "431517"
+    ]
+  },
+  "briefDescription": "PANCHSHEEL SAMAJIK SANSTHA is located in Maharashtra.",
+  "yearOfEstablishment": "2008"
+}

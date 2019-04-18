@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Pranav Vijay Narkhede",
+      "email": "pranavn@pathofdivinelife.org",
+      "designation": "Trustee",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6767",
+  "name": "MAHARSHI ARVIND FOUNDATION",
+  "primaryEmail": "pranavn@pathofdivinelife.org",
+  "website": "www.pathofdivinelife.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919819569093",
+    "918928914175"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "122 Madhani estate dadar west Mumbi",
+      "senapati bapat Marg",
+      "Mumbai",
+      "Maharashtra",
+      "400028"
+    ]
+  }
+}

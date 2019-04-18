@@ -1,0 +1,38 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1300",
+  "name": "Anbu Charities",
+  "primaryEmail": "anbucharities@gmail.com",
+  "website": "www.anbucharities.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "914222330190",
+    "914222491909",
+    "919363225008"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "71-A, Suppathal street",
+      "Rathinapuri",
+      "Coimbatore",
+      "Tamil Nadu",
+      "641027"
+    ]
+  },
+  "briefDescription": "We are working for the betterment of the poor and downtrodden. Especially working for the street children. Skills development initiative programs for the urban slum ladies at cost free basis. To care for the beyond reach sector.",
+  "yearOfEstablishment": "2004",
+  "regiseredAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "71-a",
+      "Suppathal street,Rathinapuri,",
+      "Coimbatore",
+      "Tamil Nadu",
+      "641027"
+    ]
+  }
+}

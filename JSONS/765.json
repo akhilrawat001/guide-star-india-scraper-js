@@ -1,0 +1,38 @@
+{
+  "contacts": [
+    {
+      "name": "G B Sawant",
+      "email": "",
+      "designation": "Secretary",
+      "mobile": [
+        "91-9657768534"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=765",
+  "name": "Karmveer Bhaurao Patil Garam Vikas Sevabhavi Sansta",
+  "primaryEmail": "karmveerbhauraopatil.pathri@gmail.com",
+  "telephone": [
+    "919922600233"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Sawaraj Gurukul Behind Petrol Pump, Selu Cornar",
+      "Pathri",
+      "Parbhani",
+      "Maharashtra",
+      "431506"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Somthana, Tal Manvath",
+      "Parbhani",
+      "Maharashtra",
+      "431505",
+      "AP_BankStat_679.PDF"
+    ]
+  }
+}

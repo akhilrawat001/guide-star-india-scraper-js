@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "ROHIT KATARE",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7214",
+  "name": "VISTAR FOUNDATION",
+  "primaryEmail": "vistar2015ngo@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919753654666"
+  ],
+  "mainAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "1066 F/F, KANOJIYA MARKET OPPOSITE BSNL OFFICE",
+      "WRIGHT TOWN",
+      "JABALPUR",
+      "Jabalpur",
+      "Madhya Pradesh",
+      "482004"
+    ]
+  }
+}

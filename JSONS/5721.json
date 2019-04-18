@@ -1,0 +1,37 @@
+{
+  "contacts": [
+    {
+      "name": "Mr Bireswar Ghosh",
+      "email": "bireswar1972@gmail.com",
+      "designation": "Secretary",
+      "mobile": [
+        "91-9732154256"
+      ]
+    },
+    {
+      "name": "Mr Bireswar Ghosh",
+      "email": "bireswar1972@gmail.com",
+      "designation": "Secretary",
+      "mobile": [
+        "91-9732154256"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5721",
+  "name": "AKHRA SREE SREE RADHAGOBINDA JEW MANDIR",
+  "primaryEmail": "RADHAGOBINDA.AKHRA@YAHOO.COM",
+  "telephone": [
+    "919732154256"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "VILL+P.O-AKHRA",
+      "P.S-KATWA",
+      "KATWA",
+      "Bardhaman",
+      "West Bengal",
+      "713502"
+    ]
+  }
+}

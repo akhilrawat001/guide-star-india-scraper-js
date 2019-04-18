@@ -1,0 +1,36 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5774",
+  "name": "SARVODAYA ACADEMY",
+  "primaryEmail": "sarvodayaacademy@gmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919938711460"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "SARVODAYA ACADEMY, RABI MOHANTY, Care of SARAT CH. MOHANTY, AT/PO:TARADAPA,DIST: JAGATSINGHPUR,,ODISHA(INDIA)754103",
+      "JAGATSINGHPUR",
+      "Jagatsinghapur",
+      "Odisha",
+      "754103"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Odisha",
+    "address": [
+      "SARVODAYA ACADEMY, RABI MOHANTY, C/O. SARAT CH. MOHANTY, AT/PO: TARADAPADA, DIST:JAGATSINGHPUR ,ODISHA(INDIA) 754103",
+      "NIL",
+      "JAGATSINGHPUR",
+      "Jagatsinghapur",
+      "Odisha",
+      "754103"
+    ]
+  }
+}

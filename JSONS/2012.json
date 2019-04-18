@@ -1,0 +1,36 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2012",
+  "name": "Bhartiya Samaj Kalyan Samiti",
+  "primaryEmail": "indianngo.org@gmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "915180605964",
+    "919936689892"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "Behind District Jail",
+      "Manohar Nagar",
+      "Fatehpur",
+      "Uttar Pradesh",
+      "521002"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "Village - Reain",
+      "Post - Ajmatpur",
+      "Fatehpur",
+      "Uttar Pradesh",
+      "212601"
+    ]
+  }
+}

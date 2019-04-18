@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Dharmendra Kumar Singh",
+      "email": "dharmendras@operationeyesight.in",
+      "designation": "Assistant Coordinator - Community Eye Health",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4811",
+  "name": "Operation Eyesight Universal",
+  "primaryEmail": "dharmendras@operationeyesight.in",
+  "website": "www.operationeyesight.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919871019157"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "Plot No. - 16, Kh. No.16&21,",
+      "F Block, Phase – I, Jhankar Road, Qutub Vihar,",
+      "Nazafgarh, New Delhi",
+      "South West Delhi",
+      "Delhi",
+      "110071"
+    ]
+  }
+}

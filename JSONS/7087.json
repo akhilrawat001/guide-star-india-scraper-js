@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Mr.Mohammad Subhani",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7087",
+  "name": "GODAVARI EDUCATIONAL YOUTH & SOCIAL WELFARE ORGANISATION",
+  "primaryEmail": "godavari.org@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919440715285"
+  ],
+  "mainAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "17-8-38/3",
+      "Revenue colony, Sambamurthy Nagar",
+      "Kakinada",
+      "East Godavari",
+      "Andhra Pradesh",
+      "533001"
+    ]
+  }
+}

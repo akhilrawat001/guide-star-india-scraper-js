@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "BIMAL SHANKAR PATTNAIK",
+      "email": "bismaya.ngo@gmail.com",
+      "designation": "PRESIDENT",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4634",
+  "name": "Bismaya",
+  "primaryEmail": "bismaya.ngo@gmail.com",
+  "telephone": [
+    "916802402329",
+    "919437190110"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "At:-Chanakya Nagar",
+      "Po:- Lanjipalli Brahmapur",
+      "CHATRAPUR",
+      "Ganjam",
+      "Odisha",
+      "760008"
+    ]
+  }
+}

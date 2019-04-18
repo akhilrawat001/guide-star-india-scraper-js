@@ -1,0 +1,37 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7266",
+  "name": "Meghshala Trust",
+  "primaryEmail": "info@meghshala.online",
+  "website": "http://www.meghshala.online",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "917675095839"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "9/3, OFF MUSEUM ROAD , OLD MADRAS BANK ROAD",
+      "Richmond Road,",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560001"
+    ]
+  },
+  "briefDescription": "Meghshala is an education technology non-profit that uses technology to transform teachers into instructional leaders in the classroom.With a unique combination of world class pedagogy through 'Teachkits', India-Ready Technology and customized mentorship and guidance, Meghshala currently empowers more than 5000 teachers from hundreds of government schools across Karnataka.",
+  "yearOfEstablishment": "2013",
+  "regiseredAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "First Floor, Rathna Office, New No. 143,  Rathna Avenue,",
+      "9/3, OFF MUSEUM ROAD , OLD MADRAS BANK ROAD",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560025"
+    ]
+  }
+}

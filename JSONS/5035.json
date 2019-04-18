@@ -1,0 +1,25 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5035",
+  "name": "littleMORE",
+  "primaryEmail": "gitalie.pawaar@littlemore.org.in",
+  "website": "www.littlemore.org.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919833985435"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "A-102, Satellite Garden Phase 1,",
+      "Gen. A.K. Vaidya Marg, Next to Vagheshwari Temple",
+      "Mumbai",
+      "Maharashtra",
+      "400063"
+    ]
+  }
+}

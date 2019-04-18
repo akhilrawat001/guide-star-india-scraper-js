@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Satyendra Kumar",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5710",
+  "name": "Centre for Social Equity and Inclusion",
+  "primaryEmail": "satyendra@cseiindia.org.in",
+  "website": "www.cseiindia.org.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network"
+  ],
+  "telephone": [
+    "918987107760"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "2157/A, 2nd Upper Floor, Sarthak Building, Guru Arjun Nagar, Near Shadipur Metro Station, New Delhi",
+      "5E, Firct Floor, Road No-11, Patliputra Colony",
+      "New Delhi",
+      "West Delhi",
+      "Delhi",
+      "110008"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3280",
+  "name": "SOCIAL SERVICES TRUST",
+  "primaryEmail": "socialservicestrust@yahoo.com",
+  "website": "Under process",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "916272295443",
+    "916272295443"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "Karamganj,Laheriasarai,Darbhanga,Bihar,846001,India",
+      "Karamganj",
+      "Karamganj,Laheriasarai",
+      "Darbhanga",
+      "Bihar",
+      "846001"
+    ]
+  },
+  "briefDescription": "Organisation working in the field of Education,Health,Human right,Livelihoods,Disaster,Peace, Environment.",
+  "yearOfEstablishment": "2008",
+  "regiseredAddrress": {
+    "state": "Bihar",
+    "address": [
+      "Karamganj,Laheriasarai,Darbhanga",
+      "Karamganj",
+      "Karamganj,Laheriasarai",
+      "Darbhanga",
+      "Bihar",
+      "846001"
+    ]
+  }
+}

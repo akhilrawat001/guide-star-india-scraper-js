@@ -1,0 +1,37 @@
+{
+  "contacts": [
+    {
+      "name": "Kingsuk Mishra (Dr)",
+      "email": "",
+      "designation": "Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=621",
+  "name": "Bhoruka Public Welfare Trust",
+  "primaryEmail": "bpwt@bpwt.org",
+  "telephone": [
+    "913322658092",
+    "913322174019",
+    "913322261196",
+    "913322658092"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "63, Rafi Ahmed Kidwai Road",
+      "Kolkata",
+      "West Bengal",
+      "700016"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "P-4, New CIT Road",
+      "Kolkata",
+      "West Bengal",
+      "700073"
+    ]
+  }
+}

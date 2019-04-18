@@ -1,0 +1,34 @@
+{
+  "contacts": [
+    {
+      "name": "Kainaaz Mistry",
+      "email": "",
+      "designation": "Manager",
+      "mobile": []
+    },
+    {
+      "name": "Kainaaz Mistry",
+      "email": "",
+      "designation": "Manager",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=220",
+  "name": "Victory Arts Foundation",
+  "primaryEmail": "vaf@shiamak.com",
+  "website": "www.shiamak.com",
+  "telephone": [
+    "912240182000",
+    "919833601068"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "3rd Floor, Davar's College of Commerce and Secretatial Studies & Services",
+      "3rd Counter, Mulla House, 51 M.G.Road, Fort",
+      "Mumbai",
+      "Maharashtra",
+      "400001"
+    ]
+  }
+}

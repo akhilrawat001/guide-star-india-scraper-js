@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Bishnupada Mridha",
+      "email": "psjks.hingalganj@gmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8192",
+  "name": "Paschim Sridharkati Janakalyan Sangha",
+  "primaryEmail": "psjks.hingalganj@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919002005292"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Jogeshganj Bazer (Patgara)",
+      "P.S - Hemnagar Costal",
+      "North 24pgs",
+      "North 24 Parganas",
+      "West Bengal",
+      "743439"
+    ]
+  }
+}

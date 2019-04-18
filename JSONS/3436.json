@@ -1,0 +1,46 @@
+{
+  "contacts": [
+    {
+      "name": "S.Bheemarao",
+      "email": "",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3436",
+  "name": "VOLUNTARY INTEGRATION FOR EDUCATION AND  WELFARE OF SOCIETY",
+  "primaryEmail": "views.odisha@gmail.com",
+  "website": "www.viewsindia.org.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network"
+  ],
+  "telephone": [
+    "919937381255"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "At/Po: Markandi",
+      "Via Gopalpur on sea",
+      "Dist: Ganjam",
+      "Ganjam",
+      "Odisha",
+      "761002"
+    ]
+  },
+  "briefDescription": "VIEWS works towards bringing significant changes in the  children's education, women empowerment & livelihoods security of the poor through innovation & creative programs in a right based  approach among 15000 poor people",
+  "yearOfEstablishment": "2008",
+  "regiseredAddrress": {
+    "state": "Odisha",
+    "address": [
+      "At/Po: Venkatraipur",
+      "Via: Gopalpur on sea",
+      "Dist: Ganjam",
+      "Ganjam",
+      "Odisha",
+      "761002"
+    ]
+  }
+}

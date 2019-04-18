@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Vimla Mantri",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4815",
+  "name": "MONTESSORY SCHOOL SANSKAR KENDRA",
+  "primaryEmail": "sanskarpali@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919414382650",
+    "912932225244"
+  ],
+  "mainAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "32 Ghanchiyon ka bas, Suraj Pole",
+      "Pali, Marwar.",
+      "Pali",
+      "Rajasthan",
+      "306401"
+    ]
+  }
+}

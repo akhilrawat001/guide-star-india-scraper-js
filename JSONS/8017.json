@@ -1,0 +1,24 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8017",
+  "name": "Mission Heal",
+  "primaryEmail": "contact@missionheal.org",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "911204569179",
+    "911204569179"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "C-40, Street no. 1, Shashi Garden, Mayur",
+      "Vihar,Phase-1,",
+      "East Delhi",
+      "Delhi",
+      "110091"
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "KRISHNA PRASAD MISHRA",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8259",
+  "name": "HELP LINE ASSOCIATION",
+  "primaryEmail": "helplineassociation@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919437541206"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "AT/PO-CHICHINDA",
+      "VIA-SOHELA",
+      "DIST- BARGARH",
+      "Bargarh",
+      "Odisha",
+      "768033"
+    ]
+  },
+  "briefDescription": "HELP LINE ASSOCIATION IS LOCATED IN ORISSA.",
+  "yearOfEstablishment": "2002"
+}

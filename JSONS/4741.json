@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Rajneesh Langer",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4741",
+  "name": "Badlaav Samiti",
+  "primaryEmail": "badlaav.samiti@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "917314082403",
+    "917314082403"
+  ],
+  "mainAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "101-B Radhakishan Complex",
+      "10/1 Manoramaganj",
+      "Indore",
+      "Madhya Pradesh",
+      "452001"
+    ]
+  }
+}

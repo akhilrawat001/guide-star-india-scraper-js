@@ -1,0 +1,41 @@
+{
+  "contacts": [
+    {
+      "name": "Vivek Gogate",
+      "email": "vivek.gogate@yahoo.com",
+      "designation": "Executive Person",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4832",
+  "name": "Saptarangi Bahuuddeshiya Shikshan Prasarak Mandal Yavatmal",
+  "primaryEmail": "vivek.gogate@yahoo.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service"
+  ],
+  "telephone": [
+    "919850492001"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "gajanan socity,singhaniya nagar yavatmal",
+      "arni road",
+      "yavatmal",
+      "Yavatmal",
+      "Maharashtra",
+      "445001"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Gajanan Soceity,Singhaniya Nagar",
+      "Arni Road",
+      "Yavatmal",
+      "Maharashtra",
+      "445001"
+    ]
+  }
+}

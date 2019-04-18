@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Gadadhar Pradhan",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6220",
+  "name": "KSHIROCHORA ELECTRO HOMOEOPATHY MEDICAL ACADEMY",
+  "primaryEmail": "kehma_bls@yahoo.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918270640623"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "Remuna",
+      "Balasore",
+      "Baleswar",
+      "Odisha",
+      "756019"
+    ]
+  }
+}

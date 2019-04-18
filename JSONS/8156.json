@@ -1,0 +1,45 @@
+{
+  "contacts": [
+    {
+      "name": "A.Chakravorthy",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "9676996156"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8156",
+  "name": "Sree Lakshmi Jabbi Reddy Charitable Trust",
+  "primaryEmail": "s-ljrtrust@hotmail.com",
+  "website": "http://ljrtrust.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919676996156"
+  ],
+  "mainAddrress": {
+    "state": "Telangana",
+    "address": [
+      "023,cheppendil apts",
+      "musheerabad",
+      "Hyderabad",
+      "Telangana",
+      "500073"
+    ]
+  },
+  "briefDescription": "Trust registered by  a group of egalitarian medical professionals with a mission and mandate of empowering the communities living at periphery, in the areas of health. It began it is work during the year 2004 and it’s health out reach interventions have currently spread over to 22 districts and reached around 4,57,000 rural poor forming part of Andhra Pradesh.",
+  "yearOfEstablishment": "2004",
+  "regiseredAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "OBULAVARI PALLI(POST)",
+      "KODUR(TALUK)",
+      "KADAPA(DIST)",
+      "YSR District, Kadapa (Cuddapah)",
+      "Andhra Pradesh",
+      "516108"
+    ]
+  }
+}

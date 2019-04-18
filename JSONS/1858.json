@@ -1,0 +1,38 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1858",
+  "name": "AMRUTHAKRISHNA FOUNDATION",
+  "primaryEmail": "drktn@amruthakrishnafoundation.org",
+  "website": "http://www.amruthakrishnafoundation.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "914027895083",
+    "914027895084",
+    "914027895587",
+    "919573333336"
+  ],
+  "mainAddrress": {
+    "state": "Telangana",
+    "address": [
+      "# 6, Plot No. 31 Sai Sagar Enclave",
+      "Hasmathpet",
+      "SECUNDERABAD",
+      "Hyderabad",
+      "Telangana",
+      "500009"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Telangana",
+    "address": [
+      "# 6, Plot No. 31 Sai Sagar Enclave",
+      "Hasmathpet",
+      "SECUNDERABAD",
+      "Hyderabad",
+      "Telangana",
+      "500003"
+    ]
+  }
+}

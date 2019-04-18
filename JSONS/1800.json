@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "P Balamuthu",
+      "email": "",
+      "designation": "Managing Trustee",
+      "mobile": [
+        "91-421-4011332"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1800",
+  "name": "LIFT Seva Trust",
+  "primaryEmail": "lift_seva@yahoo.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "914314011332",
+    "918056985578"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "Trichy - Thogamalai Road Singalapuram",
+      "Tiruchirappalli",
+      "Tamil Nadu",
+      "639103"
+    ]
+  }
+}

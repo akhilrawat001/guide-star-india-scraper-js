@@ -1,0 +1,30 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1735",
+  "name": "Action for Child Labour",
+  "primaryEmail": "cholaiacl@gmail.com",
+  "website": "http://aclcholai.org.in/",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "914424480265",
+    "919444262546"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "G3 Plot No.62",
+      "Meenakshi Apartments, Rajajai Nagar",
+      "Thiruvanmiyur",
+      "Chennai",
+      "Tamil Nadu",
+      "600041"
+    ]
+  }
+}

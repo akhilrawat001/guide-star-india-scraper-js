@@ -1,0 +1,34 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8735",
+  "name": "SWARAJ PEETH TRUST",
+  "primaryEmail": "swarajpeeth@gmail.com",
+  "website": "www.swarajpeeth.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Support"
+  ],
+  "telephone": [
+    "919899403553"
+  ],
+  "mainAddrress": {
+    "state": "Haryana",
+    "address": [
+      "G-92 SF, South City 2",
+      "Sohna Road",
+      "Gurgaon",
+      "Gurugram",
+      "Haryana",
+      "122018"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "B-7, Prashant Vihar",
+      "Delhi",
+      "North West Delhi",
+      "110085"
+    ]
+  }
+}

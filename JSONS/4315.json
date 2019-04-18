@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "ER. O.P.TIWARI",
+      "email": "shreefoundation@rediffmail.com",
+      "designation": "SECRETARY",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4315",
+  "name": "SHREE FOUNDATION",
+  "primaryEmail": "shreefoundation@rediffmail.com",
+  "website": "na",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919415820385"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "P.NO.1063,MARUTI NAGAR COLONY",
+      "P.O.RAMNA,SAMNE GHAT ROAD,LANKA",
+      "VARANASI",
+      "Varanasi",
+      "Uttar Pradesh",
+      "221005"
+    ]
+  }
+}

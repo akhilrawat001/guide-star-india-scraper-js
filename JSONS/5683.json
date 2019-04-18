@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Bimla Chandrasekar",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5683",
+  "name": "EKTA",
+  "primaryEmail": "ektanambikkai@gmail.com",
+  "website": "http://www.ektamadurai.org/",
+  "organisationType": [
+    "Direct Service",
+    "Network"
+  ],
+  "telephone": [
+    "914522381309",
+    "914522381309"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "EKTA ï¿½ Resource Centre for Women, Bethel Nagar, Bible Bhavan Street, Bypass Road, Ponmeni",
+      "Madurai",
+      "Tamil Nadu",
+      "625016"
+    ]
+  }
+}

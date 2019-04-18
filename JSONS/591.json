@@ -1,0 +1,27 @@
+{
+  "contacts": [
+    {
+      "name": "Sri Ramchandra Chaudhary",
+      "email": "",
+      "designation": "General Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=591",
+  "name": "Gram Nirman Mandal",
+  "primaryEmail": "arbindgnm_nwd@yahoo.in",
+  "telephone": [
+    "919931435208",
+    "916325241015"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "Sarvodaya Ashram, Via- Kawakol",
+      "Sokhodeora",
+      "Nawada",
+      "Bihar",
+      "805106"
+    ]
+  }
+}

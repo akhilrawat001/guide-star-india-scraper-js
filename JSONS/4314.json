@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Jai Prakash yadav",
+      "email": "jss_bst2006@yahoo.com",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4314",
+  "name": "Janta Sewa Samiti",
+  "primaryEmail": "jss_bst2006@yahoo.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919454272100"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "NyayMarg Katra Distt-Basti UP",
+      "898ANyayMarg Katra Distt-Basti UP",
+      "Basti",
+      "Uttar Pradesh",
+      "272001"
+    ]
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "contacts": [
+    {
+      "name": "lala dhananjay",
+      "email": "laladhananjay@gmail.com",
+      "designation": "project manger",
+      "mobile": [
+        "91-8462-640874",
+        "91-7095644330"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6559",
+  "name": "Sri Sai Baba Mahila Society",
+  "primaryEmail": "smahilasociety@gmail.com",
+  "website": "www.srisaibabamahilasociety.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "914027810774",
+    "919391399360",
+    "917095644330",
+    "918462640874"
+  ],
+  "mainAddrress": {
+    "state": "Telangana",
+    "address": [
+      "3-1-194,",
+      "soma sundaram street, manju talkies down lane",
+      "secunderabad",
+      "Hyderabad",
+      "Telangana",
+      "500003"
+    ]
+  },
+  "briefDescription": "conduting training, design workshop on various crafts and activities, organising marketing events, study/marketing tours, groups loans, running working women hostel, trained about 2000+ women's, in hyderabad, ranga reddy dist., nizamabad dist., khammam dist.,  constructed school sanitation block in ranga reddy dist. of telangana state.",
+  "yearOfEstablishment": "1991",
+  "regiseredAddrress": {
+    "state": "Telangana",
+    "address": [
+      "3-1-194,",
+      "soma sundaram street, manju talkies down lane",
+      "secunderabad",
+      "Hyderabad",
+      "Telangana",
+      "500003"
+    ]
+  }
+}

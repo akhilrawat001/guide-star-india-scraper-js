@@ -1,0 +1,34 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=781",
+  "name": "Resource Foundation",
+  "primaryEmail": "resource.f@rediffmail.com",
+  "website": "www.resourcefoundationngo.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919942060027",
+    "914144244068"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "MIN Nagar",
+      "Sethiyathope",
+      "Cuddalore",
+      "Tamil Nadu",
+      "608702"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "43-A, Thomaiyar Nagar",
+      "Vadalur",
+      "Cuddalore",
+      "Tamil Nadu",
+      "607303"
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "Khagendra Nath Gangai",
+      "email": "shapesdelhi@gmail.com",
+      "designation": "Chairman",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2932",
+  "name": "Society for Health & Psychology Enabled Services (SHAPES)",
+  "primaryEmail": "shapesdelhi@gmail.com",
+  "telephone": [
+    "911126963786",
+    "911126963786"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "Jb-11, (G/F, R/S),",
+      "Gupta colony, Khirki Extention,",
+      "Malviya Nagar",
+      "New Delhi",
+      "Delhi",
+      "110017"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Prakash Ananda Patil",
+      "email": "jyotiradityasch@gmail.com",
+      "designation": "Chairman",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6404",
+  "name": "ANAND SHAIKSHANIK SAMAJIK SEVABHAVI SANSTHA",
+  "primaryEmail": "jyotiradityasch@gmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Network"
+  ],
+  "telephone": [
+    "918698160500"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "At. Kalajawade Post.Kisrul",
+      "main road kalajawade",
+      "Taluka. Panhala",
+      "Kolhapur",
+      "Maharashtra",
+      "416205"
+    ]
+  }
+}

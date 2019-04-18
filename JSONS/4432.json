@@ -1,0 +1,34 @@
+{
+  "contacts": [
+    {
+      "name": "ANAND PANCHAL",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4432",
+  "name": "3STAR FOUNDATION",
+  "primaryEmail": "info@3starfoundation.in",
+  "website": "www.3starfoundation.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "917965438777",
+    "918128199100",
+    "919898879797"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "167, Payal Park",
+      "Krishan Nagar Road,Saijpur bogha.",
+      "Ahmedabad",
+      "Gujarat",
+      "382345"
+    ]
+  },
+  "briefDescription": "3 Star Foundation is an Indian NGO providing self defense course to girls in the school at free of cost. Due to large number of violations and human trafficking, it became clear to the founder of 3 Star Foundation that psychologically and physically vulnerable women and girls become the victims of human being and/or human trafficking. While there are many reputable and hard working organizations providing excellent care to those who have suffered and been rescued from that kind of situations, these same organizations and the survivor face a daunting road to recovery. Building self esteem and self confidence take something that no money can buy: time and will.",
+  "yearOfEstablishment": "2012"
+}

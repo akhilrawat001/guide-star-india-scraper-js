@@ -1,0 +1,38 @@
+{
+  "contacts": [
+    {
+      "name": "V.Balakrishnan",
+      "email": "",
+      "designation": "Coordinator",
+      "mobile": [
+        "91-44-24455868"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1227",
+  "name": "Centre for Womens Development And Research",
+  "primaryEmail": "cwdrindia@yahoo.com",
+  "website": "www.cwdr.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "914424455868"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "23.Jayaram street, Vasanth Apartments 'D'",
+      "1st floor, Kuppam Beach Road, Thiruvanmiyur,",
+      "Chennai",
+      "Tamil Nadu",
+      "600041",
+      "AP_TelBill_1131.PDF"
+    ]
+  },
+  "briefDescription": "CWDR educates and empowers slum women and adolescent girls.  We have initiated trade union 'Manushi' for domestic workers, there are 5000 domestic workers are members of it.  We have also initiated a job placement for domestic workers.",
+  "yearOfEstablishment": "1993"
+}

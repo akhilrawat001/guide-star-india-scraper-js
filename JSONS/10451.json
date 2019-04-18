@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Abdullah A Rehman",
+      "email": "",
+      "designation": "CEO",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10451",
+  "name": "ANTI-POLLUTION DRIVE FOUNDATION",
+  "primaryEmail": "communications@antipollution.org",
+  "website": "http://www.antipollution.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network"
+  ],
+  "telephone": [
+    "918244270008"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "2nd Floor, City Light Building",
+      "Balmatta Road",
+      "Mangalore",
+      "Dakshina Kannada",
+      "Karnataka",
+      "575001"
+    ]
+  }
+}

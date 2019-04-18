@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "NAYEEM.J",
+      "email": "sharptech_comp@yahoo.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4330",
+  "name": "Sharp Education Trust",
+  "primaryEmail": "sharptech_comp@yahoo.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919901535173"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "# 6,. 1st floor opp venkteshpuram busstop",
+      "nagwara main road",
+      "bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560045"
+    ]
+  }
+}

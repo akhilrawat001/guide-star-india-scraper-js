@@ -1,0 +1,42 @@
+{
+  "contacts": [
+    {
+      "name": "Kamala Kanta Roul",
+      "email": "",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10947",
+  "name": "GYANAMANTHANA",
+  "primaryEmail": "k.k.roul@gmail.com",
+  "website": "www.gyanamanthanagroup.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919040028285"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "At Militarybazar,Baghabali,Post Rajpur,Via Jaleswae",
+      "In front of Rajpur High School,Baghabali",
+      "Militarybazar,Jalesear",
+      "Baleswar",
+      "Odisha",
+      "756032"
+    ]
+  },
+  "briefDescription": "Training and placement and Number of worker is 10",
+  "yearOfEstablishment": "2017",
+  "regiseredAddrress": {
+    "state": "Odisha",
+    "address": [
+      "Jaleswar",
+      "Baleswar",
+      "Odisha",
+      "756032"
+    ]
+  }
+}

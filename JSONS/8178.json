@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Munnu Prasad Mishra",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8178",
+  "name": "Sharda Jan Sewa Sansthan",
+  "primaryEmail": "shardajan@gmail.com",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "919415350308"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "Shabajpur,",
+      "Post-Shabajpur Distt.-Kushinagar,",
+      "Kushinagar",
+      "Uttar Pradesh",
+      "274206"
+    ]
+  }
+}

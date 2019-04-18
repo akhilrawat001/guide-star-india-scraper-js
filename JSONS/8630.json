@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Ramesh ch. shau",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8630",
+  "name": "Sansar",
+  "primaryEmail": "sansar_ngomission@yahoo.com",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "919933742330"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "Ambicanagar2",
+      "Bijipur,Gosaninuaagam",
+      "Brahmapur",
+      "Ganjam",
+      "Odisha",
+      "760003"
+    ]
+  }
+}

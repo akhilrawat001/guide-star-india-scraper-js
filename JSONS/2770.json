@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "TARUN PATEL",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2770",
+  "name": "SAMARATHBEN GULABSINH DESAI FOUNDATION",
+  "primaryEmail": "tarun2021@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919824033237",
+    "919327605505"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "40 NATHALAL COLONY ,YOGINDRA,STADIUM ROAD",
+      "OPP SARDAR PATEL COLONY",
+      "AHMEDABAD",
+      "Ahmedabad",
+      "Gujarat",
+      "380014"
+    ]
+  }
+}

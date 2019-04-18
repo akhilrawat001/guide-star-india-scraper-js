@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "name": "SARBESWAR TRIPATHY",
+      "email": "aiessbargarh@yahoo.com",
+      "designation": "MANAGING TRUSTEE",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4694",
+  "name": "Aditya Institute of Education and Social Serviceï¿½(AIESS)",
+  "primaryEmail": "aiessbargarh@yahoo.com",
+  "telephone": [
+    "916646246245",
+    "919337710838"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "Near  S.B.I.(Pb) Branch, Nh-06 Side",
+      "W. No-18, Po",
+      "BARGARH",
+      "Bargarh",
+      "Odisha",
+      "768028"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Odisha",
+    "address": [
+      "Nearï¿½ S.B.I.(Pb) Branch, Nh-06 Side",
+      "W. No-18, Po",
+      "BARGARH",
+      "Bargarh",
+      "Odisha",
+      "768028"
+    ]
+  }
+}

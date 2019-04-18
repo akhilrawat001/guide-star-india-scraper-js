@@ -1,0 +1,35 @@
+{
+  "contacts": [
+    {
+      "name": "Dhruv Sharma",
+      "email": "management@wecanresources.org",
+      "designation": "President",
+      "mobile": [
+        "91-9831216636"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10888",
+  "name": "We Can Learning Resource Institute",
+  "primaryEmail": "management@wecanresources.org",
+  "website": "www.wecanresources.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service"
+  ],
+  "telephone": [
+    "919831216636"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "3B Kiran Apts",
+      "34/1A Ballygunge Circular Road",
+      "Kolkata",
+      "West Bengal",
+      "700019"
+    ]
+  },
+  "briefDescription": "WeCan Learning Resource Institute caters to the educational needs (both academic and psychological support) of children with autism and learning disabilities. While some of the children are able to pay fees, a significant percentage come from underprivileged backgrounds and need financial support.  WeCan also partners with orphanages to provide the same support for their special children. All of this require ongoing funding support.  Currently there are 250 children benefiting from weCan services, and we would like to reach it to many many more.",
+  "yearOfEstablishment": "2011"
+}

@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Vaijnath Sabne",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6503",
+  "name": "Marathwada Berojgar Bahuuddeshya Yuva Munch",
+  "primaryEmail": "sabne789@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919421094401"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Vidhaya Nagar",
+      "Behind Nagar panchayat office",
+      "Deoni dist. latur",
+      "Latur",
+      "Maharashtra",
+      "413519"
+    ]
+  }
+}

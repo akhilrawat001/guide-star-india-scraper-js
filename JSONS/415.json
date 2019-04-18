@@ -1,0 +1,40 @@
+{
+  "contacts": [
+    {
+      "name": "S Daniel Raj",
+      "email": "s_daniel_raj@yahoo.co.in",
+      "designation": "Manager",
+      "mobile": [
+        "91-9880460548"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=415",
+  "name": "Nava Karnataka Social Service Trust",
+  "primaryEmail": "sdaniel88@rediffmail.com",
+  "website": "http://www.nksst.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918022725666",
+    "918022725666"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "130, Vinayaka Tent",
+      "A Block, Thangamalai Nagar, D J Halli",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560045"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "Karnataka"
+    ]
+  }
+}

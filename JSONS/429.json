@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Dilip Roy",
+      "email": "sutapaghosh55@gmail.com",
+      "designation": "Jt Secretary",
+      "mobile": [
+        "91-9433245182"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=429",
+  "name": "Professional Institute for Development and Socio Environmental Management",
+  "primaryEmail": "prismindia_2000@yahoo.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "913332923460",
+    "913328440263",
+    "913332923460"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "H/O Primal Dasgupta (Advocate), At Rajbari Housing Cooperative",
+      "PO Rajbari",
+      "Kolkata",
+      "West Bengal",
+      "700081"
+    ]
+  }
+}

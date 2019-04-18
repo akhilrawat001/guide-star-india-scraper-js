@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Vivek Sharma",
+      "email": "",
+      "designation": "Secretary",
+      "mobile": [
+        "91-171-2520211",
+        "91-9996018606"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1684",
+  "name": "Kangra Mahila Sabha",
+  "primaryEmail": "kmshimachal@rediffmail.com",
+  "website": "www.kmsindia.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919218404645"
+  ],
+  "mainAddrress": {
+    "state": "Himachal Pradesh",
+    "address": [
+      "VPO Rait",
+      "Tehsil Shahpur",
+      "Kangra",
+      "Himachal Pradesh",
+      "176208"
+    ]
+  }
+}

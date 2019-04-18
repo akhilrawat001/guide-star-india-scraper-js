@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Lakshmaiah J",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6465",
+  "name": "HELP SOCIETY FOR POOR AND DISABLED",
+  "primaryEmail": "ngohspd@yahoo.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919494296927"
+  ],
+  "mainAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "9-31A, 9th ward, Harijana palem",
+      "Harijana palem",
+      "markapur,",
+      "Prakasam",
+      "Andhra Pradesh",
+      "523316"
+    ]
+  }
+}

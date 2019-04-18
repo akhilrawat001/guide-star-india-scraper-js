@@ -1,0 +1,27 @@
+{
+  "contacts": [
+    {
+      "name": "Hemlalta Joshi",
+      "email": "",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=598",
+  "name": "Swar Samiti",
+  "primaryEmail": "swar_samiti@rediffmail.com",
+  "telephone": [
+    "915964224522",
+    "915964264209",
+    "915964224522"
+  ],
+  "mainAddrress": {
+    "state": "Uttarakhand",
+    "address": [
+      "G.I.C. Road",
+      "Pithoragarh",
+      "Uttarakhand",
+      "262501"
+    ]
+  }
+}

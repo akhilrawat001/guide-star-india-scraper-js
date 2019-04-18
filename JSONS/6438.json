@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Swar Kranti",
+      "email": "info@biradari.org",
+      "designation": "Director & Trustee",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6438",
+  "name": "Yuvak Biradari (Bharat)",
+  "primaryEmail": "info@biradari.org",
+  "website": "http://www.biradari.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service"
+  ],
+  "telephone": [
+    "912222075592",
+    "912222075592"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Yuvak Biradari (Bharat), Hazarimal Somani Marg,",
+      "Chhatrapati Shivaji Terminus,",
+      "Mumbai",
+      "Maharashtra",
+      "400001"
+    ]
+  }
+}

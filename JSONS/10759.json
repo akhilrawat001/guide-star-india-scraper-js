@@ -1,0 +1,37 @@
+{
+  "contacts": [
+    {
+      "name": "Dr.Surendra Rajaram Shinde",
+      "email": "s.r.shinde1969@gmail.com",
+      "designation": "Joint Secretory",
+      "mobile": [
+        "91-9619675752"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10759",
+  "name": "MAITREYA VAIDYAKIYA SEVABHAVI SANSTHA",
+  "primaryEmail": "maitraiyavaidyakiyasanstha2007@yahoo.com",
+  "website": "http://www.guidestarindia.org/summary.aspx?ccreg=10759",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918369762030",
+    "919619675752",
+    "918652457099"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Bhagat Nursing Home",
+      "Nilambari CHS.Ground Floor,",
+      "Vitawa,Kalwa,Thane",
+      "Thane",
+      "Maharashtra",
+      "400605"
+    ]
+  },
+  "briefDescription": "Maitreya Vaidyakiya Sevabhavi Sanstha is located in Dr.Bhagat Nursing Home Vitawa,Thane, Maharashtra.Sanstha's Founder And President is Dr.K.P.Bhagat",
+  "yearOfEstablishment": "2007"
+}

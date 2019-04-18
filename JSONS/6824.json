@@ -1,0 +1,36 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6824",
+  "name": "FEDERATION OF KUTCH INDUSTRIES ASSOCIATION",
+  "primaryEmail": "GIM1@FOKIA.ORG",
+  "website": "http://www.fokia.org",
+  "organisationType": [
+    "Intermediary"
+  ],
+  "telephone": [
+    "+912832230080",
+    "+912832230081"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "fokia , 5th patel tower,near jaynagar bus stop",
+      "bhuj mirzapar road",
+      "bhuj",
+      "Kachchh",
+      "Gujarat",
+      "370001"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "FOKIA , 5th patel tower,near jaynagar bus stop",
+      "bhuj mirzapar road",
+      "bhuj",
+      "Kachchh",
+      "Gujarat",
+      "370001"
+    ]
+  }
+}

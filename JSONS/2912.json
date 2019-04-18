@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "C Mahalakshmi",
+      "email": "",
+      "designation": "Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2912",
+  "name": "Karuna Rural Development Society",
+  "primaryEmail": "krdssociety123@gmail.com",
+  "telephone": [
+    "918392267371",
+    "918392267371"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "Door No.28",
+      "Sarovara Complex kappagal road",
+      "Bellary",
+      "Ballari (Bellary)",
+      "Karnataka",
+      "589102"
+    ]
+  }
+}

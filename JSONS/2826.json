@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Mohar Singh",
+      "email": "deepshikha.gvs@gmail.com",
+      "designation": "CEO",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2826",
+  "name": "Deep Shikha Gramin Vikas Sansthan",
+  "primaryEmail": "deepshikha.gvs@gmail.com",
+  "website": "www.deepshikhagvs.tk",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919214689320"
+  ],
+  "mainAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "deepshikha gramin vikas sansthan,village-pujari ki dhani,post-gothara,tehsil-nawalgarh,dist-jhunjhunu,rajasthan,pin no.-333304",
+      "B-5,officers colony,meenawala,sirsi road,jaipur,rajasthan-302021",
+      "pujari ki dhani,post-gothara,tehsil-nawalgarh",
+      "Jhunjhunu",
+      "Rajasthan",
+      "333304"
+    ]
+  }
+}

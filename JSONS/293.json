@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "Suman Singh",
+      "email": "sakhibihar@gmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=293",
+  "name": "Sakhi",
+  "primaryEmail": "sakhipatna@rediffmail.com",
+  "website": "www.sakhibihar.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919431021204"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "Matsya Nagar, Bhagwatipur",
+      "P. O. Rudrapur, Via - Andhra Thari",
+      "Madhubani",
+      "Bihar",
+      "847403"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Bihar",
+    "address": [
+      "Bihar"
+    ]
+  }
+}

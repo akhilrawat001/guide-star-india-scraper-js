@@ -1,0 +1,45 @@
+{
+  "contacts": [
+    {
+      "name": "Samson Hoda",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "8900272175"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8966",
+  "name": "SFS FOUNDATION",
+  "primaryEmail": "sfsfoundation.kgp@gmail.com",
+  "website": "nil",
+  "organisationType": [
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "918900272175"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Inda ,Rabindrapally",
+      "inda, rabindrapally,",
+      "kharagpur",
+      "West Medinipur",
+      "West Bengal",
+      "721305"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Inda ,Rabindrapally",
+      "Kharagpur",
+      "West Medinipur",
+      "West Bengal",
+      "721305"
+    ]
+  }
+}

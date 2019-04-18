@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "S.Krishna",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5472",
+  "name": "Dalith Peoples & Development Society",
+  "primaryEmail": "dpdskurnool@yahoo.com",
+  "website": "Nil",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919160916401"
+  ],
+  "mainAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "H.No.47-97-38K, Budhavara Peta, Kurnool-518002",
+      "Kurnool",
+      "Andhra Pradesh",
+      "518002"
+    ]
+  }
+}

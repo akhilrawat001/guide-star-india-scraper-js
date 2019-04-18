@@ -1,0 +1,26 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=694",
+  "name": "The Central Society for the Education of the Deaf",
+  "primaryEmail": "csedmumbai@hathway.com",
+  "website": "www.csedmumbai.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "912223087798",
+    "912223088879",
+    "912223021758",
+    "912223087798"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "3rd Floor, Municipal School Building",
+      "Opp. YMCA Swimming Pool, Farook S. Umarbhoy Path, Agripada",
+      "Mumbai",
+      "Maharashtra",
+      "400011"
+    ]
+  }
+}

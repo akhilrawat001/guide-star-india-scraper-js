@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Dr.Satish C. Wagh",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3312",
+  "name": "SRUSHTI",
+  "primaryEmail": "srushtingo@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919869849390"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "56,antophill,pink evrest house,s.m.rd,wadala (e),",
+      "shaik mistry road,jaikar wadi,wadala (e)",
+      "mumbai",
+      "Mumbai",
+      "Maharashtra",
+      "400037"
+    ]
+  }
+}

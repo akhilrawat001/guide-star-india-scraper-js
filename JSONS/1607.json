@@ -1,0 +1,50 @@
+{
+  "contacts": [
+    {
+      "name": "Aruna kaul",
+      "email": "sarthicentre@gmail.com",
+      "designation": "GC Member",
+      "mobile": [
+        "91-11-26858495",
+        "91-9013382404"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1607",
+  "name": "Hope Foundation-Vadodara",
+  "primaryEmail": "hopefoundation@gmail.com",
+  "website": "www.hopefoundationvadodara.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919013382404",
+    "911126212159",
+    "912652781133",
+    "911912478290",
+    "911893220177"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "Number 29, North Avenue,",
+      "IIT Campus,Haus Khas",
+      "Delhi",
+      "South Delhi",
+      "110016"
+    ]
+  },
+  "briefDescription": "To be a char-I-ot-eer (Sarathi) to those, who are under privileged in our society.Evolve strategies to address the changing needs of Women, Children & elderly living in communities.Usher in community care by connecting individuals and Institutions.",
+  "yearOfEstablishment": "2005",
+  "regiseredAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "GF-2,Harmony Apartment",
+      "Off EME Road,",
+      "Fatehgunj",
+      "Vadodara",
+      "Gujarat",
+      "390002"
+    ]
+  }
+}

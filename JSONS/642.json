@@ -1,0 +1,36 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=642",
+  "name": "Vikasana, Association",
+  "primaryEmail": "ngovikasana@gmail.com",
+  "website": "www.vikasana.org",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "918261222570",
+    "918261222500",
+    "918261222570"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "P. B. 23, Galihalli Cross",
+      "Tarikere",
+      "Chikkamagaluru",
+      "Karnataka",
+      "577228"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "Basti Matt, Main Road",
+      "N R Pura",
+      "Chikkamagaluru",
+      "Karnataka",
+      "577134"
+    ]
+  }
+}

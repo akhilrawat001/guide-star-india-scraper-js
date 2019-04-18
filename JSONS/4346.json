@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Ketav Vyas",
+      "email": "ketavvyas@gmail.com",
+      "designation": "Trustee",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4346",
+  "name": "Agnihotri Krushnaram Gulabram Vyas Charitable Trust",
+  "primaryEmail": "ketavvyas@gmail.com",
+  "website": "www.shrikrishnashram.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919725564414"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "B-55, Konark towers, B/h Nalanda Shopping Centre,",
+      "Premchand Nagar road, Vastrapur",
+      "Ahmedabad",
+      "Gujarat",
+      "380015"
+    ]
+  }
+}

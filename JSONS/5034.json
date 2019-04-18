@@ -1,0 +1,48 @@
+{
+  "contacts": [
+    {
+      "name": "Arun Kr. Saren,",
+      "email": "a.saren34@gmail.com",
+      "designation": "Treasurer,",
+      "mobile": []
+    },
+    {
+      "name": "Arun Kr. Saren,",
+      "email": "a.saren34@gmail.com",
+      "designation": "Treasurer,",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5034",
+  "name": "Adibasi Social Workers' Association for Social Action Net-Work",
+  "primaryEmail": "aswasan_bnk@rediffmail.com",
+  "website": "www.adibasisocialworkers.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919476127796"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Qrtrs. No.19/22,",
+      "Jaydev Avenue, Durgapur-5,",
+      "Durgapur,",
+      "Bardhaman",
+      "West Bengal",
+      "713205"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "C/O Bhim Ch.Murmu, Vill-Champakiyari,",
+      "P.O-Kenduadih,",
+      "Bankura,",
+      "Bankura",
+      "West Bengal",
+      "722102"
+    ]
+  }
+}

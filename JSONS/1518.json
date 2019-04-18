@@ -1,0 +1,56 @@
+{
+  "contacts": [
+    {
+      "name": "Bhadresh Jhaveri",
+      "email": "accounts.srjt@shrimadrajchandramission.org",
+      "designation": "Treasurer",
+      "mobile": [
+        "91-9870090089"
+      ]
+    },
+    {
+      "name": "Bhadresh Jhaveri",
+      "email": "accounts.srjt@shrimadrajchandramission.org",
+      "designation": "Treasurer",
+      "mobile": [
+        "91-9870090089"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1518",
+  "name": "Shrimad Rajchandra Jivadaya Trust",
+  "primaryEmail": "jivadayatrust@shrimadrajchandramission.org",
+  "website": "http://www.srloveandcare.org/",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "912223511352",
+    "912223516950",
+    "919820071576"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "(Patel) Bhupati Chambers, Third Floor, Plot - 13,",
+      "Padmakar L Khandke Marg,Opera House,Mathew Road,",
+      "Mumbai",
+      "Maharashtra",
+      "400004"
+    ]
+  },
+  "briefDescription": "An initiative to offer service and bring joy to the lives of the underprivileged sections of our society.  Included in this programme are 10 Cares related to mankind, animals and the environment:1. Health Care2. Educational Care3. Child Care4. Woman Care5. Tribal Care6. Community Care7. Humanitarian Care8. Emergency Relief Care9. Animal Care10.Environmental Care",
+  "yearOfEstablishment": "2005",
+  "regiseredAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "Mohangadh",
+      "Dharampur",
+      "Valsad",
+      "Gujarat",
+      "396050"
+    ]
+  }
+}

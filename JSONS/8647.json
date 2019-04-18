@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "B.A.Mistree",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8647",
+  "name": "RURAL AND URBAN DEVELOPMENT AEGIS FOUNDATION",
+  "primaryEmail": "zmistree@gmail.com",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "919766564433",
+    "917057013124"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "1/9 Bhupesh App, Vidyanageer Karad",
+      "Opp to S.G.M College",
+      "Satara",
+      "Maharashtra",
+      "415110"
+    ]
+  }
+}

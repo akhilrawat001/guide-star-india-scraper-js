@@ -1,0 +1,35 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5941",
+  "name": "SAMAJIK VIKAS KENDRA",
+  "primaryEmail": "dreamzhome@gmail.com",
+  "website": "www.dreamzhome.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919892954019"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "7/38, Dindoshi Saidham Co-Op Housing Society,",
+      "MHB Colony",
+      "Malad (East) - Mumbai - 400 097",
+      "Mumbai",
+      "Maharashtra",
+      "400097"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "C/O PRAKASH CHAVAN, B BLOCK, 2ND FLOOR",
+      "HARI NIWAS, GOWALIKA",
+      "TANK ROAD MUMBAI",
+      "Mumbai",
+      "Maharashtra",
+      "400036"
+    ]
+  }
+}

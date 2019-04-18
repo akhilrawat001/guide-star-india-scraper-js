@@ -1,0 +1,38 @@
+{
+  "contacts": [
+    {
+      "name": "Pinku Saikia",
+      "email": "mkchakravorty@gmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    },
+    {
+      "name": "Pinku Saikia",
+      "email": "mkchakravorty@gmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2949",
+  "name": "Green Earth",
+  "primaryEmail": "negreenearth@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "913672250878",
+    "913672250878"
+  ],
+  "mainAddrress": {
+    "state": "Assam",
+    "address": [
+      "A.D.P Road,",
+      "Near Good Luck Hotel",
+      "Nagaon",
+      "Assam",
+      "782001"
+    ]
+  }
+}

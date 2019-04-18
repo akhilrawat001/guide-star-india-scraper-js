@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "AHAD ALI",
+      "email": "ahadaliankur@gmail.com",
+      "designation": "SECRETARY",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6505",
+  "name": "GARAIMARI ANKUR FOUNDATION",
+  "primaryEmail": "ahadaliankur@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "917797225520"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "GARAIMARI",
+      "Murshidabad",
+      "West Bengal",
+      "742303"
+    ]
+  },
+  "briefDescription": "GARAIMARI ANKUR FOUNDATION WORKS FOR EDUCATION FIELD AND SOCIAL SERVICEREGISTERED UNDER WBSR ACT 1961.",
+  "yearOfEstablishment": "2011"
+}

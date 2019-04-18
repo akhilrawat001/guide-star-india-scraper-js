@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "sukhpal singh choudhary",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5521",
+  "name": "Social Welfare Charitable Trust",
+  "primaryEmail": "sukhpalchoudhary@yahoo.com",
+  "website": "www.swctraj.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "911412590758",
+    "911412590758"
+  ],
+  "mainAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "623,Barkat Nagar",
+      "Jaipur, Rajasthan",
+      "Jaipur",
+      "Rajasthan",
+      "302015"
+    ]
+  }
+}

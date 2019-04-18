@@ -1,0 +1,37 @@
+{
+  "contacts": [
+    {
+      "name": "Mrs.Chetna Bhatt",
+      "email": "chetna.bhatt@jaivakeel.org",
+      "designation": "Head of Administration",
+      "mobile": [
+        "91-22-24701231"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1131",
+  "name": "Jai Vakeel Foundation & Research Centre",
+  "primaryEmail": "admin@jaivakeel.org",
+  "website": "www.jaivakeel.org",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "912224702285",
+    "912224701231",
+    "912224701231"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Opp. Abhyuday Nagar Bldg. No. 12 Near Kalachowki Police Station",
+      "Sewri Hill Sewri",
+      "Mumbai",
+      "Maharashtra",
+      "400033"
+    ]
+  },
+  "briefDescription": "The institute provides holistic services to individuals with ID under four broad categories – Healthcare, Education, Skill Development and Support services. Healthcare:•\tDiagnostic and therapy centre•\tPaediatric neurological medical camps in rural MaharashtraEducation:•\tJai Vakeel School Mumbai – 350 students•\tJai Vakeel School, Talegaon, Pune – 40 students•\tRusi Irani Centre, Devlali, Nashik – 40 students•\tAutism Centre, Mumbai – 25 studentsSkill Development:•\tVocational Training Centre & Sheltered Workshop – 300 students•\tRespite care – 83 individuals",
+  "yearOfEstablishment": "1953"
+}

@@ -1,0 +1,38 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1635",
+  "name": "Wildlife Trust of India",
+  "primaryEmail": "info@wti.org.in",
+  "website": "http://www.wti.org.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "911204143900",
+    "911204143900"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "F-13",
+      "Sector 8,",
+      "Noida",
+      "Gautam Buddha Nagar",
+      "Uttar Pradesh",
+      "201301"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "B5/22,",
+      "Safdarjang Enclave,",
+      "New Delhi",
+      "Delhi",
+      "110029"
+    ]
+  }
+}

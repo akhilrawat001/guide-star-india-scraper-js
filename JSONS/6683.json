@@ -1,0 +1,36 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6683",
+  "name": "Biswa Gouri Charitable Trust",
+  "primaryEmail": "admin@bubblesblr.org",
+  "website": "http://bubbles-bangalore.blogspot.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918028465336",
+    "918028465336"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "No.102, Bidarahalli hobli, beside Shaneshwara Temple, Off Hennur Road,",
+      "Billishivalle, Kothanur Post",
+      "Bangalore",
+      "Bengaluru (Bangalore) Rural",
+      "Karnataka",
+      "560077"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "No.102, Bidarahalli hobli, beside Shaneshwara Temple, Off Hennur Road,",
+      "Billishivalle, Kothanur Post",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560077"
+    ]
+  }
+}

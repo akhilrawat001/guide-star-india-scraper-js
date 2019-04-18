@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Rajesh R. Trivedi",
+      "email": "rrrajesh.trivedi@gmail.com",
+      "designation": "Managing Trustee",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4709",
+  "name": "Amenity Lifeline Emergency Response Team (ALERT)",
+  "primaryEmail": "info@alert-wecare.org",
+  "website": "http://www.alert-wecare.org",
+  "telephone": [
+    "914424404190",
+    "914442042591",
+    "914424404190"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "No. 14,",
+      "Venkatesan Street,",
+      "T.Nagar",
+      "Chennai",
+      "Tamil Nadu",
+      "600017"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Swati Mathur",
+      "email": "ddashak@gmail.com",
+      "designation": "SCU",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4770",
+  "name": "Foundation for Education and development",
+  "primaryEmail": "ddashak@gmail.com",
+  "website": "http://www.doosradashak.in/",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "911412620845",
+    "911412620845"
+  ],
+  "mainAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "C-113 Shivaji Marg",
+      "Tilak Nagar",
+      "Jaipur",
+      "Rajasthan",
+      "302004"
+    ]
+  }
+}

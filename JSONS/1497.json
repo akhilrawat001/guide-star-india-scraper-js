@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Usha Rani",
+      "email": "ushabadhan22@rediffmail.com",
+      "designation": "Secretary",
+      "mobile": [
+        "91-9811143575"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1497",
+  "name": "Harbans Kaur Memorial Charitable Trust",
+  "primaryEmail": "hkmctrust@rediffmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service"
+  ],
+  "telephone": [
+    "911126940670",
+    "919810006029"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "L - 398",
+      "Sarita Vihar",
+      "Delhi",
+      "New Delhi",
+      "110076"
+    ]
+  }
+}

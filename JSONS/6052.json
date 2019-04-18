@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "NIBHA DEVI",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6052",
+  "name": "RAMWATI PRASHIKSHAN KENDRA",
+  "primaryEmail": "ramwati_prasikshankendra@rediffmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919431446616"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "AT+P.O-KHAIRA,DIST-JAMUI",
+      "DIST-JAMUI",
+      "Jamui",
+      "Bihar",
+      "811307"
+    ]
+  }
+}

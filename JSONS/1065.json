@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "Purushottam Panchal",
+      "email": "",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1065",
+  "name": "Society for the Training & Vocational Rehabilitation of the Disabled",
+  "primaryEmail": "sevatirth@yahoo.com",
+  "telephone": [
+    "912652974187",
+    "912652974187"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "Nr. Swami Narayan Gurukul Vidyalaya  Opp Adarsh Nagar",
+      "Dhaniyavi Road",
+      "Tarsali",
+      "Vadodara",
+      "Gujarat",
+      "390009"
+    ]
+  }
+}

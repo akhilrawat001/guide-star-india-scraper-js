@@ -1,0 +1,34 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1246",
+  "name": "Kamalalayam Trust",
+  "primaryEmail": "kamalalayamtrust@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "914442154380",
+    "914442154380"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "2/513, Sundeep Road,",
+      "Neelangarai",
+      "Chennai",
+      "Tamil Nadu",
+      "600041"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "D-404, The Atrium, 22",
+      "Kalakshetra Road",
+      "Tiruvanmiyur",
+      "Chennai",
+      "Tamil Nadu",
+      "600041"
+    ]
+  }
+}

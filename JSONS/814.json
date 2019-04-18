@@ -1,0 +1,43 @@
+{
+  "contacts": [
+    {
+      "name": "Laxmibai R Jadhav",
+      "email": "rajendrapawar101@gmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    },
+    {
+      "name": "Laxmibai R Jadhav",
+      "email": "rajendrapawar101@gmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=814",
+  "name": "Pragati Mahila Mandal",
+  "primaryEmail": "rajendrapawar101@gmail.com",
+  "telephone": [
+    "919423509219"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "At. Post Patoda (BK)",
+      "Dharmabad",
+      "Nanded",
+      "Maharashtra",
+      "431809"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Yevati",
+      "Biloli",
+      "Nanded",
+      "Maharashtra",
+      "431710",
+      "AP_Other_729.PDF"
+    ]
+  }
+}

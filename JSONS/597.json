@@ -1,0 +1,38 @@
+{
+  "contacts": [
+    {
+      "name": "Bula Dey",
+      "email": "prabalaorg@gmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=597",
+  "name": "Prabala Samaj Sevi Sanstha",
+  "primaryEmail": "prabalaorg@gmail.com",
+  "website": "www.prabala.org",
+  "telephone": [
+    "916433228909",
+    "919334660986"
+  ],
+  "mainAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "Jamtara Road, Ambagan",
+      "Mihijam",
+      "Jamtara",
+      "Jharkhand",
+      "815354"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "Paul Bagan",
+      "Mihijam",
+      "Jamtara",
+      "Jharkhand",
+      "815354"
+    ]
+  }
+}

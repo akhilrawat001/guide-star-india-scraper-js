@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Emmanuel Pathil",
+      "email": "emmanuelpathil@gmail.com",
+      "designation": "Director",
+      "mobile": []
+    },
+    {
+      "name": "Emmanuel Pathil",
+      "email": "emmanuelpathil@gmail.com",
+      "designation": "Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=988",
+  "name": "Samajik Seva Sadan",
+  "primaryEmail": "sssorg@bsnl.in",
+  "telephone": [
+    "916762224128",
+    "916762224128"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "Village: Banjhikusum, PO: Mahisapat",
+      "Dhenkanal",
+      "Odisha",
+      "759001"
+    ]
+  }
+}

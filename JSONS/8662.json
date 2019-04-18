@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Sunil Kumar Verma",
+      "email": "nidan_sansthan@yahoo.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8662",
+  "name": "Nidan Sansthan",
+  "primaryEmail": "nidan_sansthan@yahoo.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919905180218"
+  ],
+  "mainAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "Village-Barhmasia",
+      "Post-Dabri",
+      "Ps.Birni",
+      "Giridih",
+      "Jharkhand",
+      "825324"
+    ]
+  }
+}

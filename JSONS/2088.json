@@ -1,0 +1,28 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2088",
+  "name": "CITIZENS AWARENESS GROUP",
+  "primaryEmail": "citizenawareness@yahoo.com",
+  "telephone": [
+    "911724007412",
+    "911724007412"
+  ],
+  "mainAddrress": {
+    "state": "Chandigarh",
+    "address": [
+      "Room No. 3, Basement, Karuna Sadan, Sector 11 - B, chandigarh - 160011 / H.No 2812, Sector 38 - C, Chandhigarh - 160036",
+      "Karuna Sadan,",
+      "Chandigarh",
+      "160011"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Chandigarh",
+    "address": [
+      "H.No. 2812,",
+      "Sector 38-C",
+      "Chandigarh",
+      "160036"
+    ]
+  }
+}

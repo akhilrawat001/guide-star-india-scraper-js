@@ -1,0 +1,49 @@
+{
+  "contacts": [
+    {
+      "name": "Sheikh Altaf Hussain",
+      "email": "ceeo_ngo@rediffmail.com",
+      "designation": "General Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4447",
+  "name": "Cultural Educational and Environmental Organization",
+  "primaryEmail": "ceeo_ngo@rediffmail.com",
+  "website": "htpp://www.ceeoindia.org.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "00919419408599"
+  ],
+  "mainAddrress": {
+    "state": "Jammu and Kashmir",
+    "address": [
+      "CEEO  INDIA Headquarters, Proper Budgam, Mehdi Colony, Khanpora Link Road Kashmir India",
+      "Mehdi Colony",
+      "Budgam",
+      "Badgam",
+      "Jammu and Kashmir",
+      "191111"
+    ]
+  },
+  "briefDescription": "CEEO INDIA depicts the truth and valor to serve society in the high spirit. Our main working function includes.Communal Harmony.Women Empowerment, Women Self-help Groups.Community Development.Social Empowerment.Girl Child Education, Free Mid Day Meals, Books and Bags.Abolition of Child Labour, Malnutrition and of Bond Labours.Student Cultural Exchange Programme, Cultural Shows, Promotion of Kashmiri Culture.Protection of Environment, planting of trees, checking of Air, Water and Noise Pollution.Fight against all communicable diseases and Guidance for proper medical Check up.Protection and Medical assistance to HIV/AIDS, TB & Cancer Patients.Free Education to Orphans, Poor and Needy Ones, SC/ST and OBC.Protection of Rights of Indigenous people, Bakarwalas, Pahri people.Guidance and counseling to students, in seeking admissions and Scholarships.Organization of Blood Donation Camps, Natural Disaster Reliefs, Seminars and Symposium.Boost in Membership of Students, Farmers, Educationists, Intellects, Doctors, Lawyers and Activists.Free Computer Education, IT and Vocational Training Camps/ Seminars.Legal Awareness, Camps for people to know their legal Rights.Campaign against TB, HIV/AIDS and Cancer.Fight for Social Justice, Legal help and Rights to Liberty, Equality and social Justice.Free Classes of Acting Drama and Theatre @ Valley School of Drama & Music.Free condense course for women and back in school promotion.Promotion of peace and prosperity and equal rights for all.Animal Shelters, Dairy Farming, Promotion of Cooperative societies and Organic farming.We are working in assistance by different ministries at center and state level on different programmes and in collaboration with VHAI, NYKS, WHO, UNICEF, IPO, World TB org, and with civil and civic societies.",
+  "yearOfEstablishment": "1990",
+  "regiseredAddrress": {
+    "state": "Jammu and Kashmir",
+    "address": [
+      "CEEO INDIA  Headquarters, Proper Budgam, Mehdi Colony, Khanpora Link Road Kashmir India",
+      "Mehdi Colony",
+      "Budgam",
+      "Badgam",
+      "Jammu and Kashmir",
+      "191111"
+    ]
+  }
+}

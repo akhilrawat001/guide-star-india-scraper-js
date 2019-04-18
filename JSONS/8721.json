@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "S.Senthil Kumar",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8721",
+  "name": "SREERAM CANCER TRUST",
+  "primaryEmail": "sctngo@gmail.com",
+  "website": "http://www.sreeramcancertrust.org",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "918903535944"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "130-B-1, Chenna Vannan Vilai, Eathamozhy Road",
+      "Kottar - P.O",
+      "Nagercoil",
+      "Kanyakumari",
+      "Tamil Nadu",
+      "629002"
+    ]
+  }
+}

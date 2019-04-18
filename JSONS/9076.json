@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Gajendra Kumar Das",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9076",
+  "name": "INSTITUTE FOR YOUTH AND SOCIAL ACTION IN RURAL AREA (IYSARA)",
+  "primaryEmail": "iysaragks@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919556208520"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "At.Gandhinagar ,Po Nabarangapur",
+      "Nabarangapur",
+      "Nabarangpur",
+      "Odisha",
+      "764059"
+    ]
+  }
+}

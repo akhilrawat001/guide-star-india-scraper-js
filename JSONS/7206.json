@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "ATIN KUSHWAHA",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7206",
+  "name": "ZEAL WELFARE SOCIETY",
+  "primaryEmail": "zealngo@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919303568991"
+  ],
+  "mainAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "FIRST FLOOR, 27, SANMATI NAGAR",
+      "NEAR JAIN MANDIR, ADHARTAL",
+      "JABALPUR",
+      "Jabalpur",
+      "Madhya Pradesh",
+      "482004"
+    ]
+  }
+}

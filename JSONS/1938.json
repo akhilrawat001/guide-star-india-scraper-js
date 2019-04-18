@@ -1,0 +1,35 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1938",
+  "name": "SARVODAYA GRAMA SEVAK SANGH",
+  "primaryEmail": "women2005@rediffmail.com",
+  "organisationType": [
+    "Intermediary"
+  ],
+  "telephone": [
+    "918662541128",
+    "919848118797"
+  ],
+  "mainAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "HNO;54-20/9-10",
+      "Sri Nagar Colony, Thimmers Street,",
+      "Vijayawada",
+      "Krishna",
+      "Andhra Pradesh",
+      "520008"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "H No. 209-10",
+      "Srinagar Colony",
+      "Vijayawada",
+      "Krishna",
+      "Andhra Pradesh",
+      "520008"
+    ]
+  }
+}

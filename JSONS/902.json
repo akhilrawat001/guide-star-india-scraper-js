@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Pramod Tarhekar",
+      "email": "",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=902",
+  "name": "Antyoday Vichar Kendra",
+  "primaryEmail": "antyody@rediffmail.com",
+  "website": "www.avkngo.org",
+  "telephone": [
+    "917779276390",
+    "917221222889",
+    "919421743294"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Pramod Tarhekar ,",
+      "Nandgaon Khandeshwar",
+      "Amravati",
+      "Maharashtra",
+      "444708"
+    ]
+  }
+}

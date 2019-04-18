@@ -1,0 +1,38 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8714",
+  "name": "CAREER DEVELOPMENT SOCIETY AURANGABAD",
+  "primaryEmail": "cdsabd2016@gmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "912402342873",
+    "912402342873"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "C/O Rgm Infotech Opp Peer Gaib Sahab Dargah,",
+      "S.T Colony Fazilpura Collector Office Road",
+      "Aurangabad",
+      "Maharashtra",
+      "431001"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Plot No B-20, Lane No 6 Beri Bagh Harsul Aurangabad",
+      "Near Ameer Kirana",
+      "Aurangabad",
+      "Maharashtra",
+      "431001"
+    ]
+  }
+}

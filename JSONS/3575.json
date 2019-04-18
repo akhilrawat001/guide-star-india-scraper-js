@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Dhaval Mahashankar Joshi",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3575",
+  "name": "BIJAL FOUNDATION",
+  "primaryEmail": "dhavalnews.joshi@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919428982430"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "bijal foundation, sivil hospital, simla get,near simla police choki",
+      "palanpur",
+      "Banaskantha",
+      "Gujarat",
+      "222444"
+    ]
+  }
+}

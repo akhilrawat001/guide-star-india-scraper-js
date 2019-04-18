@@ -1,0 +1,43 @@
+{
+  "contacts": [
+    {
+      "name": "Chitesh Prawal",
+      "email": "sswsdtg@gmail.com",
+      "designation": "Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4292",
+  "name": "SACRED SOCIAL WELFARE SOCIETY",
+  "primaryEmail": "sswsdtg@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "917209572715"
+  ],
+  "mainAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "st. michael high school",
+      "jailhata",
+      "Daltonganj",
+      "Palamu",
+      "Jharkhand",
+      "822101"
+    ]
+  },
+  "briefDescription": "hundreds of member, eorking in field of eduction, health,legal training,computer training,and also organize seminarsrunning a school of its own cost.",
+  "yearOfEstablishment": "2007",
+  "regiseredAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "c/o st. michael high school",
+      "jailhata",
+      "Daltonganj",
+      "Palamu",
+      "Jharkhand",
+      "822101"
+    ]
+  }
+}

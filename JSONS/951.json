@@ -1,0 +1,41 @@
+{
+  "contacts": [
+    {
+      "name": "Monoranjan mondal",
+      "email": "pmus2010@rediffmail.com",
+      "designation": "Vice President",
+      "mobile": [
+        "03212 230674",
+        "9038618085"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=951",
+  "name": "Pairagacha Mahila Unnyan Samity",
+  "primaryEmail": "pmus2010@rediffmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network"
+  ],
+  "telephone": [
+    "913212230674",
+    "918420871342",
+    "919038618085",
+    "919038492619",
+    "918926461993",
+    "918101895804"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "VILL-PAIRAGACHA,P.O-JANAI",
+      "P.S-CHANDITALA",
+      "Hooghly",
+      "West Bengal",
+      "712304"
+    ]
+  },
+  "briefDescription": "a) distributed blanket to the needy person.b) blood donation campc) free eye check-up camp ,free cataract operation, distributed free spectacles to the people.",
+  "yearOfEstablishment": "2009"
+}

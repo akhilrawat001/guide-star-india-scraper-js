@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "Jitendra Kumar",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "8126186765"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3006",
+  "name": "Nirmal Gyan Daan Academy Society",
+  "primaryEmail": "nga@nirmalgyandaan.com",
+  "website": "www.nirmalgyandaan.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918126186765",
+    "919634555275"
+  ],
+  "mainAddrress": {
+    "state": "Uttarakhand",
+    "address": [
+      "Khairi Kalan",
+      "Near Nepali Farm, PO. Satyanarayan",
+      "Rishikesh",
+      "Dehradun",
+      "Uttarakhand",
+      "249204"
+    ]
+  },
+  "briefDescription": "Our School Nirmal Ashram Gyan Daan Academy, Khairi-Kalan, Rishikesh (School Code-57189) is a Co-educational Secondary Free Day School, affiliated to CBSE, New Delhi. The students get education, transport, school uniforms, stationery, mid-day meal and medical check-up, all free of cost. At present the school has about 800 students on its Roll from LKG to X, all from economically weaker sections of society.",
+  "yearOfEstablishment": "2004"
+}

@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Jyothi Ravichandran",
+      "email": "",
+      "designation": "Founder",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10739",
+  "name": "THRIVE FOUNDATION",
+  "primaryEmail": "thrivechennai@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919940360637"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "33/19, Saravanalayam",
+      "PS Sivaswamy Road, Mylapore",
+      "Chennai",
+      "Tamil Nadu",
+      "600004"
+    ]
+  },
+  "briefDescription": "Thrive Foundation aims to address the lack of availability of positive, preventive and protective mental health services in low-income schools. Through in-class sessions on social and emotional skills for students, teacher and parent training workshops and policy-making at a whole-school level, we seek to build psychological resilience in every child to negotiate the multiple risk factors they face in their impoverished neighbourhoods every day.",
+  "yearOfEstablishment": "2018"
+}

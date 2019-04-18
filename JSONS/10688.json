@@ -1,0 +1,35 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10688",
+  "name": "SHREE HARSIDDH EDUCATION TRUST",
+  "primaryEmail": "harsiddh_trust@yahoo.co.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919974703001"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "S-27, Yogeshwar Flat, Opp. Reliance Petrol Pump, High-tension Road Subhanpura,",
+      "Shree Harsiddh Education Trust",
+      "Vadodara",
+      "Gujarat",
+      "390023"
+    ]
+  },
+  "briefDescription": "Shree Harsiddh Education Trust is located in Vadodara, Gujarat.",
+  "yearOfEstablishment": "1991",
+  "regiseredAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "Kosia Ishwarbhai Ravjibhai's House",
+      "At-Padar",
+      "Kankrej village",
+      "Banaskantha",
+      "Gujarat",
+      "385550"
+    ]
+  }
+}

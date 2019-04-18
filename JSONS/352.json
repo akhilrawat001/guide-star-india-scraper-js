@@ -1,0 +1,38 @@
+{
+  "contacts": [
+    {
+      "name": "Supriya Roy Chowdhury",
+      "email": "divyachaya@hotmail.com",
+      "designation": "Chief Executive Officer",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=352",
+  "name": "Divya Chaya",
+  "primaryEmail": "divyachaya@hotmail.com",
+  "website": "http://www.divyachayatrust.org.in",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "913340035119",
+    "913340035119"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "46C J.N.L. road, 19G Ecerest House",
+      "19th Floor",
+      "Kolkata",
+      "West Bengal",
+      "700071"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "West Bengal"
+    ]
+  }
+}

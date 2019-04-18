@@ -1,0 +1,46 @@
+{
+  "contacts": [
+    {
+      "name": "PADMAPRIYA",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "9789693310"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6510",
+  "name": "THE DOCTORS UNITED CHARITABLE TRUST",
+  "primaryEmail": "contact.duct@gmail.com",
+  "website": "http://www.ductworld.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Intermediary",
+    "Support"
+  ],
+  "telephone": [
+    "919789693310"
+  ],
+  "mainAddrress": {
+    "state": "Puducherry",
+    "address": [
+      "III floor, Daffodil Apartments",
+      "Airport Main Road, Lawspet",
+      "Puducherry",
+      "605008"
+    ]
+  },
+  "briefDescription": "“THE DOCTORS UNITED CHARITABLE TRUST (DUCT)” is a Non-profit Organization reg u/s 12A and 80G of IT act of India. Its mission is to provide free quality medical services to the poor and needy along with creation of medical and Social awareness in the society.We conduct free medical camps, medical screening programs, awareness programs on organ donation, eye donation and non communicable diseases, etc in rural and urban areas .We work to prevent all kinds of diseases and epidemics and improve health by inoculation, provision of nutritious diet to the poor, needy and the socially or economically backward people.We believe that the community has two kinds of people. One being Patients and other who are turning into patients. We wish to change that and keep people for turning into patients and create a disease free society.",
+  "yearOfEstablishment": "2012",
+  "regiseredAddrress": {
+    "state": "Puducherry",
+    "address": [
+      "S-3, II floor, Daffodil Apartments",
+      "Airport Main Road, Lawspet",
+      "Puducherry",
+      "605008"
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6882",
+  "name": "Society For Integrated Rural Development",
+  "primaryEmail": "sfird_org@yahoo.co.in",
+  "website": "www.sfird.org",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "918632226452",
+    "918632226452"
+  ],
+  "mainAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "15-12-68",
+      "3rd lane venkatrao nagar",
+      "guntur",
+      "Guntur",
+      "Andhra Pradesh",
+      "522001"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "15-12-68",
+      "3rd lane venkatrao nagar",
+      "Guntur",
+      "Andhra Pradesh",
+      "522001"
+    ]
+  }
+}

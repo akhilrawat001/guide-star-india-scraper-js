@@ -1,0 +1,26 @@
+{
+  "contacts": [
+    {
+      "name": "Siba Prasad Pattojoshi",
+      "email": "iyww.org@gmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3248",
+  "name": "Institute of Youth and Women Welfare, (I.Y.W.W.)",
+  "primaryEmail": "iyww98@gmail.com",
+  "telephone": [
+    "916742462171",
+    "919238973218"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "Balipatna",
+      "Khordha",
+      "Odisha",
+      "752102"
+    ]
+  }
+}

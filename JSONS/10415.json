@@ -1,0 +1,44 @@
+{
+  "contacts": [
+    {
+      "name": "Roselin Thenmozhi",
+      "email": "gracetrusttnj@gmail.com",
+      "designation": "Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10415",
+  "name": "GRACE INTEGRATED DEVELOPMENT AND EDUCATIONAL TRUST",
+  "primaryEmail": "gracetrusttnj@gmail.com",
+  "website": "www.gracetrust.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Intermediary",
+    "Support"
+  ],
+  "telephone": [
+    "919384330536"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "No 19 Anna Nagar",
+      "1st street",
+      "Thanjavur",
+      "Tamil Nadu",
+      "613004"
+    ]
+  },
+  "briefDescription": "GRACE INTEGRATED DEVELOPMENT AND EDUCATIONAL TRUST is an organization,working for the betterment poor marginal people more specifically with women and children in Thanjavur district of Tamilnadu state. capacity building, livelihood generation , ecological development and human rights are the important priorities of the trust.",
+  "yearOfEstablishment": "2010",
+  "regiseredAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "Old No.4/ 1262, New No. 1539, Mangalam Nagar, Manojipatti Post",
+      "Thanjavur",
+      "Tamil Nadu",
+      "613004"
+    ]
+  }
+}

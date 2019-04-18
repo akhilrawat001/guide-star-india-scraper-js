@@ -1,0 +1,34 @@
+{
+  "contacts": [
+    {
+      "name": "Riju Sharma",
+      "email": "sharma.rij@gmail.com",
+      "designation": "Coordinator",
+      "mobile": []
+    },
+    {
+      "name": "Riju Sharma",
+      "email": "sharma.rij@gmail.com",
+      "designation": "Coordinator",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=966",
+  "name": "Snehalaya",
+  "primaryEmail": "snehalaya.ghy@gmail.com",
+  "website": "www.snehalaya-houseoflove.org",
+  "telephone": [
+    "919435198236"
+  ],
+  "mainAddrress": {
+    "state": "Assam",
+    "address": [
+      "Snehalaya Centre for Child Rights,Platan Bazar",
+      "K. B Road,Near Whole Sale Fish Market",
+      "Guwahati",
+      "Kamrup Metropolitan",
+      "Assam",
+      "781008"
+    ]
+  }
+}

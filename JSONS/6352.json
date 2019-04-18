@@ -1,0 +1,44 @@
+{
+  "contacts": [
+    {
+      "name": "SAMUDRALA BAPUJI",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6352",
+  "name": "DAANA EDUCATIONAL WELFARE SOCIETY",
+  "primaryEmail": "daanasociety@gmail.com",
+  "website": "www.daanasociety.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "91+7675912219"
+  ],
+  "mainAddrress": {
+    "state": "Telangana",
+    "address": [
+      "MIG-1, PLOT NO:508,",
+      "3 rd PHASE, KPHB COLONY",
+      "HYDERABAD",
+      "Hyderabad",
+      "Telangana",
+      "500085"
+    ]
+  },
+  "briefDescription": "Our society is a Non-Profitable Organization, established in 1999 at Ranga Reddy District, Hyderabad, Our motto is “Creation of Masters from Mass”.Continuing the Programmes • Education for Poor Peoples and their Children and also P.H. Students. • Conduct Health Camps, Eye Camps, Blood Donation Camps. • HIV & AIDS Control Awareness • Old age Welfare • Computer Training • Youth Welfare • Agriculture Development • Pure Drinking Water • Forestry & Greenery, Environment Awareness in Ranga Reddy, Medak, Nalgonda, Guntur, Prakasam Districts.",
+  "yearOfEstablishment": "1999",
+  "regiseredAddrress": {
+    "state": "Telangana",
+    "address": [
+      "MIG-1, PLOT NO:508",
+      "3 rd PHASE, KPHB COLONY",
+      "HYDERABAD",
+      "Hyderabad",
+      "Telangana",
+      "500085"
+    ]
+  }
+}

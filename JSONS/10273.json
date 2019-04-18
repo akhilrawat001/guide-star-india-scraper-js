@@ -1,0 +1,49 @@
+{
+  "contacts": [
+    {
+      "name": "Nityanand Channur",
+      "email": "nityanand@indiastemfoundation.org",
+      "designation": "Program Manager",
+      "mobile": []
+    },
+    {
+      "name": "Nityanand Channur",
+      "email": "nityanand@indiastemfoundation.org",
+      "designation": "Program Manager",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10273",
+  "name": "INDIA STEM FOUNDATION",
+  "primaryEmail": "nityanand@indiastemfoundation.org",
+  "website": "https://indiastemfoundation.org/",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919958590963"
+  ],
+  "mainAddrress": {
+    "state": "Haryana",
+    "address": [
+      "138/A Sector 37 Udyog Vihar 6",
+      "Gurugram",
+      "Haryana",
+      "122001"
+    ]
+  },
+  "briefDescription": "We specialize in devising & implementing projects that promote hands-on STEM learning, innovation & problem solving skills among students from an early age. Through our programs including global STEM & robotics competitions, we have been able to spark the creative problem solving mind-set in several thousands of students from primary, middle school, high school & intermediate level.",
+  "yearOfEstablishment": "2012",
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "73 LGF, World Trade Centre",
+      "Barakhamba Road, Connaught Place",
+      "New Delhi",
+      "Central Delhi",
+      "Delhi",
+      "110001"
+    ]
+  }
+}

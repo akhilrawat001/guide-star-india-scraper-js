@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "M.Pappu",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6171",
+  "name": "Children Club Of India",
+  "primaryEmail": "childrenclub2013@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919600304643"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "28/1",
+      "Narayanasamykovil street",
+      "Alwarkurichy",
+      "Tirunelveli",
+      "Tamil Nadu",
+      "627412"
+    ]
+  },
+  "briefDescription": "Children Club Of India is a registered organization from Tirunelveli, Tamil Nadu",
+  "yearOfEstablishment": "2013"
+}

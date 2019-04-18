@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Arshi Nandaniya",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6757",
+  "name": "S R Educational and Development Trust",
+  "primaryEmail": "sredtkolva@gmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Support"
+  ],
+  "telephone": [
+    "919033660990"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "Village: Kolva , taluka: JamKhambhaliya,",
+      "Dist: DevBhoomi Dwarka",
+      "JamKhambhaliya",
+      "Jamnagar",
+      "Gujarat",
+      "361305"
+    ]
+  },
+  "briefDescription": "By Building Capacity of Beneficiaries making them participants for Water Conservation and Education.",
+  "yearOfEstablishment": "2015"
+}

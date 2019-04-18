@@ -1,0 +1,45 @@
+{
+  "contacts": [
+    {
+      "name": "VEENA LAL",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6328",
+  "name": "KARM MARG CHARITABLE SOCIETY",
+  "primaryEmail": "info@karmmarg.org",
+  "website": "http://www.karmmarg.org",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919717323301"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "SHED NO. 4, KHASRA NO. 258,",
+      "SAIDULAJAB WESTERN MARG, NEAR SAKET METRO STATION",
+      "NEW DELHI",
+      "South Delhi",
+      "Delhi",
+      "110030"
+    ]
+  },
+  "briefDescription": "Karm Marg is an Indian non-governmental organization committed to the cause of supporting disadvantaged children and young adults. Set in the outskirts of New Delhi, Karm Marg runs a home, Karm Gaon, which provides a loving space for such children to live, study, work and play together in.Karm Marg, literally meaning the Path of Work & Action, started in February 1997. As the name suggests, the driving force behind Karm Marg’s functioning has been the desire to be self-sustaining. The desire to stand firmly on its own ground without regular dependence on external support. This extends not just to our internal functioning, but also the people we support as an organization.",
+  "yearOfEstablishment": "1997",
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "D 45, Gulmohar Park",
+      "SAIDULAJAB WESTERN MARG, NEAR SAKET METRO STATION",
+      "New Delhi",
+      "South Delhi",
+      "Delhi",
+      "110049"
+    ]
+  }
+}

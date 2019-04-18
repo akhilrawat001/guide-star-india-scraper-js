@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "V Kattabomman",
+      "email": "",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1178",
+  "name": "Swaraj Vidiyal Peoples Development Organisation, (PDO)",
+  "primaryEmail": "swarajvidiyal@yahoo.com",
+  "telephone": [
+    "914632251066",
+    "914632251066"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "No 24, Dippo Street",
+      "Post-Kalugumalai",
+      "Tuticorin",
+      "Thoothukudi",
+      "Tamil Nadu",
+      "628552"
+    ]
+  }
+}

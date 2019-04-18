@@ -1,0 +1,45 @@
+{
+  "contacts": [
+    {
+      "name": "Col Pankaj Goel",
+      "email": "pankaj@gslfoundation.org",
+      "designation": "CEO",
+      "mobile": [
+        "91-9869468942"
+      ]
+    },
+    {
+      "name": "Col Pankaj Goel",
+      "email": "pankaj@gslfoundation.org",
+      "designation": "CEO",
+      "mobile": [
+        "91-9869468942"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6027",
+  "name": "Grey Sim Learnings Foundation",
+  "primaryEmail": "pankaj@gslfoundation.org",
+  "website": "http://www.gslfoundation.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "912225181012",
+    "919869468942"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "A 303-304, Kailas Industrial Complex",
+      "Parksite, Vikhroli West",
+      "Mumbai",
+      "Maharashtra",
+      "400079"
+    ]
+  },
+  "briefDescription": "To help academic institutions, schools, corporate, government agencies, Municipal Organizations, NGOs and other agencies and service providers by providing them Contemporary Educational solutions that shall complement the existing curriculum through the philosophy of providing activity based learning experience in a fun filled environment, in an efficient and cost effective way, which will help the students understand and utilize their learning in practical situations. In addition also support various agencies with contemporary Skill Development Solutions thereby developing relevant skilled manpower and in turn supporting the youth of the country.",
+  "yearOfEstablishment": "2013"
+}

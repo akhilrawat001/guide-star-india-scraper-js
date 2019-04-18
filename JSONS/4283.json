@@ -1,0 +1,34 @@
+{
+  "contacts": [
+    {
+      "name": "Mr. Tejchand",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4283",
+  "name": "GLOBAL VISION",
+  "primaryEmail": "globalvisioncco@gmail.com",
+  "website": "www.globalvisionngo.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "912241840800",
+    "912241840800"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "29, 1st Floor, Cine Wonder Mall, Ghodbunder Road,  Thane (W) 400607, Maharashtra (India).",
+      "Cine wonder mall,thane west",
+      "thane",
+      "Thane",
+      "Maharashtra",
+      "400607"
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "contacts": [
+    {
+      "name": "Rupak kumar",
+      "email": "aaravshrivastwa@gmail.com",
+      "designation": "Tresurer",
+      "mobile": [
+        "91-9955957314"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3430",
+  "name": "Gramya Vikas Parishad Mangalpur",
+  "primaryEmail": "gramyavikasmangalpur@gmail.com",
+  "website": "www.gvpmangalpur.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network"
+  ],
+  "telephone": [
+    "919934692320",
+    "916254241109"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "VIl+po -mangalpur  ps- nautan Dist-west champaran  BIHAR  845459",
+      "Mangalpur, nautan",
+      "west  champaran",
+      "West Champaran",
+      "Bihar",
+      "845459"
+    ]
+  },
+  "briefDescription": "After observing various problems, we decided to setup a voluntary organization that will be advocate for the protection of human rights issues. We have undertaken man appreciable works in the areas of education, safe drinking water and sanitation, primary health care, environment etc. We always involve in local people in planning, design, implementation and evaluation. We always involve in local people, minorities, Dalit, Women should get the entitlements of Socio-economic, Political and cultural rights.The organization by the meetings of youths, landless, intellectuals, farmers, migrants for solving the problems of rural poor, farmers and landless persons.From the very inception we stressed on development of women and child in terms of",
+  "yearOfEstablishment": "1987",
+  "regiseredAddrress": {
+    "state": "Bihar",
+    "address": [
+      "Vill.+ Po.- Mangalpur",
+      "Via.- Jagdishpur",
+      "West Champaran,",
+      "West Champaran",
+      "Bihar",
+      "845459"
+    ]
+  }
+}

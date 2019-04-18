@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Rajendra Hiraman Khairnar",
+      "email": "mahilavikas0@gmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1754",
+  "name": "Mahila Vikas Samitee",
+  "primaryEmail": "mahilavikas0@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919420095561"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "AT/PO Ambedkar Nagar",
+      "Nampur,",
+      "Satana",
+      "Nashik",
+      "Maharashtra",
+      "423204"
+    ]
+  }
+}

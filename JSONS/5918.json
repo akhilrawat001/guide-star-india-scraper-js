@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Sujit Patwardhan",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "25512122"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5918",
+  "name": "Parisar Sanrakshan Sanwardhan Sanstha",
+  "primaryEmail": "sujit@parisar.org",
+  "website": "www.parisar.org",
+  "organisationType": [
+    "Advocacy & Campaigning"
+  ],
+  "telephone": [
+    "912025512122",
+    "912025512122"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Yamuna,",
+      "ICS Colony, Ganeshkhind Road,",
+      "Pune",
+      "Maharashtra",
+      "411007"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "contacts": [
+    {
+      "name": "Hiral Chavada",
+      "email": "ronak.chavada@yahoo.in",
+      "designation": "President",
+      "mobile": [
+        "91-9891921066"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1341",
+  "name": "Akhil Bhartiya Jan Kalyan Parisad",
+  "primaryEmail": "aijkp@yahoo.co.in",
+  "website": "www.abjkp.com",
+  "organisationType": [
+    "Direct Service",
+    "Grant-making",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919714336818"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "S-10",
+      "Shreeji Complex,Sec-13,Gandhinagar",
+      "Gandhinagar",
+      "Gujarat",
+      "382016"
+    ]
+  }
+}

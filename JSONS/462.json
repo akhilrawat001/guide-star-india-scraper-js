@@ -1,0 +1,34 @@
+{
+  "contacts": [
+    {
+      "name": "M Selvaraj",
+      "email": "selsens@yahoo.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=462",
+  "name": "Society of Emancipating Neo Social Education (SENSE)",
+  "primaryEmail": "selsens@yahoo.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919245139840"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "Main Road, Thriruppachetti",
+      "Sivagangai",
+      "Tamil Nadu",
+      "630610"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "Tamil Nadu"
+    ]
+  }
+}

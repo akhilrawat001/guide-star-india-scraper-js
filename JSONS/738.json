@@ -1,0 +1,31 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=738",
+  "name": "Vidhayak Sansad",
+  "primaryEmail": "vsusgaon@bom7.vsnl.net.in",
+  "website": "http://www.giveindia.org/GetOrganisationProfile.aspx?ngoid=1049",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "912502570016",
+    "912502570016",
+    "912502570016"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Usgaon Dongri, Po. Bhatane",
+      "Vasai",
+      "Thane",
+      "Maharashtra",
+      "401303"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Maharashtra"
+    ]
+  }
+}

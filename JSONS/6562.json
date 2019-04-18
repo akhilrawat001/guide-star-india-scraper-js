@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Bhanwarlal Choudhary",
+      "email": "lksbaitu@rediffmail.com",
+      "designation": "CEO",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6562",
+  "name": "LOK KALYAN SANSTHAN",
+  "primaryEmail": "lksbaitu@rediffmail.com",
+  "website": "www.lks.org.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network"
+  ],
+  "telephone": [
+    "912982241521"
+  ],
+  "mainAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "lok kalyan sansthan, near sinskrit school, bypass road, Baytu, Dist Barmer Rajasthan India 344034",
+      "Baytu, Barmer",
+      "Baytu, Barmer,",
+      "Barmer",
+      "Rajasthan",
+      "344034"
+    ]
+  }
+}

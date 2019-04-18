@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Mr.Debdas Basu",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7630",
+  "name": "SANKALPA PEOPLE'S DEVELOPMENT SOCIETY",
+  "primaryEmail": "sankalpapds@yahoo.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "913422551412",
+    "913422551412"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Jagari Building",
+      "Goods Shed Road, Tinkonia, PO. & Dist. Bardhaman",
+      "Bardhaman",
+      "West Bengal",
+      "713101"
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "contacts": [
+    {
+      "name": "Dr. Yogesh Kumar",
+      "email": "",
+      "designation": "Project Head",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10209",
+  "name": "MANAS INDIA FOUNDATION",
+  "primaryEmail": "info@manasindiafoundation.org",
+  "website": "www.manasindiafoundation.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service"
+  ],
+  "telephone": [
+    "918700030503"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "Plot No.14",
+      "Near Rama Banquet Hall",
+      "Noida",
+      "Gautam Buddha Nagar",
+      "Uttar Pradesh",
+      "201304"
+    ]
+  },
+  "briefDescription": "We are non-profit, voluntary, charitable organization registered under Indian trust act 1882, working since 2012 towards the welfare of poor & needy.We believe that through noble dedication and grass root efforts by our youngster can change the society and make the best country.It was established with an objective to open, found, establish, promote, set up, maintain, finance, support and run a primary health clinic, child welfare center, medical center and hospital and similar type of institution for providing maximum medical assistance to needy and poor at large.",
+  "yearOfEstablishment": "2012",
+  "regiseredAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "H.No. 15, Shahpur Goverdhanpur",
+      "Near Jaypee Hospital",
+      "Noida",
+      "Gautam Buddha Nagar",
+      "Uttar Pradesh",
+      "201304"
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Madhu Gupta",
+      "email": "streeshakti2010@gmail.com",
+      "designation": "Chairperson",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1752",
+  "name": "Stree Shakti Welfare Association",
+  "primaryEmail": "streeshakti2010@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "912232609843",
+    "912232609843"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "13A",
+      "Dhanlaxmi Chamber, Near Railway Station",
+      "Thane",
+      "Maharashtra",
+      "400601"
+    ]
+  }
+}

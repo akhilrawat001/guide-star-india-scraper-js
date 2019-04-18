@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Thomas carlo",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6643",
+  "name": "Chitrabani Society",
+  "primaryEmail": "cbcal@chitrabani.com",
+  "website": "http://www.chitrabani.com",
+  "organisationType": [
+    "Network"
+  ],
+  "telephone": [
+    "913322653108",
+    "913322653108"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "76 Rafi Ahmed Kidwai Road,",
+      "Kolkata",
+      "West Bengal",
+      "700016"
+    ]
+  }
+}

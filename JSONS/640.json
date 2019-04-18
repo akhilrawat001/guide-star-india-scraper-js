@@ -1,0 +1,39 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=640",
+  "name": "Shri Navchetan Andhajan Mandal",
+  "primaryEmail": "info@navchetan.org",
+  "website": "www.navchetan.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "912832240210",
+    "912832242989",
+    "912832242079"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "Shri Navchetan Andhjan Mandal  Opp. Kachchh diary",
+      "P.O. Box No. 12 Madhapar",
+      "Madhapar, Bhuj",
+      "Kachchh",
+      "Gujarat",
+      "370020"
+    ]
+  },
+  "briefDescription": "The institute is working since 1976 for people with disabled in the form of Education, Vocational Training, Medical Care and other Rehabilitation services for their empowerment.",
+  "yearOfEstablishment": "1976",
+  "regiseredAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "Shri Navchetan Andhjan Mandal, Opp, Kachchh diary,",
+      "P.O. Box No. 12 Madhapar",
+      "Madhapar, Bhuj",
+      "Kachchh",
+      "Gujarat",
+      "370020"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8299",
+  "name": "Shivam Gramodyog Evam Samaj Sewa Sansthan",
+  "primaryEmail": "sgasss@rediffmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919839035804",
+    "915281253085"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "Vill+post-Aratara",
+      "Mohalla-Meru, Tehsil-Maudaha",
+      "Hamirpur",
+      "Uttar Pradesh",
+      "210507"
+    ]
+  }
+}

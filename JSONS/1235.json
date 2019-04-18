@@ -1,0 +1,28 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1235",
+  "name": "Child Care Society",
+  "primaryEmail": "childcarechapra@gmail.com",
+  "website": "www.childcare2004.webnode.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "916152261878",
+    "916152261878"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "Station Road,",
+      "Bhagwan Bazar",
+      "Chapra",
+      "Saran",
+      "Bihar",
+      "841301"
+    ]
+  }
+}

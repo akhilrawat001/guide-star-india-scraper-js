@@ -1,0 +1,47 @@
+{
+  "contacts": [
+    {
+      "name": "Akanksha",
+      "email": "gogismart@gmail.com",
+      "designation": "secretary",
+      "mobile": [
+        "91-11-25082655"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1772",
+  "name": "Comcare International",
+  "primaryEmail": "comcare.98@gmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network"
+  ],
+  "telephone": [
+    "911125082655",
+    "911125082655",
+    "919899141222"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "B-182",
+      "Nanakpura,",
+      "Moti Baugh",
+      "New Delhi",
+      "Delhi",
+      "110075"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "1042, Joy Appartment",
+      "plot 2, sector 2 2, Dwarka,",
+      "South West Delhi",
+      "New Delhi",
+      "Delhi",
+      "110075"
+    ]
+  }
+}

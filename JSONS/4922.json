@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "sarabjeet singh narang",
+      "email": "dishawelfaresamiti@yahoo.in",
+      "designation": "vice president",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4922",
+  "name": "DISHA WELFARE ASSOCIATION SAMITI",
+  "primaryEmail": "dishawelfaresamiti@yahoo.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918878796720"
+  ],
+  "mainAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "gandhi chowk",
+      "manegoan,ranjhi,jabalpur",
+      "Jabalpur",
+      "Madhya Pradesh",
+      "482005"
+    ]
+  }
+}

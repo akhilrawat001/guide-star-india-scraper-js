@@ -1,0 +1,28 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1819",
+  "name": "Chittaranjan Welfare and Research Centre",
+  "primaryEmail": "cwrc2k2@gmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "913324532859",
+    "919830109263"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "150/5",
+      "Diamond Harbour Road, Nathpara, Behind Thakupukur Police Station.",
+      "Thakurpukur",
+      "Kolkata",
+      "West Bengal",
+      "700063"
+    ]
+  }
+}

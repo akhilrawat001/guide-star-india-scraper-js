@@ -1,0 +1,48 @@
+{
+  "contacts": [
+    {
+      "name": "Maria S Santamaria",
+      "email": "diyafoundation@gmail.com",
+      "designation": "CEO and Founder",
+      "mobile": [
+        "91-80-25430040",
+        "91-9880052833"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=353",
+  "name": "Diya Foundation",
+  "primaryEmail": "diyafoundation@gmail.com",
+  "website": "http://www.diyafoundation-india.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918025430040",
+    "918042108066",
+    "919880052833"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "#112/147, Chikkatayappa Reddy Layout",
+      "Chelkere, Kalyan Nagar",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560043"
+    ]
+  },
+  "briefDescription": "Diya Foundation (DIYA) is a Vocational Training Center cum Sheltered Workshop in Bangalore providing training and employment to differently abled individuals. Founded in 1999, DIYA is a registered charitable Trust. The idea for the center grew out of a growing need for vocational training once basic schooling is completed. At Diya training is provided in Daily Living Skills, Personal-Social skills, Communication Skills, Work skills and Occupational Guidance and Preparation.The need of the hour is to tap the potential of a workforce that has so far been greatly ignored. The focus at Diya is on Vocational Education and Livelihood training for the differently abled.In the last 16 years Diya has impacted about 150 adults every year with intellectual challenges and touched and made life altering changes in over 450 lives. The work skills training imparted is put to use in the Sheltered Workshop where “hands on” training is given in completing orders for Diya’s product line from individuals and corporates. Every trainee receives an allowance for a job well done. Diya’s aim and goal is to empower differently abled individuals to work, earn and live a life of respect and love.Individuals with an intellectual challenge have had life altering changes in their self esteem, self dependence and productivity through systematic and consistent training in the Diya training program. They have learnt personal grooming skills, household management, work skills, communication skills and and are in the process of looking at occupational guidance and employment.",
+  "yearOfEstablishment": "1999",
+  "regiseredAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "19/1, Gospel Street",
+      "St Thomas Town",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560084"
+    ]
+  }
+}

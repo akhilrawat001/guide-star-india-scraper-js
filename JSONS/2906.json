@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "N D Kamat",
+      "email": "",
+      "designation": "Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2906",
+  "name": "Deshpande Rural Development and Self Employment Training Institute",
+  "primaryEmail": "vrdmtrust@gmail.com",
+  "telephone": [
+    "918284220807",
+    "918284220807"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "Deshpande Rudseti ®",
+      "Udyog Vidyanagar, Dandeli Road",
+      "Haliyal",
+      "Uttara Kannada",
+      "Karnataka",
+      "581329"
+    ]
+  }
+}

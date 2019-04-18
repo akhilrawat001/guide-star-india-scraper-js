@@ -1,0 +1,22 @@
+{
+  "contacts": [
+    {
+      "name": "Shadab Ahmad",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8373",
+  "name": "HELPING INDIA TRUST",
+  "primaryEmail": "enquiry@helpingindiatrust.org",
+  "website": "http://helpingindiatrust.org/index.php",
+  "organisationType": [
+    "Support"
+  ],
+  "mainAddrress": {
+    "address": []
+  },
+  "briefDescription": "Helping India Trust is a non-profitable organization, established to work in the field of child poverty and under privileged children for a considerable change in the country.The main objective of Helping India Trust is to facilitate better quality of life in all its realm through community mobilization,participatory governance based on sustainable natural resource management.",
+  "yearOfEstablishment": "2016"
+}

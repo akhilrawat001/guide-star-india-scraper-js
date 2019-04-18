@@ -1,0 +1,41 @@
+{
+  "contacts": [
+    {
+      "name": "SHIVDAS JAGANNATH PALWE",
+      "email": "ybsmyeli@rediffmail.com",
+      "designation": "SECRETARY",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5308",
+  "name": "YELESHWAR BAHU UDDESHIYA SHIKSHAN MANDAL YELI",
+  "primaryEmail": "ybsmyeli@rediffmail.com",
+  "website": "ybsmyeli@rediffmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919921759445"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "at po-yeli, tal-pathardi, dist-ahmednagar",
+      "pathardi",
+      "Ahmednagar",
+      "Maharashtra",
+      "414102"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "AT PO- YELI  TA-PATHARDI",
+      "AT PO- YELI TAL-PATHARDI",
+      "MAHARASHTRA",
+      "Ahmednagar",
+      "Maharashtra",
+      "414102"
+    ]
+  }
+}

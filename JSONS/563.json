@@ -1,0 +1,47 @@
+{
+  "contacts": [
+    {
+      "name": "Prisca Ferrao",
+      "email": "prisca.ferrao@humantouch.org.in",
+      "designation": "Secretary",
+      "mobile": [
+        "91-9923700342"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=563",
+  "name": "Human Touch India",
+  "primaryEmail": "info@humantouch.org.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919923700342"
+  ],
+  "mainAddrress": {
+    "state": "Goa",
+    "address": [
+      "C/o St. Anthony Boy's Home, Dugrem",
+      "Agassaim, Goa,",
+      "North Goa",
+      "Goa",
+      "403204"
+    ]
+  },
+  "briefDescription": "Human Touch India (HTI) is a registered youth-led (25-30 yrs), non-profit organization headquartered in Goa. HTI guides youth to become responsible, self-sufficient and participatory citizens through projects that augment health, education, human rights and livelihoods. 1.\tYouth CARE: aim to integrate prevention, treatment and care and support with the involvement of young people who are living and affected by HIV. 2.\tYouth LIFE: aims to empower young people—especially girls to be actively involved in the development of their communities with special focus on sexual and reproductive health and HIV prevention. 3.\tYouth CREATE: An initiative to 30 engage young people to create digital projects relevant to youth issues like mental health, SRH, HIV and AIDS, substance abuse, environment, climate change, etc.4.\tYouth SUPPORT: Providing care and support to children living with/affected by HIV/AIDS. This include nutritional, educational, recreational, medical, economic and psychosocial support. 5.\tYouth RIGHTS: An initiative to promote human rights education among young people in school and college setting.6.\tYouth ARISE: An effort to provide IT education to underprivileged youth. This project is in pipeline.7. Prevention of Substance Abuse in Goa: HT has been spearheading the program after being concerned about the increasing prevalence of drug abuse among Goan teenagers. The trend has been quite worrisome and has hit the middle-class and we are seeing a sharp increase in cases of school students, some as young as 13 and 14 years, hooked to recreational drugs. HT has been conducting sessions in schools as well as providing counseling services to students in substance abuse.",
+  "yearOfEstablishment": "2009",
+  "regiseredAddrress": {
+    "state": "Goa",
+    "address": [
+      "H. No. 77/3, A 5-S 2, Queeny Realty,",
+      "Queeny Nagar,Pale,",
+      "Velsao",
+      "South Goa",
+      "Goa",
+      "403712"
+    ]
+  }
+}

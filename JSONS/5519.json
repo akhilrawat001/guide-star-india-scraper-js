@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Shashikant Damu Patole",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5519",
+  "name": "Deeksha Foundation",
+  "primaryEmail": "deekshafoundation04@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919423494018"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "At Post Malpur, Tal. Shindkheda, Dist. Dhule. Pin 425408",
+      "Malpur",
+      "Dhule",
+      "Maharashtra",
+      "425408"
+    ]
+  }
+}

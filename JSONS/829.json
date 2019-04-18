@@ -1,0 +1,49 @@
+{
+  "contacts": [
+    {
+      "name": "Ujjwala Mhatre",
+      "email": "cm.popfirst@gmail.com",
+      "designation": "Communication Manager",
+      "mobile": []
+    },
+    {
+      "name": "Ujjwala Mhatre",
+      "email": "cm.popfirst@gmail.com",
+      "designation": "Communication Manager",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=829",
+  "name": "Population First",
+  "primaryEmail": "info@populationfirst.org",
+  "website": "www.populationfirst.org, www.laadli.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Support"
+  ],
+  "telephone": [
+    "919167902776"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "RATAN MANZIL,GROUND FLOOR,",
+      "64,WODEHOUSE ROAD,COLABA",
+      "Mumbai",
+      "Maharashtra",
+      "400005"
+    ]
+  },
+  "briefDescription": "Established in March 2002,Population First,registered under the Bombay Public Trust Act,1950, is an advocacy initiative that places the population issues within framework of gender equality.We work towards promoting quality health,women empowerment through livelihood, social development in tribal and rural areas,changing mindsets that lead to gender discrimination,gender violence and injustice,sensitize youth to gender and social development issues.",
+  "yearOfEstablishment": "2002",
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Shetty House, 3rd Floor",
+      "101, M.G. Road",
+      "Mumbai",
+      "Maharashtra",
+      "400001"
+    ]
+  }
+}

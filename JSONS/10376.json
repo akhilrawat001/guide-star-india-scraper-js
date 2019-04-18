@@ -1,0 +1,37 @@
+{
+  "contacts": [
+    {
+      "name": "Srivathsan Ramaswamy",
+      "email": "srivathsan@madhifoundation.org",
+      "designation": "Manager, SCERT Engagement",
+      "mobile": []
+    },
+    {
+      "name": "Srivathsan Ramaswamy",
+      "email": "srivathsan@madhifoundation.org",
+      "designation": "Manager, SCERT Engagement",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10376",
+  "name": "Madhi Foundation",
+  "primaryEmail": "info@madhifoundation.org",
+  "website": "http://madhifoundation.org/",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919176518317"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "1B, 27, A.R.K. Colony,  Eldams Road, Alwarpet",
+      "Chennai",
+      "Tamil Nadu",
+      "600018"
+    ]
+  },
+  "briefDescription": "Madhi Foundation was established as a non-profit organisation working in the education sector, committed to the cause of bridging the equity gap in education for children across India. Madhi believes that an excellent education ought to equip children with the ability to think deeply and rationally, to ask questions and remain curious about the world around them, and emerge as creators and innovators of ideas, solutions and life paths of their choice. Currently, Madhi works with the Tamil Nadu government to design and implement large-scale system capacity building programmes like teacher education, designing curriculum for government schools and improving monitoring mechanisms for school leaders.",
+  "yearOfEstablishment": "2016"
+}

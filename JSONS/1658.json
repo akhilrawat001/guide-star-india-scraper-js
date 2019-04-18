@@ -1,0 +1,33 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1658",
+  "name": "Rajyoga Education& Research Foundation",
+  "primaryEmail": "orcfinance@gmail.com",
+  "website": "www.omshantireatreat.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "9109650692007,",
+    "919650692015"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "Rajyoga Education & Research Foundation",
+      "25,New Rohtak Road Pandav Bhawan ,Karol Bagh",
+      "New Delhi",
+      "Delhi",
+      "110005"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "Rajyoga Education & Research Foundation",
+      "25,New Rohtak Road Pandav Bhawan ,Karol Bagh",
+      "New Delhi",
+      "Delhi"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "contacts": [
+    {
+      "name": "Krishna Dave Padia",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "9920333228"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6028",
+  "name": "Greenchemistree Foundation",
+  "primaryEmail": "krishna.padia@industrialgreenchem.com",
+  "website": "www.GreenchemisTree.co.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919920333228"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "405, Mastermind IV, Royal Palms, Aarey Colony, Goregaon East",
+      "Near Mayur Nagar Bus Stop",
+      "Mumbai",
+      "Maharashtra",
+      "400065"
+    ]
+  },
+  "briefDescription": "GCF expands awareness and technical knowhow of 'Green Chemistry' amongst diverse chemical communities to reduce effluent generation at source thereby minimize chemical industry’s E-factor (Kgs of Waste generated in manufacturing per Kg of final product).  Reached out 1200+ chemical Industry personnel for proactively engaging them into Green Chemistry deliberations. 100+ Indian Chemical Companies are now actively involved in adopting Green Chemistry based technologies to their conventional chemical manufacturing practices. Pollution Control Boards, Ministry of Environment & Forests, Ministry of Chemicals & Fertilizers; Dept of Science & Technology, Council of Scientific Industrial Research Laboratories are regularly integrated in the deliberation.",
+  "yearOfEstablishment": "2009"
+}

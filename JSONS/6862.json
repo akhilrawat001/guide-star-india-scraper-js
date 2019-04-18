@@ -1,0 +1,44 @@
+{
+  "contacts": [
+    {
+      "name": "Farida Khan",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "9480052867"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6862",
+  "name": "AFFU'S WOMAN WELFARE ASSOCIATION",
+  "primaryEmail": "awwa2k@gmail.com",
+  "website": "www.awwa-india.org",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "+919480052867"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "50,Vinuthna colony,Gadag Road, Hubli karnataka india",
+      "hubli",
+      "Dharwad",
+      "Karnataka",
+      "580020"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "50,Vinuthna colony,Gadag Road, Hubli karnataka india",
+      "Rahmatnagar",
+      "hubli",
+      "Dharwad",
+      "Karnataka",
+      "580020"
+    ]
+  }
+}

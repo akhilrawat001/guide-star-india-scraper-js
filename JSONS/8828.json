@@ -1,0 +1,36 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8828",
+  "name": "Masina Hospital",
+  "primaryEmail": "admin@masinahospital.com",
+  "website": "www.masinahospital.com",
+  "organisationType": [
+    "Intermediary"
+  ],
+  "telephone": [
+    "912261841286",
+    "912261841286"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Sant Savta Marg,",
+      "Byculla East",
+      "Mumbai",
+      "Maharashtra",
+      "400027"
+    ]
+  },
+  "briefDescription": "Our Hospital is 300 bedded, providing multi specialty services to people since 1902. It is trust organisation. Provide health care facilities to indigent & weaker sections as well.",
+  "yearOfEstablishment": "1902",
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Sant Savta Marg",
+      "Byculla (East)",
+      "Mumbai",
+      "Maharashtra",
+      "400027"
+    ]
+  }
+}

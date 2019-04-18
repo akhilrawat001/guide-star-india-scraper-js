@@ -1,0 +1,46 @@
+{
+  "contacts": [
+    {
+      "name": "Mayank Jain",
+      "email": "mayank@microxfoundation.com",
+      "designation": "CEO",
+      "mobile": [
+        "91-9968300951"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9003",
+  "name": "MICROX FOUNDATION",
+  "primaryEmail": "info@microxfoundation.com",
+  "website": "www.microxfoundation.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919968300951"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "House No.-703, Road number-2C, New Colony Chhotki",
+      "Delha",
+      "Gaya",
+      "Bihar",
+      "823002"
+    ]
+  },
+  "briefDescription": "MicroX Foundation is a for purpose initiative to accelerate the access of universal healthcare, sanitation and agricultural resources to needy people.Till now we have served more than 1000 farmers, 250+ youths and 40 TB patients.",
+  "yearOfEstablishment": "2013",
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "F-28, Dwarkapri",
+      "Naveen Shahdara",
+      "Shahdara",
+      "East Delhi",
+      "Delhi",
+      "110032"
+    ]
+  }
+}

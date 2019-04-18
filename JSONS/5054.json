@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "KHUSHI RAM DABRAL",
+      "email": "khushiramdabral@gmail.com",
+      "designation": "SECRETARY",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5054",
+  "name": "GARH GAURAV YUVA UTTHAAN SANSTHA",
+  "primaryEmail": "khushiramdabral@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "0941211059"
+  ],
+  "mainAddrress": {
+    "state": "Uttarakhand",
+    "address": [
+      "NIGAM ROAD, EKTA VIHAR",
+      "HARIPUR",
+      "SELAKUI",
+      "Dehradun",
+      "Uttarakhand",
+      "248011"
+    ]
+  }
+}

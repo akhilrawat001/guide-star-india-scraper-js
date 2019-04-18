@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Pradeep Kumar",
+      "email": "pradeepkumar.tomar@apollotyres.com",
+      "designation": "Head-MIS & Systems",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4326",
+  "name": "APOLLO TYRES FOUNDATION",
+  "primaryEmail": "pradeepkumar.tomar@apollotyres.com",
+  "website": "www.apollotyres.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "911142860301",
+    "918800588820"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "CW-235, First Floor",
+      "Sanjay Gandhi Transport Nagar",
+      "Delhi",
+      "North Delhi",
+      "110042"
+    ]
+  }
+}

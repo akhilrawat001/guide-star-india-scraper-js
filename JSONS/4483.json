@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Rajesh M. Chopade",
+      "email": "savitri01ngo@rediffmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4483",
+  "name": "Savitribai Fule Bahujan Hitay Magaswargia Sanstha",
+  "primaryEmail": "savitri01ngo@rediffmail.co",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919689772995"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Prayanka Nagar Chousala road Plot No.1 Waghapur Yavatmal",
+      "Chousala Road,Waghapur",
+      "Yavatmal.",
+      "Yavatmal",
+      "Maharashtra",
+      "445001"
+    ]
+  }
+}

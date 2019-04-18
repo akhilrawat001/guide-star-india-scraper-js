@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Dr.Suparna Sanyal Mukherjee",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8101",
+  "name": "Howrah Suparna",
+  "primaryEmail": "howrahsuparna@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919339848130"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "22/11, Chowdhury Para 1st by lane, Ramrajatala,Santragachi.",
+      "Opposite to Daser Palli Club",
+      "Howrah",
+      "West Bengal",
+      "711104"
+    ]
+  }
+}

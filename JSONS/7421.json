@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "R. B. SOLANKI",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "9825820853"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7421",
+  "name": "SAHYOG GRAMYA MAHILA NAVNIRMAN SANGH",
+  "primaryEmail": "sahyoggramya@gmail.com",
+  "website": "www.mahilasahyog.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919825820853"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "ALKA CHAMBERS, 2ND FLOOR, DHEBAR ROAD",
+      "BHUTKHANA CHOWK",
+      "RAJKOT",
+      "Rajkot",
+      "Gujarat",
+      "360001"
+    ]
+  }
+}

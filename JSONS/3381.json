@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Vinay Shetty",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3381",
+  "name": "Think Foundation",
+  "primaryEmail": "vinay@thinkfoundation.org",
+  "website": "http://www.thinkfoundation.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service"
+  ],
+  "telephone": [
+    "912265181341",
+    "912265181341"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "A-101, Valmiki Apartments, Sunder Nagar,",
+      "Kalina, Santacruz (East),",
+      "Mumbai",
+      "Mumbai Suburban",
+      "Maharashtra",
+      "400098"
+    ]
+  }
+}

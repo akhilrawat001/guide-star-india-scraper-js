@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Sunita Arora",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2795",
+  "name": "Shiksha Sewa Sadan",
+  "primaryEmail": "educationismust2012@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919999590331"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "Ca- 14 D",
+      "Shalimar Bagh",
+      "Delhi",
+      "North Delhi",
+      "110088"
+    ]
+  }
+}

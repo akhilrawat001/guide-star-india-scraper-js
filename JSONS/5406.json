@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "A.K. SINGH",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "9934352294"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5406",
+  "name": "JEEVAN",
+  "primaryEmail": "jeevan_ak@yahoo.co.in",
+  "website": "www.jeevan.jhar.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919934352294"
+  ],
+  "mainAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "Bastacolla, Dhansar, Dhanbad",
+      "Dhanbad",
+      "Jharkhand",
+      "828106"
+    ]
+  }
+}

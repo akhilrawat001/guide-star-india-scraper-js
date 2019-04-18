@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Hemalata Laxmi Kulkarni",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4806",
+  "name": "ISHAAN HOPE FOUNDATION FOR EDUCATION AND TRAINING",
+  "primaryEmail": "ishaanhope@gmail.com",
+  "website": "http://www.ishaanhope.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919820288682"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "101, Dheeraj savera Tower,",
+      "Magathane Village, Borivali (E)",
+      "Mumbai",
+      "Maharashtra",
+      "400066"
+    ]
+  }
+}

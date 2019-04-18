@@ -1,0 +1,28 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3286",
+  "name": "Farmers Economic And Educational Development Society (FEEDS)",
+  "primaryEmail": "feedsindia@rediffmail.com",
+  "website": "www.feeds.org.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Intermediary",
+    "Support"
+  ],
+  "telephone": [
+    "912422268370",
+    "919850504090"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Ashirwad",
+      "Sangamner Shrirampur Road",
+      "Mamdapur Taluka Rahata",
+      "Ahmednagar",
+      "Maharashtra",
+      "413737"
+    ]
+  }
+}

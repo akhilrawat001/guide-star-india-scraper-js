@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "name": "Nagaraja G E",
+      "email": "sarvards@yahoo.in",
+      "designation": "Executive Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6659",
+  "name": "SARVA RURAL DEVELOPMENT SOCIETY(R)",
+  "primaryEmail": "sarvards@yahoo.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919731527721"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "Gulihatty, Oppsite banashankari Temple, Kote,",
+      "Hosadurga",
+      "Chitradurga",
+      "Karnataka",
+      "577527"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "Gulihatty, Opposite banashankari Temple, Doddagatta post, Kote,",
+      "Hosadurga",
+      "Chitradurga",
+      "Karnataka",
+      "577527"
+    ]
+  }
+}

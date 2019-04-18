@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "GANGA PRASAD YADAV",
+      "email": "pjs_durgauli@hotmail.com",
+      "designation": "CHIEF FUNCTIONARY",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6868",
+  "name": "PUJA JANHIT SANSTHAN DURGAULI",
+  "primaryEmail": "pjs_durgauli@hotmail.com",
+  "website": "pujajanhitsansthandurgauli.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service"
+  ],
+  "telephone": [
+    "919430856225"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "vill-durgauli,post-manpaur,benipatti,madhubani(bihar)",
+      "durgauli",
+      "Madhubani",
+      "Bihar",
+      "847230"
+    ]
+  }
+}

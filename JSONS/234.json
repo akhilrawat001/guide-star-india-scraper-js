@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Suresh Kumar",
+      "email": "",
+      "designation": "Manager - Taxation",
+      "mobile": []
+    },
+    {
+      "name": "Suresh Kumar",
+      "email": "",
+      "designation": "Manager - Taxation",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=234",
+  "name": "Chinnikrishnan Memorial Trust",
+  "primaryEmail": "sureshkumar@cavinkare.com",
+  "telephone": [
+    "914424317707",
+    "914424317707"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "No. 12, Cenatoph Road",
+      "Teynampet",
+      "Chennai",
+      "Tamil Nadu",
+      "600018"
+    ]
+  }
+}

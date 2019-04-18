@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "KRISHAN CHAND",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6552",
+  "name": "RACHERI JANTA VIKAS GRAM UDYOG SAMITI",
+  "primaryEmail": "racherijantavikas@rediffmail.com",
+  "website": "www.rjvgus.org",
+  "organisationType": [
+    "Direct Service",
+    "Intermediary"
+  ],
+  "telephone": [
+    "919255981943"
+  ],
+  "mainAddrress": {
+    "state": "Haryana",
+    "address": [
+      "H N 391 GANESH VIHAR COLONEY DOSARKA P O DHEEN DISTT AMBALA",
+      "BEHIND INDIAN OIL PETROL PUMP",
+      "DOSARKA",
+      "Ambala",
+      "Haryana",
+      "133202"
+    ]
+  }
+}

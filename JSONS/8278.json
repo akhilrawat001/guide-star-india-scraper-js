@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Deepak Soni",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8278",
+  "name": "Shri Shiksha Prasar Evam Jan Kalyan Samiti",
+  "primaryEmail": "sspjgroup4@gmail.com",
+  "website": "www.sspjngo.org",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "917521270277",
+    "917521270277"
+  ],
+  "mainAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "26, bajariya Mohalla Seondha, Datia Madhya Pradesh",
+      "S. No.5 Kuchiya Market Sadar Bazar seondha, Datia",
+      "Seondha",
+      "Datia",
+      "Madhya Pradesh",
+      "475682"
+    ]
+  }
+}

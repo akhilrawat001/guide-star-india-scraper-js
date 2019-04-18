@@ -1,0 +1,35 @@
+{
+  "contacts": [
+    {
+      "name": "Mohanarajasekaran",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9079",
+  "name": "EEGA TRUST",
+  "primaryEmail": "eegatrust@gmail.com",
+  "website": "eegatrust@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919443553364",
+    "919486528577"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "19, Nallathanneer Kulam Street",
+      "Thopputhurai",
+      "Vedaranyam",
+      "Nagapattinam",
+      "Tamil Nadu",
+      "614809"
+    ]
+  },
+  "briefDescription": "EEGA Trust was established in 2016 Dec.29 at Thopputhuari, Nagapattinam District in Tamil Nadu state. We are plant work all districts of Tamilnadu.Vision:Establishment of Egalitarian society for universal brother hoodMissionEndevours in educational and social interventions for achievement of egalitarian society.and our major concepts is women and child development and natural resources development",
+  "yearOfEstablishment": "2016"
+}

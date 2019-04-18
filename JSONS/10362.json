@@ -1,0 +1,33 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10362",
+  "name": "HOME OF LOVE CHARITABLE TRUST",
+  "primaryEmail": "homeoflovecharitabletrust@gmail.com",
+  "website": "www.homeoflovecharitabletrustalamathy.org",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "+919940096701"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "2/121 \"A\" Colony",
+      "Nehru Street, Alamathy, Red Hills,",
+      "Chennai",
+      "Tiruvallur",
+      "Tamil Nadu",
+      "600052"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "18 Secretariat Colony, Kilpauk",
+      "Chennai",
+      "Tamil Nadu",
+      "600010"
+    ]
+  }
+}

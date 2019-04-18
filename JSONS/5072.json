@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "Samrat Ghatak",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "65227193",
+        "9339615797"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5072",
+  "name": "JAMALPUR PANCHYAJANYA GRAM VIKASH SAMITY",
+  "primaryEmail": "jpgvs.d@gmail.com",
+  "website": "http://www.panchyajanya.ml",
+  "organisationType": [
+    "Direct Service",
+    "Intermediary"
+  ],
+  "telephone": [
+    "913365227193",
+    "913365227193"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "190",
+      "Palashpur",
+      "Tribeni",
+      "Hooghly",
+      "West Bengal",
+      "712503"
+    ]
+  }
+}

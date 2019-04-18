@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "A.Madhu Babu",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7118",
+  "name": "SANGEETA RAO EDUCATIONAL SOCIETY",
+  "primaryEmail": "ses5994@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919885135115"
+  ],
+  "mainAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "D.No.38/107,",
+      "Minchin Bazar",
+      "Kurnool",
+      "Andhra Pradesh",
+      "518001"
+    ]
+  }
+}

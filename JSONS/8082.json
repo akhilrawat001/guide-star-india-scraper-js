@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "P.Muthu",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8082",
+  "name": "SKY FOUNDATION",
+  "primaryEmail": "skyfoundation7@gmail.com",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "+919894320751"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "No, 16, Kolambakkam Village, Palayanur Post, ,",
+      "Madurantharakam Taluck,",
+      "Koalmbakkam",
+      "Kancheepuram",
+      "Tamil Nadu",
+      "603308"
+    ]
+  }
+}

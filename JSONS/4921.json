@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Lakshmi R.",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4921",
+  "name": "Sanjeevani...Life Beyond Cancer",
+  "primaryEmail": "admn@sanjeevani-lifebeyondcancer.com",
+  "website": "www.sanjeevani-lifebeyondcancer.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918691000800"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "306, Gold Mohur 3rd floor",
+      "173, Princess Street,",
+      "Mumbai",
+      "Maharashtra",
+      "400002"
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "J N T Ramani",
+      "email": "jntramani@gmail.com",
+      "designation": "Executive Member",
+      "mobile": [
+        "917552538785",
+        "91-9425625271"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3305",
+  "name": "Prerna Sewa Trust",
+  "primaryEmail": "prernatrust01@gmail.com",
+  "website": "http://www.prernasewatrust.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "917552549202",
+    "917552549202"
+  ],
+  "mainAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "Rain Basera Building,",
+      "Hamidia Hospital Campus,",
+      "Bhopal",
+      "Madhya Pradesh",
+      "462001"
+    ]
+  },
+  "briefDescription": "Main activities of the Trust are Distribution of Medicines, Getting Investigations done, Blood Donation, Distribution of Food, Milk, Clothes and Blankets, maintenance of Rain Basera (Night Shelter) for the patients and the attendants of the patients. The organisation ha served approx. more than 10 lakh people since 2007.",
+  "yearOfEstablishment": "2001"
+}

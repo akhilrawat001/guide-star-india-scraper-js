@@ -1,0 +1,49 @@
+{
+  "contacts": [
+    {
+      "name": "Naveen",
+      "email": "naveenbct19@gmail.com",
+      "designation": "Asst Program officer",
+      "mobile": [
+        "91-80-26608560"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1409",
+  "name": "Bhoruka Charitable Trust",
+  "primaryEmail": "bhorukacharitabletrust@gmail.com",
+  "website": "www.bctngo.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "918026608560",
+    "918026608428",
+    "919738473543"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "39/1 Chandrashekar Nivasa",
+      "2nd floor,Sannidhi Road,Basavanagudi",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560004"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "12/B,Transport House,",
+      "Poona Street",
+      "Mumbai",
+      "Maharashtra",
+      "400009"
+    ]
+  }
+}

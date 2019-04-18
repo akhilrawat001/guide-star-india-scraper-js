@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Kiran Mazumdar Shaw",
+      "email": "rani.desai@biocon.com",
+      "designation": "Chairman",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3315",
+  "name": "BIOCON FOUNDATION",
+  "primaryEmail": "rani.desai@biocon.com",
+  "website": "http://www.bioconfoundation.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918028082175",
+    "918028082175"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "Biocon Foundation, 20th KM Hosur Road,",
+      "Electronic City",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560100"
+    ]
+  }
+}

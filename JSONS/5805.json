@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "RAJNEESH MISHRA",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5805",
+  "name": "ADARSH ARUNA VIDYA MANDIR SAMITI",
+  "primaryEmail": "aavms@rediffmail.com",
+  "website": "NO",
+  "organisationType": [
+    "Direct Service",
+    "Network"
+  ],
+  "telephone": [
+    "913258542760",
+    "913258542760"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "VILLAGE AND POST KOTHAWAN DISTRICT HARDOI STATE UP PIN CODE 241304",
+      "GANGA VIHAR COLONY CHINHAT LUCKNOW",
+      "KOTHAWAN",
+      "Hardoi",
+      "Uttar Pradesh",
+      "241304"
+    ]
+  }
+}

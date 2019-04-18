@@ -1,0 +1,34 @@
+{
+  "contacts": [
+    {
+      "name": "Sivaji Sonvane",
+      "email": "",
+      "designation": "Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7939",
+  "name": "TULJABHAVANI BAHUUDDESHIYA SHIKSHAN PRASARAK MANDAL",
+  "primaryEmail": "tbspm@rediffmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "43153",
+    "9028771010"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "At Gadhe",
+      "Pimpalgaon Tq Parli Vaijnath",
+      "Parli V.",
+      "Beed",
+      "Maharashtra",
+      "431530"
+    ]
+  },
+  "briefDescription": "Tuljabhavani Bahuuddeshiya Shikshan Prasarak Mandal is Located in Beed, Maharashtra.",
+  "yearOfEstablishment": "1995"
+}

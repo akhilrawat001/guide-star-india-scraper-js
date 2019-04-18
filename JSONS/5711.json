@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Mr. Kamal Kanti Banik",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5711",
+  "name": "Dishari",
+  "primaryEmail": "dishari21@yahoo.co.in",
+  "website": "www.dishari.org",
+  "organisationType": [
+    "Direct Service",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919436767308"
+  ],
+  "mainAddrress": {
+    "state": "Tripura",
+    "address": [
+      "Ek No. Tila",
+      "Belonia",
+      "South Tripura",
+      "Tripura",
+      "799155"
+    ]
+  }
+}

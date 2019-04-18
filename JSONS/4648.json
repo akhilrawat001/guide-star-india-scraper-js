@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "MANJEET SINGH GAREWAL",
+      "email": "ssbvsschittor@yahoo.com",
+      "designation": "SECRETARY",
+      "mobile": []
+    },
+    {
+      "name": "MANJEET SINGH GAREWAL",
+      "email": "ssbvsschittor@yahoo.com",
+      "designation": "SECRETARY",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4648",
+  "name": "Shri Sanwaliya Bahuudeshiya Viklang Sewa Sansthan",
+  "primaryEmail": "ssbvsschittor@yahoo.com",
+  "website": "www.ahasaas.blogspot.com",
+  "telephone": [
+    "911472242159",
+    "911472256817",
+    "919828536817"
+  ],
+  "mainAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "Jaton Kamoholla",
+      "Chanderiya",
+      "CITTORGARH",
+      "Chittorgarh",
+      "Rajasthan",
+      "312001"
+    ]
+  }
+}

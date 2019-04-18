@@ -1,0 +1,40 @@
+{
+  "contacts": [
+    {
+      "name": "Kasi viswanathan",
+      "email": "sumathircd@gmail.com",
+      "designation": "coordinator",
+      "mobile": []
+    },
+    {
+      "name": "Kasi viswanathan",
+      "email": "sumathircd@gmail.com",
+      "designation": "coordinator",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1999",
+  "name": "Rural Comunity Development Trust",
+  "primaryEmail": "sumathircd@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Grant-making",
+    "Intermediary",
+    "Support"
+  ],
+  "telephone": [
+    "914272482050",
+    "919600533456"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "144/3. Adhi Dravider street",
+      "Minnampalli, Kripatty,",
+      "salem",
+      "Salem",
+      "Tamil Nadu",
+      "343001"
+    ]
+  }
+}

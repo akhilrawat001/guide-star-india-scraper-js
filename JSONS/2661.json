@@ -1,0 +1,26 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2661",
+  "name": "Gurgaon Gramin Mahila mandal",
+  "primaryEmail": "ggmmgrg@gmail.com",
+  "website": "www.ggmmngo.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919910403229"
+  ],
+  "mainAddrress": {
+    "state": "Haryana",
+    "address": [
+      "Plot No. 310 Swctor 39",
+      "Oppsite Medicity Hospital",
+      "Gurgaon",
+      "Gurugram",
+      "Haryana",
+      "122001"
+    ]
+  }
+}

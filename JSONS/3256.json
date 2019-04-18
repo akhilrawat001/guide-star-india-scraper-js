@@ -1,0 +1,27 @@
+{
+  "contacts": [
+    {
+      "name": "Rahul Mogle",
+      "email": "",
+      "designation": "Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3256",
+  "name": "Lokmitra Sanstha",
+  "primaryEmail": "lokmitrasanstha@gmail.com",
+  "telephone": [
+    "912454231345",
+    "912454231345"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Nutan",
+      "N P Colony",
+      "Parbhani",
+      "Maharashtra",
+      "431401"
+    ]
+  }
+}

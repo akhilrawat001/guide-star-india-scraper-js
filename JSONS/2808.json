@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Pragya Rashmi Bhikshu",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2808",
+  "name": "Dharma Chakra Vihar Mul Bauddha Shodh Sansthan",
+  "primaryEmail": "dcvsan@yahoo.co.in",
+  "website": "dcv,vnsedu.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919336910043"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "SA, 15/134 Mawaiya Sarnath Varanasi",
+      "sarnath road",
+      "Varanasi",
+      "Uttar Pradesh",
+      "221007"
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7083",
+  "name": "CHUANPUR SAPTAPARNI",
+  "primaryEmail": "chuanpur_saptaparni@hotmail.com",
+  "website": "https://www.chuanpursaptaparni.org",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919434852325"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Loknathpally ,Chuanpur",
+      "Near Mohan Field",
+      "Berhanpore",
+      "Murshidabad",
+      "West Bengal",
+      "742101"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Loknathpally",
+      "Chuanpur",
+      "Berhampore",
+      "Murshidabad",
+      "West Bengal",
+      "742101"
+    ]
+  }
+}

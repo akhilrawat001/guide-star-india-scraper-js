@@ -1,0 +1,34 @@
+{
+  "contacts": [
+    {
+      "name": "Vani Henry",
+      "email": "henry@henryfoundation.org.in",
+      "designation": "Founder & Managing Trustee",
+      "mobile": [
+        "91-9845166752"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1723",
+  "name": "Henry Foundation",
+  "primaryEmail": "henry@henryfoundation.org.in",
+  "organisationType": [
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919845166752"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "F-01",
+      "Moonshine Apartments, No.43/2, C.K. Garden, St. Thomas Town,",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560084"
+    ]
+  }
+}

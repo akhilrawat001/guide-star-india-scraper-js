@@ -1,0 +1,35 @@
+{
+  "contacts": [
+    {
+      "name": "Meena Kuamri Maharana",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9091",
+  "name": "SUBARNA NARI JAGARANA KENDRA",
+  "primaryEmail": "subarna_007@yahoo.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919439579435"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "Subarna Nari Jagarana Kendra",
+      "Near Block Chowk",
+      "Sonepur",
+      "Subarnapur",
+      "Odisha",
+      "767017"
+    ]
+  }
+}

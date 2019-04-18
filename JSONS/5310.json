@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "vasant bhosle",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5310",
+  "name": "Subhdradevi Bhosle Shikshan Prasarak Mandal Latur",
+  "primaryEmail": "vsntbhosle5@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919922193500"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "at post sawargaon rokda tq ahmedpur",
+      "sawargaon rokda tq ahmedpur",
+      "ahmedpur",
+      "Latur",
+      "Maharashtra",
+      "413515"
+    ]
+  }
+}

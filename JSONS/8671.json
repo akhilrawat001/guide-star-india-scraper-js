@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "SRIKANT SATPATHY",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8671",
+  "name": "ENVICARE",
+  "primaryEmail": "envicare_orissa@rediffmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919437152503"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "R_18, AREA 7 & 8,",
+      "CIVILTOWNSHIP,",
+      "ROURKELA",
+      "Sundargarh",
+      "Odisha",
+      "769014"
+    ]
+  }
+}

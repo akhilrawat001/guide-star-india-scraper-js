@@ -1,0 +1,32 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2008",
+  "name": "VMIT Educational Trust",
+  "primaryEmail": "vmiteducationaltrust@rediffmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning"
+  ],
+  "telephone": [
+    "911773200130",
+    "919882036436"
+  ],
+  "mainAddrress": {
+    "state": "Himachal Pradesh",
+    "address": [
+      "Krishna Bhawan",
+      "Nr. Auckland School Gate, Lakkar Bazar,",
+      "Shimla",
+      "Himachal Pradesh",
+      "226016"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Chandigarh",
+    "address": [
+      "#1120",
+      "Sector-34",
+      "Chandigarh",
+      "160019"
+    ]
+  }
+}

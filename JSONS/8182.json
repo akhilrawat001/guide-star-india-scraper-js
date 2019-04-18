@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Mr.Manoj Singh",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8182",
+  "name": "Satyam Sewa Sansthan",
+  "primaryEmail": "manojdharmpur193@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919838150347",
+    "919450707188"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "Dharampur Parvat",
+      "Hata",
+      "Kushinagar",
+      "Uttar Pradesh",
+      "274302"
+    ]
+  }
+}

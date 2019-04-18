@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Manje Yadagiri",
+      "email": "",
+      "designation": "Secretary",
+      "mobile": []
+    },
+    {
+      "name": "Manje Yadagiri",
+      "email": "",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1762",
+  "name": "Council For Advisory of People Awareness Technical Society (CAPATS)",
+  "primaryEmail": "capatsngo@gmail.com",
+  "telephone": [
+    "919848899853"
+  ],
+  "mainAddrress": {
+    "state": "Telangana",
+    "address": [
+      "5-5-13 Ambedkar Nagar",
+      "Jangaon",
+      "Telangana",
+      "506167"
+    ]
+  }
+}

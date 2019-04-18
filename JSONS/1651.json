@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "dr. parveen aneja",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1651",
+  "name": "lakshay manav sewa samiti",
+  "primaryEmail": "parveenaneja77@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919812427894"
+  ],
+  "mainAddrress": {
+    "state": "Haryana",
+    "address": [
+      "1533 h.b.c sector 14 sonipat",
+      "sonipat",
+      "Sonipat",
+      "Haryana",
+      "131001"
+    ]
+  }
+}

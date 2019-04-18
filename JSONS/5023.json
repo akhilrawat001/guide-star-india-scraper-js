@@ -1,0 +1,37 @@
+{
+  "contacts": [
+    {
+      "name": "Geetha Arvind",
+      "email": "geetha.arvind@gmail.com",
+      "designation": "Managing Trustee",
+      "mobile": []
+    },
+    {
+      "name": "Geetha Arvind",
+      "email": "geetha.arvind@gmail.com",
+      "designation": "Managing Trustee",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5023",
+  "name": "Anubhava Science Foundation",
+  "primaryEmail": "anubhavasciencecentre@gmail.com",
+  "website": "www.anubhavasciencefoundation.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919945094246"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "5081, Sobha Dahlia, Sarjapur Outer ring road",
+      "Bellandur",
+      "Bengaluru",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560103"
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "S. Kavitha",
+      "email": "rajprajspraj@yahoo.co.in",
+      "designation": "Trustee",
+      "mobile": [
+        "91-4181-223055"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1690",
+  "name": "Rural Educational And Health Development Trust",
+  "primaryEmail": "rehd_2011@yahoo.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "914181223055",
+    "919486245902"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "1/A Sivaraj Nagar",
+      "Polur Town",
+      "Tiruvannamalai",
+      "Tamil Nadu",
+      "606803"
+    ]
+  }
+}

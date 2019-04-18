@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "SANTILATA SHI",
+      "email": "kjr_baitarani@rediffmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8509",
+  "name": "BAITARANI",
+  "primaryEmail": "kjr_baitarani@rediffmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919437214785"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "At- Bhattasahi,",
+      "P.O- Old Town, P.S- Town,",
+      "Keonjhar",
+      "Sambalpur",
+      "Odisha",
+      "758002"
+    ]
+  }
+}

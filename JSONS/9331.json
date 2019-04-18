@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Joginder Singh",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9331",
+  "name": "UPASANA KALYAN SAMITI",
+  "primaryEmail": "uksamiti2006@gmail.com",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "911254682049",
+    "911254682049"
+  ],
+  "mainAddrress": {
+    "state": "Haryana",
+    "address": [
+      "Upasana Kalyan Samiti, R/o Jatai,",
+      "Bhiwani",
+      "Haryana",
+      "127041"
+    ]
+  },
+  "briefDescription": "Upasana Kalyan Samiti is located Bhiwani, Haryana.",
+  "yearOfEstablishment": "2006"
+}

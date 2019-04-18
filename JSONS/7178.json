@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "SUSHANTA KUMAR SAHOO",
+      "email": "SSMT14@OUTLOOK.COM",
+      "designation": "MANAGING TRUSTEE",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7178",
+  "name": "SAKSHEE SA MEMORIAL TRUST",
+  "primaryEmail": "SSMT14@OUTLOOK.COM",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918455892977"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "AT/PO UPARJHAR,",
+      "TITILAGARH",
+      "Balangir",
+      "Odisha",
+      "767067"
+    ]
+  }
+}

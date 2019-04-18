@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Savankumar Balaso Darure",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8791",
+  "name": "ARIHANT YOUTH FOUNDATION",
+  "primaryEmail": "savandarure@gmail.com",
+  "website": "arihantyouthfoundation.co.in",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "912332262333",
+    "912332262333"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "A/ P -Mallewadi Tal - Miraj",
+      "Mallewadi",
+      "Sangli",
+      "Maharashtra",
+      "416410"
+    ]
+  }
+}

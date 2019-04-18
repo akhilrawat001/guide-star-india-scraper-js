@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Kalandi Charan Swain",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8684",
+  "name": "NATYA DEEPA",
+  "primaryEmail": "natyadeepa@gmail.com",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "919040224080"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "At-Konark(Mankargoradi),Po-Konark,Ps-Konark",
+      "Konark",
+      "Puri",
+      "Odisha",
+      "752111"
+    ]
+  }
+}

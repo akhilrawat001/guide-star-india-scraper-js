@@ -1,0 +1,47 @@
+{
+  "contacts": [
+    {
+      "name": "Jyoti Singh",
+      "email": "jyotisingh70@gmail.com",
+      "designation": "Project Director",
+      "mobile": [
+        "91-7060050184"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=753",
+  "name": "Indian Dreams Foundation",
+  "primaryEmail": "info@idf4all.org",
+  "website": "www.idf4all.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "917060050184",
+    "915624301184"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "Shop-14, Block-11, Kapda Market",
+      "Bhind Max Showroom, Sanjay Place",
+      "Agra",
+      "Uttar Pradesh",
+      "282002"
+    ]
+  },
+  "briefDescription": "The Indian Dreams Foundation (IDF) is dedicated to educate, create health awareness, empower and develop underprivileged communities. IDF's journey began in 2004 when a group of people from varying backgrounds decided to make a difference in the lives of those less privileged than them. After IDF was established as an NGO on January 24th 2005, it has relentlessly worked in the spheres of education, health, empowerment of women and awareness of underprivileged communities.IDF strongly believes in the power of education as a tool of empowerment and as a way to break taboos and stereotypes. This belief shapes all our programs and the work we do. Our flagship programs involve working with children in underprivileged communities to impact formal, informal and vocational education. These programs are supplemented by counselling sessions for families to highlight the importance of educating their children.IDF has a proven track record in the conceptualisation of long-lasting community strategies and strengthening of existing facilities that help those who need it the most. The IDF also reinforces quality reforms that not only enthuse and inspire but also sensitise society to pressing issues facing young women and girls.A special focus remains on females and ensuring that they are enrolled in formal education, included in the society and not adversely impacted by gender discrimination.   IDF works by being involved in grass-root level change by counselling reluctant and financially constrained parents and their children to turn to education.Since 2013, IDF has been recognised as an organisation in Special Consultative Status with the Economic and Social Council of the United Nations. IDF is also certified with GuideStar India, GiveIndia, the Credibility Alliance for good voluntary organisation governance and with Charities Aid Foundation India for complying with due diligence requirements.VISION\"A healthy, educated and developed society\".MISSIONOur mission is to work towards achieving, at the grassroots level, eradication of illiteracy and gender discrimination in underprivileged communities by educating them and creating awareness.",
+  "yearOfEstablishment": "2005",
+  "regiseredAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "503, Space Tower-1, Neerav Nikunj- phase-1",
+      "Sikandra",
+      "Agra",
+      "Uttar Pradesh",
+      "282007"
+    ]
+  }
+}

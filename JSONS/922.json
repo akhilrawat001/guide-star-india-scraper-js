@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "Surya Narayan Sahu",
+      "email": "surya.ruchika@gmail.com",
+      "designation": "Fund Raising Officer",
+      "mobile": [
+        "0674-2340746"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=922",
+  "name": "Ruchika Social Service Organisation",
+  "primaryEmail": "rssobbs@hotmail.com",
+  "website": "http://www.ruchika.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "916742340583",
+    "916746531446"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "3731-A, Sriram Nagar",
+      "Samantarapur, Old Town",
+      "Bhubaneswar",
+      "Khordha",
+      "Odisha",
+      "751002"
+    ]
+  },
+  "briefDescription": "Provides Pre-school & Alternative Schooling education to the underprevileged children living on the street & slums with health care & nutrition.Running Platform schools for the children living on-and-around the railway stations with Healthcare & Nutrition.",
+  "yearOfEstablishment": "1998"
+}

@@ -1,0 +1,25 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6998",
+  "name": "Manav Jyot Charitable Trust",
+  "primaryEmail": "matru26@yahoo.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919879293713",
+    "917922774037"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "5/A,Shrutikunj Society,",
+      "Idli Char Rasta,Nr.Railway Crossing",
+      "Maninagar",
+      "Ahmedabad",
+      "Gujarat",
+      "380008"
+    ]
+  }
+}

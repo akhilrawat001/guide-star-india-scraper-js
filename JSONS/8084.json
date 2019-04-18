@@ -1,0 +1,38 @@
+{
+  "contacts": [
+    {
+      "name": "Chetan Chandratre",
+      "email": "chetanchandratre@rediffmail.com",
+      "designation": "Secretary",
+      "mobile": [
+        "91-9406812147"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8084",
+  "name": "Dondwada Shiksha Avam Samajik Sanstha",
+  "primaryEmail": "dsss@india.com",
+  "website": "http://www.d-sss.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919479884655",
+    "919406812147"
+  ],
+  "mainAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "Vill and Post Dondwada Teh Pansemal Dist Barwani",
+      "MP",
+      "Pansemal",
+      "Barwani",
+      "Madhya Pradesh",
+      "451770"
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=151",
+  "name": "Gerizim Rehabilitation Trust",
+  "primaryEmail": "gerizimhelp@gmail.com",
+  "website": "www.gerizimhome.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918025712015",
+    "919449817224"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "24th \"D\" Cross, Ejipura",
+      "Viveknagar P.O.",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560047"
+    ]
+  }
+}

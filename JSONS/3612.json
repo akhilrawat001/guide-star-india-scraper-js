@@ -1,0 +1,53 @@
+{
+  "contacts": [
+    {
+      "name": "Amrita Amodkar",
+      "email": "amrita.lanjekar@gmail.com",
+      "designation": "Volunteer",
+      "mobile": []
+    },
+    {
+      "name": "Amrita Amodkar",
+      "email": "amrita.lanjekar@gmail.com",
+      "designation": "Volunteer",
+      "mobile": []
+    },
+    {
+      "name": "Amrita Amodkar",
+      "email": "amrita.lanjekar@gmail.com",
+      "designation": "Volunteer",
+      "mobile": []
+    },
+    {
+      "name": "Amrita Amodkar",
+      "email": "amrita.lanjekar@gmail.com",
+      "designation": "Volunteer",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3612",
+  "name": "Anugraha Trust",
+  "primaryEmail": "anugraha8@rediffmail.com",
+  "website": "www.anugrahatrust.wordpress.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919443120368",
+    "919869339968",
+    "914652287511"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "Anugraha Trust for the Handicapped",
+      "Melakattuvilai, Near Esakiamman Kovil",
+      "Manikattipottal",
+      "Kanyakumari",
+      "Tamil Nadu",
+      "629501"
+    ]
+  },
+  "briefDescription": "Anugraha Trust for the Handicapped, since the last two decades, has been working with children with disabilities like visual impairment, hearing impairment, Mental Retardation, Autism, Cerebral Palsy, and Multiple Disabilities. In recent years Anugraha Trust’s primary focus of service has been children with mental retardation (MR) and cerebral palsy (CP).Anugraha Trust has been working in the disability sector through Institution Based Rehabilitation and through Community Based Rehabilitation. Today we run a special school, an adult home for MR males and perform collaborative work with the National Trust, New Delhi.",
+  "yearOfEstablishment": "1994"
+}

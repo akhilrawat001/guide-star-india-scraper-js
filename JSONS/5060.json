@@ -1,0 +1,44 @@
+{
+  "contacts": [
+    {
+      "name": "Youdon Aukatsang",
+      "email": "evp2008@gmail.com",
+      "designation": "Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5060",
+  "name": "Empowering the Vision Project",
+  "primaryEmail": "evp2008@gmail.com",
+  "website": "www.empoweringvision.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "911146783331",
+    "911146548495",
+    "911146783331"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "C-72 First Floor",
+      "East of Kailash",
+      "New Delhi",
+      "South Delhi",
+      "Delhi",
+      "110065"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "J 50 1st Floor",
+      "Jorbagh Lane",
+      "New Delhi",
+      "South Delhi",
+      "Delhi",
+      "110003"
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "contacts": [
+    {
+      "name": "Pamela Pillay",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5619",
+  "name": "FRIENDS OF SICK ASSOCIATION",
+  "primaryEmail": "rpasnetwork@rvm.co.in",
+  "website": "www.rvmfoundation.org",
+  "organisationType": [
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "India",
+    "9739544444"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "FOSA, #20, Milestone,",
+      "Bannerghatta",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560082"
+    ]
+  }
+}

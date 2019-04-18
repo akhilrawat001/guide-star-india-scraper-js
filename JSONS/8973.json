@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Atul",
+      "email": "atul@yojak.org",
+      "designation": "Founder President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8973",
+  "name": "Youth Organisation for Joining, Action & Knowledge",
+  "primaryEmail": "atul@yojak.org",
+  "website": "http://www.yojak.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919011996349"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "67/5, Sector No. 25, PCMC, Sindhunagar",
+      "Nigdi-Pune",
+      "Pimpri-Chinchwad, Pune",
+      "Pune",
+      "Maharashtra",
+      "411044"
+    ]
+  }
+}

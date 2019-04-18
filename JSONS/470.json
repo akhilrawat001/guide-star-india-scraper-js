@@ -1,0 +1,40 @@
+{
+  "contacts": [
+    {
+      "name": "Vidya Shankar",
+      "email": "relieffoundation@hotmail.com",
+      "designation": "Project co-ordinator",
+      "mobile": [
+        "91-9444449644"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=470",
+  "name": "Shriram Social Welfare Trust",
+  "primaryEmail": "shriram_swt@yahoo.com",
+  "website": "http://www.shriram.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "914424990356",
+    "914424993272",
+    "914424990356"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "Mookambika complex, II floor no.4",
+      "Lady Desika road, Mylapore",
+      "Chennai",
+      "Tamil Nadu",
+      "600004"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "Tamil Nadu"
+    ]
+  }
+}

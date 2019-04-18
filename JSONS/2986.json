@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Saikh Abu Taleb",
+      "email": "upliftmentsociety@yahoo.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2986",
+  "name": "BETHUA UPLIFTMENT SOCIETY",
+  "primaryEmail": "upliftmentsociety@yahoo.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "9192321167"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "2,7 Fast floor Bbiswas market",
+      "BHAKURI,P.O-CHALTIA,",
+      "P.S-BERHAMPORE,",
+      "Murshidabad",
+      "West Bengal",
+      "742165"
+    ]
+  }
+}

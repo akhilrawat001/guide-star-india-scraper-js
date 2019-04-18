@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Miss Nandita",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3021",
+  "name": "Care Promise Welfare Society",
+  "primaryEmail": "cpws7@yahoo.com",
+  "website": "www.carepromise.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "911126234496",
+    "911126234496"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "331, First Floor",
+      "Sant Nagar, East of Kailash",
+      "New Delhi",
+      "South Delhi",
+      "Delhi",
+      "110065"
+    ]
+  }
+}

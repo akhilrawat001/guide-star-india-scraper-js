@@ -1,0 +1,25 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6167",
+  "name": "Bihar Voluntary Health Association",
+  "primaryEmail": "bvhapatna@gmail.com",
+  "website": "www.biharvha.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Network"
+  ],
+  "telephone": [
+    "916122266884"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "West of ganga Apartment",
+      "Opposite L.C.T. Ghat",
+      "Mainpura",
+      "Patna",
+      "Bihar",
+      "800001"
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8975",
+  "name": "ASHA SOCIAL DEVELOPMENT CENTRE",
+  "primaryEmail": "asdc.trust@rediffmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919933172942"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Care of -Ashadulla Mondal,Vill-Chandipur,Po-Malumgachha,Ps-Nakashipara,",
+      "Chandipur Madhyapara,Near Sbi Csp",
+      "Chandipur",
+      "Nadia",
+      "West Bengal",
+      "0"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "C/O-Ashadulla Mondal,Vill-Chandipur,Po-Malumgachha,Ps-Nakashipara,",
+      "Chandipur Madhyapara,Near Sbi Csp",
+      "Chandipur",
+      "Nadia",
+      "West Bengal",
+      "741126"
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Mr.Anil Joshi",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "9411131788"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6334",
+  "name": "Gramin Vigyan Samiti",
+  "primaryEmail": "gvs_society@yahoo.co.in",
+  "website": "www.gvsuttarakhand.org",
+  "organisationType": [
+    "Grant-making"
+  ],
+  "telephone": [
+    "919411131788",
+    "919911459452"
+  ],
+  "mainAddrress": {
+    "state": "Uttarakhand",
+    "address": [
+      "Kapkote",
+      "Bageshwar",
+      "Uttarakhand",
+      "263632"
+    ]
+  }
+}

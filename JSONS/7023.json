@@ -1,0 +1,35 @@
+{
+  "contacts": [
+    {
+      "name": "Mr.Hanamant B.Kulkarni",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7023",
+  "name": "Kumudini Foundation",
+  "primaryEmail": "kumudini_foundation@yahoo.co.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919480630800"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "MaatruKrupa, No. 41/1-1,3rd Cross,3rd Block, Javarayya Gardens,",
+      "Thyagarajnagar,",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560028"
+    ]
+  }
+}

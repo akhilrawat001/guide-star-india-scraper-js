@@ -1,0 +1,34 @@
+{
+  "contacts": [
+    {
+      "name": "Anne Robinson",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "2390905"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4893",
+  "name": "Arpana Research & Charities Trust",
+  "primaryEmail": "arct@arpana.org",
+  "website": "www.arpanaservices.org",
+  "organisationType": [
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "911842390905",
+    "911842390905"
+  ],
+  "mainAddrress": {
+    "state": "Haryana",
+    "address": [
+      "Madhuban 132037",
+      "Karnal",
+      "Haryana",
+      "132001"
+    ]
+  }
+}

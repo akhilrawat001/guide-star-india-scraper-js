@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Mr.Suresh Panjwani",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "8799469797"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7687",
+  "name": "Sindhu Woman and Child Welfare Society",
+  "primaryEmail": "sindhuwomenandchildwelfares@yahoo.in",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "918799469797"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "A 18/34",
+      "Ram Nagar Colony",
+      "Faizabad",
+      "Uttar Pradesh",
+      "224001"
+    ]
+  }
+}

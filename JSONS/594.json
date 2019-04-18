@@ -1,0 +1,26 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=594",
+  "name": "Navjeevan Trust",
+  "primaryEmail": "info@navjeevanrajkot.org",
+  "organisationType": [
+    "Direct Service",
+    "Network"
+  ],
+  "telephone": [
+    "912812563231",
+    "912812563881",
+    "912812563231",
+    "912812563231"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "Bishop S House, P.B. No- 1501",
+      "Kalawad Road",
+      "Rajkot",
+      "Gujarat",
+      "360005"
+    ]
+  }
+}

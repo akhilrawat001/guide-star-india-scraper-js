@@ -1,0 +1,48 @@
+{
+  "contacts": [
+    {
+      "name": "Abhishek Kumar",
+      "email": "abhishek@ssnmtrust.org",
+      "designation": "State Coordibnator",
+      "mobile": [
+        "91-651-2245321"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10796",
+  "name": "SRI SOMESWARNATH MAHADEV TRUST (SANMAT)",
+  "primaryEmail": "amit@ssnmtrust.org",
+  "website": "www.ssnmtrust.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Intermediary",
+    "Network"
+  ],
+  "telephone": [
+    "916122540330",
+    "919798000099"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "3rd Floor, Jagdamba Tower, Sahdeo Mahato Marg",
+      "Near Karlo Maruti showroom, Santusti Lane, Boring Road",
+      "Patna",
+      "Bihar",
+      "800001"
+    ]
+  },
+  "briefDescription": "Since2007, Sanmat has been working for inclusive development in India by bringing government to citizen. We focuss on bridging governance gaps in the execution of various Government & Non Government programs for the marginalized community. We believe that Every human being have different mindset, circumstances with equal rights to grow, should have dignity & happiness in life. At Sanmat we provide important opportunities for individuals, enterprises, startups, community based organizations, activists and nurture/mentor innovations and implement solutions to long standing isues like poverty, education, environment, livelihood, Unemployment, Hunger and Health care. we have served more than 1 million People direct & 20 M indirectly.",
+  "yearOfEstablishment": "2007",
+  "regiseredAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "A1/14, Tri star apartment,",
+      "6th avenue, mogappair west, eri scheme",
+      "Chennai",
+      "Tamil Nadu",
+      "600037"
+    ]
+  }
+}

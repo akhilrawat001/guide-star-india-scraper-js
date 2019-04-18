@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Sunil Gundiba Thorat",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8756",
+  "name": "YASH PRATHISTHAN SEVABHAVI SANSTHA",
+  "primaryEmail": "sunil19.thorat@gmail.com",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "919623325023"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Panchashil Nagar Kautha Road Basmath Tq. Basmath",
+      "Basmath",
+      "Hingoli",
+      "Maharashtra",
+      "431512"
+    ]
+  }
+}

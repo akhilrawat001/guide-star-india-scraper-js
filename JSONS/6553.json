@@ -1,0 +1,42 @@
+{
+  "contacts": [
+    {
+      "name": "Yasmeen Iqbal",
+      "email": "",
+      "designation": "Managing Trustee",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6553",
+  "name": "AHAAN FOUNDATION",
+  "primaryEmail": "ahaan.foundation.india@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Intermediary"
+  ],
+  "telephone": [
+    "919535277755"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "B-1062, Sobha Suncrest, Sobha Hillview Apartments,",
+      "Thalaghattapura, Off Kanakapura Road",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560062"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "No.179/1, 1st Floor, Srinivasa Nilaya,",
+      "8th Main Road, NGEF Layout, Sadanandanagar",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560038"
+    ]
+  }
+}

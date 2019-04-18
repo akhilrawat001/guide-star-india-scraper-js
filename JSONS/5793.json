@@ -1,0 +1,26 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5793",
+  "name": "The Bangalore Salesian Society",
+  "primaryEmail": "economer@dbbangalore.org",
+  "website": "www.dbbangalore.org",
+  "organisationType": [
+    "Direct Service",
+    "Network"
+  ],
+  "telephone": [
+    "918025494761",
+    "918025494761"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "Don Bosco Provincial House",
+      "Milton Street, Cooke Town",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560005"
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "name": "Sujata Satish Thakare",
+      "email": "neha9225@rediffmail.com",
+      "designation": "Zonal Coordinator",
+      "mobile": [
+        "91-9594112724"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1741",
+  "name": "Nature Preservation Trust",
+  "primaryEmail": "nature@naturepreservation.org",
+  "website": "www.naturepreservation.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "912512423271",
+    "919224424007"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "16-D",
+      "A wing, Navsaiprasad Society, Opp. Saibaba Mandir, Rajaji path, New Ayre Road",
+      "Dombivli (East)",
+      "Thane",
+      "Maharashtra",
+      "421201"
+    ]
+  }
+}

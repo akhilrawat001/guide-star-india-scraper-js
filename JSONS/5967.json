@@ -1,0 +1,34 @@
+{
+  "contacts": [
+    {
+      "name": "Mrs. S. Veerithai",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5967",
+  "name": "VAIGAI MAHALIR IYAKKAM",
+  "primaryEmail": "vaigaivmi@yahoo.com",
+  "website": "----",
+  "organisationType": [
+    "Direct Service",
+    "Intermediary",
+    "Support"
+  ],
+  "telephone": [
+    "914546242111",
+    "914546242111"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "Gandhinagar ist street, Pappammalpuram, Andipatti",
+      "---",
+      "Andipatti",
+      "Theni",
+      "Tamil Nadu",
+      "625512"
+    ]
+  }
+}

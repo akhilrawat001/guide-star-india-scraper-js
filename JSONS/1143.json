@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Snehlata Nath",
+      "email": "",
+      "designation": "Director, Programmes",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1143",
+  "name": "Keystone Foundation",
+  "primaryEmail": "kf@keystone-foundation.org",
+  "website": "www.keystone-foundation.org/",
+  "telephone": [
+    "914266275297",
+    "914266272277",
+    "914266275297"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "Keystone Centre Groves Hill Road",
+      "PB 35",
+      "Kotagiri",
+      "The Nilgiris",
+      "Tamil Nadu",
+      "643217"
+    ]
+  }
+}

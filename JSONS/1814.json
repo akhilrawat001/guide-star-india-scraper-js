@@ -1,0 +1,40 @@
+{
+  "contacts": [
+    {
+      "name": "Kamruddin Ahmed Layek",
+      "email": "layek-luky@gmail.com",
+      "designation": "Clark",
+      "mobile": []
+    },
+    {
+      "name": "Kamruddin Ahmed Layek",
+      "email": "layek-luky@gmail.com",
+      "designation": "Clark",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1814",
+  "name": "Memari Minority Welfare Society",
+  "primaryEmail": "memarisociety@gmail.com",
+  "website": "www.memarisociety.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Intermediary",
+    "Support"
+  ],
+  "telephone": [
+    "913422260944",
+    "919734263666"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Hospital More",
+      "Memari",
+      "Kolkata",
+      "West Bengal",
+      "713146"
+    ]
+  }
+}

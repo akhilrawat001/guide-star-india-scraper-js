@@ -1,0 +1,33 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10518",
+  "name": "The Awadh Mango Growers Association",
+  "primaryEmail": "Upmangofestival@gmail.com",
+  "website": "http://upmangofestival.org/community.html",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919005575999"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "11 Habibullah Estate, Hazratganj, off MG road",
+      "Opp hotel Charan Plaza",
+      "Lucknow",
+      "Uttar Pradesh",
+      "226001"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "11 Habibullah Estate, Hazratganj, off MG road",
+      "Opp Hotel Charan Plaza",
+      "Lucknow",
+      "Uttar Pradesh",
+      "226001"
+    ]
+  }
+}

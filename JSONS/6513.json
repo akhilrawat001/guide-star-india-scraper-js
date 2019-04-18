@@ -1,0 +1,35 @@
+{
+  "contacts": [
+    {
+      "name": "AMAR ASRANI",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "9820268054"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6513",
+  "name": "CHEMBUR COLONY YUVAK MANDAL",
+  "primaryEmail": "CCYM4@HOTMAIL.COM",
+  "website": "http://hashuadvanismarak.org/",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "+919820268054"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "64/65, Collectors Colony",
+      "R.C. Marg, Chembur",
+      "Mumbai",
+      "Mumbai Suburban",
+      "Maharashtra",
+      "400074"
+    ]
+  }
+}

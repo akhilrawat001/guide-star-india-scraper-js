@@ -1,0 +1,35 @@
+{
+  "contacts": [
+    {
+      "name": "ANITHA",
+      "email": "nita.nitash@gmail.com",
+      "designation": "ADMINISTRATOR",
+      "mobile": [
+        "91-9980395943"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5707",
+  "name": "SVATANTRA",
+  "primaryEmail": "sekhargopalan@gmail.com",
+  "website": "www.svatantra.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919845392460"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "11A, Sobha Emerald, Jakkur",
+      "Behind Jakkur flying club",
+      "Bangalore",
+      "Bengaluru (Bangalore) Rural",
+      "Karnataka",
+      "560064"
+    ]
+  },
+  "briefDescription": "Our BeliefThe less privileged can do as well as anyone else.All they lack is opportunity.The cycle of poverty can be reversed by educating the 1st generation of schoolers.Education can build character that can shape thinking of future generation.Our MissionTo provide an opportunity to learn to the villages around the school.Children should receive free quality education.",
+  "yearOfEstablishment": "2005"
+}

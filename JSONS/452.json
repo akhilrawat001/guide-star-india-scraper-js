@@ -1,0 +1,45 @@
+{
+  "contacts": [
+    {
+      "name": "R Krishnamurthy",
+      "email": "cfabhipp@jnjin.jnj.com",
+      "designation": "Volunteer",
+      "mobile": [
+        "91-2522-271915"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=452",
+  "name": "Sangopita - A Shelter for Care",
+  "primaryEmail": "sangopita123@gmail.com",
+  "website": "http://www.sangopita.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "912512910585"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Om Ssaiprasad Bldg.",
+      "Opp.hotel Saffron, Gandhi chowk, MIDC-Karjat Rd; Kulgaon-Badlapur",
+      "Thane",
+      "Maharashtra",
+      "421503"
+    ]
+  },
+  "briefDescription": "Sangopita runs a residential center and a daycare center. There are 43 wards and 23 students respectively in the centers. Children stay 24/7 throughout the year at the residential center. The children are provided shelter, care, food, education, medication, therapies, vocational training and entertainment all under one roof. Care comprises of right from brushing, toilet, bath, dressing, combing, feeding, to help sleeping. Education consists of training on self dependency to academic, sports, music, dance etc. They are also to be attended to hyper activities/fits/temper tantrums etc. General healthcare, safety and security are also to be taken care of. Most significant among all is to give them a feeling of belonging, a life to live with dignity which comes from love and affection.",
+  "yearOfEstablishment": "2003",
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Om Saiprasad Aptt;",
+      "Opp.Hotel Saffron, Gandhi Chowk",
+      "Badlapur East, Thane",
+      "Thane",
+      "Maharashtra",
+      "421503"
+    ]
+  }
+}

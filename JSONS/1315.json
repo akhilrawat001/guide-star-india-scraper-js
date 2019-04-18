@@ -1,0 +1,38 @@
+{
+  "contacts": [
+    {
+      "name": "C V Poornima",
+      "email": "pathreya@gmail.com",
+      "designation": "CEO",
+      "mobile": [
+        "91-890-3746900",
+        "91-9940497979"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1315",
+  "name": "The Society for the Development of Economically Weaker Section ( SODEWS)",
+  "primaryEmail": "sodews@gmail.com",
+  "website": "www.sodews.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "914179245218",
+    "914179245218"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "Nilavur",
+      "Yelagiri Hills",
+      "Vellore",
+      "Tamil Nadu",
+      "635853"
+    ]
+  }
+}

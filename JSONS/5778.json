@@ -1,0 +1,45 @@
+{
+  "contacts": [
+    {
+      "name": "Praise Thomas",
+      "email": "mvsssagar@gmail.com",
+      "designation": "Director",
+      "mobile": [
+        "8718805801"
+      ]
+    },
+    {
+      "name": "Praise Thomas",
+      "email": "mvsssagar@gmail.com",
+      "designation": "Director",
+      "mobile": [
+        "8718805801"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5778",
+  "name": "Manav Vikas Seva Sangh",
+  "primaryEmail": "mvsssagar@gmail.com",
+  "website": "http://www.mvss.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "918718805801"
+  ],
+  "mainAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "Patkuzhi Road",
+      "Bararu P.O, Jinda Village, Sagar Cantt",
+      "Sagar",
+      "Madhya Pradesh",
+      "470001"
+    ]
+  },
+  "briefDescription": "Our organization called Manav Vikas Seva Sangh was started on December 1989 with a view to uplift the poor and marginalized in the society with a view to have equality, justice and human dignity for all.  For this we have identified some of the relevant areas where we need our interventions such as women empowerment through the formation of SHGs, Income generation activities for the widows, Formation of Farmers Clubs to improve agriculture sustainability for the marginal farmers, Education of the girls especially the drop out and slum children, dignity for the mentally and physically challenged, solar renewable energy for those who have no access to electricity etc.",
+  "yearOfEstablishment": "1989"
+}

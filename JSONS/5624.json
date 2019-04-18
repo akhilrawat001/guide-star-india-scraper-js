@@ -1,0 +1,35 @@
+{
+  "contacts": [
+    {
+      "name": "Surendar Sahu",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "9977225594"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5624",
+  "name": "Chhattisgarh Sabri Sewa Sansthan",
+  "primaryEmail": "sabari_261487@rediffmail.com",
+  "website": "www.sabri.org.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Intermediary",
+    "Support"
+  ],
+  "telephone": [
+    "919977225594"
+  ],
+  "mainAddrress": {
+    "state": "Chhattisgarh",
+    "address": [
+      "Bazar para",
+      "Lakhanpur",
+      "Surguja",
+      "Chhattisgarh",
+      "497116"
+    ]
+  }
+}

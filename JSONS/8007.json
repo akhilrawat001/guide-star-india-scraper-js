@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Jignesh Panchal",
+      "email": "jigpanchal@gmail.com",
+      "designation": "Accountant",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8007",
+  "name": "Jan Uththan Development Research Foundation",
+  "primaryEmail": "janutthan2005@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919898579877"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "At & Po. Motibhamti",
+      "Ta. Vansda",
+      "Dist. Navsari",
+      "Navsari",
+      "Gujarat",
+      "396580"
+    ]
+  }
+}

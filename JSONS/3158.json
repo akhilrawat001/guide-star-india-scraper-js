@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "Danish",
+      "email": "hnmshah_hospital@rediffmail.com",
+      "designation": "Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3158",
+  "name": "H.N.M Shah Sewa Sansthan",
+  "primaryEmail": "hnmshah_hospital@rediffmail.com",
+  "telephone": [
+    "915323298103",
+    "915323298103"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "E-23-7",
+      "GTB Nagar",
+      "Karelli",
+      "Allahabad",
+      "Uttar Pradesh",
+      "211016"
+    ]
+  }
+}

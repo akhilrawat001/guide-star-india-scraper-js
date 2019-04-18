@@ -1,0 +1,24 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8080",
+  "name": "Kala Bikash Parishad",
+  "primaryEmail": "kalabikashparishad@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919937558868",
+    "919438662831"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "At/Po/ PS – Bargaon, Dist-Sundargarh,",
+      "Bargaon",
+      "Sundargarh",
+      "Odisha",
+      "770016"
+    ]
+  }
+}

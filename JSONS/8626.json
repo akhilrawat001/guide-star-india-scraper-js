@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Manas Ranjan Nanda",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8626",
+  "name": "PUSPANJALI CULTURAL ASSOCIATION",
+  "primaryEmail": "pca_bgr@yahoo.co.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919238687649"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "At-Backside of Tikrapara",
+      "U.P.School",
+      ",PO/DT-Bolangir",
+      "Balangir",
+      "Odisha",
+      "767001"
+    ]
+  }
+}

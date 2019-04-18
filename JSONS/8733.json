@@ -1,0 +1,34 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8733",
+  "name": "JANJIVAN SAHARA SAMAJIK FOUNDATION",
+  "primaryEmail": "georgekunjappan@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919820510265"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "08/B, Chintamani Apatment",
+      "Bakery Gali, Near Police Station",
+      "Bhayander West",
+      "Thane",
+      "Maharashtra",
+      "401101"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "08/B, Chintamani Apatment",
+      "Bakery Gali, Near Police Station",
+      "Bhayandar West",
+      "Thane",
+      "Maharashtra",
+      "401101"
+    ]
+  }
+}

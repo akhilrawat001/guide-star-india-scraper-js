@@ -1,0 +1,44 @@
+{
+  "contacts": [
+    {
+      "name": "Yadav",
+      "email": "uyatin@yahoo.com",
+      "designation": "Coordinatore",
+      "mobile": [
+        "91-9413306201"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1599",
+  "name": "Beneshwer Lok Vikas Sansthan",
+  "primaryEmail": "uyatin@gmail.com",
+  "website": "www.blvsindia.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "912963220201",
+    "919413306201"
+  ],
+  "mainAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "Near Chaar Khamba",
+      "Partapur,",
+      "Garhi",
+      "Banswara",
+      "Rajasthan",
+      "327024"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "Partapur,",
+      "Garhi",
+      "Banswara",
+      "Rajasthan",
+      "327024"
+    ]
+  }
+}

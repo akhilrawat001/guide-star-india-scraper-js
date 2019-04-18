@@ -1,0 +1,38 @@
+{
+  "contacts": [
+    {
+      "name": "S. Jamaluddin",
+      "email": "zsedoorg@yahoo.in",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5475",
+  "name": "Zeenath Social and Educational Development Organisation",
+  "primaryEmail": "zsedoorg@yahoo.in",
+  "website": "NO",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919030853801"
+  ],
+  "mainAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "H.No.41-420, Navi Peta, Kurnool-518001",
+      "Kurnool",
+      "Andhra Pradesh",
+      "518001"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "not provided",
+      "Kurnool",
+      "Andhra Pradesh",
+      "518001"
+    ]
+  }
+}

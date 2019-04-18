@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Thavamani.G",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5604",
+  "name": "MAHATMA GANDHIJI SEVA SANGAM",
+  "primaryEmail": "bharathicom@rediffmail.com",
+  "website": "www.mgss.org.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919442066071"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "58/1 East bazar,vasudevanallur",
+      "Sivagiri Taluka",
+      "Tirunelveli",
+      "Tamil Nadu",
+      "627758"
+    ]
+  }
+}

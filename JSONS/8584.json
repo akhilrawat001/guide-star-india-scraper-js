@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "MD GULAM SARWER ANSARI",
+      "email": "apeksha2010_dhanbad@rediffmail.com",
+      "designation": "SECRETARY",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8584",
+  "name": "APEKSHA",
+  "primaryEmail": "apeksha2010_dhanbad@rediffmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918092167820"
+  ],
+  "mainAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "AT- SIMLATAND,",
+      "PO- MURRADIH,",
+      "PS- BARWADDA",
+      "Dhanbad",
+      "Jharkhand",
+      "826004"
+    ]
+  }
+}

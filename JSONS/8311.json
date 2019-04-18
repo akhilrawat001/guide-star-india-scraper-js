@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Tushar Shende",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8311",
+  "name": "SAMRUDDHI YUVA MANCH",
+  "primaryEmail": "tushar.shende11@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918600400101"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "A/P- Varkute Khurd,",
+      "Indapur",
+      "Pune",
+      "Maharashtra",
+      "413120"
+    ]
+  }
+}

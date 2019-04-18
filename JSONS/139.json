@@ -1,0 +1,28 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=139",
+  "name": "Save The Children India",
+  "primaryEmail": "info@savethechildrenindia.org",
+  "website": "http://savethechildrenindia.org/",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service"
+  ],
+  "telephone": [
+    "912226520601",
+    "912226520602",
+    "919820485561"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "SF 9, G Block",
+      "Next to American School of Bombay, Behind Citi Bank, Bandra-Kurla Complex, Bandra East",
+      "Mumbai",
+      "Maharashtra",
+      "400098"
+    ]
+  },
+  "briefDescription": "Save The Children India is committed to preventing exploitation and all other forms of discrimination of vulnerable women and children, and empowering them to lead a life of dignity, self-respect, and independence.",
+  "yearOfEstablishment": "1988"
+}

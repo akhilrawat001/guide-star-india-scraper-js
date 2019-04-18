@@ -1,0 +1,32 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5429",
+  "name": "BHARTIYA GRAM SUDHAR SAMITI",
+  "primaryEmail": "bhartiyagramss@rediffmail.com",
+  "website": "www.bgssngo.co.in",
+  "organisationType": [
+    "Grant-making"
+  ],
+  "telephone": [
+    "919013006673"
+  ],
+  "mainAddrress": {
+    "state": "Haryana",
+    "address": [
+      "FCA-794/A, Block-C, Baghwali Pocket, SGM Nagar, Patel Chowk,",
+      "KC Badkhal Road",
+      "Faridabad",
+      "Haryana",
+      "121001"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Haryana",
+    "address": [
+      "FCA-794/A, Block-C, Baghwali Pocket, SGM Nagar, Patel Chowk,",
+      "Faridabad",
+      "Haryana",
+      "121001"
+    ]
+  }
+}

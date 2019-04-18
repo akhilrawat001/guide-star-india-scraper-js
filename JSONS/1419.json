@@ -1,0 +1,26 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1419",
+  "name": "Santhi Welfare Association",
+  "primaryEmail": "santhiassociation@gmail.com",
+  "website": "santhingo.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service"
+  ],
+  "telephone": [
+    "918813235561",
+    "919963346202"
+  ],
+  "mainAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "D.No;13-5-20",
+      "Parimi Arjanudu Street, ,",
+      "Kovvur",
+      "West Godavari",
+      "Andhra Pradesh",
+      "534350"
+    ]
+  }
+}

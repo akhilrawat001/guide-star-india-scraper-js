@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "K.N. Anandakumar",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4768",
+  "name": "Sri Sathya Sai Orphanage Trust - Kerala",
+  "primaryEmail": "saigramam@gmail.com",
+  "website": "www.saigramam.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "914712721422",
+    "914712721422"
+  ],
+  "mainAddrress": {
+    "state": "Kerala",
+    "address": [
+      "Ajith Building, TC 9/1108",
+      "Sasthamangalam",
+      "Thiruvananthapuram",
+      "Kerala",
+      "695010"
+    ]
+  }
+}

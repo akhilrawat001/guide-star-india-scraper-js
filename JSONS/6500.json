@@ -1,0 +1,44 @@
+{
+  "contacts": [
+    {
+      "name": "Johnmary Barui",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6500",
+  "name": "Asha Bhavan Centre",
+  "primaryEmail": "abcindia.sukeshi@gmail.com",
+  "website": "www.abcindia.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "913326613197",
+    "913326613197"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Asha Bhavan Centre  Kathila, Banitabla, Uluberia, Howrah, 711316 West Bengal, India",
+      "Uluberia, Howrah",
+      "Howrah",
+      "West Bengal",
+      "711316"
+    ]
+  },
+  "briefDescription": "Asha Bhavan Centre is a registered social organisation that has been promoting rehabilitation services, providing opportunities and protecting the rights for the Children, Women and Persons with Disabilities in India since 1999. Thousands of Persons with disabilities get benefitted and rehabilitated in our organisation. We put our best efforts to take care of them by providing them with residential care, nutritional support, special educational support, medical services, therapeutic support, vocational training, and Community Based Rehabilitation program as well as School education, non-formal education and many more things so that they can lead a better life in future. Asha Bhavan Centre is recognized by State Government, National Trust (a unit of Ministry of Social Justice and Empowerment, Govt. of India) and Ministry of Disability Affairs under MOSJ&E, Govt. of India as the best institute for dedicating services to the persons with disabilities. Over the last 15 years the organisation played a pioneering role in initiating and augmenting services for Persons with disabilities and endeavored to meet the growing needs for children and adults with locomotor disabilities, mental retardation, cerebral palsy, autism, hearing impairment and multiple disabilities in the community.",
+  "yearOfEstablishment": "1999",
+  "regiseredAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Asha Bhavan Centre  Kathila,",
+      "Banitabla,",
+      "Uluberia, Howrah",
+      "Howrah",
+      "West Bengal",
+      "711316"
+    ]
+  }
+}

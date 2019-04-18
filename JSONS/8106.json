@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "B. N. Sahoo",
+      "email": "ganiasishuraija@rediffmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8106",
+  "name": "Gania Sishu Raija",
+  "primaryEmail": "ganiasishuraija@rediffmail.com",
+  "website": "NO",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919937939805"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "At/po –Gania",
+      "Dist- Nayagarh",
+      "Odisha",
+      "Nayagarh",
+      "752085"
+    ]
+  },
+  "briefDescription": "Gania Sishu Raija Is Located In Orissa.",
+  "yearOfEstablishment": "1960"
+}

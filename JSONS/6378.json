@@ -1,0 +1,45 @@
+{
+  "contacts": [
+    {
+      "name": "Byomkesh Mishra",
+      "email": "byomkesh.mishra@medha.org.in",
+      "designation": "Executive Director",
+      "mobile": [
+        "91-522-4044932",
+        "91-7080997811"
+      ]
+    },
+    {
+      "name": "Byomkesh Mishra",
+      "email": "byomkesh.mishra@medha.org.in",
+      "designation": "Executive Director",
+      "mobile": [
+        "91-522-4044932",
+        "91-7080997811"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6378",
+  "name": "Medha Learning Foundation",
+  "primaryEmail": "info@medha.org.in",
+  "website": "http://medha.org.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "915224044932",
+    "917080997811"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "407",
+      "Dr. Baijnath Road",
+      "Lucknow",
+      "Uttar Pradesh",
+      "226007"
+    ]
+  },
+  "briefDescription": "Medha improves employment outcomes for youth. We provide 21st century skills training, career counseling and workplace exposure, and ongoing job placement and alumni support to students at their existing educational institution.Since 2011, Medha has worked with over 13,000 students across 65 educational institutions, placed them into internships and full-time jobs with 500 leading employers, and built a public-private partnership with the Government of Uttar Pradesh.Medha is supported by leading global foundations like Michael & Susan Dell Foundation, Citigroup, Accenture, Bank of America,and EdelGive Foundation; and has received numerous awards and recognitions for its work, including the Echoing Green Global Fellowship, the Dasra Girl Power Award, and the Sitaram Rao Livelihoods Asia Award.",
+  "yearOfEstablishment": "2011"
+}

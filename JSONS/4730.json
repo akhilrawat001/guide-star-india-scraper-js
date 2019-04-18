@@ -1,0 +1,42 @@
+{
+  "contacts": [
+    {
+      "name": "G.MUSTAFA",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4730",
+  "name": "HEMNAGAR SUNDARBAN DREAM",
+  "primaryEmail": "sundarbandream@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919830887699",
+    "919163953724"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "VILL + P.O-JOGESHGANJ BAZAR,DISTRICT-NORTH 24 PGS,P/S-HEMNAGAR COASTAL,PIN-734339,STATE-WEST BENGAL",
+      "162,DIAMOND HARBOUR RD,Care of -MADHUSUDAN DUBEY,KOLKATA-60",
+      "HEMNANAR COASTAL POLICE STATION AREA",
+      "North 24 Parganas",
+      "West Bengal",
+      "743439"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "160,DIAMOND HARBOUR RD",
+      "Care of-M.S. DUBEY,KOLKATA-60",
+      "HEMNAGAR COASTAL POLICE STATION AREA",
+      "Kolkata",
+      "West Bengal",
+      "400060"
+    ]
+  }
+}

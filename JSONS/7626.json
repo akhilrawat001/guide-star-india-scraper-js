@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "DR RAM MUKHOPADHYAY",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7626",
+  "name": "BAIDYABATI CHINYAMASTA SHAKTIPITH MISSION",
+  "primaryEmail": "bcsmissionindia@gmail.com",
+  "website": "WWW.BCSMISSIONINDIA.ORG",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "918961441071"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "341 AND 294 S. S. BOSE SARANI",
+      "P.O. BAIDYABATI",
+      "BAIDYABATI",
+      "Hooghly",
+      "West Bengal",
+      "712222"
+    ]
+  }
+}

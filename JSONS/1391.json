@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "name": "Ram Pratap Pandey",
+      "email": "rppandey.nyf@gmail.com",
+      "designation": "National Coordinator",
+      "mobile": [
+        "91-522-4011150",
+        "91-9984065000"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1391",
+  "name": "National Youth Foundation",
+  "primaryEmail": "nationalyouthfoundation@gmail.com",
+  "website": "http://www.nyfindia.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network"
+  ],
+  "telephone": [
+    "915224011150",
+    "919984065000",
+    "915223211150"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "B-1/95A Vipul Khand.",
+      "Gomti Nagar,",
+      "Lucknow",
+      "Uttar Pradesh",
+      "226010"
+    ]
+  },
+  "briefDescription": "NYF is a premier Youth Led Organization founded with the basic aim of associating youths in Socio-Economic affairs of Country promoting number of activities in diversified fields of Child Education, Women Empowerment, Youth Affairs, Advocacy and Handicapped Welfare etc irrespective of Regional, Cultural or Linguistic Barriers. The Foundation is dedicated to the cause of Child Education, Blindness Eradication, Women & Youth Empowerment and Advocacy across India supported by number of Corporate Houses, Organizations & Government Departments.  The Flagship Projects of Foundation includes UJAALA Literacy Campaign, SAVERA Healthcare Program and Social Entrepreneurship & Governance Program aimed at creating a cadre of aspiring young Leaders who are willing to make their careers in social enterprises or democratic institutions of Country.",
+  "yearOfEstablishment": "2007"
+}

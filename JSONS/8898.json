@@ -1,0 +1,36 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8898",
+  "name": "Fair Trade Forum India",
+  "primaryEmail": "ftfindia@gmail.com",
+  "website": "www.fairtradeforum.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "911141328730",
+    "911141328730"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "G-14, Lower Ground Floor",
+      "Lajpat Nagar – III",
+      "New Delhi",
+      "South Delhi",
+      "Delhi",
+      "110024"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "Flat No 206, 2nd Floor, Plot No- 62-A/1,",
+      "Garhi, Near East of Kailash (A Block),",
+      "New Delhi",
+      "South Delhi",
+      "Delhi",
+      "110065"
+    ]
+  }
+}

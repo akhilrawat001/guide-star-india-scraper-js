@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Manoj Kumar Singh",
+      "email": "",
+      "designation": "Secretary",
+      "mobile": []
+    },
+    {
+      "name": "Manoj Kumar Singh",
+      "email": "",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1056",
+  "name": "Lok Prerna Kendra",
+  "primaryEmail": "binodsingh.ngo@gmail.com",
+  "telephone": [
+    "916112257258",
+    "916112257258"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "Vill & Po - Kobil  Via - Islampur",
+      "Islampur",
+      "Nalanda",
+      "Bihar",
+      "801303"
+    ]
+  }
+}

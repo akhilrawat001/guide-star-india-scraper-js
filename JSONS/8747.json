@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Ashvin V Anjikar",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "9890898081"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8747",
+  "name": "VASSS FOUNDATION (VYENKATRAO ANJIKAR SMRUTI SEVA SANKALP)",
+  "primaryEmail": "vasssfoundation@gmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Support"
+  ],
+  "telephone": [
+    "INDIA",
+    "9890898081"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Anjikar House, Panchpaoli,",
+      "Timki, Chimabai Peth Nagpur",
+      "Nagpur",
+      "Maharashtra",
+      "440018"
+    ]
+  }
+}

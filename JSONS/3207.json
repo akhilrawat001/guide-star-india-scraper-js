@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "Kartikeya V. Sarabhai",
+      "email": "",
+      "designation": "Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3207",
+  "name": "Nehru Foundation For Development",
+  "primaryEmail": "mail@nfindia.org",
+  "telephone": [
+    "917926857123",
+    "917926858020",
+    "917926857123"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "Tehlka Tekra,",
+      "Ahemdabad",
+      "Ahmedabad",
+      "Gujarat",
+      "380054"
+    ]
+  }
+}

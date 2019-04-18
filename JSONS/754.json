@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "Sujoy Aich",
+      "email": "",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=754",
+  "name": "Swami Vivekanand Shiksha Samiti",
+  "primaryEmail": "svssngo@hotmail.com",
+  "telephone": [
+    "917552488171",
+    "917552488171",
+    "917552488171"
+  ],
+  "mainAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "M-20/3-A, Saket Nagar",
+      "Bhopal",
+      "Madhya Pradesh",
+      "462024"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "Quarter No. 374 Rachana, Hujura Nagar",
+      "Bhopal",
+      "Madhya Pradesh",
+      "462003"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "contacts": [
+    {
+      "name": "Nazir Ahmad Khan",
+      "email": "chairman@aiscnation.org",
+      "designation": "Chairman",
+      "mobile": []
+    },
+    {
+      "name": "Nazir Ahmad Khan",
+      "email": "chairman@aiscnation.org",
+      "designation": "Chairman",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6400",
+  "name": "All India Security Council",
+  "primaryEmail": "chairmanaisc@gmail.com",
+  "website": "http://www.aiscnation.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "917006944277"
+  ],
+  "mainAddrress": {
+    "state": "Jammu and Kashmir",
+    "address": [
+      "head office opposite D.C office Dewan Bagh baramulla kashmir 193101",
+      "opp D.C office baramulla kashmir",
+      "baramulla",
+      "Baramulla",
+      "Jammu and Kashmir",
+      "193101"
+    ]
+  },
+  "briefDescription": "All India Security Council provides security on account of imparting quality education, to needy poor and disabled persons of the society. Carry peace mission, provides technical education and fight for the rehabilitation of the people of J&K state/country. The society has framed its constitution/ Bye-laws and assures full guarantee for its implementation as laid down in the Constitution/ Bye-laws.",
+  "yearOfEstablishment": "2008"
+}

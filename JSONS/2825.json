@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "SHIV LAL YADAV",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2825",
+  "name": "SHIVAM GRAM UTTHAN SEVA SANSTHAN",
+  "primaryEmail": "shivamguss@rediffmail.com",
+  "website": "NA",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919450831639"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "VILL-MADDHUPUR",
+      "POST-MAHARAJPUR",
+      "DISTT-AZAMGARH",
+      "Azamgarh",
+      "Uttar Pradesh",
+      "276001"
+    ]
+  }
+}

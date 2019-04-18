@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "M.S.A. SATISH BABU",
+      "email": "babuhealds@gmail.com",
+      "designation": "Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3578",
+  "name": "HEALTH AND EDUCATION ALTERNATIVE DEVELOPMENT STUDIES(HEALDS)",
+  "primaryEmail": "babuhealds@gmail.com",
+  "website": "www.healdsindia.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919842686586"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "487/A, Chinnayan Thottam,Opposite to Sugar Mills",
+      "Melapettaipalayam (po), Mohanur",
+      "Namakkal",
+      "Tamil Nadu",
+      "637015"
+    ]
+  }
+}

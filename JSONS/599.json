@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "A Jeevanandam",
+      "email": "",
+      "designation": "Executive Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=599",
+  "name": "Integrated Rural Community Development Society",
+  "primaryEmail": "ircds2000@gmail.com",
+  "website": "www.ircdsindia.org",
+  "telephone": [
+    "914575240605",
+    "914575241814",
+    "914575240605"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "78-E, Madurai Road",
+      "Opp R C Church",
+      "Sivaganga",
+      "Sivagangai",
+      "Tamil Nadu",
+      "630561"
+    ]
+  }
+}

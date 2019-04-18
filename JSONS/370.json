@@ -1,0 +1,41 @@
+{
+  "contacts": [
+    {
+      "name": "Ravindra M",
+      "email": "ravindra@helpap.in",
+      "designation": "Programme Manager",
+      "mobile": [
+        "91-8592-221209"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=370",
+  "name": "Society for Help Entire Lower & Rural People (HELP)",
+  "primaryEmail": "helpap2002@yahoo.com",
+  "website": "http://www.helpap.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918592221209",
+    "918592281738",
+    "918592221209"
+  ],
+  "mainAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "2nd lane, Sujatha nagar",
+      "Lawyer pet Ext.",
+      "Ongole",
+      "Prakasam",
+      "Andhra Pradesh",
+      "523002"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "Andhra Pradesh"
+    ]
+  }
+}

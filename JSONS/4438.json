@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Ram Babu Prahant",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4438",
+  "name": "Kalyanam",
+  "primaryEmail": "kalyanam131@gmail.com",
+  "website": "www.kalyanam.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919810246133"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "41/1407, DDA Flats, Madangir, New Delhi-62",
+      "Madangir, New Delhi-62",
+      "Delhi",
+      "South Delhi",
+      "110062"
+    ]
+  }
+}

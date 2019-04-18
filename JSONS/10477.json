@@ -1,0 +1,25 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10477",
+  "name": "KARUNYAVARSHAM CHARITABLE TRUST",
+  "primaryEmail": "karunyavarsham@gmail.com",
+  "website": "www.karunyacare.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919446315690",
+    "919447195690"
+  ],
+  "mainAddrress": {
+    "state": "Kerala",
+    "address": [
+      "Lisieux, Mnra134, Mavelinagar",
+      "Puthanpura Cross Road, Changampuzhanagar P.O.",
+      "Kochi",
+      "Ernakulam",
+      "Kerala",
+      "682033"
+    ]
+  }
+}

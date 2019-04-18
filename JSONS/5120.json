@@ -1,0 +1,41 @@
+{
+  "contacts": [
+    {
+      "name": "Sandeep R.Dhobale",
+      "email": "sandeepdhoble@rediffmail.com",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5120",
+  "name": "RAJMATA JIJAMATA BAHUUDESHIYA SANSTHA CHANDRAPUR",
+  "primaryEmail": "sandeepdhoble@rediffmail.com",
+  "website": "www.rajmata.org",
+  "organisationType": [
+    "Direct Service",
+    "Grant-making"
+  ],
+  "telephone": [
+    "919890499062",
+    "917387567670"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "F-3 Shreeramsagar apartment,Atharva colony,Akashwani road,civil lines,Chandrapur",
+      "Chandrapur",
+      "Maharashtra",
+      "442401"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "F-3 Shreeramsagar Apartment,",
+      "Atharva Colony, Akashwani Road, Civil Lines",
+      "Chandrapur",
+      "Maharashtra",
+      "442401"
+    ]
+  }
+}

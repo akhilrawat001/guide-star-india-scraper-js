@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "MR.SRIKANTA DAS",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7320",
+  "name": "RADIANT YOUTH WELFARE SOCIETY",
+  "primaryEmail": "radiant_yws@rediffmail.com",
+  "website": "ryws.org",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919232362593"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Gyanaoriya Bhawan",
+      "Gopali-talbagichia road",
+      "Paschim Pathri, Hijli Co-op. Society, Kharagpur",
+      "West Medinipur",
+      "West Bengal",
+      "721306"
+    ]
+  }
+}

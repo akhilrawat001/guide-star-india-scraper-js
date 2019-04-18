@@ -1,0 +1,29 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2178",
+  "name": "PARAS SWAYAMSEVI SANSTHA",
+  "primaryEmail": "parascg@gmail.com",
+  "telephone": [
+    "919098471156"
+  ],
+  "mainAddrress": {
+    "state": "Chhattisgarh",
+    "address": [
+      "Head office - At/po binoba nagar, Boirdadar, Raigarh, Chattisgarh, India 496001",
+      "Boirdadar",
+      "Raigarh",
+      "Chhattisgarh",
+      "496001"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Chhattisgarh",
+    "address": [
+      "Lendhara",
+      "baramkela",
+      "Raigarh",
+      "Chhattisgarh",
+      "496001"
+    ]
+  }
+}

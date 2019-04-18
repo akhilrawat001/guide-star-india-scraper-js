@@ -1,0 +1,36 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1932",
+  "name": "Bhavishya Bharat",
+  "primaryEmail": "info@bhavishyabharat.in",
+  "website": "http://www.bhavishyabharat.in",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "919963722293",
+    "914023607019"
+  ],
+  "mainAddrress": {
+    "state": "Telangana",
+    "address": [
+      "House No.: 315 First Floor, Union Bank Colony",
+      "Road No.: 3, Banjara Hills",
+      "Hyderabad",
+      "Telangana",
+      "500034"
+    ]
+  },
+  "briefDescription": "Bhavishya Bharat is a not-for-profit organisation having expertise in implementing integrated social development programmes, Corporate Social Responsibility (CSR) activities and planning, execution and evaluation of Local Area Development Programmes (LADP) for corporate and Government agencies. It aims at promoting integrated and inclusive development through social, economic and environmental interventions.",
+  "yearOfEstablishment": "2008",
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "Plot No. 657 D, HN -C-5, First Floor",
+      "Nai Basti, Devli Khanpur",
+      "New Delhi",
+      "Delhi",
+      "110062"
+    ]
+  }
+}

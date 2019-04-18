@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Girija Shankar Kumar",
+      "email": "veenapanischool@yahoo.com",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3580",
+  "name": "Veena Pani Gyanoday Modern Public School Society",
+  "primaryEmail": "veenapanischool@yahoo.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919631697999"
+  ],
+  "mainAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "NH-33 Mohulia,",
+      "Galudih,",
+      "Ghatsila",
+      "East Singhbhum",
+      "Jharkhand",
+      "832304"
+    ]
+  }
+}

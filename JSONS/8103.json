@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Avaneesh Patankar",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8103",
+  "name": "Jai Narayan Sarvodaya Vidyalaya Samiti",
+  "primaryEmail": "jaynarayan_btl@rediffmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919406535112"
+  ],
+  "mainAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "At-Karajgaon",
+      "Post Rondha",
+      "Betul",
+      "Madhya Pradesh",
+      "460001"
+    ]
+  }
+}

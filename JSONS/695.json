@@ -1,0 +1,40 @@
+{
+  "contacts": [
+    {
+      "name": "Eddie Mall",
+      "email": "",
+      "designation": "Executive Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=695",
+  "name": "SAAHASEE",
+  "primaryEmail": "saahaseeindia@gmail.com",
+  "website": "www.saahasee.org",
+  "telephone": [
+    "911125593160",
+    "911125593161",
+    "911125593162",
+    "911125593160"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "A-2/125, Janakpuri",
+      "New Delhi",
+      "Delhi",
+      "110058"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "3-B, MIG Flats",
+      "Pocket 6, Site - 2, Nasirpur,",
+      "Dwaraka",
+      "North West Delhi",
+      "Delhi",
+      "110045"
+    ]
+  }
+}

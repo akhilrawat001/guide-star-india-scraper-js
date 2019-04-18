@@ -1,0 +1,41 @@
+{
+  "contacts": [
+    {
+      "name": "Abhijit Gupta",
+      "email": "abhijit@akhandjyoti.com",
+      "designation": "Manager-Marketing & Communication",
+      "mobile": []
+    },
+    {
+      "name": "Abhijit Gupta",
+      "email": "abhijit@akhandjyoti.com",
+      "designation": "Manager-Marketing & Communication",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5367",
+  "name": "YUGRISHI SHRIRAM SHARMA ACHARYA CHARITABLE TRUST",
+  "primaryEmail": "yssact@gmail.com",
+  "website": "www.akhandjyoti.org",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919934752812",
+    "919065528073"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "VILLAGE & POST : MASTICHAK,",
+      "VIA POJHI PARSA",
+      "MASTICHAK, DARIAPUR",
+      "Saran",
+      "Bihar",
+      "841219"
+    ]
+  },
+  "briefDescription": "AKHAND JYOTI EYE HOSPITAL (AJEH) is the most effective eye hospital in Bihar working to eradicate blindness from the state and as a result reduce poverty. We choose to specifically target and reach out to the poor, blind patient from rural Bihar. This focused approach on the blind patient has made us the largest eye hospital in Eastern India, and in just a few years, we have shown that by sticking to our primary aim of eradicating blindness, we can also:1.\tOffer comprehensive, high quality eye care with specialized services for cataract, retina, children’s eye care, glaucoma & cornea2.\tBuild up a successful teaching eye hospital in the rural heartland by providing equal opportunities to girls and train them as ophthalmic assistants.",
+  "yearOfEstablishment": "2004"
+}

@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Mr. Amson Lamkang",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7069",
+  "name": "Little Angels Orphan Palace",
+  "primaryEmail": "laop1999@gmail.com",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "+917085964208"
+  ],
+  "mainAddrress": {
+    "state": "Manipur",
+    "address": [
+      "Sk.Amson Lamkang",
+      "Thamlakhuren Vill. Po. Pallel,",
+      "Chandel Dist. Manipur",
+      "Chandel",
+      "Manipur",
+      "795127"
+    ]
+  }
+}

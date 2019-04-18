@@ -1,0 +1,43 @@
+{
+  "contacts": [
+    {
+      "name": "Pankaj Jain",
+      "email": "info@smilyo.com",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5117",
+  "name": "Smilyo Educational Charitable Society",
+  "primaryEmail": "info@smilyo.com",
+  "website": "http://www.smilyo.com",
+  "organisationType": [
+    "Direct Service",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "9818609955"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "21A Second Floor, Nangli Razapur Nizammudin East",
+      "New Delhi",
+      "South West Delhi",
+      "Delhi",
+      "110013"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "21A Second Floor, Nangli Razapur Nizammudin East",
+      "New Delhi",
+      "South Delhi",
+      "Delhi",
+      "110013"
+    ]
+  }
+}

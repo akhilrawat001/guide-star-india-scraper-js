@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Roop Chandra",
+      "email": "roop261981@yahoo.com",
+      "designation": "Secratary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5415",
+  "name": "Vikendra Samaj Vikas Sewa Samiti",
+  "primaryEmail": "roop261981@yahoo.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919634072534"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "Vill Kuberpur, Po Tisauli",
+      "Distt. Mainpuri",
+      "Mainpuri",
+      "Uttar Pradesh",
+      "205267"
+    ]
+  }
+}

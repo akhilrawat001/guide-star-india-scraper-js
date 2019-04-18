@@ -1,0 +1,46 @@
+{
+  "contacts": [
+    {
+      "name": "Raja Rajeswari",
+      "email": "rajeswari.fracaritaindia@gmail.com",
+      "designation": "Head Resource Moblisation",
+      "mobile": [
+        "91-9052222599"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5548",
+  "name": "The Society of Brothers of Charity",
+  "primaryEmail": "rajeswari.fracaritaindia@gmail.com",
+  "website": "www.fracarita-international.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service"
+  ],
+  "telephone": [
+    "916512232511",
+    "914565220208"
+  ],
+  "mainAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "Param Mitra Sadan",
+      "182 Kanke Road  Burdwan compound",
+      "Ranchi",
+      "Jharkhand",
+      "834008"
+    ]
+  },
+  "briefDescription": "Fracarita India - The Brothers of Charity Society (BCS) is an NGO is an Indian wing of Fracarita International which is technically supported by Brothers of Charity Belgium. Fracarita India - The Brothers of Charity Society (BCS) has been legally registered in the year 1992. Since then BCS has been promoting contemporary approach to the care for chronic psychiatric patients in three states of India namely Jharkhand, Chennai and Kerala. BCS implements projects such as1.       Psycho -social Rehabilitation centers.2.       Primary school that provides quality education to 200 in rural village of Simalia, Ranchi.3.       Dr. Guislain – Svastha Educational Trust (G-SET) – Ranchi",
+  "yearOfEstablishment": "1991",
+  "regiseredAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "St.John De Britto, Ariyakudi, Narasimapuram",
+      "Karaikudi",
+      "Sivagangai",
+      "Tamil Nadu",
+      "630202"
+    ]
+  }
+}

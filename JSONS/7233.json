@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Santhosh Kr Raut",
+      "email": "",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7233",
+  "name": "Biswagyana Chetana Samaja",
+  "primaryEmail": "bgcskeonjhar@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919437650909"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "Analapal P.O,",
+      "Banipal",
+      "Kendujhar",
+      "Odisha",
+      "758020"
+    ]
+  }
+}

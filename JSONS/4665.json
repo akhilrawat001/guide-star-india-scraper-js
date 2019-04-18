@@ -1,0 +1,26 @@
+{
+  "contacts": [
+    {
+      "name": "Rajkumari Gupta",
+      "email": "safe.the.ngo@gmail.com",
+      "designation": "General Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4665",
+  "name": "Social Awareness for Education (SAFE)",
+  "primaryEmail": "safe.the.ngo@gmail.com",
+  "telephone": [
+    "911128331920",
+    "919971656327"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "B-118 DDA Colony Khyala",
+      "New Delhi",
+      "Delhi",
+      "110018"
+    ]
+  }
+}

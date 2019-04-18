@@ -1,0 +1,28 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1966",
+  "name": "Janahitha",
+  "primaryEmail": "janahitharcr@gmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "918532240537",
+    "918532240108",
+    "919448333193"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "Anantha Krupa",
+      "No-8-11-336, Neelakanteshwara Nagar, Ngo Colony",
+      "Raichur",
+      "Karnataka",
+      "584103"
+    ]
+  }
+}

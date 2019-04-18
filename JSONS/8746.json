@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "name": "AK Sharma",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "23210194",
+        "9980009419"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8746",
+  "name": "VIMUKTI",
+  "primaryEmail": "info@vimuktitrust.org",
+  "website": "http://www.vimuktitrust.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "918023210194",
+    "918023210194"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "1289, ISEC Road, Nagarbhavi Post",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560072"
+    ]
+  },
+  "briefDescription": "Focusing on bonded labour, we raise awareness of all concerned; build up agency and leadership in bonded labourers and daily workers, to access their rights against forced labour and discrimination, based on caste and gender, rights for minimum and equal wages, housing, drinking water, food under PDS, work under NREGA, rights to health, education, information and representation under Panchayat Raj.  We also do advocacy to bring policy changes at the national, state, district and local-gram panchayat levels.  The work is spread over all districts in Karnataka of 60,000,000 people and one district each in Andhra and Tamil Nadu.  We have a direct reach to 50,000 bonded labourers, landless workers and women and children and their families.",
+  "yearOfEstablishment": "1996"
+}

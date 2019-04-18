@@ -1,0 +1,50 @@
+{
+  "contacts": [
+    {
+      "name": "Anjali Hari",
+      "email": "",
+      "designation": "Programme Director",
+      "mobile": []
+    },
+    {
+      "name": "Anjali Hari",
+      "email": "",
+      "designation": "Programme Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=225",
+  "name": "Human Capital for Third Sector",
+  "primaryEmail": "anjali@thirdsectorpartners.com",
+  "website": "www.katalystindia.org",
+  "organisationType": [
+    "Grant-making"
+  ],
+  "telephone": [
+    "912266603558",
+    "912266603559",
+    "919820180265",
+    "912224371194"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "44621, Prabhaadevi Estate",
+      "Veer Savarakar Marg., Prabhadevi",
+      "Mumbai",
+      "Maharashtra",
+      "400025"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "412 B, Trade World",
+      "Kamala Mills, Lower Parel",
+      "Mumbai",
+      "Maharashtra",
+      "400013",
+      "AP_TelBill_125.PDF"
+    ]
+  }
+}

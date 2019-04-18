@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Diti Mookherjee",
+      "email": "asedkol@gmail.com",
+      "designation": "Chief Executive Officer",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=820",
+  "name": "Association for Social & Environmental Development",
+  "primaryEmail": "asedkol@gmail.com",
+  "website": "www.asedkol.org",
+  "organisationType": [
+    "Direct Service",
+    "Network"
+  ],
+  "telephone": [
+    "913324235100",
+    "919831153372"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "7&8 Golf Club Road,",
+      "Kolkata",
+      "West Bengal",
+      "700033"
+    ]
+  }
+}

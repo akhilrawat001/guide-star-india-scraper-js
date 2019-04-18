@@ -1,0 +1,65 @@
+{
+  "contacts": [
+    {
+      "name": "Shama Karkal",
+      "email": "shama@swasti.org",
+      "designation": "CEO",
+      "mobile": []
+    },
+    {
+      "name": "Shama Karkal",
+      "email": "shama@swasti.org",
+      "designation": "CEO",
+      "mobile": []
+    },
+    {
+      "name": "Shama Karkal",
+      "email": "shama@swasti.org",
+      "designation": "CEO",
+      "mobile": []
+    },
+    {
+      "name": "Shama Karkal",
+      "email": "shama@swasti.org",
+      "designation": "CEO",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6720",
+  "name": "Swasti",
+  "primaryEmail": "hello@swasti.org",
+  "website": "http://swasti.org/",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "918023517241"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "25, Raghvendra Nilaya,",
+      "1st Main, AECS Layout, Ashwathnagar",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560094"
+    ]
+  },
+  "briefDescription": "Swasti was established as a non-profit society in 2002 with a vision to enhance the well being of marginalised communities. The society was set up by a group of committed professionals who envisioned an organization that would make a difference in the social and management aspects of public health. To achieve its goal of empowering people and communities, particularly the poor and marginalised, Swasti operates through its various Thematic areas of expertise such as Health Systems Strengthening, HIV Prevention, Innovative Community Financing, Technology in Public Health, Life Skill Development, Gender Based Violence, Social Protection for the marginalised, Water, Sanitation and Hygiene and Integrated Community Health models.",
+  "yearOfEstablishment": "2004",
+  "regiseredAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "25, Raghvendra Nilaya,",
+      "1st Main, AECS Layout, Ashwathanaga",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560094"
+    ]
+  }
+}

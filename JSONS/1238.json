@@ -1,0 +1,40 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1238",
+  "name": "Gram Vikas Trust",
+  "primaryEmail": "contact@gvtbharuch.org",
+  "website": "http://www.gvtbharuch.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "912642239001",
+    "919662006293"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "A-8, Ganesh Township",
+      "Besides Shravan School, Link Road, Near Shravan Chokdi",
+      "Bharuch",
+      "Gujarat",
+      "392001",
+      "AP_TelBill_1142.TIF"
+    ]
+  },
+  "briefDescription": "Gram Vikas Trust, Bharuch, also known as GVT, is a non–profit, non-government and secular organisation established in the year 2001. The organisation is working in Bharuch and Narmada districts, which are economically vulnerable regions of Gujarat state (India). Having reached more than 25,000 children and community members by the year 2015, we aim to serve 1,00,000 children and community members by 2020. We invite partnership in achieving our aim.",
+  "yearOfEstablishment": "2001",
+  "regiseredAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "A-18,Pushpadhan Bunglows,",
+      "Link Road,Nr Hdfc Bank",
+      "Bharuch",
+      "Gujarat",
+      "392001",
+      "AP_TelBill_1142.TIF"
+    ]
+  }
+}

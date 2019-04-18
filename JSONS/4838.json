@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "DR.P.BHANUMATHI",
+      "email": "bhanusaleesh@gmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4838",
+  "name": "ASSOCIATION FOR MENTALLY HANDICAPPED ADULTS (AMHA)",
+  "primaryEmail": "bhanusaleesh@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "914872363670",
+    "914872363670"
+  ],
+  "mainAddrress": {
+    "state": "Kerala",
+    "address": [
+      "AMHA, ASHIRVAD",
+      "KARYATTUKARA",
+      "THRISSUR 680 611",
+      "Thrissur",
+      "Kerala",
+      "680611"
+    ]
+  },
+  "briefDescription": "Association for Mentally Challenged Adults is working in Kerala."
+}

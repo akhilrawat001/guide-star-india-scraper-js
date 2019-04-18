@@ -1,0 +1,38 @@
+{
+  "contacts": [
+    {
+      "name": "BALAJI J",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "25861167",
+        "9819593320"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5176",
+  "name": "REACH CHARITABLE TRUST",
+  "primaryEmail": "rctrojgar@gmail.com",
+  "website": "reachcharitable.org",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "912225861167",
+    "912225861167"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "366, Das Niwas",
+      "johar chawl opp G.B.D.Road,",
+      "patlipada, thane west",
+      "Thane",
+      "Maharashtra",
+      "400607"
+    ]
+  },
+  "briefDescription": "RCT is in its infancy and working for illiterates and drop-outs PwD by providing training, creating job opportunities and self-employment. RCT has successfully established shops in Mumbai, Thane and Bharatpur (Raj.) as a Pilot Project. Now we are proposing to provide such services across India. These services will be monitored and assessed on a day to day basis for its progress and self-sustainability. RCT also provides consultancy to set up Vocational Training Centres, Services and Maintenance of Assistive Devices and provide education materials in tactile for visually challenged.",
+  "yearOfEstablishment": "2013"
+}

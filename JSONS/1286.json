@@ -1,0 +1,36 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1286",
+  "name": "Cheshire Homes india",
+  "primaryEmail": "nc@cheshireindia.org",
+  "website": "www.cheshireindia.org",
+  "organisationType": [
+    "Advocacy & Campaigning"
+  ],
+  "telephone": [
+    "9102228234390",
+    "9102228234390"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Bethlehem House",
+      "mahakali Caves Road",
+      "Andheri",
+      "Mumbai",
+      "Maharashtra",
+      "400093",
+      "Adress proof Elect. bill.tif"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Bethlehem house",
+      "mahakali caves road",
+      "Andheri East",
+      "Mumbai",
+      "Maharashtra"
+    ]
+  }
+}

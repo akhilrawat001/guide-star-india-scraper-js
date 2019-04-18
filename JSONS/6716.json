@@ -1,0 +1,37 @@
+{
+  "contacts": [
+    {
+      "name": "Dr. Pushkin Phartiyal",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "233099"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6716",
+  "name": "Central Himalayan Environment Association",
+  "primaryEmail": "cheaindia@gmail.com",
+  "website": "http://www.cheaindia.org/",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "915942233099",
+    "915942233099"
+  ],
+  "mainAddrress": {
+    "state": "Uttarakhand",
+    "address": [
+      "06, Waldorf Compound",
+      "Mallital",
+      "Nainital",
+      "Uttarakhand",
+      "263001",
+      "SIRO Certificate 2017.PDF"
+    ]
+  }
+}

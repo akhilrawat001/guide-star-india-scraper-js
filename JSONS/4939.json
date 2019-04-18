@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Madhuri Mahesh",
+      "email": "info@capfoundation.in",
+      "designation": "Director Operations",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4939",
+  "name": "CAP Foundation",
+  "primaryEmail": "info@capfoundation.in",
+  "website": "http://www.capfoundation.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "914023542534",
+    "914023542534"
+  ],
+  "mainAddrress": {
+    "state": "Telangana",
+    "address": [
+      "101, Gowri Shankar Residency, Plot No 53&54,",
+      "Kamalapuri Colony, Phase - III",
+      "Hyderabad",
+      "Telangana",
+      "500073"
+    ]
+  }
+}

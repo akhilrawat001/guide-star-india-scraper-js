@@ -1,0 +1,48 @@
+{
+  "contacts": [
+    {
+      "name": "ELSAMARIE DSILVA",
+      "email": "elsamarieds@gmail.com",
+      "designation": "MANAGING DIRECTOR & COFOUNDER",
+      "mobile": [
+        "9867644975"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6388",
+  "name": "RED DOT FOUNDATION",
+  "primaryEmail": "info@safecity.in",
+  "website": "www.safecity.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919867644975"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "7, SEA VIEW, FOUR BUNGALOWS",
+      "ANDHERI WEST",
+      "MUMBAI",
+      "Mumbai Suburban",
+      "Maharashtra",
+      "400058"
+    ]
+  },
+  "briefDescription": "Red Dot Foundation was founded in Dec 2012 to encourage women and girls to record incidences of sexual harassment and educate them about the issue of safety and mobility. Red Dot’s aim is to make public spaces safer and accessible to all, especially women, girls and children, using data and technology. It works to empower women and girls to break their silence and take action by understanding their rights.",
+  "yearOfEstablishment": "2014",
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "7, SEA VIEW, FOUR BUNGALOWS",
+      "ANDHERI WEST",
+      "MUMBAI",
+      "Mumbai Suburban",
+      "Maharashtra",
+      "400053"
+    ]
+  }
+}

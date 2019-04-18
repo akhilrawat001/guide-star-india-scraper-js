@@ -1,0 +1,22 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2028",
+  "name": "Manav Kalyan Pratisthan",
+  "primaryEmail": "manavkalyanftp17@rediffmail.com",
+  "website": "www.mkpindia.in",
+  "telephone": [
+    "915180224647",
+    "919415065534"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "72",
+      "Ismailganj",
+      "Ismailpur",
+      "Fatehpur",
+      "Uttar Pradesh",
+      "123456"
+    ]
+  }
+}

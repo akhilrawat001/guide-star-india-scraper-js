@@ -1,0 +1,43 @@
+{
+  "contacts": [
+    {
+      "name": "Dr Hirdesh Chaudhary",
+      "email": "drhchaudhary@yahoo.com",
+      "designation": "General Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4916",
+  "name": "AARADHANA",
+  "primaryEmail": "drhchaudhary@yahoo.com",
+  "website": "http://www.aaradhanagroup.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919639161612"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "14, SULABHPURAM, SIKANDARA BODLA ROAD",
+      "AGRA",
+      "Agra",
+      "Uttar Pradesh",
+      "282007"
+    ]
+  },
+  "briefDescription": "Aaradhana Sanstha is a registered non-profit, service organization working for the care and welfare of the children. Aaradhana Sanstha was founded in 2002 by renowned Hindi Poet and satirist of Agra Shri Pawan Agri which got support from educationist, social activist and writer Dr (Mrs) Hirdesh Chaudhary. Aaradhana Sanstha got registered on 26.11.2010 under Rule 21 of Society’s Act 1860 in Agra with the aim to work for educational upliftment of underprivileged and disadvantageous section of the society. Besides this, Aaradhana Sanstha mainly works in social, educational, cultural and literary field for overall development of the society by way of organizing various awareness campaigns, cultural and literary functions of national level in Agra. Now, it has decided to work for upliftment of most neglected Ghumatu Jati, a nomadic scheduled tribe community having population of about 5000, mainly residing in temporarily built road side huts in undeveloped localities in Agra District.",
+  "yearOfEstablishment": "2002",
+  "regiseredAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "14, SULABHPURAM",
+      "SIKANDARA BODLA ROAD",
+      "AGRA",
+      "Agra",
+      "Uttar Pradesh",
+      "282007"
+    ]
+  }
+}

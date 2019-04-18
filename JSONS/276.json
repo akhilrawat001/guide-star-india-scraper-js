@@ -1,0 +1,37 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=276",
+  "name": "GOONJ",
+  "primaryEmail": "mail@goonj.org",
+  "website": "https://goonj.org/",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "911126972351",
+    "919717863458",
+    "911141401216"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "J-93, Sarita Vihar",
+      "New Delhi",
+      "Delhi",
+      "110076"
+    ]
+  },
+  "briefDescription": "GOONJ is a multi-award winning social enterprise, using the cities discard for fueling wide spread development work across village India. While dealing with more than 3600 tons of material annually, Goonj reaches with this material as a resource, as a parallel currency with dignity to the rural communities as they take up large scale development work like recharging water bodies, rebuilding local infrastructure, education, for addressing their own issues. Goonj’s work has also led to the systematic changes in the disaster relief & rehabilitation work; while it has also opened up the most taboo issue of menstrual hygiene and providing clean cotton cloth pads as a viable solution. For details, please refer to www.goonj.org",
+  "yearOfEstablishment": "1999",
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "J-93, Sarita Vihar",
+      "New Delhi",
+      "South Delhi",
+      "Delhi",
+      "110076"
+    ]
+  }
+}

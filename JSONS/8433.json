@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Vency Dabre",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "9819863271"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8433",
+  "name": "Hari Sankar Foundation Trust",
+  "primaryEmail": "infoharisankarfoundation@gmail.com",
+  "website": "www.harisankarfoundation.com",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "919819863271"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "B-703, Times Square,Andheri kurla Road, Andheri(E)",
+      "Near Marol Metro Station",
+      "Mumbai",
+      "Maharashtra",
+      "400059"
+    ]
+  }
+}

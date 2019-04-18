@@ -1,0 +1,44 @@
+{
+  "contacts": [
+    {
+      "name": "A G Lakshmanan",
+      "email": "agl@giveindia.org",
+      "designation": "Head - NGO ecosystem and crowdfunding",
+      "mobile": [
+        "91-22-61739474"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=527",
+  "name": "GIVE Foundation",
+  "primaryEmail": "agl@giveindia.org",
+  "website": "http://www.giveindia.org/",
+  "organisationType": [
+    "Intermediary"
+  ],
+  "telephone": [
+    "912242759474"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "​B - 703 Pramukh Plaza, off. Andheri Kurla Road,",
+      "​Chakala, Andheri (E)",
+      "Mumbai",
+      "Maharashtra",
+      "400093"
+    ]
+  },
+  "briefDescription": "GiveIndia is an online marketplace which brings together non profits and donors on a common platform. We have reviewed over 3,000 non-profit organizations from all over India to identify over 200 organizations that have met with GiveIndia's Listing Criteria. They work for causes ranging from child welfare and education to disability, poverty, and women's empowerment to name a few. The fundamental premise of our operating model is that the donor is an ‘investor’ looking for social returns (essentially the satisfaction of knowing that their money has made a difference to someone else’s life) and keeping that very fact in mind, we tell you where your money went and also give you proof of it through a feedback report.",
+  "yearOfEstablishment": "2000",
+  "regiseredAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "10th floor, JMC House",
+      "Ellisbridge",
+      "Ahmedabad",
+      "Gujarat",
+      "380006"
+    ]
+  }
+}

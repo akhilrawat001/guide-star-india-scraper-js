@@ -1,0 +1,37 @@
+{
+  "contacts": [
+    {
+      "name": "Fr Richard D'souza S J",
+      "email": "",
+      "designation": "Administrator",
+      "mobile": []
+    },
+    {
+      "name": "Fr Richard D'souza S J",
+      "email": "",
+      "designation": "Administrator",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=535",
+  "name": "Ravi Bharati Institute",
+  "primaryEmail": "bennysj@rediffmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "916122263455",
+    "916122263455"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "Sadaquat Ashram",
+      "Patna",
+      "Bihar",
+      "800010"
+    ]
+  }
+}

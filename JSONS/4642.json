@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "SUNITA KUMARI PANIGRAHY",
+      "email": "sord_polasara@gmail.com",
+      "designation": "Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4642",
+  "name": "Social Organisation for Rural Development",
+  "primaryEmail": "sord_polasara@rediffmail.com",
+  "telephone": [
+    "916802223248",
+    "919437298763"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "At: Braja Nagar-3rd Lane,",
+      "Lochapada Road, Berhampur, Ganjam",
+      "Chatrapur",
+      "Ganjam",
+      "Odisha",
+      "760001"
+    ]
+  }
+}

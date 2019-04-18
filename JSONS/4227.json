@@ -1,0 +1,45 @@
+{
+  "contacts": [
+    {
+      "name": "Aruna Chalam Peri",
+      "email": "",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4227",
+  "name": "Sai Kripa Seva Sansthan",
+  "primaryEmail": "saikripa.sevasansthan@gmail.com",
+  "website": "www.saikripasevasansthan.simplesite.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network"
+  ],
+  "telephone": [
+    "919540526344",
+    "918882870186"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "SKSS DOTS & HEALTH CARE CENTRE,",
+      "Holambi Kalan Village, Opp: Metro Vihar, J.J.Colony",
+      "Delhi",
+      "North West Delhi",
+      "110040"
+    ]
+  },
+  "briefDescription": "We are active in the spreading of AIDS awareness and running 2 Dots Centres (Diagnose Microscopic Centres)treating TB Patients and we served a minimum of 800 patients in these diseases.",
+  "yearOfEstablishment": "2005",
+  "regiseredAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "Sai Kripa Seva Sansthan",
+      "D-457 B, Lajpat Nagar, Sahibabad",
+      "Ghaziabad",
+      "Uttar Pradesh",
+      "201005"
+    ]
+  }
+}

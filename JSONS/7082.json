@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Dr Amar Chandra Biswas",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7082",
+  "name": "CENTRE FOR HUMAN RIGHTS RESEARCH STUDIES(NADIA)",
+  "primaryEmail": "issrdindia@yahoo.co.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919434450342"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Vill+Po- Telakpur",
+      "Telakpur",
+      "Krishnagar",
+      "Nadia",
+      "West Bengal",
+      "741164"
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Betty Priyanka Paul",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "24807070"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2704",
+  "name": "World Vision India",
+  "primaryEmail": "indiasponsors@wvi.org",
+  "website": "http://www.worldvision.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service"
+  ],
+  "telephone": [
+    "914424807070",
+    "914424807070"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "16,VOC Main Road, Kodambakkam,",
+      "Chennai",
+      "Tamil Nadu",
+      "600024"
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "contacts": [
+    {
+      "name": "T Rajendra Prasad",
+      "email": "",
+      "designation": "General Secretary",
+      "mobile": []
+    },
+    {
+      "name": "T Rajendra Prasad",
+      "email": "",
+      "designation": "General Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1134",
+  "name": "SUMANGALI (Society for Uplift Marginalised And Needy towards Growing Abundant Life with Integrity)",
+  "primaryEmail": "sumangalingo17@rediffmail.com",
+  "website": "www.sumangalingo.org",
+  "telephone": [
+    "917173223885",
+    "917173223885"
+  ],
+  "mainAddrress": {
+    "state": "Telangana",
+    "address": [
+      "H No 7-21",
+      "Ramnagar Colony",
+      "Adilabad",
+      "Telangana",
+      "504002"
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1433",
+  "name": "Bhartiya Jamate Alvia-E-Hayet",
+  "primaryEmail": "aleemalvi@rediffmail.com",
+  "website": "www.alviwelfare.webs.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919313660293"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "House No 2188",
+      "Street No-02, Islam Nagar,",
+      "Ghaziabad",
+      "Uttar Pradesh",
+      "201001"
+    ]
+  }
+}

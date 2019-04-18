@@ -1,0 +1,46 @@
+{
+  "contacts": [
+    {
+      "name": "Gauri Damle",
+      "email": "gauri.ekansh@gmail.com",
+      "designation": "Program co-ordinator",
+      "mobile": [
+        "91-20-66245127",
+        "91-9503715015"
+      ]
+    },
+    {
+      "name": "Gauri Damle",
+      "email": "gauri.ekansh@gmail.com",
+      "designation": "Program co-ordinator",
+      "mobile": [
+        "91-20-66245127",
+        "91-9503715015"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4247",
+  "name": "EKANSH TRUST",
+  "primaryEmail": "info@ekansh.org",
+  "website": "http://www.ekansh.org/",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service"
+  ],
+  "telephone": [
+    "919503715015"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "A9, KPCT Mall, Fatima Nagar, Pune-13",
+      "KPCT Mall, Pune-13",
+      "Pune",
+      "Maharashtra",
+      "400013",
+      "IT return.doc"
+    ]
+  },
+  "briefDescription": "Ekansh Trust works towards EMPOWERING People with Disabilities. Awareness, Acceptance, Access, Sensitization and Inclusion are our focuses.",
+  "yearOfEstablishment": "2009"
+}

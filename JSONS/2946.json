@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "name": "Kishor Moghe",
+      "email": "kishormoghe123@rediffmail.com",
+      "designation": "Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2946",
+  "name": "Gramin Samassya Mukti Trust",
+  "primaryEmail": "gsmt.wani@gmail.com",
+  "website": "http://www.gsmtyavatmal.org",
+  "telephone": [
+    "917239225974",
+    "917239289246",
+    "917239225974"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "16, Sadhankarwadi",
+      "Wani",
+      "Yavatmal",
+      "Maharashtra",
+      "445304"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "16, SADHANKARWADI,WANI,DIST. YAVATMAL 445304",
+      "WANI",
+      "Yavatmal",
+      "Maharashtra",
+      "445304"
+    ]
+  }
+}

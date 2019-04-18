@@ -1,0 +1,36 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8375",
+  "name": "MAA PALLE SEVA SOCIETY",
+  "primaryEmail": "maapalleseva@gmail.com",
+  "website": "http://www.maapalleseva.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919848457012"
+  ],
+  "mainAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "Door no. 4-104, Care of N.Raja Ratnam,",
+      "Pathapeta",
+      "Chityala, Village, Gopalapuram, Mandal,",
+      "West Godavari",
+      "Andhra Pradesh",
+      "534316"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "Door No. 4-104, C/O N.Raja Ratnam",
+      "Pathapeta",
+      "Chityala Village, Gopalapuram Mandal,",
+      "West Godavari",
+      "Andhra Pradesh",
+      "534316"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "contacts": [
+    {
+      "name": "Venkataramanan Sriraman",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5441",
+  "name": "eVidyaloka Trust",
+  "primaryEmail": "venkat.sriraman@evidyaloka.org",
+  "website": "www.evidyaloka.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918040903939"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "122, 4TH CROSS",
+      "35TH MAIN, BTM LAYOUT 2ND STAGE",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560076"
+    ]
+  },
+  "briefDescription": "eVidyaloka focuses on transforming the education landscape in the rural and remote regions of India, harnessing the power of technology through a service delivery platform (My eVidyaloka 2.0). It is realized by involving the local communities to own the digital class rooms, connect and empower educated native-speaking volunteers, across the cities in India and world, to teach and mentor the children of rural villages of India, who are otherwise deprived of quality education due to shortage of teachers. This addresses the major root cause of poor quality education in rural India, which short-changes millions of children and consigns them to lifelong poverty.",
+  "yearOfEstablishment": "2011",
+  "regiseredAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "F002, Purva Fairmont",
+      "24th Main, 2nd Sector, HSR Layout",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560102"
+    ]
+  }
+}

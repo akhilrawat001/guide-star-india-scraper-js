@@ -1,0 +1,34 @@
+{
+  "contacts": [
+    {
+      "name": "Preethi Xavier",
+      "email": "info@payir.org",
+      "designation": "Medical Officer",
+      "mobile": [
+        "91-4327-234644"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2488",
+  "name": "PAYIR TRUST",
+  "primaryEmail": "info@payir.org",
+  "website": "www.payir.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "914327234644",
+    "914327234644"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "Payir Trust Thenur Village (via) T. Kalathur Kunnam",
+      "Perambalur",
+      "Tamil Nadu",
+      "621114"
+    ]
+  },
+  "briefDescription": "Work covers 7 villages towards holistic development & District level facilitation for strengthening children health and education, differently abled.8 Community health workers reach out to 15,000 villagers in 6 villages.Supplementary Nutrition program for malnourished kids at district levelWorking with 23 Government Primary, Middle and High schools covering 3000 children.Video-conference based e-Learning and Tele-Medicine.Boot-strapped 10 livelihood income generation business among villages.Nurturing Sacred groove of traditional tree varieties in 15 acres.Abolished Illicit liquor.",
+  "yearOfEstablishment": "2005"
+}

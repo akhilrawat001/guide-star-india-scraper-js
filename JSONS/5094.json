@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Imdadul Hoque",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5094",
+  "name": "RAGHUNATHGANJ RURAL COMPUTECH EDUCATIONAL SOCIETY",
+  "primaryEmail": "cyberedge1961@gmail.com",
+  "website": "www.cyberedgec.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919126384029"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "2nd floor samsanghat road,raghunathganj",
+      "samsanghat road",
+      "jangipur",
+      "Murshidabad",
+      "West Bengal",
+      "742225"
+    ]
+  }
+}

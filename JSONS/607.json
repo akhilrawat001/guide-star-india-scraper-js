@@ -1,0 +1,35 @@
+{
+  "contacts": [
+    {
+      "name": "Samarendra Dixit",
+      "email": "prachiyso@rediffmail.com",
+      "designation": "Secretary",
+      "mobile": [
+        "91-6758-231493",
+        "91-9853921376"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=607",
+  "name": "Prachi Youth Social Organisation",
+  "primaryEmail": "prachiyso@rediffmail.com",
+  "website": "www.prachiyso.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "916758231493"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "At- Kakatpur",
+      "Kakatpur",
+      "Puri",
+      "Odisha",
+      "752108"
+    ]
+  },
+  "briefDescription": "Organisation working on Education, Health, Women Empowerment, Disaster Preparedness etc. We served around 1000 no's of People",
+  "yearOfEstablishment": "1994"
+}

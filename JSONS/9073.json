@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Mr.Sujit Mondal",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9073",
+  "name": "MANAV BANDHAN FOUNDATION",
+  "primaryEmail": "manavbandhanfoundation@gmail.com",
+  "website": "www.manavbandhanfoundation.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919733066435"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Vill + P.O. Purba Radhapur, P.S. Bhagwanpur",
+      "Vill+P.O.Purbaradhapur",
+      "East Medinipur",
+      "West Bengal",
+      "721425"
+    ]
+  },
+  "briefDescription": "Manav Bandhan Foundation is located in Vill+P.O-Purbaradhapur,P.S-Bhagwanpur,Ditric-Purba Midenipur, West Bengal.",
+  "yearOfEstablishment": "2016"
+}

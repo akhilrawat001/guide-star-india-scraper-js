@@ -1,0 +1,52 @@
+{
+  "contacts": [
+    {
+      "name": "RAHUL AMBADSKAR",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "22110080"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4531",
+  "name": "EPILEPSY FOUNDATION",
+  "primaryEmail": "epilepsyfoundationindia@gmail.com",
+  "website": "www.epilepsyfoundationindia.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "912222110080",
+    "912222110080"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "310, LOTUS HOUSE, NEXT TO LIBERTY CINEMA",
+      "NEW MARINE LINES (E)",
+      "MUMBAI",
+      "Mumbai",
+      "Maharashtra",
+      "400020"
+    ]
+  },
+  "briefDescription": "Epilepsy Foundation is a non-profitable charitable organisation working for the cause of people suffering from epilepsy.Epilepsy Foundation dedicated solely to the welfare of the millions of people with epilepsy in the India and their families. The organization works to ensure that people with seizures are able to participate in all life experiences to improve how people with epilepsy are perceived, accepted and valued in society and to promote research for a cure.We conduct FREE EPILEPSY CLINIC on ALL TUESDAYS.In association with NRHM we conduct FREE CAMPS to diagnose & treat Epilepsy in various parts of Maharashtra.More than 1400 people registered in TUESDAY OPD.More than 5500 people being treated at FREE CAMPS.",
+  "yearOfEstablishment": "2009",
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "602, SHUBH APARTMENT",
+      "B.G. KHER MARG, WORLI",
+      "MUMBAI",
+      "Mumbai",
+      "Maharashtra",
+      "400018"
+    ]
+  }
+}

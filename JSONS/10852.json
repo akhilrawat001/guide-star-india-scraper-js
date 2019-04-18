@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Pk Sahu",
+      "email": "pksahu007@gmail.com",
+      "designation": "CEO",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10852",
+  "name": "MANAGING COMMITTEE OF PATHANI SAMANTA SHIKSHA KENDRA",
+  "primaryEmail": "pssk@theadview.com",
+  "website": "https://www.psskpv.in/",
+  "telephone": [
+    "919556832707"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "Kiit Road",
+      "Prasanti  Vihar",
+      "Khordha",
+      "Odisha",
+      "751024"
+    ]
+  },
+  "briefDescription": "Managing Commitee of Pathanti Samanta Shiksha Kendra is located in Khordha, Odisha.",
+  "yearOfEstablishment": "2003"
+}

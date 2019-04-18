@@ -1,0 +1,35 @@
+{
+  "contacts": [
+    {
+      "name": "J.A. Sirasagi",
+      "email": "",
+      "designation": "Secretary",
+      "mobile": []
+    },
+    {
+      "name": "J.A. Sirasagi",
+      "email": "",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1493",
+  "name": "Minority Women Multipurpose Society and Rural Welfare Trust",
+  "primaryEmail": "munna4u487@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919449162651"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "Minorities Women Multipurpose Society & Social Welfare Trust,",
+      "Kalakeri",
+      "Vijayapura (Bijapur)",
+      "Karnataka",
+      "586118"
+    ]
+  }
+}

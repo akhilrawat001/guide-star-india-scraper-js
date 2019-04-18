@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "S.T. Chandegaonkar",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8237",
+  "name": "Parivartan Yuvak Vikas Mandal",
+  "primaryEmail": "pyvmlatur@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919423720298"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "H.No. EWS-334",
+      "Chandegaonkar S.t. Labour Colony",
+      "Latur",
+      "Maharashtra",
+      "413512"
+    ]
+  }
+}

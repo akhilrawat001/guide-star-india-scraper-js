@@ -1,0 +1,37 @@
+{
+  "contacts": [
+    {
+      "name": "Parmita Sarma",
+      "email": "parmita@aksharfoundation.org",
+      "designation": "Trustee",
+      "mobile": [
+        "91-6900920763"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10907",
+  "name": "AKSHAR FOUNDATION",
+  "primaryEmail": "contact@aksharfoundation.org",
+  "website": "http://www.aksharfoundation.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919706006555",
+    "919435049550",
+    "916900920763"
+  ],
+  "mainAddrress": {
+    "state": "Assam",
+    "address": [
+      "House no 18, Basisthapur by lane - 3, Beltola Road",
+      "Old Passport office lane",
+      "Guwahati",
+      "Kamrup",
+      "Assam",
+      "781028"
+    ]
+  },
+  "briefDescription": "Akshar Foundation is an education non-profit based in India. Our mission is to develop schools that combine conventional education with vocational training and community development. We have developed innovative education methods in our 100 student model school in Assam, and we are replicating these methods in an underperforming government school in New Delhi (currently 100 students). Our primary innovation is Meta-teaching, whereby older students are trained and employed as teachers for younger students. In addition to being teachers, our students work in gardening, recycling, carpentry, construction, and landscaping, to improve their own communities.",
+  "yearOfEstablishment": "2013"
+}

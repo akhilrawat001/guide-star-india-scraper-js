@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "Mohd Junaid",
+      "email": "junaid6111@gmail.com",
+      "designation": "President",
+      "mobile": [
+        "91-9839054804"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10677",
+  "name": "SHIKSHA SADBHAWNA WELFARE JAMIYA SAFIYA LILBANAT SAMITI",
+  "primaryEmail": "jslb.kjn@gmail.com",
+  "website": "www.jamiya.co.in",
+  "telephone": [
+    "919839054804"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "Ahmadi Tola",
+      "Kannauj",
+      "Uttar Pradesh",
+      "209725"
+    ]
+  }
+}

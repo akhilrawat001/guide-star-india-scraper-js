@@ -1,0 +1,26 @@
+{
+  "contacts": [
+    {
+      "name": "Balur",
+      "email": "bossrvbalu@yahoo.co.in",
+      "designation": "Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3230",
+  "name": "Buddha Outcast Social Society - BOSS",
+  "primaryEmail": "bossrvbalu@yahoo.co.in",
+  "telephone": [
+    "914175233234",
+    "919486171442"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "Dr Ambedkart Street Adaiyur Village",
+      "Tiruvannamalai",
+      "Tamil Nadu",
+      "606604"
+    ]
+  }
+}

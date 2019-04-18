@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Md. Moijuddin",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "9811427524"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8837",
+  "name": "GREATER LIONS SEVA NIDHI",
+  "primaryEmail": "moijuddin@greaterlions.org",
+  "website": "http://www.greaterlions.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919811427524"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "2nd Mile, Behind Vishal Cinema, Sevoke Road, Siliguri",
+      "Siliguri",
+      "Darjeeling",
+      "West Bengal",
+      "734002"
+    ]
+  }
+}

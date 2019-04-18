@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Ashish Kumar Sahoo",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7880",
+  "name": "NABAJYOTI CHARITABLE TRUST",
+  "primaryEmail": "nctodisha2015@gmail.com",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "919776264655"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "Abhimanpur,Baramba,",
+      "Baramba",
+      "Cuttack",
+      "Odisha",
+      "754035"
+    ]
+  }
+}

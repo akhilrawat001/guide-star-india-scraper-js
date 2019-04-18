@@ -1,0 +1,44 @@
+{
+  "contacts": [
+    {
+      "name": "Sujatha Sasidharan",
+      "email": "saikripa1989@gmail.com",
+      "designation": "Accountant",
+      "mobile": [
+        "91-9910593848"
+      ]
+    },
+    {
+      "name": "Sujatha Sasidharan",
+      "email": "saikripa1989@gmail.com",
+      "designation": "Accountant",
+      "mobile": [
+        "91-9910593848"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=444",
+  "name": "Sai Kripa",
+  "primaryEmail": "saikripa1989@gmail.com",
+  "website": "http://www.saikripa.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "911202531521",
+    "919958699149"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "Z-133-134",
+      "Sector-12",
+      "Noida",
+      "Gautam Buddha Nagar",
+      "Uttar Pradesh",
+      "201301"
+    ]
+  },
+  "briefDescription": "Saikripa is an NGO working in Noida for abandoned & underprivileged children and youths to make their life self sustained by providing them Home, Nutritious food, Health care,Education, and Skills to succeed.",
+  "yearOfEstablishment": "1989"
+}

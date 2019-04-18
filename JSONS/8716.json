@@ -1,0 +1,35 @@
+{
+  "contacts": [
+    {
+      "name": "PK SINHA",
+      "email": "admin@ajmu.org.in",
+      "designation": "Admin Manager",
+      "mobile": [
+        "91-9163356900"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8716",
+  "name": "Atghara Jyoti Mohila Udyog",
+  "primaryEmail": "info@ajmu.org.in",
+  "website": "http://myajmu.org/",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919163356909"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Atghara (East), PO- R/Gopalpur",
+      "Kolkata",
+      "North 24 Parganas",
+      "West Bengal",
+      "700136"
+    ]
+  },
+  "briefDescription": "AJMU working to make the under privileged and down trodden women aware of their basic right and to assist them to improve their potentiality through skill development with the     help of various vocational trainings , knowledge sharing etc. we also guide them how to generate income/ economic benefit for promoting sustainable development and thus become an equal and valuable  partner of their families.",
+  "yearOfEstablishment": "2006"
+}

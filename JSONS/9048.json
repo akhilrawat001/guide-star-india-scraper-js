@@ -1,0 +1,25 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9048",
+  "name": "Sadlichak Samaj Kalyan Samity",
+  "primaryEmail": "ssksngo15@gmail.com",
+  "website": "www.sadlichaksamajkalyansamiti.co.in",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919932010738"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "20 Cinema Hall Road.. Malda.",
+      "School",
+      "New Sadlichak",
+      "Malda",
+      "West Bengal",
+      "732125"
+    ]
+  }
+}

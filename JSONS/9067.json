@@ -1,0 +1,25 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9067",
+  "name": "Hamara Foundation",
+  "primaryEmail": "hamarafoundation89@gmail.com",
+  "website": "www.hamarafoundation.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919773094333",
+    "2223054108"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Room No. 27, 1st Floor, Gilder Lane Municipal School Building, off. Belasis Bridge, Mumbai Central (East),",
+      "Mumbai",
+      "Maharashtra",
+      "400008"
+    ]
+  }
+}

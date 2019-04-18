@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "Ganesh Dagdu Hole",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8813",
+  "name": "CRIME REPORTER ASSOCIATION LATUR",
+  "primaryEmail": "policeflashnews100@gmail.com",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "919545452424"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Hotel Rajashri, Belambe Nagar, Ambajogai Road,",
+      "Latur",
+      "Maharashtra",
+      "413512"
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "contacts": [
+    {
+      "name": "Dinesh Kumar Gupta",
+      "email": "",
+      "designation": "Secretary",
+      "mobile": [
+        "91-5162-252096"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1453",
+  "name": "Gyan Bharti Mahila Avam Bal Vikash Trust",
+  "primaryEmail": "gbt_orai@rediffmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Network"
+  ],
+  "telephone": [
+    "915162252096",
+    "919415591764"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "277",
+      "Gyan Bharti Bhavan, Gopal Gunj,",
+      "Orai",
+      "Jalaun",
+      "Uttar Pradesh",
+      "285001"
+    ]
+  }
+}

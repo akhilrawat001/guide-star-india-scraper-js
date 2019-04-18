@@ -1,0 +1,34 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9051",
+  "name": "AAMAR HOJAI",
+  "primaryEmail": "aamarhojai.ngo@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918876905501"
+  ],
+  "mainAddrress": {
+    "state": "Assam",
+    "address": [
+      "Ward No 1",
+      "Nagendra Nagar",
+      "Hojai",
+      "Nagaon",
+      "Assam",
+      "782435"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Assam",
+    "address": [
+      "Ward No 1, House No 109",
+      "Nagendra Nagar",
+      "Hojai",
+      "Nagaon",
+      "Assam",
+      "782435"
+    ]
+  }
+}

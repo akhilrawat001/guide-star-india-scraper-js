@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "ANJLEE AGARWAL",
+      "email": "samarthyamindia@gmail.com",
+      "designation": "EXECUTIVE DIRECTOR",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6765",
+  "name": "SAMARTHYAM",
+  "primaryEmail": "samarthyamindia@gmail.com",
+  "website": "http:// www.samarthyam.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919810558321"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "B-181, MANSAROVAR GARDEN",
+      "NEW DELHI",
+      "West Delhi",
+      "Delhi",
+      "110015"
+    ]
+  }
+}

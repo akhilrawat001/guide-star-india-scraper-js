@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Digamber Gorde",
+      "email": "shirurtalukayuvaprathistan@rediffmail.com",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1985",
+  "name": "Shirur Taluka Yuva Pratishthan",
+  "primaryEmail": "shirurtalukayuvaprathistan@rediffmail.com",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "919890693065"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Sant Krupa hsg Scty",
+      "Mhetrevasti, Chikhali, Taluka- Haveli",
+      "Pimpri Chinchwad",
+      "Pune",
+      "Maharashtra",
+      "636009"
+    ]
+  }
+}

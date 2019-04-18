@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Pritam Singh",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8579",
+  "name": "PRITAM FOUNDATION",
+  "primaryEmail": "foundationpritam@gmail.com",
+  "website": "www.pritamfoundation.org",
+  "organisationType": [
+    "Advocacy & Campaigning"
+  ],
+  "telephone": [
+    "919136188002"
+  ],
+  "mainAddrress": {
+    "state": "Haryana",
+    "address": [
+      "H.No. - B- 65",
+      "Dabua Colony,Near Woman Polytechnic,Nit Faridabad",
+      "Faridabad",
+      "Haryana",
+      "121001"
+    ]
+  }
+}

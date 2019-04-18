@@ -1,0 +1,36 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7914",
+  "name": "Vidya Vikas Mandal",
+  "primaryEmail": "vvmsndb123@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919422260549",
+    "912564230400"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "15, Hariom Nagar,",
+      "Nalwa Road, Nandurbar",
+      "Nandurbar",
+      "Maharashtra",
+      "425412"
+    ]
+  },
+  "briefDescription": "Vidya Vikas Mandal is Located in Nandurbar, Maharashtra.",
+  "yearOfEstablishment": "1972",
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "46/B Vrundavan Colony,",
+      "Nalwa Road,",
+      "Nandurbar",
+      "Maharashtra",
+      "425412"
+    ]
+  }
+}

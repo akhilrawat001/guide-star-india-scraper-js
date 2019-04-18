@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "TANU SONKER",
+      "email": "kws2015ngo@gmail.com",
+      "designation": "SECRETARY",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7216",
+  "name": "KADAMBARI WELFARE SOCIETY",
+  "primaryEmail": "kws2015ngo@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919713002446"
+  ],
+  "mainAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "633/1, RAM NAGAR COLONY,",
+      "ADHARTAL",
+      "JABALPUR",
+      "Jabalpur",
+      "Madhya Pradesh",
+      "482004"
+    ]
+  }
+}

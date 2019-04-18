@@ -1,0 +1,33 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9010",
+  "name": "Life Care Foundation",
+  "primaryEmail": "support@lifecarefoundations.com",
+  "website": "www.lifecarefoundations.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919819254016"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Shop No 9,Rushabh Tower,Shanti Park,Gokul Village,",
+      "Mira Road East",
+      "Thane",
+      "Maharashtra",
+      "401107"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Nageshwar Park,C-202 203,Near Nakoda Hospital,60 Feet Road",
+      "Bhayandar West",
+      "Thane",
+      "Maharashtra",
+      "401101"
+    ]
+  }
+}

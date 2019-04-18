@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "ARUNADOYA DASH",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8463",
+  "name": "ADARSHA YUBAK SANGHA",
+  "primaryEmail": "arunadoya@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919658036332"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "AT SUNDARGADIA",
+      "PO BALABHADRAPUR",
+      "DIST BHADRAK",
+      "Bhadrak",
+      "Odisha",
+      "756137"
+    ]
+  }
+}

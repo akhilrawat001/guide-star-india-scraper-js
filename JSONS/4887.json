@@ -1,0 +1,34 @@
+{
+  "contacts": [
+    {
+      "name": "BIBHISHAN PANDHAVALE",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "8380851548"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4887",
+  "name": "JIVANDEEP SEVABHAVI SANSTHA",
+  "primaryEmail": "SAVITAJEEVANDEEP@GMAIL.COM",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network"
+  ],
+  "telephone": [
+    "918380851548"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "NATHNAGAR DHARUR",
+      "TQ DHARUR DIST BEED",
+      "DHARUR",
+      "Beed",
+      "Maharashtra",
+      "431124"
+    ]
+  }
+}

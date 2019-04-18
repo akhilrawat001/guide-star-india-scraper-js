@@ -1,0 +1,27 @@
+{
+  "contacts": [
+    {
+      "name": "U R Shiroorkar",
+      "email": "shiroorkarur@yahoo.com",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2861",
+  "name": "Nisarg Rakshak Seva Sanstha",
+  "primaryEmail": "nisargrakshak@yahoo.com",
+  "telephone": [
+    "912223742318",
+    "912223742318"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "4/13, VEENA B ward quarters",
+      "Babulla tank X path,",
+      "Mumbai",
+      "Maharashtra",
+      "400009"
+    ]
+  }
+}

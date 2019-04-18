@@ -1,0 +1,28 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5105",
+  "name": "Healis-Sekhsaria Institute for Public Health",
+  "primaryEmail": "director@healis.org",
+  "website": "www.healis.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "912227575487",
+    "912227579032",
+    "912227575487"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "B-601, Great Eastern Chambers, Plot No. 28, Sector 11, CBD Belapur",
+      "Belapur Station",
+      "Navi Mumbai",
+      "Thane",
+      "Maharashtra",
+      "400614"
+    ]
+  }
+}

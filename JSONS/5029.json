@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Kinikar B.V.",
+      "email": "bvkinikar@hotmail.com",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5029",
+  "name": "NIRAMAYA AROGYA DHAM NISARGOPCHAR SHAIKSHANIK KENDRA",
+  "primaryEmail": "bvkinikar@hotmail.com",
+  "website": "nad.org.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "INDIA",
+    "2172374840",
+    "912172374840"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "92/A, \"Chiranjiv Bangalow\",",
+      "Jagrut Maruti Mandir",
+      "Shelgi, SOLAPUR - 413006",
+      "Solapur",
+      "Maharashtra",
+      "413006"
+    ]
+  }
+}

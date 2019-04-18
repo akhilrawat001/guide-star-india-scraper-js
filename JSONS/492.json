@@ -1,0 +1,37 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=492",
+  "name": "The Akanksha Foundation",
+  "primaryEmail": "sivakami.kotla@akanksha.org",
+  "website": "http://www.akanksha.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "912223729880",
+    "912223700253",
+    "912223729880"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Voltas House ‘C’, T B kadam Marg",
+      "Chinchpokli",
+      "Mumbai",
+      "Maharashtra",
+      "400033"
+    ]
+  },
+  "briefDescription": "The Akanksha Foundation is a non-profit organization with a mission to impact the lives of children from low-income communities, enabling them to maximize their potential and transform their lives. Akanksha works primarily in the field of education, addressing education through the school project.Currently in collaboration with Mumbai, Pune and Pune-Chinchwad Municipal Corporation, we run 20 Municipal Schools. We cater to over 7300 students and 1200 alumni.",
+  "yearOfEstablishment": "1991",
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "2nd floor, Om Rattan,",
+      "Pochkanwala Road, Worli",
+      "Mumbai",
+      "Maharashtra",
+      "400025"
+    ]
+  }
+}

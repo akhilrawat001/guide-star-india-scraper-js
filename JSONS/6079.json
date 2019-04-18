@@ -1,0 +1,43 @@
+{
+  "contacts": [
+    {
+      "name": "Shabana Begam",
+      "email": "shilpsree.2003@gmail.com",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6079",
+  "name": "SHILP SHRI MAHILA SEWA SAMITI",
+  "primaryEmail": "shilpsree.2003@gmail.com",
+  "website": "http://www.shilpsree.webs.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919335901011"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "House no 256, Sector -1, Vikas Nagar, Lucknow.",
+      "Near United Bank of India, Vikas Nagar, Lucknow.",
+      "Lucknow.",
+      "Lucknow",
+      "Uttar Pradesh",
+      "226022"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "Village Anwari, Block Nindura, District Barabanki",
+      "Near Primary School",
+      "Anwari",
+      "Barabanki",
+      "Uttar Pradesh",
+      "225302"
+    ]
+  }
+}

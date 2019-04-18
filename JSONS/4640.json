@@ -1,0 +1,27 @@
+{
+  "contacts": [
+    {
+      "name": "Samir Kumar Mohanty",
+      "email": "asrahosp@gmail.com",
+      "designation": "Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4640",
+  "name": "Association for Social Reconstructive Activities (ASRA)",
+  "primaryEmail": "asra.hospital@rediffmail.com",
+  "telephone": [
+    "916712605981",
+    "919437062688"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "Plot No-1284/C,",
+      "Sector-6 Markat Nagar(CDA)",
+      "Cuttack",
+      "Odisha",
+      "753014"
+    ]
+  }
+}

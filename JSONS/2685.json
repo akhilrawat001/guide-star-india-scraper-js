@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "name": "MOUSHUMI KAKOTY",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "41486140"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2685",
+  "name": "SANSKARA DEVELOPMENT TRUST",
+  "primaryEmail": "sanskaraindia@yahoo.com",
+  "website": "www.sanskara.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "911141486140",
+    "911141486140"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "F-328",
+      "LADO SARAI,MEHRAULI",
+      "NEW DELHI",
+      "South Delhi",
+      "Delhi",
+      "110030"
+    ]
+  },
+  "briefDescription": "Sanskara Development Trust (Sanskara) established in 2002 is a non-profit organisation. Its long-term objective is to raise awareness of diminishing natural habitats and to work together with local communities, Governments, Village Councils, NGO’s and individuals to preserve critically endangered wildlife in India.Conservation Goals1. Wildlife conservation through communication2. Protection of endangered landscapes3. Securing support for wildlife conservation through community participation4. Creating synergy between organizations, government bodies and local communities to gather political will for conservation",
+  "yearOfEstablishment": "2002"
+}

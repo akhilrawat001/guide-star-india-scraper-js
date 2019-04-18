@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "name": "Sanjana Govindan Jayadev",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "25531264",
+        "9448491292"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5418",
+  "name": "AMICI DI RAOUL FOLLEREAU",
+  "primaryEmail": "aifo@aifoindia.org",
+  "website": "http://aifoindia.org/",
+  "organisationType": [
+    "Direct Service",
+    "Grant-making",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "918025531264",
+    "918025531264"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "AIFO – INDIA.  #58, 4th Cross, Kavery Layout Tavarekere Main Road, DRC Post Bangalore – 560 029 Tel: +91-080-25531264/51106294 Fax: +91-080-25520630",
+      "Near Oracle Office Koramangala, Bangalore",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560029"
+    ]
+  }
+}

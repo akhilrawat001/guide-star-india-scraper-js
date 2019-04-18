@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Sabyasachi Mukherjee",
+      "email": "birdsngo@yahoo.in",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4795",
+  "name": "BENEVOLENT INTEGRATED RURAL DEVELOPMENT SOCIETY",
+  "primaryEmail": "birdsbirbhum@gmail.com",
+  "website": "http://benevolentngo.org/",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "913462254174",
+    "913462254174"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Sonatorepara, Suri, Birbhum",
+      "Suri",
+      "Birbhum",
+      "West Bengal",
+      "723101"
+    ]
+  },
+  "briefDescription": "The B.I.R.D.S. It is a non-profit, non-government organization.During the year 2004-2005 the organization Benevolent Integrated Rural Development Society at Suri , Birbhum District in West Bengal, primarily with a view to carry on welfare and sustainable rural community developmental activities at the grass-root level to provide relief and succor to the poorest of the poor and the have-nots.",
+  "yearOfEstablishment": "2004"
+}

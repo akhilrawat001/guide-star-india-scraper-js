@@ -1,0 +1,43 @@
+{
+  "contacts": [
+    {
+      "name": "Balaji",
+      "email": "seniorcitizensbangalore@gmail.com",
+      "designation": "Chairman",
+      "mobile": [
+        "8025252554"
+      ]
+    },
+    {
+      "name": "Balaji",
+      "email": "seniorcitizensbangalore@gmail.com",
+      "designation": "Chairman",
+      "mobile": [
+        "8025252554"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8447",
+  "name": "Senior Citizens Bangalore",
+  "primaryEmail": "seniorcitizensbangalore@gmail.com",
+  "website": "http://www.seniorcitizensblr.com",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "918025252554"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "M-17, First Floor 6th Main,",
+      "LIC Colony Jeevan Bhima Nagar",
+      "Bangalore",
+      "Bengaluru (Bangalore) Rural",
+      "Karnataka",
+      "560075"
+    ]
+  },
+  "briefDescription": "Mission/VisionActive assistance for quality education in primary and high school levels to children from poor families; meritorious students are assisted to proceed with higher education. Helping deserving students in the Bangalore area including nearby rural areas in procuring educational loans and in assisting handicapped children in education without discrimination of religion, caste, creed, or community. Helping Humanitarian Home by providing food, medicine and infra support for the destitute.",
+  "yearOfEstablishment": "2002"
+}

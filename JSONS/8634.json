@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Raju Thakur",
+      "email": "ngosankalp77@gmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8634",
+  "name": "SANKALPA",
+  "primaryEmail": "ngosankalp77@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919437680301"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "AT: THAKUR PADA,",
+      "PO/DIST: NUAPADA,",
+      "Nuapada",
+      "Odisha",
+      "766105"
+    ]
+  }
+}

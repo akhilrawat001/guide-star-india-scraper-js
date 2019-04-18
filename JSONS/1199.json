@@ -1,0 +1,40 @@
+{
+  "contacts": [
+    {
+      "name": "MKASAM VOHRA",
+      "email": "",
+      "designation": "CEO",
+      "mobile": []
+    },
+    {
+      "name": "MKASAM VOHRA",
+      "email": "",
+      "designation": "CEO",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1199",
+  "name": "THE GUJARAT SARVAJANIK WELFARE TRUST",
+  "primaryEmail": "gswt.in@gmail.com",
+  "website": "www.gswt.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "917926582346",
+    "917965119288",
+    "917926582346"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "303,MAHARANA PRATAP COMPLEX, B/H. V.S.HOSPITAL,",
+      "OPP.ELLISBRIDGE P O, ELLISBRIDGE",
+      "AHMEDABAD",
+      "Ahmedabad",
+      "Gujarat",
+      "380006",
+      "AP_TelBill_1103.PDF"
+    ]
+  }
+}

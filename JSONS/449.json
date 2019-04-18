@@ -1,0 +1,47 @@
+{
+  "contacts": [
+    {
+      "name": "Rama Satish",
+      "email": "ramasatish70@gmail.com",
+      "designation": "Communication and Fund Raising",
+      "mobile": [
+        "91-8533-240576",
+        "91-9448385412"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=449",
+  "name": "SAMUHA",
+  "primaryEmail": "ns@samuha.org",
+  "website": "http://www.samuha.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918533240576"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "Vithalapur Road",
+      "Kanakagiri",
+      "Gangavathi Taluk",
+      "Koppal",
+      "Karnataka",
+      "584119"
+    ]
+  },
+  "briefDescription": "SAMUHA is a development organization that works primarily in the South Indian state of Karnataka. SAMUHA’s Goal is to improve the Quality of Life of Vulnerable People within defined periods of time. While recognizing that the poor are, by definition, vulnerable, SAMUHA looks at their degree of vulnerability in a given context as a key factor in deciding whether and when to intervene. SAMUHA’s work focuses on: Children, Women, People with disabilities, People living in rain-fed, agricultural economies, People with Distinct Cultural Identities, The Digitally Disadvantaged.The core of SAMUHA’s operational areas are presently focused around 90,000 households in over 500 villages and hamlets in the Raichur and Koppal districts in North Karnataka. The 500 villages are clustered around 12 Hoblis – sub-taluk units equivalent to a revenue Circle and comprising of an average of 7 Gram Panchayats and 50 villages and hamlets.",
+  "yearOfEstablishment": "1986",
+  "regiseredAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "No.79, 5th Street",
+      "Bank Avenue, HRBR Layout",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560043"
+    ]
+  }
+}

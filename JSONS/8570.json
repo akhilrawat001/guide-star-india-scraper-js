@@ -1,0 +1,37 @@
+{
+  "contacts": [
+    {
+      "name": "Shanti Jayanthasri",
+      "email": "shantijsri@gmail.com",
+      "designation": "Director, Development",
+      "mobile": [
+        "91-9901077872"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8570",
+  "name": "SHANTI BHAVAN EDUCATIONAL TRUST",
+  "primaryEmail": "shantijsri@gmail.com",
+  "website": "http://www.shantibhavanonline.org",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919901077872",
+    "919738015070"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "No. 502, 5th C Main, 5th Cross,",
+      "2nd Block HRBR Layout,",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560043"
+    ]
+  },
+  "briefDescription": "Shanti Bhavan is a unique free residential school of excellence in a very backward village,  for children from extremely poor backgrounds  like rag pickers, sewage workers, quarry workers, house maids etc. Every year we select 12 girls and 12 boys at age 4 for admission, and the total enrollment is 350. We follow the ICSE and ISC curriculum.Shanti Bhavan serves as a home and non-sectarian boarding school that provides a holistic upbringing in a high quality educational setting for these children of deprived backgrounds. Given proper care, support, and educational opportunities, these children will be able to succeed in life and bring about social change to their families and communities. Every child is expected to uplift their families.",
+  "yearOfEstablishment": "2012"
+}

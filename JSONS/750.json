@@ -1,0 +1,40 @@
+{
+  "contacts": [
+    {
+      "name": "Avijeet Kumar",
+      "email": "",
+      "designation": "Chairman",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=750",
+  "name": "Shantidoot",
+  "primaryEmail": "avijeet0@gmail.com",
+  "website": "www.shantidoot.org",
+  "telephone": [
+    "916112231394",
+    "916112237204",
+    "916112231394",
+    "916112231394"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "Kagzi Mohalla, Old Jail Road",
+      "Biharsharif",
+      "Nalanda",
+      "Bihar",
+      "803101"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Bihar",
+    "address": [
+      "Udantpuri Garhpar",
+      "Biharsharif",
+      "Nalanda",
+      "Bihar",
+      "803101"
+    ]
+  }
+}

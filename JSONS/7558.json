@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "MR.VIPUL KUMAR",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "9358838895"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7558",
+  "name": "SAMRIDHI SOCIETY",
+  "primaryEmail": "societysamridhi@gmail.com",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "919358838895"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "234, SARAI SULTANI",
+      "ALIGARH",
+      "Aligarh",
+      "Uttar Pradesh",
+      "202001"
+    ]
+  }
+}

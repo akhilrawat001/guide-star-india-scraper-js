@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "ZEYAUR RAHMAN NADVI",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6769",
+  "name": "AL-HELAL EDUCATIONAL AND WELFARE SOCIETY",
+  "primaryEmail": "alhelalngo@gmail.com",
+  "website": "www.alhelal.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service"
+  ],
+  "telephone": [
+    "918002685364"
+  ],
+  "mainAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "JIMA CHOWK CHANDU",
+      "KURU",
+      "LOHARDAGA",
+      "Lohardaga",
+      "Jharkhand",
+      "835213"
+    ]
+  }
+}

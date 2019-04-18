@@ -1,0 +1,35 @@
+{
+  "contacts": [
+    {
+      "name": "Shabana Patel",
+      "email": "shabana786patel@gmail.com",
+      "designation": "General Secretary",
+      "mobile": []
+    },
+    {
+      "name": "Shabana Patel",
+      "email": "shabana786patel@gmail.com",
+      "designation": "General Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=964",
+  "name": "Network in Thane by People Living with HIV/AID'S(NTP+)",
+  "primaryEmail": "ntpplus@gmail.com",
+  "telephone": [
+    "912512316460",
+    "912512316459",
+    "919221545887"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "101, Shivam Bldg",
+      "1st Floor, Opp. Bhanusagar Talkies",
+      "Kalyan",
+      "Thane",
+      "Maharashtra",
+      "421301"
+    ]
+  }
+}

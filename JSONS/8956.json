@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Partha Mahanta",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8956",
+  "name": "UTTRAN",
+  "primaryEmail": "uttranchakuliya2014@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919735034863"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Vill-Hospital More (Milanpara Kahata), Po+Ps. Chakulia",
+      "Chakulia",
+      "North Dinajpur",
+      "West Bengal",
+      "733211"
+    ]
+  },
+  "briefDescription": "Uttran is located in Chakulia, West Bengal.",
+  "yearOfEstablishment": "2014"
+}

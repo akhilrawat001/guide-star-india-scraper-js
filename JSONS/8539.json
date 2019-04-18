@@ -1,0 +1,43 @@
+{
+  "contacts": [
+    {
+      "name": "Dr. Shri. Dattatraya Pandharinath Khade",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8539",
+  "name": "DRONAGIRI SHIKSHAN SANSTHA",
+  "primaryEmail": "dss.mhaswad97@gmail.com",
+  "organisationType": [
+    "Grant-making"
+  ],
+  "telephone": [
+    "919766663306",
+    "919767978497"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "MHASWAD",
+      "mhaswad",
+      "Satara",
+      "Maharashtra",
+      "415509"
+    ]
+  },
+  "briefDescription": "OUR SANSTHA RUN PRE PRIMARY SCHOOL AND ADOPTION CENTER IN MHASWAD",
+  "yearOfEstablishment": "1996",
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Behind Bus stand",
+      "Old court road",
+      "Mhaswad",
+      "Satara",
+      "Maharashtra",
+      "415509"
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "G George",
+      "email": "georgecst@yahoo.com",
+      "designation": "Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2863",
+  "name": "The Community Service Trust, SALEM",
+  "primaryEmail": "georgecst@yahoo.com",
+  "telephone": [
+    "914273203436",
+    "914273203436"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "16-E",
+      "Sathyanarayana Street",
+      "Swarnapuri,",
+      "Salem",
+      "Tamil Nadu",
+      "636004"
+    ]
+  }
+}

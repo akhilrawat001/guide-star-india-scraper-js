@@ -1,0 +1,23 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6376",
+  "name": "Divya-Jyoti Trust",
+  "primaryEmail": "divyajyoti.icare@gmail.com",
+  "website": "www.divyajyotitrust.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919979470241"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "Divyajyoti Trust, Suthar Falia, Opp. Hanuman Temple, At & Po Mandvi, Dist. Surat, Guj. 394160",
+      "Mandvi",
+      "Surat",
+      "Gujarat",
+      "394160"
+    ]
+  }
+}

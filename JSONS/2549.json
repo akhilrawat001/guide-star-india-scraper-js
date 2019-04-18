@@ -1,0 +1,28 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2549",
+  "name": "Sanjeevani Welfare Foundation",
+  "primaryEmail": "amitsingh@swf.org.in",
+  "website": "http://swf.org.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Intermediary",
+    "Support"
+  ],
+  "telephone": [
+    "919839603284"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "PLOT NO-49",
+      "BARRA-2",
+      "KANPUR",
+      "Kanpur Nagar",
+      "Uttar Pradesh",
+      "208027"
+    ]
+  }
+}

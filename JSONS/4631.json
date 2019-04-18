@@ -1,0 +1,27 @@
+{
+  "contacts": [
+    {
+      "name": "Mary Esthappan",
+      "email": "bethlehemabhayabhavan@yahoo.co.in",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4631",
+  "name": "Bethlehem Abhaya Bhavan Charitable Society",
+  "primaryEmail": "bethlehemabhayabhavan@yahoo.co.in",
+  "website": "www.abhayacharity.org",
+  "telephone": [
+    "919744398668"
+  ],
+  "mainAddrress": {
+    "state": "Kerala",
+    "address": [
+      "Koovapady (Po), Perumbavoor",
+      "kodanad",
+      "Ernakulam",
+      "Kerala",
+      "683544"
+    ]
+  }
+}

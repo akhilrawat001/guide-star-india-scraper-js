@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Yashwant Mahadeo Shitole",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8219",
+  "name": "Maharashtra Information Technology Support Center",
+  "primaryEmail": "uvajagar@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "917304429777"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "A-4  quarter,  Opp. Of Balasaheb Khardekar Liabrary",
+      "Shivaji Univerasity",
+      "Kolhapur",
+      "Maharashtra",
+      "411004"
+    ]
+  }
+}

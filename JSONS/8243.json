@@ -1,0 +1,35 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8243",
+  "name": "Chetana Bahuuddeshiya Sanstha",
+  "primaryEmail": "avinashilame@gmail.com",
+  "website": "www.chetanango.org",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "919890708886"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Plot No. 266. Care of  Gajanan Ilame .",
+      "Durga Nagar . Tumsar .",
+      "Tumsar",
+      "Bhandara",
+      "Maharashtra",
+      "441912"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Plot No. 266. C/O  Gajanan Ilame .",
+      "Durga Nagar . Tumsar .",
+      "Tumsar",
+      "Bhandara",
+      "Maharashtra",
+      "441912"
+    ]
+  }
+}

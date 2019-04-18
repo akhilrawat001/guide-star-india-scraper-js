@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Haresh Kumar Naik",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8504",
+  "name": "ABHYUDAYA",
+  "primaryEmail": "infoabhyudaya@gmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Intermediary"
+  ],
+  "telephone": [
+    "919583523325"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "Abhyudaya",
+      "Bhatli",
+      "Bargarh",
+      "Odisha",
+      "768030"
+    ]
+  }
+}

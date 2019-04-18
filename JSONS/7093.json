@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Mr.Stephen Sunder",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7093",
+  "name": "CHRIST ORPHAN CENTER MINISTRIES (COCM)",
+  "primaryEmail": "christorphancenter@yahoo.co.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919441045118"
+  ],
+  "mainAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "# 4-24-69",
+      "5th Line, Mutyalareddy Nagar",
+      "GUNTUR",
+      "Guntur",
+      "Andhra Pradesh",
+      "522007"
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "contacts": [
+    {
+      "name": "Ankari Kumar",
+      "email": "ammaorg@gmail.com",
+      "designation": "Director",
+      "mobile": []
+    },
+    {
+      "name": "Ankari Kumar",
+      "email": "ammaorg@gmail.com",
+      "designation": "Director",
+      "mobile": []
+    },
+    {
+      "name": "Ankari Kumar",
+      "email": "ammaorg@gmail.com",
+      "designation": "Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4668",
+  "name": "All Mighty Ministries of Authority (AMMA)",
+  "primaryEmail": "ammaorg@gmail.com",
+  "telephone": [
+    "918729279365",
+    "919440449386"
+  ],
+  "mainAddrress": {
+    "state": "Telangana",
+    "address": [
+      "2-15/7",
+      "Near Bus Depot",
+      "Manthani",
+      "Karimnagar",
+      "Telangana",
+      "505184"
+    ]
+  }
+}

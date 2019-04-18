@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "John Rajkumar",
+      "email": "pjrksalem@gmail.com",
+      "designation": "Secretary",
+      "mobile": [
+        "91-9444398401"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=241",
+  "name": "Maithree",
+  "primaryEmail": "pjr@lntecc.com",
+  "website": "www.maithree.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919444398401",
+    "914464586688"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "No. 4, Second Cross Street",
+      "Ganga Nagar, Kodambakkam",
+      "Chennai",
+      "Tamil Nadu",
+      "600024"
+    ]
+  }
+}

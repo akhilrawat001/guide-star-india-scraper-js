@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Dr. Sunit Gupta",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5164",
+  "name": "Institute for Integrated Society Development",
+  "primaryEmail": "sunit31@gmail.com",
+  "website": "www.iisdindia.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919450113306"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "A-89, Kamla Nehru Nagar (Opp. Sai Mandir)",
+      "Khurram Nagar",
+      "Lucknow",
+      "Uttar Pradesh",
+      "226022"
+    ]
+  }
+}

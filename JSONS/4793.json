@@ -1,0 +1,38 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4793",
+  "name": "DRISHTI FOUNDATION TRUST",
+  "primaryEmail": "mail2drishtifoundation@gmail.com",
+  "website": "www.drishtifoundation.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919873522666"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "CG-2,Aarohi Appartment",
+      "Near New York Tower",
+      "Ahmedabad",
+      "Gujarat",
+      "380054"
+    ]
+  },
+  "briefDescription": "Drishti Foundation Trust reached and helped millions of lives, since its inception and still working tirelessly to provide quality education, awareness and healthcare in the spirit of the society, especially the poor, disadvantaged and the disenfranchised irrespective of caste and creed. DFT is also helping to conserve environment and natural resources.",
+  "yearOfEstablishment": "2012",
+  "regiseredAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "CG-2,Aarohi Appartment",
+      "Near New York Tower,Thaltej",
+      "Ahmedabad",
+      "Gujarat",
+      "380054"
+    ]
+  }
+}

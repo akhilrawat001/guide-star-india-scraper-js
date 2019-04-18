@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "RAJIB B HADURI",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4973",
+  "name": "RAMDHANU SOCIAL WELFARE SOCIETY",
+  "primaryEmail": "ramdhanuango10@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918017651675"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "30/1, H.N.MUKHERJEE ROAD, P.O. NEW BARRACK PUR",
+      "kolkata",
+      "North 24 Parganas",
+      "West Bengal",
+      "700131"
+    ]
+  }
+}

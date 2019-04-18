@@ -1,0 +1,46 @@
+{
+  "contacts": [
+    {
+      "name": "Aishwarya Jain",
+      "email": "activity@lakshyam.co.in",
+      "designation": "Program Manger",
+      "mobile": [
+        "91-9540790002"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4540",
+  "name": "Lakshyam",
+  "primaryEmail": "activity@lakshyam.co.in",
+  "website": "B 1/27 Ground Floor, Hauz Khaz",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service"
+  ],
+  "telephone": [
+    "919540790002"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "B1/27A,Ground floor, Hauz khas,New Delhi-110016",
+      "Near Mother Dairy",
+      "New Delhi",
+      "Delhi",
+      "110016"
+    ]
+  },
+  "briefDescription": "Lakshyam was founded in the year 2012 by a young social entrepreuner who further brought group together to contribute towards betterment of the society with a focus on child education, holistic child development and women empowerment. We share a common dream – a world where every child is showered with love and is given opportunities for their bright future; a world where no child’s innocence is marred by the horrors of child labour, and a world where women’s wellbeing is paid attention to and they’re empowered to sustain themselves and their family.Despite being the capital of India, Delhi has over 4 million people living in makeshift homes in slums that are overcrowded, lack adequate water supply, sanitation, and security. Children of these slum dwellers often do not get access to basic education and instead have to start working to support their family. At such a tender age, they are forced to grow up in a haste and suffer the loss of their childhood and innocence. They are taken advantage of by employers who use them as cheap labour. United Nations recognises the deprivation of these resources to be a violation of fundamental human rights. It is not just the responsibility of the government to promote and protect human rights and fundamental freedoms of individuals or groups. It is the duty of us – the citizens – to do our bit in ensuring equal advancement of all sections of the society.The statistics and the problem is same across India when we talk about less privileged one in our country be it rural or urban India.We at Lakshyam vowed to put an end to this widespread violation of people’s fundamental rights, especially of women and children residing in the slums of metropolitan cities. We aim to empower them through education and employment by implementing models of development that are tailored to the needs of the community. Lakshyam has organised programmes such as – Butterfly- Child Welfare and Education (wherein basic education is provided to impoverished children through comprehensive learning methods), Lakshyam Toy Library (wherein the child’s growth is supplemented using educational toys, games and books in an environment which cultivates and encourages the child’s imagination and creativity), Rooh – Awakening Women’s soul (wherein women are empowered to generate self-employment and a means of income using training of vocational and professional skills), and Project Aarogya (providing accessible and affordable healthcare to the underprivileged).",
+  "yearOfEstablishment": "2012",
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "B1/27A, ground floor, Hauz Khas, New Delhi 110016",
+      "Near Mother dairy",
+      "New Delhi",
+      "South Delhi",
+      "Delhi",
+      "110016"
+    ]
+  }
+}

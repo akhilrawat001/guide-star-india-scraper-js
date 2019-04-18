@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Dr.Farooq Patel",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5801",
+  "name": "Jivan Jagruti Vaidyakiya Va Samajik Sanstha",
+  "primaryEmail": "jivanjagruti@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919595950180"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "plot no.2, lane no.18., new baijipura , near central naka , aurangabad 431001",
+      "near central naka",
+      "Aurangabad",
+      "Maharashtra",
+      "431001"
+    ]
+  }
+}

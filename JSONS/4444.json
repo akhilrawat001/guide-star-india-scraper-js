@@ -1,0 +1,38 @@
+{
+  "contacts": [
+    {
+      "name": "Amitabh Mehrotra",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4444",
+  "name": "School for Potential Advancement and Restoration of Confidence India (SPARC India)",
+  "primaryEmail": "sparcindia95@gmail.com",
+  "website": "www.sparcindialko.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919839171676"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "26, Guru Daya Niwas , Sachiwalaya Colony, Mousambagh, Sitapur Road, Lucknow",
+      "Lucknow",
+      "Uttar Pradesh",
+      "262001"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "26, Guru Daya Niwas , Sachiwalaya Colony, Mousambagh, Sitapur Road, Lucknow",
+      "Lucknow",
+      "Uttar Pradesh",
+      "262001"
+    ]
+  }
+}

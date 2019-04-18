@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "Palak Aggarwal",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "9938527242"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9009",
+  "name": "THE BATTI GHAR FOUNDATION",
+  "primaryEmail": "biswal@battighar.org",
+  "website": "www.battighar.org",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919938527242"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "Plot No 665, Lane No 7",
+      "Shree Vihar, Patia",
+      "Bhubaneswar",
+      "Khordha",
+      "Odisha",
+      "751031"
+    ]
+  },
+  "briefDescription": "The Batti Ghar Foundation (Batti Ghar) has been registered as a trust in Odisha since January 2016. Batti Ghar`s objective is to enhance livelihood opportunities throguh sustainable technology innovation and entrepreneurship. So far Batti Ghar has come up with multiple innovative solutions which includes 'Solar Puncturewala'(this has been featured in UN youth solutions report 2017) and 'Solar sugarcane Juice cart'. Having impacted over 200 lives within the first year of it`s existence, Batti Ghar plans to develop an exclusive livelihood-technology lab and an entrepreneur incubation program in the near future to support the agriculture, cottage industries and rural businesses sector in Odisha.",
+  "yearOfEstablishment": "2016"
+}

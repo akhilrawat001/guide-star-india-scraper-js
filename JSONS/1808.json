@@ -1,0 +1,28 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1808",
+  "name": "Sarvik Vivekananda Gram Seva Sanstha",
+  "primaryEmail": "office@sarvikvivekananda.com",
+  "website": "http://www.sarvikvivekananda.com",
+  "organisationType": [
+    "Direct Service",
+    "Network"
+  ],
+  "telephone": [
+    "913326545112",
+    "913325642328",
+    "913326545112",
+    "919830286666"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Shreeguru Apartment",
+      "18/2 Lala Babu Shire Road, P.O. - Belur Math",
+      "Kolkata",
+      "Howrah",
+      "West Bengal",
+      "711202"
+    ]
+  }
+}

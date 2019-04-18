@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Pramod Kumar Mohanty",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8590",
+  "name": "ASHRAYA",
+  "primaryEmail": "ashrayango@yahoo.in",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "9437280929"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "Kadua Amalapada",
+      "Kunjaban Garh",
+      "Daspalla",
+      "Nayagarh",
+      "Odisha",
+      "752084"
+    ]
+  }
+}

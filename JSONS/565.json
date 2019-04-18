@@ -1,0 +1,24 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=565",
+  "name": "Shree Indira Vikas Trust",
+  "primaryEmail": "rajeshkumard.parmar@ymail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "912751222600",
+    "919898753632",
+    "912751220039"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "Shri Mahatma Gandhi Society Sharm Deep Niwas, Parmar Niwas",
+      "Thangadh",
+      "Surendranagar",
+      "Gujarat",
+      "363530"
+    ]
+  }
+}

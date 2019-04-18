@@ -1,0 +1,41 @@
+{
+  "contacts": [
+    {
+      "name": "Aditi Punj",
+      "email": "apunj@youthventure.org",
+      "designation": "Community Development",
+      "mobile": []
+    },
+    {
+      "name": "Aditi Punj",
+      "email": "apunj@youthventure.org",
+      "designation": "Community Development",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=134",
+  "name": "Ashoka Innovators for the Public (India)",
+  "primaryEmail": "india@ashoka.org",
+  "website": "www.india.ashoka.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Support"
+  ],
+  "telephone": [
+    "918042745777",
+    "918042745777"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "54, 1st Cross",
+      "Domlur Layout",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560071"
+    ]
+  },
+  "briefDescription": "Ashoka-Innovators for the Public elects leading social entrepreneurs with system-changing ideas in to its global network of over 3, 000 Fellows in 80 countries and helps accelerate their ideas.",
+  "yearOfEstablishment": "1999"
+}

@@ -1,0 +1,41 @@
+{
+  "contacts": [
+    {
+      "name": "A L Rangarajan",
+      "email": "",
+      "designation": "Program Manager",
+      "mobile": []
+    },
+    {
+      "name": "A L Rangarajan",
+      "email": "",
+      "designation": "Program Manager",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=161",
+  "name": "India Literacy Project",
+  "primaryEmail": "ilpindia@gmail.com",
+  "website": "www.ilpnet.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Support"
+  ],
+  "telephone": [
+    "918023519693",
+    "918023519693"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "#27, 3rd Floor",
+      "Narayani Apartments, 2nd Cross, Ramakrishnappa Layout, Sanjaynagar",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560094"
+    ]
+  }
+}

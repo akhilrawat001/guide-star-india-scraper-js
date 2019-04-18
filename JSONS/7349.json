@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "MR.DIPAK CHANDRETHIYA",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7349",
+  "name": "SHRI DEEP JYOT YUVA VIKAS TRUST PALANPUR",
+  "primaryEmail": "deepjyot.trust@yahoo.com",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "919376985999"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "C 82 SILVER ARCADE",
+      "NEAR MAHAJAN HOSPITAL",
+      "PALANPUR",
+      "Banaskantha",
+      "Gujarat",
+      "385001"
+    ]
+  }
+}

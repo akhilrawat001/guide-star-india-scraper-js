@@ -1,0 +1,27 @@
+{
+  "contacts": [
+    {
+      "name": "Rasilaben Jivabhai Busa",
+      "email": "bhattvimal2002@hotmail.com",
+      "designation": "Chairman",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2865",
+  "name": "Jay Khodiyar Khadi Gram Vikas Seva Mandal",
+  "primaryEmail": "bhattvimal2002@hotmail.com",
+  "telephone": [
+    "912822323607",
+    "912822323607"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "Subhas Nagar, Patel Chawk,",
+      "Closed Street, B/h Nanda Hall, Kothariya Road,",
+      "Rajkot",
+      "Gujarat",
+      "360002"
+    ]
+  }
+}

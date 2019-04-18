@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "SUNILKUMAR GAMIT",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2706",
+  "name": "Sunrise Vision Charitable Trust",
+  "primaryEmail": "sunrise_vision001@yahoo.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "9102626",
+    "2626220182",
+    "9102626",
+    "2626220182"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "4-mazda complex  near new busstop. station road vyara dist.tapi(394650)(gujarat)",
+      "bran.ofice  112 sai mall near vibhav cinema .vyara dist.tapi 394650(guj)",
+      "vyara",
+      "Tapi",
+      "Gujarat",
+      "394650"
+    ]
+  }
+}

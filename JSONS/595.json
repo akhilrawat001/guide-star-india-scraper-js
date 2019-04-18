@@ -1,0 +1,27 @@
+{
+  "contacts": [
+    {
+      "name": "Nongdrenkhomba R K",
+      "email": "",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=595",
+  "name": "Human Development Agency",
+  "primaryEmail": "agencyhd@gmail.com",
+  "telephone": [
+    "913852448197",
+    "913852448197"
+  ],
+  "mainAddrress": {
+    "state": "Manipur",
+    "address": [
+      "Uripok Cheirap",
+      "Mamang",
+      "Imphal West",
+      "Manipur",
+      "795001"
+    ]
+  }
+}

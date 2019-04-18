@@ -1,0 +1,30 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=771",
+  "name": "Athencottasan Muthamil Kazhagam",
+  "primaryEmail": "amkcentre@gmail.com",
+  "website": "www.amkcentre.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "914651222356",
+    "914651223382",
+    "919444691456",
+    "914651223342"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "No.7-46 B, Amk Hospital Campus",
+      "Naduvoorkarai Road, Mondaikadu & Post",
+      "Nagercoil",
+      "Kanyakumari",
+      "Tamil Nadu",
+      "629252"
+    ]
+  }
+}

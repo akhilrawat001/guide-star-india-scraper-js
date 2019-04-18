@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Gopika Kanta Dutta",
+      "email": "gkduttaindia@yahoo.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1431",
+  "name": "SHEBA (SOCIO HUMANITY EXPEDITION AND BLOOMING ASSOCIATION)",
+  "primaryEmail": "SHEBAINDIA@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "913822217146",
+    "919436583244"
+  ],
+  "mainAddrress": {
+    "state": "Tripura",
+    "address": [
+      "Vill-Sripur",
+      "P.O-Huplongcherra, Dharmanagar,",
+      "North Tripura",
+      "Tripura",
+      "799254"
+    ]
+  }
+}

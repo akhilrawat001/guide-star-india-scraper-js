@@ -1,0 +1,44 @@
+{
+  "contacts": [
+    {
+      "name": "Surendra Giri",
+      "email": "shapeindia@hotmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6572",
+  "name": "Social and Humanitarian Action for Promoting Education in India",
+  "primaryEmail": "shapeindia@hotmail.com",
+  "website": "www.shapeindia.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Network"
+  ],
+  "telephone": [
+    "911126668396",
+    "911126668396"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "N-81",
+      "Street no 3",
+      "Amar Market, Sourav Vihar, Jaitpur Badarpur",
+      "South Delhi",
+      "Delhi",
+      "110044"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "R2, A-217",
+      "Nihal Vihar",
+      "Nangloi",
+      "South Delhi",
+      "Delhi",
+      "110041"
+    ]
+  }
+}

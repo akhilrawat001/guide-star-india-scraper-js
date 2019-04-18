@@ -1,0 +1,47 @@
+{
+  "contacts": [
+    {
+      "name": "Swapnil Vichare",
+      "email": "niramayahealth@gmail.com",
+      "designation": "Program Officer - Admin",
+      "mobile": [
+        "91-22-24161110",
+        "91-9594989277"
+      ]
+    },
+    {
+      "name": "Swapnil Vichare",
+      "email": "niramayahealth@gmail.com",
+      "designation": "Program Officer - Admin",
+      "mobile": [
+        "91-22-24161110",
+        "91-9594989277"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4246",
+  "name": "Niramaya Health Foundation",
+  "primaryEmail": "niramayahealth@gmail.com",
+  "website": "http://www.niramaya.org",
+  "organisationType": [
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "912224161110"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "16-B, Krishna Niwas, 2nd Floor, Dr. Ambedkar Road, Dadar (E) mum-14",
+      "Hindmata",
+      "Dadar",
+      "Mumbai",
+      "Maharashtra",
+      "400014"
+    ]
+  },
+  "briefDescription": "Niramaya Health Foundation is a non-profit non-governmental organization commenced in June 2001 in MumbaiField Area Slums of Mumbai and Tribal villages of Nasik Project:1. Anemia Malnutrition project- Preschool Children2. Adolscent Sexuality Education- 60 schools3. CLinic and community: Health services to marginalised4. RAgPicker and Tribal Healthcare Projects- In Deonar dumping ground and Nashik Tribal AreasCatering 1 lakh direct beneficiary",
+  "yearOfEstablishment": "2001"
+}

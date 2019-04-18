@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Dinesh.Patel",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4373",
+  "name": "Society for Advance Movement In Rural Program & Action for  Nation (SAMARPAN)",
+  "primaryEmail": "info@samrpan.org",
+  "website": "www.samrpan.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919428460961"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "32/ Annad nagar",
+      "opp.shahajnnd soc.kansa road",
+      "Visanagar",
+      "Mehsana",
+      "Gujarat",
+      "384315"
+    ]
+  }
+}

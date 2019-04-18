@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Yatin.j.Patel",
+      "email": "",
+      "designation": "CEO",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1404",
+  "name": "Jyothi Welfare Society",
+  "primaryEmail": "yatinpatal@jyothiwelfaresociety.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918666590763",
+    "918666590763"
+  ],
+  "mainAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "D.No.76-11-4",
+      "Kollafarm Road, Near bank center Bhavani Puram ,",
+      "Vijayawada",
+      "Krishna",
+      "Andhra Pradesh",
+      "520012"
+    ]
+  }
+}

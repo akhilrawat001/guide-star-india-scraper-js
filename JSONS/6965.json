@@ -1,0 +1,40 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6965",
+  "name": "NALANDA EDUCATION AND CHARITABLE TRUST",
+  "primaryEmail": "info@nalandatrustindia.org",
+  "website": "www.nalandatrustindia.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919428843007"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "301,3RD FLOOR,PATALESHWAR COMPLEX,OPP-DHARANI HOSPITAL",
+      "KIRTISTAMBH  PALANPUR",
+      "PALANPR",
+      "Banaskantha",
+      "Gujarat",
+      "385001"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "301, 3RD FLOOR ,PATALESHWAR COMPLEX",
+      "OPP- DHARANI HOSPITAL,KIRTISTAMBH",
+      "PALANPUR",
+      "Banaskantha",
+      "Gujarat",
+      "385001"
+    ]
+  }
+}

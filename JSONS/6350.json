@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "DR. G. D. MAHANT",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6350",
+  "name": "SHRI DHANVANTRI HEALTH PROFESSIONALS DEVELOPMENT FOUNDATION",
+  "primaryEmail": "GDMED85@GMAIL.COM",
+  "website": "DHANVANTIFOUNDATION.ORG.IN",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "917354963744"
+  ],
+  "mainAddrress": {
+    "state": "Chhattisgarh",
+    "address": [
+      "SHO 604  6TH FLOOR  MAGNETO THE MALL",
+      "RING ROAD TELIBANDHA",
+      "RAIPUR",
+      "Raipur",
+      "Chhattisgarh",
+      "492001"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "contacts": [
+    {
+      "name": "J Saranya",
+      "email": "",
+      "designation": "Staff",
+      "mobile": []
+    },
+    {
+      "name": "J Saranya",
+      "email": "",
+      "designation": "Staff",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2009",
+  "name": "Peoples Multipurpose Service Organization",
+  "primaryEmail": "pmso1995@yahoo.co.in",
+  "telephone": [
+    "914522610722",
+    "919345210827"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "18 Vellaikkannu Theatre Road",
+      "Arasaradi",
+      "Madurai",
+      "Tamil Nadu",
+      "396321"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "18 Vellaikkannu Theatre Road",
+      "Arasaradi",
+      "Madurai",
+      "Tamil Nadu",
+      "625016"
+    ]
+  }
+}

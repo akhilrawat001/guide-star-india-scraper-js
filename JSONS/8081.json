@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Sonadevi",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8081",
+  "name": "VINIYOG GRAMODYOG SANSTHAN SAMITI",
+  "primaryEmail": "tripathipm07@rediffmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919415968943"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "Village and Post Shahgarh Gauriganj Amethi (Up)",
+      "Amethi",
+      "Sultanpur",
+      "Uttar Pradesh",
+      "228745"
+    ]
+  }
+}

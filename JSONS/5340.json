@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Kamal Ahmed",
+      "email": "s.sevasamiti.org@gmail.com",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5340",
+  "name": "SHRAMIK SEVA SAMITI",
+  "primaryEmail": "s.sevasamiti.org@gmail.com",
+  "website": "www.ngoshramik.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "+919165088733"
+  ],
+  "mainAddrress": {
+    "state": "Chhattisgarh",
+    "address": [
+      "Village Deogai",
+      "P.O. Aragahi",
+      "Ramanujganj",
+      "Surguja",
+      "Chhattisgarh",
+      "497220"
+    ]
+  }
+}

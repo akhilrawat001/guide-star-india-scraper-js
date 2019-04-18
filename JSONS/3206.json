@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "Hiral Vaidya",
+      "email": "",
+      "designation": "Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3206",
+  "name": "Human Development And Research Foundation",
+  "primaryEmail": "hdrf.care4mr@gmail.com",
+  "telephone": [
+    "917925731914",
+    "917925731914"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "41, Ambica Tenaments",
+      "Near Isanpur Bus Stop, Isanpur",
+      "Ahemdabad",
+      "Ahmedabad",
+      "Gujarat",
+      "382443"
+    ]
+  }
+}

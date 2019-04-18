@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Nandini Basu",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8919",
+  "name": "Rural Development Association",
+  "primaryEmail": "nandini.ceo.rda@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919775501643"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Rural Development Association  Mirzabazar",
+      "Midnapore",
+      "West Medinipur",
+      "West Bengal",
+      "721101"
+    ]
+  }
+}

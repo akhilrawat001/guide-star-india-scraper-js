@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "DR SHEIKH ABDUS SAMAD",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4931",
+  "name": "BAGNAN CRESCENT EDUCATIONAL SOCIETY",
+  "primaryEmail": "crescenteducationalsociety@gmail.com",
+  "website": "www.crescenteducationalsociety.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919732606970"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "VILL-PAIKPARI,PO-ANTILA, PS-BAGNAN, DIST-HOWRAH, PIN-711312, WEST BENGAL",
+      "ATITHI ABASAN, FLAT-B4, 1/A-BT ROAD",
+      "KOLKATA, CALCUTTA",
+      "North 24 Parganas",
+      "West Bengal",
+      "700058"
+    ]
+  }
+}

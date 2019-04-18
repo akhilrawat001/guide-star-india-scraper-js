@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Dilip Raut",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8191",
+  "name": "BHAKTI DHARA FOUNDATION",
+  "primaryEmail": "dilipr@bhaktidhara.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919322890481"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "T 42, 115,",
+      "PRATEEKSHA NAGAR",
+      "SION EAST",
+      "Mumbai",
+      "Maharashtra",
+      "400022"
+    ]
+  }
+}

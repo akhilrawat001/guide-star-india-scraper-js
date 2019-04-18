@@ -1,0 +1,35 @@
+{
+  "contacts": [
+    {
+      "name": "Mohammad Aadil Khan",
+      "email": "aadilqasmi@yahoo.com",
+      "designation": "Secretary",
+      "mobile": [
+        "91-8130431123"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10345",
+  "name": "Azizia Education Trust",
+  "primaryEmail": "aadilqasmi@yahoo.com",
+  "organisationType": [
+    "Grant-making",
+    "Support"
+  ],
+  "telephone": [
+    "918130431123"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "M-37, 3rd Floor, Batla House",
+      "Jamia Nagar",
+      "New Delhi",
+      "South East Delhi",
+      "Delhi",
+      "110025"
+    ]
+  },
+  "briefDescription": "Providing elementary education to girl children in Muzaffarnagar district of U.P. state and in New Delhi for past couple of years.",
+  "yearOfEstablishment": "2014"
+}

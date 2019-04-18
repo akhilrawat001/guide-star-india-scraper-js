@@ -1,0 +1,37 @@
+{
+  "contacts": [
+    {
+      "name": "C R Balasubramanian",
+      "email": "crbmanian@gmail.com",
+      "designation": "Chairman",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=403",
+  "name": "MBA Foundation",
+  "primaryEmail": "crbmanian@gmail.com",
+  "website": "http://www.lifecare-disabled.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "912228576972",
+    "912228574456"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Ground floor, Gods Heavens Bldg",
+      "Crystal Palace, Nr. New Powai Police Station, Rambaug, Powai",
+      "Mumbai",
+      "Maharashtra",
+      "400072"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Maharashtra"
+    ]
+  }
+}

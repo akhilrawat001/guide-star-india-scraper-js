@@ -1,0 +1,40 @@
+{
+  "contacts": [
+    {
+      "name": "Leena Rao",
+      "email": "info@mysprat.org",
+      "designation": "Finance Officer",
+      "mobile": [
+        "91-79-26623655"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=482",
+  "name": "SPRAT - Society for Promoting Rationality",
+  "primaryEmail": "info@mysprat.org",
+  "website": "http://www.mysprat.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "917926634655",
+    "917926612049",
+    "917926634655"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "SPRAT, SF-8",
+      "Rajnagar Complex, Narayan Nagar Road, Nr. NID, Paldi",
+      "Ahmedabad",
+      "Gujarat",
+      "380007"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "Gujarat"
+    ]
+  }
+}

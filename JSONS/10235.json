@@ -1,0 +1,40 @@
+{
+  "contacts": [
+    {
+      "name": "Soumya Joseph",
+      "email": "soumyajoseph@policefoundation.in",
+      "designation": "Research Associate",
+      "mobile": []
+    },
+    {
+      "name": "Soumya Joseph",
+      "email": "soumyajoseph@policefoundation.in",
+      "designation": "Research Associate",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10235",
+  "name": "THE POLICE FOUNDATION AND INSTITUTE",
+  "primaryEmail": "discussions@policefoundation.in",
+  "website": "https://www.policefoundationindia.org/",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service"
+  ],
+  "telephone": [
+    "911141000360"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "Flat C-8, 8758",
+      "Vasant Kunj",
+      "New Delhi",
+      "South West Delhi",
+      "Delhi",
+      "110070"
+    ]
+  },
+  "briefDescription": "The Police Foundation & Institute is a multidisciplinary think tank that brings together the citizens & the police to drive a nationwide campaign for police reform & transformation. The organisation has 2 limbs: Indian Police Foundation (IPF), an independent think tank & policy advocacy wing and Indian Police Institute (IPI), a professional institute for the Indian Police, providing a vibrant platform dedicated to research, ideas generation, standards-setting, capacity building & evidence-based policing.  An eminent Board chaired by Prakash Singh, the legendary crusader for police reforms, provides visionary and strategic leadership to the organisation; N. Ramachandran, former DGP is the Founder and President.",
+  "yearOfEstablishment": "2014"
+}

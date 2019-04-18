@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "name": "B. Palanisamy",
+      "email": "caretrust04@yahoo.com",
+      "designation": "Chief Administrative Officer",
+      "mobile": []
+    },
+    {
+      "name": "B. Palanisamy",
+      "email": "caretrust04@yahoo.com",
+      "designation": "Chief Administrative Officer",
+      "mobile": []
+    },
+    {
+      "name": "B. Palanisamy",
+      "email": "caretrust04@yahoo.com",
+      "designation": "Chief Administrative Officer",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4683",
+  "name": "Centre for Alternate Rural Employment (CARE)",
+  "primaryEmail": "caretrust04@yahoo.com",
+  "telephone": [
+    "914286220095",
+    "919443220095"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "19, 1St Cross",
+      "Thillaipuram",
+      "Namakkal",
+      "Tamil Nadu",
+      "637001"
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "SRISHTI MATHUR",
+      "email": "srishmathur@gmail.com",
+      "designation": "OFFICE BEARER",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5744",
+  "name": "Gayathri Welfare Association, Education,Women Health, AIDS Awareness & Charitable Society",
+  "primaryEmail": "srishmathur@gmail.com",
+  "telephone": [
+    "911165190607",
+    "911165190607"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "B-98/3A First Floor, Joshi Colony,",
+      "I.P.Extention",
+      "Patpargang",
+      "East Delhi",
+      "Delhi",
+      "110092"
+    ]
+  }
+}

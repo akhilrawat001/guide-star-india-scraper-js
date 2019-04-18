@@ -1,0 +1,35 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1314",
+  "name": "Shree Raghavendra Universal Upliftment Trust International",
+  "primaryEmail": "raghavendrashruti@hotmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "914024361716",
+    "914020023013",
+    "914024361716"
+  ],
+  "mainAddrress": {
+    "state": "Telangana",
+    "address": [
+      "8-1-206/A",
+      "Raghavendra Hills, Mylardevpally, Keshavagiri Post",
+      "Hyderabad",
+      "Telangana",
+      "500005"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Telangana",
+    "address": [
+      "6-3-166, Inner Ring Road X Roads,",
+      "Shivarampally,",
+      "Hyderabad",
+      "Telangana",
+      "500252"
+    ]
+  }
+}

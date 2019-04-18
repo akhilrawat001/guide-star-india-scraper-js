@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "M. Alwas",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7307",
+  "name": "NILGIRIS ADIVASI WELFARE ASSOCIATION",
+  "primaryEmail": "nawaktg@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "914266271596",
+    "914266271596"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "Fair Glenn Annexe, Kota Hall Road",
+      "Kotagiri",
+      "The Nilgiris",
+      "Tamil Nadu",
+      "643217"
+    ]
+  }
+}

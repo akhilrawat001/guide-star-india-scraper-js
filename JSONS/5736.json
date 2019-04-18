@@ -1,0 +1,27 @@
+{
+  "contacts": [
+    {
+      "name": "Ratna Prasad",
+      "email": "madhucdc@gmail.com",
+      "designation": "Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5736",
+  "name": "Community Development Center (CDC)",
+  "primaryEmail": "madhucdc@gmail.com",
+  "telephone": [
+    "919849078450"
+  ],
+  "mainAddrress": {
+    "state": "Telangana",
+    "address": [
+      "Flat No. 106, Sai Towers, Kapra Circle",
+      "Prasanthnagar",
+      "Greater Hyderabad",
+      "Hyderabad",
+      "Telangana",
+      "500062"
+    ]
+  }
+}

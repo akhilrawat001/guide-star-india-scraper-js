@@ -1,0 +1,34 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5672",
+  "name": "NOIDA LOK MANCH",
+  "primaryEmail": "info@noidalokmanch.org",
+  "website": "noidalokmanch.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918742996299"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "D-134, Sector-15",
+      "NOIDA",
+      "Gautam Buddha Nagar",
+      "Uttar Pradesh",
+      "201301"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "D-134,",
+      "Sector 15,",
+      "Noida",
+      "Gautam Buddha Nagar",
+      "Uttar Pradesh",
+      "201301"
+    ]
+  }
+}

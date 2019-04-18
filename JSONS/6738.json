@@ -1,0 +1,39 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6738",
+  "name": "FOUNDATION FOR RESEARCH IN HEALTH SYSTEMS",
+  "primaryEmail": "admin@frhsindia.org",
+  "website": "http://frhsindia.org/",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "918026577978",
+    "918026577978"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "G1, Brigade Business Suites",
+      "100 ft road, T Mariappa Road, Near Ashoka Pillar",
+      "Jaya nagar 2nd block.",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560011"
+    ]
+  },
+  "briefDescription": "FRHS works predominantly in the areas of maternal health, adolescent health, child health and nutrition, reproductive health, family planning and HIV/AIDS. FRHS focuses on strengthening existing health systems through program planning, monitoring and evaluation. FRHS also undertakes intervention research and designs and implements health information systems for efficient analysis and use of data. It has expertise in using web based/mobile based ICT (Information Communication Technologies) to identify and reach targeted beneficiaries. It conducts capacity-building programs for community monitoring and peer learning methodologies.",
+  "yearOfEstablishment": "1989",
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "Room No. 1",
+      "214, Syndicate House, Inderlok",
+      "North West Delhi",
+      "Delhi",
+      "110035"
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "contacts": [
+    {
+      "name": "Ms.Bhaswati Roy Choudhury",
+      "email": "bhaswati@theant.org",
+      "designation": "Finance And Accounts Team Leader",
+      "mobile": []
+    },
+    {
+      "name": "Ms.Bhaswati Roy Choudhury",
+      "email": "bhaswati@theant.org",
+      "designation": "Finance And Accounts Team Leader",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7237",
+  "name": "The Action Northeast Trust (\"the ant\")",
+  "primaryEmail": "mail@theant.org",
+  "website": "http://www.theant.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "913664293802"
+  ],
+  "mainAddrress": {
+    "state": "Assam",
+    "address": [
+      "The Ant, Udangshri Dera",
+      "P.O. Khagrabari, Near ABSU office",
+      "Rowmari",
+      "Chirang",
+      "Assam",
+      "783380"
+    ]
+  },
+  "briefDescription": "the ant is a 16 years old organization (www.theant.org) based in Rowmari in Chirang district of Assam. It works at two levels, directly at grassroots for furthering the pace of development in the areas mainly falling under the Bodoland Territorial Council, and at another level whereby it carries out capacity building training and networks with other institutions for advocacy.the ant’s current work can be split into 4 major initiatives:1. Rural development2. Aagor - weaving enterprise3. IDeA - NGO training institute4. TACT (The Ants Craft Trust)",
+  "yearOfEstablishment": "2000",
+  "regiseredAddrress": {
+    "state": "Assam",
+    "address": [
+      "the ant, Udangshri Dera",
+      "P.O. Khagrabari, Near ABSU office",
+      "Rowmari",
+      "Chirang",
+      "Assam",
+      "783380"
+    ]
+  }
+}

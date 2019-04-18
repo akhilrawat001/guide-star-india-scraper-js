@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "Jitendra Kumar",
+      "email": "jitendra.nav@rediffmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=285",
+  "name": "Nav Jagriti",
+  "primaryEmail": "jagritti_chp@rediffmail.com",
+  "website": "www.navjagriti.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919431074772"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "At-Sikati, Po-Anjani",
+      "Via-Parsa",
+      "Saran",
+      "Bihar",
+      "841219"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Bihar",
+    "address": [
+      "Bihar"
+    ]
+  }
+}

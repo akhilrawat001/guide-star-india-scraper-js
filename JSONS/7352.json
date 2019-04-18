@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Mr Kanubhai J Makwana",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7352",
+  "name": "ADARSH SARVJANIK TRUST, MOVASA",
+  "primaryEmail": "adarshngo2016@gmail.com",
+  "website": "http://www.nfsi-vadodara.com/",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919601736666"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "Sanjari Associates, Subedar Compound",
+      "Opp. Akota Police Line, Akota, Vadodara,",
+      "Vadodara",
+      "Gujarat",
+      "390020"
+    ]
+  }
+}

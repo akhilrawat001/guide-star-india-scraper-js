@@ -1,0 +1,33 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8622",
+  "name": "The National Society for the Prevention of Blindness",
+  "primaryEmail": "nspbpanchmahal@gmail.com",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "919879307434"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "Chirag Eye Hospital",
+      "L.I.C Road",
+      "Godhra",
+      "Panchmahal",
+      "Gujarat",
+      "389001"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "Dr.Rajendra Prasad Centre For Ophthalmic Sciences",
+      "AIIMS,Ansari Nagar",
+      "New Delhi",
+      "Delhi",
+      "110024"
+    ]
+  }
+}

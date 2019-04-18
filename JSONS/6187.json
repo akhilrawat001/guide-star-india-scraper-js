@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Dr P K Gandhi",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6187",
+  "name": "Vikalpa",
+  "primaryEmail": "vikalp.ngonagpur10@gmail.com",
+  "website": "http://vikalpa.co.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "917122285575",
+    "917122285575"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Vikalp",
+      "162 Pande Lay Out Khamla",
+      "Nagpur",
+      "Maharashtra",
+      "440025"
+    ]
+  }
+}

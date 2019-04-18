@@ -1,0 +1,43 @@
+{
+  "contacts": [
+    {
+      "name": "Subash Chandra Mishra",
+      "email": "bassanta2001@yahoo.com",
+      "designation": "Director-cum-Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4440",
+  "name": "Busy Association for Social Service And Neap Touristic Accession",
+  "primaryEmail": "bassanta2001@yahoo.com",
+  "website": "bassantasambalpur.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "916681284076",
+    "916681284076"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "Bairagipali, Po-Kabarapali, Via-Gourpali, Sambalpur, Odisha-768112",
+      "Rerd. office at Luburi",
+      "Sambalpur",
+      "Subarnapur",
+      "Odisha",
+      "768112"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Odisha",
+    "address": [
+      "LUBURI",
+      "NAKTIDEUL, RAIRAKHOL",
+      "sambalpur",
+      "Sambalpur",
+      "Odisha",
+      "768106"
+    ]
+  }
+}

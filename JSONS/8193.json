@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "S.Abdul Nazer",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8193",
+  "name": "AXIOM SOCIAL SERVICE SOCIETY",
+  "primaryEmail": "axiomsssl@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919245124106"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "44.66.South Car street",
+      "DINDIGUL",
+      "Dindigul",
+      "Tamil Nadu",
+      "624001"
+    ]
+  }
+}

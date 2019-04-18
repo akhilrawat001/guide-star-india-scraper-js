@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "Irshad Ahmed",
+      "email": "airshad7@gmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2976",
+  "name": "AR Social Welfare Development Trust",
+  "primaryEmail": "arswdt.blr@rediffmail.com",
+  "telephone": [
+    "918025438499",
+    "919845804093"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "# 275/3c",
+      "Ibrahim Sabeh Street Rashad Nagar, Opp Arabic College",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560045"
+    ]
+  }
+}

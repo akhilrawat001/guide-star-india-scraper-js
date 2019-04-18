@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Sachin Chobhe",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8225",
+  "name": "Lokrang Foundation",
+  "primaryEmail": "lokrang.trust@gmail.com",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "919422462003",
+    "919422215658"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "At. Baburdi Bend,",
+      "Po. Hivare Zare, Tal. Nagar",
+      "Baburdi Bend",
+      "Ahmednagar",
+      "Maharashtra",
+      "414006"
+    ]
+  }
+}

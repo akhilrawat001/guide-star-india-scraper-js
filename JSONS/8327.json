@@ -1,0 +1,33 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8327",
+  "name": "36 NO MONDALER LAT TRIMUKHI STAR SOCIETY",
+  "primaryEmail": "tmstarsociety10@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919647236116"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Vill- 36 No Mondaler Lat, P.O.- 36 No Hat, P.S. Kultali",
+      "36 No Mondaler Lat",
+      "South 24 Parganas",
+      "West Bengal",
+      "743338"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "36 No Mondaler Lat",
+      "36 No Hat, Kultali, South 24 Parganas",
+      "South 24 Parganas",
+      "West Bengal",
+      "743338"
+    ]
+  }
+}

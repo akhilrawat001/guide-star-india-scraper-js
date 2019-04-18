@@ -1,0 +1,39 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2003",
+  "name": "Vidya Vardhini Foundation Trust",
+  "primaryEmail": "chitra@vidyavardhini.org",
+  "website": "http://www.vidyavardhini.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "912225560666",
+    "919820002916"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "207, Sunflower",
+      "Neelkanth Gardens, Govandi West,",
+      "Mumbai",
+      "Maharashtra",
+      "400088"
+    ]
+  },
+  "briefDescription": "Our Foundation works in the field of Community Empowerment with a special focus on children and young adults with disability. Our area of work is Cheeta Camp and Trombay slums. We also run a VISION  CENTRE in collaboration with Haji Bachooali Eye Hospital Parel which has a clinic working every Monday at our office in Trombay. We also have an Integrated  Pre - School with 30 children in Trombay.",
+  "yearOfEstablishment": "2001",
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "13/14, Gulistan",
+      "Sasmira Marg. Worli,",
+      "Mumbai",
+      "Maharashtra",
+      "400025"
+    ]
+  }
+}

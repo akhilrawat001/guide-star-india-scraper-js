@@ -1,0 +1,38 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1271",
+  "name": "Subhiksha Voluntary Organization",
+  "primaryEmail": "director@subhiksha.org",
+  "website": "http://www.subhiksha.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network"
+  ],
+  "telephone": [
+    "914040037568"
+  ],
+  "mainAddrress": {
+    "state": "Telangana",
+    "address": [
+      "Flat No.202, Sri Sai Apartments,",
+      "Street No.9 Road No.5, West Marredpally,",
+      "Secunderabad",
+      "Hyderabad",
+      "Telangana",
+      "500026",
+      "AP_Other_1175.PDF"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Telangana",
+    "address": [
+      "Plot No.260, MIG II Opp. Community Hall, I",
+      "Xth Phase, KPHB Colony, Kukatpally,",
+      "Hyderabad",
+      "Telangana",
+      "500072",
+      "AP_Other_1175.PDF"
+    ]
+  }
+}

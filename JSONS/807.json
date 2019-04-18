@@ -1,0 +1,41 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=807",
+  "name": "Bethany Society",
+  "primaryEmail": "bethanyngo@rediffmail.com",
+  "website": "www.bethanysociety.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network"
+  ],
+  "telephone": [
+    "913642210631",
+    "913642227705",
+    "919436119808",
+    "918840976141"
+  ],
+  "mainAddrress": {
+    "state": "Meghalaya",
+    "address": [
+      "Lady Veronica Lane, Laitumkhrah",
+      "Shillong",
+      "East Khasi Hills",
+      "Meghalaya",
+      "793003"
+    ]
+  },
+  "briefDescription": "Creating opportunities for persons with disability and the rural poor through Inclusive Education, Sustainable Livelihoods, and Social Inclusion.",
+  "yearOfEstablishment": "1981",
+  "regiseredAddrress": {
+    "state": "Meghalaya",
+    "address": [
+      "Bethany Society",
+      "Arai Mile",
+      "New Tura",
+      "West Garo Hills",
+      "Meghalaya",
+      "794101"
+    ]
+  }
+}

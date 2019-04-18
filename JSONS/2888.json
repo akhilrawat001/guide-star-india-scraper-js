@@ -1,0 +1,27 @@
+{
+  "contacts": [
+    {
+      "name": "Xavier",
+      "email": "virtueorg@yahoo.co.in",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2888",
+  "name": "Vailankanni Grama Amaippu Mafrum Thozirkallvi Niruvanam",
+  "primaryEmail": "virtueorg@yahoo.co.in",
+  "telephone": [
+    "914366204499",
+    "914366204499"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "18-94 Hospital street",
+      "Thiruthuraipoondi",
+      "Tiruvarur",
+      "Tamil Nadu",
+      "614713"
+    ]
+  }
+}

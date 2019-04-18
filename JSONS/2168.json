@@ -1,0 +1,50 @@
+{
+  "contacts": [
+    {
+      "name": "TOM GEORGE",
+      "email": "georgetom00@gmail.com",
+      "designation": "DIRECTOR",
+      "mobile": [
+        "91-7879535715"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2168",
+  "name": "MADHYA PRADESH VIKLANG SAHAYATHA SAMITI",
+  "primaryEmail": "mpvss10@gmail.com",
+  "website": "http;//www.mpvss.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "917342511031",
+    "919425332740",
+    "917879535715"
+  ],
+  "mainAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "Manovikas, Sector-9,",
+      "Jawahar Nagar,",
+      "Ujjain",
+      "Madhya Pradesh",
+      "456010"
+    ]
+  },
+  "briefDescription": "MPVSS is working for the training and rehabilitation of persons with disabilities. Main concentration is on persons with intellectual disabilities. Through its special schools, integrated centres, community centres, physiotherapy and occupational therapy units it is prviding service to around 700 children. Through inclusive education programme 3100 children with various disabilities are educated. Training programmes are run to prepare man power. Awareness programmes and parents training are organised. Vocational training is given to adult persons with disabilities. Net working with government and other NGO's",
+  "yearOfEstablishment": "1998",
+  "regiseredAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "CHANDESSARY",
+      "CHANDESSARA P.O.",
+      "DEWAS ROAD, UJJAIN",
+      "Ujjain",
+      "Madhya Pradesh",
+      "456664"
+    ]
+  }
+}

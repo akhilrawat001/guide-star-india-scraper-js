@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "L.M.HEGDE",
+      "email": "meardsociety@gmail.com",
+      "designation": "FOUNDER AND CEO",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5009",
+  "name": "MALENADU EDUCATION AND RURAL DEVELOPMENT SOCIETY",
+  "primaryEmail": "meardsociety@gmail.com",
+  "website": "www.chandanaschool.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918384279319",
+    "918384279319"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "At-golikoppaPo-Arsapur Tq-sirsi Dist-UK State _KARNATAKA INDIA-581402",
+      "MEARDS SIRSI EKALVYA OPP-Satkar Hotel SIRSI DIS-Uttar kannada KARNATAKA INDIA-581401",
+      "SIRSI",
+      "Uttara Kannada",
+      "Karnataka",
+      "581401"
+    ]
+  }
+}

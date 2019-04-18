@@ -1,0 +1,52 @@
+{
+  "contacts": [
+    {
+      "name": "Arjun Arya",
+      "email": "research@indiaenvironment.org",
+      "designation": "Chief of Research",
+      "mobile": [
+        "9940203871"
+      ]
+    },
+    {
+      "name": "Arjun Arya",
+      "email": "research@indiaenvironment.org",
+      "designation": "Chief of Research",
+      "mobile": [
+        "9940203871"
+      ]
+    },
+    {
+      "name": "Arjun Arya",
+      "email": "research@indiaenvironment.org",
+      "designation": "Chief of Research",
+      "mobile": [
+        "9940203871"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5334",
+  "name": "Environmentalist Foundation of India",
+  "primaryEmail": "arun@indiaenvironment.org",
+  "website": "www.indiaenvironment.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service"
+  ],
+  "telephone": [
+    "919940203871"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "92, Lakshmi Nivas, Adhi Lakshmi Street, Lakshmi Nagar,",
+      "Mudichur",
+      "Chennai",
+      "Kancheepuram",
+      "Tamil Nadu",
+      "600048"
+    ]
+  },
+  "briefDescription": "EFI is a wildlife conservation - habitat restoration group working out of 9 cities in India. We focus on real time, result oriented conservation. 1. Restoring Urban and Rural Lakes and converting them into biodiversified hotspots.2. Running Animal homes to cater to the Injured/Sick/Diseased animals.3. Researching on waste recycling to prevent the damage caused by urban waste.",
+  "yearOfEstablishment": "2012"
+}

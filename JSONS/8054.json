@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Nikhil Kumar Jana",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8054",
+  "name": "Midnapore Cultural and Welfare Association",
+  "primaryEmail": "nikhil_jana@yahoo.com",
+  "organisationType": [
+    "Intermediary"
+  ],
+  "telephone": [
+    "913222261414",
+    "913222261414"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Pragatipally, Ballavpur",
+      "P.O. - Midnapore",
+      "Paschim Medinipur",
+      "West Medinipur",
+      "West Bengal",
+      "721101"
+    ]
+  },
+  "briefDescription": "Education for the poor children, vocational training for the rural women & youth on natural fibre, crafts, and on food processing, agriculture development with bio-diversification of crops by the farmers. Ambulance services to the poor, research & development activities on agro based waste fruits for income generation of the rural women.",
+  "yearOfEstablishment": "1990"
+}

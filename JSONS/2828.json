@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Balaraju",
+      "email": "issngo.org@gmail.com",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2828",
+  "name": "INDIAN SOCIAL SERVICE",
+  "primaryEmail": "issngo.org@gmail.com",
+  "website": "www.issngo.org",
+  "organisationType": [
+    "Grant-making"
+  ],
+  "telephone": [
+    "918008884424"
+  ],
+  "mainAddrress": {
+    "state": "Telangana",
+    "address": [
+      "House No: 11-16-17",
+      "Kashibugga",
+      "Warangal",
+      "Warangal (Urban)",
+      "Telangana",
+      "506002"
+    ]
+  }
+}

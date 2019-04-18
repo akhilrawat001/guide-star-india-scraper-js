@@ -1,0 +1,37 @@
+{
+  "contacts": [
+    {
+      "name": "D K Srinivasan",
+      "email": "hmh@dataone.in",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=372",
+  "name": "Hindu Mission Hospital",
+  "primaryEmail": "hmh@dataone.in",
+  "website": "http://www.hindumissionhospital.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "914422265533",
+    "914422262255"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "103, G. S. T. Road",
+      "Tambaram West",
+      "Chennai",
+      "Tamil Nadu",
+      "600045"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "Tamil Nadu"
+    ]
+  }
+}

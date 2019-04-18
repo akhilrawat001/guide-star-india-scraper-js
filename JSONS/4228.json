@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Nalini Elvino de Sousa",
+      "email": "communica_mundus@yahoo.co.in",
+      "designation": "Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4228",
+  "name": "Communicare Trust",
+  "primaryEmail": "communicaretrust@gmail.com",
+  "website": "www.communicaretrustgoa.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919850951505"
+  ],
+  "mainAddrress": {
+    "state": "Goa",
+    "address": [
+      "Row House no. 2, vivendas Goesas, La Citadel Colony",
+      "Dona Paula",
+      "North Goa",
+      "Goa",
+      "403002"
+    ]
+  }
+}

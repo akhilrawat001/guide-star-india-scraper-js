@@ -1,0 +1,35 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1859",
+  "name": "Milind Bahuuddeshiya Shikshan Krida VA Vyayam Prasarak Mandal Patur Nandapur, Taluka-Dist-Akola",
+  "primaryEmail": "sahdapn@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "917242488010",
+    "917242488010",
+    "917242218151",
+    "919421751694"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Shanti - D.P.Road",
+      "New Khetan Nagar, Koulkhed, Near SBI Koulkhed Branch",
+      "Akola",
+      "Maharashtra",
+      "444004"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "At.Post- Patur",
+      "Taluka - Nandapur,",
+      "Akola",
+      "Maharashtra",
+      "444407"
+    ]
+  }
+}

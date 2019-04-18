@@ -1,0 +1,30 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=345",
+  "name": "DEAN Foundation",
+  "primaryEmail": "deanfn@gmail.com",
+  "website": "http://www.deanfoundation.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "914426454949",
+    "914426260552",
+    "914426454949"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "Old No. 73/New No. 59, II Street",
+      "Aspiran Garden Colony, Kilpauk",
+      "Chennai",
+      "Tamil Nadu",
+      "600010"
+    ]
+  },
+  "briefDescription": "Dean Foundation is dedicated to the care and management of people with terminal, incurable diseases, since 1998., providing competent care and compassion to end unnecessary suffering, indignity and fear. Dean Foundation has so far cared for 3457 patients, of who 2784 were Cancer patients, and 1927 with geriatric illnesses. Current caseload in all our 3 centres is 718 patients",
+  "yearOfEstablishment": "1998"
+}

@@ -1,0 +1,44 @@
+{
+  "contacts": [
+    {
+      "name": "Sonali Gonsalves",
+      "email": "kajol@childlineindia.org.in",
+      "designation": "Coordinator",
+      "mobile": [
+        "91-22-23841098"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=339",
+  "name": "Childline India Foundation",
+  "primaryEmail": "dial1098@childlineindia.org.in",
+  "website": "http://www.childlineindia.org.in",
+  "organisationType": [
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "912223881098",
+    "912223811098",
+    "912223881098"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "2nd Floor, Nana Chowk Municipal school",
+      "Frere Bridge - Low level, Near Grant Road Station (west)",
+      "Mumbai",
+      "Maharashtra",
+      "400007"
+    ]
+  },
+  "briefDescription": "CHILDLINE 1098 is a national, 24x7, free, emergency phone and outreach service for children in need of care and protection. Within 60 minutes of receiving a  call on 1098, a child protection service involving the local level district/state administration, NGOs, Police, Health, Education, Labour departments, the Juvenile Justice system, is set in motion, and does not stop till the child is rehabilitated with family or safe within institutional care. Currently present in 172 cities across 26 states and UTs in India, the vision is to have a child-friendly nation that guarantees the rights and protection of all children.",
+  "yearOfEstablishment": "2000",
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Maharashtra"
+    ]
+  }
+}

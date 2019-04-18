@@ -1,0 +1,27 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1536",
+  "name": "Gurukul Trust",
+  "primaryEmail": "gurukultrust2011@gmail.com",
+  "website": "www.gurukultrustthane.org",
+  "organisationType": [
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "912225303692",
+    "912225437709",
+    "918976696396"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "C/8, Sunita, Varsha Society",
+      "L.B.S Road, Naupada.",
+      "Thane",
+      "Maharashtra",
+      "400602"
+    ]
+  }
+}

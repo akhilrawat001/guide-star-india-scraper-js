@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "Venkatesan",
+      "email": "n.venkatesan@dhan.org",
+      "designation": "Chief Operating Officer",
+      "mobile": [
+        "91-452-2601673",
+        "91-9443419064"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1523",
+  "name": "Dhan Vayalagam (Tank) Foundation",
+  "primaryEmail": "dhantank@dhan.org",
+  "website": "http://www.dhan.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "914522601673"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "17, Vellai Pillaiyar Koil Street,",
+      "Soma Sundaram Colony,",
+      "Madurai",
+      "Tamil Nadu",
+      "625010"
+    ]
+  }
+}

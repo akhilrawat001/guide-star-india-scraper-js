@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "name": "Ram Bhat",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "21711375"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4895",
+  "name": "Kshamata",
+  "primaryEmail": "bharathyt@gmail.com",
+  "website": "www.kshamata.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "912221711375",
+    "912221711375"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "16/204, Gulmohar",
+      "Vasant Vihar",
+      "Thane West",
+      "Thane",
+      "Maharashtra",
+      "400610"
+    ]
+  },
+  "briefDescription": "Kshamata works to rehabilitate women in distress and reintegrate them into society, primarily through training on Vocational Skills, Life skills and Soft Skills, placement and counselling. Kshamata runs its own dedicated residential training centre for women for soft skill training and help in enterprise development.",
+  "yearOfEstablishment": "2011"
+}

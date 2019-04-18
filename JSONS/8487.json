@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Sumitra Ganguly",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8487",
+  "name": "GARIA   SATHI",
+  "primaryEmail": "sumitragariasathi@rediffmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919831610397",
+    "918017460990"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "D/47",
+      "Ramgarh Near Garia",
+      "Kolkata",
+      "West Bengal",
+      "700047"
+    ]
+  }
+}

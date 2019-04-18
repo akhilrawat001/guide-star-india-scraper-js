@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Vijay Kumar",
+      "email": "",
+      "designation": "Manager",
+      "mobile": [
+        "91-9955577959"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1139",
+  "name": "Nav Yubak Kala Manch",
+  "primaryEmail": "nykm@rediffmail.com",
+  "telephone": [
+    "916542250725",
+    "916542250725"
+  ],
+  "mainAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "Rehabilitation Site",
+      "Jainamore",
+      "Bokaro",
+      "Jharkhand",
+      "829301"
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Suman Kumar",
+      "email": "akritiservseva.org@rediffmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8601",
+  "name": "AAKRITI SERV SEVA",
+  "primaryEmail": "akritiservseva.org@rediffmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919006360041"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "MOHALLA - NEW BIHAR COLONY",
+      "P.O. AND DISTRICT - JAMUI",
+      "Jamui",
+      "Bihar",
+      "811307"
+    ]
+  }
+}

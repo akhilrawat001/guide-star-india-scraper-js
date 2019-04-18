@@ -1,0 +1,26 @@
+{
+  "contacts": [
+    {
+      "name": "Valmik S. Sonawane",
+      "email": "valmiksonawane78@gmail.com",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4707",
+  "name": "Shriram Foundation",
+  "primaryEmail": "valmiksonawane78@gmail.com",
+  "telephone": [
+    "919404970330"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "At Post Borvihir",
+      "Taluka Dhule",
+      "Dhule",
+      "Maharashtra",
+      "424311"
+    ]
+  }
+}

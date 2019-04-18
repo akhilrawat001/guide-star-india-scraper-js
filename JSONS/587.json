@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "Syed Nasiruddin",
+      "email": "",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=587",
+  "name": "Neogirhat Aikatan Gram Unnayan Samity",
+  "primaryEmail": "ngus_falta_wb@yahoo.co.in",
+  "telephone": [
+    "913174240439",
+    "913174240113",
+    "919775158554"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Village: Neogirat, P.O. Chaluary",
+      "Falta",
+      "South 24 Parganas",
+      "West Bengal",
+      "743513"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "contacts": [
+    {
+      "name": "V.Paul Raja Rao",
+      "email": "paulrajv@yahoo.com",
+      "designation": "Secretary cum Executive Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5046",
+  "name": "'BIRDS' Bharati Integrated Rural Development Society",
+  "primaryEmail": "birdsorgndl@gmail.com",
+  "website": "www.birdsorg.net",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918514222266",
+    "918514222266"
+  ],
+  "mainAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "26/130 B2, Evanest",
+      "Gnanapuram",
+      "Nandyal, Kurnool dist",
+      "Kurnool",
+      "Andhra Pradesh",
+      "518502"
+    ]
+  },
+  "briefDescription": "Vision:BIRDS vision is “a world where all its inhabitants live in complete harmony with each other to maintain and benefit from balanced eco-systems.”Mission:BIRDS mission is to create platform for people from all walks of life so that they are able to take necessary action for ensuring ecological stability, safeguarding human rights, eradicating poverty, ensuring minimum standard of living, and bringing in social justice (on account of differences based on gender, disability, social and economical marginalization and displacement).",
+  "yearOfEstablishment": "1991",
+  "regiseredAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "Not Provided",
+      "Kurnool",
+      "Andhra Pradesh",
+      "518502"
+    ]
+  }
+}

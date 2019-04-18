@@ -1,0 +1,44 @@
+{
+  "contacts": [
+    {
+      "name": "Shankari Nair",
+      "email": "vidyasagar.resources@gmail.com",
+      "designation": "Coordinator Donor Relations and Fund Management",
+      "mobile": []
+    },
+    {
+      "name": "Shankari Nair",
+      "email": "vidyasagar.resources@gmail.com",
+      "designation": "Coordinator Donor Relations and Fund Management",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=138",
+  "name": "Vidya Sagar",
+  "primaryEmail": "director@vidyasagar.co.in",
+  "website": "www.vidyasagar.co.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "914422354784",
+    "914422354980",
+    "914422200533",
+    "919444400373"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "#1, Ranjith Road",
+      "Kotturpuram",
+      "Chennai",
+      "Tamil Nadu",
+      "600085"
+    ]
+  },
+  "briefDescription": "Vidya Sagar( www.vidyasagar.co.in) is a rights based organization, working with persons with disabilities in the areas of rehabilitation, special education, inclusion, training and advocacy for the last 33 years. Through various projects and programmes, Vidya Sagar has attempted to change perceptions and make a difference not only in the life of the person with disability, but also bring about a change in society. Vidya Sagar today runs several programmes reaching out to over 3800 individuals with disabilities. This has been possible by setting up high quality delivery of services.",
+  "yearOfEstablishment": "1998"
+}

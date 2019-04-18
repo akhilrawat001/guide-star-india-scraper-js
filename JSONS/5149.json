@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Shailendra kumar",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5149",
+  "name": "ELECTRONICKI DEVELOPMENT ORGANIZATION",
+  "primaryEmail": "edorg@rediffmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919798270439"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "priyadershi nagar,",
+      "East of Bhagawat Milan Mandir",
+      "Patna",
+      "Bihar",
+      "800026"
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Mr.Narendra Kumar Mahto",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7367",
+  "name": "Jan Sahyog Kendra (J.S.K)",
+  "primaryEmail": "jskjharkhand@gmail.com",
+  "website": "www.jskjharkhand.org",
+  "organisationType": [
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919431393919"
+  ],
+  "mainAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "Village- Guduwa",
+      "Hazaribag",
+      "Jharkhand",
+      "825301"
+    ]
+  },
+  "briefDescription": "Jan Sahyog Kendra (J.S.K)located in Hazaribag, Jharkhand.",
+  "yearOfEstablishment": "2004"
+}

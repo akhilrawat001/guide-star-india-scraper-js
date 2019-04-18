@@ -1,0 +1,27 @@
+{
+  "contacts": [
+    {
+      "name": "GOVIND BHIMRAO MUNGAL",
+      "email": "jigram.govind@gmail.com",
+      "designation": "CHAIRMAN",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4656",
+  "name": "Jijamata Gramin Vikas Va Shikshan Prasarak Mandal",
+  "primaryEmail": "jigram.govind@gmail.com",
+  "telephone": [
+    "912467219070"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Care of Ashok Mamidwar House",
+      "Kranti Chouk",
+      "MONDHA UMRI",
+      "Nanded",
+      "Maharashtra",
+      "431807"
+    ]
+  }
+}

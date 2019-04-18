@@ -1,0 +1,45 @@
+{
+  "contacts": [
+    {
+      "name": "Roger Rajeev",
+      "email": "outofthecocoon@gmail.com",
+      "designation": "General Secretary",
+      "mobile": [
+        "91-40-40160760",
+        "91-9848988128"
+      ]
+    },
+    {
+      "name": "Roger Rajeev",
+      "email": "outofthecocoon@gmail.com",
+      "designation": "General Secretary",
+      "mobile": [
+        "91-40-40160760",
+        "91-9848988128"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4925",
+  "name": "Out of the Cocoon",
+  "primaryEmail": "outofthecocoon@gmail.com",
+  "website": "http://outofthecocoon.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919848988128"
+  ],
+  "mainAddrress": {
+    "state": "Telangana",
+    "address": [
+      "Flat 401, Hema Arcade, 10-3-117,",
+      "Teachers Colony, East Marredpally,",
+      "Secunderabad,",
+      "Hyderabad",
+      "Telangana",
+      "500026"
+    ]
+  },
+  "briefDescription": "Out of the Cocoon is a platform for children and teenagers to express their thoughts in writing in the form of articles, stories and poems.",
+  "yearOfEstablishment": "2013"
+}

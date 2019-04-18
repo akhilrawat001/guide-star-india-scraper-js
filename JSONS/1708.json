@@ -1,0 +1,35 @@
+{
+  "contacts": [
+    {
+      "name": "Jayalaxshmi",
+      "email": "",
+      "designation": "Co-Ordinator",
+      "mobile": []
+    },
+    {
+      "name": "Jayalaxshmi",
+      "email": "",
+      "designation": "Co-Ordinator",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1708",
+  "name": "Awareness for Women and Action for Rural Development Movement (Award Movement)",
+  "primaryEmail": "award.org@rediffmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "914630261111",
+    "919486910052"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "Murrappanadu",
+      "Thoothukudi",
+      "Tamil Nadu",
+      "628252"
+    ]
+  }
+}

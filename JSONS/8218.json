@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "BIBHUTI BHUSAN ACHARYA",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8218",
+  "name": "JIBAN BIKASH",
+  "primaryEmail": "jibanbikash@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "916756222124",
+    "916756222124"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "AT/P.O.: NIRAKARPUR,",
+      "NIRAKARPUR",
+      "DIST.: KHORDHA",
+      "Khordha",
+      "Odisha",
+      "752019"
+    ]
+  }
+}

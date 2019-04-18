@@ -1,0 +1,35 @@
+{
+  "contacts": [
+    {
+      "name": "Aju E. F",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "29271603"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3566",
+  "name": "Western Region Social Service Forum",
+  "primaryEmail": "office@wrssf.org",
+  "website": "http://wrssf.org",
+  "organisationType": [
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "912229271603",
+    "912229271603"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "2nd Floor, Sarvodaya, St. Pius College Campus",
+      "Aarey Road, Goregaon East",
+      "Mumbai",
+      "Mumbai Suburban",
+      "Maharashtra",
+      "400063"
+    ]
+  }
+}

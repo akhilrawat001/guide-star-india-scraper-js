@@ -1,0 +1,27 @@
+{
+  "contacts": [
+    {
+      "name": "Patel Mohammed Yousuf",
+      "email": "hira.educations@gmail.com",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4703",
+  "name": "Hira Educational Society",
+  "primaryEmail": "hira.educations@gmail.com",
+  "telephone": [
+    "914174224283",
+    "919894925786"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "892 Weekly Market Road",
+      "Khaderpet",
+      "Vellore",
+      "Tamil Nadu",
+      "635751"
+    ]
+  }
+}

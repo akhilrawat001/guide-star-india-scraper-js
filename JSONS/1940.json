@@ -1,0 +1,35 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1940",
+  "name": "Bread For Tribal Village",
+  "primaryEmail": "breadfortribalvillage.ngo@gmail.com",
+  "website": "WWW.bftv.jhabua.org",
+  "organisationType": [
+    "Network"
+  ],
+  "telephone": [
+    "919907775648",
+    "917392245804",
+    "919685503549"
+  ],
+  "mainAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "No 1Gram-Gundipada,P.O.-Bhagor,Distt.-Jhabua M.P.-457779",
+      "GUNDIPADA",
+      "Jhabua",
+      "Madhya Pradesh",
+      "457779"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "NEAR-DINIK JHAGRAN ,RAJGHAR NAKA",
+      "JHABUA",
+      "Jhabua",
+      "Madhya Pradesh",
+      "457661"
+    ]
+  }
+}

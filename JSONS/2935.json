@@ -1,0 +1,26 @@
+{
+  "contacts": [
+    {
+      "name": "Suvendu Prakash Ray",
+      "email": "suvendu_sambedana@rediffmail.com",
+      "designation": "Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2935",
+  "name": "SAMBEDANA",
+  "primaryEmail": "suvendu_sambedana@rediffmail.com",
+  "telephone": [
+    "916727220472",
+    "916712395936"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "At/Po-Thakurpatna",
+      "Kendrapara",
+      "Odisha",
+      "754250"
+    ]
+  }
+}

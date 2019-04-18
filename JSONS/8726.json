@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "Vikhankar Rajesh Sureshrao",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8726",
+  "name": "KAI SWATANTRA SAINIK BABURAO BHAUSETH IKHANKAR SARVAJANIK WACHNALAY",
+  "primaryEmail": "ngobbikhankar@gmail.com",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "919604474444"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Plote No 50 Shreekrishna Plaza Jatwada Road Harsul",
+      "Aurangabad",
+      "Maharashtra",
+      "431008"
+    ]
+  }
+}

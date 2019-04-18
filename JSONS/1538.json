@@ -1,0 +1,48 @@
+{
+  "contacts": [
+    {
+      "name": "Vidya Khasbage",
+      "email": "moseskharat@gmail.com",
+      "designation": "Secretary/Trustee",
+      "mobile": [
+        "91-9881595566"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1538",
+  "name": "St.Luke's Community Health and Development Centre",
+  "primaryEmail": "moseskharat@gmail.com",
+  "website": "http://communitybasedhealthproject.org",
+  "organisationType": [
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919881595566"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Chetna Nagar",
+      "Sundarkhed,Buldana,",
+      "Buldana",
+      "Buldhana",
+      "Maharashtra",
+      "443001"
+    ]
+  },
+  "briefDescription": "Improve the health outcomes of local villagers trapped in the cycle of poverty.                                    Vision:To see health inequalities in rural India,a thing of the past.                                       Mission:Challenging health inequalities in rural India by empowering the rural poor and enabling access to quality health services.                                                \"Primary Health Care\" through community participation.",
+  "yearOfEstablishment": "1991",
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Chetna Nagar",
+      "Sundarkhed,Bhadola RoadBuldana,",
+      "Buldana",
+      "Buldhana",
+      "Maharashtra",
+      "443001"
+    ]
+  }
+}

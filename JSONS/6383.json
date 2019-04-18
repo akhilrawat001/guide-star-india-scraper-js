@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Ajit Devnathji",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6383",
+  "name": "SOCIAL FRONTIER IN INDIA",
+  "primaryEmail": "ajitdevnath2013@rediffmail.com",
+  "website": "www.socialfrontier.org.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919859621723"
+  ],
+  "mainAddrress": {
+    "state": "Assam",
+    "address": [
+      "30 NO F C Grant",
+      "Doolahat Tiniali Road",
+      "Doolahat Bazar",
+      "Lakhimpur",
+      "Assam",
+      "787023"
+    ]
+  }
+}

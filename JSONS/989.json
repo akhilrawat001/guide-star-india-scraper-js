@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Ranajit Manna",
+      "email": "",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=989",
+  "name": "Sundarban Rural Development and Training Centre",
+  "primaryEmail": "srdtc@dataone.in",
+  "website": "www.srdtc.org",
+  "telephone": [
+    "913324708065",
+    "913324809031",
+    "913324709079",
+    "913324809031"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Amtala, P.O- Kanyanagar",
+      "South 24 Parganas",
+      "West Bengal",
+      "743398"
+    ]
+  }
+}

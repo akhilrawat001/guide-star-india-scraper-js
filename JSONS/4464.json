@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "SANAM CHETTRI",
+      "email": "foundationmuskan@gmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4464",
+  "name": "MUSKAN HIMALAYAN YOUTH FOUNDATION",
+  "primaryEmail": "foundationmuskan@gmail.com",
+  "website": "www.foundationmuskan.webs.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919614256162"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "GARIDHURA BAZAR,POST OFFICE-SIMULBARI",
+      "GARIDHURA BAZAR ROAD",
+      "kurseong",
+      "Darjeeling",
+      "West Bengal",
+      "734009"
+    ]
+  }
+}

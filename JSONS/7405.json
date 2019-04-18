@@ -1,0 +1,23 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7405",
+  "name": "Maruti Sewa Samiti Udaipur",
+  "primaryEmail": "marutisewasamiti@yahoo.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919828026715"
+  ],
+  "mainAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "173/12",
+      "Ashok Nagar",
+      "Udaipur",
+      "Rajasthan",
+      "313001"
+    ]
+  }
+}

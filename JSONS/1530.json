@@ -1,0 +1,38 @@
+{
+  "contacts": [
+    {
+      "name": "SIMMI GARG",
+      "email": "sahyog.care4u@gmail.com",
+      "designation": "PRESIDENT",
+      "mobile": [
+        "91-11-25257680"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1530",
+  "name": "Sahyog Care For You",
+  "primaryEmail": "sahyog.careforyou@gmail.com",
+  "website": "www.sahyogcare4u.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "911125264149",
+    "919811069292"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "22, Basement, Bhera Enclave",
+      "PASCHIM VIHAR",
+      "NEW DELHI",
+      "New Delhi",
+      "Delhi",
+      "110087"
+    ]
+  },
+  "briefDescription": "Presently, the organization is teaching 4690 children through remedial classes and bridge courses, and 5500 women through adult literacy programme 2500 youths through vocational education in 122 centres. Through our other projects, we have been able to reach out to more than 70000 people directly & indirectly. Apart from that we are working on Child Protection(Child Sexual Abuse & Child Labour) at Pan India Level. The Centres of Sahyog are located in various parts of Delhi and NCR.  All the students are provided adequate infrastructure and regular support from teachers to prevent their drop rate from school.",
+  "yearOfEstablishment": "2002"
+}

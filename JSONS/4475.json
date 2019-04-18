@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "P.Sarathchandran",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4475",
+  "name": "Committe for the Right to Housing (CRH)",
+  "primaryEmail": "crhmumbai@rediffmail.com",
+  "website": "www.crhmumbai.org",
+  "organisationType": [
+    "Advocacy & Campaigning"
+  ],
+  "telephone": [
+    "919969520439"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "PPC Chawl, Plot No-341",
+      "Nr Ram mandir,op  Vijay gas Services",
+      "Kherwadi,Bandra(east)",
+      "Mumbai",
+      "Maharashtra",
+      "400051"
+    ]
+  }
+}

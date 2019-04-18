@@ -1,0 +1,24 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4327",
+  "name": "AADHAAR",
+  "primaryEmail": "aadhaar.india@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919839801543"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "Pipranem",
+      "Village Pipranem, Post Pandeypur (via Urwa)",
+      "Gorakhpur",
+      "Uttar Pradesh",
+      "273407"
+    ]
+  },
+  "briefDescription": "AADHAAR bridges the gap between the haves and have-nots. It serves to connect those who wish to support the underprivileged, with the needy to whom this support can bring about an improvement in their standard of living and can lead them out of poverty.",
+  "yearOfEstablishment": "2001"
+}

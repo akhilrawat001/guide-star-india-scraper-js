@@ -1,0 +1,35 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10577",
+  "name": "SITA ALL INDIA RESEARCH AND SOCIAL SERVICES",
+  "primaryEmail": "sairass.ngo@gmail.com",
+  "website": "www.sairass.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919868145541"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "B-2, Kakateeya Apts. 86, I.P. Extn.",
+      "New Delhi",
+      "East Delhi",
+      "Delhi",
+      "110092"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "B-2, Kakateeya Apts. 86, I.P. Extn.",
+      "same as above",
+      "Delhi",
+      "East Delhi",
+      "110092"
+    ]
+  }
+}

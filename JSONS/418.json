@@ -1,0 +1,49 @@
+{
+  "contacts": [
+    {
+      "name": "F Beatrice Vanaja",
+      "email": "cao@newlifemfi.org",
+      "designation": "Chief Administrative Officer",
+      "mobile": []
+    },
+    {
+      "name": "F Beatrice Vanaja",
+      "email": "cao@newlifemfi.org",
+      "designation": "Chief Administrative Officer",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=418",
+  "name": "New Life",
+  "primaryEmail": "cao@newlifemfi.org",
+  "website": "http://www.newlifemfi.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919600944322",
+    "914314200694"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "1/12, Naadaar Street",
+      "Naadaar Chathiram, Somarasampettai (Via)",
+      "Tiruchirappalli",
+      "Tamil Nadu",
+      "620102"
+    ]
+  },
+  "briefDescription": "New life is registered under the Societies Registration Act on24.06.1993. It is a women headed organization with the governing board comprising of experienced and committed individuals. The basic focus of the organization is Child Development through our Special Activities. Besides, New Life is involved in Women Empowerment through self help groups and livelihood trainings.",
+  "yearOfEstablishment": "1993",
+  "regiseredAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "Door No.12-301, Balaji Nilayam",
+      "Pillaiyar, Koil Street",
+      "Chittoor",
+      "Andhra Pradesh",
+      "517001"
+    ]
+  }
+}

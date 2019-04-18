@@ -1,0 +1,27 @@
+{
+  "contacts": [
+    {
+      "name": "Ashish Vasantrao Deshpande",
+      "email": "",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=987",
+  "name": "Chitambar Bahuuddeshiya Sevabhavi Sanstha",
+  "primaryEmail": "cbss_obad@yahoo.co.in",
+  "telephone": [
+    "912472222572",
+    "912472224596",
+    "919822774073"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "N P School, Opp 11 No Samta Nagar",
+      "Osmanabad",
+      "Maharashtra",
+      "354101"
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Ramesh Kumar Gupta",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8211",
+  "name": "Shakuntala Devi Shikshan Seva Sansthan",
+  "primaryEmail": "sdsss525_basti@yahoo.in",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919670211303"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "Pikaura bakas",
+      "Gandhi Nagar",
+      "Basti",
+      "Uttar Pradesh",
+      "272001"
+    ]
+  }
+}

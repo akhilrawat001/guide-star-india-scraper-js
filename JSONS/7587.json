@@ -1,0 +1,45 @@
+{
+  "contacts": [
+    {
+      "name": "Adv.Manoj Birajdar",
+      "email": "adv.bmanoj@gmail.com",
+      "designation": "President",
+      "mobile": [
+        "91-2381-256555"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7587",
+  "name": "Jagatjyoti Gramin Bahu Uddeshiya Shaikshanik Va Sewabhavi Sanstha",
+  "primaryEmail": "jagatjyoti4ngo@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919923493555"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "At Main Road",
+      "Post Nalegaon",
+      "Tq Chakur Dist Latur",
+      "Latur",
+      "Maharashtra",
+      "413524"
+    ]
+  },
+  "briefDescription": "Our organization running Jym For youth  at Nalegaon.",
+  "yearOfEstablishment": "27022006",
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "At Main Road Post Nalegaon",
+      "Opposite Bus Stand",
+      "Nalegaon Tq Chakur Dist Latur",
+      "Latur",
+      "Maharashtra",
+      "413524"
+    ]
+  }
+}

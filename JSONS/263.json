@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Binod Kumar",
+      "email": "bss.org@gmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=263",
+  "name": "Bihar Sewa Samiti",
+  "primaryEmail": "bss_org@sify.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "916276225869",
+    "919430573172",
+    "916276225869"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "Kutchery Road, Madhubani",
+      "Madhubani",
+      "Bihar",
+      "847211"
+    ]
+  }
+}

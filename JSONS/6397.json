@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Alok Kumar",
+      "email": "vivekanand.sewasansthan1995@gmail.com",
+      "designation": "Manager",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6397",
+  "name": "Vivekanand sewa sansthan",
+  "primaryEmail": "vivekanand.sewasansthan1995@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919451667802"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "L-4/M32,sector m,aliganj,kurshi road, Lucknow",
+      "aliganj,kurshi road,Lucknow",
+      "Lucknow",
+      "Uttar Pradesh",
+      "226024"
+    ]
+  }
+}

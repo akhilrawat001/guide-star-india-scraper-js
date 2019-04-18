@@ -1,0 +1,38 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1187",
+  "name": "Mahaluxmi Sewa Sansthan",
+  "primaryEmail": "mahaluxmisewa55@yahoo.com",
+  "website": "www.mahaluxmisewasansthan.org.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "912652461561",
+    "912652461561",
+    "912652461561"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "Miss Reshma patel,69, kirtikunj society,",
+      "Near Kasiba children hospital,Karelibaugh.",
+      "Vadodara",
+      "Gujarat",
+      "390018",
+      "AP_TelBill_1090.PDF"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "Street No.4, Near Radha krishna Mandir.",
+      "Burari Chawk, Sant Nagar,",
+      "New Delhi",
+      "Vadodara",
+      "Gujarat",
+      "110092",
+      "AP_TelBill_1090.PDF"
+    ]
+  }
+}

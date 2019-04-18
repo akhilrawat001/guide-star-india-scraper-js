@@ -1,0 +1,34 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10983",
+  "name": "Jayganesh Samajik Bahuuddeshiya Sanstha",
+  "primaryEmail": "hindavieducation@gmail.com",
+  "website": "WWW.HINDAVIPARIVAR.COM",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919764079633"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Hindavi Shikshan Sumha Parnda Road kurduwadi Tal Madha",
+      "Hindavi Shikshan Smauha parnda Roa dkurduwadi Tal Madha",
+      "Kurduwadi",
+      "Solapur",
+      "Maharashtra",
+      "413208"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Hindavi Shikshan  Smuha Parnad Road Kurduwadi Tal Madha",
+      "Kurduwadi",
+      "Solapur",
+      "Maharashtra",
+      "413208"
+    ]
+  }
+}

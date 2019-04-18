@@ -1,0 +1,38 @@
+{
+  "contacts": [
+    {
+      "name": "Makarand Kulkarni",
+      "email": "makarandk2008@rediffmail.com",
+      "designation": "Officer",
+      "mobile": [
+        "91-233-2311819"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=393",
+  "name": "Loknayak Shikshan Mandal",
+  "primaryEmail": "loknayaktrust@gmail.com",
+  "website": "http://www.giveindia.org/GetOrganisationProfile.aspx?ngoid=896",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "912332311822",
+    "912332311822"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "11, Shiwai Yashwant Nagar",
+      "Sangli",
+      "Maharashtra",
+      "416416"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Maharashtra"
+    ]
+  }
+}

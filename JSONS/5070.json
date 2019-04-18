@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Sk Samsuddin Ahmed",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5070",
+  "name": "Development & Research In Voluntary Initiatives",
+  "primaryEmail": "drivibagnan@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919830468513"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Vill-Khaskhamar, PO-Rameswarnagar, Dist-Howrah 711310, West Bengal",
+      "B-4, 1st. Floor, Bagnan Hare Krishna Konar Market, Near CTC Bus Stand, Bagnan, Howrah 711303, West Bengal",
+      "Howrah",
+      "West Bengal",
+      "711310"
+    ]
+  }
+}

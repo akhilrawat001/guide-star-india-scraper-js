@@ -1,0 +1,44 @@
+{
+  "contacts": [
+    {
+      "name": "Mr.Digambar Narzary",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7658",
+  "name": "NEDAN FOUNDATION",
+  "primaryEmail": "nedan_ne@yahoo.co.in",
+  "website": "www.nedan.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "913661218008",
+    "913661218008"
+  ],
+  "mainAddrress": {
+    "state": "Assam",
+    "address": [
+      "Ward No 11, Bodofa Nwgwr",
+      "Kadamtola, P. O. Titaguri",
+      "Kokrajhar",
+      "Assam",
+      "783370"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "H.No 611, II Floor",
+      "Sunlight Colony ( near Gurudwara)",
+      "New Delhi",
+      "Delhi",
+      "110014"
+    ]
+  }
+}

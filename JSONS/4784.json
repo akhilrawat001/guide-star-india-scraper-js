@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Udayendu Mishra",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4784",
+  "name": "Social Organisation for Voluntary Action (SOVA)",
+  "primaryEmail": "sova_dkl@rediffmail.com",
+  "website": "http://wwwsovango.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919437361026"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "At-Ranapasi",
+      "P.O.Gengutia",
+      "Dhenkanal",
+      "Odisha",
+      "759013"
+    ]
+  }
+}

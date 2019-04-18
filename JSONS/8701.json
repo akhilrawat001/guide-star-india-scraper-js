@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Bishnu Charan Rout",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8701",
+  "name": "Adarsha Seva Sangathana",
+  "primaryEmail": "bcrout_ass@rediffmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919437287921"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "VIM-714,",
+      "Sailashree Vihar,",
+      "Bhubaneswar,",
+      "Dhenkanal",
+      "Odisha",
+      "751021"
+    ]
+  }
+}

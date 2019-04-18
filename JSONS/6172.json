@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Mr. R.S. Mishra",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6172",
+  "name": "Pratigya Vikas Sansthan",
+  "primaryEmail": "pratigyadurg@rediffmail.com",
+  "website": "http://pratigyango.org/",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919425162080"
+  ],
+  "mainAddrress": {
+    "state": "Chhattisgarh",
+    "address": [
+      "LIG 434,Near Janta Market",
+      "Padmanabhpur",
+      "Durg",
+      "Chhattisgarh",
+      "491001"
+    ]
+  }
+}

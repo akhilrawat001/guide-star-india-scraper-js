@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Col A K Moghe",
+      "email": "answersociety@gmail.com",
+      "designation": "CEO",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4311",
+  "name": "Aparna Novel Society for Welfare and Research (ANSWER)",
+  "primaryEmail": "answersociety@gmail.com",
+  "website": "aparnaanswer.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "91449948822662"
+  ],
+  "mainAddrress": {
+    "state": "Telangana",
+    "address": [
+      "8-2-293/82/A/1214, plot No - 60, Jubilee Hills, Hyderabad, AP,",
+      "C/O KUTUMBAM, House No 2-34, Bahadurpally Vill. Qutballapur Mandal, R R Distt, AP 500053",
+      "Hyderabad",
+      "Telangana",
+      "500053"
+    ]
+  }
+}

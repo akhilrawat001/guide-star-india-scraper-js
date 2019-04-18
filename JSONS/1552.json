@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "Rajesh Kumar Sharma",
+      "email": "janswasthya01@gmail.com",
+      "designation": "Managing Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1552",
+  "name": "Jan Swasthaya Avm Shiksha Kalyan Sansthan",
+  "primaryEmail": "janswasthya_shiksha@rediffmail.com",
+  "telephone": [
+    "915412256168",
+    "919415201446"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "P.O.+ Vill. Dulhipur",
+      "Mugal Sarai,",
+      "Mugal Sarai",
+      "Chandauli",
+      "Uttar Pradesh",
+      "232101"
+    ]
+  }
+}

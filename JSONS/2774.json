@@ -1,0 +1,36 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2774",
+  "name": "Indo American Friends Group",
+  "primaryEmail": "chairman@indoamerican.us",
+  "website": "www.indoamerican.org.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Intermediary",
+    "Support"
+  ],
+  "telephone": [
+    "+919910915369"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "Lower Ground Fl.DCM building, Brakhamba Road, New Delhi 110001",
+      "Tehseel Road SAaon Rae Bareli  U.P.India 229127",
+      "New Delhi",
+      "Delhi",
+      "110001"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "Tehseel Road Salon",
+      "C.S.M Nagar",
+      "RaeBareli",
+      "Uttar Pradesh",
+      "229127"
+    ]
+  }
+}

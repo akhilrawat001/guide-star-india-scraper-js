@@ -1,0 +1,25 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1500",
+  "name": "AVIRAL (A Vital Institute for Rural Advancement & Leadership)",
+  "primaryEmail": "aviral.mahila@rediffmail.com",
+  "website": "aviral.co",
+  "organisationType": [
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "911376255251",
+    "919412076888"
+  ],
+  "mainAddrress": {
+    "state": "Uttarakhand",
+    "address": [
+      "Block Road Chamba",
+      "Tehri Garhwal",
+      "Uttarakhand",
+      "249145"
+    ]
+  }
+}

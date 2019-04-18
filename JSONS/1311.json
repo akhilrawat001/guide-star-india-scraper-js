@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "Suresh Kumawat",
+      "email": "sureshkmwt6@gmail.com",
+      "designation": "Director",
+      "mobile": [
+        "91-1427-220808",
+        "91-9414040102"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1311",
+  "name": "Rastriya Manav Vikas Samiti",
+  "primaryEmail": "rmvs_manava@yahoo.com",
+  "organisationType": [
+    "Grant-making"
+  ],
+  "telephone": [
+    "911427220880",
+    "911427220808",
+    "919414040102"
+  ],
+  "mainAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "14/111 Subhas Colony",
+      "Near R. K. Joshi School",
+      "Dausa",
+      "Rajasthan",
+      "303303"
+    ]
+  },
+  "briefDescription": "Rastriya Manav Vikas Samiti(RMVS) Is a 14years old social sector NGO has daly registared with rajasthan societies act 1958 (rule 28) since last14 years.the organization continewusli pramoting various social development programs in rural areas",
+  "yearOfEstablishment": "1996"
+}

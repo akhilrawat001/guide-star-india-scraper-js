@@ -1,0 +1,40 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5673",
+  "name": "Unified Action Council",
+  "primaryEmail": "uac.bbsr@gmail.com",
+  "website": "uacodisha.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network"
+  ],
+  "telephone": [
+    "9437304022",
+    "916742557151"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "Plot no.8/229 (2nd Floor), Lane-12, Jagannath Vihar,",
+      "PO: Baramunda",
+      "Bhubaneshwar",
+      "Khordha",
+      "Odisha",
+      "751003"
+    ]
+  },
+  "briefDescription": "UAC primarily focuses on rights based initiatives for promoting educational accessibility and quality improvement in tribal pockets. It also prioritizes on community livelihood system with multiple approaches for implementation of forest right, natural resources management and capacity building programmes. Humanity and gender justice remains core value.",
+  "yearOfEstablishment": "1998",
+  "regiseredAddrress": {
+    "state": "Odisha",
+    "address": [
+      "N-6/291, Jayadev Vihar",
+      "PO: IRC",
+      "Bhubaneswar",
+      "Khordha",
+      "Odisha",
+      "751015"
+    ]
+  }
+}

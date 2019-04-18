@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Madhuram Singh",
+      "email": "graminsamajikvikassamiti@yahoo.co.in",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8003",
+  "name": "Gramin Samajik Vikas Samiti-Barh",
+  "primaryEmail": "graminsamajikvikassamiti@yahoo.co.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919835670674"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "Village-Laxmipur",
+      "Pachmahla, P.O-Railly,",
+      "P.S-Pandarakh",
+      "Patna",
+      "Bihar",
+      "803221"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "K.YUVARAJ",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4466",
+  "name": "YOUTH UPTURN VOLUNTARY ASSOCIATION (Y.U.V.A)",
+  "primaryEmail": "yuva.org@gmail.com",
+  "website": "http://www.yuvaorg.com/",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919704801594"
+  ],
+  "mainAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "24-209/1",
+      "USHA NAGAR COLONY",
+      "CHITTOOR",
+      "Chittoor",
+      "Andhra Pradesh",
+      "517002"
+    ]
+  }
+}

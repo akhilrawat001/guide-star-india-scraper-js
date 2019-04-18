@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "Swarna Rajagopalan (Dr)",
+      "email": "",
+      "designation": "Managing Trustee",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=589",
+  "name": "The Prajnya Trust",
+  "primaryEmail": "prajnyatrust@gmail.com",
+  "website": "www.prajnya.in",
+  "telephone": [
+    "914428152954",
+    "914428152954"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "B-402, Prince Villa",
+      "7, Rajamannar Street",
+      "Chennai",
+      "Tamil Nadu",
+      "600017"
+    ]
+  }
+}

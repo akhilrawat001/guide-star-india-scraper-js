@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Dr. Sashanka Sekhar Dutta",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2625",
+  "name": "JBF (INDIA) TRUST",
+  "primaryEmail": "info@jbfsociety.org",
+  "website": "http://www.jbfsociety.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service"
+  ],
+  "telephone": [
+    "919818241962"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "466, DDA MIG Flats",
+      "Shree Awas, Sector 18B, Dwarka",
+      "New Delhi",
+      "South West Delhi",
+      "Delhi",
+      "110078"
+    ]
+  }
+}

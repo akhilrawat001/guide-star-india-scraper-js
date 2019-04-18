@@ -1,0 +1,49 @@
+{
+  "contacts": [
+    {
+      "name": "Angela K",
+      "email": "angela.nar@responsenet.org",
+      "designation": "Programs Head",
+      "mobile": [
+        "91-11-46767756",
+        "91-9810007524"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1619",
+  "name": "Responsenet Development Services",
+  "primaryEmail": "kuldipnar@gmail.com",
+  "website": "www.responsenet.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network"
+  ],
+  "telephone": [
+    "911146767756",
+    "911165422890",
+    "919810872748"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "C2/2200",
+      "Vasant Kunj",
+      "New Delhi",
+      "Delhi",
+      "110070"
+    ]
+  },
+  "briefDescription": "Responsenet Development Services is registered Under Section 8 of the Companies Act 2013, having Registered office at C-2/2200, Vasant Kunj, New Delhi-110070.Responsenet Development Services is engaged in providing humanitarian interventions through communications, partnerships and implementations within the fields of Health, Nutrition, Water Sanitation & Hygiene (WASH), Education, Livelihoods and Disaster Relief. We provide government, companies and NGO partners end to end solutions to deliver humanitarian relief. We also provide CSR advisory, outreach and operational services as an implementation partner to achieve this goal and serve communities within India as per CSR provisions of the new Companies Act.",
+  "yearOfEstablishment": "2007",
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "C-2, 2200 2nd Floor",
+      "Vasant Kunj,",
+      "New Delhi",
+      "Delhi",
+      "110070"
+    ]
+  }
+}

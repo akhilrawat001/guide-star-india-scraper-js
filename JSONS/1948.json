@@ -1,0 +1,38 @@
+{
+  "contacts": [
+    {
+      "name": "Hareram Singh",
+      "email": "hareram2007@gmail.com",
+      "designation": "Treasurer",
+      "mobile": [
+        "91-11-29949510"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1948",
+  "name": "SCP FOUNDATION",
+  "primaryEmail": "scpfoundation021@gmail.com",
+  "website": "http://www.scpfoundation.info",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "911129949510",
+    "919555537474"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "1010/121",
+      "Madanpur Khadar, Sarita Vihar,",
+      "New Delhi",
+      "Delhi",
+      "110076"
+    ]
+  },
+  "briefDescription": "Scp Foundation (Regd.) Is A National Ngo With Its Headquarters In Delhi. It Has Been Operating Successfully For The Past 7 years. Madad Works In The Fields Of Health, Computer Education And Human Rights. Our Target Population Is Underprivileged Sections Of Society With An Added Focus On Women, Children, Skill Development and others project.",
+  "yearOfEstablishment": "2011"
+}

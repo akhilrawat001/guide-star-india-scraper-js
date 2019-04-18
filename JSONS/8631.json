@@ -1,0 +1,27 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8631",
+  "name": "Routes 2 Roots",
+  "primaryEmail": "pvij@routes2roots.com",
+  "website": "www.routes2roots.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network"
+  ],
+  "telephone": [
+    "911141646383",
+    "911141646384"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "R-19 LGF,",
+      "Haus Khas,",
+      "New Delhi",
+      "South Delhi",
+      "Delhi",
+      "110016"
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Prajna N S",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "9591100663"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3565",
+  "name": "Deena Bandhu",
+  "primaryEmail": "admin@deenabandhutrust.org",
+  "website": "deenabandhutrust.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919591100663"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "PWD Colony, Behind Forest Nursery",
+      "Chamarajanagara",
+      "Chamarajanagar",
+      "Karnataka",
+      "571313"
+    ]
+  }
+}

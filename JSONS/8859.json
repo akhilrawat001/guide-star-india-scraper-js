@@ -1,0 +1,41 @@
+{
+  "contacts": [
+    {
+      "name": "Tukaram Laxman Bhojane",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "9420905244"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8859",
+  "name": "OM SHRI NILKANTESHWAR BAHUUDDESHIYA SEVABHAVI SANSTHA",
+  "primaryEmail": "nilkantheshwarngo@gmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning"
+  ],
+  "telephone": [
+    "919420905244"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "c/o Laxman Dhanaji Bhojane House no.496 Dhangar Gali,Jamkahed Tahasil Ambad",
+      "Jamkhed",
+      "Jalna",
+      "Maharashtra",
+      "431121"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Laxman Dhanaji Bhojane House no.496 Dhangar Gali,Jamkahed Tahasil Ambad",
+      "Jamkhed",
+      "Jalna",
+      "Maharashtra",
+      "431121"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "contacts": [
+    {
+      "name": "Lucas Babu (Dr)",
+      "email": "",
+      "designation": "Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=684",
+  "name": "Rural Integrated Development Organisation",
+  "primaryEmail": "seva2@rediffmail.com",
+  "website": "www.ridoseva.org",
+  "telephone": [
+    "914342231000"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "Sevagram, Morappur (Post)",
+      "Harur",
+      "Dharmapuri",
+      "Tamil Nadu",
+      "635305"
+    ]
+  }
+}

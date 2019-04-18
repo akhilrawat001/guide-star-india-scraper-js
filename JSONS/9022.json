@@ -1,0 +1,50 @@
+{
+  "contacts": [
+    {
+      "name": "Shashwat Swaroop Pal",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "9439123450"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9022",
+  "name": "RATNAKAR FOUNDATION TRUST",
+  "primaryEmail": "shashwatpal@gmail.com",
+  "website": "https://iitrc.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919439123450"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "College Road Banki",
+      "In Front of College Field",
+      "Banki",
+      "Cuttack",
+      "Odisha",
+      "754008"
+    ]
+  },
+  "briefDescription": "WE ARE WORKING IN EDUCATION FIELD LIKE IT, ACCOUNTS, FINANCE, TAX, HARDWARE & NETWORKING & OTHERS. APART FROM THIS WE ARE ALSO WORKING IN HEALTH, ORPHAN AGE, OLD AGE HOME.",
+  "yearOfEstablishment": "2014",
+  "regiseredAddrress": {
+    "state": "Odisha",
+    "address": [
+      "College Road Banki",
+      "Front Of College Field",
+      "Banki",
+      "Cuttack",
+      "Odisha",
+      "754008"
+    ]
+  }
+}

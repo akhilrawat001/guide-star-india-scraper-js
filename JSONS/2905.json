@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Teresa Khanna",
+      "email": "",
+      "designation": "Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2905",
+  "name": "Swayam Krishi Sangam",
+  "primaryEmail": "rajesh@sksindia.com",
+  "website": "http://sksngo.org",
+  "telephone": [
+    "914044526000",
+    "914044526000",
+    "914044526000"
+  ],
+  "mainAddrress": {
+    "state": "Telangana",
+    "address": [
+      "2-3-578/1, Maruti Mansion, 1st foor Kachi Colony,",
+      "Nallagutta, Minister Road,",
+      "Secunderabad",
+      "Hyderabad",
+      "Telangana",
+      "500003"
+    ]
+  }
+}

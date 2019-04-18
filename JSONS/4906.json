@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "Rajendra Gaikwad",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4906",
+  "name": "MANAV VIKAS SANSTHA",
+  "primaryEmail": "manavvikas.2013@rediffmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919421121318"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "186 B/4, Swantrya Sainik Colony Deshpandey building,",
+      "Satara",
+      "Maharashtra",
+      "411001"
+    ]
+  }
+}

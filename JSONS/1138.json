@@ -1,0 +1,29 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1138",
+  "name": "Gramin Vikas Samiti",
+  "primaryEmail": "gvsdamoh@rediffmail.com",
+  "telephone": [
+    "917812229553"
+  ],
+  "mainAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "M-21",
+      "Vaishali Nagar",
+      "Damoh",
+      "Madhya Pradesh",
+      "470661"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "Harrai",
+      "Tejgarh",
+      "Damoh",
+      "Madhya Pradesh",
+      "470880"
+    ]
+  }
+}

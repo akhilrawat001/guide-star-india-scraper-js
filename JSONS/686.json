@@ -1,0 +1,40 @@
+{
+  "contacts": [
+    {
+      "name": "Parvinder Kaur",
+      "email": "",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=686",
+  "name": "Prerna Social Development & Welfare Society",
+  "primaryEmail": "prerna_ngo@yahoo.co.in",
+  "website": "www.prerna.org",
+  "telephone": [
+    "911146066977",
+    "911146066977",
+    "911146066977"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "DDA, Community Hall",
+      "Gujjar Dairy",
+      "Gautam Nagar",
+      "New Delhi",
+      "Delhi",
+      "110049"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "55, 4th Floor",
+      "Gautam Nagar",
+      "New Delhi",
+      "Delhi",
+      "110049"
+    ]
+  }
+}

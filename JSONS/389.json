@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "name": "Anand Mhatre",
+      "email": "kibbtus@rediffmail.com",
+      "designation": "Programme Officer",
+      "mobile": [
+        "91-9881912832"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=389",
+  "name": "Kibbtus",
+  "primaryEmail": "kibbtus@rediffmail.com",
+  "website": "http://www.giveindia.org/GetOrganisationProfile.aspx?ngoid=151",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "912025692266",
+    "912025692266"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "37-A, Bldg. No.2",
+      "Flat No.14, Patil Complex, Aundh Road",
+      "Pune",
+      "Maharashtra",
+      "411020"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Maharashtra"
+    ]
+  }
+}

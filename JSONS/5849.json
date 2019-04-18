@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "MR. PYUSH MISRA",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5849",
+  "name": "Consumer Online Foundation",
+  "primaryEmail": "bejonmisra@consumerconexion.org",
+  "website": "www.consumerconexion.org",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "911140537140",
+    "911140537140"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "F 9, 2nd Floor,",
+      "Kailash Colony,",
+      "NEW DELHI",
+      "South Delhi",
+      "Delhi",
+      "110048"
+    ]
+  }
+}

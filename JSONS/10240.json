@@ -1,0 +1,43 @@
+{
+  "contacts": [
+    {
+      "name": "Kamalika Guha Thakurta",
+      "email": "artscape2017@gmail.com",
+      "designation": "Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10240",
+  "name": "Srijon Foundation",
+  "primaryEmail": "artscape2017@gmail.com",
+  "website": "www.artscape.in",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919820285996"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "No. 28, Aram Nagar Part 2",
+      "Jp Road, Andheri West",
+      "Mumbai",
+      "Maharashtra",
+      "400061"
+    ]
+  },
+  "briefDescription": "Artscape is a non-governmental organization established in 2015, which works in the area of mental wellness.We believe that mental wellness is key to an empowered living. We use tools from expressive art therapy such as music, movement, theatre and visual arts, coupled with meditation to design sessions that aim to imbibe positivity, build self awareness and create well-being.We primarily run two programs, CARE FOR CANCER (for cancer patients and their caregivers) and BEYOND ACADEMICS (for school children from low-income communities).",
+  "yearOfEstablishment": "2015",
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "B-401 402, Hibiscus Panch Marg",
+      "Off Yari Road, Andheri West",
+      "Mumbai",
+      "Maharashtra",
+      "400051"
+    ]
+  }
+}

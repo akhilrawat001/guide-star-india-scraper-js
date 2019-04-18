@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Neha Upadhyay",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5399",
+  "name": "Navnirmiti Eduquality Foundation",
+  "primaryEmail": "navnirmitieduquality@gmail.com",
+  "website": "www.navnirmiti.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "912225773215",
+    "912225773215"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Flat no 301, 302 - A wing , Padmavati Road, Opp. IIT Market Gate, Powai-76",
+      "Padmavati Road, Opp. IIT Market Gate, Powai - 76",
+      "Mumbai",
+      "Maharashtra",
+      "400076"
+    ]
+  }
+}

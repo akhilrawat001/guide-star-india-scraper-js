@@ -1,0 +1,37 @@
+{
+  "contacts": [
+    {
+      "name": "R. Ramachandran",
+      "email": "bni@basicneedsindia.org",
+      "designation": "Finance & Communication Officer",
+      "mobile": []
+    },
+    {
+      "name": "R. Ramachandran",
+      "email": "bni@basicneedsindia.org",
+      "designation": "Finance & Communication Officer",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3390",
+  "name": "Basic Needs India",
+  "primaryEmail": "bni@basicneedsindia.org",
+  "website": "http://www.prajadwani.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918025453875",
+    "918025453875"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "114, 4th cross, OMBR Layout, Banaswadi,",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560043"
+    ]
+  }
+}

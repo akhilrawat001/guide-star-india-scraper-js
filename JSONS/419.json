@@ -1,0 +1,43 @@
+{
+  "contacts": [
+    {
+      "name": "Prateek Ahuja",
+      "email": "prateek.ahuja@opasha.org",
+      "designation": "Program Director",
+      "mobile": [
+        "91-9310005948"
+      ]
+    },
+    {
+      "name": "Prateek Ahuja",
+      "email": "prateek.ahuja@opasha.org",
+      "designation": "Program Director",
+      "mobile": [
+        "91-9310005948"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=419",
+  "name": "Operation ASHA",
+  "primaryEmail": "sandeep.ahuja@opasha.org",
+  "website": "http://www.opasha.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service"
+  ],
+  "telephone": [
+    "919310598004"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "D-156, Sarita Vihar",
+      "Near Fire Station",
+      "New Delhi",
+      "Delhi",
+      "110076"
+    ]
+  },
+  "briefDescription": "Operation ASHA is dedicated to bringing tuberculosis treatment and health services to the poorest of the poor in India’s urban slums and rural villages. We are among the world’s largest NGOs in terms of number of patients treated, in tuberculosis treatment and prevention, making these services available to more than 6.1 million people who have little access to basic healthcare. These 250 centers are spread over 6 states in India and 6 provinces in Cambodia. These centers cater to more than 6000 slums and villages. Our team plans to expand to other regions of the developing world afflicted with TB, and help other organizations fighting TB adopt our methods and technology. OpASHA has successfully treated over 64,000 TB patients since 2006. Annually, OpASHA treats around 8000 & 6000 patients in India & Cambodia respectively. Operation ASHA has replicated its technology in Dominican Republic, Kenya, Uganda, Afghanistan and Tanzania. Talks are on in more than half a dozen countries for replication. Apart from TB, OpASHA serves an additional population of 81 Lakh people for other diseases. Thus, total population coverage of OpASHA is 14.1 million.",
+  "yearOfEstablishment": "2005"
+}

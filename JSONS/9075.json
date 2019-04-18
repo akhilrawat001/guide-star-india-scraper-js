@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "Deepti Jadhav Shendarkar",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9075",
+  "name": "MAHARSHEE PARASHAR SEVABHAVI SANSTHA",
+  "primaryEmail": "mpctp04@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919422253451"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "501, Kartik Appt, Lane no 11H, Tingare nagar",
+      "Pune",
+      "Maharashtra",
+      "411032"
+    ]
+  }
+}

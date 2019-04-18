@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "MR. BHALCHANDRA S. RAUT",
+      "email": "mauli.trustmalvan@gmail.com",
+      "designation": "SECRETARY",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6016",
+  "name": "SHREE SADGURU SADANAND MAULI MAHARAJ SAMPRADAY",
+  "primaryEmail": "mauli.trustmalvan@gmail.com",
+  "website": "http://www.maulitrust.org.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919404344601"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "2669-A, ADARSH NAGAR,",
+      "REVATALE,",
+      "MALVAN",
+      "Sindhudurg",
+      "Maharashtra",
+      "416606"
+    ]
+  },
+  "briefDescription": "Shree Sadguru Sadanand Mauli Maharaj Sampraday is located in Maharashtra.",
+  "yearOfEstablishment": "2010"
+}

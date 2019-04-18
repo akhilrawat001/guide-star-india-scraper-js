@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Ms.Shahista Parwin",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7061",
+  "name": "Shamim Bahuddeshiya Mahila Sanstha",
+  "primaryEmail": "sbmsnagsecretary@rediffmail.com",
+  "website": "www.shamin.mahilasastha.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919373580728"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Nagur Johar Convent",
+      "Opp Umrad Road",
+      "Nagpur",
+      "Maharashtra",
+      "440024"
+    ]
+  }
+}

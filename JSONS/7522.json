@@ -1,0 +1,46 @@
+{
+  "contacts": [
+    {
+      "name": "Ghanshyam",
+      "email": "sarjomsamvad@gmail.com",
+      "designation": "Secretary",
+      "mobile": [
+        "91-651-2530365",
+        "91-9431176713"
+      ]
+    },
+    {
+      "name": "Ghanshyam",
+      "email": "sarjomsamvad@gmail.com",
+      "designation": "Secretary",
+      "mobile": [
+        "91-651-2530365",
+        "91-9431176713"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7522",
+  "name": "SAMVAD",
+  "primaryEmail": "sarjomsamvad@gmail.com",
+  "website": "www.samvad.net",
+  "organisationType": [
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "916512530395",
+    "916512530395"
+  ],
+  "mainAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "SAMVAD 104 & 301/A-Urmila Enclave Peace Road, Lalpur Ranchi",
+      "Peace Road,",
+      "Ranchi",
+      "Jharkhand",
+      "834001"
+    ]
+  },
+  "briefDescription": "‘Samvad’ is a creative initiative of cultural awareness of the Jharkhandi society. It is a group of people who trust more on collective effort in the field of Media & Research and is committed to sustenance of secular practices.‘Samvad’ provides platform to the identity, Art and Culture of Jharkhand. Samvad is an initiative for collectiveness, gender equality, community right on property and establishment of a democracy which will be based on everyone’s consent. Dreams of Samvad are related with people in which warmth of creativity and waves of strength is an integral part of it. The goal is clear- to keep alive the thoughts of a world based on equality and experimental activities.",
+  "yearOfEstablishment": "2001"
+}

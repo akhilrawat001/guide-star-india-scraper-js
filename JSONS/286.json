@@ -1,0 +1,49 @@
+{
+  "contacts": [
+    {
+      "name": "Ratnish Verma",
+      "email": "ratnish@nidan.in",
+      "designation": "State Programme Manager",
+      "mobile": [
+        "91-612-2220772",
+        "91-9430933565"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=286",
+  "name": "Nidan",
+  "primaryEmail": "info@nidan.in",
+  "website": "www.nidan.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network"
+  ],
+  "telephone": [
+    "916122220773",
+    "916122220772"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "304 MAURYA TOWER",
+      "BLOCK C MAURYA LOK COMPLEX",
+      "PATNA",
+      "Patna",
+      "Bihar",
+      "800001"
+    ]
+  },
+  "briefDescription": "Nidan, a non-profit organization, was established in 1996 and is dedicated to work for informal workers and children. Today, NIDAN on its own and through its offshoots has a presence in almost entire country especially in Bihar, Jharkhand, Madhya Pradesh, Uttarakhand, Haryana, Rajasthan, Punjab, Uttar Pradesh and Delhi NCR. It has become a leading organization of India serving millions of underprivileged in the area of Education, Skill Development, Health, Waste Management, Social Security, Financial Services, Micro Finance, Organizing, Advocacy and Legal Aids & Rights.",
+  "yearOfEstablishment": "1996",
+  "regiseredAddrress": {
+    "state": "Bihar",
+    "address": [
+      "A 1/12,",
+      "New Patliputra colony",
+      "Patna",
+      "Bihar",
+      "800013"
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "P Purushothaman",
+      "email": "ellapura@gmail.com",
+      "designation": "Secretary",
+      "mobile": [
+        "91-9444385195"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1921",
+  "name": "GCT78",
+  "primaryEmail": "ellapura@gmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919444385195"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "AP 769,  Door-53",
+      "Street-59, Sector-10, K K Nagar",
+      "Chennai",
+      "Tamil Nadu",
+      "600078"
+    ]
+  }
+}

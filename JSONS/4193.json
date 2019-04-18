@@ -1,0 +1,27 @@
+{
+  "contacts": [
+    {
+      "name": "Madhupurna Ghosh",
+      "email": "m.ghosh65@gmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4193",
+  "name": "SUTANUTIR SAKHYA",
+  "primaryEmail": "sutanutirsakhya@gmail.com",
+  "telephone": [
+    "913365333789",
+    "913365333789"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "1/4B,",
+      "Paikpara, 3rd Row,",
+      "Kolkata",
+      "West Bengal",
+      "700037"
+    ]
+  }
+}

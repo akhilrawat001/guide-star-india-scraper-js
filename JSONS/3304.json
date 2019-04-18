@@ -1,0 +1,36 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3304",
+  "name": "Rural Care Ministries",
+  "primaryEmail": "jkaryampudi@yahoo.com",
+  "website": "www.ruralcareministries.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919346504751"
+  ],
+  "mainAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "13th line,sivanagaraju colony",
+      "Reddypalem post",
+      "Guntur",
+      "Andhra Pradesh",
+      "522509"
+    ]
+  },
+  "briefDescription": "We are conducting Education,Health,Environment and community development programmes in Guntur district rural areas.There are 20,000 people are seving through our programmes",
+  "yearOfEstablishment": "2004",
+  "regiseredAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "Ramyadeepthi nilayam",
+      "Jupudi Vill",
+      "Ponnur mandal",
+      "Guntur",
+      "Andhra Pradesh",
+      "522212"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Mr. Naresh Chandra Yadav",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3290",
+  "name": "Uttar Pradesh Welfare for People Living with H.I.V. AIDS Society",
+  "primaryEmail": "upnpplus@yahoo.co.in",
+  "website": "www.ngogateway.org/upnp+",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919839053868"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "43/38 F, Lowther Road",
+      "(Opp. Bhola Hospital)",
+      "Allahabad- 211 002",
+      "Allahabad",
+      "Uttar Pradesh",
+      "211002"
+    ]
+  }
+}

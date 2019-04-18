@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Kumar Rahul",
+      "email": "veenango@gmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8519",
+  "name": "Veena",
+  "primaryEmail": "veenasociety@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919661143100"
+  ],
+  "mainAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "A/22, Ram Krishna Mandir,",
+      "Near Namkum Block,",
+      "Sadabahar Chowk,",
+      "Ranchi",
+      "Jharkhand",
+      "834001"
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Mr. V. Subba Raju",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3277",
+  "name": "Association for Rural Development and Action Research",
+  "primaryEmail": "director@ardar.org.in",
+  "website": "http://www.ardar.org.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919440427723"
+  ],
+  "mainAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "Konada Junction (On National Highway-5)",
+      "Kotha Kopperla Post, Singavaram (S.O)",
+      "Vizianagaram District",
+      "Vizianagaram",
+      "Andhra Pradesh",
+      "535213"
+    ]
+  },
+  "briefDescription": "ARDAR is a registered Non Governmental Organisation in development action, which has worked relentlessly for over 22 years in the Northern coastal districts of Andhra Pradesh. These districts are among the most backward areas in INDIA and are inhabited by traditional fishermen, tribal and most backward communities",
+  "yearOfEstablishment": "1990"
+}

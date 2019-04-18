@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Vinayak Kulkarni",
+      "email": "",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1406",
+  "name": "Gram Vikas Bahuuddeshiya Sanstha Koganoli",
+  "primaryEmail": "gramvikasb_sanstha@yahoo.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "912332212329",
+    "919421221103"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Laxmi Narayan Apartment",
+      "Flat no.5 Miraj Sangli road, post- Wanlesswadi,",
+      "Miraj",
+      "Sangli",
+      "Maharashtra",
+      "416414"
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "contacts": [
+    {
+      "name": "Nainu Singh",
+      "email": "rews100@yahoo.co.in",
+      "designation": "General Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4388",
+  "name": "Rural Education & Welfare Society",
+  "primaryEmail": "rews100@yahoo.co.in",
+  "website": "www.rews.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "9101126121003",
+    "9101126121003"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "455B,Mahaveer Enclave , Part II, Gali No. 30 New Delhi 110059",
+      "Delhi",
+      "South West Delhi",
+      "110059"
+    ]
+  },
+  "briefDescription": "Rural Education & Welfare Society was established in 1990, we grew from a humble start of 20 volunteers to a current strength of 200 volunteers spread over 5 states. Touching the lives of over 50,000 people in the last one year alone",
+  "yearOfEstablishment": "1990",
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "455B,MAHAVIR ENCLAVE PART II, GALI No. 30 NEW DELHI-110059",
+      "NEW DELHI",
+      "South Delhi",
+      "Delhi",
+      "110059"
+    ]
+  }
+}

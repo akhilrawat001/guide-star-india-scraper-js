@@ -1,0 +1,25 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8049",
+  "name": "Kartavya Shikshan Va Sewa Samiti",
+  "primaryEmail": "thekartavya2010@gmail.com",
+  "website": "www.thekartavya.org",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919911092646"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "Gagan Vihar",
+      "Near Bhel Nurshing Home",
+      "Shamli",
+      "Muzaffarnagar",
+      "Uttar Pradesh",
+      "247776"
+    ]
+  }
+}

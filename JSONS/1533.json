@@ -1,0 +1,27 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1533",
+  "name": "Manav Kalyan Trust",
+  "primaryEmail": "psavitri13@yahoo.com",
+  "website": "www.mktngo.org",
+  "organisationType": [
+    "Direct Service",
+    "Grant-making",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "917927496640",
+    "919426062083"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "10, Swastik Super Market,",
+      "4th floor,Opp Popular House, Ashram road",
+      "Ahmedabad",
+      "Gujarat",
+      "380009"
+    ]
+  }
+}

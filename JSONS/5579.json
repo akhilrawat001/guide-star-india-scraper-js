@@ -1,0 +1,26 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5579",
+  "name": "NARKELDANGA TREKKERS ASSOCIATION",
+  "primaryEmail": "ntakolkata@yahoo.co.in",
+  "website": "www.ntakolkata.webs.com",
+  "organisationType": [
+    "Direct Service",
+    "Network"
+  ],
+  "telephone": [
+    "919007105811",
+    "919007550184",
+    "913323518918"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "16, Mahesh Barick Lane",
+      "Narkeldanga",
+      "Kolkata",
+      "West Bengal",
+      "700011"
+    ]
+  }
+}

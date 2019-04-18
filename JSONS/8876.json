@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Balkrishna Khedkar",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8876",
+  "name": "SWAMI VIVEKANAND SARVAJANIK VACHANALAY",
+  "primaryEmail": "balkrishnakhedkar01@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919689877742"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "A/P-Ravalgaon Taluka-Karjat",
+      "Ahmednagar",
+      "Maharashtra",
+      "414401"
+    ]
+  },
+  "briefDescription": "Swami Vivekanand Sarvajanik Vachanalay is located in Ahmednagar, Maharashtra.",
+  "yearOfEstablishment": "13"
+}

@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Ashok Kumar Choudhary",
+      "email": "kayakalpjsr@gmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8214",
+  "name": "KAYAKALP",
+  "primaryEmail": "kayakalpjsr@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919234844959"
+  ],
+  "mainAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "363,choudhary bhawan",
+      "dimna road,mango",
+      "jamshedpur",
+      "East Singhbhum",
+      "Jharkhand",
+      "831012"
+    ]
+  }
+}

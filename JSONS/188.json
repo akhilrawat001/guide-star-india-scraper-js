@@ -1,0 +1,45 @@
+{
+  "contacts": [
+    {
+      "name": "Mallika Iyer",
+      "email": "",
+      "designation": "Trustee",
+      "mobile": []
+    },
+    {
+      "name": "Mallika Iyer",
+      "email": "",
+      "designation": "Trustee",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=188",
+  "name": "Akhter Trust for the Blind",
+  "primaryEmail": "mallika_i@rediffmail.com",
+  "telephone": [
+    "912228233361",
+    "912228233361",
+    "919324924092"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Care of Mallika Iyer, 27/28",
+      "Bansilal Bldg, 62-D, Girgaum Road",
+      "Mumbai",
+      "Maharashtra",
+      "400004"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "C/o Mallika Iyer, 27/28",
+      "Bansilal Bldg, 62-D, Girgaum Road",
+      "Mumbai",
+      "Maharashtra",
+      "400004",
+      "AP_BankStat_88.PDF"
+    ]
+  }
+}

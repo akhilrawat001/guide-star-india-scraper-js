@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "name": "MR.SATYAJIT SEN",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "9810285469"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7035",
+  "name": "THE FULL GOSPEL TRUST OF INDIA",
+  "primaryEmail": "INFO@TFGTI.ORG",
+  "website": "www.tfgti.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Intermediary",
+    "Network"
+  ],
+  "telephone": [
+    "919810285469",
+    "917838373877"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "A-26/7",
+      "Gali No-5, Near Sunny Convent School",
+      "Suraj Park, Sameypur Badli",
+      "North West Delhi",
+      "Delhi",
+      "110042"
+    ]
+  },
+  "briefDescription": "The Full Gospel Trust of India (TFGTI) which is a Christian development, relief and advocacy organization registered in New Delhi as a charitable trust in 1995. We are committed to the Millennium development goals. In achieving the same we work in partnership with other national and international NGOs and Government of India and other state governments. Our work is among poor, marginalized, downtrodden, illiterate, vulnerable and the exploited ones, irrespective of their caste, creed, color, sex or religion. We have served approx 5 million people in all over India.",
+  "yearOfEstablishment": "1995"
+}

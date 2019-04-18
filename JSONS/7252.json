@@ -1,0 +1,43 @@
+{
+  "contacts": [
+    {
+      "name": "Dr N C Rajamani",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7252",
+  "name": "Centre for Development Education and Communications",
+  "primaryEmail": "cdecindia@hotmail.com",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "914428353136",
+    "914428353136"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "No 52/3 Old number 97",
+      "Royapettah",
+      "Chennai",
+      "Tamil Nadu",
+      "600014"
+    ]
+  },
+  "briefDescription": "It has focussed to inculcate the social consciousness, develop democratic values and highlight the issues related to human rights through its various activities.  CDEC India has become a platform where Development activities are brought to the attention of people and the authorities. It is always working defense and promotions of Increasing the skill development and enhancing deserved people's standard of living .  All of its programmes  and activities are mainly focussing the development of recourses and expertise and eliminate the problems and issues against the right sources of getting the informations and activities  CDEC India spreads its wings for helping the rural and poor children.",
+  "yearOfEstablishment": "1992",
+  "regiseredAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "Centre for Development Education and Communication",
+      "20, Periya Malaiappan Street",
+      "Royapettah",
+      "Chennai",
+      "Tamil Nadu",
+      "600014"
+    ]
+  }
+}

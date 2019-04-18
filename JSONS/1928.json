@@ -1,0 +1,34 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1928",
+  "name": "Srushtidnyan Paryavaran Shikshan, Sanshodhan Aani Mahiti Sankalan Kendra",
+  "primaryEmail": "srushtidnyan@gmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service"
+  ],
+  "telephone": [
+    "912224106138",
+    "919594271511"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Room No. 81, Third Floor,  Parel-Bhoiwada BMC School",
+      "Opp. Armed Pulice Head Quarters, Bhoiwada, Parel",
+      "Mumbai",
+      "Maharashtra",
+      "400012"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "C/o. Ms. Pratibha Tambe",
+      "D-3/20  Chittaranjan Nagar, Rajawadi,  Vidyavihar (East)",
+      "Mumbai",
+      "Maharashtra",
+      "400077"
+    ]
+  }
+}

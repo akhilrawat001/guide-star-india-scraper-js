@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Nilayangode Narayanan",
+      "email": "bharathamthrissur@yahoo.co.in",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6699",
+  "name": "Bharatham",
+  "primaryEmail": "bharathamthrissur@yahoo.co.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "914872332326",
+    "919447042326"
+  ],
+  "mainAddrress": {
+    "state": "Kerala",
+    "address": [
+      "Deepthi",
+      "Temple Road, Peringavu",
+      "Thrissur",
+      "Kerala",
+      "680018"
+    ]
+  }
+}

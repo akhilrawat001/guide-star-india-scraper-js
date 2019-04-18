@@ -1,0 +1,45 @@
+{
+  "contacts": [
+    {
+      "name": "Barkha Sharma",
+      "email": "",
+      "designation": "Trustee",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10670",
+  "name": "Ever Willing Foundation",
+  "primaryEmail": "admin@everwillingfoundation.com",
+  "website": "http://www.everwillingfoundation.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network"
+  ],
+  "telephone": [
+    "918828376703",
+    "912249249543"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Gala No.- Gb-20, High Street Cum Highland Corporate Centre, Kapurbawdi Thane (W)",
+      "Kapurbawdi Junction, Near Big Bazar",
+      "Mumbai",
+      "Thane",
+      "Maharashtra",
+      "400607"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Gala No.- Gb - 20, High Street Cum Highland Corporate Centre, Kapurbawdi ,Thane (W)",
+      "Kapurbawdi Junction, Near Big Bazar",
+      "Mumbai",
+      "Thane",
+      "Maharashtra",
+      "400607"
+    ]
+  }
+}

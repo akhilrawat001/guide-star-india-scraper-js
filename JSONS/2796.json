@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Jaya Jaitily",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2796",
+  "name": "Dastkari Haat Samiti",
+  "primaryEmail": "dastkarihaat@gmail.com",
+  "website": "www.indiancraftsjourney.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "911126568373",
+    "911126568373"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "6/10 Kaushalya Park, Hauz Khas",
+      "Delhi",
+      "South Delhi",
+      "110016"
+    ]
+  }
+}

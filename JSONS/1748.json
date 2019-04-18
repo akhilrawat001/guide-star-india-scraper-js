@@ -1,0 +1,44 @@
+{
+  "contacts": [
+    {
+      "name": "Preetam Singh Lingwal",
+      "email": "shivadmd@gmail.com",
+      "designation": "Trustee",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1748",
+  "name": "Shiva DMD Health and Education Trust",
+  "primaryEmail": "shivadmd@gmail.com",
+  "website": "www.shivadmd.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919892559169"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "B701, Rishima CHSL",
+      "Prakruti Park, Azad Nagar, Brahmand",
+      "Thane West",
+      "Thane",
+      "Maharashtra",
+      "400607"
+    ]
+  },
+  "briefDescription": "Vision To adopt DMD-Child & take care for better living.To support DMD (Duchenne Muscular Dystronopathy) & prevent neglect by promoting positive parenting, healthy families, and homes where DMD-children are valued & loved.MissionBuild a Health Care Center for DMD-Child & associate with RND Organization working toward development of DMD.To adopt & support DMD-Child in and around City.To build DMD-health care center with in next 2 years (Dec.2014)",
+  "yearOfEstablishment": "2010",
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "#2, Shiva Shakti Society",
+      "Chaitanya Nagar, I.I.T Market",
+      "Powai, Mumbai",
+      "Mumbai",
+      "Maharashtra",
+      "400076"
+    ]
+  }
+}

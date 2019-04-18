@@ -1,0 +1,51 @@
+{
+  "contacts": [
+    {
+      "name": "Jayanti Mukherjee",
+      "email": "isitguide@rediffmail.com",
+      "designation": "Trustee",
+      "mobile": [
+        "91-9230562777"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7677",
+  "name": "ISIT FOUNDATION",
+  "primaryEmail": "isitfoundation@outlook.com",
+  "website": "www.isit-in.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "918479908460"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "28/6, G.T. Road, (2nd Floor)",
+      "P.O. & P.S. - Bally",
+      "Bally",
+      "Howrah",
+      "West Bengal",
+      "711201"
+    ]
+  },
+  "briefDescription": "We help the youth to be self confident and we established and earn there leaving, We also evolving them in different sectors and different projects which make them self confident and know the present market and earn from there. At present we are giving the training in Govt project of DISHA (Diigital Literacy Mission) and different Vocational Training like Tailoring, Beautician, Jewelary making, Computer Hardware training, Computer Software training, Art & Craft, etc.",
+  "yearOfEstablishment": "2015",
+  "regiseredAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "27, B.G.T. Road,",
+      "Bhadrakali",
+      "Uttarpara",
+      "Hooghly",
+      "West Bengal",
+      "712232"
+    ]
+  }
+}

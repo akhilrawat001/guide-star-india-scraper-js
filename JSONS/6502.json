@@ -1,0 +1,48 @@
+{
+  "contacts": [
+    {
+      "name": "Margaret Rose",
+      "email": "marga_darshi@yahoo.co.in",
+      "designation": "President",
+      "mobile": [
+        "22235810",
+        "9243043413"
+      ]
+    },
+    {
+      "name": "Margaret Rose",
+      "email": "marga_darshi@yahoo.co.in",
+      "designation": "President",
+      "mobile": [
+        "22235810",
+        "9243043413"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6502",
+  "name": "MARGADARSHI THE ASSOCIATION FOR  PHYSICALLY CHALLENGED",
+  "primaryEmail": "margaret@margadarshionline.org",
+  "website": "http://www.margadarshionline.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919243043413",
+    "918022235810"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "75/6. Hulkul Complex,",
+      "Lalbagh Road",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560027"
+    ]
+  },
+  "briefDescription": "Margadarshi The Association for Physically Challenged is a non-government organization, striving ceaselessly in the field of disability for over twenty five years (since 1988), aiming to empower persons with disabilities to become active contributors to society, through a range of services from Medical Rehabilitation, Educational Support,  Livelihood Training,  Counseling & Guidance and Advocacy.   We do this through our Institutional and Community based activities and touch lives of around 10000 people with disability, with a budget of 11 million.  For more details about our programs, we invite you to visit our website www.margadarshionline.org",
+  "yearOfEstablishment": "1988"
+}

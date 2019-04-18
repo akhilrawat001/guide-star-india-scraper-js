@@ -1,0 +1,38 @@
+{
+  "contacts": [
+    {
+      "name": "Dr.Kumud Chauhan",
+      "email": "lcvs.ngo@gmail.com",
+      "designation": "President",
+      "mobile": [
+        "91-5962-231033",
+        "91-7351992601"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1467",
+  "name": "Lok Chetna Vikas Samiti",
+  "primaryEmail": "lcvs.ngo@gmail.com",
+  "website": "www.lcvs-ngo.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Support"
+  ],
+  "telephone": [
+    "915962231033",
+    "919412044301"
+  ],
+  "mainAddrress": {
+    "state": "Uttarakhand",
+    "address": [
+      "113",
+      "Bisht Cottage, Heeradungri,",
+      "Almora",
+      "Uttarakhand",
+      "263601",
+      "80 G LCVS NGO.doc"
+    ]
+  },
+  "briefDescription": "Ensure basic rights & sustainable development of target population.",
+  "yearOfEstablishment": "2010"
+}

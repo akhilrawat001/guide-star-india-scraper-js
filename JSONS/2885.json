@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "Diganta Kumar Bordoloi",
+      "email": "rainfoundation@yahoo.co.in",
+      "designation": "Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2885",
+  "name": "Raise an Individual Now Foundation",
+  "primaryEmail": "rainfoundation@yahoo.co.in",
+  "telephone": [
+    "911164724900",
+    "911164724900"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "kush 101",
+      "agrasen society",
+      "Patparganj",
+      "New Delhi",
+      "Delhi",
+      "110067"
+    ]
+  }
+}

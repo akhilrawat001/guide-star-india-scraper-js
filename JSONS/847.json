@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "name": "Arup Kumar Choudhury",
+      "email": "rsociety75@yahoo.com",
+      "designation": "Secretary",
+      "mobile": [
+        "91-3800-242935"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=847",
+  "name": "R K Mosang Memorial Society",
+  "primaryEmail": "arupkumar_ch@yahoo.co.in",
+  "website": "www.rkmmsociety.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "913800242859",
+    "919436228161",
+    "913800242935"
+  ],
+  "mainAddrress": {
+    "state": "Arunachal Pradesh",
+    "address": [
+      "R K Mosang Memorial Society, PB Jairampur",
+      "Electrical Colony",
+      "Jairampur",
+      "Changlang",
+      "Arunachal Pradesh",
+      "792121"
+    ]
+  },
+  "briefDescription": "This NGO is working since the year 1993 for the development of health, education and economy in particular and all round development in general of the tribal people of this remote state. So far we have served 23,000 people",
+  "yearOfEstablishment": "1993"
+}

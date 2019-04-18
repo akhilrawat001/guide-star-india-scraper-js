@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "Kunal",
+      "email": "kunal_sain@yahoo.com",
+      "designation": "President",
+      "mobile": [
+        "91-8158025174"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8490",
+  "name": "Bolpur Ukilpatty Suchetana",
+  "primaryEmail": "g.mohor77@gmail.com",
+  "website": "www.suchetana.org.in",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "918158025174"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "M.N.Sarani, Ukilpatty,",
+      "Near Ukilpatty Post Office, Ukilpatty,",
+      "Bolpur",
+      "Birbhum",
+      "West Bengal",
+      "731204"
+    ]
+  },
+  "briefDescription": "Our Mission :Women empowerment and establishment of educated unemployed youth. Socio - Economically Upliftment of Tribal People.Our Vision :The women of our locality will be economically independent and will contribute to the prosperity of the family. Besides, they will join the mainstream of social development with an awareness of education and health. We want to make a healthy and prosperous society by self-empowerment of unemployed educated youth.",
+  "yearOfEstablishment": "2009"
+}

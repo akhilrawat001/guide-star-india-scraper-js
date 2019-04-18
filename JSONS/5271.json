@@ -1,0 +1,32 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5271",
+  "name": "Kartavya Shila Mahila Evam Bal Vikas Sansthan",
+  "primaryEmail": "ksmbvs@rediffmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919889334485"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "new caloni Para road rajajiPuram lucknow -226017-U.P.",
+      "ucknow -226017",
+      "Lucknow",
+      "Uttar Pradesh",
+      "226017"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "New Colony  Para Road",
+      "Rajajipuram",
+      "Lucknow",
+      "Uttar Pradesh",
+      "226017"
+    ]
+  }
+}

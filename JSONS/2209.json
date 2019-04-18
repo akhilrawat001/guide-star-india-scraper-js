@@ -1,0 +1,41 @@
+{
+  "contacts": [
+    {
+      "name": "Dr H Indramani Singh",
+      "email": "",
+      "designation": "General Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2209",
+  "name": "RURAL HEALTH ORGANISATION",
+  "primaryEmail": "rho_indramani@yahoo.co.in",
+  "website": "http://rhomanipur.info.nu",
+  "telephone": [
+    "918974020266",
+    "919862138483"
+  ],
+  "mainAddrress": {
+    "state": "Manipur",
+    "address": [
+      "Naoremthong Laishram Leirak",
+      "Leirak",
+      "Imphal",
+      "Imphal West",
+      "Manipur",
+      "795001"
+    ]
+  },
+  "briefDescription": "The Organisation is working in the field of Substance Abuse and HIV/AIDS, Women and Child Development, Health and Education, AYUSH and Traditional Medicines, Promotion of Environment and Youths. Till date, the organisation has served to more than 65 lakhs population.",
+  "yearOfEstablishment": "1986",
+  "regiseredAddrress": {
+    "state": "Manipur",
+    "address": [
+      "Naoremthong Laishram Leirak",
+      "Imphal",
+      "Imphal West",
+      "Manipur",
+      "795001"
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "contacts": [
+    {
+      "name": "Jaswant Kaur",
+      "email": "jaswant@deepalaya.org",
+      "designation": "Director Communication & Resource Mobilisation",
+      "mobile": [
+        "91-11-28524348",
+        "91-9582217446"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=346",
+  "name": "DEEPALAYA",
+  "primaryEmail": "support@deepalaya.org",
+  "website": "http://www.deepalaya.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "911128520347",
+    "911128520546",
+    "921128524348"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "46, D Block",
+      "Institutional Area, Janak Puri",
+      "New Delhi",
+      "Delhi",
+      "110058"
+    ]
+  },
+  "briefDescription": "Deepalaya, a journey that started 37 years ago with 7 founding members that is dedicated to help and support children, youth and women from underprivileged backgrounds to achieve self-reliance through education, vocational training and development actions. \tToday, Deepalaya is Delhi’s one of the largest operational NGO and have established projects across Delhi, Haryana, Uttar Pradesh and Uttaranchal. Deepalaya has reached out over 3,00,000 children, provided vocational training to more than 9,700 adults and helped around 1,200 Self Help Groups with more than 13,500 women who have together saved more than Rs.74 million with a community revolving fund of about Rs.157 million.For more information please visit our website. www.deepalaya.org",
+  "yearOfEstablishment": "1980"
+}

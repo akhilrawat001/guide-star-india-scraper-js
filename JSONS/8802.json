@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Saket Sharma",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8802",
+  "name": "WE SAVE FOUNDATION (Women Empowered Society Against Violence & Exploitation)",
+  "primaryEmail": "wesavefoundation@gmail.com",
+  "website": "http://www.facebook.com/wesavefoundation",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "919572812348"
+  ],
+  "mainAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "463A, Near Ravindra Chowk",
+      "Suresh Colony",
+      "Hazaribagh",
+      "Hazaribag",
+      "Jharkhand",
+      "825301"
+    ]
+  },
+  "briefDescription": "The organisation is a new startup basically to achieve women empowerment & gender eqaluality. The organisations Main objectives are making women empowered and protecting them from all kinds of violence & exploitation. Education, health and financial aspects are the other areas where we aim to improve the position of females .",
+  "yearOfEstablishment": "2016"
+}

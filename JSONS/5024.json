@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Sanjay Kumar Bhaskar",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5024",
+  "name": "Janhit Vikas Avam Prashikshan Sansthan",
+  "primaryEmail": "janhitvps@gmail.com",
+  "website": "NA",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919919136155"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "Village & Post- Darhwal, Block- Sadat, Distt.- Ghazipur",
+      "Ghazipur/Sadat/Darhwal/Jakhaniyan",
+      "Ghazipur",
+      "Uttar Pradesh",
+      "275204"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "contacts": [
+    {
+      "name": "Prashant Kumar Bairwa",
+      "email": "",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10813",
+  "name": "Akkss Foundation",
+  "primaryEmail": "akkssswapn@gmail.com",
+  "website": "https://akkssswapn.weebly.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919828368395",
+    "919461817191"
+  ],
+  "mainAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "1/77 Housing Board Colony",
+      "Tonk",
+      "Rajasthan",
+      "304001"
+    ]
+  },
+  "briefDescription": "Akkss foundation is a registered trust that deals in the education and health sector. We do run a school with 60 kids and a public library. We are currently having 4000 books in the library and in school, we do teach students at a very minimal cost of 5Rs per day also we do provide them stationary, uniform, course and all other resources. We also organise blood donation camp, planting drives etc.",
+  "yearOfEstablishment": "2018"
+}

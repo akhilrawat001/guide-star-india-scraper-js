@@ -1,0 +1,34 @@
+{
+  "contacts": [
+    {
+      "name": "Deepa Jagan",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "9884276336"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9299",
+  "name": "Vaishnavi Welfare and Charitable Trust",
+  "primaryEmail": "vaishnavitrusts@gmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919884276336"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "F6 Sangath Apartments,",
+      "MGR Nagar 2nd Main road, AGS Colony, Velachery",
+      "Chennai",
+      "Tamil Nadu",
+      "600042"
+    ]
+  },
+  "yearOfEstablishment": "2014"
+}

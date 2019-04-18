@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "K C Manavendranath",
+      "email": "manavendranath@yahoo.com",
+      "designation": "Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6696",
+  "name": "ANKANAM THEATRE GROUP",
+  "primaryEmail": "manavendranath@yahoo.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919447670889"
+  ],
+  "mainAddrress": {
+    "state": "Kerala",
+    "address": [
+      "Kaliyam Veedu, (P.O) Kuranhiyur,",
+      "(via) Chavakkad,",
+      "Thrissur District",
+      "Thrissur",
+      "Kerala",
+      "680506"
+    ]
+  }
+}

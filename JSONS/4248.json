@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Naresh Iyer",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "9423527633"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4248",
+  "name": "Late Vaibhav Phalnikar Memorial Foundation",
+  "primaryEmail": "apalaghar@yahoo.com",
+  "website": "http://www.apalaghar.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919423527633"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Behind Atul Nagar",
+      "Mumbai Bangalore Highway, Warje",
+      "Pune",
+      "Maharashtra",
+      "411058"
+    ]
+  }
+}

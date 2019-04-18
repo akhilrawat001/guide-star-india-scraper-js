@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Jyotikumar Kulkarni",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8048",
+  "name": "NIRAMAY",
+  "primaryEmail": "niramay.pune@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "912024321154",
+    "912024321154"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "C/123,Chandraneel Hsg Society",
+      "Near Ramkrishna Math, Off Dandekar Bridge, Sinhagad Road,",
+      "Pune",
+      "Maharashtra",
+      "411030"
+    ]
+  }
+}

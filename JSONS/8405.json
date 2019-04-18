@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Prasanta Kumar Pani",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8405",
+  "name": "YOUTH RURAL DEVELOPMENT",
+  "primaryEmail": "y.r.dngo@gmail.com",
+  "website": "YOUTHRURALDEVELOPMENT.ORG",
+  "organisationType": [
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919658558985"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "Youth Rural Development",
+      "Badatrilochana Pur Po-Adhanga Purusottam Pur Jajpur",
+      "Jajpur Town",
+      "Jajpur",
+      "Odisha",
+      "755001"
+    ]
+  }
+}

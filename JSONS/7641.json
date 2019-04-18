@@ -1,0 +1,33 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7641",
+  "name": "SHINING MISSION INDIA",
+  "primaryEmail": "shiningmissionindia2009@gmail.com",
+  "website": "www.shiningmission.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "+919759460193"
+  ],
+  "mainAddrress": {
+    "state": "Uttarakhand",
+    "address": [
+      "Gainthana Bangar, Block Jakholi, District Rudraprayag",
+      "Gainthana Bangar",
+      "Rudraprayag",
+      "Uttarakhand",
+      "246141"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Uttarakhand",
+    "address": [
+      "Chandra Mani Choila Dehradun",
+      "Dehradun",
+      "Rudraprayag",
+      "Uttarakhand",
+      "248001"
+    ]
+  }
+}

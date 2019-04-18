@@ -1,0 +1,41 @@
+{
+  "contacts": [
+    {
+      "name": "Khwaja Kauser Jabeen",
+      "email": "khwaja.kauser@gmail.com",
+      "designation": "Associat Director",
+      "mobile": [
+        "91-9373193908"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1935",
+  "name": "Khwaja Educational And Welfare Society Aurangabad",
+  "primaryEmail": "khwajaewsabad@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919373193908"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Care of H.No.2-12-34",
+      "Behind Subedari Guest House, Dehli Gate,",
+      "Aurangabad",
+      "Maharashtra",
+      "431001"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Imam Villa",
+      "Arafat Colony",
+      "Aurangabad",
+      "Maharashtra",
+      "431001"
+    ]
+  }
+}

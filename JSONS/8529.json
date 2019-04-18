@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "JAYANTA MANDAL",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8529",
+  "name": "Jharkhand Jyoti",
+  "primaryEmail": "jharkhandjyoti@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919204736299"
+  ],
+  "mainAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "B K Mandal Zone No: 6B,",
+      "Holding No: 24,Birsanagar,",
+      "PO  Baridih, Indravati Road, Jamshedpur",
+      "East Singhbhum",
+      "Jharkhand",
+      "831017"
+    ]
+  }
+}

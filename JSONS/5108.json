@@ -1,0 +1,46 @@
+{
+  "contacts": [
+    {
+      "name": "Suvendu Khanra",
+      "email": "suvendu512@gmail.com",
+      "designation": "Mananger",
+      "mobile": []
+    },
+    {
+      "name": "Suvendu Khanra",
+      "email": "suvendu512@gmail.com",
+      "designation": "Mananger",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5108",
+  "name": "AMBAGAN KARMI SANGHA",
+  "primaryEmail": "contact_abks@rediffmail.com",
+  "website": "www.abks.org.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919732839675"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Vill- Subalchak,PO.- Balaichak,UdaynarayanpurIndia (Westbengal),Howrah-712416",
+      "Subalchak",
+      "Howrah",
+      "West Bengal",
+      "712416"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Ambagan Karmi Sangha",
+      "Subalchak",
+      "Howrah",
+      "West Bengal",
+      "712416"
+    ]
+  }
+}

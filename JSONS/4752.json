@@ -1,0 +1,46 @@
+{
+  "contacts": [
+    {
+      "name": "MANOHAR KUMAR",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4752",
+  "name": "JAN SAROKAR",
+  "primaryEmail": "jansarokar2000@gmail.com",
+  "website": "www.jansarokar.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service"
+  ],
+  "telephone": [
+    "919471313371"
+  ],
+  "mainAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "Care of Sri Rudreshwari Prasad, Meera DeepSikha, North Office Para",
+      "Po. Hinoo, PS-Doranda,",
+      "RANCHI",
+      "Ranchi",
+      "Jharkhand",
+      "834002"
+    ]
+  },
+  "briefDescription": "Jan Sarokar is a small NGO registered as a Trust since the year 2000 and was formally started by a group of XISS alumni due to their concern for issues of rights and control over resources of marginalized communities, need for lending a voice to voiceless in order to bring a holistic development with a positive thinking & progressive outlook for a collective effort to negotiate from a position of strength",
+  "yearOfEstablishment": "2000",
+  "regiseredAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "H/o Smt Kala Sahay (Advocate)",
+      "At+ Po. Bhandaridih, Giridih-",
+      "Giridih",
+      "Ranchi",
+      "Jharkhand",
+      "815301",
+      "General account-giridih.docx"
+    ]
+  }
+}

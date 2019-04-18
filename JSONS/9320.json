@@ -1,0 +1,36 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9320",
+  "name": "Amitie Trust",
+  "primaryEmail": "amitiepehchan@gmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "913360506020",
+    "913360506020"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "G-5B Kailash Apartment",
+      "23 Daw’s Temple Road",
+      "PO-Bally, District-Howrah",
+      "Howrah",
+      "West Bengal",
+      "711201"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Flat No- 112, 1st Floor, Sonali Apartment, 4 Lalababu Shire Road",
+      "Howrah",
+      "West Bengal",
+      "711202"
+    ]
+  }
+}

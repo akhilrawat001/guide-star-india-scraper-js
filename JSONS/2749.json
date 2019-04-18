@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Arjunrao Doifode",
+      "email": "sgmkss@gmail.com",
+      "designation": "Vice President",
+      "mobile": [
+        "91-7261-232226"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2749",
+  "name": "Shri Gajanan Maharaj Krushi Va Shaikshanik Sanstha",
+  "primaryEmail": "sgmkss@gmail.com",
+  "telephone": [
+    "917261232226",
+    "917261232393",
+    "917261232226"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Shanti Sadan, Chikhali Road",
+      "Umberkhed",
+      "Deulgaon",
+      "Buldhana",
+      "Maharashtra",
+      "443204"
+    ]
+  }
+}

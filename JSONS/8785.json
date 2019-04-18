@@ -1,0 +1,35 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8785",
+  "name": "Outward Bound Bharat Trust",
+  "primaryEmail": "contact@outwardbound.org.in",
+  "website": "www.outwardbound.org.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919225225889"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "S-17, Laxmi Nagar,",
+      "Near Aath Rasta Circle,",
+      "Nagpur.",
+      "Nagpur",
+      "Maharashtra",
+      "440022"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Plot No:164,",
+      "Shivaji Nagar,",
+      "Nagpur.",
+      "Nagpur",
+      "Maharashtra",
+      "440010"
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Gouri Choudhury",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5645",
+  "name": "ACTION INDIA",
+  "primaryEmail": "actionindia1976@gmail.com",
+  "website": "http://www.action-india.org/",
+  "organisationType": [
+    "Direct Service",
+    "Network"
+  ],
+  "telephone": [
+    "911124377470",
+    "911124377470"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "5/27A, Jangpura B",
+      "Near Saga Departmental Store",
+      "Delhi",
+      "New Delhi",
+      "110014"
+    ]
+  }
+}

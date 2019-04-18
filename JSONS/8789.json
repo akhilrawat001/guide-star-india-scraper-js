@@ -1,0 +1,51 @@
+{
+  "contacts": [
+    {
+      "name": "Syed Faisal",
+      "email": "info@globalyouthcorps.org",
+      "designation": "Chief Programme Coordinator",
+      "mobile": []
+    },
+    {
+      "name": "Syed Faisal",
+      "email": "info@globalyouthcorps.org",
+      "designation": "Chief Programme Coordinator",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8789",
+  "name": "GLOBAL YOUTH CORPS",
+  "primaryEmail": "director@globalyouthcorps.org",
+  "website": "http://www.globalyouthcorps.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service"
+  ],
+  "telephone": [
+    "910000000000"
+  ],
+  "mainAddrress": {
+    "state": "Jammu and Kashmir",
+    "address": [
+      "Tengpora bye pass near JK Bank",
+      "Kids care",
+      "Batmaloo",
+      "Srinagar",
+      "Jammu and Kashmir",
+      "190001"
+    ]
+  },
+  "briefDescription": "Global youth corps is focused on sustainable development goals #6 clean water and sanitation, #13 climate change. We believe in fighting climate change and preserving natural water bodies in Kashmir.",
+  "yearOfEstablishment": "2016",
+  "regiseredAddrress": {
+    "state": "Jammu and Kashmir",
+    "address": [
+      "Ist Floor Rather Complex",
+      "Tengpora Near Kids Care School",
+      "Batamaloo",
+      "Srinagar",
+      "Jammu and Kashmir",
+      "190001"
+    ]
+  }
+}

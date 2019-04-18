@@ -1,0 +1,41 @@
+{
+  "contacts": [
+    {
+      "name": "Nerges Mistry",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9269",
+  "name": "THE FOUNDATION FOR MEDICAL RESEARCH",
+  "primaryEmail": "fmr@fmrindia.org",
+  "website": "www.fmrindia.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "912224934989",
+    "912224934989"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "84-A, R.G.Thadani Marg, Worli,",
+      "Mumbai",
+      "Maharashtra",
+      "400018"
+    ]
+  },
+  "briefDescription": "The Foundation for Medical Research is located in Mumbai, Maharashtra.",
+  "yearOfEstablishment": "1975",
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Godrej Bhavan Home Street",
+      "Mumbai",
+      "Maharashtra",
+      "400001"
+    ]
+  }
+}

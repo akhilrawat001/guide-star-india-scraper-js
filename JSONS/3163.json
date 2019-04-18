@@ -1,0 +1,26 @@
+{
+  "contacts": [
+    {
+      "name": "Bandana Banerjee",
+      "email": "apanjan_vop@yahoo.in",
+      "designation": "Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3163",
+  "name": "Apanjan Rural Deavelopment Sangh",
+  "primaryEmail": "apanjan_vop@yahoo.in",
+  "telephone": [
+    "913213265114",
+    "913213265114"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Vill & Post- Bhastara (Kamala Sagar)",
+      "Hooghly",
+      "West Bengal",
+      "712303"
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "PROSENJIT PRAMANIK",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7525",
+  "name": "BIRBHUM JAN JAGRITI FOUNDATION",
+  "primaryEmail": "birbhumjjfoundation@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "913463231212",
+    "913463231212"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "H/O Mr. Ajit Kumar Pramanik",
+      "Ahmadpur Daspar",
+      "AHMADPUR",
+      "Birbhum",
+      "West Bengal",
+      "731201"
+    ]
+  }
+}

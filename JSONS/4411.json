@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "SOURAV KUMAR",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4411",
+  "name": "Sri Sri Mohanananda Brahmachari Samaj Seva Samiti",
+  "primaryEmail": "souravkg@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919243581222"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "Sri Sri Mohananada Brahmachari Marg",
+      "BINODPUR",
+      "KATIHAR",
+      "Katihar",
+      "Bihar",
+      "854105"
+    ]
+  }
+}

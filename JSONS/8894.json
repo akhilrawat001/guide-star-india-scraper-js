@@ -1,0 +1,53 @@
+{
+  "contacts": [
+    {
+      "name": "Balakrishnan S",
+      "email": "bala@vrutti.org",
+      "designation": "COO",
+      "mobile": [
+        "91-9663312198"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8894",
+  "name": "Vrutti",
+  "primaryEmail": "contactus@vrutti.org",
+  "website": "http://www.vrutti.org/",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "918023419616",
+    "919663312198",
+    "918103382233",
+    "919343010870"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "Vrutti, Livelihoods Resource Centre - No.36, Ground floor, Boopasandra Main Road, Vinayaka Layout, Boopasandra, Bengaluru - 560094",
+      "Boopasandra Main Road, Vinayaka Layout, Boopasandra, Bengaluru",
+      "Bengaluru",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560094"
+    ]
+  },
+  "briefDescription": "Vrutti was  established in  2002. Part of the Catalyst Group ,established in 1994 by a group of management professionals from IRMA  which has been contributing towards empowering poor  & marginalised communities across India and other developing countries, Vrutti focuses on livelihoods.We believe  that ‘Sustainable Livelihood Approaches’ can be a great lever to address poverty, marginalisation and inclusive development which need to be customised to address different forms of marginalisation, people’s needs, aspirations and the local context. Vrutti currently works with over 250,000 families, covering small-holder farmers, women enterprises and marginalised groups",
+  "yearOfEstablishment": "2002",
+  "regiseredAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "SF-B, Shiva Enclave,No.11, Naidu Layout,Sanjaynagar, Bengaluru– 560 094",
+      "Bengaluru",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560094"
+    ]
+  }
+}

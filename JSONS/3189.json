@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "S.Parathaman",
+      "email": "",
+      "designation": "Managing Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3189",
+  "name": "Sethu Educational Trust",
+  "primaryEmail": "paranth_set@yahoo.com",
+  "telephone": [
+    "914369295182",
+    "919965276247"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "6F-Katchery Road",
+      "Thiruthuraipoondi",
+      "Thiruvarur",
+      "Tiruvarur",
+      "Tamil Nadu",
+      "614713"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Mr.Bharat R Patel",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6968",
+  "name": "PARAKH TRUST",
+  "primaryEmail": "parakhtrust@gmail.com",
+  "website": "www.parakhtrust.org.in",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919426315218"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "Bar Bangala,Ambawadi,",
+      "Himatnagar",
+      "Sabarkantha",
+      "Gujarat",
+      "383001"
+    ]
+  }
+}

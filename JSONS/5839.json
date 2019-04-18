@@ -1,0 +1,39 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5839",
+  "name": "THE Muncherjee Nowrojee Banajee Industrial Home For The Blind",
+  "primaryEmail": "office@mnbhome.org",
+  "website": "www.mnbhome.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "india",
+    "2226793688",
+    "912226793688"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Chateau Dieu, 280, S.V. Road, Jogeshwari-West,",
+      "Mumbai-400102",
+      "jogeshwari ( west), mumbai",
+      "Mumbai",
+      "Maharashtra",
+      "400102"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Chateau Dieu,",
+      "280, S.V. Road, Jogeshwari-West",
+      "mumbai",
+      "Mumbai",
+      "Maharashtra",
+      "400102"
+    ]
+  }
+}

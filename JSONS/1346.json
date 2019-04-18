@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Selva Rani",
+      "email": "nirt.nandhi@gmail.com",
+      "designation": "Managing Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1346",
+  "name": "Nandhi Integrated Rural Development Trust",
+  "primaryEmail": "nirt.nandhi@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919480284443"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "30, Bus stand Area,",
+      "Irakalagad,",
+      "Koppal TQ",
+      "Koppal",
+      "Karnataka",
+      "583231"
+    ]
+  }
+}

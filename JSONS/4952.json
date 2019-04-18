@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Bijan Hazra",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4952",
+  "name": "Bediapara Ambedkar Mission",
+  "primaryEmail": "ambedkarmission@yahoo.co.in",
+  "website": "http:www.bangaliudbastu.hpage.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "913325469330",
+    "913325469330"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "451 Bediapara Lane",
+      "Kolkata",
+      "North 24 Parganas",
+      "West Bengal",
+      "700077"
+    ]
+  },
+  "briefDescription": "Bediapara Ambedkar Mission is located at Kolkata, West Bengal.",
+  "yearOfEstablishment": "1999"
+}

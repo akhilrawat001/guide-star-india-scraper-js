@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "D K Basu",
+      "email": "",
+      "designation": "Chairman",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=664",
+  "name": "Legal Aid Services",
+  "primaryEmail": "lasweb_wb@rediffmail.com",
+  "website": "www.legalaidwb.org",
+  "telephone": [
+    "913322483980",
+    "913324162075",
+    "913322438381",
+    "913322483980"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "5, K S Roy Road",
+      "(Gr Floor)",
+      "Kolkata",
+      "West Bengal",
+      "700001"
+    ]
+  }
+}

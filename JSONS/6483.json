@@ -1,0 +1,35 @@
+{
+  "contacts": [
+    {
+      "name": "MR. ANANT LOKAPURE",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "7768003807"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6483",
+  "name": "Suraj Foundation",
+  "primaryEmail": "info@surajfoundation.org.in",
+  "website": "www.surajfoundation.org.in",
+  "organisationType": [
+    "Direct Service",
+    "Grant-making",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "917768003807"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Plot No P-61, Krishna Valley Complex,",
+      "Near Skylark, MIDC, Kupwad",
+      "Sangli",
+      "Maharashtra",
+      "416436"
+    ]
+  }
+}

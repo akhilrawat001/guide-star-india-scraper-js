@@ -1,0 +1,51 @@
+{
+  "contacts": [
+    {
+      "name": "M S Sayed",
+      "email": "mssayed@charutarhealth.org",
+      "designation": "General Manager- Fund Raising",
+      "mobile": [
+        "91-2692-228414",
+        "91-8141933322"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=780",
+  "name": "Charutar Arogya Mandal",
+  "primaryEmail": "rakeshp@charutarhealth.org",
+  "website": "http://www.charutarhealth.org",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "912692228418",
+    "912692228414",
+    "918141933322",
+    "912692228472"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "Charutar Arogya Mandal, Shree Krishna Hopsital, Fund Raising Department",
+      "Management Centre, Gokal Nagar,",
+      "Kararmsad",
+      "Anand",
+      "Gujarat",
+      "388325"
+    ]
+  },
+  "briefDescription": "Shree Krishna Hospital managed by Charutar Arogya Mandal, is an 800-bed teaching hospital located in Karamsad, the birthplace of Sardar Vallabh bhai Patel, Gujarat. The NABH accredited multi-speciality Hospital, with its modern facilities and professional services, serves the community and lives up to the credo, \"Solace for the Suffering\", envisioned by its founder Chairman.  In 2016-17, the hospital served around 4,00,000 out-patients and over 37,000 in-patients, most of them from poor and less privileged rural families. The annual burden to the Hospital due to concessions and free-ships given to patients amounts to more than Rs. 20 crores annually.With regard to credibility & transparency, in addition to the Platinum seal of GuideStar India, the Mandal is accredited by Credibility Alliance, BSE Samman and enlisted with Charity Aid Foundation, TISS CSR Hub, to name a few organizations.Donation cheques to the Mandal should be in favour of 'Charutar Arogya Mandal' and are eligible for tax exemption under Section 80 G of the IT Act. Individual donors could also donate through PayTM using online modes of fund transfer.",
+  "yearOfEstablishment": "1972",
+  "regiseredAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "SHREE KRISHNA HOSPITAL",
+      "ANAND SOJITRA ROAD, GOKAL NAGAR",
+      "Karamsad",
+      "Anand",
+      "Gujarat",
+      "388325"
+    ]
+  }
+}

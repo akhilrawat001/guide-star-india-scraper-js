@@ -1,0 +1,33 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5858",
+  "name": "Gyan Sagar",
+  "primaryEmail": "gyansagar.gsra2010@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919971352064"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "F-III,Flat no-252,Vaishali.sector-3",
+      "Vaishali,sector-3,Ghaziabad(U.P)",
+      "Ghaziabad",
+      "Uttar Pradesh",
+      "201011"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Bihar",
+    "address": [
+      "Chota bariayarpur",
+      "hawai adda",
+      "Bapudham Motihari(East champaran)",
+      "East Champaran",
+      "Bihar",
+      "845401"
+    ]
+  }
+}

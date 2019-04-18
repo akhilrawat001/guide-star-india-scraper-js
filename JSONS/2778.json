@@ -1,0 +1,46 @@
+{
+  "contacts": [
+    {
+      "name": "Smt.  Ranjubala  Nanda",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "236240",
+        "9437388081"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2778",
+  "name": "Social Organization for Voluntary Action, (SOVA)",
+  "primaryEmail": "sovaindia@gmail.com",
+  "website": "www.sovaindia.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "916755236240",
+    "916755236240"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "At/PO-  Main Road , Raj-Ranpur , Dist- Nayagarh, 752026",
+      "Raj-Ranpur",
+      "Nayagarh",
+      "Odisha",
+      "752026"
+    ]
+  },
+  "briefDescription": "Mission     To bring out the socio-economic development of the rural poor, weaker section and to organize and empower all categories of people women in particular and agrarian class in general .",
+  "yearOfEstablishment": "2007",
+  "regiseredAddrress": {
+    "state": "Odisha",
+    "address": [
+      "Raj-Ranpur , Dist- Nayagarh, Odisha , 752026",
+      "Raj-Ranpur",
+      "Nayagarh",
+      "Odisha",
+      "752026"
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8207",
+  "name": "VICHARTA SAMUDAY SAMARTHAN MANCH",
+  "primaryEmail": "vssmgujarat@gmail.com",
+  "website": "www.vssmindia.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "917926860378",
+    "917926860379",
+    "919099936011"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "Harikutir, Sadvichar Parivar Campus,",
+      "Satellite Road, Ramdevnagar.",
+      "Ahmedabad",
+      "Gujarat",
+      "380015"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "HARIKUTIR, SADVICHAR PARIVAR CAMPUS,",
+      "SATELLITE ROAD, RAMDEVNAGAR.",
+      "AHMEDABAD",
+      "Ahmedabad",
+      "Gujarat",
+      "380015"
+    ]
+  }
+}

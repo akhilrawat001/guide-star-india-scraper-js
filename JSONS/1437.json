@@ -1,0 +1,42 @@
+{
+  "contacts": [
+    {
+      "name": "Raghavan Srinivasan",
+      "email": "",
+      "designation": "Co ordinator",
+      "mobile": [
+        "91-80-23106549"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1437",
+  "name": "Dhwani",
+  "primaryEmail": "dhwanitrust@gmail.com",
+  "website": "www.dhwanitrust.org",
+  "telephone": [
+    "918023106549",
+    "919900571954"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "No.31",
+      "2nd Main, Income Tax Layout, Vijanagara",
+      "Bengaluru",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560040"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "No.13, 8th Main,",
+      "Agrahara Dasarahalli",
+      "Bengaluru",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560079"
+    ]
+  }
+}

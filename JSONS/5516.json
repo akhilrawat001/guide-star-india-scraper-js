@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Swapnil Jangle Patil",
+      "email": "swapnil.patil1980@gmail.com",
+      "designation": "secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5516",
+  "name": "SWAPNAPUJA SHIKSHAN SANSTHA",
+  "primaryEmail": "swapnil.patil1980@gmail.com",
+  "organisationType": [
+    "Grant-making"
+  ],
+  "telephone": [
+    "912402441944",
+    "919403544444"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "6 swapnpuja",
+      "sandesh nagar opp CADA office , garkheda road",
+      "aurangabad",
+      "Aurangabad",
+      "Maharashtra",
+      "431005"
+    ]
+  }
+}

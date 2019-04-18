@@ -1,0 +1,34 @@
+{
+  "contacts": [
+    {
+      "name": "Gitanjali Sarangan",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8113",
+  "name": "Snehadhara Foundation",
+  "primaryEmail": "snehadhara.foundation@gmail.com",
+  "website": "http://snehadharafoundation.org",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "918026580433",
+    "918026580433"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "#S14, Meenakshi Residency, Bannerghatta Road, Arekere,",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560076"
+    ]
+  },
+  "briefDescription": "Snehadhara Foundation, a registered non-profit organisation based in Bangalore, runs a Direct Care child development centre that works with children and young adults with developmental disabilities that include Down Syndrome, Autistic Spectrum Disorders, Cerebral Palsy, Mental Retardation, Speech Delay/Impairment, Learning Disorders etc.Started in 2012 by Gitanjali Sarangan, Snehadhara Foundation is the first and only centre in India that uses Arts Based Therapy (ABT) as the primary methodology to work with children and adults with disabilities. We aim to bridge developmental deficits in learning and social inclusion. We have acquired key competencies with quantifiable results in meeting the developmental goals of our children.",
+  "yearOfEstablishment": "2012"
+}

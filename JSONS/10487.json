@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "Brig. M. A. Devaiah",
+      "email": "madevaiah@yahoo.com",
+      "designation": "Trustee",
+      "mobile": [
+        "91-9845548528"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10487",
+  "name": "ANAHAT FOUNDATION",
+  "primaryEmail": "anahat.fdn@gmail.com",
+  "website": "www.anahatfoundation.org",
+  "organisationType": [
+    "Direct Service",
+    "Network"
+  ],
+  "telephone": [
+    "919845548528"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "1B Elgin Court, Eagle Street",
+      "Langford Town",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560025"
+    ]
+  },
+  "briefDescription": "Anahat Foundation is strengthening public (preventive) health services in India, by building the capacities of community health workers. We are building capacities of health workers by equipping them with the right knowledge (disease specific learning modules), and appropriate easy to use software and hardware. With these, community health workers will be able to raise awareness of common diseases especially chronic diseases, and they will be able to provide basic health care services to their communities.",
+  "yearOfEstablishment": "2017"
+}

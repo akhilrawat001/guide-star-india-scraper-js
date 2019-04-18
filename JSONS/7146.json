@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Mr.C.Elumalai",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7146",
+  "name": "Rural People Sangam",
+  "primaryEmail": "rpsindia1@gmail.com",
+  "website": "www.rpsngo.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network"
+  ],
+  "telephone": [
+    "919786258641"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "Ponnamal Koil Street, Kalasthambadi  Village  & Post",
+      "Tiruvannamalai Taluk & District",
+      "Tiruvannamalai",
+      "Tamil Nadu",
+      "606805"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Vikash Tiwary",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6151",
+  "name": "Right Foundation",
+  "primaryEmail": "rightfoundation2012@gmail.com",
+  "website": "rightfoundation.blogspot.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919608393591"
+  ],
+  "mainAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "road nos 3,bariatu ranchi",
+      "Near birsa blood bank",
+      "ranchi",
+      "Ranchi",
+      "Jharkhand",
+      "834009"
+    ]
+  }
+}

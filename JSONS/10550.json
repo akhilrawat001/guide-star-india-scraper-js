@@ -1,0 +1,33 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10550",
+  "name": "The Prince of Peace Foundation",
+  "primaryEmail": "deardipakjee@gmail.com",
+  "website": "https://popindia.wixsite.com/popf",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "917904683306"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "4/13",
+      "Srijani Park, Christian Para, Thakurpukur",
+      "Kolkata",
+      "West Bengal",
+      "700104"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "660",
+      "M G Road",
+      "Kolkata",
+      "West Bengal",
+      "700104"
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "contacts": [
+    {
+      "name": "Rahim S",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3320",
+  "name": "NEED BASE INDIA",
+  "primaryEmail": "needbaseindia.org@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919900806840"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "Need Base India",
+      "# 41, 3rd Cross, Opposite to Govt. School, Behind Surbhi Stores, Jalahalli Village",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560013"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "# 4, Near Air Tel Tower",
+      "Vallabh Estate,  Near Diary Farm,",
+      "Munirabad Post",
+      "Koppal",
+      "Karnataka",
+      "583231"
+    ]
+  }
+}

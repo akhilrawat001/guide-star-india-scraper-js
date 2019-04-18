@@ -1,0 +1,28 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=218",
+  "name": "Bangalore Hospice Trust",
+  "primaryEmail": "karunashraya.bht@gmail.com",
+  "website": "www.karunashraya.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918042685666",
+    "918028476133",
+    "918028476133"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "Marathahalli – Varathur Main Road, Marathahalli",
+      "Kundalahalli Gate",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560037"
+    ]
+  },
+  "briefDescription": "We have a 55 bed In-Patient facility located at Marathahalli, Bangalore to deliver free palliative care for advanced stage cancer patients. We also provide free Home Care for our patients. Our medical team consists of doctors, nurses, counselors, physiotherapists. Till date we have been able to provide free palliative care for over 17,500 advanced stage cancer patients irrespective of caste, creed, religion, age, gender, economic backgrounds",
+  "yearOfEstablishment": "1994"
+}

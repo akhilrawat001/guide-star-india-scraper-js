@@ -1,0 +1,39 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4740",
+  "name": "OM MAA HATIASUNI TRUST",
+  "primaryEmail": "omht@rediffmail.com",
+  "website": "www.omht.org",
+  "organisationType": [
+    "Direct Service",
+    "Intermediary",
+    "Support"
+  ],
+  "telephone": [
+    "919439541470",
+    "919439541470"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "HOUSE NO.MIG-II,3/2, HOUSING BOARD COLONY,CHANDRASEKHARPUR,",
+      "NEAR ADITYA CARE HOSPITAL,BHUBANESWAR",
+      "BHUBANESWAR,ODISHA,INDIA",
+      "Khordha",
+      "Odisha",
+      "751016",
+      "OM.docx"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Odisha",
+    "address": [
+      "HOUSE NO.MIG-II,3/2, HOUSING BOARD COLONY,CHANDRASEKHARPUR",
+      "NEAR ADITYA CARE HOSPITAL,BHUBANESWAR",
+      "BHUBANESWAR,ODISHA,INDIA",
+      "Khordha",
+      "Odisha",
+      "751016"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "contacts": [
+    {
+      "name": "P Sakthivel",
+      "email": "",
+      "designation": "Founder / Managing Trustee",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=671",
+  "name": "Navakiraga Orphanage Care Home - (NOCOME)",
+  "primaryEmail": "navakiraga@gmail.com",
+  "website": "www.nocome.org",
+  "telephone": [
+    "914368266714",
+    "919047281743"
+  ],
+  "mainAddrress": {
+    "state": "Puducherry",
+    "address": [
+      "18 Thenkarai Street, Kottucherry Commune",
+      "Karaikal",
+      "Puducherry",
+      "609609"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Puducherry",
+    "address": [
+      "29, Kumarapillai Street",
+      "Kottucherry",
+      "Karaikal",
+      "Puducherry",
+      "609609"
+    ]
+  }
+}

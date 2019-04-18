@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Wakchaure Jalindar",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8142",
+  "name": "Niragas Foundation",
+  "primaryEmail": "niragasfoundation@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "912424223680",
+    "912424223680"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Wakchaure Jalindar",
+      "At Po Virgaon",
+      "Tal Akole",
+      "Ahmednagar",
+      "Maharashtra",
+      "422601"
+    ]
+  }
+}

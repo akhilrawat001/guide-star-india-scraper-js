@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Mr. Shivanagouda B. G",
+      "email": "rds_murgod@yahoo.co.uk",
+      "designation": "Chief Executive Officer",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2810",
+  "name": "Rural Development Society",
+  "primaryEmail": "rds_murgod@yahoo.co.uk",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919740339893"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "RDS Murgod At/Post:- Murgod, Tq: Savadatti, Dist:- Belgaum, Pin No-591119",
+      "RDS Murgod Injal Building Ist floor, PHQ Road, Shivaji Nagar, Belgaum, Pin No-590016",
+      "Murgod/ Savadatti",
+      "Belagavi (Belgaum)",
+      "Karnataka",
+      "591119"
+    ]
+  }
+}

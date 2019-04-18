@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Mr.S.Shivamurthy",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7121",
+  "name": "STANDARD EDUCATION SOCIETY",
+  "primaryEmail": "standardeducationsociety@gmail.com",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "919448533476",
+    "919844099771"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "#5, 20th Main, 1st Cross, Marenahalli,",
+      "Vijayanagar,",
+      "Bengaluru",
+      "Bengaluru (Bangalore) Rural",
+      "Karnataka",
+      "560040"
+    ]
+  }
+}

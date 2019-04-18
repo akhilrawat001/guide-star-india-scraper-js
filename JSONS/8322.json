@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Manmath Kumar Mohapatra",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8322",
+  "name": "Block Voluntary Organisation for Improvement of Culture and Eco-Environment",
+  "primaryEmail": "bvoice.orissa@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919861235364"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "At-Rautarapur, Po-Kalapada, Via-Bentkar,",
+      "42 Mouza",
+      "Cuttack",
+      "Odisha",
+      "754112"
+    ]
+  },
+  "briefDescription": "Our Organization have been working for development of poor, SC/ST,Women & Child,Awareness programme for Environment,Self Employment Training programme for Youth & Women,Literacy programmes for student,Sanitation programme for Rural & Urban people,& Cultural programme for Children's & Traditional Actor.",
+  "yearOfEstablishment": "1995"
+}

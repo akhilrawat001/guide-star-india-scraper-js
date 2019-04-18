@@ -1,0 +1,44 @@
+{
+  "contacts": [
+    {
+      "name": "P. Sarbeswar Patnaik",
+      "email": "spatnaik@allianceindia.org",
+      "designation": "Associate Director-Finance & Accounting",
+      "mobile": []
+    },
+    {
+      "name": "P. Sarbeswar Patnaik",
+      "email": "spatnaik@allianceindia.org",
+      "designation": "Associate Director-Finance & Accounting",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10776",
+  "name": "INDIA HIV/ AIDS ALLIANCE",
+  "primaryEmail": "spatnaik@allianceindia.org",
+  "website": "http://www.allianceindia.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "911145367700"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "6,Community Centre, Zamrudpur",
+      "Kailash Colony Extension",
+      "New Delhi",
+      "South Delhi",
+      "Delhi",
+      "110048"
+    ]
+  },
+  "briefDescription": "India HIV/AIDS Alliance (Alliance India) is a diverse partnership since 1999 that brings together committed organisations and communities to support sustained responses to HIV in India. Complementing the Indian national programme, our strategies include capacity building, knowledge sharing, technical support and advocacy. Through our network of partners, we support the delivery of effective, innovative, community-led and community based HIV programmes for key populations affected by the epidemic. We are the largest organisation focusing on population most affected by HIV in India that serve about 1.4 million population and partner with about 500+ organisations.",
+  "yearOfEstablishment": "1999"
+}

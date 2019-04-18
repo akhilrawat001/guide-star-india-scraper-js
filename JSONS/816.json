@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Santosh Kumar Shukla",
+      "email": "",
+      "designation": "Manager",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=816",
+  "name": "Dharma Devi Sewa Samiti",
+  "primaryEmail": "dharmadevisamiti@yahoo.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918052959699"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "SA 3/45",
+      "Chhotalalpur",
+      "Varanasi",
+      "Uttar Pradesh",
+      "221002"
+    ]
+  }
+}

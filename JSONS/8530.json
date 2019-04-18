@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Shri Bhalchandra Tukaram Nemane",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "9223388799"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8530",
+  "name": "AADHAAR SEVA SANGH",
+  "primaryEmail": "aadhaarsevasangh2014@gmail.com",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "919223388799"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "A - 403/4, Prathamesh Co-operative Housing Society,",
+      "Gundawali Gaothan, Azad Road,",
+      "Andheri East,",
+      "Mumbai",
+      "Maharashtra",
+      "400069"
+    ]
+  }
+}

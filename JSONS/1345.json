@@ -1,0 +1,38 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1345",
+  "name": "Kalpa Charitable Trust",
+  "primaryEmail": "kctgulind@gmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "918472221651",
+    "919448466101"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "3 - 46,",
+      "Opp : Jagat post Office, Main road.",
+      "Gulbarga",
+      "Kalaburagi (Gulbarga)",
+      "Karnataka",
+      "585101"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "1-867/14A, Luna Buildings,",
+      "Venkatesh Nagar",
+      "Gulbarga",
+      "Kalaburagi (Gulbarga)",
+      "Karnataka",
+      "585102"
+    ]
+  }
+}

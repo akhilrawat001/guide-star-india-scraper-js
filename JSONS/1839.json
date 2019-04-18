@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Farida Jalees",
+      "email": "",
+      "designation": "Founder Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1839",
+  "name": "Lucknow Mahila Sewa Trust Prabandh Samiti",
+  "primaryEmail": "info@lmst.org.in",
+  "website": "www.lmst.org.in",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "915224074619",
+    "919450394857"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "34029",
+      "Vikas Nagar,",
+      "Lucknow",
+      "Uttar Pradesh",
+      "226022"
+    ]
+  }
+}

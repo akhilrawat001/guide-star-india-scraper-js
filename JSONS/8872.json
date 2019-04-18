@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "Lohare D B",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8872",
+  "name": "TAGORE SHIKSHAN SAMITI",
+  "primaryEmail": "tagoreahm@gmail.com",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "919422468759"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "At Phule Nagar Ahmepdur",
+      "Latur",
+      "Maharashtra",
+      "413515"
+    ]
+  }
+}

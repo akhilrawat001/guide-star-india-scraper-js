@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Surendra Kumar",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5055",
+  "name": "JAWAHAR JYOTI BAL VIKAS KENDRA",
+  "primaryEmail": "jjbvk.crpc@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919430242926"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "Village + P.O. - Akhtirpur",
+      "District - Samastipur",
+      "Samastipur",
+      "Bihar",
+      "848111"
+    ]
+  }
+}

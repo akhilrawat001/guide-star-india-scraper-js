@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "BHAKTA BIHARI MISHRA",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7242",
+  "name": "NATIONAL INTEGRATED HUMAN & INDUSTRIAL DEVELOPMENT AGENCY(NIHIDA)",
+  "primaryEmail": "nihidavo@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919437138912"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "AT/PO-NIMAPADA",
+      "NIMAPADA",
+      "Puri",
+      "Odisha",
+      "752106"
+    ]
+  }
+}

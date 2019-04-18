@@ -1,0 +1,41 @@
+{
+  "contacts": [
+    {
+      "name": "Osama Manzar",
+      "email": "def@defindia.net",
+      "designation": "Founder",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6581",
+  "name": "Digital Empowerment Foundation",
+  "primaryEmail": "sachin.ralhan@defindia.net",
+  "website": "http://defindia.org/",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "911126532786"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "House No. 44, Kalu Sarai",
+      "Hauz Khas",
+      "New Delhi",
+      "South Delhi",
+      "Delhi",
+      "110017"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "B-14 Shashhi Garden,",
+      "Mayur Vihar. Phase I",
+      "Delhi",
+      "South West Delhi",
+      "110095"
+    ]
+  }
+}

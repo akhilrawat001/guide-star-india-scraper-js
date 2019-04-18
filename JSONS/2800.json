@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Mr Neville David",
+      "email": "lifeguards365@gmail.com",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2800",
+  "name": "Juhu Beach Life Guard Association",
+  "primaryEmail": "lifeguards365@gmail.com",
+  "website": "jubla.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919820273971"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "shiv shurti chs plot no 519 room no C/35 sector 5 charchop kandivali west mumbai 67",
+      "juhu beach lifeguard assocation opp shiaji statue juhu beach santacruz west mumbai 49",
+      "mumbai",
+      "Mumbai Suburban",
+      "Maharashtra",
+      "400067"
+    ]
+  }
+}

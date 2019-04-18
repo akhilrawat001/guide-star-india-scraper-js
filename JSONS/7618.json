@@ -1,0 +1,25 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7618",
+  "name": "Save The Quest",
+  "primaryEmail": "savethequest@gmail.com",
+  "website": "savethequest.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service"
+  ],
+  "telephone": [
+    "918585907442"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "SAVE THE QUEST ,",
+      "3/29 DOUBLE STOREY ,",
+      "VIJAY NAGAR",
+      "North Delhi",
+      "Delhi",
+      "110009"
+    ]
+  }
+}

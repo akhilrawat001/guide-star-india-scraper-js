@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "Kaushal Kishor Vikal",
+      "email": "vsks1@rediffmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=304",
+  "name": "Vaishali Samaj Kalyan Sansthan",
+  "primaryEmail": "vsks1@rediffmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "916229253375",
+    "919431854523"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "Post office: Bidupur Bazar, Vaishali",
+      "Bidupur Block",
+      "Vaishali",
+      "Bihar",
+      "844503"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Bihar",
+    "address": [
+      "Bihar"
+    ]
+  }
+}

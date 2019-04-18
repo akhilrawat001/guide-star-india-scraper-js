@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Manoj Chivane",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4289",
+  "name": "Maharashtra Manav Sansadhan Vikas Sanstha",
+  "primaryEmail": "manojchivane@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919404079681"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Vivek Gogate, Gajanan Socity,  Back To NP School No. 16,Singhaniya Nagar Yavatmal, Tal. Dist. Yavatmal. Pin- 445001",
+      "Arni Road, Yavatmal",
+      "Yavatmal",
+      "Maharashtra",
+      "445001"
+    ]
+  }
+}

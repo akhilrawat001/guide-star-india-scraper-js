@@ -1,0 +1,42 @@
+{
+  "contacts": [
+    {
+      "name": "Swaroop Kumar V",
+      "email": "vemunooris@bighelp.org",
+      "designation": "PRO",
+      "mobile": [
+        "91-40-23152224"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8842",
+  "name": "BIGHELP FOR EDUCATION",
+  "primaryEmail": "info@bighelp.org",
+  "website": "www.bighelp.org",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "914023152224"
+  ],
+  "mainAddrress": {
+    "state": "Telangana",
+    "address": [
+      "16 HIG(Duplex),A.P.H.B. Balaji Nagar",
+      "Kukatpally",
+      "Hyderabad",
+      "Telangana",
+      "500072"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Telangana",
+    "address": [
+      "Flat # 202, Sandhya Apts.,",
+      "Bhagyanagar Colony,",
+      "Hyderabad",
+      "Telangana",
+      "500072"
+    ]
+  }
+}

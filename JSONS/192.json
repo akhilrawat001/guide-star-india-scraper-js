@@ -1,0 +1,38 @@
+{
+  "contacts": [
+    {
+      "name": "Sr M J A Valarmathi",
+      "email": "",
+      "designation": "State Coordinator",
+      "mobile": []
+    },
+    {
+      "name": "Sr M J A Valarmathi",
+      "email": "",
+      "designation": "State Coordinator",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=192",
+  "name": "The Tamilnadu Domestic Workers Welfare Trust",
+  "primaryEmail": "mjavalar@gmail.com",
+  "website": "www.ndwm.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service"
+  ],
+  "telephone": [
+    "914423740262",
+    "919940197583"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "607, Vasu Block",
+      "Chitra Avenue, Choolaimedu",
+      "Chennai",
+      "Tamil Nadu",
+      "600094"
+    ]
+  }
+}

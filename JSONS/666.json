@@ -1,0 +1,27 @@
+{
+  "contacts": [
+    {
+      "name": "Y K Sharan (Dr)",
+      "email": "",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=666",
+  "name": "Manav Kalyan Kendra",
+  "primaryEmail": "mkkindia@gmail.com",
+  "telephone": [
+    "919454351729"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "Shakti Nagar Colony, H.N.- 269",
+      "Bashtrapur",
+      "Arogya Mandir",
+      "Gorakhpur",
+      "Uttar Pradesh",
+      "273003"
+    ]
+  }
+}

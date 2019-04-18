@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "MR.UTPAL SEN",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7819",
+  "name": "THALASSEMIA AND AIDS PREVENTIVE FOUNDATION",
+  "primaryEmail": "tapf55@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919434187666"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "RASHBEHARI MARKET,WEST BIRNAGAR",
+      "JAGANNATH DAS SARANY",
+      "RAIGANJ",
+      "North Dinajpur",
+      "West Bengal",
+      "733134"
+    ]
+  }
+}

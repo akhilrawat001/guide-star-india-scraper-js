@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "K.SrinivasaRao",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7306",
+  "name": "SOCIETY FOR PEOPLE'S EDUCATION & ECONOMIC CHANGE",
+  "primaryEmail": "speechngo.india@gmail.com",
+  "website": "http://www.speechindia.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "India",
+    "7702929553"
+  ],
+  "mainAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "Opp.Govt.Hospital,",
+      "Indukurpet (Post&Mandal)",
+      "Sri Potti Sriramulu Nellore",
+      "Andhra Pradesh",
+      "524314"
+    ]
+  }
+}

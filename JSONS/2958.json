@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Prasanta Karforma",
+      "email": "",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2958",
+  "name": "Kumarsha Rural Development Society",
+  "primaryEmail": "krds_goai@ymail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "913453256209",
+    "913453256209"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Vill-Goai",
+      "PO-Katwa",
+      "Burdwan",
+      "Bardhaman",
+      "West Bengal",
+      "713310"
+    ]
+  }
+}

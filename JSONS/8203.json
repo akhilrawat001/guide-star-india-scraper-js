@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Amit Narula",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "9225220895"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8203",
+  "name": "Jangoraitad Adivasi Vikas Sanstha",
+  "primaryEmail": "danamkaroti@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919225220895"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "306, 2nd floor Laxminagar",
+      "opp volley ball ground",
+      "Nagpur",
+      "Maharashtra",
+      "440022"
+    ]
+  },
+  "briefDescription": "Jangoraitad Adivasi Vikas Sanstha Is Located In Maharashtra.",
+  "yearOfEstablishment": "2002"
+}

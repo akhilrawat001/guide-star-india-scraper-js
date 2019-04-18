@@ -1,0 +1,34 @@
+{
+  "contacts": [
+    {
+      "name": "Soumen Modal",
+      "email": "cscc_chapra2010@rediffmail.com",
+      "designation": "Chief Functionary",
+      "mobile": []
+    },
+    {
+      "name": "Soumen Modal",
+      "email": "cscc_chapra2010@rediffmail.com",
+      "designation": "Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2860",
+  "name": "Chapra Sign of the Cross Club",
+  "primaryEmail": "cscc_chapra2010@rediffmail.com",
+  "telephone": [
+    "913472270495",
+    "919932580561"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Vill Chapra,",
+      "P.O. Bangaljhi,",
+      "Chapra",
+      "Nadia",
+      "West Bengal",
+      "741123"
+    ]
+  }
+}

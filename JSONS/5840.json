@@ -1,0 +1,38 @@
+{
+  "contacts": [
+    {
+      "name": "Gangamma KM",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "41737584"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5840",
+  "name": "Oorvani Foundation",
+  "primaryEmail": "foundation@oorvani.in",
+  "website": "http://oorvani.org.in",
+  "organisationType": [
+    "Direct Service",
+    "Network"
+  ],
+  "telephone": [
+    "918041737584",
+    "918041737584"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "98/1, MMR Plaza",
+      "Sarjapur Road, Jakkasandra,",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560034",
+      "Oorvani-Foundation-Bank stmt_Sep2013.PDF"
+    ]
+  },
+  "briefDescription": "Oorvani Foundation is a Bangalore-registered trust set-up in August 2013. The foundation develops and promotes deep-diving journalism on governance, citizenship and society in India at the city, state and national levels. Apart from developing high quality content, the Oorvani Foundation also facilitates publishing, web streaming, and podcasting such content through the Citizen Matters and India Together platforms, using teams of editors, journalists (both freelance and professional), subject matter experts, practitioners, filmmakers, audio producers, and organisational partners.",
+  "yearOfEstablishment": "2013"
+}

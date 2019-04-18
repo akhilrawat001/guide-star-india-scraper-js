@@ -1,0 +1,54 @@
+{
+  "contacts": [
+    {
+      "name": "Subrahmanyem Chintala",
+      "email": "schintala@tbalertindia.org",
+      "designation": "Head Finance & Admin",
+      "mobile": [
+        "91-40-27843499"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1289",
+  "name": "TB ALERT INDIA",
+  "primaryEmail": "schintala@tbalertindia.org",
+  "website": "www.tbalertindia.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "917702202399",
+    "914027803499",
+    "917702202399",
+    "917702202399",
+    "919397121555"
+  ],
+  "mainAddrress": {
+    "state": "Telangana",
+    "address": [
+      "Flat No. 301, H No. 10-2-191, Binjrajka Residency",
+      "West Marredpally, Secunderabad",
+      "Hyderabad",
+      "Telangana",
+      "500026"
+    ]
+  },
+  "briefDescription": "TB Alert India is a leading national NGO working for enhancing access to holistic quality health services for Tuberculosis, headquartered at Hyderabad, India. Vision of TB Alert India is “A TB Free India”. TB Alert India works in full alignment with the Indian government’s Revised National Tuberculosis Control Programme (RNTCP). TB Alert India’s work is supported by national and international agencies including USAID, The Global Fund to Fight AIDS, TB and Malaria (GFATM), the UK Government’s Department for International Development (DFID), Lilly Foundation through United Way World Wide, and TB Alert (UK). TB Alert India believes in partnership and implements programmes through a wide range of NGO partners and sometimes through its own team. Our programmes are currently located in states of Andhra Pradesh and North Delhi.TB Alert India works with a Mission of “Enhanced Access to promotive, preventive and curative quality services free of cost to people at risk to and affected by TB and the community at large through inclusive and responsive action” TB Alert India is governed by eight core values: inclusive and open to all, responsive needs of all, innovative in addressing needs of last wo/men with ethical outlook and the highest standards of integrity. It goes without saying that the functionaries and staff of the organization are dedicated and committed. Transparency and quality consciousness are USP of TB Alert India",
+  "yearOfEstablishment": "2004",
+  "regiseredAddrress": {
+    "state": "Telangana",
+    "address": [
+      "F-216, Vaishali Garden Apartments",
+      "Nagarjuna Nagar, Tarnaka",
+      "Secunderabad",
+      "Hyderabad",
+      "Telangana",
+      "500017"
+    ]
+  }
+}

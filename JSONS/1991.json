@@ -1,0 +1,24 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1991",
+  "name": "International Human Rights Council",
+  "primaryEmail": "info@ihrc.in",
+  "website": "www.ihrc.in",
+  "organisationType": [
+    "Network"
+  ],
+  "telephone": [
+    "912224321160",
+    "919833377731"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "154",
+      "Raj Chambers, Alibhai Premji Marg, Grant Road",
+      "Mumbai",
+      "Maharashtra",
+      "302016"
+    ]
+  }
+}

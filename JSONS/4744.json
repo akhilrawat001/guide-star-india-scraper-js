@@ -1,0 +1,36 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4744",
+  "name": "VANDE MATARAM FOUNDATION",
+  "primaryEmail": "vmf.sps@gmail.com",
+  "website": "www.vandemataramfoundation.net",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919821039722"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "C-14,1st Flr,Pooja Enclave,Ganesh Nagar, Kandivali (W)",
+      "Ganesh Nagar, Kandivali (W)",
+      "Mumbai",
+      "Maharashtra",
+      "400067"
+    ]
+  },
+  "briefDescription": "Vande Mataram Foundation works for the students of Municiple Schools in Mumbai city. The main heads under which Vande Mataram Foundation works are 1)Education 2)Health 3)Sports & 4)Girl child Security. Nearly 5000 students are benefited from these activities.",
+  "yearOfEstablishment": "2002",
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "101,A-Wing,Sandhya C.H.S Ltd.",
+      "Jankalyan Nagar,Marve Road,Malad (W)",
+      "Mumbai",
+      "Mumbai Suburban",
+      "Maharashtra",
+      "400095"
+    ]
+  }
+}

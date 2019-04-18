@@ -1,0 +1,37 @@
+{
+  "contacts": [
+    {
+      "name": "Renu Gavaskar",
+      "email": "ekalavyatrust@yahoo.co.in",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=274",
+  "name": "Eklavya Bal Shikshan & Arogya Nyasa",
+  "primaryEmail": "ekalavyatrust@yahoo.co.in",
+  "website": "http://www.ekalavyapune.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "912065215386",
+    "919850052794"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "7 Indira Apartments, Chintamani Nagar",
+      "Behind Hanuman Store",
+      "Pune",
+      "Maharashtra",
+      "411009"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Maharashtra"
+    ]
+  }
+}

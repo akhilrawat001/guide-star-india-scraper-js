@@ -1,0 +1,35 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4891",
+  "name": "AAGAAJ FOUNDATION SOCIETY SAMITI",
+  "primaryEmail": "info.aagaajfoundation@gmail.com",
+  "website": "http://www.aagaajfoundation.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918982092193",
+    "919691263778"
+  ],
+  "mainAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "H.No. 396, Hudco Colony, Neemuch",
+      "Bansal Chouraha",
+      "Neemuch",
+      "Madhya Pradesh",
+      "458441"
+    ]
+  },
+  "briefDescription": "AAGAAJ FOUNDATION SOCIETY SAMITI IS LOCATED AT NEEMUCH, M.P.",
+  "regiseredAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "Ward No.28, H.NO. 396,",
+      "Hudco Colony, Ground No.2",
+      "Neemuch",
+      "Madhya Pradesh",
+      "458441"
+    ]
+  }
+}

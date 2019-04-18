@@ -1,0 +1,38 @@
+{
+  "contacts": [
+    {
+      "name": "Srinivas Kulkarni",
+      "email": "",
+      "designation": "CEO",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=461",
+  "name": "SEEDA-Trust Socio - Economic & Education Development Action Trust",
+  "primaryEmail": "seedadha@yahoo.com",
+  "website": "http://www.giveindia.org/GetOrganisationProfile.aspx?ngoid=173",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918362773289",
+    "918362773259",
+    "918362773289"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "Sharadhi bldg, # 21",
+      "Nxt to Sai Mandir, Krishinagar, Kelageri Road.",
+      "Dharwad",
+      "Karnataka",
+      "580001"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "Karnataka"
+    ]
+  }
+}

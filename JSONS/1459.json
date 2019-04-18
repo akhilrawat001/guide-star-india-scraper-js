@@ -1,0 +1,26 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1459",
+  "name": "ACET Swarojgar Sangh",
+  "primaryEmail": "acetss@rediffmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Intermediary",
+    "Support"
+  ],
+  "telephone": [
+    "916512506274",
+    "919334063500"
+  ],
+  "mainAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "Jerath Compound ,",
+      "Opposite eylex, Main Road, PO-Hinoo,",
+      "Ranchi",
+      "Jharkhand",
+      "834002"
+    ]
+  }
+}

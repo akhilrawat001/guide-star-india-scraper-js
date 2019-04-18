@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Joy Singha Roy",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8184",
+  "name": "Jagrani Foundation",
+  "primaryEmail": "jagranifoundation@gmail.com",
+  "website": "http://www.jagranifoundation.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "911164611281",
+    "911164611281"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "S-13/B, Sunder Block (Near Mahila Park), Shakar Pur,",
+      "S-13/B, Sunder Block, Shakarpur",
+      "Delhi",
+      "East Delhi",
+      "110092"
+    ]
+  }
+}

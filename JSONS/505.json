@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "name": "Saraswathi Shyamal",
+      "email": "",
+      "designation": "Associate Director",
+      "mobile": []
+    },
+    {
+      "name": "Saraswathi Shyamal",
+      "email": "",
+      "designation": "Associate Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=505",
+  "name": "Vathsalya Charitable Trust",
+  "primaryEmail": "vathsalya88@rediffmail.com",
+  "website": "http://www.vctblr.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918025457360",
+    "918025452671",
+    "918025457360"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "No 717, 5th Cross",
+      "HRBR Layout, Kalyan Nagar",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560043"
+    ]
+  }
+}

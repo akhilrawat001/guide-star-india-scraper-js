@@ -1,0 +1,31 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1339",
+  "name": "Entrepreneurship Development Center",
+  "primaryEmail": "gm@venturecenter.co.in",
+  "website": "www.venturecenter.co.in",
+  "organisationType": [
+    "Direct Service",
+    "Grant-making",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "912064011026",
+    "912025865877",
+    "912064011026"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "100",
+      "NCL Innovation Park, Dr Homi Bhabha Road,",
+      "Pune",
+      "Maharashtra",
+      "411008"
+    ]
+  },
+  "briefDescription": "Venture Center (Pune, India) is a not-for-profit business incubator that helps early stage science and technology ventures. Venture Center is Supported by National Chemical Laboratory-CSIR and Department of Science and Technology-NSTEDB, India. Venture Center provides lab infrastructure and business Support services, seed funding and technology commercialization programs. It also provides access to start up mentors, venture investors and high quality industry referals.",
+  "yearOfEstablishment": "2007"
+}

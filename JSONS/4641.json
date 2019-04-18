@@ -1,0 +1,27 @@
+{
+  "contacts": [
+    {
+      "name": "Bikash Mohapatra",
+      "email": "suprativa.org@gmail.com",
+      "designation": "Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4641",
+  "name": "Suprativa",
+  "primaryEmail": "suprativa.org@gmail.com",
+  "telephone": [
+    "916712115699",
+    "919437195251"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "At/Po. Fakirpada",
+      "Via. Biribati",
+      "Cuttack",
+      "Odisha",
+      "754100"
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Dr. R. D. Saini",
+      "email": "mpisde.org@gmail.com",
+      "designation": "Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6853",
+  "name": "Institution of Secondary Distance Education Society",
+  "primaryEmail": "mpisde.org@gmail.com",
+  "website": "mpisde.ac.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "+917573230810",
+    "917573230810"
+  ],
+  "mainAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "2, Stree New Market,In front of SBI Branch",
+      "2, Street New Market, In-front of SBI Branch",
+      "Timarni",
+      "Harda",
+      "Madhya Pradesh",
+      "461228"
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "B A Dodamani",
+      "email": "balappad@yahoo.com",
+      "designation": "Chairman",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2876",
+  "name": "Megha Association",
+  "primaryEmail": "balappad@yahoo.com",
+  "telephone": [
+    "918312425389",
+    "918312421748",
+    "918312425389"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "No 4370/A1",
+      "Chavat Galli, Near Court Compound",
+      "Belgaum",
+      "Belagavi (Belgaum)",
+      "Karnataka",
+      "590001"
+    ]
+  }
+}

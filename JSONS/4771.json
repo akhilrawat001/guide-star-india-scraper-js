@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Dr. Anil Pratap Singh",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4771",
+  "name": "GLOBAL SCIENCE ACADEMY",
+  "primaryEmail": "globalaps@rediffmail.com",
+  "website": "www.gsaindia.org.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "915542247186",
+    "915542247186"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "Satyawanpury",
+      "Block Road",
+      "Basti",
+      "Uttar Pradesh",
+      "272001"
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "Sam Kapoor",
+      "email": "s.kapoor@smsfoundation.org",
+      "designation": "Manager , Partnerships and External Relations",
+      "mobile": [
+        "91-124-4744100"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1560",
+  "name": "S M Sehgal Foundation",
+  "primaryEmail": "partnerships@smsfoundation.org",
+  "website": "http://www.smsfoundation.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service"
+  ],
+  "telephone": [
+    "911244744100"
+  ],
+  "mainAddrress": {
+    "state": "Haryana",
+    "address": [
+      "Plot No. 34",
+      "Sector 44 Institutional Area ,",
+      "Gurgaon",
+      "Gurugram",
+      "Haryana",
+      "122003"
+    ]
+  },
+  "briefDescription": "S M Sehgal Foundation is a public, charitable trust registered in India since 1999. Our mission is to strengthen community-led development initiatives to achieve positive social, economic and environmental change across rural India.The organization advances its mission by working with rural communities to increase agricultural productivity, manage water resources, strengthen grassroots democracy and facilitate citizen participation through good rural governance and community media, putting a strong emphasis on gender equality and women's empowerment.",
+  "yearOfEstablishment": "1999"
+}

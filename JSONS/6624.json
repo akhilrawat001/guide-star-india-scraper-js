@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Dharmendra Soni",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6624",
+  "name": "Asha Gramotthan Vikas Shiksha Evam Manav Kalyan Samiti",
+  "primaryEmail": "agssvp2002@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919893005992"
+  ],
+  "mainAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "105 Soni Sadan",
+      "Shatar Chouraha",
+      "Village-Khod,Teh.-Pichhore,Dist.-Shivpuri",
+      "Shivpuri",
+      "Madhya Pradesh",
+      "473670"
+    ]
+  }
+}

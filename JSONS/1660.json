@@ -1,0 +1,38 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1660",
+  "name": "MAULI - EK SHAIKSHNIK DHYAS",
+  "primaryEmail": "mauli.trust@yahoo.com",
+  "organisationType": [
+    "Direct Service",
+    "Grant-making",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "912512881411",
+    "912512881411"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "2, Shankar Sai CHS",
+      "Pandurang Wadi, Ekta Nagar",
+      "Dombivali (E)",
+      "Thane",
+      "Maharashtra",
+      "421201"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "2, Shankar Sai CHS,",
+      "Pandurang Wadi, Ekta Nagar, Near Saibaba Mandir",
+      "Dombivali, Thane",
+      "Thane",
+      "Maharashtra"
+    ]
+  }
+}

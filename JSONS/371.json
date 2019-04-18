@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "name": "Meghna Golder",
+      "email": "partnership@helptrust.org",
+      "designation": "Manager - Programs and Resource Mobilisation",
+      "mobile": []
+    },
+    {
+      "name": "Meghna Golder",
+      "email": "partnership@helptrust.org",
+      "designation": "Manager - Programs and Resource Mobilisation",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=371",
+  "name": "Human Education for Liberation of the Poor - Trust",
+  "primaryEmail": "partnership@helptrust.org",
+  "website": "www.helptrust.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "914637291595",
+    "919702747277"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "8/136, North Street",
+      "Pillaiyarkudieruppu, Jacobpuram post",
+      "Tirunelveli",
+      "Tamil Nadu",
+      "627114"
+    ]
+  },
+  "briefDescription": "Provides basic education to underprivileged and parentless children in Tamil Nadu and Maharashtra. Provides livelihood Training to Underprivileged youths.  Apart from these two major activity we also work for women and relief/rehabilitation projects.",
+  "yearOfEstablishment": "2005"
+}

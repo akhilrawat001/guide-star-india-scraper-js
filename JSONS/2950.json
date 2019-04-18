@@ -1,0 +1,27 @@
+{
+  "contacts": [
+    {
+      "name": "Vikram Singh Yadav",
+      "email": "vikramsyadav@rediffmail.com",
+      "designation": "Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2950",
+  "name": "Lakshya Institute of Development Action Studies Samiti",
+  "primaryEmail": "vikramsyadav@rediffmail.com",
+  "telephone": [
+    "917622422339",
+    "917622422339"
+  ],
+  "mainAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "MIG-21, housing Board Colony",
+      "Near old RTO Katni",
+      "Katni",
+      "Madhya Pradesh",
+      "483501"
+    ]
+  }
+}

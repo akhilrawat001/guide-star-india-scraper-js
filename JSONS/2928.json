@@ -1,0 +1,27 @@
+{
+  "contacts": [
+    {
+      "name": "Rushi Ghadawala",
+      "email": "info.aryavarta@gmail.com",
+      "designation": "Chairman",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2928",
+  "name": "Aryavarta Space Organisation",
+  "primaryEmail": "info.aryavarta@gmail.com",
+  "telephone": [
+    "917926607671",
+    "917926607671"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "ASO Secretariat 2/15,",
+      "Simandhar Apartment, B/h. Dharnidhar Derasar, Vasna,",
+      "Ahmedabad",
+      "Gujarat",
+      "380007"
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "D K Srinivasan",
+      "email": "hmh@dataone.in",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=504",
+  "name": "Valluvar Gurukulam",
+  "primaryEmail": "hmh@dataone.in",
+  "website": "http://www.hindumissionhospital.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "914422387744",
+    "914422262255",
+    "914422387744"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "220, G. S. T.Road",
+      "Tambaram West",
+      "Chennai",
+      "Tamil Nadu",
+      "600045"
+    ]
+  }
+}

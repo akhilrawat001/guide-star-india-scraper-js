@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "K.RATNA",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "9440313044"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6005",
+  "name": "ARISE AND SHINE SOCIETY",
+  "primaryEmail": "arise.shine2004@yahoo.com",
+  "website": "www.ariseandshinesociety.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "9440313044"
+  ],
+  "mainAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "D.NO. 44-10-6",
+      "OPP. OLD POST OFFICE",
+      "GUNADALA. VIJAYAWADA.",
+      "Krishna",
+      "Andhra Pradesh",
+      "520004"
+    ]
+  }
+}

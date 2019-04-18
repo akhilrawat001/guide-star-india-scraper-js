@@ -1,0 +1,37 @@
+{
+  "contacts": [
+    {
+      "name": "yash ranga",
+      "email": "yash.r@jaipurrugs.org",
+      "designation": "asst. manager",
+      "mobile": [
+        "91-9610403161"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2655",
+  "name": "Jaipur Rugs Foundation (Trust)",
+  "primaryEmail": "jrf@jaipurrugs.org",
+  "website": "http://www.jaipurrugs.org/",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "911413987400"
+  ],
+  "mainAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "G-250",
+      "Mansarovar Industrial Area",
+      "Jaipur",
+      "Rajasthan",
+      "302020"
+    ]
+  },
+  "briefDescription": "Jaipur Rugs Foundation was established in 2004 by Mr. Nand Kishore Chaudhary. JRF works for the empowerment of grassroots communities, especially women and minorities, to give them the means to master their own lives. Through skill training to carpet production processes, capacity building and social development like education, underprivileged people receive the required support to start a sustainable transformation of their life.",
+  "yearOfEstablishment": "2004"
+}

@@ -1,0 +1,39 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1076",
+  "name": "The Hope House",
+  "primaryEmail": "info@indiahopehouse.org",
+  "website": "http://www.indiahopehouse.org",
+  "organisationType": [
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "914162244816",
+    "919629471920",
+    "914162274450"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "3/188, Shanthinagar, S.I.H. R & L.C (Karigiri Hospital)",
+      "Karigiri Hospital",
+      "Vellore",
+      "Tamil Nadu",
+      "632106"
+    ]
+  },
+  "briefDescription": "We work with vulnerable children that need care and protection.  We have a residential care facility and several community based programs.  We have a unique project called “Project YUVA’ through which we work with adolescents in the entire district.  Our goal for the next five years is to reach one million citizens educating and empowering about the issues pertaining to adolescents.",
+  "yearOfEstablishment": "2004",
+  "regiseredAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "16/28  25th East Cross Road",
+      "Gandhinagar",
+      "Vellore",
+      "Tamil Nadu",
+      "632006"
+    ]
+  }
+}

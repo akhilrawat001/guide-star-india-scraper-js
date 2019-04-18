@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "name": "Santosh Poonia",
+      "email": "santosh.poonia@aajeevika.org",
+      "designation": "Programme Manager (Legal Education and Advocacy)",
+      "mobile": [
+        "91-9820899094"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6567",
+  "name": "AAJEEVIKA BUREAU TRUST",
+  "primaryEmail": "info@aajeevika.org",
+  "website": "http://www.aajeevika.org/",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "912942451062",
+    "912942453125"
+  ],
+  "mainAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "39, Krishna Colony",
+      "Bedla Road",
+      "Udaipur",
+      "Rajasthan",
+      "313001"
+    ]
+  },
+  "briefDescription": "Aajeevika Bureau (AB), a non-profit initiative, works for the dignity and wellbeing of families dependent on seasonal migration. Rural-urban migration is a socio-economic reality in India. However, lack of institutional and policy support has made it a developmental challenge, leading to human rights violations and disenfranchisement of working populations. Formed to make migration a positive opportunity, AB undertakes service delivery, capacity building, legal advocacy, research and technical support to secure livelihoods, social protection and dignity for migrant workers, and recognise their contributions to the economy. AB aims to transform the policy and knowledge paradigm on migration by mainstreaming voices of migrant communities.",
+  "yearOfEstablishment": "2005"
+}

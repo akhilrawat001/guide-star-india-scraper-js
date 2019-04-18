@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Yogesh Shrivastava",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4817",
+  "name": "PRAYATNA JAN UTTHAN SAMITI",
+  "primaryEmail": "shrivastava.yogesh@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919425370628"
+  ],
+  "mainAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "HIG -03 SRG Yugantar,",
+      "Behind St.Xavier School, Berkheda Pathani",
+      "Bhopal",
+      "Madhya Pradesh",
+      "462021"
+    ]
+  }
+}

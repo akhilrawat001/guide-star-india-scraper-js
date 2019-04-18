@@ -1,0 +1,34 @@
+{
+  "contacts": [
+    {
+      "name": "Mr.Ravi Ranjan Bhardwaj",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6896",
+  "name": "GRAMIN SAMAJ KALYAN SANSTHAN",
+  "primaryEmail": "gramsks2007@gmail.com",
+  "website": "www.gsks.co.nf",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "916274225250",
+    "916274225250"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "At - Musapur,Dhurlakh Road,",
+      "P.O. & Distt. Samastipur,",
+      "Samastipur",
+      "Bihar",
+      "848101"
+    ]
+  },
+  "briefDescription": "Gramin Samaj Kalyan Sansthan is Located in Samastipur, Bihar.",
+  "yearOfEstablishment": "1994"
+}

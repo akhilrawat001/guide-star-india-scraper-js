@@ -1,0 +1,49 @@
+{
+  "contacts": [
+    {
+      "name": "SHAHIDA BASHIR",
+      "email": "jkswmbpr@gmail.com",
+      "designation": "DIRECTOR",
+      "mobile": [
+        "91-9797817005"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7581",
+  "name": "J & K STUDENTS WELFARE MISSION",
+  "primaryEmail": "jkswmbpr@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Grant-making",
+    "Support"
+  ],
+  "telephone": [
+    "919797817005",
+    "919797161461",
+    "919906528237"
+  ],
+  "mainAddrress": {
+    "state": "Jammu and Kashmir",
+    "address": [
+      "MUSTAFA ABAD",
+      "ASHTAGOO",
+      "BANDIPORA",
+      "Bandipora",
+      "Jammu and Kashmir",
+      "193502"
+    ]
+  },
+  "briefDescription": "J & K STUDENTS WELFARE MISSION LOCATED IN BANDIPORA, JAMMU & KASHMIR, IS A REGISTERED SOCIAL DEVELOPMENT ORGANIZATION WORKING IN THE FIELDS OF EDUCATION, ENVIRONMENT, WOMEN EMPOWERMENT, VOCATIONAL TRAINING, IT, HEALTH, SKILL DEVELOPMENT ETC.",
+  "yearOfEstablishment": "2009",
+  "regiseredAddrress": {
+    "state": "Jammu and Kashmir",
+    "address": [
+      "MAIN STOP",
+      "ALOOSA",
+      "BANDIPORA",
+      "Bandipora",
+      "Jammu and Kashmir",
+      "193502"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Dhanykumar M Mudke",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8249",
+  "name": "SWAMI VIVEKANAND SARVAJANIK WACHANALAYA",
+  "primaryEmail": "swamivivekanand95@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "912172287861",
+    "912172287861"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Post- Mardi",
+      "Taluka- North Solapur Dist- Solapur",
+      "Solapur",
+      "Maharashtra",
+      "413002"
+    ]
+  }
+}

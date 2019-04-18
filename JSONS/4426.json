@@ -1,0 +1,28 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4426",
+  "name": "Centre for Action Research and People's Development",
+  "primaryEmail": "carpedindia@gmail.com",
+  "website": "http://www.carped.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919000677292"
+  ],
+  "mainAddrress": {
+    "state": "Telangana",
+    "address": [
+      "CARPED, 8-3-228/267, Rahmathnagar, Yousufguda",
+      "Amar Tea Point",
+      "Hyderabad",
+      "Telangana",
+      "500045"
+    ]
+  },
+  "briefDescription": "An action research group making policies more people oriented.",
+  "yearOfEstablishment": "1989"
+}

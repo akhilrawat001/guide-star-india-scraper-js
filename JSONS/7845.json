@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Indubala",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7845",
+  "name": "Unnat Bharat Vikas",
+  "primaryEmail": "ubv1949@rediffmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919814906591"
+  ],
+  "mainAddrress": {
+    "state": "Haryana",
+    "address": [
+      "# 591,",
+      "Sector 10,",
+      "Panchkula",
+      "Haryana",
+      "134113"
+    ]
+  }
+}

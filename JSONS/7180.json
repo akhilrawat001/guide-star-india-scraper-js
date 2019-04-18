@@ -1,0 +1,34 @@
+{
+  "contacts": [
+    {
+      "name": "Mr.Thomas Antony",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7180",
+  "name": "Bartimaeus Society For The Blind",
+  "primaryEmail": "Bsblind182@gmail.com",
+  "website": "www.Justdail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919620027815",
+    "918884650200"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "#19/1, mother therasa layout",
+      "Kannur post,bidarahalli hubli",
+      "Nagenahalli",
+      "Bengaluru (Bangalore) Rural",
+      "Karnataka",
+      "562149"
+    ]
+  }
+}

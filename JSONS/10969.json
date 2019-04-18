@@ -1,0 +1,49 @@
+{
+  "contacts": [
+    {
+      "name": "Rajam",
+      "email": "",
+      "designation": "Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10969",
+  "name": "RAJAMATHI  PALNOKKU MATRUTHIRANALIGAL SANGAM",
+  "primaryEmail": "rajamathisevasangam2018@gmail.com",
+  "website": "https://rajamathi-foundation.business.site",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919597099241"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "12B",
+      "Saiva Street",
+      "Thalaignayiru",
+      "Nagapattinam",
+      "Tamil Nadu",
+      "614712"
+    ]
+  },
+  "briefDescription": "A unit of Rajamathi  Multi-Level Challenged People  Multi-Purpose                                                   Social, Medical, Health,Education,                                                  Wedding Service etc, Development,                                                  Research and  Corporation",
+  "yearOfEstablishment": "2018",
+  "regiseredAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "12B,",
+      "Saiva Street",
+      "Thalaignayiru",
+      "Nagapattinam",
+      "Tamil Nadu",
+      "614712"
+    ]
+  }
+}

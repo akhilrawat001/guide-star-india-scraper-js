@@ -1,0 +1,41 @@
+{
+  "contacts": [
+    {
+      "name": "Mr ASHISH YADAV",
+      "email": "yadav.ashish23@yahoo.com",
+      "designation": "GUARDIAN",
+      "mobile": [
+        "91-9936196018"
+      ]
+    },
+    {
+      "name": "Mr ASHISH YADAV",
+      "email": "yadav.ashish23@yahoo.com",
+      "designation": "GUARDIAN",
+      "mobile": [
+        "91-9936196018"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8093",
+  "name": "HUBRAJI JAN KALYAN SAMITI",
+  "primaryEmail": "hjks89@yahoo.in",
+  "website": "www.hjksbasti.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "915542286402",
+    "915542286402"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "Vishun Purwa Gandhi Nagar",
+      "Basti",
+      "Uttar Pradesh",
+      "272001"
+    ]
+  }
+}

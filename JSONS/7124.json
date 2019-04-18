@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Ms.Dimpi Sarkar",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7124",
+  "name": "BETHUADAHARI INSTITUTE FOR MOTHER & CHILD CARE",
+  "primaryEmail": "bimcc13@gmail.com",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "918961585648"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Khidirpur Madhyapara,",
+      "P.O. Bethuadahari, P.S. Nakashipara,",
+      "Bethuadahari",
+      "Nadia",
+      "West Bengal",
+      "741126"
+    ]
+  }
+}

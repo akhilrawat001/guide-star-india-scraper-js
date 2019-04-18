@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "Sanjay Kr Pandey",
+      "email": "",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1812",
+  "name": "Society for Peopleï¿½s Action through Community Empowerment (SPACE)",
+  "primaryEmail": "spacespace_726@rediffmail.com",
+  "telephone": [
+    "915265222703",
+    "919450510176"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "Vill- Chhapiya (Rendwaliya)",
+      "Po- Pehar,",
+      "Utrola",
+      "Balrampur",
+      "Uttar Pradesh",
+      "271604"
+    ]
+  }
+}

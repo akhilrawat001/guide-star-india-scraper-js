@@ -1,0 +1,27 @@
+{
+  "contacts": [
+    {
+      "name": "D.RAVI KUMAR",
+      "email": "bmomother@yahoo.com",
+      "designation": "CO-ORDINATOR",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5741",
+  "name": "Bapuji Mahila Mandali",
+  "primaryEmail": "bmomother@yahoo.com",
+  "telephone": [
+    "918944247865",
+    "918944247865"
+  ],
+  "mainAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "Badangi village Mandal",
+      "vizianagaram",
+      "Vizianagaram",
+      "Andhra Pradesh",
+      "535578"
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Dr. D.K. Panday",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6869",
+  "name": "Delhi Competitive and Vocational Society",
+  "primaryEmail": "dcvsngo49@yahoo.com",
+  "website": "dcvsngo.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Support"
+  ],
+  "telephone": [
+    "911164122709",
+    "911164122709"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "1/49",
+      "Lalita Park, main vikas marg",
+      "Laxmi Nagar,",
+      "East Delhi",
+      "Delhi",
+      "110092"
+    ]
+  }
+}

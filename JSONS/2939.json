@@ -1,0 +1,26 @@
+{
+  "contacts": [
+    {
+      "name": "Botul Vahora",
+      "email": "sewtindia@gmail.com",
+      "designation": "Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2939",
+  "name": "Sahara Education Welfare Trust",
+  "primaryEmail": "sewtindia@gmail.com",
+  "telephone": [
+    "912692244885"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "Care of Solution Exchange",
+      "F-2 Reshma Plaza, Opp.Rolling Mill Bhalej Road",
+      "Anand",
+      "Gujarat",
+      "388110"
+    ]
+  }
+}

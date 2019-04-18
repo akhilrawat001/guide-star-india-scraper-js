@@ -1,0 +1,54 @@
+{
+  "contacts": [
+    {
+      "name": "Sunil Kumar Mishra",
+      "email": "smishra502@gmail.com",
+      "designation": "Managing Trustee",
+      "mobile": []
+    },
+    {
+      "name": "Sunil Kumar Mishra",
+      "email": "smishra502@gmail.com",
+      "designation": "Managing Trustee",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6133",
+  "name": "GRAM NEHRU YUVA TRUST",
+  "primaryEmail": "gnytrust@gmail.com",
+  "website": "www.gnyt.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "918084653701"
+  ],
+  "mainAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "Gangotri Niwas",
+      "Devi Hari Dasi Lane",
+      "Bilasi Town",
+      "Deoghar",
+      "Jharkhand",
+      "814113"
+    ]
+  },
+  "briefDescription": "Gram Nehru Yuva Trust establised 1995.Registred under Indian Trust Act.1882 and FCRA 2010. working area Bihar & Jharkhand Rural Area Youth,small and marginal farmers,women,child,old person,disabilities,and any other neglected person.",
+  "yearOfEstablishment": "1995",
+  "regiseredAddrress": {
+    "state": "Bihar",
+    "address": [
+      "Gopal Kutir",
+      "vill+po- Jamdaha",
+      "Katoria",
+      "Banka",
+      "Bihar",
+      "813102"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1661",
+  "name": "HARSHADMANE FOUNDATION",
+  "primaryEmail": "harshad@harshadmane.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919967706150"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "A 402 SHREE SAMARPAN",
+      "NATWAR NAGAR ROAD NO 4 JOGESHWARI EAST",
+      "MUMBAI",
+      "Mumbai",
+      "Maharashtra",
+      "400060"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "A 402 SHREE SAMARPAN",
+      "NATWAR NAGAR ROAD NO 4 JOGESHWARI EAST",
+      "Mumbai",
+      "Maharashtra",
+      "400060"
+    ]
+  }
+}

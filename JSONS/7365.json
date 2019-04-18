@@ -1,0 +1,35 @@
+{
+  "contacts": [
+    {
+      "name": "Mr.Vivek Ahuja",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "237710"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7365",
+  "name": "SOCIETY FOR UTTARANCHAL DEVELOPMENT AND HIMALAYAN ACTION",
+  "primaryEmail": "sudha.almora@gmail.com",
+  "website": "http://www.sudha4livelihood.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Intermediary",
+    "Support"
+  ],
+  "telephone": [
+    "915962237710",
+    "915962237710"
+  ],
+  "mainAddrress": {
+    "state": "Uttarakhand",
+    "address": [
+      "Apna Ghar, The Mall, Almora",
+      "Almora",
+      "Uttarakhand",
+      "263601"
+    ]
+  }
+}

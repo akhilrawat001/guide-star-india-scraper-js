@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "Mahesh Sarnikar",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7502",
+  "name": "KAI TATYASAHEB PATIL BAHUUDDESHIYA SEVABHAVI SANSTHA",
+  "primaryEmail": "maheshbsarnikar@gmail.com",
+  "website": "www.ktpbss.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919766366611"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "26, MAHSOOL COLONY,",
+      "NEAR AMBAD CHOWFULLY,",
+      "Jalna",
+      "Maharashtra",
+      "431213"
+    ]
+  },
+  "briefDescription": "The Organisation is in Jalna, Maharashtra",
+  "yearOfEstablishment": "2015"
+}

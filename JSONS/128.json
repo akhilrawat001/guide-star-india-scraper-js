@@ -1,0 +1,52 @@
+{
+  "contacts": [
+    {
+      "name": "Nancy Thomas",
+      "email": "",
+      "designation": "Program Facilitator",
+      "mobile": []
+    },
+    {
+      "name": "Nancy Thomas",
+      "email": "",
+      "designation": "Program Facilitator",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=128",
+  "name": "Tulir Charitable Trust (For Prevention & Healing of Child Sexual Abuse)",
+  "primaryEmail": "tulircphcsa@yahoo.co.in",
+  "website": "www.tulir.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "914443531496",
+    "914426192026",
+    "919840050768",
+    "914443531496"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "J – 33/18, 7th street",
+      "Annanagar East",
+      "Chennai",
+      "Tamil Nadu",
+      "600102"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "74, EVK Sampath Road",
+      "Vepery",
+      "Chennai",
+      "Tamil Nadu",
+      "600007",
+      "AP_TelBill_28.PDF"
+    ]
+  }
+}

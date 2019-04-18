@@ -1,0 +1,37 @@
+{
+  "contacts": [
+    {
+      "name": "Provat Kumar Mitra",
+      "email": "mitra_provat@yahoo.co.in",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=510",
+  "name": "Vikahar Paribar Bikash Kendra",
+  "primaryEmail": "vpbk_org@vsnl.net",
+  "website": "http://www.vbpk.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "913322486888",
+    "913322486888"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "6, Kiran Sankar Roy Road",
+      "Ground Floor, Room No.3",
+      "Kolkata",
+      "West Bengal",
+      "700001"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "West Bengal"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Dr. G.D.Noble",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6419",
+  "name": "Human Upliftment Trust",
+  "primaryEmail": "hutngo@gmail.com",
+  "website": "www.hutngo.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919841158075"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "48/19 BagavathSingh Street, Kasthuribai Nagar, West Tambaram,",
+      "Nil",
+      "West Tambaram, Chennai, Tambaram Taluk",
+      "Kancheepuram",
+      "Tamil Nadu",
+      "600045"
+    ]
+  }
+}

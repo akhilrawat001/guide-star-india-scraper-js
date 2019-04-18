@@ -1,0 +1,35 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6130",
+  "name": "Vijnana Bindu",
+  "primaryEmail": "vijnanabindu@gmail.com",
+  "website": "www.vijnanabindu.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service"
+  ],
+  "telephone": [
+    "918453955524"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "2nd Floor Shiva Nilaya, Near Auto Stand, Upparahally, Tumkur-572102",
+      "2nd Floor Shiva Nilaya, Near Auto Stand, Indira College Road, Upparahally, Tumkur-572102",
+      "Tumkur",
+      "Tumakuru (Tumkur)",
+      "Karnataka",
+      "572102"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "2nd Floor,Shiva Nilaya, Near Auto Stand, Indira college Road, Upparahally, Tumkur",
+      "Tumkur",
+      "Tumakuru (Tumkur)",
+      "Karnataka",
+      "572102"
+    ]
+  }
+}

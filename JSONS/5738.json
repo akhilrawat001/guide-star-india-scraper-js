@@ -1,0 +1,27 @@
+{
+  "contacts": [
+    {
+      "name": "K. MUNIKRISHNA",
+      "email": "nyssmunikrishna@yahoo.com",
+      "designation": "PRESIDENT",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5738",
+  "name": "NAVODAYA YUVAJANA SEVA SANGAM",
+  "primaryEmail": "nyssmunikrishna@yahoo.com",
+  "telephone": [
+    "919490247291"
+  ],
+  "mainAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "ARIMAKULAPALLI VILLAGE & POST",
+      "S.R. PURAM MANDAL",
+      "CHITTOOR",
+      "Chittoor",
+      "Andhra Pradesh",
+      "517167"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10455",
+  "name": "BOARD OF RESEARCH AND ANALYSIS IN INTUITIVE NEURO SCIENCE (BRAINS)",
+  "primaryEmail": "brainsindia@yahoo.com",
+  "website": "http://www.brainsindia.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919633110055"
+  ],
+  "mainAddrress": {
+    "state": "Kerala",
+    "address": [
+      "Chettiyarmad,",
+      "Calicut University Post",
+      "Calicut University",
+      "Malappuram",
+      "Kerala",
+      "673635"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Kerala",
+    "address": [
+      "Holistic Health Care Centre Building",
+      "Chettiyarmad",
+      "Calicut University Post",
+      "Malappuram",
+      "Kerala",
+      "673635"
+    ]
+  }
+}

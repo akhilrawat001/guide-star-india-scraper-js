@@ -1,0 +1,42 @@
+{
+  "contacts": [
+    {
+      "name": "KK Sinha",
+      "email": "info@srdct.org",
+      "designation": "Founder",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10021",
+  "name": "Society for Rural Development and Computer Technology",
+  "primaryEmail": "info@srdct.org",
+  "website": "www.srdct.org",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919425574117"
+  ],
+  "mainAddrress": {
+    "state": "Chhattisgarh",
+    "address": [
+      "Aisect Compus",
+      "Behaind Allhabad Bank",
+      "Dhobipara Road Vidya Nagar Kunkuri",
+      "Jashpur",
+      "Chhattisgarh",
+      "496225"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Chhattisgarh",
+    "address": [
+      "Aisect Computer Jashpur Road Kunkuri",
+      "Kunkuri",
+      "Jashpur",
+      "Chhattisgarh",
+      "496225"
+    ]
+  }
+}

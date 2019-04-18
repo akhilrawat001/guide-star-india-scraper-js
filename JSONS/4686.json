@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "M.Krishnakumar",
+      "email": "avvaikk@hotmail.com",
+      "designation": "Managing Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4686",
+  "name": "Namathu Deepam Micro Financeï¿½ï¿½Services",
+  "primaryEmail": "avvaikk@hotmail.com",
+  "telephone": [
+    "914364247464",
+    "919443317544"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "260,Public Office Road",
+      "Velipalayam",
+      "NAGAPATTINAM",
+      "Chennai",
+      "Tamil Nadu",
+      "611001"
+    ]
+  }
+}

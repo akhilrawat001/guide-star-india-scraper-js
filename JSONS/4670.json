@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Joseph Joute",
+      "email": "josephjoute@gmail.com",
+      "designation": "President & Managing Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4670",
+  "name": "Bible Hill Youth Club",
+  "primaryEmail": "biblehillyouthclub@gmail.com",
+  "website": "http://www.bhyc.org.in",
+  "telephone": [
+    "913874236015",
+    "919862829250"
+  ],
+  "mainAddrress": {
+    "state": "Manipur",
+    "address": [
+      "Rengkai",
+      "Bible Hill",
+      "Churachandpur",
+      "Manipur",
+      "795128"
+    ]
+  },
+  "briefDescription": "A national award winning youth-led organization in special consultative status with the UN Economic and Social Council, registered under No.42/SR of 1996.",
+  "yearOfEstablishment": "1996"
+}

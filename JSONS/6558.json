@@ -1,0 +1,37 @@
+{
+  "contacts": [
+    {
+      "name": "PRANSHU BHATNAGAR",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "9810201542"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6558",
+  "name": "SHUBHAKSHIKA EDUCATIONAL SOCIETY",
+  "primaryEmail": "shubhakshika@gmail.com",
+  "website": "http://www.shubhakshika.org/",
+  "organisationType": [
+    "Direct Service",
+    "Intermediary",
+    "Support"
+  ],
+  "telephone": [
+    "919810201542"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "A5-B/184",
+      "PASCHIM VIHAR",
+      "NEW DELHI",
+      "New Delhi",
+      "Delhi",
+      "110063"
+    ]
+  },
+  "briefDescription": "The Society works for education , rehabilitation and uplift of the underprivileged and the marginalised sections of the society by providing opportunities for education, by imparting employment oriented vocational skills ,by creating awareness about relevant issues through camps and workshops and by procuring and distributing articles of basic needs to the needy. The Society works to promote happy and healthy living.",
+  "yearOfEstablishment": "1993"
+}

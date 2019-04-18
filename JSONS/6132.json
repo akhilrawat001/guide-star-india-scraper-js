@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Smita Rani Pattanaik",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6132",
+  "name": "NARI SURAKSHYA SAMITI",
+  "primaryEmail": "nasusa@rediffmail.com",
+  "website": "www.narisurakshyasamiti.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919437079223"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "At-Gitagram,Khambeswari Bihar, Po- Police training College, (PTC)Angul,Odisha,Pin- 759122India.",
+      "Bhubaneswar",
+      "Angul",
+      "Odisha",
+      "759122"
+    ]
+  }
+}

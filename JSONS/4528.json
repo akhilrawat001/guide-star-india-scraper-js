@@ -1,0 +1,37 @@
+{
+  "contacts": [
+    {
+      "name": "Bijayalaxmi Mohanty",
+      "email": "hr@kalingakusum.in",
+      "designation": "HR",
+      "mobile": [
+        "91-7205001814"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4528",
+  "name": "Kalinga Kusum Foundation",
+  "primaryEmail": "mrsujeetkumar@gmail.com",
+  "website": "www.kalingakusum.in",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "6742744508",
+    "917205001814"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "PLot NO. 368/1906, Mahavir Nagar",
+      "Patia square",
+      "Bhubaneswar",
+      "Khordha",
+      "Odisha",
+      "751024"
+    ]
+  },
+  "briefDescription": "The Kalinga Kusum Foundation started its operation in 2011 to address two of the most immediate challenges of the India - rural entrepreneurship and rural education. This stems from the strong conviction of the Founders that quality basic Education in the formative years (primary Education) is the single most critical investment for development. When coupled with livelihhod enhancing skills & opportunities, the Foundation hopes, development will be fast-tracked and imminent.",
+  "yearOfEstablishment": "2008"
+}

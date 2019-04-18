@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Krishnapada Sasmal",
+      "email": "nagsociety@gmail.com",
+      "designation": "General Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4940",
+  "name": "Nandakumarpur Amardyuti Gramonnyon Society",
+  "primaryEmail": "nagsociety@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919903337097"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "319",
+      "Vivekananda Road",
+      "Sonarpur",
+      "South 24 Parganas",
+      "West Bengal",
+      "700149"
+    ]
+  },
+  "briefDescription": "Nandakumarpur Amardyuti Gramonnyon Society is located at Sonarpur, West Bengal.",
+  "yearOfEstablishment": "2001"
+}

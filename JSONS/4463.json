@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Dr. Ram Lade",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4463",
+  "name": "Vivekanand  Vaidyak Pratishthan",
+  "primaryEmail": "vivekanand.pratisthan@gmail.com",
+  "website": "http:/www.vvponline.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service"
+  ],
+  "telephone": [
+    "919422406901"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Shatayu Hospital ,",
+      "Oppo. Z.P. School",
+      "Bamnoli , Tal- Miraj ,Dist-Sangli",
+      "Sangli",
+      "Maharashtra",
+      "416436"
+    ]
+  }
+}

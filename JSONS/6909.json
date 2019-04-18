@@ -1,0 +1,37 @@
+{
+  "contacts": [
+    {
+      "name": "Ms. Vicki Taylor",
+      "email": "development@rootinstitute.ngo",
+      "designation": "Development Officer",
+      "mobile": [
+        "91-631-2200548",
+        "91-9631016182"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6909",
+  "name": "Root Institute for Wisdom Culture Charitable Trust",
+  "primaryEmail": "info@rootinstitute.ngo",
+  "website": "https://www.rootinstitute.ngo/",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "916312200714",
+    "916312200548",
+    "919934249989"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "Saxena Road",
+      "Bodhgaya",
+      "Gaya",
+      "Bihar",
+      "824231"
+    ]
+  },
+  "briefDescription": "A Buddhist meditation centre, providing an ideal location for the study and practice of meditation and philosophy. The Centre has established social service projects - a clinic and school - benefiting Bodhgaya and the neighbouring villages:- Shakyamuni Buddha Clinic - a free hospital serving impoverished, local people- Maitreya School - a primary school providing free education for local children.",
+  "yearOfEstablishment": "1984"
+}

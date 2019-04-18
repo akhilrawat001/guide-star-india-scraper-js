@@ -1,0 +1,36 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10356",
+  "name": "The Cancer Charity",
+  "primaryEmail": "donorservices@thecancercharity.org",
+  "website": "www.thecancercharity.org",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919212173711"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "A-50,1st Floor",
+      "Sector-61",
+      "Noida",
+      "Gautam Buddha Nagar",
+      "Uttar Pradesh",
+      "201301"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "BB-9G, 3rd Floor,",
+      "DDA Flats,",
+      "Munirka",
+      "South Delhi",
+      "Delhi",
+      "110067"
+    ]
+  }
+}

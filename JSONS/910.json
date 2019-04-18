@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Shanti Mishra",
+      "email": "",
+      "designation": "NA",
+      "mobile": []
+    },
+    {
+      "name": "Shanti Mishra",
+      "email": "",
+      "designation": "NA",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=910",
+  "name": "Youth Service Centre Angul",
+  "primaryEmail": "bijaymohapatra_2009@rediffmail.com",
+  "telephone": [
+    "916764236836",
+    "916764236836"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "AT/PO-HAKIMPADA ,",
+      "ANGUL",
+      "Angul",
+      "Odisha",
+      "759143"
+    ]
+  }
+}

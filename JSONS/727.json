@@ -1,0 +1,42 @@
+{
+  "contacts": [
+    {
+      "name": "V P Jacob",
+      "email": "",
+      "designation": "Administration-in-charge",
+      "mobile": []
+    },
+    {
+      "name": "V P Jacob",
+      "email": "",
+      "designation": "Administration-in-charge",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=727",
+  "name": "Comet Media Foundation",
+  "primaryEmail": "cometmediafdn@gmail.com",
+  "website": "www.cometmedia.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "912222870668",
+    "919820509179",
+    "912222876033"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "301 Meher House",
+      "15 Cawasji Patel Street, Fort",
+      "Mumbai",
+      "Maharashtra",
+      "400001"
+    ]
+  },
+  "briefDescription": "Media for education and social change",
+  "yearOfEstablishment": "1991"
+}

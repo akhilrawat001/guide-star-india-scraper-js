@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Dr.Amar Budukh",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3424",
+  "name": "MAMTA FOUNDATION",
+  "primaryEmail": "mamta_foundation@rediffmail.com",
+  "website": "www.mamtafoundation.org.in",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "919850114797",
+    "919604519451"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Survey no 60/1/2/3,Dalvi Building,1st Floor",
+      "Lane no 14,Sai nagar",
+      "Kondhwa(Bk),Pune",
+      "Pune",
+      "Maharashtra",
+      "411048"
+    ]
+  }
+}

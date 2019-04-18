@@ -1,0 +1,35 @@
+{
+  "contacts": [
+    {
+      "name": "Dr. Dhiren Dave",
+      "email": "bsk.indori@gmail.com",
+      "designation": "treasurer",
+      "mobile": [
+        "91-2114-242357"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6816",
+  "name": "Bharti Sanskar Kendra",
+  "primaryEmail": "bskindori@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919823114363"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Tolani Maritime Institute,II/G2,Faculty Housing,",
+      "Induri Village,Maval Taluka,",
+      "Induri Village",
+      "Pune",
+      "Maharashtra",
+      "410507"
+    ]
+  },
+  "briefDescription": "We mainly work for Women and child related activities like Health,Education, Skill development and entreprenuership development activitieS.Located in Indru village at Pune.",
+  "yearOfEstablishment": "2010"
+}

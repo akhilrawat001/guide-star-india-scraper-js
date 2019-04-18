@@ -1,0 +1,30 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2612",
+  "name": "NEHRU ANCHALIKA VIKASH PARISAD",
+  "primaryEmail": "navp.mbj@gmail.com",
+  "telephone": [
+    "916792253805",
+    "919439443574"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "AT- LAL BAZAR, NEAR HOTEL SWAGAT,",
+      "W.N.-5, BARIPADA",
+      "Mayurbhanj",
+      "Odisha",
+      "757001"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Odisha",
+    "address": [
+      "At/Po-Paikasahi, Via-Jugpura",
+      "Paikasahi",
+      "Mayurbhanj",
+      "Odisha",
+      "757052"
+    ]
+  }
+}

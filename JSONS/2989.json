@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "KAPIL DEV SHARMA",
+      "email": "shubhsankalp@rediffmail.com",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2989",
+  "name": "SHUBH SANKALP SANSTHA",
+  "primaryEmail": "shubhsankalp@rediffmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919891603030"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "D-6/53",
+      "DAYAL PUR EXTN.",
+      "DELHI",
+      "East Delhi",
+      "Delhi",
+      "110094"
+    ]
+  }
+}

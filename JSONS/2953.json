@@ -1,0 +1,27 @@
+{
+  "contacts": [
+    {
+      "name": "Anita Pandharinath Shinde",
+      "email": "",
+      "designation": "Chairman",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2953",
+  "name": "Sankalp Sadhana",
+  "primaryEmail": "sssakola@gmail.com",
+  "telephone": [
+    "919422863157"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Kapileshwar Apartment",
+      "No. 1, Flat No 6",
+      "Ranpise Nagar",
+      "Akola",
+      "Maharashtra",
+      "444005"
+    ]
+  }
+}

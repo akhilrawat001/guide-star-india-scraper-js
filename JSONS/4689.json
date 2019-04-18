@@ -1,0 +1,26 @@
+{
+  "contacts": [
+    {
+      "name": "Ajit Kumar Panigrahi",
+      "email": "ajitcap@rediffmail.com",
+      "designation": "General Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4689",
+  "name": "Centre for Associated Progress (CAP)",
+  "primaryEmail": "capodisha@gmail.com",
+  "telephone": [
+    "919937328017"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "At/Po-Kokalaba",
+      "Ps-Narasinghpur",
+      "Cuttack",
+      "Odisha",
+      "754032"
+    ]
+  }
+}

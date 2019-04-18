@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Sharon",
+      "email": "sharon.sr2810@gmail.com",
+      "designation": "Managing Trustee",
+      "mobile": [
+        "91-9560024618"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5162",
+  "name": "Justice Gatikrushna Misra Memorial Hospital",
+  "primaryEmail": "birajamisra@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919810400190"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "AT/ PO: BALADIABANDHA",
+      "NH-42, OPPOSITE- OMFED",
+      "DHENKANAL",
+      "Dhenkanal",
+      "Odisha",
+      "759027"
+    ]
+  }
+}

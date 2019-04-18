@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Aditya Mohan B G",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5460",
+  "name": "SELF ORGANISATION",
+  "primaryEmail": "selfskilldevelopment@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "914065544339",
+    "914065544339"
+  ],
+  "mainAddrress": {
+    "state": "Telangana",
+    "address": [
+      "h.no.4-12/3/2,budhanagar,boduppal depot",
+      "peerzadiguda,ghatkesar mandal",
+      "hyderabad",
+      "Hyderabad",
+      "Telangana",
+      "500092"
+    ]
+  }
+}

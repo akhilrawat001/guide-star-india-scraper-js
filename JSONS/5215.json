@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "Sadhana Streubel",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "9424094994"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5215",
+  "name": "Kalyani Samudayik Vikas Sansthan",
+  "primaryEmail": "kalyani_instcommdev@yahoo.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919424094994",
+    "917869681661"
+  ],
+  "mainAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "12, Dhyana Road, Kavchha",
+      "Katthiwada",
+      "Alirajpur",
+      "Madhya Pradesh",
+      "457885"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "contacts": [
+    {
+      "name": "Rakesh Ramesh Kamble",
+      "email": "rakeshdtcnk.tna@gmail.com",
+      "designation": "Secretary",
+      "mobile": [
+        "91-9420744332"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10249",
+  "name": "AVHAN BAHUUDESHIYA VIKAS SANSTHA",
+  "primaryEmail": "avhan.org@gmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919420744332"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "4,Nil Laxmi Apartment,Bhagawati Nagar,Hirawadi,Panchavati",
+      "Near Tulja Bhavani Mandir",
+      "Nashik",
+      "Maharashtra",
+      "422003"
+    ]
+  },
+  "briefDescription": "Our newly formed organization arranges various activities related to social, educational, medical, agriculture and environmental development.",
+  "yearOfEstablishment": "2017"
+}

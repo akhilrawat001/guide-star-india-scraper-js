@@ -1,0 +1,38 @@
+{
+  "contacts": [
+    {
+      "name": "Arnab Bhattacharya",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "9435190397"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6158",
+  "name": "SWABALAMBI (Society for Rehabilitation and Training of Persons with Multiple Disabilities)",
+  "primaryEmail": "swabalambi57@gmail.com",
+  "website": "www.swabalambi.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919435190397",
+    "919854077793"
+  ],
+  "mainAddrress": {
+    "state": "Assam",
+    "address": [
+      "House 14,Gandhi Basti Road",
+      "Opposite Silpukhuri P.O",
+      "Guwahati",
+      "Kamrup Metropolitan",
+      "Assam",
+      "781003"
+    ]
+  },
+  "briefDescription": "Swabalambi is a Community Based Organization practising Community Based Rehabilitation(CBR) for equalization of opportunitinities and Rights and inclusion/mainstreaming of all Persons with Disabilities(PWD's)within their communities.Swabalambi works in 140 villages at 12 gaon Panchayats in Dimoria Block,Kamrup District(M).It is facilitating services at the doorstep of more than 600 PWD's with the help of 12 trained CBR workers.Our Motto is \"Nothing for Us Without US\".",
+  "yearOfEstablishment": "1997"
+}

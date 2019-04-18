@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Swami Nityajuktananda Abadhuta",
+      "email": "parthasarathibhumasukh2009@gmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8690",
+  "name": "SHRI SHRI PARTHA SARATHI BHUMA SUKH ASHRAM",
+  "primaryEmail": "parthasarathibhumasukh2009@gmail.com",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "903325490234",
+    "919804737781"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Shri Shri Partha Sarathi Bhuma Sukh Ashram",
+      "Ganga Nidaya Ghat, Prachin Mayapur",
+      "Nabadwip",
+      "Nadia",
+      "West Bengal",
+      "741302"
+    ]
+  }
+}

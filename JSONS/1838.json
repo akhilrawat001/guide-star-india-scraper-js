@@ -1,0 +1,49 @@
+{
+  "contacts": [
+    {
+      "name": "Vandana Thottoli",
+      "email": "",
+      "designation": "Program Associate",
+      "mobile": []
+    },
+    {
+      "name": "Vandana Thottoli",
+      "email": "",
+      "designation": "Program Associate",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1838",
+  "name": "Yugantar",
+  "primaryEmail": "info@yugantar.org.in",
+  "website": "www.yugantar.org.in",
+  "organisationType": [
+    "Advocacy & Campaigning"
+  ],
+  "telephone": [
+    "914023449194",
+    "914023449193",
+    "914023449193"
+  ],
+  "mainAddrress": {
+    "state": "Telangana",
+    "address": [
+      "3-4-142/6",
+      "Barkatpura,",
+      "Hyderabad",
+      "Telangana",
+      "500027"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "No.8",
+      "5th Main, 7th Cross",
+      "Bangalore Urban",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560003"
+    ]
+  }
+}

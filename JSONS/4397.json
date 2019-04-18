@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "RAJESH AMOLI",
+      "email": "janshaktifoundation@rediffmail.com",
+      "designation": "CHAIRPERSON",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4397",
+  "name": "JAN SHAKTI Society",
+  "primaryEmail": "janshaktifoundation@rediffmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "917830005444"
+  ],
+  "mainAddrress": {
+    "state": "Uttarakhand",
+    "address": [
+      "S.C.O. 9&10, 2nd FLOOR, UTTARANCHAL COMPLEX, NEAR VIDHAN SABHA",
+      "HARIDWAR ROAD,",
+      "DEHRADUN",
+      "Dehradun",
+      "Uttarakhand",
+      "248001"
+    ]
+  }
+}

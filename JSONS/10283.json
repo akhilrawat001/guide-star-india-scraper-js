@@ -1,0 +1,36 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10283",
+  "name": "Vasantham Trust",
+  "primaryEmail": "vasanthamtrust2005@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919362512343"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "4/1058",
+      "Sangothipalayam",
+      "Karanampettai",
+      "Tiruppur",
+      "Tamil Nadu",
+      "641401"
+    ]
+  },
+  "briefDescription": "Vasantham Trust is located in Tiruppur, Tamil Nadu.",
+  "yearOfEstablishment": "2005",
+  "regiseredAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "16/47A,",
+      "Alanchi Post",
+      "Kadamankuzhi",
+      "Kanyakumari",
+      "Tamil Nadu",
+      "629159"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "contacts": [
+    {
+      "name": "SUKCHAND BARMAN",
+      "email": "sukchand_msw@yahoo.com",
+      "designation": "PRESIDENT",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5757",
+  "name": "BARBARIA RURAL WELFARE SOCIETY",
+  "primaryEmail": "sukchand_msw@yahoo.com",
+  "telephone": [
+    "919903449858"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "VILL+P.O- BARBARIA, P.S- BHUPATINAGAR,",
+      "SUB-DIV- CONTAI",
+      "CONTAI",
+      "East Medinipur",
+      "West Bengal",
+      "721626"
+    ]
+  }
+}

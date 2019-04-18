@@ -1,0 +1,41 @@
+{
+  "contacts": [
+    {
+      "name": "Sundar Thirugnanam",
+      "email": "sundar.t@fundacause.in",
+      "designation": "Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4991",
+  "name": "Fund A Cause Foundation",
+  "primaryEmail": "sundar.t@fundacause.in",
+  "website": "http://www.fundacause.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919632854545"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "No. 10, 2nd Floor, 1st Main, Krishna Reddy Layout,",
+      "Hormavu Main Road, Doddabanaswadi",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560043"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "Not provided",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560043"
+    ]
+  }
+}

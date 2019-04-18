@@ -1,0 +1,37 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=149",
+  "name": "Bangalore Oniyavara Seva Coota",
+  "primaryEmail": "cyriacsdb@hotmail.com",
+  "website": "www.boscoban.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918064506807",
+    "919448936620"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "BOSCO Sumanahalli, Malgala Road",
+      "Vishvaneedam Post",
+      "Bangalore",
+      "Bengaluru (Bangalore) Rural",
+      "Karnataka",
+      "560091"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "BOSCO Yuvakendra, D-12",
+      "1st Cross, Magadi Road",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560047",
+      "AP_TelBill_49.PDF"
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Bimalendu Kayal",
+      "email": "kayalbwwa@gmail.com",
+      "designation": "CEO",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2721",
+  "name": "BENGAL WOMEN WELFARE ASSOCIATION",
+  "primaryEmail": "kayalbwwa@gmail.com",
+  "telephone": [
+    "913324174083",
+    "913340013077",
+    "919433051510"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "1/1Q, PRINCE GOLAM MD SHAH ROAD",
+      "Kolkata",
+      "West Bengal",
+      "700095"
+    ]
+  },
+  "briefDescription": "A NON PROFIT ORGANIZATION MOSTLY DEALS WITH WOMEN SELF HELP GROUPS/BANK LINKAGES/ORGANIZATION OF TRAINING PROGRAM/ORGANIZING TWO CLUSTER DEVELOPMENT PROGRAM.",
+  "yearOfEstablishment": "2009"
+}

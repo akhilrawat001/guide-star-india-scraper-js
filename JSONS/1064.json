@@ -1,0 +1,44 @@
+{
+  "contacts": [
+    {
+      "name": "T Mercy Annapoorani",
+      "email": "",
+      "designation": "Managing Trustee",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1064",
+  "name": "Blossom Trust",
+  "primaryEmail": "blossomtrust@gmail.com",
+  "website": "www.blossomtrust.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service"
+  ],
+  "telephone": [
+    "914562269238",
+    "914562269236",
+    "914562269236"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "77 Sekkilar Street",
+      "Virudhunagar",
+      "Tamil Nadu",
+      "626001"
+    ]
+  },
+  "briefDescription": "The social, economic and cultural empowerment of underprivileged women and children living in Virudhunagar District, Tamil Nadu has been Blossom Trust’s focus since 1993.  Over time, this vision has become focused on providing treatment and support for those living with HIV/AIDS and TB and building capacity building programmes and advocacy networks for the most disadvantaged members of our community. We operate in all 11 blocks of Virudhunagar District and 3 blocks of Kanchipuram District.Our objectives are:To make sure certain community frameworks are developed, ensuring women and children’s issues are properly addressed.To ensure communities have greater access and control over their resources.To facilitate a process, wherein community knowledge and resources are preserved and shared by fair and mutual exchange.To continually develop Blossom so that the organization can give a voice to the voiceless.Our goal is to create a strong foundation for self-sufficiency and community ownership.",
+  "yearOfEstablishment": "1993",
+  "regiseredAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "12-4/24, Railar Nagar,",
+      "4th Street",
+      "Madurai",
+      "Tamil Nadu",
+      "625018"
+    ]
+  }
+}

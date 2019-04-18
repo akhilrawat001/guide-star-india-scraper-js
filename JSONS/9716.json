@@ -1,0 +1,38 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9716",
+  "name": "BHOJ SHODH SANSTHAN",
+  "primaryEmail": "bhojshodh@gmail.com",
+  "website": "www.bhojshodhsansthan.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "917292416200"
+  ],
+  "mainAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "55 Shubhash Marg",
+      "vikram gyan mandir lal bag parisar",
+      "DHAR",
+      "Dhar",
+      "Madhya Pradesh",
+      "454001"
+    ]
+  },
+  "briefDescription": "Bhoj Shodh Sansthan is located in Dhar, Madhya Pradesh.",
+  "yearOfEstablishment": "2010",
+  "regiseredAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "Vikram Gyan Mandir",
+      "Lal Bag Parisar",
+      "Dahr",
+      "Dhar",
+      "Madhya Pradesh",
+      "454001"
+    ]
+  }
+}

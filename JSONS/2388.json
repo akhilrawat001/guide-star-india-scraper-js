@@ -1,0 +1,34 @@
+{
+  "contacts": [
+    {
+      "name": "Mohan Kumar",
+      "email": "mohankumar1956@gmail.com",
+      "designation": "Office Secretary",
+      "mobile": [
+        "91-9818660444"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2388",
+  "name": "DELHI BHARTIYA GRAMEEN MAHILA SANGH",
+  "primaryEmail": "mohankumar1956@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "911126142388",
+    "911126142388"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "Delhi Bhartiya Grameen Mahila Sangh, B - 13, Greater Kailash- Part - I.",
+      "Hans Raj Gupta Marg.",
+      "New Delhi",
+      "Delhi",
+      "110048"
+    ]
+  },
+  "briefDescription": "Delhi Bhartiya Grameen Mahila sangh is social voluntary organisation it is established in 1963 and registerd in 1978 and working for women and child development & empowered to women and girl child in the rural areas  of Delhi with education and nutrition hygiene and computer education to poor and enabled child and skill development of the child.",
+  "yearOfEstablishment": "1963"
+}

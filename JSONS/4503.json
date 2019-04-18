@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "S.W.Zadgaonkar",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4503",
+  "name": "SWEEKAR ASSOCIATION OF PARENTS OF MENTALLY RETARDED, AUTISTIC,C.P AND MULTIPLE DISABLED CHILDREN",
+  "primaryEmail": "sweekarnagpur@yahoo.in",
+  "website": "www.sweekarnapur.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "917122225766",
+    "917122225766"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "9, Kasturba Bhawan,",
+      "249/2 Bajaj Nagar,",
+      "Nagpur",
+      "Maharashtra",
+      "440010"
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "contacts": [
+    {
+      "name": "Chandra Kishore",
+      "email": "",
+      "designation": "Secretary",
+      "mobile": []
+    },
+    {
+      "name": "Chandra Kishore",
+      "email": "",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1098",
+  "name": "Shiv Shiva ‘Sneh’ Sanstha",
+  "primaryEmail": "sneh@snehsanstha.in",
+  "website": "www.snehsanstha.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "915482230849",
+    "919415281386"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "Phullanpur  (fatehpur sikandar)",
+      "Bikapur",
+      "Ghazipur",
+      "Uttar Pradesh",
+      "233001"
+    ]
+  },
+  "briefDescription": "To work on economic and social problems of the poor and under privileged, particularly women, by organizing them into community based groups.To empower Women and build capacity by providing information and knowledge regarding local self-governance.To mobilize women through training , networking and by providing institutional support to contest elections and bring about gender equity in local self-governance.To provide education in tribal and other marginalized sections through formal and innovative non-formal programms.To increase awareness on environmental issues and to work for environment conservation, solid waste management, climate controls.To establish a culture of humanism through promotion of social justice and to secure entailments for deprives sections of society through public interest litigation and advocacy.To aware the people about their consumer rights.To establish income generate programme .",
+  "yearOfEstablishment": "2002"
+}

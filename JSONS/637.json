@@ -1,0 +1,48 @@
+{
+  "contacts": [
+    {
+      "name": "Sadhana Dadhich",
+      "email": "",
+      "designation": "Chief Executive",
+      "mobile": [
+        "91-20-25652324"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=637",
+  "name": "Nari Samata Manch",
+  "primaryEmail": "nsm82@bsnl.in",
+  "website": "www.narisamatamanch.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service"
+  ],
+  "telephone": [
+    "912024494652",
+    "912024473116",
+    "919822314992"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "473, Sadashiv Peth",
+      "Opp Lane to New English School",
+      "Pune",
+      "Maharashtra",
+      "411030"
+    ]
+  },
+  "briefDescription": "we are working towards building awareness against gender based voilence. through Family councelling centre. We run Karkari tribal children's kheghar for education",
+  "yearOfEstablishment": "1987",
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "1201, Shirole Road",
+      "B-1, Seema Apt.",
+      "Pune",
+      "Maharashtra",
+      "411004",
+      "AP_TelBill_555.PDF"
+    ]
+  }
+}

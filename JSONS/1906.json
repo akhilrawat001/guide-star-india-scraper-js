@@ -1,0 +1,45 @@
+{
+  "contacts": [
+    {
+      "name": "Amit Gori",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "25914423"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1906",
+  "name": "AADHAR SKILL DEVELOPMENT TRUST",
+  "primaryEmail": "info@aadharskilldevelopment.org",
+  "website": "http://www.aadharskilldevelopment.org",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "912225914423",
+    "912225914423"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Oswal Niwas, Block No. 3,",
+      "Sarojini Naidu Road, Mulund (W)",
+      "Mumbai",
+      "Maharashtra",
+      "400080"
+    ]
+  },
+  "briefDescription": "Enabling the lesser privileged members of the community to become economically independent , self – reliant and to help them enhance and improve their quality of life.To provide vocational trainings to its members with the objective of empowering them and developing skills to help them find gainful employment.",
+  "yearOfEstablishment": "2012",
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "E-4 , Shanti Bhuvan",
+      "Sarojini Naidu Road, Mulund (W)",
+      "Mumbai",
+      "Maharashtra",
+      "400080"
+    ]
+  }
+}

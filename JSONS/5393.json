@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "name": "Sunil Kumar Kushwaha",
+      "email": "umksjhansi@rediffmail.com",
+      "designation": "secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5393",
+  "name": "UTKRASHT MANAV KALYAN SAMITI",
+  "primaryEmail": "umksjhansi@rediffmail.com",
+  "website": "no",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919415968545"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "village - nai pali pahari",
+      "Post - Raksa",
+      "Jhansi",
+      "Uttar Pradesh",
+      "284419"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "not provided",
+      "Jhansi",
+      "Uttar Pradesh",
+      "284419"
+    ]
+  }
+}

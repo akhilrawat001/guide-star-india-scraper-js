@@ -1,0 +1,27 @@
+{
+  "contacts": [
+    {
+      "name": "Madaneshwar Jha",
+      "email": "",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1492",
+  "name": "Pragati Luyadih",
+  "primaryEmail": "pragati206@gmail.com",
+  "telephone": [
+    "916572745206",
+    "919431542538"
+  ],
+  "mainAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "At-Palidih",
+      "P.o-Rasunchopa",
+      "West Singhbhum",
+      "Jharkhand",
+      "831002"
+    ]
+  }
+}

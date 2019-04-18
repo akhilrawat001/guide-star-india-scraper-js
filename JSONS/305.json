@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "Harendra Kumar Singh",
+      "email": "h.kumarvikasvihar@gmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=305",
+  "name": "Vikas Vihar",
+  "primaryEmail": "vikasvihar@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "916152236266",
+    "919431216322",
+    "916152236266"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "First Floor of Chapra X-ray Clinic Gopeshwar Nagar, Chapra",
+      "Saran",
+      "Bihar",
+      "841301"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Bihar",
+    "address": [
+      "Bihar"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "contacts": [
+    {
+      "name": "Pankj.Dave",
+      "email": "",
+      "designation": "dy.presedent",
+      "mobile": []
+    },
+    {
+      "name": "Pankj.Dave",
+      "email": "",
+      "designation": "dy.presedent",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2034",
+  "name": "LOK HIR FOUNDATION",
+  "primaryEmail": "rbparekh09@gmail.com",
+  "website": "www.adijatigvtrust.org",
+  "organisationType": [
+    "Direct Service",
+    "Grant-making",
+    "Support"
+  ],
+  "telephone": [
+    "912772228696",
+    "912772228696",
+    "919624111794"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "11.Eaklingjisocity",
+      "Nr.S.T.Workshop.motipura",
+      "Himatnagar",
+      "Sabarkantha",
+      "Gujarat",
+      "313004"
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10802",
+  "name": "YUVA URBAN INITIATIVES",
+  "primaryEmail": "info@yuiindia.org",
+  "website": "https://yuvaurbaninitiatives.wordpress.com",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "917506891098"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "YUVA Centre, Plot No 23, Sector 7",
+      "Kharghar",
+      "Navi Mumbai",
+      "Raigad",
+      "Maharashtra",
+      "410210"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "86 D, AD Block, Shalimar Bagh",
+      "Delhi",
+      "North West Delhi",
+      "110088"
+    ]
+  }
+}

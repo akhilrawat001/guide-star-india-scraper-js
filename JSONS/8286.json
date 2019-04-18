@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Prem Yadav",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8286",
+  "name": "Pratham Infotech Foundation",
+  "primaryEmail": "prem.yadav@pif.org.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919702999791"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "78 / A, Kamgar Nagar,",
+      "S. G. Barve Marg,",
+      "Kurla (East),",
+      "Mumbai",
+      "Maharashtra",
+      "400024"
+    ]
+  }
+}

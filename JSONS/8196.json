@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Dnyaneshwar Bhagyawant",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8196",
+  "name": "Vikas Bahuuddeshiya Sanstha",
+  "primaryEmail": "vikasbsanstha@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918888050331"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Kamgar colony,",
+      "Gally No. 9,",
+      "Chikalthana,Aurangabad.",
+      "Aurangabad",
+      "Maharashtra",
+      "431007"
+    ]
+  },
+  "briefDescription": "Vikas Bahuuddeshiya Sanstha Is Located In Maharashtra.",
+  "yearOfEstablishment": "2013"
+}

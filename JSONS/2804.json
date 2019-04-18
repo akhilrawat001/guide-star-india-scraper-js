@@ -1,0 +1,35 @@
+{
+  "contacts": [
+    {
+      "name": "Devjyoti Jwardar",
+      "email": "drsagarguha.pshysx@gmail.com",
+      "designation": "Director",
+      "mobile": [
+        "91-755-2559533",
+        "91-7489468484"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2804",
+  "name": "DANIEL JOHN MEMORIAL WELFARE AND EDUCATION SOCIETY SAMITI",
+  "primaryEmail": "djmwes@rediffmail.com",
+  "website": "www.djmwes.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919977002284",
+    "917489468484"
+  ],
+  "mainAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "MIG-105, PUHPAM APARTMENT",
+      "Opp. BHARAT TALKIES, HAMIDIA ROAD",
+      "BHOPAL",
+      "Bhopal",
+      "Madhya Pradesh",
+      "462001"
+    ]
+  }
+}

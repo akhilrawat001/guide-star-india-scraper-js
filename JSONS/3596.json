@@ -1,0 +1,40 @@
+{
+  "contacts": [
+    {
+      "name": "Pramila Panda",
+      "email": "wordkjr@rediffmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3596",
+  "name": "Women Organisation for Rural Development (WORD)",
+  "primaryEmail": "wordkjr@rediffmail.com",
+  "website": "www.wordindia.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919437251373"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "WORD,At-khajuria, Po-Akul,Via-Sirigida, Dist-Keonjhar",
+      "Kendujhar",
+      "Odisha",
+      "758076"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Odisha",
+    "address": [
+      "At-khajuria,",
+      "Po-Akul,Via-Sirigida,",
+      "Via-Sirigida,",
+      "Kendujhar",
+      "Odisha",
+      "758076"
+    ]
+  }
+}

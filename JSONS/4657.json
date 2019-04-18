@@ -1,0 +1,26 @@
+{
+  "contacts": [
+    {
+      "name": "Sanjeev Jain",
+      "email": "rajulvds2010@gmail.com",
+      "designation": "Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4657",
+  "name": "Rajul Viklang Palak Abhibhavak Utthan Samiti Vidisha M.P.",
+  "primaryEmail": "rajulvds2010@gmail.com",
+  "telephone": [
+    "919752650751"
+  ],
+  "mainAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "House No 1",
+      "Ward No 11, Bada Bazar",
+      "Vidisha",
+      "Madhya Pradesh",
+      "464001"
+    ]
+  }
+}

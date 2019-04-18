@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Mr.Aliraj Singh",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7679",
+  "name": "Yuva Manch, Baikuntpur",
+  "primaryEmail": "yuvamanch1987@gmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Intermediary"
+  ],
+  "telephone": [
+    "917415110982",
+    "918085742269"
+  ],
+  "mainAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "Ward No.8",
+      "Behind Police Station",
+      "Rewa",
+      "Madhya Pradesh",
+      "486441"
+    ]
+  }
+}

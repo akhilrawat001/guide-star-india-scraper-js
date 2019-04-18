@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Mr.Motiar Rahaman Biswas",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7150",
+  "name": "Gheedah Titumir Gram Vikash Kendra",
+  "primaryEmail": "titumirgbk@gmail.com",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "919903687079"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Vill: Gheedah",
+      "P.O: Nilganj Bazar",
+      "Barrackpore",
+      "North 24 Parganas",
+      "West Bengal",
+      "700121"
+    ]
+  }
+}

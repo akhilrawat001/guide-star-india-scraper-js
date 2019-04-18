@@ -1,0 +1,24 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6548",
+  "name": "Ray Welfare Trust",
+  "primaryEmail": "raywelfaretrustngo@gmail.com",
+  "website": "www.raywelfaretrust.org",
+  "organisationType": [
+    "Direct Service",
+    "Intermediary"
+  ],
+  "telephone": [
+    "919810211104"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "H.No-160, Block-16, Trilokpuri",
+      "Trilokpuri",
+      "Delhi",
+      "East Delhi",
+      "110091"
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1630",
+  "name": "Mohile Parikh Centre For The Visual Arts",
+  "primaryEmail": "santosh.niwate@mohileparikhcenter.org",
+  "website": "www.mohileparikhcenter.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "912222838380",
+    "912222881080",
+    "919619948864"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Oricon House",
+      "2nd Fl, 12-K Dubash Marg, Fort",
+      "Mumbai",
+      "Maharashtra",
+      "400023"
+    ]
+  }
+}

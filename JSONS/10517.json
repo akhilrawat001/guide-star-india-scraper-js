@@ -1,0 +1,38 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10517",
+  "name": "Lokswarajya Film and Television Association",
+  "primaryEmail": "Lokswarajya.india@gmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919920932002",
+    "912225322777"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "104,1st Floor Abhyudaya Apt",
+      "Near Raut High School, Rambhau Fadke Marg",
+      "Thane east",
+      "Thane",
+      "Maharashtra",
+      "400603"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "301,Shantiwansh Apt,House No 264",
+      "Opp NMMC Office",
+      "Ghansoli  goan",
+      "Thane",
+      "Maharashtra",
+      "400701"
+    ]
+  }
+}

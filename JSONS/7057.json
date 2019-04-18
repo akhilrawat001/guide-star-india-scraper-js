@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Meena",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7057",
+  "name": "ALL INDIA PEOPLE'S EDUCATION AWARENESS, RURAL DEVELOPMENT AND LITERACY SOCIETY",
+  "primaryEmail": "meenamittal201@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "9711770608"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "A2/4, Ground Floor,",
+      "Rajouri Garden",
+      "New Delhi",
+      "Delhi",
+      "110027"
+    ]
+  }
+}

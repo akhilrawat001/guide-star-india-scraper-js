@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Aditya Manna",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8275",
+  "name": "Narikeldaha Prayas",
+  "primaryEmail": "prayasnarikeldaha@yahoo.in",
+  "website": "prayasindia.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919732583142"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Narikeldaha, Asnan, Moyna,",
+      "Purba Medinipur",
+      "East Medinipur",
+      "West Bengal",
+      "721642"
+    ]
+  }
+}

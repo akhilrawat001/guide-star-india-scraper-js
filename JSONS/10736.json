@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Hardayesh Kumar Singh",
+      "email": "",
+      "designation": "Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10736",
+  "name": "AKHIL BHARTIYA MANAV KALYAN TRUST",
+  "primaryEmail": "trusthkinfo@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918920446101"
+  ],
+  "mainAddrress": {
+    "state": "Haryana",
+    "address": [
+      "House No 120 Gali No 20 Bhikam Colony",
+      "Tigaon Road Ballabgarh Faridabad Haryana",
+      "Faridabad",
+      "Haryana",
+      "121004"
+    ]
+  },
+  "briefDescription": "Akhil Bhartiya Manav Kalyan Trust is located in Faridabad, Haryana.",
+  "yearOfEstablishment": "2018"
+}

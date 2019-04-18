@@ -1,0 +1,40 @@
+{
+  "contacts": [
+    {
+      "name": "Dr. A.K. Biswas",
+      "email": "bitanorg@gmail.com",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8128",
+  "name": "BITAN INSTITUTE FOR TRAINING AWARENESS AND NETWORKING",
+  "primaryEmail": "bitanorg@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918017638070"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Skyline Apartment Block-E 1A &1B 79",
+      "K.D. Mukherjee Road,",
+      "Kolkata",
+      "West Bengal",
+      "700060"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "342A/1/C, JOYGURU VILLA",
+      "CHARIAL BINA CINEMA MORE",
+      "BUDGE BUDGE",
+      "Kolkata",
+      "West Bengal",
+      "700137"
+    ]
+  }
+}

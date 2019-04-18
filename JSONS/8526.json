@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Gita Brahma",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8526",
+  "name": "PRAGATIPATHE",
+  "primaryEmail": "gitabrahma@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "916632410405",
+    "916632410405"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "Govindtola( Behind Petrol Pump)",
+      "Po- Dhanupali,",
+      "Sambalpur",
+      "Odisha",
+      "768005"
+    ]
+  }
+}

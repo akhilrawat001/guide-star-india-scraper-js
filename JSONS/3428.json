@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "S.Shyam Sundar Reddy",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3428",
+  "name": "Society for Solidarity and Reconstructon",
+  "primaryEmail": "ssr.org@rediffmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919948930990"
+  ],
+  "mainAddrress": {
+    "state": "Telangana",
+    "address": [
+      "SSR, 8-3-228/587, Rahmathnagar, Yousufguda",
+      "Hyderabad",
+      "Telangana",
+      "500045"
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3192",
+  "name": "Milaan - Be The Change",
+  "primaryEmail": "hello@milaanfoundation.org",
+  "website": "www.milaanfoundation.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service"
+  ],
+  "telephone": [
+    "915224109672"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "3/129",
+      "Vidhayak Puram, Vinay Khand, Gomti Nagar",
+      "Lucknow",
+      "Uttar Pradesh",
+      "206010"
+    ]
+  },
+  "briefDescription": "Milaan is a social development organization, which aims to educate, enable, and empower children, especially adolescent girls from disadvantaged communities in India. We believe in the power of every individual to be a changemaker in their own lives and in the communities they come from.",
+  "yearOfEstablishment": "2007",
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "D-2062, 2nd FIoor",
+      "Vasant Kunj, New Delhi",
+      "New Delhi",
+      "Delhi",
+      "110070"
+    ]
+  }
+}

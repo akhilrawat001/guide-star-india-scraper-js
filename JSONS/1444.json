@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "T Joyce Glori",
+      "email": "ttimothy.1962@yahoo.com",
+      "designation": "Financial Trustee",
+      "mobile": [
+        "91-4364-221273",
+        "91-9360319599"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1444",
+  "name": "Social Faith Trust",
+  "primaryEmail": "ttimothy.1962@yahoo.com",
+  "website": "www.velmoc.com/ngo/sftrust",
+  "telephone": [
+    "914364221273",
+    "919360319599"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "River Bank Street",
+      "52, Villiayanallur Post.",
+      "Kutalam",
+      "Nagapattinam",
+      "Tamil Nadu",
+      "609801"
+    ]
+  }
+}

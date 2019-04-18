@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "S I Chowdhury",
+      "email": "",
+      "designation": "Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2913",
+  "name": "Hi-Tech Foundation",
+  "primaryEmail": "babul_9@sify.com",
+  "website": "http://www.hitechedu.org",
+  "telephone": [
+    "913616010899",
+    "913616010899"
+  ],
+  "mainAddrress": {
+    "state": "Assam",
+    "address": [
+      "H/No. 5,",
+      "Senduriali Path, Jonali Bus Stop, RGB Road",
+      "Guwahati",
+      "Kamrup",
+      "Assam",
+      "781024"
+    ]
+  }
+}

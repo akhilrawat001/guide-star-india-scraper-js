@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Sarika Patil",
+      "email": "sarikapatil2017@gmail.com",
+      "designation": "Manager",
+      "mobile": [
+        "91-9373477017"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8787",
+  "name": "VIRTUE BAHUUDESHIY SEVABHAVI SANSTHA",
+  "primaryEmail": "sarikapatil2017@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "9373477017"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Supari Hanuman Road Gokulnath Mohalla",
+      "Infront Of Shri Gujrati Kanya Vidyalay",
+      "Aurangabad",
+      "Maharashtra",
+      "431001"
+    ]
+  }
+}

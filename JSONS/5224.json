@@ -1,0 +1,41 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5224",
+  "name": "JABALA ACTION RESEARCH ORGANISATION",
+  "primaryEmail": "jabalaactionresearch@yahoo.com",
+  "website": "http://www.jabala.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "913324602229",
+    "919830014643"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "221/6B",
+      "RASHBEHARI AVENUE",
+      "KOLKATA",
+      "Kolkata",
+      "West Bengal",
+      "700019"
+    ]
+  },
+  "briefDescription": "Jabala a Human Rights Organisation working on the issue of Human Trafficking; Child Marriage & HIV/AIDS. It also works on social mainstreaming of children of red light areas and slums.Jabala works with 4500+ children and youth in 15 districts of West Bengal.",
+  "yearOfEstablishment": "1992",
+  "regiseredAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "132/1",
+      "DR.S.C.BANERJEE ROAD",
+      "KOLKATA",
+      "Kolkata",
+      "West Bengal",
+      "700010"
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "contacts": [
+    {
+      "name": "Saket  Raj",
+      "email": "bmk_katihar@rediffmail.com",
+      "designation": "Development  Associate",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5147",
+  "name": "BAL MAHILA KALYAN",
+  "primaryEmail": "bmk_katihar@rediffmail.com",
+  "website": "www.balmahilakalyan.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "6452232176",
+    "916452232176"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "ward no--06,  Officer colony",
+      ", vikas Ashram , Mirchaibari  , Katihar",
+      "Mirchaibari",
+      "Katihar",
+      "Bihar",
+      "854105"
+    ]
+  },
+  "briefDescription": "Mission-• To identify with and work along the economically and socially deprived• Enable them to be self-reliant and enjoy a healthy, dignified and sustainable quality of life• And to that end, act as a resource to and collaborate with other agencies - governmental or non-governmental, as well as suitably intervene in policy formulation.",
+  "yearOfEstablishment": "1991",
+  "regiseredAddrress": {
+    "state": "Bihar",
+    "address": [
+      "ward no--06,Officer colony",
+      "vikas Ashram , Mirchaibari  , Katihar",
+      "Mirchaibari",
+      "Katihar",
+      "Bihar",
+      "854105"
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Dr.Ashok",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6997",
+  "name": "Sarvoday Aarogya Nidhi",
+  "primaryEmail": "saumitra10.rdp@gmail.com",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "919824506474"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "Mahesana Highway,",
+      "Char Rasta",
+      "Radhanpur",
+      "Patan",
+      "Gujarat",
+      "385340"
+    ]
+  }
+}

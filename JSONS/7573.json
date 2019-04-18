@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Mr.Maneesh Singh",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7573",
+  "name": "AASTHA INSTITUTE FOR RESEARCH AND DEVELOPMENT",
+  "primaryEmail": "aasthagonda@yahoo.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919415176178"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "182/2",
+      "Civil Lines (near P.C.F.Godown)",
+      "Gonda",
+      "Uttar Pradesh",
+      "271001"
+    ]
+  }
+}

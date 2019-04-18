@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "SADHAN SINHA",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8169",
+  "name": "MOLLARPUR NAI SUVA",
+  "primaryEmail": "mallarpurnaisuva@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "913461263340",
+    "913461263340"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "MALLARPUR ( BANK ROAD)",
+      "VILL-MALLARPUR,",
+      "P.O-MALLARPUR,",
+      "Birbhum",
+      "West Bengal",
+      "731216"
+    ]
+  }
+}

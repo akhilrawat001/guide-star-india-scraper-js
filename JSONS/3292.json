@@ -1,0 +1,26 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3292",
+  "name": "Kala Madhyam",
+  "primaryEmail": "mail@kalamadhyam.org",
+  "website": "www.kalamadhyam.org",
+  "organisationType": [
+    "Direct Service",
+    "Network"
+  ],
+  "telephone": [
+    "India",
+    "9811041058"
+  ],
+  "mainAddrress": {
+    "state": "Haryana",
+    "address": [
+      "Apt. 201, Block 44, Heritage City",
+      "M.G. Road",
+      "Gurgaon",
+      "Gurugram",
+      "Haryana",
+      "122002"
+    ]
+  }
+}

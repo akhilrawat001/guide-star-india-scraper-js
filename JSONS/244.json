@@ -1,0 +1,38 @@
+{
+  "contacts": [
+    {
+      "name": "AK Ganesh",
+      "email": "ganesh@yrgcare.org",
+      "designation": "Chief Program Officer",
+      "mobile": [
+        "91-9840079001"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=244",
+  "name": "Y. R. Gaitonde Medical Educational and Research Foundation",
+  "primaryEmail": "info@yrgcare.org",
+  "website": "http://www.yrgcare.org; http://www,ecokitchen.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Intermediary"
+  ],
+  "telephone": [
+    "914439106664",
+    "919840079001",
+    "914422542939"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "Voluntary Health Services",
+      "Rajiv Gandhi Salai, Taramani",
+      "Chennai",
+      "Tamil Nadu",
+      "600113"
+    ]
+  },
+  "briefDescription": "YRG CARE (as it is known in short) is a not-for-profit organisation located in Chennai, South India working for the prevention of HIV and the care and support of those vulnerable to the disease and those living with HIV since 1993. With a current registration of more than 13000 persons living with HIV, YRGCARE offers a 20-bed inpatient facility, daily outpatient unit attending to more than 80 patients, VCT for about 10 new patients per day and a vast outreach of marginal populations including women in sex work, men having sex with men, injecting drug users and transgendered populations. YRGCARE’s expertise includes a fully functional NABL accredited laboratory, clinical and psychosocial training center, biomedical and behavioural research and an entrepreneurship skills development program for vulnerable women",
+  "yearOfEstablishment": "1985"
+}

@@ -1,0 +1,36 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6625",
+  "name": "SPARSHA",
+  "primaryEmail": "sparshaodisha@gmail.com",
+  "website": "http://sparshaodisha.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919937742807",
+    "919937742807"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "AT/PO-MUKULISHI,VIA-DARADA,756022",
+      "BEHINDSHIVA TEMPLE",
+      "BASTA",
+      "Baleswar",
+      "Odisha",
+      "756022"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Odisha",
+    "address": [
+      "AT/PO-MUKULISHI,VIA-DARADA,P.S-BASTA,DIST-BALASORE",
+      "NEAR SHIVA TEMPLE",
+      "MUKULISHI",
+      "Baleswar",
+      "Odisha",
+      "756022"
+    ]
+  }
+}

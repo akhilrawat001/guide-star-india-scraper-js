@@ -1,0 +1,46 @@
+{
+  "contacts": [
+    {
+      "name": "Subir Mitra",
+      "email": "subir.mitra.lily@gmail.com",
+      "designation": "Director",
+      "mobile": [
+        "91-33-24026733"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7647",
+  "name": "The Lily Foundation",
+  "primaryEmail": "lilyfoundationofindia@yahoo.co.in",
+  "website": "www.lilyfoundation.org",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "913324026733",
+    "913324026733"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "125/10/1 Chander Village Road",
+      "Kolkata",
+      "South 24 Parganas",
+      "West Bengal",
+      "700082"
+    ]
+  },
+  "briefDescription": "Lily Foundation founded in August 2000 is a non-profit organization dedicated to providing beneficial programs to the people of India. Our focus on programs in Education and Humanitarian Services allows us to make a significant impact on the future of needy familes today and beyond. We have built this foundation on the basic principles of humanity, hope and honesty. At Lily Foundation, educating India’s less-advantaged population is our primary focus. It is through our various educational programs that we create opportunities for young students to not only matriculate but succeed in a relevant career path.",
+  "yearOfEstablishment": "2004",
+  "regiseredAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "125/10/1 Chander Village Road",
+      "KOLKATA",
+      "Kolkata",
+      "West Bengal",
+      "700082"
+    ]
+  }
+}

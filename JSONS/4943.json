@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Mousumi singha chowdhury",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4943",
+  "name": "FRONTLINE SOCIETY",
+  "primaryEmail": "frontlinesociety@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919903500327"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "ï¿½ HIRANMAYEE APPARTMENTï¿½",
+      "KADAMTALA ROAD",
+      "kolkata",
+      "North 24 Parganas",
+      "West Bengal",
+      "743144"
+    ]
+  }
+}

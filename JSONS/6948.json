@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Mr.Vasudevarao.Ch",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6948",
+  "name": "GREEN LIFE",
+  "primaryEmail": "greenlifect@rediffmail.com",
+  "website": "www.greenlifeglobal.org",
+  "organisationType": [
+    "Direct Service",
+    "Intermediary",
+    "Support"
+  ],
+  "telephone": [
+    "918008605222"
+  ],
+  "mainAddrress": {
+    "state": "Telangana",
+    "address": [
+      "12-13-479",
+      "Street No - 1, Tarnaka",
+      "Secunderabad",
+      "Hyderabad",
+      "Telangana",
+      "500017"
+    ]
+  }
+}

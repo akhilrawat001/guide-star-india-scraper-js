@@ -1,0 +1,26 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=193",
+  "name": "Polio Foundation",
+  "primaryEmail": "poliofoundation@gmail.com",
+  "website": "www.poliofoundation.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service"
+  ],
+  "telephone": [
+    "917922140976",
+    "917922172693",
+    "919825051162",
+    "917922172693"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "Nr. Shamla’s Pole, Raipur",
+      "Ahmedabad",
+      "Gujarat",
+      "380001"
+    ]
+  }
+}

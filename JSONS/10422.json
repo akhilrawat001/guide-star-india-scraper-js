@@ -1,0 +1,34 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10422",
+  "name": "CHRIST GOSPEL CHURCH MINISTRIES",
+  "primaryEmail": "pastorraj@hotmail.com",
+  "organisationType": [
+    "Grant-making",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919959385657"
+  ],
+  "mainAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "6-98/B/5",
+      "Duvvada",
+      "Visakhapatnam",
+      "Andhra Pradesh",
+      "530046"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "Plot No 49-A, Door No 39-27-24/1, Second Floor",
+      "Near Marripalem",
+      "Visakhapatnam",
+      "Andhra Pradesh",
+      "530046"
+    ]
+  }
+}

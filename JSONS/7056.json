@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Mr.Vinil Kumar Verma",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7056",
+  "name": "Shyam Lal Foundation",
+  "primaryEmail": "shyamlalfoundation@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919212003455"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "4360, Bhairon Street",
+      "Jogi Wara, Nai Sarak, Chandni Chowk,",
+      "Delhi",
+      "North Delhi",
+      "110006"
+    ]
+  },
+  "briefDescription": "Shyam Lal Foundation it is located in Delhi working for poor people.",
+  "yearOfEstablishment": "2005"
+}

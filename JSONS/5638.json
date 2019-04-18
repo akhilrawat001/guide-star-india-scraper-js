@@ -1,0 +1,37 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5638",
+  "name": "SHRI GURUDEO SHIKSHAN PRASARAK AND BAHUUDESHIYA SEVA SANSTHA MEHKAR",
+  "primaryEmail": "to_shrigurudeo@yahoo.in",
+  "organisationType": [
+    "Direct Service",
+    "Grant-making",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "918411861717"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "WARD NO 7 SWASANAND NAGAR DONGAON",
+      "ROAD MEHKAR TQ MEHKAR DIST BULDANA",
+      "MEHKAR",
+      "Buldhana",
+      "Maharashtra",
+      "443301"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "C/O RAMESHWAR BHAWANI KHANPATE",
+      "MAHADEO  VETAL MEHKAR TQ MEHKAR DIST BULDANA",
+      "MEHKAR",
+      "Buldhana",
+      "Maharashtra",
+      "443301"
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Himanshu Shukla",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "7053471730"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9087",
+  "name": "A WAY OF HAPPINESS EDUCATIONAL SOCIETY",
+  "primaryEmail": "awohesociety@gmail.com",
+  "website": "http://awayofhappinessblog.wordpress.com/",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "917053471730"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "A-945, Sangam Vihar,",
+      "Sangam Vihar",
+      "New Delhi",
+      "South Delhi",
+      "Delhi",
+      "110062"
+    ]
+  }
+}

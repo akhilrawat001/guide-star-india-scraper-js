@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "Ritu Mehra",
+      "email": "pardarshita_india@yahoo.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2881",
+  "name": "Pardarshita",
+  "primaryEmail": "pardarshita.india@gmail.com",
+  "telephone": [
+    "911122356476",
+    "911120033988",
+    "911122356476"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "F-221,",
+      "New Seema Puri",
+      "Delhi",
+      "North East Delhi",
+      "110095"
+    ]
+  }
+}

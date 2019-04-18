@@ -1,0 +1,33 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10429",
+  "name": "SREE JNANODAYA GRAMEENA VIDYA TRUST",
+  "primaryEmail": "jnanodayagrameena@gmail.com",
+  "website": "www.jnanodaya.org",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919449678054"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "No.06, Divine City, M.G.Road, Gangnamidde ward,",
+      "Chikkaballapura",
+      "Karnataka",
+      "562101"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "No.3704, Subramani Building, Muthyalpet, Mulbagal",
+      "Mulbagal",
+      "Kolar",
+      "Karnataka",
+      "563131"
+    ]
+  }
+}

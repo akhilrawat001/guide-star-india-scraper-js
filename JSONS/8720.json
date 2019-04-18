@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Mukund Kumar Shahi",
+      "email": "sewasanstha@gmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8720",
+  "name": "Sewa Sanstha",
+  "primaryEmail": "sewasanstha@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919507689150"
+  ],
+  "mainAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "Ambagan",
+      "Post-Mihijam",
+      "Jamtara",
+      "Jharkhand",
+      "815354"
+    ]
+  }
+}

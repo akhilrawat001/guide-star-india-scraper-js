@@ -1,0 +1,35 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5040",
+  "name": "SHRI KRISHNA BHAKTI SIDDHANTA PUBLIC CHARITABLE TRUST",
+  "primaryEmail": "shrikrishnabhaktisiddhanta@gmail.com",
+  "website": "www.shrikrishnabhaktisiddhanta.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Support"
+  ],
+  "telephone": [
+    "918791687507"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "Flat No.1, First Floor (above UCO Bank), Satya Dham Complex",
+      "Chaitanya Vihar-I",
+      "Vrindavan",
+      "Mathura",
+      "Uttar Pradesh",
+      "281121"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "S1/EWS-264, Kailash Nagar",
+      "Vrindavan",
+      "Mathura",
+      "Uttar Pradesh",
+      "281121"
+    ]
+  }
+}

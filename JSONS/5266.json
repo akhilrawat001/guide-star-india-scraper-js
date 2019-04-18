@@ -1,0 +1,34 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5266",
+  "name": "`ASHA' Association for Sanitation and Health Activities",
+  "primaryEmail": "info@ashaworld.org",
+  "website": "www.ashaworld.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919990664236"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "A2/85, KH No-1624, Ground Floor, Near Kali Mandir",
+      "Phase-V, Aya Nagar Ext.",
+      "New delhi",
+      "South West Delhi",
+      "Delhi",
+      "110047"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Odisha",
+    "address": [
+      "AT-Sarapada",
+      "PO- Harekrishnapur",
+      "Nayagarh",
+      "Odisha",
+      "752087"
+    ]
+  }
+}

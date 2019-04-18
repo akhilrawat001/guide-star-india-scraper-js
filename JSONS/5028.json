@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "K.Raman",
+      "email": "rakindiafoundation@gmail.com",
+      "designation": "Managing Trustee",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5028",
+  "name": "RAK INDIA FOUNDATION",
+  "primaryEmail": "rakindiafoundation@gmail.com",
+  "website": "www.rakindia.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918754012394"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "RAK Villa,Meenakshi Nagar",
+      "Near Brilliant Matriculation Hr.Sec.School",
+      "Vellakinar",
+      "Coimbatore",
+      "Tamil Nadu",
+      "641029"
+    ]
+  }
+}

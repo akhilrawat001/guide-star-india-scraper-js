@@ -1,0 +1,43 @@
+{
+  "contacts": [
+    {
+      "name": "Bina Desai",
+      "email": "desaibeena@hotmail.com",
+      "designation": "Project Coordinator",
+      "mobile": [
+        "91-2717-237651",
+        "91-9898020090"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=189",
+  "name": "Visamo Kids Foundation",
+  "primaryEmail": "info@visamokids.org",
+  "website": "www.visamokids.org",
+  "telephone": [
+    "912717237651",
+    "912717237651",
+    "919724315352"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "Opp Inductotherm, Bopal",
+      "Ahmedabad",
+      "Gujarat",
+      "380058"
+    ]
+  },
+  "briefDescription": "THE BELIEFVisamo Kids is based on the belief that through education we are making fundamental changes in the lives and thoughts of these chlidren, with the anticipation thtq they will turn upgrade their families and community.OUR VISION:We want each child to be confident of them and to be able to stand as an equal in society, with equal number of opportunities in life. We wish to see them as pilots, commandos, CEOs, singers, dancers and be happy with whatever conscious choices they make in life.",
+  "yearOfEstablishment": "2002",
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "B-7/122-A, Safdarjung Enclave",
+      "New Delhi",
+      "Delhi",
+      "110029",
+      "AP_TelBill_89.PDF"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "contacts": [
+    {
+      "name": "Jaishree Manohar Badame",
+      "email": "mjs_latur@yahoo.com",
+      "designation": "Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5763",
+  "name": "Bal Vikas Mahila Mandal",
+  "primaryEmail": "bvmm_latur@yahoo.com",
+  "telephone": [
+    "912382228738",
+    "912382228738"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Sudarshan Colony,",
+      "India Nagar",
+      "Latur",
+      "Maharashtra",
+      "413531"
+    ]
+  }
+}

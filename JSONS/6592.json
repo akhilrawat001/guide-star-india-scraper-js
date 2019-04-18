@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "D.S.Singh",
+      "email": "sgvs_bst@rediffmail.com",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6592",
+  "name": "SADBHAWANA GRAMIN VIKAS SANSTHAN",
+  "primaryEmail": "sgvs_bst@rediffmail.com",
+  "website": "www.sgvsbasti.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919450575727"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "Village-Manhandeeh, Post- Labnapar, District- Basti",
+      "Basti",
+      "Uttar Pradesh",
+      "272002"
+    ]
+  }
+}

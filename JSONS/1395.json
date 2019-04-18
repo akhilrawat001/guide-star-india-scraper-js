@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Salim Akhtar",
+      "email": "salimakhtar2121@yahoo.in",
+      "designation": "General Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1395",
+  "name": "Najmi Academy",
+  "primaryEmail": "najmiacademy@gmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "916712303456",
+    "919853324560"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "Qadri Villa",
+      "Khansama lane,Mani Sahoo Chhak, Buxi Bazar",
+      "Cuttack",
+      "Odisha",
+      "753001"
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "contacts": [
+    {
+      "name": "Deepa Bharti",
+      "email": "s.deepabharti@djjs.org",
+      "designation": "Program Lead, Manthan SVK- Education for underprivileged",
+      "mobile": [
+        "91-11-27020666",
+        "91-9810904888"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5414",
+  "name": "Divya Jyoti Jagrati Sansthan",
+  "primaryEmail": "info@djjs.org",
+  "website": "http://www.djjs.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919810904888",
+    "919818283444"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "Plot No. 3, Pocket O.C.F  , Behind Pushpanjali Enclave",
+      "Pitam Pura Extension, Parvan Road",
+      "New Delhi",
+      "North West Delhi",
+      "Delhi",
+      "110034"
+    ]
+  },
+  "briefDescription": "DJJS is a socio-spiritual organisation working for the welfare of humanity since 1991 through its various social initiatives for the deprived & underprivileged at large.Manthan-SVK- the holistic education program for the underprivileged children of rural and urban slumsAntardrishti- livelihood program for visually & physically challengedAntarkranti- Prisoner's reformation & rehabilitation program",
+  "yearOfEstablishment": "1991",
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "Plot No. 3, Pocket O.C.F, Behind Pushpanjali Enclave",
+      "Pitam Pura Extension,Parvana Road",
+      "New Delhi",
+      "North West Delhi",
+      "Delhi",
+      "110034"
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "contacts": [
+    {
+      "name": "Chandana Sharma",
+      "email": "sharma_chandana@rediffmail.com",
+      "designation": "Treasurer",
+      "mobile": [
+        "91-9435559218"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=318",
+  "name": "Asha Deep (Society for the Mentally Handicapped)",
+  "primaryEmail": "societyashadeep@yahoo.com",
+  "website": "http://www.ashadeepindia.org",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "913612666794",
+    "913612666794"
+  ],
+  "mainAddrress": {
+    "state": "Assam",
+    "address": [
+      "Ashadeep Islampur Road, Gandhi Basti",
+      "Guwahati",
+      "Dhubri",
+      "Assam",
+      "781003"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Assam",
+    "address": [
+      "Assam"
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2193",
+  "name": "PREFACE FOR LITERACY EDUCATION AND AID PLEA",
+  "primaryEmail": "vaibhav_mail@rediffmail.com",
+  "telephone": [
+    "912225807967",
+    "912225807967"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "8/\"Sukhatur\" Apts., Ganesh Ice Cream Lane, Shivaji Chowk, Agra Rd. , Kalyan (W) , 421 301 Thane, Maharashtra",
+      "Opposite Mahavir Shopping Centre",
+      "Kalyan",
+      "Thane",
+      "Maharashtra",
+      "421301"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "8/Sukhatur Apts., Ganesh Ice Cream Lane, Shivaji Chowk, Agra Rd. , Kalyan (W) , 421 301 Thane, Maharashtra",
+      "Opposite Mahavir Shopping Centre",
+      "Kalyan",
+      "Thane",
+      "Maharashtra",
+      "421301"
+    ]
+  }
+}

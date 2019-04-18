@@ -1,0 +1,42 @@
+{
+  "contacts": [
+    {
+      "name": "Dr.Narendra Pandey",
+      "email": "bcpiknp@gmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5517",
+  "name": "BHAWNA SOCIETY FOR DISABLED",
+  "primaryEmail": "bcpiknp@gmail.com",
+  "website": "www.bhawnacpi.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "+919839212389"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "122/688-Shastri Nagar Kanpur",
+      "Near Police Chowki Chauraha",
+      "City",
+      "Kanpur Nagar",
+      "Uttar Pradesh",
+      "208005"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "122/688-Shastri Nagar Kanpur",
+      "Near Police Chwoki Chauraha",
+      "City",
+      "Kanpur Nagar",
+      "Uttar Pradesh",
+      "208005"
+    ]
+  }
+}

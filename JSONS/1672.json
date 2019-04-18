@@ -1,0 +1,27 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1672",
+  "name": "Sark Foundation",
+  "primaryEmail": "info@sarkfoundation.org",
+  "website": "http://www.sarkfoundation.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "+919363212493"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "52.East Street,Uthangal&post,Vridhachal Taluk",
+      "CuddaloreDist,Tamilnadu,India",
+      "Uthangal&post,Vridhachalam Taluk,",
+      "Cuddalore",
+      "Tamil Nadu",
+      "607804"
+    ]
+  }
+}

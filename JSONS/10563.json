@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Bhabatosh Biswas",
+      "email": "",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10563",
+  "name": "Rural National Club",
+  "primaryEmail": "rnc1945@gmail.com",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "919734691994"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Vill & PO- Nabipur,",
+      "Nabipur",
+      "Murshidabad",
+      "West Bengal",
+      "742308"
+    ]
+  }
+}

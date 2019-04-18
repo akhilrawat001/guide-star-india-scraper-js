@@ -1,0 +1,26 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1531",
+  "name": "Panchshil Mahila Mandal",
+  "primaryEmail": "panchshil_mm@rediffmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Intermediary",
+    "Support"
+  ],
+  "telephone": [
+    "912228560979",
+    "919321027931"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "A-11 Prakashdeep Plot",
+      "Kajupada pipeline, (Sakinaka) Kamani Kurla, West",
+      "Mumbai",
+      "Mumbai Suburban",
+      "Maharashtra",
+      "400072"
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "contacts": [
+    {
+      "name": "Carlyle Pereria",
+      "email": "carl@armman.org",
+      "designation": "COO",
+      "mobile": [
+        "91-9930434155"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4747",
+  "name": "ARMMAN (Advancing Reduction in Mortality and Morbidity of Mothers, Children and Neonates)",
+  "primaryEmail": "bipin@armman.org",
+  "website": "www.armman.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "912261668948"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "47/48, Oasis Industrial Complex,",
+      "Nehru Road, Opp. Vakola Masjid, Vakola,",
+      "Santacruz(East), Mumbai",
+      "Mumbai",
+      "Maharashtra",
+      "400055"
+    ]
+  },
+  "briefDescription": "ARMMAN is a non-profit organization committed to improving the wellbeing of pregnant mothers, newborn, infants and children in the first five years of their life. ARMMAN designs and implements sustainable interventions to reduce maternal, neonatal and child mortality and morbidity in underprivileged communities in India.",
+  "yearOfEstablishment": "2008",
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "303-B Alpha",
+      "Main Street, Hiranandani Business Park, Powai",
+      "Mumbai",
+      "Maharashtra",
+      "400076"
+    ]
+  }
+}

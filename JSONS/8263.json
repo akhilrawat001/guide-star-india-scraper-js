@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Balasaheb Rambhau Hawale",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8263",
+  "name": "AMIT SEVABHAVI SANSTHA",
+  "primaryEmail": "amitsevabhavisanstha@gmail.com",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "912442226477",
+    "912442226477"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "At Pothra, Infront Of New Saraswati School,",
+      "Old Dhanora Road, Beed",
+      "Beed",
+      "Maharashtra",
+      "431122"
+    ]
+  }
+}

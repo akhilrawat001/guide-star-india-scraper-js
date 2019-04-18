@@ -1,0 +1,41 @@
+{
+  "contacts": [
+    {
+      "name": "Jitendra Kuruwa",
+      "email": "chaulakuruwa@gmail.com",
+      "designation": "Trustee",
+      "mobile": []
+    },
+    {
+      "name": "Jitendra Kuruwa",
+      "email": "chaulakuruwa@gmail.com",
+      "designation": "Trustee",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1352",
+  "name": "Pramila Kuruwa Foundation",
+  "primaryEmail": "pramilakfoundation@gmail.com",
+  "website": "http://pramilakuruwafoundation.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "917927475968",
+    "919913012120"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "M-3/15",
+      "Pragatinagar",
+      "Ahmedabad",
+      "Gujarat",
+      "380013"
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8577",
+  "name": "VENKATRAMAN MEMORIAL TRUST",
+  "primaryEmail": "js@venkattrust.org.in",
+  "website": "www.venkattrust.org.in",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "917358420509"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "5/281 A, Kailasanathar Kovil Street",
+      "Kovalam",
+      "Kancheepuram District",
+      "Kancheepuram",
+      "Tamil Nadu",
+      "603112"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "contacts": [
+    {
+      "name": "Yanger Jamir",
+      "email": "bwcws_1502@yahoo.com",
+      "designation": "Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2664",
+  "name": "Bacay's Women and Child Welfare Society",
+  "primaryEmail": "bwcws_1502@yahoo.com",
+  "website": "www.bwcws.webs.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919862346827"
+  ],
+  "mainAddrress": {
+    "state": "Nagaland",
+    "address": [
+      "Bwcws 4Th Mile Diphupar",
+      "Village A.R.T.C",
+      "Dimapur",
+      "Nagaland",
+      "797112"
+    ]
+  }
+}

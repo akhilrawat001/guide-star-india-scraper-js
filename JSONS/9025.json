@@ -1,0 +1,36 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9025",
+  "name": "VOCATIO CAREER EDUCATION COUNCIL",
+  "primaryEmail": "info@vocatio.co.in",
+  "website": "www.vocatio.co.in",
+  "organisationType": [
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919703298292"
+  ],
+  "mainAddrress": {
+    "state": "Telangana",
+    "address": [
+      "Bldg No: 8/2/598/A/14, 3rd Floor,",
+      "Road No. 10, Banjara Hills",
+      "Hyderabad",
+      "Telangana",
+      "500034"
+    ]
+  },
+  "briefDescription": "Vocatio is a provider of career education programmes and career counselling services for students in the age group 9-25 years. We develop and design career education programmes for underserved students from Std 6-12, implemented by volunteers in government and low fee private schools.",
+  "yearOfEstablishment": "2015",
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "A3-2,Rajat Rekha, 142/6 , Jai Prakash Road",
+      "Andheri West",
+      "Mumbai",
+      "Maharashtra",
+      "400053"
+    ]
+  }
+}

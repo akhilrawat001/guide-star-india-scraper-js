@@ -1,0 +1,41 @@
+{
+  "contacts": [
+    {
+      "name": "Birendra Kumar",
+      "email": "epnsvk@gmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5474",
+  "name": "Naya Sawera Vikas Kendra",
+  "primaryEmail": "epnsvk@gmail.com",
+  "website": "www.nsvk.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919431556892"
+  ],
+  "mainAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "Shanti Nagar Hearnganj",
+      "Hazaribagh",
+      "Hazaribag",
+      "Jharkhand",
+      "825301"
+    ]
+  },
+  "briefDescription": "Naya Sawera Vikas Kendra is located in Jharkhand.Naya Sawera Vikas Kendra (NSVK), is a local, non-governmental organisation that has been working for the defense of Tribal and Dalit communities in the state of Jharkhand since 1999. When NSVK first began, it had eleven staff members working in 35 villages located in three administrative districts. Currently, NSVK has 92 staff members working in 1050 villages scattered across eight administrative districts. NSVK is nowadays part of bigger organization called Ekta Parishad and located in almost all Indian States. NSVK is in fact a kind of subsidiary of Ekta Parishad in Jharkhand. Through citizen rights education, community-organizing and livelihood development projects, NSVK/EP is supporting marginalized rural communities to mobilize and act for systemic change.  For every tribal village, the final goal is first of all to achieve Gram Swaraj (self-governance) by promoting full community participation in decision making. Following this idea, NSVK has created a new grassroots institution, Gram Ekai which has enabled everybody to make their voice heard (See our page “Political Institutions created”). The second aim is to realize Gram Swawlamban (economic self-reliance) by ensuring effective local control over land, water, forest and livelihood resources",
+  "yearOfEstablishment": "2000",
+  "regiseredAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "not provided",
+      "Hazaribag",
+      "Jharkhand",
+      "825301"
+    ]
+  }
+}

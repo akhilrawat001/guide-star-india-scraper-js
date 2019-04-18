@@ -1,0 +1,27 @@
+{
+  "contacts": [
+    {
+      "name": "Nina Anand",
+      "email": "",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1130",
+  "name": "Friendicoes-SECA (Society for the Erradication of Cruelty to Anilamls)",
+  "primaryEmail": "friendicoes.office@gmail.com",
+  "telephone": [
+    "911124314787",
+    "911124314787"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "271 273 Under Defence Colony",
+      "Flyover Market",
+      "New Delhi",
+      "Delhi",
+      "110024"
+    ]
+  }
+}

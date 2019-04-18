@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Bishnu Pada Pal",
+      "email": "saradarks@gmail.com",
+      "designation": "Project Co-ordinator",
+      "mobile": [
+        "91-3218-240440"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=456",
+  "name": "Sarada Ramkrishna (Sishu O Mahila) Sevashram",
+  "primaryEmail": "saradarks@gmail.com",
+  "website": "http://www.giveindia.org/GetOrganisationProfile.aspx?ngoid=79",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "913218240440",
+    "913218240440",
+    "913218240440"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "South 24 Paraganas",
+      "South 24 Parganas",
+      "West Bengal",
+      "743610"
+    ]
+  }
+}

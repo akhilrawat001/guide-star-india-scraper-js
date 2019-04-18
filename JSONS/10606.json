@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "Mr. Gaurav Kale",
+      "email": "",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10606",
+  "name": "HUMANITY FIRST",
+  "primaryEmail": "humanityfirst.ngo@gmail.com",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "917517704242"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Shop No.03, Dwarkai, Ziral Ali, Block- Pen,",
+      "Raigad",
+      "Maharashtra",
+      "402107"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1115",
+  "name": "Jal Bhagirathi Foundation",
+  "primaryEmail": "jal@jalbhagirathi.org",
+  "website": "www.jalbhagirathi.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network"
+  ],
+  "telephone": [
+    "911412280964",
+    "919928038002"
+  ],
+  "mainAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "D-66 (B)  Sawai Madho Singh Road",
+      "Bani Park",
+      "Jaipur",
+      "Rajasthan",
+      "302016"
+    ]
+  }
+}

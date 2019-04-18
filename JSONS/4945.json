@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Sib Sankar Deb Sharma",
+      "email": "familia877@gmail.com",
+      "designation": "Member",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4945",
+  "name": "FAMILIA",
+  "primaryEmail": "familia877@gmail.com",
+  "website": "www.familiaindia.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919830089459"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Bhaluka, PO-Majhipara",
+      "Opp-River Research Institute",
+      "Kolkata",
+      "North 24 Parganas",
+      "West Bengal",
+      "743145"
+    ]
+  }
+}

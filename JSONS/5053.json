@@ -1,0 +1,26 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5053",
+  "name": "Sai Seva Samithi",
+  "primaryEmail": "saisevasamithi@yahoo.in",
+  "website": "www.saisevasamithi.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "mainAddrress": {
+    "address": []
+  },
+  "briefDescription": "Agriculture, Biotechnology, Disaster Management, Drinking Water, Environment & Forests, Housing, Panchayati Raj, Rural Development & Poverty Alleviation, Tribal Affairs, Vocational Training, Water Resources, Youth Affairs",
+  "yearOfEstablishment": "1984",
+  "regiseredAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "3/28",
+      "krishnamaraju street",
+      "kondur",
+      "YSR District, Kadapa (Cuddapah)",
+      "Andhra Pradesh",
+      "516218"
+    ]
+  }
+}

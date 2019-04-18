@@ -1,0 +1,28 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5452",
+  "name": "Heart of Life",
+  "primaryEmail": "services.heartoflife@gmail.com",
+  "website": "https://sites.google.com/site/heartoflife1991",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919774328707"
+  ],
+  "mainAddrress": {
+    "state": "Manipur",
+    "address": [
+      "Kakching Khongnang Mari Phangbe",
+      "Near Y M High School, P O Kakching",
+      "Kakching",
+      "Thoubal",
+      "Manipur",
+      "795103"
+    ]
+  }
+}

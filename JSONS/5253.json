@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Mr.S.Jhansi Laxmi Bai",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5253",
+  "name": "Newell Organization",
+  "primaryEmail": "newellorg@gmail.com",
+  "website": "www.newellorg.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919848125423"
+  ],
+  "mainAddrress": {
+    "state": "Telangana",
+    "address": [
+      "1-10-34/T2,Modren Mansion Apts,",
+      "Temple Alwal,",
+      "Secunderabad",
+      "Hyderabad",
+      "Telangana",
+      "500010"
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Arun Pal",
+      "email": "kamsngo@gmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7954",
+  "name": "KARMAWATI PAL MEMORIAL SOCIETY",
+  "primaryEmail": "kamsngo@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919452485775"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "5/822,",
+      "Viram Khand Gomti Nagar",
+      "Lucknow",
+      "Uttar Pradesh",
+      "226010"
+    ]
+  }
+}

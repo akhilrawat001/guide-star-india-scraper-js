@@ -1,0 +1,34 @@
+{
+  "contacts": [
+    {
+      "name": "Jaspreet Kaur Pannu",
+      "email": "jaspreet.pannu@literacyindia.org",
+      "designation": "Executive Director",
+      "mobile": [
+        "91-9212809346"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=392",
+  "name": "Literacy India",
+  "primaryEmail": "indraani@literacyindia.org",
+  "website": "http://www.literacyindia.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "911243266826",
+    "911244070238",
+    "911243266826"
+  ],
+  "mainAddrress": {
+    "state": "Haryana",
+    "address": [
+      "J-1365 Palam Vihar",
+      "Gurgaon",
+      "Gurugram",
+      "Haryana",
+      "122017"
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Hassan Khan",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8195",
+  "name": "The Innocent Club Society",
+  "primaryEmail": "theinnocentclubsociety@gmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Intermediary"
+  ],
+  "telephone": [
+    "919529676789"
+  ],
+  "mainAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "1st, Modern Apartment, Eidgah Circle, Chhipabarod Road, Vikas Nagar",
+      "Ward No. 02",
+      "Chhabra",
+      "Baran",
+      "Rajasthan",
+      "325220"
+    ]
+  }
+}

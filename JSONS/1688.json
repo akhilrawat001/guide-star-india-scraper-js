@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "Anita",
+      "email": "jrdtindia@yahoo.com",
+      "designation": "Manager",
+      "mobile": [
+        "91-44-27278450"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1688",
+  "name": "Joseph Rural Development Trust",
+  "primaryEmail": "jrdt_2004@yahoo.com",
+  "website": "http://jrdtindia.blogspot.com/",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "914427278450",
+    "919787179420"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "2",
+      "84 Church street,",
+      "Kanchipuram",
+      "Kancheepuram",
+      "Tamil Nadu",
+      "603403"
+    ]
+  },
+  "briefDescription": "JRDT is a charity organization doing  since 6years  for mainly rural development concern health and education and Child development,We have been served around 23000 people are benefited.,",
+  "yearOfEstablishment": "2004"
+}

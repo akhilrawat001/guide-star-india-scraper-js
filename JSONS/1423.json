@@ -1,0 +1,34 @@
+{
+  "contacts": [
+    {
+      "name": "Krushna Chandra Ray",
+      "email": "crownkc@yahoo.co.in",
+      "designation": "Member Trustee",
+      "mobile": [
+        "91-674-2561396",
+        "91-9438420349"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1423",
+  "name": "Sri Guru Foundation Trust",
+  "primaryEmail": "sray_sriguru@yahoo.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "916742561396",
+    "919438420349"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "Sriguru Niwas",
+      "209(A), Radhakrishna Lane, Sripur",
+      "Jaipur",
+      "Khordha",
+      "Odisha",
+      "751003"
+    ]
+  }
+}

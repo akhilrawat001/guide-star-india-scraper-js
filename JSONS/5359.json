@@ -1,0 +1,32 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5359",
+  "name": "The YP Foundation",
+  "primaryEmail": "blendingspectrum@theypfoundation.org",
+  "website": "www.theypfoundation.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "911146792243",
+    "911146792243"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "N 204, Greater Kailash",
+      "Part 1",
+      "New Delhi",
+      "Delhi",
+      "110048"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "Delhi",
+      "New Delhi",
+      "110048"
+    ]
+  }
+}

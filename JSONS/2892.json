@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "Manish B Patel",
+      "email": "manish_shell@yahoo.co.in",
+      "designation": "Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2892",
+  "name": "Shree Vasundhara Sarvajanik Trust",
+  "primaryEmail": "manish_shell@yahoo.co.in",
+  "telephone": [
+    "917923228894",
+    "917923228894"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "PLOT NO - 308/A-1",
+      "MANGALMURTI PARK SOCIETY, SECTOR-8",
+      "GANDHINAGAR",
+      "Gandhinagar",
+      "Gujarat",
+      "382008"
+    ]
+  }
+}

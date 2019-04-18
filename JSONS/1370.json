@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Aparna Kelkar",
+      "email": "aparna.g.kelkar@gmail.com",
+      "designation": "Hon. Jt. Secretary",
+      "mobile": [
+        "91-20-25443330"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1370",
+  "name": "Swadhar IDWC (Institute for Development of Women & Children)",
+  "primaryEmail": "swadhar@rediffmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "912024533452",
+    "912024533452"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Swadhar, Care of Niwara,",
+      "David Sassoon Anath Pangu Griha,96, Navi Peth",
+      "Pune",
+      "Maharashtra",
+      "411030"
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "contacts": [
+    {
+      "name": "Amita Dubey",
+      "email": "amita@ssism.org",
+      "designation": "Coordinator",
+      "mobile": []
+    },
+    {
+      "name": "Amita Dubey",
+      "email": "amita@ssism.org",
+      "designation": "Coordinator",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6580",
+  "name": "Shri Sant Singaji Educational Society Samiti",
+  "primaryEmail": "amita@ssism.org",
+  "website": "www.ssism.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919926807778"
+  ],
+  "mainAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "Sant Singaji Institute of Science & Management, NH 59 Sandalpur,",
+      "Tehsil Khategaon",
+      "Dewas",
+      "Madhya Pradesh",
+      "455339"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "60 Saket Nagar, 1st Floor",
+      "Indore",
+      "Madhya Pradesh",
+      "452001"
+    ]
+  }
+}

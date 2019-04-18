@@ -1,0 +1,41 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=880",
+  "name": "Oasis India",
+  "primaryEmail": "info@oasisin.org",
+  "website": "http://www.oasisindia.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919342347030",
+    "918041253505",
+    "914443514139"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Oasis India, Flat No. 101,",
+      "Datta Ratna CHS, LT Colony, Dadar East",
+      "Mumbai",
+      "Maharashtra",
+      "400014"
+    ]
+  },
+  "briefDescription": "Oasis India engages with diverse range of partnerships, projects, services and initiatives to benefit the whole person and the whole community. A number of communities we work in are hugely impacted by human trafficking which is a specialist area we have developed expertise in addressing. Oasis area of work covers (1) Outreach (2) Educating for life (3) Accessing resources and opportunities and (4) Community building. In the past three years over 140 women left Red Light Area, rescued and home 35 children who were trafficked into Mumbai, Provided livelihood training to 370 people.",
+  "yearOfEstablishment": "1994",
+  "regiseredAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "No:23/2, Kumaraswami Naidu Road,",
+      "Frazer Town",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560005"
+    ]
+  }
+}

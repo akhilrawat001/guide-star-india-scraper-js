@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "Mrs. Shaikh Gazala",
+      "email": "rubinakalasanstha@gmail.com",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4382",
+  "name": "RUBINA KALA SANSTHA",
+  "primaryEmail": "rubinakalasanstha@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919225312692"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "7 Sattar Seth Building, PadmaPani Colony, Railway Station Road",
+      "Aurangabad",
+      "Maharashtra",
+      "431005"
+    ]
+  }
+}

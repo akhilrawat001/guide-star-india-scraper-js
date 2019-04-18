@@ -1,0 +1,42 @@
+{
+  "contacts": [
+    {
+      "name": "Mr. Subarna Keshari Baliyarsingh",
+      "email": "akssindia@gmail.com",
+      "designation": "Secretary General",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5134",
+  "name": "Anchalika Kunjeswari Sanskrutika Sansad",
+  "primaryEmail": "akssindia@gmail.com",
+  "website": "akssindia.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "916752240200",
+    "916752240200"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "At- Sevanchal",
+      "Po- Kanas",
+      "Dist- Puri",
+      "Puri",
+      "Odisha",
+      "752017"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Odisha",
+    "address": [
+      "not provided",
+      "Dist-Puri",
+      "Puri",
+      "Odisha",
+      "752017"
+    ]
+  }
+}

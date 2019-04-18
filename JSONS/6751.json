@@ -1,0 +1,32 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6751",
+  "name": "GRAM VIKAS PARISHAD",
+  "primaryEmail": "gvpindia@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Intermediary"
+  ],
+  "telephone": [
+    "919430987186"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "Village P.O Ranti",
+      "Ranti",
+      "Madhubani",
+      "Bihar",
+      "847211"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Bihar",
+    "address": [
+      "Village, PO Pilakhwar",
+      "Madhubani",
+      "Bihar",
+      "847211"
+    ]
+  }
+}

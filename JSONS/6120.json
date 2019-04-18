@@ -1,0 +1,42 @@
+{
+  "contacts": [
+    {
+      "name": "Neelam Pol",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6120",
+  "name": "Khel Planet Foundation",
+  "primaryEmail": "reach@khelplanet.org",
+  "website": "http://khelplanet.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service"
+  ],
+  "telephone": [
+    "918879731241"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "10/222, Indira Nagar",
+      "Lucknow",
+      "Uttar Pradesh",
+      "226016"
+    ]
+  },
+  "briefDescription": "Khel Planet aims to nurture 21st century life skills in children (ages 6 years to 14 years) through play and games. Play offers a fun, self-motivating and experiential learning environment to children.  Khel Planet's life skills framework includes 6 core life skill groups - emotional, leadership, collaboration, creativity, cognitive and social & civic engagement skills. We are taking life skills to children through designing games, conducting play workshops with children and setting up toy libraries in schools.  All content is designed for the Indian context and in multiple Indian regional languages.",
+  "yearOfEstablishment": "2014",
+  "regiseredAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "10/222, Indira Nagar",
+      "Indira Nagar",
+      "Lucknow",
+      "Uttar Pradesh",
+      "226016"
+    ]
+  }
+}

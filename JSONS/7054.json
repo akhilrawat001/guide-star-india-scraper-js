@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Dr. A. Kachhap",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "9868721240"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7054",
+  "name": "SOCIETY OF TRIBAL WOMEN FOR DEVELOPMENT",
+  "primaryEmail": "society@stwfd.org",
+  "website": "www.stwfd.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "9868721240"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "F-51 (ground floor), Adarsh enclave,",
+      "Phase - VI,Ayanagar Extension",
+      "New Delhi",
+      "Delhi",
+      "110047"
+    ]
+  }
+}

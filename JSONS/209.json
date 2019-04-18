@@ -1,0 +1,34 @@
+{
+  "contacts": [
+    {
+      "name": "Sonal Sher",
+      "email": "sonalsher@hippocampus.in",
+      "designation": "Fundraising",
+      "mobile": [
+        "91-80-41501724"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=209",
+  "name": "Hippocampus Reading Foundation",
+  "primaryEmail": "learnmore@hippocampus.in",
+  "website": "www.hrfindia.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918041501724",
+    "918041501724"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "#525, 16th Main",
+      "3rd Block, Koramangala",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560034"
+    ]
+  }
+}

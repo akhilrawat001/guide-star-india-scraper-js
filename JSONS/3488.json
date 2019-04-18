@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Alka Ramdas Bagade",
+      "email": "linkage@rediffmail.com",
+      "designation": "Chairman",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3488",
+  "name": "Bhagyalaxmi Mahila Mandal",
+  "primaryEmail": "linkage@rediffmail.com",
+  "telephone": [
+    "912554258208",
+    "912554560319",
+    "912554258208"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Wani Wada ,",
+      "Wavikar Lane Tal Malegaon",
+      "Malegaon",
+      "Nashik",
+      "Maharashtra",
+      "423203"
+    ]
+  }
+}

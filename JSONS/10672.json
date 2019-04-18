@@ -1,0 +1,38 @@
+{
+  "contacts": [
+    {
+      "name": "Sweta Vadhar",
+      "email": "sweta.vadhar@vitraagvigyaan.org",
+      "designation": "NA",
+      "mobile": []
+    },
+    {
+      "name": "Sweta Vadhar",
+      "email": "sweta.vadhar@vitraagvigyaan.org",
+      "designation": "NA",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10672",
+  "name": "Shrimad Rajchandra Aatma Tatva Research Centre",
+  "primaryEmail": "sweta.vadhar@vitraagvigyaan.org",
+  "website": "http://www.vitraagvigyaan.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919820656510"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "702 Sharda Chambers",
+      "15 New Marine Lines",
+      "Mumbai",
+      "Maharashtra",
+      "400020"
+    ]
+  },
+  "briefDescription": "Shrimad Rajchandra Aatma Tatva Research Centre undertakes socio-economic projects for the welfare of  under-privileged, backward and poor population in the fields of Education, Public Health and Women Empowerment. It disseminates peace by inspiring multitudes to embark on the path of self-realization.",
+  "yearOfEstablishment": "2000"
+}

@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "name": "Sona Murmu",
+      "email": "snehadric@gmail.com",
+      "designation": "Scretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5101",
+  "name": "GHOSALDANGA ADIBASI SEVA SANGHA",
+  "primaryEmail": "snehadric@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919434007127"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Ghosaldanga",
+      "Sattore",
+      "Birbhum",
+      "West Bengal",
+      "731236"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "not provided",
+      "Sattore",
+      "Birbhum",
+      "West Bengal",
+      "731236"
+    ]
+  }
+}

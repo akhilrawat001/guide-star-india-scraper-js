@@ -1,0 +1,38 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10921",
+  "name": "OCEAN WELFARE FOUNDATION",
+  "primaryEmail": "oceanwelfarefoundation@gmail.com",
+  "website": "http://owf.org.in/",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "918279502869"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "D 15",
+      "Sector 6",
+      "Noida",
+      "Gautam Buddha Nagar",
+      "Uttar Pradesh",
+      "201301"
+    ]
+  },
+  "briefDescription": "OCEAN WELFARE FOUNDATION IS WORKING FOR HEALTH EDUCATION AND FOOD. WE ARE RUNNING A JAN AAHAR PROJECT AND PLANNING TO PROVIDE RATION IN 1000 FAMILIES THIS YEAR, WE ALSO PLANNING FOR A PROJECT FOR EDUCATION",
+  "yearOfEstablishment": "2018",
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "D 24",
+      "Tilak Nagar",
+      "Tilaknagar",
+      "West Delhi",
+      "Delhi",
+      "110018"
+    ]
+  }
+}

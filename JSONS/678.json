@@ -1,0 +1,43 @@
+{
+  "contacts": [
+    {
+      "name": "Anbu & Moris",
+      "email": "avagoffice@auroville.org.in",
+      "designation": "Directors",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=678",
+  "name": "Auroville Village Action Trust",
+  "primaryEmail": "avagoffice@auroville.org.in",
+  "website": "www.auroville.org",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "914132678871",
+    "914132678872"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "Irumbai Main Road Opp. TNEB Sub-station",
+      "Irumbai",
+      "Viluppuram",
+      "Tamil Nadu",
+      "605111"
+    ]
+  },
+  "briefDescription": "AVAG is a registered unit of Auroville Village Action Trust (AVAT) and functions as part of the Auroville Foundation. 5 Trustees from Auroville oversee the running of the organisation and ensure that it operates according to its statutes.Vision: - AVAG collaborates with the rural communities to reveal their innate wisdom and ability to collectively determine and manifest their dynamic potential.Mission: AVAG fosters participatory village transformation through: - community development - economic development - capacity building - psychosocial support with rural communities in the Auroville bioregionAVAG also works with all people across genders and castes on an equal basis enabling them to guide AVAG in the best ways to support them.",
+  "yearOfEstablishment": "2000",
+  "regiseredAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "Irumbai & P.O. (Opp to EB)",
+      "Villupuram",
+      "Viluppuram",
+      "Tamil Nadu",
+      "605101"
+    ]
+  }
+}

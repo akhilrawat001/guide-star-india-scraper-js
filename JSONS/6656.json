@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "BABU B H",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6656",
+  "name": "Suvarna Karnataka Rural and Environment Development Association",
+  "primaryEmail": "skredassociation2@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919743839092"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "Gulur Main Road",
+      "3rd Ward",
+      "Bagepalli Town",
+      "Chikkaballapura",
+      "Karnataka",
+      "561207"
+    ]
+  }
+}

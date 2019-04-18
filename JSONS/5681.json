@@ -1,0 +1,35 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5681",
+  "name": "FREEDOM (Free Duty of Mankind)",
+  "primaryEmail": "freedom.odisha@gmail.com",
+  "website": "freedomodisha.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918280152685"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "At- Baulpal, Post- Bhatapada, Dist- Bhadrak, Pin- 756130",
+      "By-pass, Bhadrak, In-Front of Power house, Pin-756100 Telephone/Fax: 06784-274958, 8280152685 Fax: 06784-251365",
+      "bhadrak",
+      "Bhadrak",
+      "Odisha",
+      "756130"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Odisha",
+    "address": [
+      "At-Kalimegha",
+      "Post-Bidyadharpur",
+      "Dist-Bhadrak, Via-Tihidi",
+      "Bhadrak",
+      "Odisha",
+      "756130"
+    ]
+  }
+}

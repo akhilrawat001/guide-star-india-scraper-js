@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Nikhilesh Bhunia",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5509",
+  "name": "Ambassadors Welfare Society",
+  "primaryEmail": "ambassadorsinindia@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "+919958076238"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "J-54, Ground Floor",
+      "Saurabh Vihar,",
+      "Badarpur",
+      "South Delhi",
+      "Delhi",
+      "110044"
+    ]
+  }
+}

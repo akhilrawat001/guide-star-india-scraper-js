@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Sajit Krishnan Kutty",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5484",
+  "name": "THE SOCIETY OF THE EDUCATORS ASSISTING CHILDREN'S HOPES",
+  "primaryEmail": "teach.allindia@gmail.com",
+  "website": "www.teachngo.org",
+  "organisationType": [
+    "Direct Service",
+    "Network"
+  ],
+  "telephone": [
+    "919831219247"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "25, Dumdum road,North Point Day School kolkata",
+      "Dumdum road kolkata",
+      "Kolkata",
+      "North 24 Parganas",
+      "West Bengal",
+      "700074"
+    ]
+  }
+}

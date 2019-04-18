@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "ELETI SHOURY PRAMOD KUMAR",
+      "email": "SPKELETI@GMAIL.COM",
+      "designation": "CHIEF FUNCTIONARY",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6785",
+  "name": "INTERIOR OUTREACH MINISTRIES ASSOCIATION",
+  "primaryEmail": "SPKELETI@GMAIL.COM",
+  "website": "IOMINDIA.ORG",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919849494912"
+  ],
+  "mainAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "GREEN PASTURES, OPP MCC, P.B.PALLI, CHODAVARAM RD,",
+      "NARSIPATNAM",
+      "Visakhapatnam",
+      "Andhra Pradesh",
+      "531116"
+    ]
+  }
+}

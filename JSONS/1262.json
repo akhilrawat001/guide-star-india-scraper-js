@@ -1,0 +1,44 @@
+{
+  "contacts": [
+    {
+      "name": "Vimal Jayakar",
+      "email": "rrcholan79@yahoo.co.in",
+      "designation": "Trustee",
+      "mobile": [
+        "91-4632-231275",
+        "91-9842675617"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1262",
+  "name": "Friends Foundation",
+  "primaryEmail": "info2friendsfoundation@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "914632231275"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "69 M / 1,",
+      "North Iluppaiyoorani,",
+      "Kovilpatti",
+      "Thoothukudi",
+      "Tamil Nadu",
+      "628501"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "1076/6, Rajiv Nagar,",
+      "Pandavarmangalam, Tuticorin",
+      "Kovilpatti",
+      "Thoothukudi",
+      "Tamil Nadu",
+      "628501"
+    ]
+  }
+}

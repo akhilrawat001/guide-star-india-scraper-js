@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Prabhat kumar Das",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7625",
+  "name": "RARIAL PRIMARY EDUCATION SOCIETY",
+  "primaryEmail": "rpes2010@rediffmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "917063142210"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Rarial",
+      "culvert of a pond",
+      "village. Rarial",
+      "Malda",
+      "West Bengal",
+      "732125"
+    ]
+  }
+}

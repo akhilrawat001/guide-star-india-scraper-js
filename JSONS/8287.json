@@ -1,0 +1,42 @@
+{
+  "contacts": [
+    {
+      "name": "Sunil Prakash Deore",
+      "email": "sunildeore2143@rediffmail.com",
+      "designation": "President",
+      "mobile": [
+        "91-9890875238"
+      ]
+    },
+    {
+      "name": "Sunil Prakash Deore",
+      "email": "sunildeore2143@rediffmail.com",
+      "designation": "President",
+      "mobile": [
+        "91-9890875238"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8287",
+  "name": "Roshani Bahuuddeshiya Sanstha",
+  "primaryEmail": "roshanibahu@rediffmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919890875238",
+    "919423903237"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "At-Hanmantkhede",
+      "Post- Devgaon Tal-Parola",
+      "Parola",
+      "Jalgaon",
+      "Maharashtra",
+      "425112"
+    ]
+  }
+}

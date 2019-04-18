@@ -1,0 +1,48 @@
+{
+  "contacts": [
+    {
+      "name": "Dhanapalraja.N",
+      "email": "",
+      "designation": "Manager",
+      "mobile": [
+        "91-4323-223128"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1244",
+  "name": "GRRAMIUM Trust",
+  "primaryEmail": "gramnara@yahoo.co.in",
+  "website": "www.gramium.org",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "914323223128",
+    "914323223709",
+    "914323223128"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "9, Gokulam Building, Periyar Street,",
+      "Cauvery Nagar, Kulithalai",
+      "Karur",
+      "Tamil Nadu",
+      "639104",
+      "AP_BankStat_1148.PDF"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "Kanakkapillaiyur,",
+      "Pappakkapatty - 639119, Kulithalai Taluk",
+      "Karur",
+      "Tiruchirappalli",
+      "Tamil Nadu",
+      "620001",
+      "AP_BankStat_1148.PDF"
+    ]
+  }
+}

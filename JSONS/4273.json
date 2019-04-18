@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Rajaram R Powar",
+      "email": "drpowar@gmail.com",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4273",
+  "name": "OM PRATISHTHAN",
+  "primaryEmail": "drpowar@gmail.com",
+  "website": "www.ompratisthan.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "India",
+    "7666617771"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "A-503 vijay CHS ,Chincholi bandar ,link Road",
+      "Malad west",
+      "Mumbai",
+      "Maharashtra",
+      "400064"
+    ]
+  },
+  "briefDescription": "Located in Maharashtra, we have center for bed ridden patients, we keep patient till they live. We have nursing and  training center for poor and rural students.Alternate theraphy for cancer is also available."
+}

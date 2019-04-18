@@ -1,0 +1,26 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7657",
+  "name": "Amogha Educational Society",
+  "primaryEmail": "mail@amogha.org",
+  "website": "www.amogha.org",
+  "organisationType": [
+    "Direct Service",
+    "Intermediary",
+    "Support"
+  ],
+  "telephone": [
+    "919810050607",
+    "911202679071"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "7th Mile Stone,",
+      "Meerut Road, Morta",
+      "Ghaziabad",
+      "Uttar Pradesh",
+      "201003"
+    ]
+  }
+}

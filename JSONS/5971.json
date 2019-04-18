@@ -1,0 +1,57 @@
+{
+  "contacts": [
+    {
+      "name": "Dr.Minnie Bodhanwala",
+      "email": "minnie.b@wadiagroup.com",
+      "designation": "CEO",
+      "mobile": [
+        "24187521",
+        "9833685328"
+      ]
+    },
+    {
+      "name": "Dr.Minnie Bodhanwala",
+      "email": "minnie.b@wadiagroup.com",
+      "designation": "CEO",
+      "mobile": [
+        "24187521",
+        "9833685328"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5971",
+  "name": "The Bai Jerbai Wadia Hospital for Children",
+  "primaryEmail": "minnie.b@wadiagroup.com",
+  "website": "www.wadiahospitals.org",
+  "organisationType": [
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "912224187521",
+    "918082566868"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Acharya Donde Marg , Parel",
+      "Near KEM Hospital",
+      "Mumbai",
+      "Maharashtra",
+      "400012"
+    ]
+  },
+  "briefDescription": "In 1929, Sir Ness Wadia and Sir Cusrow Wadia built  Bai Jerbai Wadia Hospital for ChildrenLocated in the heart of Mumbai, The Bai Jerbai Wadia Hospital for Children pledges to extend its services to people, regardless of their socio-economic status. Believing strongly in the fact that quality healthcare should not be restricted to only certain sections of society, the BJWHC offers state of the art services for neonatal and paediatric care at affordable costs. A teaching hospital of world-wide repute, this 300 bed hospital is propelled by a highly accomplished team of over 60 paediatrics specialists devoting themselves to the care of over 100,000 children on an outpatient basis, and approximately 10,000 children as inpatients, annually.",
+  "yearOfEstablishment": "1929",
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Neville House, Ballard Estate",
+      "Near State Bank of India",
+      "Mumbai",
+      "Maharashtra",
+      "400001"
+    ]
+  }
+}

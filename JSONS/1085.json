@@ -1,0 +1,44 @@
+{
+  "contacts": [
+    {
+      "name": "Avik Kedia",
+      "email": "avik@sanchayansociety.org",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1085",
+  "name": "Sanchyan Society",
+  "primaryEmail": "sanchayansociety@gmail.com",
+  "website": "http://www.SanchayanSociety.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919810572277"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "H-9, Akash Bharti Apartmens,",
+      "Plot 24, I.P.Extension",
+      "New Delhi",
+      "Delhi",
+      "110092"
+    ]
+  },
+  "briefDescription": "Sanchayan is India's 1st social venture dedicated exclusively to Financial Literacy for Youth and Adults.Sanchayan is an independent & neutral nonprofit social venture that educates and thus empowers the youth and low income adults to take informed decisions with respect to their personal finances. Along with the right financial information and guidance, Sanchayan delivers suitable, low-cost financial services to the urban and rural poor.  Sanchayan works with Governments, Regulators, Financial Institutions, Educational Institutes, Corporate Foundations, Partner NGOs, and other public and private sector organizations to continue the mission of disseminating neutral financial literacy. Sanchayan Suraksha Points (SSPs)are one-stop points for the urban poor to access ALL Financial services like Savings, Banking, Insurance, Mediclaim, NPS, etc in an institutional manner.",
+  "yearOfEstablishment": "2009",
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "B, 1/83",
+      "PASCHIM VIHAR",
+      "NEW DELHI",
+      "New Delhi",
+      "Delhi",
+      "110063",
+      "AP_TelBill_1011.PDF"
+    ]
+  }
+}

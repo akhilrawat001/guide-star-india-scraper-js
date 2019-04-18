@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "Ravi Raj William (Dr)",
+      "email": "",
+      "designation": "Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=585",
+  "name": "Christian Coucil for Rural Development and Research (CCOORR)",
+  "primaryEmail": "ccoorr.india@gmail.com",
+  "website": "www.haiccoorr.org",
+  "telephone": [
+    "914426260788",
+    "914426210570"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "New No.51, old no.23, 7th cross street West,",
+      "Shenoy Nagar",
+      "Chennai",
+      "Tamil Nadu",
+      "600030"
+    ]
+  }
+}

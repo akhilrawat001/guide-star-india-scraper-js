@@ -1,0 +1,42 @@
+{
+  "contacts": [
+    {
+      "name": "Ashish Tyagi",
+      "email": "ashishtyagig@gmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8290",
+  "name": "DIGITAL EDUCATION SOCIETY",
+  "primaryEmail": "ashishtyagig@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "911202649561",
+    "911202649561"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "Plot No. 839",
+      "Shalimar Garden Extn-I,",
+      "Sahibabad",
+      "Ghaziabad",
+      "Uttar Pradesh",
+      "201010"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "Hoise No C/136",
+      "Gali No 6",
+      "Jeevan Park",
+      "New Delhi",
+      "Delhi",
+      "110006"
+    ]
+  }
+}

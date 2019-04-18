@@ -1,0 +1,33 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=163",
+  "name": "Sri Kanchi Kamakoti Medical Trust",
+  "primaryEmail": "coimbatore@sankaraeye.com",
+  "website": "www.sankaraeye.com",
+  "telephone": [
+    "914222666450",
+    "914222666460",
+    "914222666450"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "Sankara Eye Centre, Sakthy Main Road",
+      "Sivanandapuram",
+      "Coimbatore",
+      "Tamil Nadu",
+      "641035"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "No 77, West Ponnurangam Road",
+      "R S Puram",
+      "Coimbatore",
+      "Tamil Nadu",
+      "641002",
+      "AP_TelBill_63.PDF"
+    ]
+  }
+}

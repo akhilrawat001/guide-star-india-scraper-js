@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Ms.Sunita Murab",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7262",
+  "name": "Sunita Murab Foundation Samiti",
+  "primaryEmail": "rajneeshmurab@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "917509061701"
+  ],
+  "mainAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "House No.04,",
+      "D.K.Cottage Phase 2 E8 Extention Bawadia Kala Near Dana Pani Restaurant",
+      "Bawadia Kala",
+      "Bhopal",
+      "Madhya Pradesh",
+      "462606"
+    ]
+  }
+}

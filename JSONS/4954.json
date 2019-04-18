@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Dr.Sathiamoorthy",
+      "email": "kondammaledumeds@gmail.com",
+      "designation": "Chairman",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4954",
+  "name": "Kondammal Trust",
+  "primaryEmail": "kondammaledumeds@gmail.com",
+  "website": "http://www.kondammaltrust.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919191768922"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "206,A-Block,Swamy Ramalinga colony,Ponniammanmedu,Chennai,Tamilnadu,India",
+      "Chennai",
+      "Tamil Nadu",
+      "600110"
+    ]
+  }
+}

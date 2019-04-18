@@ -1,0 +1,31 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5666",
+  "name": "PRERANA",
+  "primaryEmail": "prerana.orissa@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919437195023"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "Rugudipara",
+      "Near BSNL Office",
+      "Balangir",
+      "Odisha",
+      "767001"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Odisha",
+    "address": [
+      "At PO Loisingha",
+      "Balangir",
+      "Odisha",
+      "767020"
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "contacts": [
+    {
+      "name": "Sonal Kapoor",
+      "email": "sonal@protsahan.co.in",
+      "designation": "Founder CEO & Creative Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5360",
+  "name": "PROTSAHAN INDIA FOUNDATION",
+  "primaryEmail": "sonal@protsahan.co.in",
+  "website": "https://www.protsahan.co.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service"
+  ],
+  "telephone": [
+    "919540781011"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "347",
+      "Vasant Enclave",
+      "New Delhi",
+      "South Delhi",
+      "Delhi",
+      "110057"
+    ]
+  },
+  "briefDescription": "We are an action and advocacy based NGO, fighting against Child Abuse in the underserved communities of India with a focus on adolescent girls. Based on our unique HEART Principle, we strive to break the inter-generational cycle of childhood abuse and poverty with Healing, Education, Art, Recovery & Technology.We use the power of Photography, Filmmaking and Cinema, Design, Performing Arts, and Meditations to heal and transform broken childhoods.",
+  "yearOfEstablishment": "2010"
+}

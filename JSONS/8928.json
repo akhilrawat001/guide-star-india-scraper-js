@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Angshuman Gogoi",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8928",
+  "name": "NAVA ASOM NIRMAN FOUNDATION",
+  "primaryEmail": "navaasomnirman@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919435125465"
+  ],
+  "mainAddrress": {
+    "state": "Assam",
+    "address": [
+      "Bungalow 154 Cmh Area",
+      "IOCL Township",
+      "Po Digboi",
+      "Tinsukia",
+      "Assam",
+      "786171"
+    ]
+  }
+}

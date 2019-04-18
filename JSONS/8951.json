@@ -1,0 +1,33 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8951",
+  "name": "Mahamaya Jana Kalyan Seva Niketan",
+  "primaryEmail": "pkd9345@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919434453728"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Care of P.K. Datta, U.C.O. Bank (1st Floor)",
+      "Po.Ps Bishnupur",
+      "Bankura",
+      "West Bengal",
+      "0"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "C/O P.K. Datta, U.C.O. Bank (1st Floor)",
+      "Po.Ps Bishnupur",
+      "Bankura",
+      "West Bengal",
+      "722122"
+    ]
+  }
+}

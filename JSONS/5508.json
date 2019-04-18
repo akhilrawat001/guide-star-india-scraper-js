@@ -1,0 +1,48 @@
+{
+  "contacts": [
+    {
+      "name": "Beena William",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "27700018"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5508",
+  "name": "ONE CHILD ONE LIGHT",
+  "primaryEmail": "sanjib@onechildonelight.org",
+  "website": "www.onechildonelight.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "914027700018",
+    "914027700018"
+  ],
+  "mainAddrress": {
+    "state": "Telangana",
+    "address": [
+      "# 3-9-252, West Marredpally",
+      "Secunderabad",
+      "Hyderabad",
+      "Telangana",
+      "500026"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Telangana",
+    "address": [
+      "# 3-9-252, West Marredpally",
+      "Secunderabad",
+      "Hyderabad",
+      "Telangana",
+      "500026"
+    ]
+  }
+}

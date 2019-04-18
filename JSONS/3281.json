@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Nimish Gupta",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "9971465297"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3281",
+  "name": "Walaiti Ram Gupta Foundation",
+  "primaryEmail": "wrgupta@gmail.com",
+  "website": "www.wrgfoundation.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919971465297"
+  ],
+  "mainAddrress": {
+    "state": "Haryana",
+    "address": [
+      "H.No.1312, Sector 14",
+      "Near APJ School Sector 14",
+      "Faridabad",
+      "Haryana",
+      "121007"
+    ]
+  }
+}

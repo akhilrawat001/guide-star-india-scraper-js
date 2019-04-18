@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "S Prashant Kumar",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "236191",
+        "8349301484"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7220",
+  "name": "Jeevodaya Society, Itarsi",
+  "primaryEmail": "jeevodaya1999@rediffmail.com",
+  "website": "www.jeevodaya.org.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "917572236191",
+    "917572236191"
+  ],
+  "mainAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "Behind Janta Talkies, Nehruganj",
+      "Itarsi",
+      "Hoshangabad",
+      "Madhya Pradesh",
+      "461111"
+    ]
+  },
+  "briefDescription": "NGO working among children found in Itarsi railway platforms to rescue and rehabilitate them",
+  "yearOfEstablishment": "2001"
+}

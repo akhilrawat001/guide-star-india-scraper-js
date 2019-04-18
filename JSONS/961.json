@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Selvam",
+      "email": "selvamokay@gmail.com",
+      "designation": "Project Director",
+      "mobile": [
+        "92-452-6528207"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=961",
+  "name": "Thiyagam Women Trust",
+  "primaryEmail": "challengedwomen@gmail.com",
+  "website": "www.thiyagam.org",
+  "telephone": [
+    "914522602195",
+    "914526528207",
+    "919345213417"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "No:66/44,Kambar street",
+      "Madurai",
+      "Tamil Nadu",
+      "625010"
+    ]
+  }
+}

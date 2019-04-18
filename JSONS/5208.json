@@ -1,0 +1,48 @@
+{
+  "contacts": [
+    {
+      "name": "Darshana Tawate",
+      "email": "vedafoundation@yahoo.co.in",
+      "designation": "Project Director",
+      "mobile": []
+    },
+    {
+      "name": "Darshana Tawate",
+      "email": "vedafoundation@yahoo.co.in",
+      "designation": "Project Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5208",
+  "name": "VEDA FOUNDATION",
+  "primaryEmail": "vedafoundation@yahoo.co.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Support"
+  ],
+  "telephone": [
+    "919869412311"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "422/A, Shivaji Nagar CHS",
+      "N. M. Joshi Marg, Lower Parel (E)",
+      "Mumbai",
+      "Maharashtra",
+      "400013"
+    ]
+  },
+  "briefDescription": "Veda foundation is a NGO working for Health and Education.  Under Education we do conduct Skill Development and Livelihood programme. We are also providing Soft skill as Personality Development, Marketing, Accounting skills and many more.We are also undertakes a various health issues such as HIV/AIDS. We have also conduct a Carrom tournament for the Awareness of HIV/AIDS with the collaboration of the other NGOs also.",
+  "yearOfEstablishment": "2008",
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "422/A, Shivaji Nagar CHS,",
+      "N. M. Joshi Marg, Lower Parel (E)",
+      "Mumbai",
+      "Maharashtra",
+      "400013"
+    ]
+  }
+}

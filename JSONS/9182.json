@@ -1,0 +1,36 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9182",
+  "name": "ASSISI SOCIETY OF A.S.M.I",
+  "primaryEmail": "alc@aifoindia.org",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "9482464607"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "Assisi Leprosycenter",
+      "Huvinahadagli",
+      "Taluk",
+      "Ballari (Bellary)",
+      "Karnataka",
+      "583219"
+    ]
+  },
+  "briefDescription": "Assisi Society of ASMI is located in Bellary, Karnataka.",
+  "yearOfEstablishment": "2007",
+  "regiseredAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "No -60/3, Huskur Cross, Electronics City",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560100"
+    ]
+  }
+}

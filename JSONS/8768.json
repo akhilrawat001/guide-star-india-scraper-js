@@ -1,0 +1,44 @@
+{
+  "contacts": [
+    {
+      "name": "Chaitanya Nadkarny",
+      "email": "chaitanya.nadkarny@gmail.com",
+      "designation": "Executive Director",
+      "mobile": [
+        "91-9923700626"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8768",
+  "name": "STARS FORUM",
+  "primaryEmail": "starsforumindia@gmail.com",
+  "website": "www.starsforum.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919923700626"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Care of Vigyan Ashram, JP Naik Centre for Education",
+      "Guruganesh Nagar, Kothrud",
+      "Pune",
+      "Maharashtra",
+      "411038"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Flat no. 23, Hissa no. 1/487, S.no. 15/2/1A, Mayur Apartments,",
+      "Wadgaon Budruk",
+      "Pune",
+      "Maharashtra",
+      "411041"
+    ]
+  }
+}

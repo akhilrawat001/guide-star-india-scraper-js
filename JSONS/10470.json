@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Rakesh Kumar Sahoo",
+      "email": "",
+      "designation": "Chairman",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10470",
+  "name": "BHARATI CHARITABLE TRUST",
+  "primaryEmail": "bctindia2013@gmail.com",
+  "website": "http://www.bharaticharitabletrust.org",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "919937666543"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "At-Aradapally",
+      "Po-Jaria",
+      "Ps-Pattamundai",
+      "Kendrapara",
+      "Odisha",
+      "754216"
+    ]
+  },
+  "briefDescription": "Bharati Charitable Trust is located in Kendrapara, Odisha.",
+  "yearOfEstablishment": "2013"
+}

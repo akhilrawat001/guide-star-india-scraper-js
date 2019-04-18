@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Ashok Jangid",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4821",
+  "name": "SAMAJ VIKAS SANSTHAN BARMER",
+  "primaryEmail": "ashok_sdi@yahoo.co.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919928129109"
+  ],
+  "mainAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "Sardarpura,",
+      "Near Vishv Karma Mandir",
+      "Barmer",
+      "Rajasthan",
+      "344001"
+    ]
+  }
+}

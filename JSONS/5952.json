@@ -1,0 +1,36 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5952",
+  "name": "Human Resource Development Centre",
+  "primaryEmail": "hrdckpt@rediffmail.com",
+  "website": "Nil",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Network"
+  ],
+  "telephone": [
+    "919438551643"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "Mahadev Lane",
+      "Mali Street,",
+      "Koraput",
+      "Odisha",
+      "764020"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Odisha",
+    "address": [
+      "Mahadev Lane,",
+      "Mali Street",
+      "Koraput",
+      "Odisha",
+      "764020"
+    ]
+  }
+}

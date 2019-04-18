@@ -1,0 +1,49 @@
+{
+  "contacts": [
+    {
+      "name": "Sunanda Nadarajan",
+      "email": "operations.sfcd@gmail.com",
+      "designation": "Admin Director",
+      "mobile": [
+        "91-9810003512"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=478",
+  "name": "Society for Child Development",
+  "primaryEmail": "madhumita.puri@gmail.com",
+  "website": "http://www.sfcdindia.org",
+  "organisationType": [
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "91-9810003512",
+    "919810003512",
+    "919711769915"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "Pilli Building Community Center",
+      "Behind Roshanara Club, Shakti Nagar",
+      "Delhi",
+      "New Delhi",
+      "110007",
+      "Electricity bill.PDF"
+    ]
+  },
+  "briefDescription": "The Society for Child Development works for the development of resources for children and young adults with mental handicap and other disabilities who form the most vulnerable sections of our society. Approximately 60000 disabled people and stakeholders benefit from our work.",
+  "yearOfEstablishment": "1992",
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "Care of Sanjivini Nursing Home,",
+      "D 13 Kamla Nagar",
+      "Delhi",
+      "New Delhi",
+      "110007"
+    ]
+  }
+}

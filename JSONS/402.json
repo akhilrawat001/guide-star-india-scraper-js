@@ -1,0 +1,40 @@
+{
+  "contacts": [
+    {
+      "name": "R Gnanasekharan",
+      "email": "masterstrust@yahoo.com",
+      "designation": "Project Officer",
+      "mobile": [
+        "91-4552-250050"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=402",
+  "name": "Masters Trust",
+  "primaryEmail": "masterstrust@yahoo.com",
+  "website": "http://www.giveindia.org/GetOrganisationProfile.aspx?ngoid=991",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "914552250050",
+    "914552250050"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "7/143 Veeramani Complex, SOR Nagar",
+      "Bathalagundu Main Road",
+      "Usilampatti",
+      "Madurai",
+      "Tamil Nadu",
+      "625532"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "Tamil Nadu"
+    ]
+  }
+}

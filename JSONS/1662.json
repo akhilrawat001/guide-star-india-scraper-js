@@ -1,0 +1,48 @@
+{
+  "contacts": [
+    {
+      "name": "Anil M Pansuria",
+      "email": "anil22pansuria@gmail.com",
+      "designation": "Manager",
+      "mobile": [
+        "91-9924870427"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1662",
+  "name": "The Student Cultural Group of Amreli",
+  "primaryEmail": "student.culturalgroup@gmail.com",
+  "website": "http://tscga.blogspot.in/",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Intermediary",
+    "Support"
+  ],
+  "telephone": [
+    "919924870427",
+    "919824234627"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "'Shri Ram', Dharmanagar Society, Street No. 1",
+      "150 Feet Ring Road, Opp. Gandhigram",
+      "Rajkot",
+      "Gujarat",
+      "365601"
+    ]
+  },
+  "briefDescription": "seminars held for awareness on health and cultural issues, training the students on personality development. Film show for spreading awareness on HIV/AIDS, Arranging visits for slum children to educational and entertainment spots. distribution of learning kits for slum students. More than 3000 people have benefited from the activities of the Trust.",
+  "yearOfEstablishment": "1992",
+  "regiseredAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "'Matru Chhaya', Gajerapara",
+      "Savarkundla Road, Nr. Chaura",
+      "Amreli",
+      "Gujarat",
+      "365601"
+    ]
+  }
+}

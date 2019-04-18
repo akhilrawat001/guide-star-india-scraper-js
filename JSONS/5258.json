@@ -1,0 +1,41 @@
+{
+  "contacts": [
+    {
+      "name": "Hari Shankar Sharma",
+      "email": "gveps@rediffmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5258",
+  "name": "Gramin Vikas evam Paryavaran Sanstha",
+  "primaryEmail": "gveps@rediffmail.com",
+  "website": "www.gveps.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919414338218"
+  ],
+  "mainAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "Village-Basadi-Boroda, Post-Udawala,Via-Sainthll",
+      "Post-Udawala,",
+      "Via- Sainthal",
+      "Dausa",
+      "Rajasthan",
+      "303507"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "not provided",
+      "Sainthal",
+      "Dausa",
+      "Rajasthan",
+      "303507"
+    ]
+  }
+}

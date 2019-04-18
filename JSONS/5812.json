@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Nandan Kandpal",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5812",
+  "name": "SRAJAN SPASTIC SOCIETY",
+  "primaryEmail": "srajanspasticsociety@rediffmail.com",
+  "website": "not available",
+  "organisationType": [
+    "Direct Service",
+    "Network"
+  ],
+  "telephone": [
+    "915946225860",
+    "915946225860"
+  ],
+  "mainAddrress": {
+    "state": "Uttarakhand",
+    "address": [
+      "Opposite Kapilashrmi Dharmsala",
+      "Pilikothi, Kaladhungi Road",
+      "Haldwani (Nainital)",
+      "Nainital",
+      "Uttarakhand",
+      "263139"
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "name": "Biplab Mishra",
+      "email": "prakalpa.keonjhar@gmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8588",
+  "name": "PRAKALPA",
+  "primaryEmail": "prakalpa.keonjhar@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919437056514"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "Gouratota Sahi (Near Telephone Exchange)",
+      "Keonjhar",
+      "Kendujhar",
+      "Odisha",
+      "758001"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Odisha",
+    "address": [
+      "At/PO Jyotipur",
+      "Dist: Keonjhar",
+      "Kendujhar",
+      "Odisha",
+      "758046"
+    ]
+  }
+}

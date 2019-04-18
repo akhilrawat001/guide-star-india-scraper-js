@@ -1,0 +1,50 @@
+{
+  "contacts": [
+    {
+      "name": "Prabhakar Timble",
+      "email": "prabhakartimble@gmail.com",
+      "designation": "Consultant",
+      "mobile": []
+    },
+    {
+      "name": "Prabhakar Timble",
+      "email": "prabhakartimble@gmail.com",
+      "designation": "Consultant",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4513",
+  "name": "MARG Trust",
+  "primaryEmail": "marg@sancharnet.in",
+  "organisationType": [
+    "Advocacy & Campaigning"
+  ],
+  "telephone": [
+    "919860195674",
+    "919420896125"
+  ],
+  "mainAddrress": {
+    "state": "Goa",
+    "address": [
+      "101, Miranda Mansion, Fr. Miranda Road, Margao, Salcete, Goa",
+      "Nr. Clergy Home",
+      "Margao",
+      "South Goa",
+      "Goa",
+      "403601"
+    ]
+  },
+  "briefDescription": "MARG was founded in 1999, by a few freedom fighters. Roads play a most important part in our lives. Will it be possible for us to carry on our day-to-day life without roads?The road is the extension of our house. With me, my house has become a ‘home’. The road is We. The road is the society. If we desire, we can make a heaven of the roads, instead of what we have made of them today.MARG is happy that it has been able to create awareness, in Road Culture in other words Civic Sense, so much so it has got not only public approval but also Government approval.",
+  "yearOfEstablishment": "1999",
+  "regiseredAddrress": {
+    "state": "Goa",
+    "address": [
+      "Kamat Building",
+      "Near Hari Mandir",
+      "Margao, Salcete",
+      "South Goa",
+      "Goa",
+      "403601"
+    ]
+  }
+}

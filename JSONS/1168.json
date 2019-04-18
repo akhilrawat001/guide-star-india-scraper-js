@@ -1,0 +1,38 @@
+{
+  "contacts": [
+    {
+      "name": "Pritesh",
+      "email": "priteshkumarsharma@gmail.com",
+      "designation": "Manager",
+      "mobile": [
+        "91-2744-231222",
+        "91-9714825111"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1168",
+  "name": "Shree Jagrut Nagrik Trust",
+  "primaryEmail": "shreejagrutnagrik@gmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "912744231222",
+    "912744231222"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "Opp.Risala Jain Temple, Hinglaj Tower",
+      "DEESA",
+      "Banaskantha",
+      "Gujarat",
+      "385535",
+      "AP_TelBill_1071.PDF"
+    ]
+  }
+}

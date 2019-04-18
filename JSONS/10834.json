@@ -1,0 +1,33 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10834",
+  "name": "DORAI Foundation (Development Opportunities Resources Access and Insight)",
+  "primaryEmail": "doraifoundation@gmail.com",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "919500059390"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "40B",
+      "3rd Cross Street,  VGP Layout , Palavakkam",
+      "Chennai",
+      "Kancheepuram",
+      "Tamil Nadu",
+      "600041"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "3D, 302, 3rd Floor, Mhada Pataliputra Nagar,",
+      "Link Road, Oshiwara",
+      "Mumbai",
+      "Maharashtra",
+      "400102"
+    ]
+  }
+}

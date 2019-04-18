@@ -1,0 +1,50 @@
+{
+  "contacts": [
+    {
+      "name": "R Vasudevan",
+      "email": "yoke.society@gmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    },
+    {
+      "name": "R Vasudevan",
+      "email": "yoke.society@gmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10633",
+  "name": "YOUTH OF KODAGANALLUR ENDEAVOUR (YOKE) SOCIETY",
+  "primaryEmail": "yoke.society@gmail.com",
+  "website": "www.yokesociety.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919442156320",
+    "918489465020"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "6/7B Agraharam Street",
+      "Kodaganallur",
+      "Tirunelveli",
+      "Tamil Nadu",
+      "627010"
+    ]
+  },
+  "briefDescription": "The main objective of the Society is to make Kodaganallur village panchayat and other similarly placed villages self-sufficient in their requirements, and to work towards improving the income and living standards of the inhabitants. YOKE is an initiative of individuals who enjoy an association with the village either as part of their ancestry or as current residents.The Society was born with a purpose to engage our people in community-driven projects that ensure the health, wealth and happiness of all. Since inception, YOKE has been focusing on creating a proactive and vibrant community where everyone is educated, employed, healthy and happy.  YOKE reaches out to about 1000 persons in the community through its various activities.",
+  "yearOfEstablishment": "2005",
+  "regiseredAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "5/3 Maruthi Enclave",
+      "15th Street, Nanganallur",
+      "Chennai",
+      "Kancheepuram",
+      "Tamil Nadu",
+      "600061"
+    ]
+  }
+}

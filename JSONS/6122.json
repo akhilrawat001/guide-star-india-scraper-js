@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "JOHN MATHEW",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6122",
+  "name": "GOOD SAMARITAN TRUST",
+  "primaryEmail": "gstministrieschennai@yahoo.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919043057025"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "No - 9/10B, Oriantï¿½s Court,",
+      "Dhandeeswaram Main Road,",
+      "Velachery, Chennai",
+      "Chennai",
+      "Tamil Nadu",
+      "600129"
+    ]
+  }
+}

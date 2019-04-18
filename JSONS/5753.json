@@ -1,0 +1,27 @@
+{
+  "contacts": [
+    {
+      "name": "GIRISHKUMAR",
+      "email": "girishkumar2007@gmail.com",
+      "designation": "TRUSTEE",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5753",
+  "name": "MUKTHA FOUNDATION",
+  "primaryEmail": "girishkumar2007@gmail.com",
+  "telephone": [
+    "919901702343"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "3,8th main,Dattatreyanagar, Hosakerehalli,",
+      "BSK 3rd stage",
+      "Bangalore Urban",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560085"
+    ]
+  }
+}

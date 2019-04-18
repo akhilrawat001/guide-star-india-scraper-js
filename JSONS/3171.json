@@ -1,0 +1,27 @@
+{
+  "contacts": [
+    {
+      "name": "Kamla Jaiswal",
+      "email": "samarpitsewa@rediffmail.com",
+      "designation": "Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3171",
+  "name": "Samarpit Sewa Sansthan",
+  "primaryEmail": "samarpitsewa@rediffmail.com",
+  "telephone": [
+    "911352676844",
+    "911352676844"
+  ],
+  "mainAddrress": {
+    "state": "Uttarakhand",
+    "address": [
+      "C-118, Mayapuri,",
+      "Kumar Gali Ajabpur Kalan",
+      "Dehradun",
+      "Uttarakhand",
+      "248001"
+    ]
+  }
+}

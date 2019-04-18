@@ -1,0 +1,40 @@
+{
+  "contacts": [
+    {
+      "name": "K. Kamala",
+      "email": "",
+      "designation": "Treasurer",
+      "mobile": []
+    },
+    {
+      "name": "K. Kamala",
+      "email": "",
+      "designation": "Treasurer",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1312",
+  "name": "Scheduled Tribes and Hill Dwellers Development Association",
+  "primaryEmail": "sheduled_tribes@rediffmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919655015440"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "Salaipatty Street",
+      "Chinnaovalapuram,",
+      "Chinnaovalapuram",
+      "Theni",
+      "Tamil Nadu",
+      "625515"
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Sanjana Ram",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9002",
+  "name": "Koshish",
+  "primaryEmail": "koshishsanjay@yahoo.co.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "913324492596",
+    "913324492596"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Sanjana Ram, 62/1 B, Hzra Road,",
+      "Kolkata",
+      "West Bengal",
+      "700019"
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Mr.Gopal Kruhna Kar",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8022",
+  "name": "BASTI AREA DEVELOPMENT COUNCIL",
+  "primaryEmail": "badcgkk@rediffmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "916782268744",
+    "916782268744"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "At/PO: Sovarampur,",
+      "Baleswar",
+      "Odisha",
+      "756001"
+    ]
+  }
+}

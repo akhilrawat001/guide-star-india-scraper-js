@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "NIZAM VIJAPURA",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5145",
+  "name": "WIZTECH EDUCATION TRUST",
+  "primaryEmail": "nizam.vijapura@gmail.com",
+  "website": "www.wiztechorg.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919727908889"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "Near PARABADA PRIMERY SCHOOL,",
+      "AT. PARABADA",
+      "HIMATNAGAR",
+      "Sabarkantha",
+      "Gujarat",
+      "383001"
+    ]
+  }
+}

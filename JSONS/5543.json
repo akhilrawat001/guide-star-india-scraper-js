@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "INDERJIT SINGH",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "9256001700"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5543",
+  "name": "PARAM WELFARE FOUNDATION TRUST",
+  "primaryEmail": "paramvirkfoundation@gmail.com",
+  "website": "www.paramfoundation.com",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "919256001700"
+  ],
+  "mainAddrress": {
+    "state": "Punjab",
+    "address": [
+      "s.c.o 38 39 level 2",
+      "leela bhawan",
+      "patiala",
+      "Patiala",
+      "Punjab",
+      "147001"
+    ]
+  }
+}

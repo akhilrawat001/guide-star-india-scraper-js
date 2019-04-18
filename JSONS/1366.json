@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Revathi Krishnan",
+      "email": "revathisyo@gmail.com",
+      "designation": "Chief Functionary Officer",
+      "mobile": [
+        "91-870-2567084"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1366",
+  "name": "Sarvodaya Youth Organisation",
+  "primaryEmail": "sarvodayayouthorganisation@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918702567084",
+    "918702567084"
+  ],
+  "mainAddrress": {
+    "state": "Telangana",
+    "address": [
+      "#2-5-7",
+      "OppHead Post Lane, Hanamkonda,",
+      "Warangal",
+      "Warangal (Urban)",
+      "Telangana",
+      "506001"
+    ]
+  }
+}

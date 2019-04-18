@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Vijaya Nesargi",
+      "email": "gyan_jyoti71@yahoo.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4523",
+  "name": "Gyan Joyti Grameena Abhirudhi Samste",
+  "primaryEmail": "gyan_jyoti71@yahoo.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919945894165"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "217,Rattu Bulding,Dr.R.K.Marg,  1st,cross,Hindwadi,Belgaum.",
+      "1st cross,Hindwadi,Belgaum.",
+      "Belgaum",
+      "Belagavi (Belgaum)",
+      "Karnataka",
+      "590011"
+    ]
+  }
+}

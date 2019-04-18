@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Narendra Kumar Chaube",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7551",
+  "name": "PRAGATI YUVA VIKASH KENDRA",
+  "primaryEmail": "pragati.1612@rediffmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "9993924465"
+  ],
+  "mainAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "Chhatarpur Rod Sivi Lnyayalay Ke Pass",
+      "Bard No 9",
+      "Lovkushnagar",
+      "Chhatarpur",
+      "Madhya Pradesh",
+      "471515"
+    ]
+  },
+  "briefDescription": "Pragati Yuva Vikash Kendra is Located in Chhatarpur, Madhya Pradesh.",
+  "yearOfEstablishment": "1997"
+}

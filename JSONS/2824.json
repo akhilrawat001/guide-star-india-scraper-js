@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "DR ATANU HATI",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2824",
+  "name": "TANGRA SPANDAN AMNESTY SOCIETY",
+  "primaryEmail": "tangra.spandanamnestysociety@gmail.com",
+  "website": "http://spandanamnestysociety.webs.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919477157921"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "47, DEBENDRA CHANDRA DEY ROAD",
+      "54/3C, DEBENDRA CHANDRA DEY ROAD",
+      "KOLKATA",
+      "Kolkata",
+      "West Bengal",
+      "700015"
+    ]
+  }
+}

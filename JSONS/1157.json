@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Sree Latha",
+      "email": "",
+      "designation": "Programme Director",
+      "mobile": [
+        "91-8573-280270"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1157",
+  "name": "Rural Organisation for Poverty Eradication Services",
+  "primaryEmail": "ropes.ngo@gmail.com",
+  "telephone": [
+    "918573280270",
+    "918573282070"
+  ],
+  "mainAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "1-88, Shanthi nagar",
+      "Bangarupalyam",
+      "Chittoor",
+      "Andhra Pradesh",
+      "516416"
+    ]
+  }
+}

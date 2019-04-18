@@ -1,0 +1,42 @@
+{
+  "contacts": [
+    {
+      "name": "Fr. S. Balashowry",
+      "email": "frbalashowry@rediffmail.com",
+      "designation": "Secretary & Executive Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6508",
+  "name": "THE NAVAJEEVAN BALA BHAVAN SOCIETY",
+  "primaryEmail": "mastanjbb@gmail.com",
+  "website": "www.njbb.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918500738785"
+  ],
+  "mainAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "1st lane",
+      "ANDHRA RATNA ROAD",
+      "GANDHINAGAR",
+      "Krishna",
+      "Andhra Pradesh",
+      "520003"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "NAVAJEEVAN BALA BHAVAN SOCIETY",
+      "NEAR KANAKADURGA SLABS.NEAR RLY STATION.",
+      "POORNANDHAMPET,VIJAYAWADA",
+      "Krishna",
+      "Andhra Pradesh",
+      "520003"
+    ]
+  }
+}

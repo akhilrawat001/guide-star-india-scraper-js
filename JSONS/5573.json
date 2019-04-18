@@ -1,0 +1,24 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5573",
+  "name": "YUVA",
+  "primaryEmail": "info24x7.yuva@gmail.com",
+  "website": "http://yuvaorganization.webs.com/",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "+919141871289"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "No.3 , 1st cross , GB palya , Raghavendranagar , Mysore -570011",
+      "Mysore",
+      "Mysuru (Mysore)",
+      "Karnataka",
+      "570011"
+    ]
+  }
+}

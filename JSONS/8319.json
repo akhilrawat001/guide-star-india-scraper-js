@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Md Ashfaque Hussain",
+      "email": "rahbar.ashfaque@gmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8319",
+  "name": "RAHBAR (Educational And Social Welfare Society)",
+  "primaryEmail": "rahbar.ashfaque@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919934192134"
+  ],
+  "mainAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "Upper Kulhi,",
+      "P.O. Jharia,",
+      "Dist. Dhanbad",
+      "Dhanbad",
+      "Jharkhand",
+      "828111"
+    ]
+  }
+}

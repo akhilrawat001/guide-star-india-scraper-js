@@ -1,0 +1,27 @@
+{
+  "contacts": [
+    {
+      "name": "Sk Munsur Rahaman",
+      "email": "amardisha@rediffmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2729",
+  "name": "Mathpalsa Disha Samaj Kalyan Society",
+  "primaryEmail": "amardisha@rediffmail.com",
+  "telephone": [
+    "913462209756",
+    "919732214903"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Vill + P.O. :- Mathpalsa",
+      "P.S. :- Sainthia",
+      "Birbhum",
+      "West Bengal",
+      "731234"
+    ]
+  }
+}

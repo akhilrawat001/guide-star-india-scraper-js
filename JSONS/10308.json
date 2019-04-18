@@ -1,0 +1,46 @@
+{
+  "contacts": [
+    {
+      "name": "Asha Vinod",
+      "email": "vmc_rbic@yahoo.com",
+      "designation": "Secretary",
+      "mobile": [
+        "91-9739973959"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10308",
+  "name": "PATMOS EDUCATIONAL AND CHARITABLE TRUST",
+  "primaryEmail": "thelordshomeindia@gmail.com",
+  "website": "http://www.thelordshome.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919739973959",
+    "919972971694"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "Door No. 4686/B",
+      "2nd Cross, Shivaji Road",
+      "Mysuru",
+      "Mysuru (Mysore)",
+      "Karnataka",
+      "570008"
+    ]
+  },
+  "briefDescription": "We at Patmos Educational and Charitable Trust believe in providing dignity of life. We have an orphanage registered under the Juvenile Justice Act by the name \"The Lords Home\". At present there are 25 boys who are orphans, single parent kids and under previlaged children. We not only share our love and care for them and also provide shelter, food, clothing, medical needs and good education. We also 2 Rural schools in villages of Mysuru where we guarantee quality education at par with city school with dedicated staff.Tailoring schools for women to empower them and earn livelihood and live with dignity.",
+  "yearOfEstablishment": "2007",
+  "regiseredAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "5324/36, Mahadeshwara Layout",
+      "Nanjangud Taluk",
+      "Mysuru (Mysore)",
+      "Karnataka",
+      "571301"
+    ]
+  }
+}

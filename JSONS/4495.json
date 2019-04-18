@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Dr. DP Kar",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4495",
+  "name": "Nirmal Mission for Vision Society",
+  "primaryEmail": "manojnaei@rediffmail.com",
+  "website": "www.nirmaleyeinstitute.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919756209300"
+  ],
+  "mainAddrress": {
+    "state": "Uttarakhand",
+    "address": [
+      "Khairi Kalan, Near Nepali Farm",
+      "PO. Satyanarayan, Rishikesh",
+      "Dehradun",
+      "Uttarakhand",
+      "249204"
+    ]
+  }
+}

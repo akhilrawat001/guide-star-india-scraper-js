@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Darade Hemant B",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8144",
+  "name": "Shri Sant Bhagwanbaba Gramin Bahuddeshiya Sanstha",
+  "primaryEmail": "hemantbd26@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "912424221141",
+    "912424221141"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Riddhi Siddhi",
+      "Subhash Road",
+      "At Po Tal Akole",
+      "Ahmednagar",
+      "Maharashtra",
+      "422601"
+    ]
+  }
+}

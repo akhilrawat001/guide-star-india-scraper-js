@@ -1,0 +1,35 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=840",
+  "name": "Indian Society of Hospital Waste Management (ISHWM)",
+  "primaryEmail": "ikverma@medwasteind.org",
+  "website": "www.medwasteind.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service"
+  ],
+  "telephone": [
+    "911128032767",
+    "911128032767",
+    "919312626462"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "498, DDA Flats",
+      "Pocket 3 C, Sector 16 B, Dwarka",
+      "New Delhi",
+      "Delhi",
+      "110075"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "253, AFNO Enclave, Plot 11, Sector 7, Dwarka",
+      "New Delhi",
+      "Delhi",
+      "110075"
+    ]
+  }
+}

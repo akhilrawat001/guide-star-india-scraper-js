@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "name": "Karan Girdhar",
+      "email": "",
+      "designation": "Director",
+      "mobile": [
+        "2432871",
+        "9630045858"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6814",
+  "name": "All India Society for Electronics and Computer Training (AISECT)",
+  "primaryEmail": "aditi@aisect.org",
+  "website": "www.aisect.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "917552432871",
+    "917552432871"
+  ],
+  "mainAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "SCOPE Campus",
+      "NH12, Near Misrod, Hoshangabad Road",
+      "Bhopal",
+      "Madhya Pradesh",
+      "462047"
+    ]
+  },
+  "briefDescription": "AISECT is India's leading skill development and vocational training provider working with various state and centre level government agencies and National Skill Development Council. AISECT is working in this domain for the last 30 years and has its presence in 27 states and 3 UTs till date.AISECT also works in Financial Inclusion, banking kiosks, higher education and school education.",
+  "yearOfEstablishment": "1997"
+}

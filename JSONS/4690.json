@@ -1,0 +1,27 @@
+{
+  "contacts": [
+    {
+      "name": "KAMAL KAPUR",
+      "email": "happykamal@gmail.com",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4690",
+  "name": "Chintan Evam Srijanï¿½Samiti",
+  "primaryEmail": "happykamal@gmail.com",
+  "telephone": [
+    "915422360333",
+    "919415224401"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "B.38/4-10, Gangapuri",
+      "MEHMOORGANJ",
+      "Varanasi",
+      "Uttar Pradesh",
+      "221010"
+    ]
+  }
+}

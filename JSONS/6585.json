@@ -1,0 +1,36 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6585",
+  "name": "SHREE SAPTSHRUNGI EDUCATION SOCIETY",
+  "primaryEmail": "saptshrungi@yahoo.com",
+  "website": "XXXXXXXXXXXXXXX",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "917172202337",
+    "917172202337"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "SATASHIL CHOWK,VITHAL MANDIR WARD,",
+      "PATHANPURA ROAD",
+      "CHANDRAPUR",
+      "Chandrapur",
+      "Maharashtra",
+      "442402"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "SATASHIL CHOWK,VITHAL MANDIR WARD,",
+      "PATHAN PURA ROAD",
+      "CHANDRAPUR",
+      "Chandrapur",
+      "Maharashtra",
+      "442402"
+    ]
+  }
+}

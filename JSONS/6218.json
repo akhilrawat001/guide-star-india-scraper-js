@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "N T Kasar",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "32428687"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6218",
+  "name": "Pimpri Chinchwad Science Park",
+  "primaryEmail": "pcsciencecentre@gmail.com",
+  "website": "www.pcsciencepark.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "912032428687",
+    "912032428687"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Chinchwad",
+      "Opposite Auto Cluster, Morgwadi",
+      "Pune",
+      "Maharashtra",
+      "411019"
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "name": "T.M.Thalis",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "2645154",
+        "9946661081"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4237",
+  "name": "Health Care Foundation",
+  "primaryEmail": "mail@healthcarefoundation.in",
+  "website": "www.healthcareoundation.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Intermediary",
+    "Support"
+  ],
+  "telephone": [
+    "914962645154",
+    "914962645154"
+  ],
+  "mainAddrress": {
+    "state": "Kerala",
+    "address": [
+      "214/6, AV Complex, Poonoor",
+      "Madathum Poyil Road,",
+      "P.O.Unnikulam",
+      "Kozhikode",
+      "Kerala",
+      "673574"
+    ]
+  }
+}

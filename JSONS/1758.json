@@ -1,0 +1,53 @@
+{
+  "contacts": [
+    {
+      "name": "Bosky Bavisi",
+      "email": "bosky@sanisa.co.in",
+      "designation": "Trustee",
+      "mobile": []
+    },
+    {
+      "name": "Bosky Bavisi",
+      "email": "bosky@sanisa.co.in",
+      "designation": "Trustee",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1758",
+  "name": "Shramik Nari Sangh",
+  "primaryEmail": "info@sanisa@co.in",
+  "website": "www.sanisa.co.in",
+  "organisationType": [
+    "Direct Service",
+    "Grant-making",
+    "Support"
+  ],
+  "telephone": [
+    "919820046144",
+    "919029234567"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Shop no.7, Ground Floor",
+      "Sorrel Building, Pant Nagar",
+      "Ghatkopar",
+      "Mumbai",
+      "Maharashtra",
+      "400077"
+    ]
+  },
+  "briefDescription": "Sa'Ni'Sa undertakes economic empowerment of women by providing training and employment opportunities in manufacturing of food products, corporate gift packs, premium chocolate, handcrafted bath and body products and handicrafts through its brands 'Chaakri', 'Divinite', 'Puro' and 'Udaan'.",
+  "yearOfEstablishment": "2004",
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Shop no.6, Bhakti Anugan Bldg.",
+      "Sector 12/A, Plot no. 17,",
+      "Kopar Khairane",
+      "Mumbai",
+      "Maharashtra",
+      "400709"
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Rajesh Kumar",
+      "email": "karlanix@rediffmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    },
+    {
+      "name": "Rajesh Kumar",
+      "email": "karlanix@rediffmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=981",
+  "name": "Poultry and Fishery Development Society",
+  "primaryEmail": "pandfdsociety@rediffmail.com",
+  "telephone": [
+    "919343662798"
+  ],
+  "mainAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "Village: Chainpur, P.O: Radhanagar",
+      "P.S:Balidih/Correspondence Add.: Plot No 104, Adarsh Cooperative Clony, Sector 12",
+      "Bokaro Steel City",
+      "Bokaro",
+      "Jharkhand",
+      "827010"
+    ]
+  }
+}

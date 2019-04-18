@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "Gopalakrishnan",
+      "email": "neeads05@yahoo.co.in",
+      "designation": "Chairman",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2929",
+  "name": "Natural Educational Enviornmental Agricultural Development Society (NEEADS)",
+  "primaryEmail": "neeads05@yahoo.co.in",
+  "telephone": [
+    "914427221630",
+    "919443108339"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "NEEADS 66 B",
+      "Sengaluneerodai Street",
+      "Kanchipuram",
+      "Kancheepuram",
+      "Tamil Nadu",
+      "631502"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5623",
+  "name": "Shiksha",
+  "primaryEmail": "onlyamit14@yahoo.co.in",
+  "website": "www.theshiksha.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918285265670"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "SHIKSHA AVENUE",
+      "DUDHAILLA GACHI, NEAR GAUTAM CHOWK",
+      "SONPUR",
+      "Saran",
+      "Bihar",
+      "841101"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Bihar",
+    "address": [
+      "SHIKSHA AVENUE",
+      "DUDHAILLA GACHI,",
+      "SONPUR, SARAN",
+      "Saran",
+      "Bihar",
+      "841101"
+    ]
+  }
+}

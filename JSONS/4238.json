@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "UMA DEVI",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4238",
+  "name": "HARSH UNNATI SEWA SANSTHAN",
+  "primaryEmail": "harsh_unnati@yahoo.com",
+  "website": "http://www.harshunnati.org/",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919451223722"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "Vill kakarwai",
+      "post kakarwai",
+      "kakarwai Tahseel garutha",
+      "Jhansi",
+      "Uttar Pradesh",
+      "284203"
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "Mvn Rao",
+      "email": "mvnrao2000@yahoo.com",
+      "designation": "Executive Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=277",
+  "name": "Grama Vikas",
+  "primaryEmail": "mvnrao2000@yahoo.com",
+  "website": "www.gramavikas.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918159235243",
+    "919449136064"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "Honnasethhalli, Yalagondahalli Post",
+      "Kolar",
+      "Karnataka",
+      "563127"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "Karnataka"
+    ]
+  }
+}

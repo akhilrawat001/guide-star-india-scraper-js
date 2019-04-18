@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Dr.S Kathiresan",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6373",
+  "name": "COODU (Community Organisation for Oppressed and Depressed Upliftment)",
+  "primaryEmail": "cooduindia@gmail.com",
+  "website": "www.coodu.org",
+  "organisationType": [
+    "Direct Service",
+    "Intermediary"
+  ],
+  "telephone": [
+    "914222316178",
+    "914222316178"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "15-A, Kongu Nagar East, Ramanathapuram, Coimbatore - 641045",
+      "Trichy Road, Ramanathapuram",
+      "Coimbatore",
+      "Tamil Nadu",
+      "641045"
+    ]
+  }
+}

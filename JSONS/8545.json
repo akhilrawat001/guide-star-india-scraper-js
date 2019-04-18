@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Chandrika Banerjee",
+      "email": "paripurnata.kol@gmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8545",
+  "name": "Paripurnata",
+  "primaryEmail": "paripurnata.kol@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919830792384"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "154,",
+      "Lenin Sarani,",
+      "5th Floor",
+      "Kolkata",
+      "West Bengal",
+      "700013"
+    ]
+  }
+}

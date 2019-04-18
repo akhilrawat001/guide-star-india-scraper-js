@@ -1,0 +1,35 @@
+{
+  "contacts": [
+    {
+      "name": "Nikita Mohanty",
+      "email": "nmohanty25niki@gmail.com",
+      "designation": "Vice President",
+      "mobile": [
+        "91-9337256409"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1161",
+  "name": "HELPNET",
+  "primaryEmail": "helpnet.society@yahoo.in",
+  "organisationType": [
+    "Direct Service",
+    "Network"
+  ],
+  "telephone": [
+    "916712431500",
+    "916712431500"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "At-Pension Lane",
+      "Near OBC Bank",
+      "Buxi Bazar",
+      "Cuttack",
+      "Odisha",
+      "753001",
+      "AP_TelBill_1064.PDF"
+    ]
+  }
+}

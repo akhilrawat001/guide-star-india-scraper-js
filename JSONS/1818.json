@@ -1,0 +1,34 @@
+{
+  "contacts": [
+    {
+      "name": "Tapan Bhaumik",
+      "email": "",
+      "designation": "admt.",
+      "mobile": [
+        "91-353-2520772"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1818",
+  "name": "Siliguri Bodhi Bharati Vocational Institute",
+  "primaryEmail": "sbbvi@rediffmail.com",
+  "website": "www.siguri bodhi bharati.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "913532520772",
+    "913532520772"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "7",
+      "Tarasankar Road, Deshbanhupara.",
+      "Siliguri",
+      "Darjeeling",
+      "West Bengal",
+      "734001"
+    ]
+  }
+}

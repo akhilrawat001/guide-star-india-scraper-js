@@ -1,0 +1,40 @@
+{
+  "contacts": [
+    {
+      "name": "Harish Deshmukh",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8902",
+  "name": "AKHIL BHARTIYA ANDHASHRADHA NIRMULAN SAMITEE",
+  "primaryEmail": "harish_deshmukh52@yahoo.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "917122723315",
+    "917122723315"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Care of. Office of the Naya Khoon",
+      "Cotton Market,",
+      "Nagpur",
+      "Maharashtra",
+      "440018"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      ". Office of the Naya Khoon",
+      "Cotton Market,",
+      "Nagpur",
+      "Maharashtra",
+      "440018"
+    ]
+  }
+}

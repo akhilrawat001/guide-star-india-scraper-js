@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "DR MOHAMMAD GAUHAR",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6194",
+  "name": "FAIQUA FOUNDATION",
+  "primaryEmail": "faiquafoundation@yahoo.com",
+  "website": "http://faiquafoundation.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "911125357707",
+    "911125357707"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "G1/374, DAAL MILL ROAD BLOCK G1",
+      "UTTAM NAGAR",
+      "NEW DELHI",
+      "New Delhi",
+      "Delhi",
+      "110059"
+    ]
+  }
+}

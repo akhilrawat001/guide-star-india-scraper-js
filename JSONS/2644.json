@@ -1,0 +1,26 @@
+{
+  "contacts": [
+    {
+      "name": "T.S Siddegowda",
+      "email": "acresat2012@gmail.com",
+      "designation": "Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2644",
+  "name": "ACRESAT(Association for Community & Rural Education for Social Action and Transformation",
+  "primaryEmail": "acresat2012@gmail.com",
+  "telephone": [
+    "918694929366"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "202, Thittamarahally",
+      "Channpatna",
+      "Bengaluru (Bangalore) Rural",
+      "Karnataka",
+      "562160"
+    ]
+  }
+}

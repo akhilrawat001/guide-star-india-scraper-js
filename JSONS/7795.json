@@ -1,0 +1,40 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7795",
+  "name": "UJJIBAN 03",
+  "primaryEmail": "ujjiban.india@gmail.com",
+  "website": "www.ujjiban.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Intermediary",
+    "Support"
+  ],
+  "telephone": [
+    "+919434312842",
+    "+913452245723",
+    "+919635103339"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Vill & P.O : Abhirampur",
+      "P.S : Ausgram",
+      "Taluka : Ausgram Ii",
+      "Bardhaman",
+      "West Bengal",
+      "713144"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Vill & P.O : Abhirampur",
+      "Guskara Mankar Road",
+      "Block Ausgram Ii",
+      "Bardhaman",
+      "West Bengal",
+      "713144"
+    ]
+  }
+}

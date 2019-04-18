@@ -1,0 +1,42 @@
+{
+  "contacts": [
+    {
+      "name": "Mr. Vikram Singh Choudhary",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "9413308843"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6189",
+  "name": "Gramin Vikas Evam Chetna Sansthan",
+  "primaryEmail": "gvcsbarmer@gmail.com",
+  "website": "www.graminsansthan.org",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "919413308843"
+  ],
+  "mainAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "C/O Mr. Vikram Singh Choudhary,",
+      "Nehru Nagar",
+      "Barmer",
+      "Rajasthan",
+      "344001"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "Mr. Vikram Singh Choudhary,",
+      "Nehru Nagar",
+      "Barmer",
+      "Rajasthan",
+      "344001"
+    ]
+  }
+}

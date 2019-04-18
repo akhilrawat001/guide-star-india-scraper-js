@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "P CH Sahoo",
+      "email": "birdkld@yahoo.com",
+      "designation": "Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3535",
+  "name": "BHANJA INSTITUTE FOR RURAL DEVELOPMENT",
+  "primaryEmail": "birdkld@yahoo.com",
+  "telephone": [
+    "916821250716",
+    "916821250899",
+    "916821250716"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "AT.+P.O. KULLOADA",
+      "BLOCK-BHANJANAGAR",
+      "GANJAM",
+      "Ganjam",
+      "Odisha",
+      "761131"
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "name": "Mr. Mayur",
+      "email": "",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10731",
+  "name": "HINDAVI SWARAJYA YUVA BEROJGAR BAHUUDDESHIYA FOUNDATION, CHANDRAPUR",
+  "primaryEmail": "hindaviswarajyuva@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919765234279"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Wankhede Wadi Ward No 1 Mahesh Nagar Tukum Chandrapur",
+      "Tadoba Road Tukum Mahesh Nagar Chandrapur",
+      "Chandrapur",
+      "Maharashtra",
+      "442401"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "At Bhaskar Bhokare Home Wankhede Wadi Ward No 1 Tukum Chandrapur",
+      "Near Dr Bhaget Behind Matoshri Vidhaylaya Tukum Chandrapur",
+      "Chandrapur",
+      "Maharashtra",
+      "442401"
+    ]
+  }
+}

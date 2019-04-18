@@ -1,0 +1,24 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6950",
+  "name": "Grace Ministries",
+  "primaryEmail": "mail@graceministries.org.in",
+  "website": "http://www.graceministries.org.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "917729999999"
+  ],
+  "mainAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "S1, Baba Residency, Tilak Road",
+      "Beside Laxmi Dept. Store Road",
+      "Rajahmundry",
+      "East Godavari",
+      "Andhra Pradesh",
+      "533103"
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Sadhu Chhatriya",
+      "email": "koraputcsrhub@gmail.com",
+      "designation": "Chairman",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4898",
+  "name": "Koraput CSR Hub",
+  "primaryEmail": "koraputcsrhub@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919124009124",
+    "919124009124"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "railway station road",
+      "jeypore",
+      "Koraput",
+      "Odisha",
+      "764002"
+    ]
+  }
+}

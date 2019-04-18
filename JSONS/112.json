@@ -1,0 +1,30 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=112",
+  "name": "SHARE - Society to Heal, Aid ,Restore, Educate",
+  "primaryEmail": "ngo.share@gmail.com",
+  "telephone": [
+    "912240981821",
+    "919821878935"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "SHARE, Care of UTV Soft. & Communication Ltd",
+      "1076, Parijat House, Dr. E. Moses Road, Worli Naka",
+      "Mumbai",
+      "Maharashtra",
+      "400018"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "SHARE, C/o UTV Soft. & Communication Ltd",
+      "1076, Parijat House, Dr. E. Moses Road, Worli Naka",
+      "Mumbai",
+      "Maharashtra",
+      "400018"
+    ]
+  }
+}

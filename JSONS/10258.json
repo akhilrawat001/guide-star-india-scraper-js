@@ -1,0 +1,35 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10258",
+  "name": "Gramin Vikas Kendra",
+  "primaryEmail": "gvk.bettiah@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918877282836"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "Opposite St. Josheph Bhavan, Bettiah,",
+      "Kamal Nath Nagar",
+      "Bettiah",
+      "West Champaran",
+      "Bihar",
+      "845438"
+    ]
+  },
+  "briefDescription": "Gramin Vikas Kendra is located in Bettiah, Bihar.",
+  "yearOfEstablishment": "1993",
+  "regiseredAddrress": {
+    "state": "Bihar",
+    "address": [
+      "Nehusa Road, Harnaut,",
+      "Harnaut",
+      "Nalanda",
+      "Bihar",
+      "803110"
+    ]
+  }
+}

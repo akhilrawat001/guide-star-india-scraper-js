@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Dr.Mahesh More",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7966",
+  "name": "Seva Foundation,Dhule",
+  "primaryEmail": "chandrakalamore94212@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "912562249845",
+    "912562249845"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Plot no 14,",
+      "Utkrsha Colony, Sakri road",
+      "Dhule",
+      "Maharashtra",
+      "424001"
+    ]
+  }
+}

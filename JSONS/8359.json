@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Mr Rajkumar Jha",
+      "email": "aadarshvikalp@gmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8359",
+  "name": "Aadarsh Vikalp Belha (Madhya)",
+  "primaryEmail": "aadarshvikalp@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919631754007"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "Vill+PO : Barhampur",
+      "PS : Phulpras",
+      "Block Ghorghardia",
+      "Madhubani",
+      "Bihar",
+      "847409"
+    ]
+  }
+}

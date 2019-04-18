@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "Rajendra Alai",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4526",
+  "name": "Dwarkabai Alai Shaikshanik Va Kisan Vikas Sanstha",
+  "primaryEmail": "ShriSwamiOilIndustries@rediffmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning"
+  ],
+  "telephone": [
+    "919422756639"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Malegaon Road,Swami Vivekanand Nagar,Satana",
+      "Nashik",
+      "Maharashtra",
+      "423301"
+    ]
+  }
+}

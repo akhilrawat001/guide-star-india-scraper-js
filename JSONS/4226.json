@@ -1,0 +1,59 @@
+{
+  "contacts": [
+    {
+      "name": "Neeraj Katoch",
+      "email": "sambalccc@ymail.com",
+      "designation": "Officer Coordinator",
+      "mobile": [
+        "2710996",
+        "9829011880"
+      ]
+    },
+    {
+      "name": "Neeraj Katoch",
+      "email": "sambalccc@ymail.com",
+      "designation": "Officer Coordinator",
+      "mobile": [
+        "2710996",
+        "9829011880"
+      ]
+    },
+    {
+      "name": "Neeraj Katoch",
+      "email": "sambalccc@ymail.com",
+      "designation": "Officer Coordinator",
+      "mobile": [
+        "2710996",
+        "9829011880"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4226",
+  "name": "Bal Sansar Sanstha",
+  "primaryEmail": "bsansarindia@yahoo.co.in",
+  "website": "www.balsansarindia.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919829011880",
+    "911412710996",
+    "911452600415"
+  ],
+  "mainAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "Reg. Office: 'Swasti',  Bal Sansar Sanstha, B-88,",
+      "Bajaj Nagar, Saraswati Marg,",
+      "Jaipur-",
+      "Jaipur",
+      "Rajasthan",
+      "302015"
+    ]
+  },
+  "briefDescription": "We introduce ourselves as ‘Bal Sansar Sanstha’ (BSS), a registered non-profit voluntary organization established in 1992, having its head quarters in Jaipur, Rajasthan, India. We are active in the field of community development, with a mission to empower vulnerable community groups enabling them to lead a life with dignity.       Through our work, we attempt to make a positive impact in the areas of public health, HIV-AIDS prevention and care, women and children’s education and skill development. Bal Sansar Sanstha is dedicated to improving the lives of neglected women, children, adolescents, youth and communities in rural and urban areas of Rajasthan.",
+  "yearOfEstablishment": "1992"
+}

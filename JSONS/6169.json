@@ -1,0 +1,35 @@
+{
+  "contacts": [
+    {
+      "name": "Ms.Subhashree Das",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "6451141",
+        "9437018141"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6169",
+  "name": "Institute for Social Development ISD",
+  "primaryEmail": "isd_bbsr@rediffmail.com",
+  "website": "http://isdbbsr.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "916746451141",
+    "916746451141"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "SB-80,Aditya Enclave",
+      "Near Kannan Vihar Phase-II",
+      "PO-Patia",
+      "Khordha",
+      "Odisha",
+      "751031"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "contacts": [
+    {
+      "name": "Kishore",
+      "email": "kishore.071984@gmail.com",
+      "designation": "Donor Coordinator",
+      "mobile": [
+        "91-9742388953"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1639",
+  "name": "New Mighty Grace Charitable Trust",
+  "primaryEmail": "mightygrace08@gmail.com",
+  "website": "www.MGCT.org",
+  "organisationType": [
+    "Direct Service",
+    "Grant-making",
+    "Support"
+  ],
+  "telephone": [
+    "919902379599"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "No.35, 244/1, Munivenkatappa Layout,",
+      "Horamavu Main Road, Kalkere",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560043"
+    ]
+  }
+}

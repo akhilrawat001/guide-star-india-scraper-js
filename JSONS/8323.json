@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Kevetshelo Venuh",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8323",
+  "name": "KHREH SOCIETY",
+  "primaryEmail": "khrehsociety@yahoo.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919436438003",
+    "917085190946"
+  ],
+  "mainAddrress": {
+    "state": "Nagaland",
+    "address": [
+      "Khreh Society (Pan Card Centre)",
+      "Near Belho Complex, P. R. Hill,Kohima",
+      "Kohima",
+      "Nagaland",
+      "797001"
+    ]
+  }
+}

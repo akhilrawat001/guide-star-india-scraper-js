@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Sudhir Tupe",
+      "email": "sudhir_lct@rediffmail.com",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4899",
+  "name": "LOKKALYAN CHARITABLE TRUST",
+  "primaryEmail": "sudhir_lct@rediffmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919604292644"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "37 SAI HOUSING SOCIETY",
+      "GALIBAR MAIDAN",
+      "GODOLI SATARA",
+      "Satara",
+      "Maharashtra",
+      "415002"
+    ]
+  }
+}

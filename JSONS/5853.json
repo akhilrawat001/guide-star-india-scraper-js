@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "DR. Y.K.GUPTA",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5853",
+  "name": "NOV LOK WELFARE SOCIETY",
+  "primaryEmail": "novlok1997@gmail.com",
+  "website": "http://novlok.org/",
+  "organisationType": [
+    "Direct Service",
+    "Intermediary"
+  ],
+  "telephone": [
+    "919250222249"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "B1/132",
+      "BHARAT VIHAR KAKROLA",
+      "NEW DELHI",
+      "South West Delhi",
+      "Delhi",
+      "110078"
+    ]
+  }
+}

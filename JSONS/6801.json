@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "IRFAN ATTU",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6801",
+  "name": "KOSHISH THE FOUNDATION FOR PEACE, NATIONAL INTEGRATION AND SOCIAL JUSTICE",
+  "primaryEmail": "KOSHISHFOUNDATION2012@GMAIL.COM",
+  "website": "WWW.KOSHISHFOUNDATION.CO.IN",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service"
+  ],
+  "telephone": [
+    "+919797669993"
+  ],
+  "mainAddrress": {
+    "state": "Jammu and Kashmir",
+    "address": [
+      "BC 37 BABA JEWAN SHAH MOHALLAH, SHAHEEDI CHOWK",
+      "RESIDENCY ROAD JAMMU",
+      "JAMMU",
+      "Doda",
+      "Jammu and Kashmir",
+      "180001"
+    ]
+  }
+}

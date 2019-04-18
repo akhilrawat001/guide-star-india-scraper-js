@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Mr. PINTU CHAKRABORTY",
+      "email": "chakraborty.pintu@gmail.com",
+      "designation": "Fundraising & Communications Managers",
+      "mobile": [
+        "91-7278333475"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7144",
+  "name": "BALITIKURI BIKASH BHABAN",
+  "primaryEmail": "balitikuribikashbhaban@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919836631136"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "BALITIKURI BAKULTALA",
+      "SADANANDA INDUSTRIAL ESTATE, POST- BALITIKURI",
+      "HOWRAH",
+      "Howrah",
+      "West Bengal",
+      "711113"
+    ]
+  }
+}

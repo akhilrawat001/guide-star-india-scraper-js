@@ -1,0 +1,26 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5804",
+  "name": "Companion Healthcare Foundation",
+  "primaryEmail": "companionhealthcarefoundation@yahoo.in",
+  "organisationType": [
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919930378427",
+    "919881207268"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Shop No. 10, B wing, Shreedeep Society",
+      "Manisha Nagar, Gate No. 3",
+      "Kalwa",
+      "Thane",
+      "Maharashtra",
+      "400605"
+    ]
+  }
+}

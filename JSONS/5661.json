@@ -1,0 +1,24 @@
+{
+  "contacts": [
+    {
+      "name": "Anchit Goel",
+      "email": "anchit@jaagriti.org.in",
+      "designation": "Founder Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5661",
+  "name": "Jaagriti An Awakening",
+  "primaryEmail": "anchit@jaagriti.org.in",
+  "website": "www.jaagriti.org.in",
+  "organisationType": [
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "mainAddrress": {
+    "address": []
+  },
+  "briefDescription": "Jaagriti is a youth-focused, volunteer driven initiative for improving the lives of the underprivileged migrant communities. Started in February 2009 to provide pre-school education to a small group of just 20 children, Jaagriti has now grown substantially in both scope and geographical coverage. In the last 5+ years of its operations, Jaagriti has influenced lives of 300+ children in 5 migrant communities with the support and dedication of over 500 volunteers.",
+  "yearOfEstablishment": "2010"
+}

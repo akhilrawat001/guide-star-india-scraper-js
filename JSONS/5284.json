@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Mr.Enosh Narzary",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5284",
+  "name": "NORTH EAST VISION",
+  "primaryEmail": "nev_office@yahoo.co.in",
+  "website": "NO",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919435020551"
+  ],
+  "mainAddrress": {
+    "state": "Assam",
+    "address": [
+      "Chapaguri Road,Bongaigaon",
+      "Chapaguri,North Bongaigaon",
+      "Bongaigaon",
+      "Chirang",
+      "Assam",
+      "783380"
+    ]
+  }
+}

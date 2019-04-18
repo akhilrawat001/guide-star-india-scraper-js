@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "Kaushik Das",
+      "email": "atmanirhar@gmail.com",
+      "designation": "Project Coordinator",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=325",
+  "name": "Atma Nirbhar - Ek Challenge",
+  "primaryEmail": "atmanirhar@gmail.com",
+  "website": "http://www.giveindia.org/GetOrganisationProfile.aspx?ngoid=75",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "913612471668"
+  ],
+  "mainAddrress": {
+    "state": "Assam",
+    "address": [
+      "‘Mamata’, 120 Gopinath Nagar (Opp T B Hospital)",
+      "Guwahati",
+      "Dhubri",
+      "Assam",
+      "781016"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Assam",
+    "address": [
+      "Assam"
+    ]
+  }
+}

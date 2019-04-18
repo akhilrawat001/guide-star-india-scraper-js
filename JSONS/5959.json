@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "PRAVIN SOLANKI",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5959",
+  "name": "CLASSIC FOUNDATION",
+  "primaryEmail": "classicfoundetion012@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919925637599",
+    "918401775876"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "3/B FIRST FLOOR UMAMARKET,VISNAGAR",
+      "OPP.BUS STATION  VISNAGAR",
+      "VISNAGAR",
+      "Mehsana",
+      "Gujarat",
+      "384315"
+    ]
+  }
+}

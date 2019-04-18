@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Dr R K Tandon",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6195",
+  "name": "Parimaarjan",
+  "primaryEmail": "rajktandon@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "911122618418",
+    "911122618418"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "A-305",
+      "ILa Apartments Vasundhara Enclave",
+      "Delhi",
+      "New Delhi",
+      "110096"
+    ]
+  }
+}

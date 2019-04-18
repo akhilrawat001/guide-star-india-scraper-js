@@ -1,0 +1,23 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6075",
+  "name": "Om Sai Nirmalya Nirmulan Kendra",
+  "primaryEmail": "saidsanjeev@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919820025669"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Room no.10, Chawl no.5",
+      "Patel Nagar",
+      "Kurar Village, Malad East",
+      "Mumbai Suburban",
+      "Maharashtra",
+      "400097"
+    ]
+  }
+}

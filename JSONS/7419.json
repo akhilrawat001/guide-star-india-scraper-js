@@ -1,0 +1,44 @@
+{
+  "contacts": [
+    {
+      "name": "Chand Akkineni",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7419",
+  "name": "Lead India 2020 Foundation",
+  "primaryEmail": "chand@wol.com",
+  "website": "http://www.leadindia2020.org",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919949039375"
+  ],
+  "mainAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "2LH 1001 Lanco Hills",
+      "Manikonda",
+      "West Godavari",
+      "Andhra Pradesh",
+      "500089"
+    ]
+  },
+  "briefDescription": "This Organisation is situated in Manikonda, Hyderabad, Telangana State.",
+  "yearOfEstablishment": "2003",
+  "regiseredAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "2LH 1001 Lanco Hills",
+      "Lanco Hills",
+      "Manikonda",
+      "West Godavari",
+      "Andhra Pradesh",
+      "500089"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "contacts": [
+    {
+      "name": "Riya Saxena",
+      "email": "riya@ashaimpact.org",
+      "designation": "Associate",
+      "mobile": [
+        "91-9814610728"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9302",
+  "name": "ASHA IMPACT",
+  "primaryEmail": "riya@ashaimpact.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Grant-making",
+    "Intermediary",
+    "Network"
+  ],
+  "telephone": [
+    "919814610728"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "Kushal House, 2nd Floor, 39 Nehru Place",
+      "New Delhi",
+      "South Delhi",
+      "Delhi",
+      "110019"
+    ]
+  },
+  "yearOfEstablishment": "2014"
+}

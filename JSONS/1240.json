@@ -1,0 +1,27 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1240",
+  "name": "National Folklore Support Centre",
+  "primaryEmail": "info@indianfolklore.org",
+  "website": "http://indianfolklore.org",
+  "organisationType": [
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "914428229192",
+    "914442138410",
+    "914428229192"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "508, Fifth flloor, Kaveri Complex,",
+      "Mahatma Gandhi Road, Nungambakkam",
+      "Chennai",
+      "Tamil Nadu",
+      "600034",
+      "AP_TelBill_1144.PDF"
+    ]
+  }
+}

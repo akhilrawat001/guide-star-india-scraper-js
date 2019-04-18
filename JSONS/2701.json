@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Sunita Narangalkar",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2701",
+  "name": "Krantijyoti Savitribai Phule Shikshan Prasarak Mandal",
+  "primaryEmail": "sunitanarangalkar@yahoo.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919096208366"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Followers Quarter's PRB/123/1, Sadar Bazar",
+      "Ambajogai",
+      "Beed",
+      "Maharashtra",
+      "431517"
+    ]
+  }
+}

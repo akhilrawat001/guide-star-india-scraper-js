@@ -1,0 +1,44 @@
+{
+  "contacts": [
+    {
+      "name": "SHEIK ALI HUSSAIN",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "9347310760"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1902",
+  "name": "TECHNOLOGY EXTENTION SOCIETY",
+  "primaryEmail": "sheikalihussain@rediffmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "0919347310760"
+  ],
+  "mainAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "SHEIK ALI HUSSAIN, President, TECHNOLOGY EXTENTION SOCIETY,",
+      "VEERAVASARAM village,",
+      "West Godavari",
+      "Andhra Pradesh",
+      "534245"
+    ]
+  },
+  "briefDescription": "Our TECHNOLOGY EXTENTION SOCIETY is establishd for eating POISION less food...Creating awereness, training , implementation , rechearch on NATURAL FARMING...Creating awereness on food utilization, avoiding food wastage, colleting food form hotels, functions and utilize for poor people...Running Sport's and Game's Nurcessary....",
+  "yearOfEstablishment": "2005",
+  "regiseredAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "SHEIK ALI HUSSAIN, President, TECHNOLOGY EXTENTION SOCIETY,",
+      "Main Road,",
+      "VEERAVASARAM village,",
+      "West Godavari",
+      "Andhra Pradesh",
+      "534245"
+    ]
+  }
+}

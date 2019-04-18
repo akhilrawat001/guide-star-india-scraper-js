@@ -1,0 +1,35 @@
+{
+  "contacts": [
+    {
+      "name": "Indumoti Choudhury",
+      "email": "choudhuryindumoti09@gmail.com",
+      "designation": "Assistant Secretary",
+      "mobile": []
+    },
+    {
+      "name": "Indumoti Choudhury",
+      "email": "choudhuryindumoti09@gmail.com",
+      "designation": "Assistant Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2842",
+  "name": "Social Healing Works and Support Foundation",
+  "primaryEmail": "shwasfoundation93@rediffmil.com",
+  "telephone": [
+    "913323714112",
+    "913323379782",
+    "919433380868"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "4/32,",
+      "C.I.T. BUILDING(OLD)",
+      "Beleghata",
+      "Kolkata",
+      "West Bengal",
+      "700010"
+    ]
+  }
+}

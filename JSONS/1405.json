@@ -1,0 +1,25 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1405",
+  "name": "Margadarshi Society",
+  "primaryEmail": "marga_darshi@rediffmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "918472250315",
+    "918472250315"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "K.P.T.C.L.",
+      "110KV/11KV Muster Unit Sub-Station, South End, KEB Quarters",
+      "Tarfile",
+      "Kalaburagi (Gulbarga)",
+      "Karnataka",
+      "585102"
+    ]
+  }
+}

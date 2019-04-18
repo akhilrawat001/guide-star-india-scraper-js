@@ -1,0 +1,37 @@
+{
+  "contacts": [
+    {
+      "name": "Ritwij Kumar",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "2200354"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6482",
+  "name": "Koshish Charitable Trust",
+  "primaryEmail": "koshish.office@gmail.com",
+  "website": "www.koshish.info",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "916122200354",
+    "916122200354"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "Abdin house, Fraser Road, Patna 800001 Bihar, INDIA",
+      "Patna",
+      "Bihar",
+      "800001"
+    ]
+  },
+  "briefDescription": "The focus of the entire work of Koshish is on the nexus between lack of access to legal rights and economic, social and political deprivation. Bihar is a state where the Starvation situation was visible in the last five years and even now, socio-economic backward communities live with hunger.We have been working on food security, grass root justice delivery system, child rights, women empowerment, homeless, elderly, slum dwellers. Etc.Our direct beneficiaries are 17535",
+  "yearOfEstablishment": "1997"
+}

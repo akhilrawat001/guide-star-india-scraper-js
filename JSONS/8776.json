@@ -1,0 +1,38 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8776",
+  "name": "Vivekananda Kendra Natural Resources Development Project Trust",
+  "primaryEmail": "vknardep@gmail.com",
+  "website": "http://www.vknardep.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "914652246296",
+    "919442653975",
+    "919442646296"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "Vivekananda Kendra NARDEP",
+      "Vivekanandapuram",
+      "Kanyakumari",
+      "Tamil Nadu",
+      "629702"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "5, Singarachari Street",
+      "Triplicane",
+      "Chennai",
+      "Tamil Nadu",
+      "600005"
+    ]
+  }
+}

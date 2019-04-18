@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Ramandeep Sachdeva",
+      "email": "info@vmfoundation@gmail.com",
+      "designation": "Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1751",
+  "name": "Varija Madhava Foundation",
+  "primaryEmail": "info@vmfoundation.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "912261238700",
+    "912261238700"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Plot No-5/B",
+      "Trinity House, Qureshi Nagar",
+      "Kurla",
+      "Mumbai",
+      "Maharashtra",
+      "400070"
+    ]
+  }
+}

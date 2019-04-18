@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Neha Buch",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6200",
+  "name": "PRAVAH",
+  "primaryEmail": "mail@pravah.org",
+  "website": "http://www.pravah.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "911126440619",
+    "911126440619"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "C-24B, second floor",
+      "Kalkaji",
+      "New Delhi",
+      "Delhi",
+      "110019"
+    ]
+  }
+}

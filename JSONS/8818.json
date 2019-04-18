@@ -1,0 +1,36 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8818",
+  "name": "SANCTUARY OF LIVING SPRINGS",
+  "primaryEmail": "revhana@gmail.com",
+  "website": "www.solsindia.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919444869770",
+    "919566248245"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "No:2 Karpagambal Nagar",
+      "Nandiambakkam",
+      "Chennai",
+      "Tiruvallur",
+      "Tamil Nadu",
+      "600120"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "No 2, Karpagambal Nagar",
+      "Nandiambakkam",
+      "Chennai",
+      "Tiruvallur",
+      "Tamil Nadu",
+      "600120"
+    ]
+  }
+}

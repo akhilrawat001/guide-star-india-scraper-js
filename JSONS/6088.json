@@ -1,0 +1,34 @@
+{
+  "contacts": [
+    {
+      "name": "Swarnika",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "9945350909"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6088",
+  "name": "Gnaan Foundation",
+  "primaryEmail": "info@gnaan.org",
+  "website": "http://gnaan.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service"
+  ],
+  "telephone": [
+    "919945350909"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "#7/A, 8th Cross, Aditya Nagar,",
+      "Vidyaranyapura,",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560097"
+    ]
+  }
+}

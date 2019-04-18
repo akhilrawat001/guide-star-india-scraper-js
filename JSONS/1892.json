@@ -1,0 +1,35 @@
+{
+  "contacts": [
+    {
+      "name": "Naveen I. Thomas",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1892",
+  "name": "headstreams",
+  "primaryEmail": "contact@headstreams.org",
+  "website": "http://www.headstreams.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "918025200318",
+    "918025200318"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "No.2200, H.A.L. II Stage",
+      "17 A Main, 5 E Cross",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560008"
+    ]
+  }
+}

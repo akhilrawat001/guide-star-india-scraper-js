@@ -1,0 +1,38 @@
+{
+  "contacts": [
+    {
+      "name": "S J Joseph",
+      "email": "",
+      "designation": "Executive Director",
+      "mobile": []
+    },
+    {
+      "name": "S J Joseph",
+      "email": "",
+      "designation": "Executive Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1110",
+  "name": "Christian Concern Mission",
+  "primaryEmail": "ccmission@yahoo.com",
+  "website": "www.ccmission-shamshabad.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918413222176",
+    "918413222188",
+    "919704687721"
+  ],
+  "mainAddrress": {
+    "state": "Telangana",
+    "address": [
+      "20-82 CCM Complex  R. B. Nagar",
+      "Shamshabad",
+      "Rangareddy",
+      "Telangana",
+      "501218"
+    ]
+  }
+}

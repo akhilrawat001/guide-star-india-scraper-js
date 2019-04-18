@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Laxmi Narayan Pandey",
+      "email": "info@gayatrisansthan.org",
+      "designation": "Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3544",
+  "name": "GAYATRI SEVA SANSTHAN",
+  "primaryEmail": "info@gayatrisansthan.org",
+  "website": "http://www.gayatrisansthan.org",
+  "telephone": [
+    "912942464010",
+    "912942466675",
+    "912942464010"
+  ],
+  "mainAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "SECTOR-6",
+      "UDAIPUR",
+      "Udaipur",
+      "Rajasthan",
+      "313002"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Vimala Chigurupati",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5610",
+  "name": "Sudheekshan Foundation",
+  "primaryEmail": "sudheekshan@yahoo.com",
+  "website": "www.sudheekshanfoundation.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "+918985356811"
+  ],
+  "mainAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "DNO-13-101/1TF-2,Srinivasa Residency, Ashok Nagar,Vijayawada-7",
+      "same address",
+      "vijayawada",
+      "Krishna",
+      "Andhra Pradesh",
+      "520007"
+    ]
+  }
+}

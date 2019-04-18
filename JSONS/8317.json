@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "name": "ANIMESH",
+      "email": "jharkhand.swabhiman@yahoo.com",
+      "designation": "VOLUNTEER",
+      "mobile": []
+    },
+    {
+      "name": "ANIMESH",
+      "email": "jharkhand.swabhiman@yahoo.com",
+      "designation": "VOLUNTEER",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8317",
+  "name": "JHARKHAND SWABHIMAN RANCHI",
+  "primaryEmail": "jharkhand.swabhiman@yahoo.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919431354299",
+    "919973862285"
+  ],
+  "mainAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "B-34,",
+      "Baldeo Sahay Lane",
+      "Church Road",
+      "Ranchi",
+      "Jharkhand",
+      "834001"
+    ]
+  },
+  "briefDescription": "JHARKHAND SWABHIMAN is based at RANCHI, JHARKHAND. This year we celebrated our 15th Anniversary! Fifteen years of dedicated service of upliftment of rural women and children of Jharkhand. Our journey has been full of learning, with plenty of both success and challenges.",
+  "yearOfEstablishment": "2002"
+}

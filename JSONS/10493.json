@@ -1,0 +1,34 @@
+{
+  "contacts": [
+    {
+      "name": "Gunjan Gupta",
+      "email": "gunjan@airavath.ngo",
+      "designation": "Chairman",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10493",
+  "name": "Airavath Foundation",
+  "primaryEmail": "gunjan@airavath.ngo",
+  "website": "https://www.airavath.ngo/",
+  "organisationType": [
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "918764175345"
+  ],
+  "mainAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "18 Nand Vihar",
+      "Vaishali Nagar",
+      "Jaipur",
+      "Rajasthan",
+      "302021"
+    ]
+  },
+  "briefDescription": "MissionTo improve Accessibility & Smart Living with TechnologyVisionA world in which every human is equally able and every technology is connected.Short Time Goal: Creating an affordable wearable glasses for Visually Impaired Person which will increase self-confidence and a sense of security by assisting in reading printed text, navigation and performing daily tasks independently with the use of technological developments.Long Time Goal: Creating a Bionic Eye which will replace all human vision issues at an affordable cost. Creating a smart living system which will connect all hardware and software regardless of connectivity, manufacturer or language barrier.",
+  "yearOfEstablishment": "2018"
+}

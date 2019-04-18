@@ -1,0 +1,26 @@
+{
+  "contacts": [
+    {
+      "name": "Sangamesh DG",
+      "email": "",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=881",
+  "name": "The Galliard Society (Help For The Children)",
+  "primaryEmail": "galliardsociety@rediffmail.com",
+  "telephone": [
+    "919322490550"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "403 Panch Sheel bhawan Shiv marg Lal Chakki Road ,",
+      "Ulhasnagar",
+      "Thane",
+      "Maharashtra",
+      "421004"
+    ]
+  }
+}

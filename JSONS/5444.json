@@ -1,0 +1,60 @@
+{
+  "contacts": [
+    {
+      "name": "Mr. Archit Bose",
+      "email": "admin@pragya.org",
+      "designation": "Assistant Manager",
+      "mobile": [
+        "91-124-4947000"
+      ]
+    },
+    {
+      "name": "Mr. Archit Bose",
+      "email": "admin@pragya.org",
+      "designation": "Assistant Manager",
+      "mobile": [
+        "91-124-4947000"
+      ]
+    },
+    {
+      "name": "Mr. Archit Bose",
+      "email": "admin@pragya.org",
+      "designation": "Assistant Manager",
+      "mobile": [
+        "91-124-4947000"
+      ]
+    },
+    {
+      "name": "Mr. Archit Bose",
+      "email": "admin@pragya.org",
+      "designation": "Assistant Manager",
+      "mobile": [
+        "91-124-4947000"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5444",
+  "name": "PRAGYA",
+  "primaryEmail": "info@pragya.org",
+  "website": "http://www.pragya.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "911244947000",
+    "911244947000"
+  ],
+  "mainAddrress": {
+    "state": "Haryana",
+    "address": [
+      "83, Institutional Area",
+      "Sector 44",
+      "Gurgaon",
+      "Gurugram",
+      "Haryana",
+      "122003"
+    ]
+  },
+  "briefDescription": "Pragya was set up with a concern for last-mile communities neglected and marginalized in the development process, and unique ecosystems (frequently the two converge) that suffer the destruction brought about by overuse of resources and inappropriate development. Our initial grassroots work was focusedon the high altitude belt of the Himalayan region across India and Nepal. Today, we have reached out to remote regions and isolated communities in other continents in our drive to address the development needs of all such areas and people in the world. Number of people served is 2.5 lakh.",
+  "yearOfEstablishment": "1995"
+}

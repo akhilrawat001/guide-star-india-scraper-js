@@ -1,0 +1,37 @@
+{
+  "contacts": [
+    {
+      "name": "Prasanta Nayak",
+      "email": "unnayanmail@yahoo.com",
+      "designation": "Coordinator",
+      "mobile": [
+        "91-6758-235111"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1388",
+  "name": "UNNAYAN",
+  "primaryEmail": "unnayanmail@gmail.com",
+  "website": "www.unnayan.org.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "916758235106",
+    "916758235111",
+    "919437111225"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "At/Po.- Renghalo",
+      "Via - Rench,",
+      "Puri",
+      "Odisha",
+      "752114"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "contacts": [
+    {
+      "name": "PRAMOD BASTIA",
+      "email": "wits.bbsr@yahoo.com",
+      "designation": "Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4639",
+  "name": "Karma Bhumi",
+  "primaryEmail": "wits.bbsr@yahoo.com",
+  "telephone": [
+    "916742314499",
+    "918093510040"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "Admisnistrative Office: Plot - 10/4459,",
+      "At- Chintamaniswar , Po- Budheswari",
+      "Cuttack",
+      "Odisha",
+      "751006"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Richard",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5969",
+  "name": "EMPOWER YOUR ENVIRONMENT SOCIETY INDIA (EYES INDIA)",
+  "primaryEmail": "eyesindiaorg@gmail.com",
+  "website": "www.eyesindia.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918826704227"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "G1/2 First Floor,SANTPURA",
+      "Model Town-III",
+      "DELHI",
+      "North Delhi",
+      "Delhi",
+      "110009"
+    ]
+  }
+}

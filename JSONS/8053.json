@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "name": "Abarna Roy",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8053",
+  "name": "AYOD VIKAS SOCIETY",
+  "primaryEmail": "avsorg2006@gmail.com",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "918292301434"
+  ],
+  "mainAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "Vill – Raneswar,",
+      "P.O. – Raghunathpur,",
+      "Dumka",
+      "Jharkhand",
+      "814148"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "Vill ï¿½ Raneswar,",
+      "P.O. ï¿½ Raghunathpur,",
+      "Dumka",
+      "Jharkhand",
+      "814148"
+    ]
+  }
+}

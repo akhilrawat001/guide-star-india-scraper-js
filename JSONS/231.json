@@ -1,0 +1,45 @@
+{
+  "contacts": [
+    {
+      "name": "Anita Kumbhani",
+      "email": "",
+      "designation": "Project Co-ordinator",
+      "mobile": []
+    },
+    {
+      "name": "Anita Kumbhani",
+      "email": "",
+      "designation": "Project Co-ordinator",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=231",
+  "name": "The Anchorage",
+  "primaryEmail": "theanchorage@gmail.com",
+  "website": "www.rootedinhope.org",
+  "telephone": [
+    "912224936346",
+    "912224936346"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "204/205 Nirman Kendra, Dr E Moses Road",
+      "Famous Studio Lane Mahalaxmi",
+      "Mumbai",
+      "Maharashtra",
+      "400011"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Ujamshi Bhavan, 1st Floor",
+      "127, V P Road",
+      "Mumbai",
+      "Maharashtra",
+      "400004",
+      "AP_TelBill_132.PDF"
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=173",
+  "name": "Prayas",
+  "primaryEmail": "aksaoji@gmail.com",
+  "website": "www.prayasngo.net",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "917212573256",
+    "919420722107"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "PRAYAS Sevankur Bhavan",
+      "Vimalnagar, Farshi Stop",
+      "Amravati",
+      "Maharashtra",
+      "444605"
+    ]
+  },
+  "briefDescription": "Spreading Awareness regarding Health, Education, Promoting Voluntarism in youths, Life skill training – No. of people served - 200000",
+  "yearOfEstablishment": "1994",
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Shrikrishna Colony, Chandur Bazar",
+      "Chandur Bazar",
+      "Amravati",
+      "Maharashtra",
+      "444704",
+      "AP_TelBill_73.PDF"
+    ]
+  }
+}

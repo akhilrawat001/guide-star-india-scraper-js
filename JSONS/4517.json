@@ -1,0 +1,46 @@
+{
+  "contacts": [
+    {
+      "name": "Deepak Billa",
+      "email": "deepak.billa@leepindia.org",
+      "designation": "Coordinator",
+      "mobile": [
+        "91-8860372345"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4517",
+  "name": "LEEP",
+  "primaryEmail": "deepak.billa@leepindia.org",
+  "website": "http://www.leepindia.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918860372345"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "H.No. 8, 2nd Floor, DDA Flats",
+      "Khirki Village, Malviya Nagar,",
+      "New Delhi",
+      "South Delhi",
+      "Delhi",
+      "110017"
+    ]
+  },
+  "briefDescription": "LEEP India is promoted by the Federations.LEEP India works mainly for capacity building of its members in the areas of financial inclusion, financial awareness and livelihood security. It also works contribute to the body of knowledge in these areas. LEEP India two category of members – primary and associate. SHG Federations are the primary members while the partner organisations are the associate members. ChildFund India is also a primary member of LEEP India.",
+  "yearOfEstablishment": "2012",
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "B-106, Yamuna Apartments",
+      "Alaknanda",
+      "New Delhi",
+      "South Delhi",
+      "Delhi",
+      "110019"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "contacts": [
+    {
+      "name": "Marjori Aziz",
+      "email": "",
+      "designation": "Secretary/ Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=616",
+  "name": "Unnati Sansthan",
+  "primaryEmail": "unnatirajasthan@gmail.com",
+  "telephone": [
+    "912942811044",
+    "912942811044"
+  ],
+  "mainAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "86, Kardhar Complex",
+      "Sector-14",
+      "Hiran Magri",
+      "Udaipur",
+      "Rajasthan",
+      "313002"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "Odo Ka Gooda, The. Gogunda",
+      "Udaipur",
+      "Rajasthan",
+      "313705"
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Harapriya Panda",
+      "email": "maitreebansebasangha.konark@gmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8576",
+  "name": "Maitreeban Seba Sangha",
+  "primaryEmail": "maitreebansebasangha.konark@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919938310259"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "At Raulpatna",
+      "Via Konark",
+      "Puri",
+      "Odisha",
+      "752111"
+    ]
+  }
+}

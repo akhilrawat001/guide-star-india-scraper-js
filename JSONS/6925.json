@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Kanahaiya Lal Menaria",
+      "email": "lvs_udr@rediffmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6925",
+  "name": "LOK VIKAS SAMITI",
+  "primaryEmail": "lvs_udr@rediffmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919928510405"
+  ],
+  "mainAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "Plot No.-08",
+      "Dholi Magri, Paneriyon ki Madri",
+      "Udaipur",
+      "Rajasthan",
+      "313002"
+    ]
+  }
+}

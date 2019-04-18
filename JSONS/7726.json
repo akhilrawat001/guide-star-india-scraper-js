@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Mrs. K. V. Rajani",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7726",
+  "name": "KANAKA MAHA LAKSHMI MAHILA MANDALI",
+  "primaryEmail": "kmm_ngo@rediffmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919000659020"
+  ],
+  "mainAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "15/210/2A, Main Road,",
+      "KUTAGULLA",
+      "Kadiri",
+      "Anantapur",
+      "Andhra Pradesh",
+      "515541"
+    ]
+  }
+}

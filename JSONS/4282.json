@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Sekar K",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4282",
+  "name": "Isha Outreach",
+  "primaryEmail": "info@ishaoutreach.org",
+  "website": "www.ishaoutreach.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "914222580155",
+    "914222580155"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "No-17, Govindasamy Naidu Layout, Singanallur, Coimbatore",
+      "Coimbatore",
+      "Tamil Nadu",
+      "641005"
+    ]
+  }
+}

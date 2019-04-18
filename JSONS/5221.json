@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "name": "Asha Karande",
+      "email": "ashkarande@gmail.com",
+      "designation": "Tribe Builder",
+      "mobile": []
+    },
+    {
+      "name": "Asha Karande",
+      "email": "ashkarande@gmail.com",
+      "designation": "Tribe Builder",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5221",
+  "name": "Dreamcatchers Foundation",
+  "primaryEmail": "dreamcatchersfoundationindia@gmail.com",
+  "website": "http://www.dreamcatchersfoundation.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919892612646"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Krishnasmurthi Building Ground Floor, Plot No 12/RR Chuim Village Khar (West) Mumbai",
+      "Chuim Village Khar (West) Mumbai",
+      "Mumbai",
+      "Maharashtra",
+      "400052"
+    ]
+  }
+}

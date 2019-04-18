@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "MS.DEBAJYOTI NANDA",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7081",
+  "name": "RAJNAGAR WELFARE SOCIETY",
+  "primaryEmail": "nandarws@yahoo.in",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919475221673"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "VILL +PO UCHUDIHA DIST-PASCHIM",
+      "VILL-UCHUDIHA",
+      "VILL PO UCHUDIHA",
+      "West Medinipur",
+      "West Bengal",
+      "721451"
+    ]
+  }
+}

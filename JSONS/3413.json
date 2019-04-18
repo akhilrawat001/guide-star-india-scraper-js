@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Javed Hashmi",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3413",
+  "name": "Jagrati Sewa Sansthan",
+  "primaryEmail": "up_jagrati@rediffmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919452173066"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "665/7Bengali pura,Near Head Post Office,Banda(u.p.)",
+      "Pili Cothi road,Chhawni,Banda",
+      "Banda",
+      "Uttar Pradesh",
+      "210001"
+    ]
+  }
+}

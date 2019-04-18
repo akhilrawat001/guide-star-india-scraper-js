@@ -1,0 +1,35 @@
+{
+  "contacts": [
+    {
+      "name": "Ms. Usha Bharadwaj",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "9381023173"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4498",
+  "name": "Freedom",
+  "primaryEmail": "freedomtrust@gmail.com",
+  "website": "http://freedomtrustchennai.org/",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919381023173",
+    "919940641083"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "Flat # 9, Block G-1, Anand Apartments",
+      "50 L B Road, Thiruvanmiyur",
+      "Chennai",
+      "Tamil Nadu",
+      "600041"
+    ]
+  },
+  "briefDescription": "Dr.Sunder (www.drsunder.com) founded Freedom trust in 1997(www.freedomtrustchennai.org )and decided to rehabilitate through camps in rural areas of Tamilnadu to assess,recommend physiotherapy, occupational therapy, and prescribe locomotor aids like crutches, or calipers etc. We also realized very early that a large population of disabled people lived outside the ambit of Rehab.care. The Trust has completed over 100 camps in villages all over Tamilnadu. Very often we draw on the resources of the NGO's in the area for complete coverage and participation.Freedom Trust works to limit disability of poor people with an objective to improve quality of life, empower them to lead life with dignity and contributute to the larger society",
+  "yearOfEstablishment": "1996"
+}

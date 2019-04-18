@@ -1,0 +1,27 @@
+{
+  "contacts": [
+    {
+      "name": "AMIYA PATHAK BORPUZHARI",
+      "email": "gpamalraj@gmail.com",
+      "designation": "SECRETARY",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4651",
+  "name": "Mrinaljyoti Rehabilitation Centre",
+  "primaryEmail": "mrinaljyoti@yahoo.co.in",
+  "telephone": [
+    "919954485197"
+  ],
+  "mainAddrress": {
+    "state": "Assam",
+    "address": [
+      "Kumud Nagar,",
+      "Po. Jaloni Dibrudowar, Duliajan",
+      "DIBRUGARH",
+      "Dibrugarh",
+      "Assam",
+      "786602"
+    ]
+  }
+}

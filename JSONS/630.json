@@ -1,0 +1,42 @@
+{
+  "contacts": [
+    {
+      "name": "Nandkumar J Kamte",
+      "email": "",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=630",
+  "name": "Institute for Information Technology Foundation",
+  "primaryEmail": "iitfmumbai@gmail.com",
+  "website": "www.iitfm.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "912222960707",
+    "912222960734",
+    "919892407091"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "1/Gr Floor, Kohinoor Mill Compound",
+      "B. D. Marg, Naigaon, Dadar",
+      "Mumbai",
+      "Maharashtra",
+      "400014"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "15158, Spring Mill Compund",
+      "G. D. Ambekar Marg, Naigaon, Dadar (E),",
+      "Mumbai",
+      "Maharashtra",
+      "400014"
+    ]
+  }
+}

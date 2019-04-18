@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Sharwan S Teli",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7977",
+  "name": "SHRI SWAMI SAMRTHA BAHUUDESHIYA SANSTHA KUSUMBE",
+  "primaryEmail": "sschaudhari444@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919970919539"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "At Kusumbe",
+      "Chopda",
+      "Jalgaon",
+      "Maharashtra",
+      "425001"
+    ]
+  }
+}

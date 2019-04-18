@@ -1,0 +1,23 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1234",
+  "name": "Youth Development Charitable Trust",
+  "primaryEmail": "ydcpublictrust@yahoo.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "mainAddrress": {
+    "address": []
+  },
+  "regiseredAddrress": {
+    "state": "Kerala",
+    "address": [
+      "YDCT,PB No.47, VII/361(1),",
+      "Puthiyapadikal, Ambilery, Kalpetta",
+      "Wayanad",
+      "Kerala",
+      "673121",
+      "AP_TelBill_1138.PDF"
+    ]
+  }
+}

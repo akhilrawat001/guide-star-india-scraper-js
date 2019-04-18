@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Pratik Raval",
+      "email": "team_gsnpplus@yahoo.co.in",
+      "designation": "Secretary",
+      "mobile": []
+    },
+    {
+      "name": "Pratik Raval",
+      "email": "team_gsnpplus@yahoo.co.in",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1976",
+  "name": "Gujarat State Network Of People Living With HIV And AIDS (GSNP+)",
+  "primaryEmail": "team_gsnpplus@yahoo.co.in",
+  "telephone": [
+    "912612555200",
+    "919925044967"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "4 - 6, Above Tapi Medical Store",
+      "Soni Panch Ni Wadi, Modi Mohalla, Near Gaushala, Ashwani Kumar Road",
+      "Surat",
+      "Gujarat",
+      "395008"
+    ]
+  }
+}

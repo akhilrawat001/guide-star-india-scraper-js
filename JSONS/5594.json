@@ -1,0 +1,41 @@
+{
+  "contacts": [
+    {
+      "name": "Avipsha Thakur",
+      "email": "avipsha@roshniacademy.org",
+      "designation": "Director of Operations",
+      "mobile": [
+        "91-11-41040838"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5594",
+  "name": "Roshni",
+  "primaryEmail": "info@roshniacademy.org",
+  "website": "www.roshniacademy.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "911141040838",
+    "911141040838"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "516, DLF Tower A, Jasola",
+      "New Delhi",
+      "Delhi",
+      "110025"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "152, Golf Links,",
+      "New Delhi",
+      "Delhi",
+      "110003"
+    ]
+  }
+}

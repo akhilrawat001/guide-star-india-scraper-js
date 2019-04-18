@@ -1,0 +1,35 @@
+{
+  "contacts": [
+    {
+      "name": "Tajuddin Khan",
+      "email": "tajuddin.khan2006@gmail.com",
+      "designation": "President",
+      "mobile": []
+    },
+    {
+      "name": "Tajuddin Khan",
+      "email": "tajuddin.khan2006@gmail.com",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2961",
+  "name": "Deep Shikha Samiti",
+  "primaryEmail": "samiti.deepshikha@yahoo.co.in",
+  "website": "www.deepshikha.org.in",
+  "telephone": [
+    "919212540147"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "C 292, DDA COLONY",
+      "Khyala",
+      "New Delhi",
+      "Delhi",
+      "110018"
+    ]
+  },
+  "briefDescription": "Deepshikha Samiti is a voluntary organization, registered under the societies ACT of the Govt. of NCT of Delhi. It has been working at the grassroots level since 1994 in Delhi and other states for socio-economic development of urban and rural areas. Deepshikha Samiti has worked with the disadvantaged communities, poor and marginalized sections in the field of peace, non violence, justice, human rights, education, health, employment and participation in governance. Development programs are based on the felt needs of people with an effort to mobilize participation for their individual and community development. In last many years it has been partner with much international organization for various development works.",
+  "yearOfEstablishment": "1994"
+}

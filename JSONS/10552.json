@@ -1,0 +1,31 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10552",
+  "name": "Anchalik Grama Vikash Parisad",
+  "primaryEmail": "agvpmuktiniketan@yahoo.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919437188800"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "Muktiniketan, Pundal,",
+      "Baleswar",
+      "Odisha",
+      "756020"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Odisha",
+    "address": [
+      "At/Po : Pundal,",
+      "Balasore",
+      "Baleswar",
+      "Odisha",
+      "756020"
+    ]
+  }
+}

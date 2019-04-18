@@ -1,0 +1,40 @@
+{
+  "contacts": [
+    {
+      "name": "Dwiti Vikramaditya",
+      "email": "dwiti.vikramaditya@gmail.com",
+      "designation": "Consultant",
+      "mobile": [
+        "91-674-2595850"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=386",
+  "name": "Kalinga Relief and Charitable Trust",
+  "primaryEmail": "donation@kissorissa.org",
+  "website": "http://www.kissorissa.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service"
+  ],
+  "telephone": [
+    "916742725386",
+    "916742725386"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "KIIT Campus -10",
+      "Bhubaneswar",
+      "Khordha",
+      "Odisha",
+      "751024"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Odisha",
+    "address": [
+      "Odisha"
+    ]
+  }
+}

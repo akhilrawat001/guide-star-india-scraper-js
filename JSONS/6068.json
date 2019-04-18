@@ -1,0 +1,37 @@
+{
+  "contacts": [
+    {
+      "name": "MANISH UPADHYAY",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "4299319"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6068",
+  "name": "SANKALP JAN SEVA SAMITI",
+  "primaryEmail": "sjss_org@rediffmail.com",
+  "website": "www.sjss.co.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "917554299319",
+    "917554299319"
+  ],
+  "mainAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "4, Shri Ramkunj, E-8, Arera Colony",
+      "Bharat Nagar, Shahpura",
+      "Bhopal",
+      "Madhya Pradesh",
+      "462039"
+    ]
+  }
+}

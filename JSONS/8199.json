@@ -1,0 +1,23 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8199",
+  "name": "Uttam Sewa Sansthan",
+  "primaryEmail": "uttamsewasansthan@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919453892852"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "Shukulpurwa Dolkuwa",
+      "Ganga jamuni",
+      "Bahraich",
+      "Uttar Pradesh",
+      "271821"
+    ]
+  }
+}

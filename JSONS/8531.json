@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Dr Yogendra Prasad Thakur",
+      "email": "srd0029@gmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8531",
+  "name": "SOCIETY FOR RURAL DEVELOPMENT",
+  "primaryEmail": "srd0029@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Network"
+  ],
+  "telephone": [
+    "919931870205"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "GANGASAGER COLONY (NEAR RAM CHOWK, POLICELINE)",
+      "P.O.-BHOUWARA",
+      "MADHUBANI",
+      "Madhubani",
+      "Bihar",
+      "847212"
+    ]
+  }
+}

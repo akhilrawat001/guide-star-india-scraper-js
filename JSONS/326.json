@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "name": "Pervez Raza",
+      "email": "razaparvez19@yahoo.com",
+      "designation": "Project Manager",
+      "mobile": []
+    },
+    {
+      "name": "Pervez Raza",
+      "email": "razaparvez19@yahoo.com",
+      "designation": "Project Manager",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=326",
+  "name": "Azad India Foundation",
+  "primaryEmail": "aif_org@yahoo.co.in",
+  "website": "http://www.azadindia.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "916456222483",
+    "916456222483"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "Azad Manzil",
+      "Line Mohalla",
+      "Kishanganj",
+      "Bihar",
+      "855107"
+    ]
+  },
+  "briefDescription": "Azad India Foundation is working in the fields of nonformal education,literacy,healthcare and livelihoods. It is directly working with 5000 children.",
+  "yearOfEstablishment": "2001"
+}

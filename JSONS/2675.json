@@ -1,0 +1,36 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2675",
+  "name": "United Micro Credit (India)",
+  "primaryEmail": "bharanichander@gmail.com",
+  "website": "www.unitedcredit.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919345391919",
+    "914162240460"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "No.1A, K.G.Complex",
+      "2nd East Main Road",
+      "Vellore",
+      "Tamil Nadu",
+      "632006"
+    ]
+  },
+  "briefDescription": "United Micro Credit (India) provides effective financial solutions to low income individuals particularly women and micro-entrepreneurs empowering them with better living condition, health, education and sanitation.",
+  "yearOfEstablishment": "2011",
+  "regiseredAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "No.1B,1st Floor,K.G.Complex",
+      "2nd East Main Road,Gandhi Nagar",
+      "Vellore",
+      "Tamil Nadu",
+      "632006"
+    ]
+  }
+}

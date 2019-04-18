@@ -1,0 +1,35 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7045",
+  "name": "SAJAG FOUNDATION (NGO)",
+  "primaryEmail": "sajag_foundation@yahoo.in",
+  "website": "http://www.sajagfoundation.ngo",
+  "organisationType": [
+    "Direct Service",
+    "Intermediary",
+    "Support"
+  ],
+  "telephone": [
+    "919871604394"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "73, Block No.21",
+      "Trilok Puri",
+      "Delhi",
+      "East Delhi",
+      "110091"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "56, Block No.1",
+      "Trilok Puri",
+      "Delhi",
+      "East Delhi",
+      "110091"
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "contacts": [
+    {
+      "name": "Caroline Tina Prince",
+      "email": "tina@freedom.firm.in",
+      "designation": "Development Manager",
+      "mobile": [
+        "91-423-2442093"
+      ]
+    },
+    {
+      "name": "Caroline Tina Prince",
+      "email": "tina@freedom.firm.in",
+      "designation": "Development Manager",
+      "mobile": [
+        "91-423-2442093"
+      ]
+    },
+    {
+      "name": "Caroline Tina Prince",
+      "email": "tina@freedom.firm.in",
+      "designation": "Development Manager",
+      "mobile": [
+        "91-423-2442093"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5425",
+  "name": "FREEDOM FIRM",
+  "primaryEmail": "contact@freedom.firm.in",
+  "website": "www.freedom.firm.in",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "914232442093",
+    "914232443053",
+    "914232442093"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "78/85, Indu Sadan",
+      "Glenrock",
+      "Ooty",
+      "The Nilgiris",
+      "Tamil Nadu",
+      "643001"
+    ]
+  },
+  "briefDescription": "Freedom Firm seeks to eliminate child prostitution in India by providing rescue, restoration, and justice for victims of sex trafficking. We accomplish this by identifying victims and perpetrators of sex trafficking, mobilizing law enforcement agencies to rescue victims and arrest perpetrators, assisting the legal system during prosecution, and enabling rescued girls to engage in effective rehabilitation which includes the opportunity to work in the jewelry micro-enterprise business, Ruhamah Designs. Since 2006, Freedom Firm has conducted over 250 investigations and rescued over 350 girls from various cities across India. Proceedings have been initiated against perpetrators in over 140 criminal cases, with 9 convictions achieved to date.",
+  "yearOfEstablishment": "2007"
+}

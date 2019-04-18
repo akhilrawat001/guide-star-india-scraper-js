@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "ZAHOOR BOAT",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5049",
+  "name": "FLIGHT EDUCATIONAL AND CHARITABLE TRUST",
+  "primaryEmail": "zahoor_boat@yahoo.com",
+  "website": "www.fectedu.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "912359244597",
+    "912359244597"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "AT POST: SHRINGAR TALI",
+      "ABOVE SYNDICATE BANK",
+      "TALUKA : GUHAGAR",
+      "Ratnagiri",
+      "Maharashtra",
+      "415724"
+    ]
+  }
+}

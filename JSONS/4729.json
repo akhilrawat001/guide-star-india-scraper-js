@@ -1,0 +1,43 @@
+{
+  "contacts": [
+    {
+      "name": "Ankit Kanani",
+      "email": "ankit.touchinglives@gmail.com",
+      "designation": "Communication Head",
+      "mobile": [
+        "91-9833677541"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4729",
+  "name": "Touching Lives Welfare Trust",
+  "primaryEmail": "ankit.touchinglives@gmail.com",
+  "website": "http://www.touchonelife.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919833677541",
+    "918976440305"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "937, Ijmima",
+      "near new Infinity mall, Link road, Malad(West)",
+      "Mumbai",
+      "Maharashtra",
+      "400064"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "305, A wing, Navroz apt.,",
+      "S.V. road, Dahisar(East)",
+      "Mumbai",
+      "Maharashtra",
+      "400068"
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Mukthi Flavia Lobo",
+      "email": "christasharan@gmail.com",
+      "designation": "Project Officer",
+      "mobile": []
+    },
+    {
+      "name": "Mukthi Flavia Lobo",
+      "email": "christasharan@gmail.com",
+      "designation": "Project Officer",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1786",
+  "name": "Sri Christa Sharan Soceity Development Society",
+  "primaryEmail": "christasharan@gmail.com",
+  "telephone": [
+    "918267255714",
+    "918267255714"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "Railway Station Road",
+      "Birur",
+      "Chikkamagaluru",
+      "Karnataka",
+      "577116"
+    ]
+  }
+}

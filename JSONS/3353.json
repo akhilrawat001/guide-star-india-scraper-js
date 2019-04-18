@@ -1,0 +1,39 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3353",
+  "name": "Majhipara Ambedkar Centre For Human Research And Development",
+  "primaryEmail": "machrd.centre@gmail.com",
+  "website": "machrd.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "913324532315",
+    "919433211479"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "185D Majhipara Road",
+      "Land Mark: Opposite To Majhipara Transformer",
+      "Kolkata",
+      "South 24 Parganas",
+      "West Bengal",
+      "700063"
+    ]
+  },
+  "briefDescription": "Our organisation conducts scientific and social research,Promotion of education and training,provide health awareness and medical services, and try to facilitates social and cultural development",
+  "yearOfEstablishment": "2005",
+  "regiseredAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "185D Majhipara Road",
+      "Land Mark: Opposite To Majhipara Transformer",
+      "Kolkata",
+      "West Bengal",
+      "700063"
+    ]
+  }
+}

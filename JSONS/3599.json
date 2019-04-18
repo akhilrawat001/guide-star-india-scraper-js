@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Prof. A.K. Susheela",
+      "email": "FRnRDF@gmail.com",
+      "designation": "Executive Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3599",
+  "name": "Fluorosis Research and Rural Development Foundation",
+  "primaryEmail": "FRnRDF@gmail.com",
+  "website": "www.fluorideandfluorosis.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919810535228"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "B-1 Saransh, 34 Indraprastha Extension,",
+      "(Opposite Mandawali Fire Station)",
+      "Delhi",
+      "East Delhi",
+      "110092"
+    ]
+  }
+}

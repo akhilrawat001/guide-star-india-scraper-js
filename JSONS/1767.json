@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "Ashok Kumar Gajula",
+      "email": "ngomayafoundation@gmail.com",
+      "designation": "Managing Director",
+      "mobile": [
+        "91-9866007562"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1767",
+  "name": "Maya Foundation",
+  "primaryEmail": "ngomayafoundation@gmail.com",
+  "telephone": [
+    "919866007562"
+  ],
+  "mainAddrress": {
+    "state": "Telangana",
+    "address": [
+      "H No.6-2-406",
+      "Opp: S.B.H. Lane,Subhash Nagar",
+      "Nizamabad",
+      "Telangana",
+      "503002"
+    ]
+  }
+}

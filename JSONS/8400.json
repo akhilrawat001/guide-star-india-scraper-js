@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Bidyut Maiti",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8400",
+  "name": "MOYNA VIVEKANANDA MISSION",
+  "primaryEmail": "bmaiti79@gmail.com",
+  "website": "www.themvmttc.org",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "919732565467"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Vill-Gopalchak,",
+      "Moyna",
+      "East Medinipur",
+      "West Bengal",
+      "721629"
+    ]
+  }
+}

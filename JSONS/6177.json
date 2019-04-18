@@ -1,0 +1,24 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6177",
+  "name": "Madhur Muskan",
+  "primaryEmail": "madhur.muskan.ranchi@gmail.com",
+  "website": "http://madhurmuskan.org/",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919334700371"
+  ],
+  "mainAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "4 A, Om Shanti Tower,",
+      "Bangla School lane, OCC,",
+      "Main Road,",
+      "Ranchi",
+      "Jharkhand",
+      "834001"
+    ]
+  }
+}

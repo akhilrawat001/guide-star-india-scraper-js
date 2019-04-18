@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Sunil Kumar Hembram",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "40043830"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9283",
+  "name": "Consortium for Training Research and Development",
+  "primaryEmail": "ctrd123@rediffmail.com",
+  "website": "www.ctrdindia.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "913340043830",
+    "913340043830"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "AE-641, Sector-I",
+      "Salt Lake City,",
+      "Kolkata",
+      "West Bengal",
+      "700064"
+    ]
+  }
+}

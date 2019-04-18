@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "P.K Paul",
+      "email": "cecoedecon@gmail.com",
+      "designation": "Secretary",
+      "mobile": [
+        "91-141-2771488"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1711",
+  "name": "Centre for Community Economics and Development Consultant Society",
+  "primaryEmail": "cecoedecon@gmail.com",
+  "telephone": [
+    "911412771488",
+    "919829059203"
+  ],
+  "mainAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "Swaraj",
+      "F-159-160, Sitapura Industrial and Institutional Area",
+      "Jaipur",
+      "Rajasthan",
+      "302022"
+    ]
+  }
+}

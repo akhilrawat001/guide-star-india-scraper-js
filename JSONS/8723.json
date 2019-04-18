@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "Biveka Nand Jha",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "9716055992"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8723",
+  "name": "HANDS FOR HELP",
+  "primaryEmail": "handsforhelp.ngo@gmail.com",
+  "website": "www.handsforhelp.co.in",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919716055992"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "Gali no-6",
+      "Azzad chock",
+      "Sangamvihar, jharoda",
+      "North Delhi",
+      "Delhi",
+      "110084"
+    ]
+  },
+  "briefDescription": "\"HANDS FOR HELP\"  WORK ALL OVER INDIA  AT EDUCATION, HELTH, WOMEN, CHILD,POOR,ETC",
+  "yearOfEstablishment": "2015"
+}

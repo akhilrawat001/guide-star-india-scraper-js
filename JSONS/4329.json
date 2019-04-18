@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Ashlesha O",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4329",
+  "name": "Deep Griha Society",
+  "primaryEmail": "deepgriha@gmail.com",
+  "website": "http://www.deepgriha.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "912040187373",
+    "912040187373"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "13, Tadiwala Road,",
+      "Pune",
+      "Maharashtra",
+      "411040"
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1790",
+  "name": "Mukti",
+  "primaryEmail": "mukti.jitubhai@gmail.com",
+  "website": "www.muktiorissa.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "916762224919",
+    "919437188101"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "Gandhimandir Road",
+      "Dhenkanal",
+      "Odisha",
+      "759001"
+    ]
+  }
+}

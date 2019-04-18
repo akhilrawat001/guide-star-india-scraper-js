@@ -1,0 +1,39 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=137",
+  "name": "Light",
+  "primaryEmail": "lightforsociety@gmail.com",
+  "website": "www.lightindia.net",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service"
+  ],
+  "telephone": [
+    "914425550427",
+    "914442834443",
+    "919940019325"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "No.4/141, Kamaraj Salai",
+      "Manjambakkam, Madhavaram",
+      "Chennai",
+      "Tiruvallur",
+      "Tamil Nadu",
+      "600060"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "No. 19/7, Kilburn Nagar",
+      "Madhavaram",
+      "Chennai",
+      "Tiruvallur",
+      "Tamil Nadu",
+      "600060",
+      "AP_BankStat_37.PDF"
+    ]
+  }
+}

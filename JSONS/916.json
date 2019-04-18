@@ -1,0 +1,41 @@
+{
+  "contacts": [
+    {
+      "name": "Arun Jadhav",
+      "email": "arunjadhav81@gmail.com",
+      "designation": "Program Manager",
+      "mobile": [
+        "91-9930303909"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=916",
+  "name": "Ballygunj Society for Children in Pain",
+  "primaryEmail": "chip.mumbai@gmail.com",
+  "website": "www.chipmumbai.org",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "+919930303909"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Chip mumbai, 365/2928/1 motilal nagar no. 2, off m.g. road, near badi masjid, goregaon west",
+      "Mumbai",
+      "Maharashtra",
+      "400062"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "57/14, Ballygunj Circular Road",
+      "Ballyganj",
+      "Kolkata",
+      "West Bengal",
+      "700019"
+    ]
+  }
+}

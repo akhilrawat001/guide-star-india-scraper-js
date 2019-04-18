@@ -1,0 +1,36 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10443",
+  "name": "Muni Seva Ashram",
+  "primaryEmail": "info@greenashram.org",
+  "website": "http://www.munisevaashram.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "912668265300"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "Goraj, Waghodia",
+      "Goraj",
+      "Vadodara",
+      "Gujarat",
+      "391760"
+    ]
+  },
+  "briefDescription": "Muni Seva Ashram was established in 1980 by Anuben Thakkar in the small tribal village of Goraj in the Vadodara district of Gujarat. With the intention to work for the development of the tribal villagers, she started the organization with a day care centre for young children which, over time, has grown to encompass two multi-speciality hospitals, 15 day-care centres, three schools, a nursing college, a vocational training centre, an orphanage, a home for mentally challenged women, four old-age homes, a guest house, organic farming on 600 acres of land, and cowshed with 600 indigenous cows, all in an environmentally sustainable manner. The organization has transformed lives of more than 30 lakh people in 38 years.",
+  "yearOfEstablishment": "1980",
+  "regiseredAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "Muni Seva Ashram",
+      "Goraj",
+      "Waghodia",
+      "Vadodara",
+      "Gujarat",
+      "391760"
+    ]
+  }
+}

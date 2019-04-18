@@ -1,0 +1,38 @@
+{
+  "contacts": [
+    {
+      "name": "Rustam Ali",
+      "email": "",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=605",
+  "name": "ALAMB",
+  "primaryEmail": "alab@bol.net.in",
+  "telephone": [
+    "911125354225",
+    "911125354225"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "Plot No - 13, Block - A",
+      "Om Vihar Phase - 5, Near Holy International School, Hostpital Nawada Road",
+      "Uttam Nagar",
+      "West Delhi",
+      "Delhi",
+      "110059"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "732, Transit Camp",
+      "Hastsal",
+      "West Delhi",
+      "Delhi",
+      "110059"
+    ]
+  }
+}

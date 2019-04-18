@@ -1,0 +1,47 @@
+{
+  "contacts": [
+    {
+      "name": "Amitabh",
+      "email": "foundationsarita@gmail.com",
+      "designation": "Manager",
+      "mobile": [
+        "91-9310003676"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4936",
+  "name": "Sarita Pandey Global Foundation",
+  "primaryEmail": "foundationsarita@gmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Intermediary",
+    "Support"
+  ],
+  "telephone": [
+    "919310003676"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "I-70,",
+      "Street No - 5, Opposite Lalita Park,",
+      "Laxminagar",
+      "East Delhi",
+      "Delhi",
+      "110092",
+      "FCC.docx"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "126, Akashkunj,",
+      "Sector-9,",
+      "Rohini",
+      "North West Delhi",
+      "Delhi",
+      "110085"
+    ]
+  }
+}

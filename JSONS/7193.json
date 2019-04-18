@@ -1,0 +1,47 @@
+{
+  "contacts": [
+    {
+      "name": "Vishnu Prakash Pandey",
+      "email": "vishnup.pandey74@gmail.com",
+      "designation": "Asstt.Director",
+      "mobile": [
+        "91-755-4228014",
+        "91-8435730909"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7193",
+  "name": "Institute of Social Research and Development",
+  "primaryEmail": "isardbhopal@gmail.com",
+  "website": "isrdindia.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "917554228014",
+    "917554228014"
+  ],
+  "mainAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "Plot NO.35-B, A-Sector, Sarvadharm Colony",
+      "Kolar Road,",
+      "Bhopal",
+      "Madhya Pradesh",
+      "462042",
+      "Telephone bill 001.bmp"
+    ]
+  },
+  "briefDescription": "Institute of Social Research and Development Is Located In Madhya Pradesh. ISRD is working  directly at five districts in Madhya Pradesh in the field of Child care and Protection, Reproductive child Health, Education for school dropouts children, Skill development cum placement for youth and women, securing rights and livelihood supports to unorganized labour dependent on informal economy.",
+  "yearOfEstablishment": "1997",
+  "regiseredAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "Plot NO.80, A-Sector, Banjari Housing society",
+      "Kolar Road,",
+      "Bhopal",
+      "Madhya Pradesh",
+      "462042"
+    ]
+  }
+}

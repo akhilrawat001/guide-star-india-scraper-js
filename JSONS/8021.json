@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "Bikramjit Singh Mann",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8021",
+  "name": "SAFE HANDS REHABILITATION SOCIETY",
+  "primaryEmail": "safehandsrehabsociety@gmail.com",
+  "website": "http://www.shrs.org.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919814009040"
+  ],
+  "mainAddrress": {
+    "state": "Punjab",
+    "address": [
+      "#FARM HOUSE MAIN ROAD KHUDA ALISHER MOHALI",
+      "Janta Colony Road,Naya Gaon",
+      "Naya Gaon",
+      "SAS Nagar (Mohali)",
+      "Punjab",
+      "160103"
+    ]
+  },
+  "briefDescription": "We, at ‘SAFE HANDS REHABILITATION SOCIETY’ (SHRS), which is a Social Service and Welfare Society based at Chandigarh, are dedicated to the Welfare Services of Differently abled persons affected with Autism, Mental Retardation, Learning Disabilities, Hearing/Visual/Vocal Disabilities & Physically Handicapped, etc. “SHRS” is working full time to enable these ‘Special People’ of the human populace achieve optimal possible capabilities to spend their lives like normal citizens of the society.",
+  "yearOfEstablishment": "2013"
+}

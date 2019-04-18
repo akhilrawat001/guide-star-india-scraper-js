@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Shivani Priyadarshani",
+      "email": "regionalkath@gmail.com",
+      "designation": "GEN. SECRETARY",
+      "mobile": [
+        "91-9419108380"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1936",
+  "name": "Society for Development and Training",
+  "primaryEmail": "rimcskath@gmail.com",
+  "organisationType": [
+    "Grant-making"
+  ],
+  "telephone": [
+    "919222232021",
+    "919419108380"
+  ],
+  "mainAddrress": {
+    "state": "Jammu and Kashmir",
+    "address": [
+      "RIMCS CAMPUS,",
+      "Arya Samaj Gali W. No.5 Kathua",
+      "Kathua",
+      "Jammu and Kashmir",
+      "184101"
+    ]
+  }
+}

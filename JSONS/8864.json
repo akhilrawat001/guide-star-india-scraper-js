@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "Satish Charansingh Videh",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8864",
+  "name": "MANN SHANTI BAHUUDDESHIY SEVABHAVI SANSTHA",
+  "primaryEmail": "eshanvideh@gmail.com",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "917875011935"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Aapana Vardha Ashram, Kapileshwar Nagar, Juna Kautha",
+      "Nanded",
+      "Maharashtra",
+      "431603"
+    ]
+  }
+}

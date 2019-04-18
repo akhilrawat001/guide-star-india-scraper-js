@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Kishor Deshpande",
+      "email": "kd228@yahoo.com",
+      "designation": "Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2847",
+  "name": "Mereed (India) Medical Relief and Education Public Charitable Trust",
+  "primaryEmail": "kd228@yahoo.com",
+  "website": "www.sawalicares.com",
+  "telephone": [
+    "912312629471",
+    "912312627305",
+    "919422322951"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "1731, B ward,",
+      "Near Siddhala Garden, Opp. Padmaraji Girls Highschool, New Mahadwar Road,",
+      "Kolhapur",
+      "Maharashtra",
+      "416012"
+    ]
+  }
+}

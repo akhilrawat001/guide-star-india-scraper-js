@@ -1,0 +1,42 @@
+{
+  "contacts": [
+    {
+      "name": "Vikram Waghray",
+      "email": "",
+      "designation": "Vice President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2677",
+  "name": "Sphinx Adonis Social Club",
+  "primaryEmail": "info@sascindia.org",
+  "website": "www.sascindia.org",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "919371002472"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Plot No 396/398 , Gold Field Park",
+      "Soth Main Road , Koregaon Park",
+      "Pune",
+      "Maharashtra",
+      "411001"
+    ]
+  },
+  "briefDescription": "The Sphinx Adonis Social Club (SASC) is a registered non-governmental, non-religious and non-profitable social service organization with the sole objective of providing Entertainment in the life's of neglected people in distress, the old and the parentless who are orphan and destitute. We at SASC have a strong belief that we can bring a change to this society and prove that entertainment and talent does not lie only in the existing society but also amongst the under privileged. SASC also provides giant platform to showcase their inherent talent.SASC is an initiative of Sphinx Adonis Event Pvt Ltd , Pune.Being provider of Entertainment Industry for Corporate , the company initiated provide smiles to faces of deprived .",
+  "yearOfEstablishment": "2006",
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Plot No 396/398 , Gold Field Park",
+      "South Main Road , Koregaon Park",
+      "Pune",
+      "Maharashtra",
+      "411001"
+    ]
+  }
+}

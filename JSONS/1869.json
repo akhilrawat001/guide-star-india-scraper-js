@@ -1,0 +1,35 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1869",
+  "name": "Sajjad Husain Memorial Welfare Society",
+  "primaryEmail": "shmws2005@yahoo.com",
+  "organisationType": [
+    "Direct Service",
+    "Grant-making",
+    "Support"
+  ],
+  "telephone": [
+    "915712742395",
+    "919634271529"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "K-94/E",
+      "Gyan Sarovar, Ramghat Road",
+      "Aligarh",
+      "Uttar Pradesh",
+      "202001"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "C/O Tilak Raj Singh Chaudhary",
+      "Miss Gill Compound,Marris Road",
+      "Aligarh",
+      "Uttar Pradesh",
+      "202001"
+    ]
+  }
+}

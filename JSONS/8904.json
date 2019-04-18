@@ -1,0 +1,42 @@
+{
+  "contacts": [
+    {
+      "name": "Sanjay B. Kulkarni",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8904",
+  "name": "Aditya Bahuudeshiya Janvikas Sanstha",
+  "primaryEmail": "adityakaij.org@rediffmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning"
+  ],
+  "telephone": [
+    "919860576024"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Prashant Nagar",
+      "Wackilwadi",
+      "Kaij",
+      "Beed",
+      "Maharashtra",
+      "431123"
+    ]
+  },
+  "briefDescription": "Aditya Bahudashiya Janvikas Sanstha  is a grassroots level non-government, non-profit making voluntary organization registered under applicable laws. The organization has its main office in Kaij  of Beed district of Maharashtra, India. Since 2005 , the organization is striving for the development and improvement of the vulnerable and weaker sections of the society residing mainly in backward Beed district of Maharashtra, India.",
+  "yearOfEstablishment": "2005",
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Wackilwadi",
+      "Kaij",
+      "Beed",
+      "Maharashtra",
+      "431123"
+    ]
+  }
+}

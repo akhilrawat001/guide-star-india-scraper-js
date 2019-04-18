@@ -1,0 +1,41 @@
+{
+  "contacts": [
+    {
+      "name": "P.V.James",
+      "email": "basileia.charity@gmail.com",
+      "designation": "Executive Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6557",
+  "name": "BASILEIA CHARITABLE TRUST",
+  "primaryEmail": "basileia.charity@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919845039143"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "#171/1,2nd Cross, bahind A M vessels",
+      "Ramamurthy nagar Main Road",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560016"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "#87,9th Main,2nd Cross,",
+      "Sir.M.V.Nagar, kalkere Main Road,",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560016"
+    ]
+  }
+}

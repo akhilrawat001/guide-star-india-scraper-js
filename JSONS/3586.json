@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Pallavi Sambyal",
+      "email": "pacesamba@gmail.com",
+      "designation": "Executive Director/ Chairperson",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3586",
+  "name": "Pallavi Art & Computer Education Training Society",
+  "primaryEmail": "pacesamba@sify.com",
+  "website": "www.pacesamba.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919906259150"
+  ],
+  "mainAddrress": {
+    "state": "Jammu and Kashmir",
+    "address": [
+      "PACE Campus",
+      "New Bus Stand sAMBA",
+      "Samba",
+      "Jammu and Kashmir",
+      "184121"
+    ]
+  }
+}

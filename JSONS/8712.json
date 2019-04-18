@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "vijay banasure",
+      "email": "vijaybanasure@gmail.com",
+      "designation": "vice secretary",
+      "mobile": [
+        "91-9766085562"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8712",
+  "name": "Help Youth Foundation",
+  "primaryEmail": "hyftmrd@gmail.com",
+  "website": "www.helpyouthfoundation.org",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919766085562"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "At.Po.Dewhadi",
+      "At.po.Dewhadi",
+      "Tumsar",
+      "Bhandara",
+      "Maharashtra",
+      "441913"
+    ]
+  },
+  "briefDescription": "Help Youth Foundation work at one  think is \"A Noble Cause Humanity...\" and maximum people work in HYF ( Help Youth Foundation )",
+  "yearOfEstablishment": "2015"
+}

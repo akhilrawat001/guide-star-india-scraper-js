@@ -1,0 +1,38 @@
+{
+  "contacts": [
+    {
+      "name": "Komal Sharma",
+      "email": "singhi.varun@gmail.com",
+      "designation": "Founder and Chief Volunteer",
+      "mobile": []
+    },
+    {
+      "name": "Komal Sharma",
+      "email": "singhi.varun@gmail.com",
+      "designation": "Founder and Chief Volunteer",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1291",
+  "name": "Punya Charitable Trust",
+  "primaryEmail": "hr.punya@yahoo.com",
+  "website": "www.punya.org.in",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "914426481256",
+    "919841038505"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "25, Kalathiappan Street,",
+      "B-253 Kalpa-Vriksh Apt,Choolai",
+      "Chennai",
+      "Tamil Nadu",
+      "600112"
+    ]
+  }
+}

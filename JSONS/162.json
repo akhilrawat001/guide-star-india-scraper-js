@@ -1,0 +1,36 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=162",
+  "name": "Love and Care India Trust (LACIT)",
+  "primaryEmail": "lacitrust@gmail.com",
+  "website": "www.lacitindia.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "917122553808",
+    "919960607288"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Sunil Jonathan Mission Bungalow, St. Ursula School Compound",
+      "Opp. VCA Ground Civil Lines",
+      "Nagpur",
+      "Maharashtra",
+      "440001"
+    ]
+  },
+  "briefDescription": "Provide foster care to at-risk children, underprivileged youths & deprived women through education & health programs. No. of people served – 7500 +",
+  "yearOfEstablishment": "2006",
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "A 149, Swamy Colony",
+      "Aakar Nagar, Near Friends Colony, Katol Road",
+      "Nagpur",
+      "Maharashtra",
+      "440013"
+    ]
+  }
+}

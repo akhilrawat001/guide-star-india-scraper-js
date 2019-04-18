@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "Roopa Mehta",
+      "email": "roopa.mehta@sashaworld.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=295",
+  "name": "Sarba Shanti Ayog",
+  "primaryEmail": "roopa.mehta@sashaworld.com",
+  "website": "www.sashaworld.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919830200454",
+    "913322659776"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Office for development activities:48B, Dr. Sundari Mohan Avenue",
+      "Kolkata",
+      "West Bengal",
+      "700014"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "West Bengal"
+    ]
+  }
+}

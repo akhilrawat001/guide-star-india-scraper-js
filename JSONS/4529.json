@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Jayita Naha",
+      "email": "admindrishti09@gmail.com",
+      "designation": "Program Coordinator",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4529",
+  "name": "Drishti",
+  "primaryEmail": "admindrishti09@gmail.com",
+  "website": "www.drishtimedia.org",
+  "organisationType": [
+    "Advocacy & Campaigning"
+  ],
+  "telephone": [
+    "917925601660",
+    "917925601660"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "4th floor Mistry Chambers, Vidyaguri Neelkanth Marg, Khanpur",
+      "Near Cama Hotel",
+      "Ahmedabad",
+      "Gujarat",
+      "380001"
+    ]
+  }
+}

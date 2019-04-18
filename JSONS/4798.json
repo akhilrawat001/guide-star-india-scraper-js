@@ -1,0 +1,37 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4798",
+  "name": "Jeevan Tarang Welfare Society",
+  "primaryEmail": "jawed.a.ali@gmail.com",
+  "website": "www.jeevantarangwelfaresociety.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "917860737807"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "LIG-594-II, LDA Colony, Tikait Rai, Rajajipuram,",
+      "Near Water Tank",
+      "Lucknow",
+      "Uttar Pradesh",
+      "226017"
+    ]
+  },
+  "briefDescription": "Jeevan Tarang Welfare Society is in Uttar Pradesh.",
+  "yearOfEstablishment": "2003",
+  "regiseredAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "265/58, Victoria Street, Khala Bazaar, Lucknow-226004",
+      "Near Telephone Exchange",
+      "Lucknow",
+      "Uttar Pradesh",
+      "226004"
+    ]
+  }
+}

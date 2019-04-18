@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Arathi Laxman",
+      "email": "arathishan@yahoo.com",
+      "designation": "Executive Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4332",
+  "name": "SVP Philanthropy Foundation",
+  "primaryEmail": "arathishan@yahoo.com",
+  "website": "www.svpbangalore.org",
+  "organisationType": [
+    "Advocacy & Campaigning"
+  ],
+  "telephone": [
+    "918041120008",
+    "918041120008"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "Kaiser-E-Hind, Second Floor",
+      "No : 9/3 Richmond Road,",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560025"
+    ]
+  }
+}

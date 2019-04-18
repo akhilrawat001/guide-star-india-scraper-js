@@ -1,0 +1,35 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7271",
+  "name": "INDIAN INSTITUTE OF SOCIAL DEVELOPMENT",
+  "primaryEmail": "iisdindore@yahoo.co.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919826048482"
+  ],
+  "mainAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "Plot No.394,",
+      "Hare Krishna Vihar",
+      "Nipania",
+      "Indore",
+      "Madhya Pradesh",
+      "452009"
+    ]
+  },
+  "briefDescription": "The Organisation was established in 1984 and has been working for the last 30 years in 18 Districts of the state of Madhya Pradesh. Our main focus is on social entrepreneurship development in tribal and rural community peoples.",
+  "yearOfEstablishment": "1984",
+  "regiseredAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "73, Mishra Nagar",
+      "Annapurna Road",
+      "Indore",
+      "Madhya Pradesh",
+      "452009"
+    ]
+  }
+}

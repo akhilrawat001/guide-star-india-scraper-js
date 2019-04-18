@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Mr Debasish Saha",
+      "email": "progati.apd.17@gmail.com",
+      "designation": "President",
+      "mobile": [
+        "91-8250445394"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10488",
+  "name": "Alipurduar Pragoti Foundation",
+  "primaryEmail": "progati.apd.17@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918250445394"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Barabazar.Jamtala Road.Alipurduar",
+      "Alipurduar",
+      "West Bengal",
+      "736121"
+    ]
+  }
+}

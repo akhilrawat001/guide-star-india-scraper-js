@@ -1,0 +1,48 @@
+{
+  "contacts": [
+    {
+      "name": "Amrita De",
+      "email": "amrita@anubhutitrust.org",
+      "designation": "Trustee",
+      "mobile": [
+        "91-9820778330"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8645",
+  "name": "Anubhuti Charitable Trust",
+  "primaryEmail": "contact@anubhutitrust.org",
+  "website": "https://anubhutitrust.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919820778330"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "A-14, Pioneer Society, Behind Gazali Hotel",
+      "Off Hanuman Road, Vile Parle (E)",
+      "Mumbai",
+      "Maharashtra",
+      "400057"
+    ]
+  },
+  "briefDescription": "Anubhuti primarily works with youth, especially those who are deprived of rights & resources. This is done through life skills development, gender justice training, health education, rights education, resource mobilization, group formation and developing youth's capacities to work with their families, communities and other important stakeholders. This is done through 3 programs: youth leadership, stakeholder sensitization and awareness & advocacy to develop youth leaders who are equipped to ensure a more just, equitable and democratic society.",
+  "yearOfEstablishment": "2016",
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "D-5, 503, Himgiri Lokdhara C.H.S.",
+      "Kalyan (East)",
+      "Kalyan",
+      "Thane",
+      "Maharashtra",
+      "421306"
+    ]
+  }
+}

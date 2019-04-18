@@ -1,0 +1,30 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10553",
+  "name": "Aksharwel Pratishthan",
+  "primaryEmail": "aksharwelpratishthan@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919595194999"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Gavli Nagar, Nanded Road, Near Anand School, Latur",
+      "Latur",
+      "Maharashtra",
+      "413512"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Gavli Nagar, Latur",
+      "Latur",
+      "Maharashtra",
+      "413512"
+    ]
+  }
+}

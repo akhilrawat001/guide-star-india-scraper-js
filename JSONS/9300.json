@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "Abhash Kumar",
+      "email": "bhabhascandcommercecoaching@gmail.com",
+      "designation": "SECRETARY",
+      "mobile": [
+        "91-6274-225532",
+        "91-9953273008"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9300",
+  "name": "SAVITRI MEMORIAL EDUCATIONAL TRUST",
+  "primaryEmail": "bhabhascandcommercecoaching@gmail.com",
+  "website": "Opp. T.Academy, Ist Floor, Kashipur, Samastipur",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "916274225532",
+    "916274225532"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "At+Post-Sari, P.S- Mathurapur Op,",
+      "Opp. T.Academy, Ist Floor, Kashipur, Samastipur",
+      "Samastipur",
+      "Bihar",
+      "848101"
+    ]
+  },
+  "briefDescription": "Savitri Memorial Educational Trust is doing work mainly for development of the deprived children of the society. we are imparting free education to the poorest students of the locality who can not continue their education at their own cost. to reduce literacy & dropout ratio of the children from the classroom, but we want to take extra help from the helping hand like you or your allied institution. so that we can move for in their welfare so that they can avail not only free education but they can also secure their future and livelihood.",
+  "yearOfEstablishment": "2016"
+}

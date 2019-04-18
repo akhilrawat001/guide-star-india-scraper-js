@@ -1,0 +1,39 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1167",
+  "name": "Salem District People Services Society",
+  "primaryEmail": "sdpssngo@in.com",
+  "website": "www.samhita.org/ngos/salem-district-people-service-society",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "914272310575",
+    "914272310575"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "1/21, Kamatchiamman,",
+      "Kovil St, Peramanur",
+      "Salem",
+      "Tamil Nadu",
+      "636007",
+      "AP_TelBill_1070.PDF"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "77-A, Bharathi Nagar",
+      "Chinnathirupathi",
+      "Salem",
+      "Tamil Nadu",
+      "636008",
+      "AP_TelBill_1070.PDF"
+    ]
+  }
+}

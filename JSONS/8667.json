@@ -1,0 +1,35 @@
+{
+  "contacts": [
+    {
+      "name": "V.Blessy Benhar",
+      "email": "benhar.benna@gmail.com",
+      "designation": "board of member",
+      "mobile": [
+        "91-8142151913"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8667",
+  "name": "Calvary Ministry",
+  "primaryEmail": "calvary2007@rediffmail.com",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "919440266946",
+    "918142151913",
+    "918518234293"
+  ],
+  "mainAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "78/8-A-12-2-3-A",
+      "Near Mayuri Homes,New Krishna Nagar",
+      "Kurnool",
+      "Andhra Pradesh",
+      "518002"
+    ]
+  },
+  "briefDescription": "Vision: Empower the poor socially, Politically, Economically and culturally, Conservation of NatureMission: To implement social, economic, health, educational rural development and cultural Activities for empowerment of the poor, Conservation of Nature.",
+  "yearOfEstablishment": "1997"
+}

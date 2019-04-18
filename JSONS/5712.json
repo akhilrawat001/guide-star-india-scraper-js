@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Mr. Sanjeev Kumar",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5712",
+  "name": "The Goat Trust",
+  "primaryEmail": "thegoattrust@gmail.com",
+  "website": "www.thegoattrust.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919956059595"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "529 Ka/54A Pant Nagar, Khurram Nagar,",
+      "Lucknow",
+      "Uttar Pradesh",
+      "226022"
+    ]
+  }
+}

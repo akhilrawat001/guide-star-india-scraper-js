@@ -1,0 +1,35 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5195",
+  "name": "Society for Education and Action",
+  "primaryEmail": "sea_org_desingu@rediffmail.com",
+  "website": "www.seaorg.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919840676135"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "22",
+      "othavadai street",
+      "Mamallapuram",
+      "Kancheepuram",
+      "Tamil Nadu",
+      "603104"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "107",
+      "Nemmelikuppam",
+      "Mamallapuram",
+      "Kancheepuram",
+      "Tamil Nadu",
+      "603104"
+    ]
+  }
+}

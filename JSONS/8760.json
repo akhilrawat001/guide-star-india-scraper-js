@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Jitendra Navalrao Patil",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "7038485785"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8760",
+  "name": "UNITY FOUNDATION NANDURBAR",
+  "primaryEmail": "unityfoundation10415@gmail.com",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "917038485785"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "187, Suraj Kesari Nagar, Korit Road,",
+      "Nandurbar",
+      "Maharashtra",
+      "425412"
+    ]
+  }
+}

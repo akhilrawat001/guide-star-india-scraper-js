@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "GURMIT SINGH PALAHI",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "462120"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6408",
+  "name": "BLOOD DONORS COUNCIL",
+  "primaryEmail": "BLOODBANKPHAGWARA@GMAIL.COM",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "911824462120",
+    "911824462120"
+  ],
+  "mainAddrress": {
+    "state": "Punjab",
+    "address": [
+      "BLOOD BANK BUILDING",
+      "GURU HARGOBIND NAGAR",
+      "PHAGWARA",
+      "Kapurthala",
+      "Punjab",
+      "144401"
+    ]
+  }
+}

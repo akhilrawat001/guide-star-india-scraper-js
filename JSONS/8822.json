@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "Akashaditya Lama",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8822",
+  "name": "Big Bang Theatres Foundation",
+  "primaryEmail": "akashadityalama@gmail.com",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "919820465328"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "822 & 823, Adarsh nagar, Andheri (w),",
+      "Mumbai",
+      "Maharashtra",
+      "400102"
+    ]
+  }
+}

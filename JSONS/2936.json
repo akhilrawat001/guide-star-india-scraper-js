@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Anil Kumar Mishra",
+      "email": "anilmishra@sitarango.com",
+      "designation": "Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2936",
+  "name": "Sitara Swayam Sewi sanstha",
+  "primaryEmail": "sitara.ngo@gmail.com",
+  "website": "http://sitarango.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "911165696372",
+    "911165696372"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "M-115",
+      "JAGAT RAM PARK, LAXMI NAGAR",
+      "Delhi",
+      "East Delhi",
+      "110092"
+    ]
+  }
+}

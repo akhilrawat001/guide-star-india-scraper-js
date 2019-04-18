@@ -1,0 +1,37 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1025",
+  "name": "Udyogini",
+  "primaryEmail": "mail@udyogini.org",
+  "website": "http://www.udyogini.org",
+  "organisationType": [
+    "Direct Service",
+    "Intermediary",
+    "Support"
+  ],
+  "telephone": [
+    "911141651175",
+    "911141651175",
+    "919350942131"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "3B, 2nd Floor, Arjun Nagar, Safdarjung Enclave, New Delhi",
+      "New Delhi",
+      "Delhi",
+      "110049"
+    ]
+  },
+  "briefDescription": "Udyogini - means woman entrepreneur, as the term refers, has been working in the field of women entrepreneurship. It was established in 1992 as a non-profit organization. For the past 19 years, it has been working with poor women in rural areas of India to improve their skills as producers and their knowledge of the markets they operate in, so as to ensure long-term returns. Currently, Udyogini is working in 5 states – Jharkhand, Madhya Pradesh, Uttarakhand, Rajasthan and Bihar. Udyogini provides business development services for promoting profitable micro-enterprises for poor women and build capacity among women for value-addition to local crafts, agricultural and natural resource commodities.",
+  "yearOfEstablishment": "1992",
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "A-36 Gulmohar Park (2nd floor)",
+      "New Delhi",
+      "Delhi",
+      "110049"
+    ]
+  }
+}

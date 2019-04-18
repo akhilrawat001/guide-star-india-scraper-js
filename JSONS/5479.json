@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Poosarla Murali Krishna",
+      "email": "rosevzm@yahoo.com",
+      "designation": "Executive Secretary & Chief Functionery",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5479",
+  "name": "RURAL ORGANIZATION FOR SUSTAINABLE EMPOWERMENT",
+  "primaryEmail": "rosevzm@yahoo.com",
+  "website": "www.ro-se.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "819603990979"
+  ],
+  "mainAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "Plot No. 25,  G-1, Swathi Apartments, Opp to Ravindhra Bharathi School,",
+      "Bhagavan Nagar,",
+      "Vizianagaram",
+      "Andhra Pradesh",
+      "535002"
+    ]
+  }
+}

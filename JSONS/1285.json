@@ -1,0 +1,58 @@
+{
+  "contacts": [
+    {
+      "name": "Raj Gilda",
+      "email": "raj.gilda@lend-a-hand-india.org",
+      "designation": "Director Strategy and Development",
+      "mobile": [
+        "91-20-25630092",
+        "91-9552579284"
+      ]
+    },
+    {
+      "name": "Raj Gilda",
+      "email": "raj.gilda@lend-a-hand-india.org",
+      "designation": "Director Strategy and Development",
+      "mobile": [
+        "91-20-25630092",
+        "91-9552579284"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1285",
+  "name": "Lend-A-Hand India",
+  "primaryEmail": "LAHI@lend-a-hand-india.org",
+  "website": "www.lend-a-hand-india.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service"
+  ],
+  "telephone": [
+    "912025630092",
+    "919552579543",
+    "919552579542"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "9, Jeevan Vihar Housing Society, Near Pride Panorama,",
+      "Off Senapati Bapat Road,",
+      "Pune.",
+      "Pune",
+      "Maharashtra",
+      "411016"
+    ]
+  },
+  "briefDescription": "Lend A Hand India addresses the disconnect between what one learns in the school versus what is required in real life by integration of vocational education with mainstream education as part of secondary and higher secondary school curriculum.Currently, LAHI is working across India in 21 states/UTs covering 3500+schools and 250,000+ students with two models (1) Direct implementation model, LAHI recruits the existing schools to offer its program deploying the tools and equipment and necessary vocational trainers and implements the program end to end – 3 states / 150 schools (2) Offer technical and project management support by setting up PMU at the state level in partnership with the State Department of Education and help them to scale vocational education in the state – 20 states / UTs across India / 3500+ schools",
+  "yearOfEstablishment": "2006",
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "H 16, Mantri Ave - II, Pashan, Pune 411008",
+      "Pashan, Pune",
+      "Pune",
+      "Maharashtra",
+      "411008"
+    ]
+  }
+}

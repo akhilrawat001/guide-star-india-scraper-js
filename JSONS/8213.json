@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Raj Kumar Ghosh",
+      "email": "hgwrsu99@yahoo.co.in",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8213",
+  "name": "HOWRAH GREEN WORLD",
+  "primaryEmail": "hgwrsu99@yahoo.co.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919874856778"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "ICHHAPUR HIT ROAD",
+      "KAMARDANGA(BALIGOLA)",
+      "HOWRAH",
+      "Howrah",
+      "West Bengal",
+      "711104"
+    ]
+  }
+}

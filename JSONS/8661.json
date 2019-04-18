@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Biplab Mahato",
+      "email": "bm27221@gmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8661",
+  "name": "MANTHAN",
+  "primaryEmail": "bm27221@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919905329749"
+  ],
+  "mainAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "VILL-BARAJAMUA,",
+      "PO-KALYANPUR,",
+      "Dhanbad",
+      "Jharkhand",
+      "826004"
+    ]
+  }
+}

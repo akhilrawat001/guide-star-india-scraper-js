@@ -1,0 +1,42 @@
+{
+  "contacts": [
+    {
+      "name": "Geeta Sirsat",
+      "email": "geeta.sirsat@gmail.com",
+      "designation": "Secretary",
+      "mobile": [
+        "91-7038634509"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8556",
+  "name": "SARVODAY MULTIPURPOSE COMMUNITY DEVELOPMENT SOCIETY",
+  "primaryEmail": "geeta.sirsat@gmail.com",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "917038634509"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Balsa Road Jintur.Ta jintur",
+      "Balsa Road,Jintur,",
+      "Jintur",
+      "Parbhani",
+      "Maharashtra",
+      "431509"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Balsa Road",
+      "Jintur",
+      "Parbhani",
+      "Maharashtra",
+      "431509"
+    ]
+  }
+}

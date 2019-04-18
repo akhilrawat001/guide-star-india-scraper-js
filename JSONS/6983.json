@@ -1,0 +1,26 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6983",
+  "name": "Dharti Charitable Trust",
+  "primaryEmail": "dharti_trust@yahoo.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919824424371",
+    "919824669095"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "1st Floor Madhuvan Shopping Complex",
+      "Opp Bus Stop Bavla,",
+      "Ahmedabad",
+      "Gujarat",
+      "382220"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5881",
+  "name": "KARTIK SHIKSHAN SANSTHAN",
+  "primaryEmail": "kartikeducation@rediffmail.com",
+  "website": "www.kssindia.org.in",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "915122490199",
+    "919415429426"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "127/289",
+      "Juhi Bush Dipot",
+      "Kanpur",
+      "Kanpur Nagar",
+      "Uttar Pradesh",
+      "208014"
+    ]
+  }
+}

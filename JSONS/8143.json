@@ -1,0 +1,41 @@
+{
+  "contacts": [
+    {
+      "name": "Vinod M Patel",
+      "email": "vmpatelinstitute@gmail.com",
+      "designation": "President",
+      "mobile": [
+        "91-2672-243397"
+      ]
+    },
+    {
+      "name": "Vinod M Patel",
+      "email": "vmpatelinstitute@gmail.com",
+      "designation": "President",
+      "mobile": [
+        "91-2672-243397"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8143",
+  "name": "AUM EDUCATION AND CHARITABLE TRUST, GODHRA",
+  "primaryEmail": "nikhileshvpatel@gmail.com",
+  "organisationType": [
+    "Intermediary",
+    "Support"
+  ],
+  "telephone": [
+    "919429451524"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "2nd Floor, Satguru Complex, Opp. Jain Society",
+      "Near Bus Stand",
+      "Godhra",
+      "Panchmahal",
+      "Gujarat",
+      "389001"
+    ]
+  }
+}

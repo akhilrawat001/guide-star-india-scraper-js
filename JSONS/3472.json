@@ -1,0 +1,33 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3472",
+  "name": "SCODWES (SAHYADRI COMMUNITY & WOMEN EMPOWERMENT SOCIETY)",
+  "primaryEmail": "scodwes@rediffmail.com",
+  "telephone": [
+    "918384236398",
+    "918384238398",
+    "919448609618"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "SCODWES, Savinilaya Building",
+      "Maratikoppa Main Road",
+      "Sirsi",
+      "Uttara Kannada",
+      "Karnataka",
+      "581402"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "Near Higher Primary School",
+      "Puttanmane Road , Maratikoppa",
+      "Sirsi",
+      "Uttara Kannada",
+      "Karnataka",
+      "581401"
+    ]
+  }
+}

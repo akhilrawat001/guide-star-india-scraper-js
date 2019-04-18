@@ -1,0 +1,45 @@
+{
+  "contacts": [
+    {
+      "name": "Jignesh",
+      "email": "ritestep@gmail.com",
+      "designation": "Manager",
+      "mobile": [
+        "91-22-66648768"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4477",
+  "name": "Sir Shapurji Billimoria Foundation",
+  "primaryEmail": "ritestep@gmail.com",
+  "website": "www.billimoria.org",
+  "organisationType": [
+    "Direct Service",
+    "Network"
+  ],
+  "telephone": [
+    "912266648768",
+    "912223696596"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "2/24 Nanik Niwas, Opp Tata Garden, Warden Road",
+      "Mumbai",
+      "Maharashtra",
+      "400026"
+    ]
+  },
+  "briefDescription": "‘Anek aur Ek’:Inclusive EducationThe Foundation, was established in 1998 to promote I.E. based on the ideology that “all children are special” irrespective of ability,disability, disadvantage or privilege. But education unfortunately reflects differences, sometimes accommodates, and rarely integrates! In view of the Education for All (“Sarva Shiksha Abhiyan”) policy and the RTE Act, this becomes more relevant for educating teachers. SSBF has designed India’s first 2 year Dip.in I.E. which was featured by UNICEF in its publication (2005) as an ‘innovative course’.SSBF has organized seminars-560 participants,conducted short courses-257 teachers,held orientation programmes,designed training manuals & networked through its newsletter RiteStep.",
+  "yearOfEstablishment": "1998",
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "21 Cuffe Parade, Colaba",
+      "Near Atur Terraces",
+      "Mumbai",
+      "Maharashtra",
+      "400005"
+    ]
+  }
+}

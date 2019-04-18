@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "name": "S.Vinod Kumaar",
+      "email": "vinod@bluecrossofindia.org",
+      "designation": "General Manager (Administration)",
+      "mobile": [
+        "91-44-22354959"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=238",
+  "name": "Blue Cross of India",
+  "primaryEmail": "bluecrossofindia@gmail.com",
+  "website": "www.bluecrossofindia.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "914422354959",
+    "914422300666",
+    "914422300655"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "No. 1,  Eldams Road",
+      "Alwarpet",
+      "Chennai",
+      "Tamil Nadu",
+      "600018"
+    ]
+  },
+  "briefDescription": "We are one of India’s largest Animal Welfare Organizations and one of the oldest running on private and public donations. We have 3 facilities in and around Chennai which include 2 Hospitals and Shelters and one shelter. We are equipped with 6 working ambulances, 8 doctors and 4 drivers and over 40 animal care givers who operate round the clock services for the treatment of animals. We also are driven by a group of passionate individuals who devote their time purely on an honorary voluntary basis towards running the organization and have a large base of dedicated volunteers and a phenomenal volunteer led Humane Education team. In addition to the above we are equipped with a one of its kind Humane Education Center.",
+  "yearOfEstablishment": "1964"
+}

@@ -1,0 +1,26 @@
+{
+  "contacts": [
+    {
+      "name": "Nimain Chandra Behera",
+      "email": "",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=663",
+  "name": "Rural Development and Social Services (RDSS)",
+  "primaryEmail": "rdss.cuttack@gmail.com",
+  "telephone": [
+    "919338724105"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "At-Paschimakachha, P.O.Madhyakachha",
+      "Via Bahugram",
+      "Cuttack",
+      "Odisha",
+      "754200"
+    ]
+  }
+}

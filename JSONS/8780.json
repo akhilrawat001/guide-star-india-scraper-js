@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "P.S.Guha",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8780",
+  "name": "PATRATU SCHOOL OF ECONOMICS",
+  "primaryEmail": "patratuschoolofeconomics@gmail.com",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "919934139536"
+  ],
+  "mainAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "Po:- Patratu Thermal Power Station,",
+      "Patratu",
+      "Ramgarh",
+      "Jharkhand",
+      "829119"
+    ]
+  }
+}

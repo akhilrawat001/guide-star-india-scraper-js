@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "name": "Dr Ujjaini Halim",
+      "email": "",
+      "designation": "Executive Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5025",
+  "name": "Institute For Motivating Self-Employment",
+  "primaryEmail": "bipimse@cal.vsnl.net.in",
+  "website": "www.imse-india.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "913324732740"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "195",
+      "Jodhpur Park",
+      "Kolkata",
+      "West Bengal",
+      "700068"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Not Provided",
+      "Kolkata",
+      "West Bengal",
+      "700068"
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "MADHUSUDAN DUBEY",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7316",
+  "name": "ALL PROFESSIONAL & EDUCATIONAL WELFARE SOCIETY",
+  "primaryEmail": "info@allprofessional.org",
+  "website": "www.allprofessional.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919926099288"
+  ],
+  "mainAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "148 1st FLOOR ORBIT MALL A.B. ROAD INDORE",
+      "INDORE",
+      "Indore",
+      "Madhya Pradesh",
+      "452010"
+    ]
+  }
+}

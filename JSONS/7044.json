@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "name": "Dr. V. K. Agarwal",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7044",
+  "name": "ALL INDIA SOCIETY FOR ADVANCE EDUCATION RESEARCH",
+  "primaryEmail": "vka.iet@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "911442332222",
+    "911442332222"
+  ],
+  "mainAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "North Extension, Matsya Industrial Area",
+      "Alwar",
+      "Rajasthan",
+      "301030"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "North Extension, Matsya Industrial Area",
+      "Khichripur, Mayur Vihar",
+      "Alwar",
+      "Rajasthan",
+      "301030"
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Rajasingh SWA",
+      "email": "swa.rajasingh@ymail.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4331",
+  "name": "Pallava Council for Integrated Education",
+  "primaryEmail": "swa.rajasingh@ymail.com",
+  "website": "Nil",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "914426492466",
+    "914426492466"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "7 Jayaraj St., Indira Nagar, Poonamallee, Chennai-56",
+      "7 Jayarajaj St., Indira Nagar, Poonamallee, Chennai-56n",
+      "Chennai",
+      "Tiruvallur",
+      "Tamil Nadu",
+      "600056"
+    ]
+  }
+}

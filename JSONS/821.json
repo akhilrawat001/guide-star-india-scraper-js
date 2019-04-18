@@ -1,0 +1,41 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=821",
+  "name": "Utkarsh Healthcare Foundation India",
+  "primaryEmail": "utkarshfoundation@gmail.com",
+  "website": "www.utkarshfoundation.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "917966621064",
+    "917926404071",
+    "917926442064",
+    "919824285902"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "804, Maniprabhu Complex",
+      "Nr. Darpan Cross Roads",
+      "Navrangpura",
+      "Ahmedabad",
+      "Gujarat",
+      "380009"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "1/A, Punita Park, Bhudarpura Road",
+      "Ambawadi",
+      "Ahmedabad",
+      "Gujarat",
+      "380006",
+      "AP_TelBill_734.PDF"
+    ]
+  }
+}

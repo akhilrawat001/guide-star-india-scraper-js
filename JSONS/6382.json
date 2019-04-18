@@ -1,0 +1,48 @@
+{
+  "contacts": [
+    {
+      "name": "Yashveer Singh",
+      "email": "yashveer@gramvikas.org",
+      "designation": "Head of Strategy & Collaborations",
+      "mobile": [
+        "91-9658949194"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6382",
+  "name": "Gram Vikas",
+  "primaryEmail": "info@gramvikas.org",
+  "website": "http://www.gramvikas.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "916802261863",
+    "916802261862",
+    "916802261863"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "72//B",
+      "Forest Park",
+      "Bhubaneswar",
+      "Khordha",
+      "Odisha",
+      "751009"
+    ]
+  },
+  "briefDescription": "Gram Vikas evolved after student volunteers from the Young Student's Movement for Development (YSMD, Chennai) came to Odisha to help in the relief efforts after the 1971 cyclone. After witnessing the poverty some of these students, led by founder Joe Madiath, stayed in Odisha and dedicated their time to help the rural poor and marginalised. Gram Vikas initially worked to promote livelihoods, improve health and education. However, our focus areas now cover water and sanitation, health, livelihoods, social housing, renewable energy and education. Our holistic approach, MANTRA (Movement and Network for the Transformation of Rural Areas) uses our water&sanitation programme as an entry point into communities.",
+  "yearOfEstablishment": "1979",
+  "regiseredAddrress": {
+    "state": "Odisha",
+    "address": [
+      "-",
+      "Mohuda Village",
+      "Berhampur",
+      "Ganjam",
+      "Odisha",
+      "760002"
+    ]
+  }
+}

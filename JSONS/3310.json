@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Sakthivelu A",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3310",
+  "name": "CENTRE FOR SOCIAL SERVICE & ACTION",
+  "primaryEmail": "director.amuthasurabi@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919790233463"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "6/92",
+      "Virugalpatti Pudur",
+      "Udumalpet Taluk",
+      "Coimbatore",
+      "Tamil Nadu",
+      "642120"
+    ]
+  }
+}

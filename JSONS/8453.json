@@ -1,0 +1,41 @@
+{
+  "contacts": [
+    {
+      "name": "GANESH CHANDRA MALLICK",
+      "email": "pallingo.mallick27@gmail.com",
+      "designation": "SECRETARY",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8453",
+  "name": "Palli",
+  "primaryEmail": "pallingo.mallick27@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919338826258"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "2188, SARUGADIA",
+      "BJB NAGAR",
+      "BHUBANESWAR",
+      "Cuttack",
+      "Odisha",
+      "753003"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Odisha",
+    "address": [
+      "FR-73/2 SAILASRIVIHAR",
+      "CHANDRASEKHARPUR",
+      "BHUBANESWAR",
+      "Khordha",
+      "Odisha",
+      "752031"
+    ]
+  }
+}

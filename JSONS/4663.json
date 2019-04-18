@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "name": "Balasundharan.AA",
+      "email": "scoreindia@rediffmail.com",
+      "designation": "Secretary cum Project Director",
+      "mobile": []
+    },
+    {
+      "name": "Balasundharan.AA",
+      "email": "scoreindia@rediffmail.com",
+      "designation": "Secretary cum Project Director",
+      "mobile": []
+    },
+    {
+      "name": "Balasundharan.AA",
+      "email": "scoreindia@rediffmail.com",
+      "designation": "Secretary cum Project Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4663",
+  "name": "Society for Community Organization and Rural Education (SCORE)",
+  "primaryEmail": "scoreindia@rediffmail.com",
+  "telephone": [
+    "914323252482",
+    "919443533617"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "Vedhachalapuram",
+      "Thogaimalai Post",
+      "Karur",
+      "Tamil Nadu",
+      "621313"
+    ]
+  }
+}

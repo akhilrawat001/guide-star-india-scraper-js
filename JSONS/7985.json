@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Rajendra Singh Rangar",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7985",
+  "name": "NAV JYOTI JAN KALYAN SAMITI",
+  "primaryEmail": "njjks2005@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919927881456"
+  ],
+  "mainAddrress": {
+    "state": "Uttarakhand",
+    "address": [
+      "Nav Jyoti Jan Kalyan Samiti Off. Uttarkashi road  Kamand,",
+      "Tahsheel Kandisaur",
+      "Dist. Tehri Garhwal.",
+      "Tehri Garhwal",
+      "Uttarakhand",
+      "249131"
+    ]
+  }
+}

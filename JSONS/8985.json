@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Sunil Mahato",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8985",
+  "name": "Mahakuma Kustha Nibarani Samity",
+  "primaryEmail": "mknssmahata9@gmail.com",
+  "website": "www.mahakumakns.org",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919647004706"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Vill and Post - Gidhni, Police Station - Jamboni,",
+      "Gidhni",
+      "West Medinipur",
+      "West Bengal",
+      "721505"
+    ]
+  }
+}

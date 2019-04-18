@@ -1,0 +1,49 @@
+{
+  "contacts": [
+    {
+      "name": "Smt Mamata Rani Sahoo",
+      "email": "ydporg@rediffmail.com",
+      "designation": "Coordinator",
+      "mobile": []
+    },
+    {
+      "name": "Smt Mamata Rani Sahoo",
+      "email": "ydporg@rediffmail.com",
+      "designation": "Coordinator",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6455",
+  "name": "Youth Development Project",
+  "primaryEmail": "pranabydp@gmail.com",
+  "website": "no",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919437802240"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "Vill-Khaparapada, Po-Srirampur Road, Via- Singla, Dist- Balasore",
+      "Balasor,Baliapal,Khaparapada",
+      "Baleswar",
+      "Odisha",
+      "756023"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Odisha",
+    "address": [
+      "Vill-Khaparapada,",
+      "Po-Srirampur Road, Via- Singla,",
+      "Balasor,Baliapal,Khaparapada",
+      "Baleswar",
+      "Odisha",
+      "756023"
+    ]
+  }
+}

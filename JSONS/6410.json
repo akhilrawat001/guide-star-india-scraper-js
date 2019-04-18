@@ -1,0 +1,46 @@
+{
+  "contacts": [
+    {
+      "name": "?Dr.Shivani Pall",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6410",
+  "name": "MEHAAN, Charitable Foundation",
+  "primaryEmail": "mehaancharitablefoundation@gmail.com",
+  "website": "http://www.mehaancharitablefoundation.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "9871010018"
+  ],
+  "mainAddrress": {
+    "state": "Haryana",
+    "address": [
+      "Ground floor, C6-1049, G.F, Opposite DLF Summit",
+      "DLF Phase V",
+      "Gurgaon",
+      "Gurugram",
+      "Haryana",
+      "122002"
+    ]
+  },
+  "briefDescription": "Mehaan Charitable Foundation(MCF) is a non-Profit Organisation in Gurgaon.MCF foundation is manifestation of holistic model of social welfare endeavors, which emphasize the need to alleviate the economic and social burdens that exacerbate the basic structure of our society.The main perspective of this Organisation is to focus on issues relating to: Health care, Women Empowerment, Child Safety, Global Public Awareness issues like: Poverty, Education, women and child health Programs and Malnutrition.",
+  "regiseredAddrress": {
+    "state": "Haryana",
+    "address": [
+      "Ground Floor, C6-1049, G.F, Opposite DLF Summit",
+      "DLF Phase V",
+      "Gurgaon",
+      "Gurugram",
+      "Haryana",
+      "122002"
+    ]
+  }
+}

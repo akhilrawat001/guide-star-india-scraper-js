@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "Trivedi Rachana Ramanlal",
+      "email": "tokandarp_mca@yahoo.co.in",
+      "designation": "Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2891",
+  "name": "Shri Mahima Gram Vikas Sanstha",
+  "primaryEmail": "tokandarp_mca@yahoo.co.in",
+  "telephone": [
+    "912772231490",
+    "912772231490"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "B-7 Sugam Flat,",
+      "Panchdev Mandir Road,",
+      "Mahavirnagar",
+      "Sabarkantha",
+      "Gujarat",
+      "383001"
+    ]
+  }
+}

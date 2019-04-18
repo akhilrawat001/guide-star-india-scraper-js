@@ -1,0 +1,27 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=864",
+  "name": "Youth Association for Rural Development Society",
+  "primaryEmail": "yards_org@rediffmail.com",
+  "website": "www.ngogateway.org/yards",
+  "organisationType": [
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "918408272588",
+    "919490083375"
+  ],
+  "mainAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "YARDS, Mallelavari Complex",
+      "Main Road",
+      "Donakonda",
+      "Prakasam",
+      "Andhra Pradesh",
+      "523305"
+    ]
+  }
+}

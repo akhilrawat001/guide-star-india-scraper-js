@@ -1,0 +1,48 @@
+{
+  "contacts": [
+    {
+      "name": "Sangita Dutta",
+      "email": "adhikarnwb@gmail.com",
+      "designation": "Director Development",
+      "mobile": [
+        "91-8016390710"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5016",
+  "name": "ADHIKAR(A PUBLIC CHARITABLE TRUST AND MICRO FINANCE INSTITUTION)",
+  "primaryEmail": "adhikaroffice@gmail.com",
+  "website": "www.adhikar.net.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Intermediary",
+    "Support"
+  ],
+  "telephone": [
+    "918016390710"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "107,Swami VivekanandaRoad,Chapadali,Barasat",
+      "Chapadali,Barasat",
+      "Kolkata",
+      "North 24 Parganas",
+      "West Bengal",
+      "700124"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "107,Swami Vivekananda Road,Chapadali, Barasat",
+      "Chapadali, Barasat",
+      "Kolkata",
+      "North 24 Parganas",
+      "West Bengal",
+      "700124"
+    ]
+  }
+}

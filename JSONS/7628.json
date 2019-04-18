@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "MR.NAWANEET KUMAR TRIPATHI",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7628",
+  "name": "SWARGIYA SMT LALITA DEVI SHIKSHA SEWA SANSTHAN",
+  "primaryEmail": "nawaneet52@gmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning"
+  ],
+  "telephone": [
+    "915523254283",
+    "915523254283"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "Vill-Tikar",
+      "Tahsil-Nichlaul,",
+      "Po-Parsauni,",
+      "Maharajganj",
+      "Uttar Pradesh",
+      "273307"
+    ]
+  }
+}

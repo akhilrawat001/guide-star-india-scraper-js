@@ -1,0 +1,45 @@
+{
+  "contacts": [
+    {
+      "name": "Tracy Kunichika",
+      "email": "info@operation-shanti.org",
+      "designation": "Chief Financial Offcier",
+      "mobile": [
+        "91-9945100945"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=311",
+  "name": "Akhanda Seva for International Shanti",
+  "primaryEmail": "info@operation-shanti.org",
+  "website": "http://www.operation-shanti.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919945100945"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "#1525 Sharadaniketan Road",
+      "Roopa Nagar, MK Halli Post",
+      "Mysore",
+      "Mysuru (Mysore)",
+      "Karnataka",
+      "570026"
+    ]
+  },
+  "briefDescription": "Operation Shanti believes: Everyone should have the opportunity to live to their potential.Every day we provide essential human services--food, shelter, educational and medical assistance--because only after their basic needs are met can the destitute begin to help themselves.Our Work: We focus our efforts in three projects areas: Home, Street, and Food. Today we are working in Mysore, India.",
+  "yearOfEstablishment": "2006",
+  "regiseredAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "Cave Shiva Temple, Chamundi Hill",
+      "Mysore",
+      "Mysuru (Mysore)",
+      "Karnataka",
+      "570010"
+    ]
+  }
+}

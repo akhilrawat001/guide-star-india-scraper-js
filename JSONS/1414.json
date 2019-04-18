@@ -1,0 +1,38 @@
+{
+  "contacts": [
+    {
+      "name": "Sujit Kumar",
+      "email": "osdp_india@yahoo.in",
+      "designation": "Secretary",
+      "mobile": []
+    },
+    {
+      "name": "Sujit Kumar",
+      "email": "osdp_india@yahoo.in",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1414",
+  "name": "Organisation for Social Development And Promotion",
+  "primaryEmail": "osdp_india@yahoo.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919706047436"
+  ],
+  "mainAddrress": {
+    "state": "Assam",
+    "address": [
+      "Six Mile",
+      "Jayanagar, Namghar Bylane, H.No.-6",
+      "Guwahati",
+      "Kamrup",
+      "Assam",
+      "781006"
+    ]
+  }
+}

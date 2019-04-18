@@ -1,0 +1,28 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=955",
+  "name": "Ramky Foundation",
+  "primaryEmail": "ramkyfoundation@ramky.com",
+  "website": "http://ramkyfoundation.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "914044422008",
+    "914044422222",
+    "917702978989"
+  ],
+  "mainAddrress": {
+    "state": "Telangana",
+    "address": [
+      "H.No:6-3-1089/G10&11, RAMKY House",
+      "Gulmohar Avenue, Rajbhavan Road, Somajiguda,",
+      "Hyderabad",
+      "Telangana",
+      "500082"
+    ]
+  }
+}

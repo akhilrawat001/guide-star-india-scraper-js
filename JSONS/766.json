@@ -1,0 +1,26 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=766",
+  "name": "Helpline Foundation",
+  "primaryEmail": "helpline.foundation@yahoo.com",
+  "website": "www.helpline.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "912765222358",
+    "919426436680",
+    "912765222358"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "C/14, Second Floor",
+      "Uma Market, Opp Bus Station",
+      "Visnagar",
+      "Mehsana",
+      "Gujarat",
+      "384315"
+    ]
+  }
+}

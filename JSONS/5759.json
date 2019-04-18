@@ -1,0 +1,26 @@
+{
+  "contacts": [
+    {
+      "name": "Musleuddin Ansari",
+      "email": "mansari46@gmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5759",
+  "name": "Society for Movement Awareness And Rural Technology (SMART)",
+  "primaryEmail": "smart_pakur@yahoo.com",
+  "telephone": [
+    "919431780013"
+  ],
+  "mainAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "Vill-Kariodi, PO-Hiranpur,",
+      "PS,Block",
+      "Pakur",
+      "Jharkhand",
+      "816104"
+    ]
+  }
+}

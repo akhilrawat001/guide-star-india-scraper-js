@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Himadri Sekhar De",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5716",
+  "name": "CHURCH OF NORTH INDIA SHISHU SANGOPAN GRIHA",
+  "primaryEmail": "ssgadmin@cnissg.org",
+  "website": "cnissg.org",
+  "organisationType": [
+    "Direct Service",
+    "Network"
+  ],
+  "telephone": [
+    "919899002676"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "St. Michaels Church Compound",
+      "Hospital Road, Jangpura",
+      "New Delhi",
+      "South Delhi",
+      "Delhi",
+      "110014"
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "contacts": [
+    {
+      "name": "Prashast Srivastava",
+      "email": "prashast.srivastava@saajha.org",
+      "designation": "Director",
+      "mobile": []
+    },
+    {
+      "name": "Prashast Srivastava",
+      "email": "prashast.srivastava@saajha.org",
+      "designation": "Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10238",
+  "name": "Saajha",
+  "primaryEmail": "prashast.srivastava@saajha.org",
+  "website": "http://www.saajha.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919811686701"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "E-43/1",
+      "Okhla Industrial Area, Okhla Phase 2",
+      "Delhi",
+      "South Delhi",
+      "110020"
+    ]
+  },
+  "briefDescription": "Saajha works towards enabling greater parental and community participation in schools. Towards this, it builds capabilities of parents, teachers and principals to facilitate a collaboration between schools and communities and support mothers to enable them to support learning of children at home and in community. It has been working directly with 100 municipal schools impacting about 40,000 children and has partnered with SCERT, Delhi to indirectly impact 1,000+ schools and over a million children.",
+  "yearOfEstablishment": "2014"
+}

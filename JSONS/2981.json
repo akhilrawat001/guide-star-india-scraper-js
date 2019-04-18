@@ -1,0 +1,37 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2981",
+  "name": "EnAble India",
+  "primaryEmail": "manager@enable-india.org",
+  "website": "www.enable-india.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "+918067323636"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "473/B Adugudi Main Road,",
+      "Koramangala 8th Block,",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560095"
+    ]
+  },
+  "briefDescription": "EnAble India is a non-profit organization working from 1999 towards the economic independence and dignity of persons with disabilities. We cater to the needs of all kinds of disabilities like visually impaired, hearing impaired, physically disabled, mental retardation, mental illness, Autism ,profound disability and more across India. Enable India works on creating employable pool of candidates and creates demand in companies and provides the workplace solutions by which the person with disability will work effectively.",
+  "yearOfEstablishment": "1999",
+  "regiseredAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "473/B Adugudi Main Road",
+      "Koramangala 8th Block,",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560095"
+    ]
+  }
+}

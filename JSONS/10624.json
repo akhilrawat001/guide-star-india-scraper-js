@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Md. Nayeemuddin",
+      "email": "",
+      "designation": "General Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10624",
+  "name": "Narkeldanga Educational & Welfare Society",
+  "primaryEmail": "newscal@yahoo.com",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "917980660168",
+    "919198312614"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "7, Kashi bustee Cross Lane",
+      "Kolkata",
+      "West Bengal",
+      "700011"
+    ]
+  }
+}

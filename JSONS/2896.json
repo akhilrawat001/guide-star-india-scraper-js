@@ -1,0 +1,31 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2896",
+  "name": "Shree Navdeep Kelavani Mandal",
+  "primaryEmail": "harish_1509@yahoo.co.in",
+  "telephone": [
+    "917926623932"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "Care of:HARISH G PATEL",
+      "AT : UPLAGODIYA",
+      "PO & TA : VIJAYNAGAR",
+      "Sabarkantha",
+      "Gujarat",
+      "383460"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "C/O:HARISH G PATEL",
+      "AT : UPLAGODIYA",
+      "PO & TA : VIJAYNAGAR",
+      "Sabarkantha",
+      "Gujarat",
+      "383460"
+    ]
+  }
+}

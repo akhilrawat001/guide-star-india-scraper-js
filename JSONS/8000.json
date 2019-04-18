@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Mabguangbou Daimai",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8000",
+  "name": "World Road Church Ministry (WRCM)",
+  "primaryEmail": "worldroadchurch_india@yahoo.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918974585595"
+  ],
+  "mainAddrress": {
+    "state": "Manipur",
+    "address": [
+      "2nd M.R.Gate",
+      "Opp D M College",
+      "Imphal",
+      "Imphal East",
+      "Manipur",
+      "795001"
+    ]
+  }
+}

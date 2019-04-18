@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Gibi N. Jose",
+      "email": "",
+      "designation": "Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1159",
+  "name": "Purvanchal Gramin Seva Samiti",
+  "primaryEmail": "pgssgkp@gmail.com",
+  "website": "www.pgssgkp.org",
+  "telephone": [
+    "915512284673",
+    "915512284674",
+    "915512284674"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "Fatima Nagar,",
+      "Padri Bazaar",
+      "Gorakhpur",
+      "Uttar Pradesh",
+      "273014",
+      "AP_TelBill_1062.PDF"
+    ]
+  }
+}

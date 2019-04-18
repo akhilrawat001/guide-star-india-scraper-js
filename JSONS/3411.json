@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "DR. J. P. SHARMA",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3411",
+  "name": "ALL INDIA WOMEN'S EDUCATIONAL AND TRAINING SOCIETY",
+  "primaryEmail": "drjpsharma@aiwets.com",
+  "website": "http://aiwets.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919415131376"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "838/W2,BASANT VIHAR",
+      "NAUBASTA",
+      "KANPUR",
+      "Kanpur Nagar",
+      "Uttar Pradesh",
+      "208021"
+    ]
+  }
+}

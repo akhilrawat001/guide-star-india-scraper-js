@@ -1,0 +1,25 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6806",
+  "name": "Ecstasy Educational Trust",
+  "primaryEmail": "ecstasycenter@gmail.com",
+  "website": "eetrust.blogspot.com",
+  "organisationType": [
+    "Direct Service",
+    "Intermediary",
+    "Support"
+  ],
+  "telephone": [
+    "919011057745"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "12,Saiprasad Anusha CHS,pumping Station Road",
+      "Gangapur road",
+      "Nashik",
+      "Maharashtra",
+      "422013"
+    ]
+  }
+}

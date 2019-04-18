@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Dr. Arun Ingle",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "9595373210"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6943",
+  "name": "Lokdeep Mutual Benefit Trust",
+  "primaryEmail": "lokdeepmbt@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919595373210"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Laxmi Narayan Apartment , Flat No. 4",
+      "New Osmanpura",
+      "Aurangabad",
+      "Maharashtra",
+      "430110"
+    ]
+  }
+}

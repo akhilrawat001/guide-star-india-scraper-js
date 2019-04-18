@@ -1,0 +1,35 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7075",
+  "name": "Nirman Sanstha, Khandel",
+  "primaryEmail": "nskhandel@yahoo.com",
+  "website": "www.nirmansanstha.org",
+  "organisationType": [
+    "Direct Service",
+    "Intermediary",
+    "Support"
+  ],
+  "telephone": [
+    "919660340290"
+  ],
+  "mainAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "21, Jagdamba Colony",
+      "Phulera",
+      "Jaipur",
+      "Rajasthan",
+      "303330"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "Village Khandel",
+      "Via- Sambhar Lake",
+      "Jaipur",
+      "Rajasthan",
+      "363604"
+    ]
+  }
+}

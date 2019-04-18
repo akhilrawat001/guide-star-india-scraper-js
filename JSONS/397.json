@@ -1,0 +1,43 @@
+{
+  "contacts": [
+    {
+      "name": "S Suganya",
+      "email": "mahalakshmifoundation@yahoo.com",
+      "designation": "Project Co-ordinater",
+      "mobile": []
+    },
+    {
+      "name": "S Suganya",
+      "email": "mahalakshmifoundation@yahoo.com",
+      "designation": "Project Co-ordinater",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=397",
+  "name": "Mahalakshmi Foundation for Reiki AUC and Drugles Therapies",
+  "primaryEmail": "mahalakshmifoundation@yahoo.com",
+  "website": "www.mahalakshmifoundation.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "914426557442",
+    "914426557442"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "40472, II Street",
+      "Kamarajanagar, Avadi, Thiruvallur",
+      "Chennai",
+      "Tamil Nadu",
+      "600071"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "Tamil Nadu"
+    ]
+  }
+}

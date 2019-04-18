@@ -1,0 +1,32 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8473",
+  "name": "ABHILASHA SAMAJIK SANSTHAN",
+  "primaryEmail": "assngoanta@gmail.com",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "919660750018"
+  ],
+  "mainAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "Care of,Yashvant Sain,Near Bhura Kua,Ward no.20",
+      "Anta",
+      "Baran",
+      "Rajasthan",
+      "0"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "C/o,Yashvant Sain,Near Bhura Kua,Ward no.20",
+      "Anta",
+      "Baran",
+      "Rajasthan",
+      "325202"
+    ]
+  }
+}

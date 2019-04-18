@@ -1,0 +1,27 @@
+{
+  "contacts": [
+    {
+      "name": "Anil Kumar Mishra",
+      "email": "",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=915",
+  "name": "District Organisation Of Volunteers And Escorts (Dove)",
+  "primaryEmail": "anguldove@gmail.com",
+  "telephone": [
+    "916764237306",
+    "919437039306"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "At: Hatishalpada, Post Box No-14",
+      "Angul HPO",
+      "Angul",
+      "Odisha",
+      "759122"
+    ]
+  }
+}

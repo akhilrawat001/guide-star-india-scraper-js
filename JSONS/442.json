@@ -1,0 +1,24 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=442",
+  "name": "Sahara, Orissa",
+  "primaryEmail": "saharasunabeda@gmail.com",
+  "website": "http://www.giveindia.org/GetOrganisationProfile.aspx?ngoid=175",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "916853220014",
+    "916853222623",
+    "916853220014"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "Village:Chikapar, Post: Sunabeda-1",
+      "Koraput",
+      "Odisha",
+      "763001"
+    ]
+  }
+}

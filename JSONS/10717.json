@@ -1,0 +1,41 @@
+{
+  "contacts": [
+    {
+      "name": "Tara McCartney",
+      "email": "tara@unitedforhope.org",
+      "designation": "CEO",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10717",
+  "name": "UNITED FOR HOPE",
+  "primaryEmail": "info@unitedforhope.org",
+  "website": "www.unitedforhope.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "911723920300"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "United For Hope Community Centre, Village Tirmasahun, Kushinagar District",
+      "Village Tirmasahun",
+      "Kushinagar",
+      "Uttar Pradesh",
+      "274302"
+    ]
+  },
+  "briefDescription": "United for Hope works to create sustainable programmes and enterprises that improve the lives of rural Indians, especially the disadvantaged, and build stronger communities.",
+  "yearOfEstablishment": "2014",
+  "regiseredAddrress": {
+    "state": "Haryana",
+    "address": [
+      "House 3238 Sector 15",
+      "Sonipat",
+      "Haryana",
+      "131001"
+    ]
+  }
+}

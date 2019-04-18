@@ -1,0 +1,47 @@
+{
+  "contacts": [
+    {
+      "name": "Purnnedu Kumar Kabi",
+      "email": "purnendu@prathambooks.org",
+      "designation": "Multi State Co-ordinator",
+      "mobile": [
+        "91-9990444437"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1654",
+  "name": "PRATHAM BOOKS",
+  "primaryEmail": "purnendu@prathambooks.org",
+  "website": "http://www.prathambooks.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918025420925 , 42052574",
+    "9990444437",
+    "919324288833"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "NO-633/634,4th C Main, 6th B Cross,OMBR Layout,Banaswadi",
+      "Banglaore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560043"
+    ]
+  },
+  "briefDescription": "Pratham Books, a not-for-profit publishing house, was set up with a societal mission to see “a book in every child’s hand” in 2004. At Pratham Books, we believe that every child has the right to enjoy good books and we work towards spreading the joy of reading amongst children. With a range of stories created to excite children with different likes and tastes, our books are illustrated by some of the most enthusiastic and talented illustrators in the country.A number of eminent authors and translators contribute to Pratham Books.Most of our books are priced around Rs 25. We have printed over 8.5 million books, over 10 million story cards and have a readership of nearly 25 million",
+  "yearOfEstablishment": "1012004",
+  "regiseredAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "NO-633/634,4th C Main, 6th B Cross",
+      ",OMBR Layout,Banaswadi",
+      "Banglaore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560043"
+    ]
+  }
+}

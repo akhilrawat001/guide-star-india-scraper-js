@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "C Charles Prabhu (Dr)",
+      "email": "",
+      "designation": "President/ Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=705",
+  "name": "Centre for Action and Rural Education",
+  "primaryEmail": "carecharles@gmail.com",
+  "website": "www.careerode.org",
+  "telephone": [
+    "914242274667",
+    "914242274667"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "No.6, Kambar Street",
+      "Teacher's Colony",
+      "Erode",
+      "Tamil Nadu",
+      "638011"
+    ]
+  }
+}

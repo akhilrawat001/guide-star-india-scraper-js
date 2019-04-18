@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Wamanrav Sakharam Gajale",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8267",
+  "name": "SAKHARAM BAPU BAHUUDDESHIYA SEVABHAVI SANSTHA",
+  "primaryEmail": "pawanbajaj999@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "918007828028"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Balirampur Village, M.I.D.C",
+      "Nanded",
+      "Maharashtra",
+      "431603"
+    ]
+  }
+}

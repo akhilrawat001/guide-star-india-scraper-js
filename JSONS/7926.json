@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Nityanand Singh",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7926",
+  "name": "KAUSHIKI FOUNDATION",
+  "primaryEmail": "kfoundationsbg@gmail.com",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "918002285040",
+    "919155186681",
+    "918540059051"
+  ],
+  "mainAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "Talbanna Road, Post- Sahibganj,",
+      "Near Public High School Sahibganj",
+      "Sahibganj",
+      "Jharkhand",
+      "816109"
+    ]
+  }
+}

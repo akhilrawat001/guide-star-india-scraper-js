@@ -1,0 +1,38 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5168",
+  "name": "RESOURCE GROUP FOR EDUCATION AND ADVOCACY FOR COMMUNITY HEALTH",
+  "primaryEmail": "reach4tb@gmail.com",
+  "website": "www.reachtbnetwork.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "914465211047",
+    "914428132099",
+    "914465211047"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "194, Avvaishanmugam Salai Lane, Lloyds road, Royapettah,Landmark Deccan Plaza Hotel",
+      "Chennai",
+      "Tamil Nadu",
+      "600042"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "9/5, 2nd Floor,",
+      "State Bank Street, Anna Salai",
+      "Chennai",
+      "Tamil Nadu",
+      "600002"
+    ]
+  }
+}

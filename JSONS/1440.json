@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "G. Leela mahithi",
+      "email": "womenvoice2009@gmail.com",
+      "designation": "Programme Co-ordinator",
+      "mobile": [
+        "91-9502027558"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1440",
+  "name": "Jana Jagruthi Samithi",
+  "primaryEmail": "jisorgap@yahoo.com",
+  "telephone": [
+    "918573284487",
+    "919000637815"
+  ],
+  "mainAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "Charala Village",
+      "Aragonda Post, Thavanampalli Mandal,",
+      "Chittoor",
+      "Andhra Pradesh",
+      "517129"
+    ]
+  }
+}

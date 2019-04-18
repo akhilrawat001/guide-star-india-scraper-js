@@ -1,0 +1,45 @@
+{
+  "contacts": [
+    {
+      "name": "Prabhudas  kamble",
+      "email": "mmrsf15280@gmail.com",
+      "designation": "president",
+      "mobile": [
+        "91-22-27811317"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9038",
+  "name": "MOTHER MEDICAL RESEARCH SOCIETY",
+  "primaryEmail": "mmrsf15280@gmail.com",
+  "organisationType": [
+    "Network"
+  ],
+  "telephone": [
+    "918424872829"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "302,Sai Jagannth Soc,Plot-92,Sector-31A,Vasigaon,",
+      "Vashigaon",
+      "Navimumbai",
+      "Thane",
+      "Maharashtra",
+      "400703"
+    ]
+  },
+  "briefDescription": "We introduce ourselves “Mother Medical Research Society” as a Govt. registered Charitable Trust No. F-15280 engaged in charitable activities since 2007.who are actively engaged in organizing Research seminar Development for Cancer and HIV/AIDS, Blood donation Camps, Medical Camps for general checkup, camps for bone density checkup and distribution of medicines, injections, pathology and other medical support, nursing Cancer, HIV and terminally ill patients, distribution of food, clothes and uniform to school children, education, secular education and financial support to Adivasi, rural, Slum population. Thus the Trust is totally committed to rendering service to economically weak and socially neglected segment of the society.",
+  "yearOfEstablishment": "2006",
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "302,Sai Jagannth Soc,Plot-92,",
+      "Sector-31A,Vashigaon,Vashi",
+      "Navimumbai",
+      "Thane",
+      "Maharashtra",
+      "400703"
+    ]
+  }
+}

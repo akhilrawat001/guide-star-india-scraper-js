@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Sonia Lamba Rana",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7156",
+  "name": "RIGHTS,AWARENESS AND JUSTICE FOUNDATION",
+  "primaryEmail": "rajfoundation6@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Intermediary",
+    "Support"
+  ],
+  "telephone": [
+    "911141651977",
+    "911141651977"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "E-86, Basement",
+      "East Of Kailash, Near Tagore International School",
+      "Delhi",
+      "South Delhi",
+      "110065"
+    ]
+  }
+}

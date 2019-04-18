@@ -1,0 +1,40 @@
+{
+  "contacts": [
+    {
+      "name": "Garima Singh",
+      "email": "djgarima@gmail.com",
+      "designation": "Project Manager",
+      "mobile": [
+        "91-9969610088"
+      ]
+    },
+    {
+      "name": "Garima Singh",
+      "email": "djgarima@gmail.com",
+      "designation": "Project Manager",
+      "mobile": [
+        "91-9969610088"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6007",
+  "name": "Sanskar India Foundation",
+  "primaryEmail": "kiranmadan1@gmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning"
+  ],
+  "telephone": [
+    "919867019761"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "503, Jolly Bhavan 1, New Marine Lines",
+      "Mumbai",
+      "Maharashtra",
+      "400020"
+    ]
+  },
+  "briefDescription": "Sanskar India Foundation (SIF) is a registered not-for-profit organization working in the field of civic, social and environmental awareness as well as education, mainly in Mumbai, for the past eleven years.SIF aims to create a class of independent and responsible citizens who are not just sensitive to environmental, social and health concerns but are also committed toward inclusive development for a better tomorrow.SIF’s flagship program, ‘Sanskar’, has been conceptualized with the intention of empowering future citizens to do their bit for the environment. Sanskar has been designed as a full-fledged subject with a practical edge that allows children to realize problems and develop practical solutions to them.",
+  "yearOfEstablishment": "2005"
+}

@@ -1,0 +1,49 @@
+{
+  "contacts": [
+    {
+      "name": "Dr. Siddhartha Pati",
+      "email": "patisiddhartha@gmail.com",
+      "designation": "Executive Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10948",
+  "name": "Association for Biodiversity Conservation & Research (ABC)",
+  "primaryEmail": "abioconservation@gmail.com",
+  "website": "www.bioconservation.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "+918895577750"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "ABC Office",
+      "Devine colony, Azimabad",
+      "Balasore",
+      "Baleswar",
+      "Odisha",
+      "756001"
+    ]
+  },
+  "briefDescription": "Association for Biodiversity Conservation & Research (ABC) is located in Baleswar, Odisha.",
+  "yearOfEstablishment": "2018",
+  "regiseredAddrress": {
+    "state": "Odisha",
+    "address": [
+      "ABC Office",
+      "Devine colony, Azimabad",
+      "balasore",
+      "Baleswar",
+      "Odisha",
+      "756001"
+    ]
+  }
+}

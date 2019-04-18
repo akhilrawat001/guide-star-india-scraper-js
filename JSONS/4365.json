@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "G.Athi Lalshmi",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4365",
+  "name": "Grand Alliance Trust",
+  "primaryEmail": "grand_alliance2005@yahoo.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "914523268648",
+    "914523268648"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "28, Kovalan Nagar Main Road",
+      "T.V.S.Nagar",
+      "Madurai",
+      "Tamil Nadu",
+      "625003"
+    ]
+  },
+  "briefDescription": "Grand Alliance Trust is located in Tamil Nadu. It creates awarness about social education, Enviornment, Economic and Human rights."
+}

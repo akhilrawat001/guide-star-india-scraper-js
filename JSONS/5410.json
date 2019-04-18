@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "A.N.Tripathi",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "2368937"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5410",
+  "name": "Kesari Devi Charitable Trust",
+  "primaryEmail": "trustkesari@gmail.com",
+  "website": "http://www.trustkesari.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "915422368937",
+    "915422368937"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "B 31/35-22, Sankat Mochan Colony,",
+      "Bhogabir, Lanka,",
+      "Varanasi",
+      "Uttar Pradesh",
+      "221005"
+    ]
+  }
+}

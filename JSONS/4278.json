@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Mehran Khan",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4278",
+  "name": "HELP Foundation",
+  "primaryEmail": "nighatshafi@gmail.com",
+  "website": "www.jkhf.in",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919419483048"
+  ],
+  "mainAddrress": {
+    "state": "Jammu and Kashmir",
+    "address": [
+      "50-Tulsi Bagh",
+      "Srinagar",
+      "Jammu and Kashmir",
+      "190008"
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Syed",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7741",
+  "name": "AMDUS GROUP EDUCATIONAL AND WELFARE SOCIETY",
+  "primaryEmail": "ageaws@gmail.com",
+  "website": "www.ageaws.biz",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "9028526387"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "SIS Group Of Industries Ascent Compound Plot No.E-16/1/4",
+      "Industrial Area MIDC",
+      "Chikalthana Aurangabad",
+      "Aurangabad",
+      "Maharashtra",
+      "431006"
+    ]
+  }
+}

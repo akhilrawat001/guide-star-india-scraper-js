@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "Bikram Singh",
+      "email": "bikramsp5@gmail.com",
+      "designation": "Manager",
+      "mobile": [
+        "91-8811080438"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5587",
+  "name": "Destination (A Real Home for Mentally Retarded Persons/Children)",
+  "primaryEmail": "rupahazarika1975.rh@gmail.com",
+  "website": "www.destinationarealhome.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service"
+  ],
+  "telephone": [
+    "918811013538"
+  ],
+  "mainAddrress": {
+    "state": "Assam",
+    "address": [
+      "Destination, House no-59, Bhagaduttapur, Kahilipara, Guwahati-19",
+      "Kahilipara-Lalganesh Road, Ganesh Turning",
+      "Guwahati",
+      "Kamrup Metropolitan",
+      "Assam",
+      "781019"
+    ]
+  },
+  "briefDescription": "Destination provide welfare services to the mentally challenged persons especially who are homeless abandoned   keeping them in our three shelter homes providing residential rehabilitation services of different age group starting from 3yrs . The organization also works for the welfare of animal, environment and promote computer education to the underprivileged children and youth. Established in June 2005, Destination is located in Kahilipara, Guwahati-19, Assam.",
+  "yearOfEstablishment": "2005"
+}

@@ -1,0 +1,32 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10320",
+  "name": "Sir Syed Trust",
+  "primaryEmail": "ashish.ashu191184@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918765801361"
+  ],
+  "mainAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "M05, 4/20, Ashiana Angan, Bhiwadi",
+      "Alwar",
+      "Rajasthan",
+      "301019"
+    ]
+  },
+  "briefDescription": "Sir Syed Trust And Sst is located in Alwar, Rajasthan.",
+  "yearOfEstablishment": "2008",
+  "regiseredAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "B-435, Rangoli Ashiana Village",
+      "Alwar",
+      "Rajasthan",
+      "301019"
+    ]
+  }
+}

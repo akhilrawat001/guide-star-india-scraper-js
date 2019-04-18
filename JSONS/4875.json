@@ -1,0 +1,34 @@
+{
+  "contacts": [
+    {
+      "name": "K V SRINIVASA REDDY",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4875",
+  "name": "SAHITI CHARITABLE TRUST",
+  "primaryEmail": "sahititrust@gmail.com",
+  "website": "http://www.sahititrust.org",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919490742049"
+  ],
+  "mainAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "D.No.46-13-21, DANAVAI PETA",
+      "S-2, SARASWATI APARTMENTS",
+      "RAJAHMUNDRY",
+      "East Godavari",
+      "Andhra Pradesh",
+      "533103"
+    ]
+  },
+  "briefDescription": "We identify the Urban poor, unemployed, and unskilled candidates, and give them skill development training and make them empowered. And them we help them to find employment.We have helped 8000 candidates in the 10 years.",
+  "yearOfEstablishment": "2012"
+}

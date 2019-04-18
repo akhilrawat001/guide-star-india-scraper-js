@@ -1,0 +1,35 @@
+{
+  "contacts": [
+    {
+      "name": "Milind Shivraj Sonkamble",
+      "email": "spcaudgir@yahoo.in",
+      "designation": "President",
+      "mobile": [
+        "91-2385-255841"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1401",
+  "name": "Sarvangin Vikas Sanstha Udgir",
+  "primaryEmail": "svsudgir@gmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Support"
+  ],
+  "telephone": [
+    "912385255560",
+    "919960803808"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Yeshodeep Ashok Nagar",
+      "Udgir",
+      "Latur",
+      "Maharashtra",
+      "413517"
+    ]
+  }
+}

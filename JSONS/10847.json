@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "Pramod Sahu",
+      "email": "info@krdes.com",
+      "designation": "CEO",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10847",
+  "name": "KARUNYA RURAL DEVELOPMENT AND EDUCATIONAL SOCIETY",
+  "primaryEmail": "info@krdes.com",
+  "telephone": [
+    "919776390289"
+  ],
+  "mainAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "D.NO1/664",
+      "Kothacheruvu",
+      "Anantapur",
+      "Andhra Pradesh",
+      "515133"
+    ]
+  },
+  "briefDescription": "Karunya Rural Development and Educational Society is registered at Andhra Pradesh.",
+  "yearOfEstablishment": "2000"
+}

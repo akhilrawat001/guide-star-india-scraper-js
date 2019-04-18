@@ -1,0 +1,44 @@
+{
+  "contacts": [
+    {
+      "name": "Sophia Chelladurai",
+      "email": "lovecareindia@gmail.com",
+      "designation": "Managing Trustee",
+      "mobile": [
+        "91-9444063692"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2015",
+  "name": "The National Institute of Eternal Hope",
+  "primaryEmail": "lovecareindia@gmail.com",
+  "website": "lovecareindia.org",
+  "organisationType": [
+    "Grant-making",
+    "Support"
+  ],
+  "telephone": [
+    "919444063692"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "187 Manickavasagam Nagar",
+      "Alawarpet, Arpakkam Village",
+      "Kancheepuram",
+      "Tamil Nadu",
+      "631603"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "187 Manickavasagam Nagar",
+      "Arpakkam Village",
+      "Kanchipuram Dist",
+      "Kancheepuram",
+      "Tamil Nadu",
+      "631603"
+    ]
+  }
+}

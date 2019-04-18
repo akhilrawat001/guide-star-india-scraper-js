@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "DR.R.G.GOKHALE",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2784",
+  "name": "PARIVAAR-SAHYADRI, THE APEX COUNCIL OF PARENTS FOR PERSONS WITH INTELLECTUAL AND DEVELOPMENTAL DISABILITIES",
+  "primaryEmail": "PSBURDE@YAHOO.COM",
+  "website": "WWW.PARIVAARNFPA.ORG",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Support"
+  ],
+  "telephone": [
+    "919920447481"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "A-301, SHIVASHISH,",
+      "S.V.ROAD, ANDHERI WEST",
+      "MUMBAI",
+      "Mumbai",
+      "Maharashtra",
+      "400058"
+    ]
+  }
+}

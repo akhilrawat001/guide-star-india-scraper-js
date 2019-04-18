@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Panchanana Patra",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8608",
+  "name": "Parichaya",
+  "primaryEmail": "pkumarparichay@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919439033188"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "Qrs no- C/44,",
+      "Sector-13",
+      "Rourkela-9",
+      "Sundargarh",
+      "Odisha",
+      "769009"
+    ]
+  }
+}

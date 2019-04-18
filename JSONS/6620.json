@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Paralkar S.N.",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6620",
+  "name": "LATE ULHAS MEMORIAL TRUST KANDHAR",
+  "primaryEmail": "ulhastrust@gmail.com",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "919421087138"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Ulhas Nagar,",
+      "Bahaddarpura,",
+      "Kandhar",
+      "Nanded",
+      "Maharashtra",
+      "431714"
+    ]
+  }
+}

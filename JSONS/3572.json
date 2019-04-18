@@ -1,0 +1,24 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3572",
+  "name": "Aagaz Charitable Foundation",
+  "primaryEmail": "info@aagaz.org",
+  "website": "http://www.aagaz.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919914692800",
+    "919815618655"
+  ],
+  "mainAddrress": {
+    "state": "Punjab",
+    "address": [
+      "655",
+      "Gurdev Nagar",
+      "Ludhiana",
+      "Punjab",
+      "141001"
+    ]
+  }
+}

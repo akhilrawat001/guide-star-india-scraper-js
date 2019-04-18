@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Ramdas",
+      "email": "samarpana_org@rediffmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5304",
+  "name": "Samarpana Development Organization",
+  "primaryEmail": "samarpana_org@rediffmail.com",
+  "website": "www.samarpanadvt.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919483700272"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "samarpana Development Organization opp Shanthi Wigthe Bridge Bsavanagar kustagi Road  Sindhanur Raichu",
+      "Kustagi Road",
+      "Sindhanur",
+      "Raichur",
+      "Karnataka",
+      "584128"
+    ]
+  }
+}

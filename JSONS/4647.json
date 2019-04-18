@@ -1,0 +1,27 @@
+{
+  "contacts": [
+    {
+      "name": "Shri Ramesh Kumar",
+      "email": "rajdevelopmentsociety@rediffmail.com",
+      "designation": "Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4647",
+  "name": "Raj Development Society",
+  "primaryEmail": "rajdevelopmentsociety@rediffmail.com",
+  "telephone": [
+    "916542255210",
+    "919931589017"
+  ],
+  "mainAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "33-Co-Operative Colony",
+      "P.O.- Head Post Office (Sec- 2) P.S.- City Thana (Sec-1)",
+      "Bokaro",
+      "Jharkhand",
+      "827001"
+    ]
+  }
+}

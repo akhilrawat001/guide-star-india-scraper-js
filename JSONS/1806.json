@@ -1,0 +1,44 @@
+{
+  "contacts": [
+    {
+      "name": "Veena Dwivedi",
+      "email": "veenamrd@yahoo.com",
+      "designation": "Advisor Cum Consultant",
+      "mobile": [
+        "91-542-2586012"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1806",
+  "name": "Society for Social Action and Research",
+  "primaryEmail": "ssar_sansthan@yahoo.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "915422582018",
+    "915422586012",
+    "919839505979"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "E- 8",
+      "Phase-2, Premchand Nagar",
+      "Pandeypur",
+      "Varanasi",
+      "Uttar Pradesh",
+      "221002"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "M.M - 3",
+      "Pramchandra Nagar Phase-2 Daulatapur,",
+      "Varanasi",
+      "Uttar Pradesh",
+      "221002"
+    ]
+  }
+}

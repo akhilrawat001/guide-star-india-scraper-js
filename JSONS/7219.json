@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Dr.Harishankar Sen",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7219",
+  "name": "Sahara Jan Kalyan Samiti",
+  "primaryEmail": "sahara_rehli@yahoo.com",
+  "website": "saharangosag.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "917582266013",
+    "917582266013"
+  ],
+  "mainAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "21/419,Behind TCPC , Khurai Road ,",
+      "Sasthri Ward , Sagar",
+      "Sagar",
+      "Madhya Pradesh",
+      "470002"
+    ]
+  }
+}

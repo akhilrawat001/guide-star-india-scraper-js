@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "Sr.Stella",
+      "email": "assisifarm@gmail.com",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4208",
+  "name": "Assisi Farm & Training Centre",
+  "primaryEmail": "assisifarm@gmail.com",
+  "telephone": [
+    "914652289122",
+    "919443716824"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "Assisi Farm and Training Centre,",
+      "Kothalampallam, Palkulam",
+      "Thovalai",
+      "Kanyakumari",
+      "Tamil Nadu",
+      "629851"
+    ]
+  }
+}

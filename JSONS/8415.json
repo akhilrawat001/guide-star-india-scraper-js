@@ -1,0 +1,49 @@
+{
+  "contacts": [
+    {
+      "name": "Tripti V Pal",
+      "email": "triptipal@icarehospital.org",
+      "designation": "Asst. Manager Fundraising",
+      "mobile": [
+        "2477600"
+      ]
+    },
+    {
+      "name": "Tripti V Pal",
+      "email": "triptipal@icarehospital.org",
+      "designation": "Asst. Manager Fundraising",
+      "mobile": [
+        "2477600"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8415",
+  "name": "Ishwar Charitable Trust",
+  "primaryEmail": "wecare@icarehospital.org",
+  "website": "www.icarehospital.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service"
+  ],
+  "telephone": [
+    "911202477600",
+    "911202477602",
+    "911202555969",
+    "911202558274",
+    "911202477691",
+    "911202477600"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "E-3A",
+      "Sector 26",
+      "Noida",
+      "Gautam Buddha Nagar",
+      "Uttar Pradesh",
+      "201301"
+    ]
+  },
+  "briefDescription": "Ishwar Charitable Trust was established in 1982. ICARE Outreach Program covers states of Uttar Pradesh, Haryana, Rajasthan and slums of Delhi. 19 Rural Peripheral Screening Centers have been established in villages to identify cases of reversible blindness.A team of doctors and paramedics visit these  Centers where villagers gather on pre-determined days of the week. They are examined and those identified for any eye surgeries or interventions are brought to the base hospital at Noida in ambulances. Their stay at ICARE for 3 days, meals, medicines, surgery and transportation to and fro is free of cost. Since 1993 1.43 million patients were screened and over 1,50,000 were operated upon.",
+  "yearOfEstablishment": "1993"
+}

@@ -1,0 +1,40 @@
+{
+  "contacts": [
+    {
+      "name": "Ramakant S Agrawal",
+      "email": "",
+      "designation": "Chairman",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10833",
+  "name": "HELPING HAND FOUNDATION, THANE",
+  "primaryEmail": "hhfg2018@gmail.com",
+  "telephone": [
+    "919967594328"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "A-103, Deep Jyoti CHS",
+      "Opp Shahad Railway Station, Shahad West",
+      "Kalyan",
+      "Thane",
+      "Maharashtra",
+      "421103"
+    ]
+  },
+  "briefDescription": "Helping Hand Foundation is located in Thane, Maharashtra.",
+  "yearOfEstablishment": "2018",
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "PO Dabhad",
+      "Near New English School",
+      "Bhiwandi",
+      "Thane",
+      "Maharashtra",
+      "421302"
+    ]
+  }
+}

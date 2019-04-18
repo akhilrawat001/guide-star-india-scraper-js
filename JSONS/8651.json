@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Raj Muthaiah",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8651",
+  "name": "Institute of Magic and Allied Arts",
+  "primaryEmail": "iomaa.blr@gmail.com",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "919845009111",
+    "919449074966"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "750/3, Magic Mansion, Surya Layout",
+      "8th Phase, JP Nagar",
+      "Bangalore",
+      "Bengaluru (Bangalore) Rural",
+      "Karnataka",
+      "560076"
+    ]
+  }
+}

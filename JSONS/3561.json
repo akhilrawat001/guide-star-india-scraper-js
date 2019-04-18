@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "a k mishra",
+      "email": "arunmishralibrary@gmail.com",
+      "designation": "Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3561",
+  "name": "Anjali Mahila Sewa Sansthan",
+  "primaryEmail": "arunmishralibrary@gmail.com",
+  "website": "www.anjalimahilaewasansthan.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "915263290691",
+    "915263290691"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "balrampur",
+      "Balrampur",
+      "Uttar Pradesh",
+      "271201"
+    ]
+  }
+}

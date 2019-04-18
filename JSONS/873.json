@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "N Renuka",
+      "email": "",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=873",
+  "name": "Mano Prakash Human Services",
+  "primaryEmail": "manoprakashorg@yahoo.co.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918684223480",
+    "919440668093"
+  ],
+  "mainAddrress": {
+    "state": "Telangana",
+    "address": [
+      "HNO.1-1-188/2 , JJ Nagar",
+      "Suryapet",
+      "Nalgonda",
+      "Telangana",
+      "508213"
+    ]
+  }
+}

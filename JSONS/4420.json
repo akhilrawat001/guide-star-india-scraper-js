@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Sneh Gupta",
+      "email": "sneh@indiability.org",
+      "designation": "President/Executive Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4420",
+  "name": "Sucheta Kriplani Shiksha Niketan",
+  "primaryEmail": "sneh@indiability.org",
+  "website": "www.sksn.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919871568174"
+  ],
+  "mainAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "81-82 Virendra Nagar",
+      "'C' Sector, Mandore Road",
+      "Jodhpur",
+      "Rajasthan",
+      "342304"
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Siddharam Mashale",
+      "email": "",
+      "designation": "Treasurer",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5453",
+  "name": "STATE  INNOVATION   AND   RESEARCH    FOUNDATION",
+  "primaryEmail": "sirfoundationmh@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919970191814"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "130, Kulswamini Dhanashri Nagar",
+      "Near Sadiccha, Vijapur Road",
+      "Solapur",
+      "Maharashtra",
+      "413004"
+    ]
+  }
+}

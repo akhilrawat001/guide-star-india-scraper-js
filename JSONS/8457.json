@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "AMRESH KUMAR JHA",
+      "email": "sanskaarchatra@gmail.com",
+      "designation": "SECRETARY",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8457",
+  "name": "SANSKAR",
+  "primaryEmail": "sanskaarchatra@gmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service"
+  ],
+  "telephone": [
+    "919308997680"
+  ],
+  "mainAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "SANSKAR HOUSE OF ENAMUL HAQUE BIND MUHALLA,",
+      "SHAHADAT CHOWK,",
+      "PO+PS- CHATRA,",
+      "Chatra",
+      "Jharkhand",
+      "825401"
+    ]
+  }
+}

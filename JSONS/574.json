@@ -1,0 +1,39 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=574",
+  "name": "The Foundation for Ecological Security",
+  "primaryEmail": "ed@fes.org.in",
+  "website": "www.fes.org.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "912692261402",
+    "912692261239",
+    "912692262196",
+    "912692261402"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "P. O. Box 29, NDDB Campus",
+      "Anand",
+      "Gujarat",
+      "388001"
+    ]
+  },
+  "briefDescription": "FES works towards the ecological restoration and conservation of land and water resources, in the uplands and other eco-fragile, degraded and marginalized zones of the country and to set in place the processes of coordinated human effort and governance. We work in 5 eco-regions of India with 1,526 Village institutions in 27 districts across six states and about a million households in protecting 107,094 hectares of revenue watelands, degraded forestlands and Panchayat grazing lands (Charagah lands). FES is probably the only organization that works on Commons at this scale.",
+  "yearOfEstablishment": "2001",
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "National Dairy Development Board Building, Safdarjung Enclave",
+      "New Delhi",
+      "Delhi",
+      "110029"
+    ]
+  }
+}

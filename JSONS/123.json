@@ -1,0 +1,43 @@
+{
+  "contacts": [
+    {
+      "name": "Sahithya Manoj",
+      "email": "preranabangalore@gmail.com",
+      "designation": "Programme Officer",
+      "mobile": []
+    },
+    {
+      "name": "Sahithya Manoj",
+      "email": "preranabangalore@gmail.com",
+      "designation": "Programme Officer",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=123",
+  "name": "Prerana",
+  "primaryEmail": "preranabangalore@gmail.com",
+  "website": "www.preranamerit.org",
+  "organisationType": [
+    "Direct Service",
+    "Intermediary",
+    "Support"
+  ],
+  "telephone": [
+    "918026601105",
+    "918065337823",
+    "918762502707"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "#28, Neeladri 3rd Main",
+      "Basappa Layout, Gavipuram Extension, Hanumantha nagar, opp Syndicate Bank",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560019"
+    ]
+  },
+  "briefDescription": "To briefly introduce ourselves, Prerana is a non-governmental organization registered in 1990 under the Karnataka Society Act with a 80G Certification from the Income Tax Department. At Prerana, we strongly believe that poverty, under no circumstances should thwart higher education. Thus, Prerana is encouraging those meritorious but poor students, to continue their higher education, under “NURTURE MERIT PROGRAMME”, which ensures financial and academic support to these students. The support to students begins once they enter their first year in college after their tenth exams and extends throughout their higher studies.  The encouragement is also extended to improve their overall development and their progress and performance is monitored continuously.",
+  "yearOfEstablishment": "1990"
+}

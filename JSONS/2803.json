@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Deepak P Mathur",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2803",
+  "name": "Excellent Education and Welfare Movement",
+  "primaryEmail": "eewm@mail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919424284954"
+  ],
+  "mainAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "4/78,kanoongo ward",
+      "bina",
+      "Sagar",
+      "Madhya Pradesh",
+      "470113"
+    ]
+  }
+}

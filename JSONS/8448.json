@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "UMESH CHANDRA SINHA",
+      "email": "vbhalimpur@yahoo.com",
+      "designation": "SECRETARY",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8448",
+  "name": "VISHWA BANDHU",
+  "primaryEmail": "vbhalimpur@yahoo.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "916226294973",
+    "916226294973"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "HALIMPUR,",
+      "P.O.- DUMARI KALA",
+      "DISTT.- SITAMARHI",
+      "Sitamarhi",
+      "Bihar",
+      "843315"
+    ]
+  }
+}

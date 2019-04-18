@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Ujwwala Jadhav",
+      "email": "",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10922",
+  "name": "Urja Social and Education Welfare Foundation",
+  "primaryEmail": "urjawelfarefoundation@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919167626854"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "210, 2nd floor, Shri Samarth Kripa Building, Navi Shivane Naka, Near Marya Marbles, Juinagar",
+      "Tal Satara",
+      "Satara",
+      "Maharashtra",
+      "400706"
+    ]
+  }
+}

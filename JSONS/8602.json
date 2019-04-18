@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Santosh Kumar Patnaik",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8602",
+  "name": "Council of Social Action (COSA)",
+  "primaryEmail": "cosaindia@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918763442483"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "AN 2/51",
+      "ASHOK NAGAR",
+      "BREHAMPUR",
+      "Ganjam",
+      "Odisha",
+      "760004"
+    ]
+  }
+}

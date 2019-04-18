@@ -1,0 +1,24 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8302",
+  "name": "School of Fine Art",
+  "primaryEmail": "sikandarraj2002@gmail.com",
+  "website": "http //www.sofaart.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919439395694"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "Harijan Para, Back side of Government Hospital,Bargarh",
+      "Bargarh",
+      "Odisha",
+      "768028"
+    ]
+  }
+}

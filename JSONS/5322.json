@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Dr Suresh S",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5322",
+  "name": "Gajani Foundation",
+  "primaryEmail": "gajanifoundation@gmail.com",
+  "website": "NA",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service"
+  ],
+  "telephone": [
+    "919844947300"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "No 20/95 B Near Kalasanka",
+      "Gajani House",
+      "Chitrapu Mulki Post Mangalore",
+      "Dakshina Kannada",
+      "Karnataka",
+      "574154"
+    ]
+  }
+}

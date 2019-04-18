@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Samuel Raju Matta",
+      "email": "crisaindia@gmail.com",
+      "designation": "Founder",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3589",
+  "name": "Child Relief Integrated Social Action",
+  "primaryEmail": "crisaindia@yahoo.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "00919492425647"
+  ],
+  "mainAddrress": {
+    "state": "Telangana",
+    "address": [
+      "HIG-163, Phase V",
+      "KPHB",
+      "Hyderabad",
+      "Telangana",
+      "500085"
+    ]
+  }
+}

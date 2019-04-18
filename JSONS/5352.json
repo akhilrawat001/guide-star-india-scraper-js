@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Gaurav Kashyap",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5352",
+  "name": "HEALTH EDUCATION ENVIRONMENT AND LIVELIHOOD SOCIETY",
+  "primaryEmail": "gaurav@heeals.org",
+  "website": "http://heeals.org/",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "911244240984",
+    "911244240984"
+  ],
+  "mainAddrress": {
+    "state": "Haryana",
+    "address": [
+      "HOUSE NUMBER - 692, SECTOR - 22",
+      "POCKET - B",
+      "GURGAON",
+      "Gurugram",
+      "Haryana",
+      "122015"
+    ]
+  }
+}

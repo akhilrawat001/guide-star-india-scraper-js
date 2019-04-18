@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Rev Kalyan Kumar Kisku",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4268",
+  "name": "Rural Development Society",
+  "primaryEmail": "rudeso@rediffmail.com",
+  "website": "http://www.rudeso.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919475269270"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Central Church Compound",
+      "Collge Road",
+      "Bankura",
+      "West Bengal",
+      "722101"
+    ]
+  }
+}

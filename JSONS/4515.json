@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Sanjay Tiwari",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4515",
+  "name": "YUKTI SAMAJ SEWA SOCIETY",
+  "primaryEmail": "ysss98@rediffmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "917574252077",
+    "917574252077"
+  ],
+  "mainAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "Near MP State Agro Office,",
+      "Ginny Compound, Meenakshi Chowk,",
+      "Hoshangabad",
+      "Madhya Pradesh",
+      "461001"
+    ]
+  }
+}

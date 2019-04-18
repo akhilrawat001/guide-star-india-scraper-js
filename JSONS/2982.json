@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Santosh Pandit",
+      "email": "iotech@iotech.in",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2982",
+  "name": "Golden Innovative Organisation For Computer And Technical Education",
+  "primaryEmail": "iotech@iotech.in",
+  "website": "www.iotech.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919832465282"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "sampriti sarani",
+      "behind indusind bank",
+      "dhupguri",
+      "Jalpaiguri",
+      "West Bengal",
+      "735210"
+    ]
+  }
+}

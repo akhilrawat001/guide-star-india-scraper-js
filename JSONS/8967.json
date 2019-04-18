@@ -1,0 +1,35 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8967",
+  "name": "The Impression Foundation",
+  "primaryEmail": "discovery.amitkumar@gmail.com",
+  "website": "www.theimpression.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919386462367",
+    "919102102367"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "Indrapuri, Road No-5, House No - 46, PO - Keshri Nagar, PS - Patliputra, Patna - 800024(Bihar)",
+      "Vill-Bariyarpur, PO-Gauspur Bariyarpur,",
+      "Vaishali",
+      "Bihar",
+      "844115"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Bihar",
+    "address": [
+      "House No - 46, PO - Keshri Nagar",
+      "Indrapuri, Road No-5,",
+      "Patna, Patliputra",
+      "Patna",
+      "Bihar",
+      "800024"
+    ]
+  }
+}

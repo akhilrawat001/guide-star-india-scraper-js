@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "JOGI JAGANNATH",
+      "email": "SNEHAHASTAMSOCIETY@GMAIL.COM",
+      "designation": "GENERAL SECRETARY",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4339",
+  "name": "SNEHA HASTAM SOCIETY",
+  "primaryEmail": "SNEHAHASTAMSOCIETY@GMAIL.COM",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919868338918",
+    "+911127634230"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "E -805",
+      "JAHANGIR PURI",
+      "DELHI",
+      "North Delhi",
+      "Delhi",
+      "110033"
+    ]
+  }
+}

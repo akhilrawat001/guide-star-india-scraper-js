@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Viram  Bambhaniya",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4725",
+  "name": "Pachhat Jati Manav Vikas Trust - ITODA",
+  "primaryEmail": "pjmvtrust1992@gmail.com",
+  "website": "www.pjmvt.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "910972504509"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "S/10 Palika Bazar  Near NagarPalika",
+      "31/A Pragati Nagar Society Visnagar Link Road",
+      "Mehsana",
+      "Gujarat",
+      "384001"
+    ]
+  }
+}

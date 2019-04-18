@@ -1,0 +1,45 @@
+{
+  "contacts": [
+    {
+      "name": "Chirag Mahajan",
+      "email": "outreach@wastewarriors.org",
+      "designation": "Communications Manager",
+      "mobile": [
+        "91-9866383029"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10444",
+  "name": "Waste Warriors Society",
+  "primaryEmail": "outreach@wastewarriors.org",
+  "website": "http://www.wastewarriors.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service"
+  ],
+  "telephone": [
+    "919866383029",
+    "919307832103"
+  ],
+  "mainAddrress": {
+    "state": "Uttarakhand",
+    "address": [
+      "71A/386 Balaji House Lane,",
+      "Dilaram Chowk, Rajpur Rd.",
+      "Dehradun",
+      "Uttarakhand",
+      "248001"
+    ]
+  },
+  "briefDescription": "Waste Warriors is an NGO and registered society committed to tackling India’s garbage problem. We’re headquartered and operate in Dehradun, and have projects in hilly terrains of Upper Dharamshala, and in rural peripheries of Corbett National Park. We work through a combination of direct action initiatives, awareness-raising and community engagement programs, and local advocacy and partnership events. Our mission is to develop sustainable systems by being a catalyst for community-based decentralized initiatives in rural, urban, and protected areas, and to pioneer replicable models of resource management, innovative practices, research and education, and simultaneously to improve the informal livelihoods and conditions of waste workers.",
+  "yearOfEstablishment": "2012",
+  "regiseredAddrress": {
+    "state": "Uttarakhand",
+    "address": [
+      "24 Pritam Road, Dalanwala",
+      "Dehradun",
+      "Uttarakhand",
+      "248001"
+    ]
+  }
+}

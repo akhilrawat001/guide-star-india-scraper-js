@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Dr.Swapnil Vilas Surve",
+      "email": "swapnils4200@gmail.com",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6830",
+  "name": "OSCAR MEDICAL FOUNDATION AND RESEARCH CENTRE",
+  "primaryEmail": "dr.jppund@gmail.com",
+  "website": "www.oscarfoundation.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service"
+  ],
+  "telephone": [
+    "919869600926"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "F/201,Orchid Building,Unnati Garden,Devdaya Nagar,Thane west.",
+      "second floor,Saisadan Building,Vartak Nagar naka,Pokharan road no.1,Thane west.",
+      "Thane west.",
+      "Thane",
+      "Maharashtra",
+      "400606"
+    ]
+  }
+}

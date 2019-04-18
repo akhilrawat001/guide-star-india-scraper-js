@@ -1,0 +1,33 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5212",
+  "name": "Shiv Shiksha Samiti, Ranoli",
+  "primaryEmail": "sssr99@rediffmail.com",
+  "website": "http://www.sssr.org",
+  "organisationType": [
+    "Direct Service",
+    "Network"
+  ],
+  "telephone": [
+    "919828163831"
+  ],
+  "mainAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "Village and Post Kathmana",
+      "Via Piploo",
+      "Tonk",
+      "Rajasthan",
+      "304801"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "Ranoli",
+      "Tonk",
+      "Rajasthan",
+      "304801"
+    ]
+  }
+}

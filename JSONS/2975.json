@@ -1,0 +1,27 @@
+{
+  "contacts": [
+    {
+      "name": "Nizamuddin Shah",
+      "email": "",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2975",
+  "name": "The Council for Anti Poverty Action and Rural Volunteers",
+  "primaryEmail": "caparvman2013@gmail.com",
+  "telephone": [
+    "913852052325",
+    "913852052325"
+  ],
+  "mainAddrress": {
+    "state": "Manipur",
+    "address": [
+      "New Checkon,Dimdailong,Sangom building",
+      "Near Brighter Academy",
+      "Imphal East",
+      "Manipur",
+      "795001"
+    ]
+  }
+}

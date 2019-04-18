@@ -1,0 +1,38 @@
+{
+  "contacts": [
+    {
+      "name": "Aurelie Faugier",
+      "email": "aurelie@mentormeindia.org",
+      "designation": "Operations Manager",
+      "mobile": []
+    },
+    {
+      "name": "Aurelie Faugier",
+      "email": "aurelie@mentormeindia.org",
+      "designation": "Operations Manager",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5906",
+  "name": "MentorMe Foundation",
+  "primaryEmail": "aurelie@mentormeindia.org",
+  "website": "http://mentormeindia.org",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "919930977446"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Don Bosco School - Principal House",
+      "MP Marg Kings Circle",
+      "Mumbai",
+      "Maharashtra",
+      "400019"
+    ]
+  },
+  "briefDescription": "We are a start-up NGO, whose mission is to empower children in low income communities in India to grow to their full potential by supporting one-to-one relationships with strong role models. Our programme is inspired by the internationally proven model of Big Brothers Big Sisters in the U.S. but carefully tailored to the Indian context. We currently support 75 children in Mumbai and our goal is to expand to support over a hundred children by the end of this year, and grow as India’s first national mentoring organization in the next 5 years.Too many children lack a caring adult in their lives with the time and resources to guide them out of a cycle of poverty. Their parents are often daily wage earners who did not go through the education s",
+  "yearOfEstablishment": "2013"
+}

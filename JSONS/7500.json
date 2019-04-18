@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Mr.A K Upadhyay",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7500",
+  "name": "ABHINAV ADITYA SHIKSHA AVAM LOK KALYAN SAMITI",
+  "primaryEmail": "aec.sagar@gmail.com",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "919826997233"
+  ],
+  "mainAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "252/24doorsanchar colony,",
+      "Rajakhedi(Makroniya) Sagar",
+      "Sagar",
+      "Madhya Pradesh",
+      "470003"
+    ]
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "contacts": [
+    {
+      "name": "Pooja D'Souza",
+      "email": "pooja@makeadiff.in",
+      "designation": "Finance Director",
+      "mobile": []
+    },
+    {
+      "name": "Pooja D'Souza",
+      "email": "pooja@makeadiff.in",
+      "designation": "Finance Director",
+      "mobile": []
+    },
+    {
+      "name": "Pooja D'Souza",
+      "email": "pooja@makeadiff.in",
+      "designation": "Finance Director",
+      "mobile": []
+    },
+    {
+      "name": "Pooja D'Souza",
+      "email": "pooja@makeadiff.in",
+      "designation": "Finance Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1663",
+  "name": "MAKE A DIFFERENCE",
+  "primaryEmail": "contact@makeadiff.in",
+  "website": "www.makeadiff.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "mainAddrress": {
+    "address": []
+  },
+  "briefDescription": "Make A Difference (MAD) is a youth driven, non-profit organisation working to ensure equitable outcomes for children in orphanages and street shelters. Registered as a non-profit in 2006, Make A Difference reaches out to over 3,460 children in 67 shelters across 23 cities in India, through a highly efficient 3,822 strong volunteer network. Volunteers commit a year and spend between 2 and 10 hours every week mentoring, teaching and interacting with children in order to ensure that they get the support and care they need during childhood.",
+  "yearOfEstablishment": "2006",
+  "regiseredAddrress": {
+    "state": "Kerala",
+    "address": [
+      "28/2060D,Nedumala House,Harmony Enclave,Chilavannoor Road",
+      "Kochi",
+      "Ernakulam",
+      "Kerala",
+      "682020"
+    ]
+  }
+}

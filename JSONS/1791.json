@@ -1,0 +1,32 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1791",
+  "name": "Women's Institution for Social Enlighten",
+  "primaryEmail": "subashrath@yahoo.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "916802225231",
+    "919439328464"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "PALOOR BANGLOW STREET",
+      "BERHAMPUR",
+      "Ganjam",
+      "Odisha",
+      "760001"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Odisha",
+    "address": [
+      "4TH lANE",
+      "Garhwa",
+      "Odisha",
+      "760001"
+    ]
+  }
+}

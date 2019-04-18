@@ -1,0 +1,34 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10691",
+  "name": "EMPOWER FOUNDATION",
+  "primaryEmail": "syed.namra@empowerfoundation.net",
+  "website": "http://empowerfoundation.net/",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918586012699"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "Plot No.382, 2nd Floor, MG Road, Sultanpur,",
+      "Near Avalon Courtyard",
+      "New Delhi",
+      "South West Delhi",
+      "Delhi",
+      "110030"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "B- 87A, First Floor, Kalkaji",
+      "New Delhi",
+      "South Delhi",
+      "Delhi",
+      "110019"
+    ]
+  }
+}

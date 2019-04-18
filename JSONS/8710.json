@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Rajkant Jha",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8710",
+  "name": "Vivekanand Yuva Mandal",
+  "primaryEmail": "chandan_drishtee@rediffmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919771996668"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "Vill- Singioun,",
+      "Post- Rampatti,",
+      "Madhubani",
+      "Bihar",
+      "847235"
+    ]
+  }
+}

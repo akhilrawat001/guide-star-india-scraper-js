@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "P.Alaguraja",
+      "email": "alagugeo@gmail.com",
+      "designation": "Program Director",
+      "mobile": []
+    },
+    {
+      "name": "P.Alaguraja",
+      "email": "alagugeo@gmail.com",
+      "designation": "Program Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1707",
+  "name": "Rural Education Socio Economic And Environmental Development (Reseed) Trust",
+  "primaryEmail": "kandamalar_2007@yahoo.co.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918760906975"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "39",
+      "Tamilsolai, Nangavaram",
+      "Poo Kulithalai",
+      "Karur",
+      "Tamil Nadu",
+      "639110"
+    ]
+  }
+}

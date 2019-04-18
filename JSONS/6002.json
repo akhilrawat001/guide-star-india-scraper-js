@@ -1,0 +1,46 @@
+{
+  "contacts": [
+    {
+      "name": "Sherry Yezdani",
+      "email": "sherry@antarangfoundation.org",
+      "designation": "Director - Programs",
+      "mobile": [
+        "91-22-40050164",
+        "91-9619450878"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6002",
+  "name": "ANTARANG FOUNDATION",
+  "primaryEmail": "info@antarangfoundation.org",
+  "website": "http://www.antarangfoundation.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "912240050164",
+    "912240050943"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "231/C, Tawripada Compound,",
+      "Dr SS Rao Road, Lalbaug",
+      "Mumbai",
+      "Maharashtra",
+      "400012"
+    ]
+  },
+  "briefDescription": "Antarang Foundation works with underpriviledged youth in the age group 16-24 yrs in Mumbai, Pune & Udaipur.  Through a 3 month EmployAbility program that includes self awareness, career awareness, ethics, etiquette, basic English and computer literacy skills, we link youth to employment opportunities or vocational training.",
+  "yearOfEstablishment": "2013",
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "D-903, Ashok Towers",
+      "Dr SS Rao Marg, Parel",
+      "Mumbai",
+      "Maharashtra",
+      "400012"
+    ]
+  }
+}

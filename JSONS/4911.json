@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Asha S Kachhap",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "223409"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4911",
+  "name": "DELHI CAMBRIDGE BROTHERHOOD",
+  "primaryEmail": "delhi.cambridge.brotherhood1@gmail.com",
+  "website": "www.cambridgebrotherhood.biz",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "916858223409",
+    "916858223409"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "Kennedy Mansion",
+      "Senapati Street",
+      "Nabarangpur",
+      "Odisha",
+      "764059"
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=692",
+  "name": "Calcutta Marudyan",
+  "primaryEmail": "marudyan@hotmail.com",
+  "website": "www.calcuttamarudyan.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919831234570",
+    "913322430847"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "7A, K S Roy Road (NPS)",
+      "Kolkata",
+      "West Bengal",
+      "700001"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "“Marudyan Primary and Jr. High School”",
+      "Dhanpota",
+      "South 24 Parganas",
+      "West Bengal",
+      "743355"
+    ]
+  }
+}

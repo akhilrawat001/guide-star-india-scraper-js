@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "sam Devadurai",
+      "email": "ngoglobalvision@gmail.com",
+      "designation": "secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5051",
+  "name": "Global Vision ngo",
+  "primaryEmail": "ngoglobalvision@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919629330025"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "28, shankar nagar",
+      "salem",
+      "Salem",
+      "Tamil Nadu",
+      "636007"
+    ]
+  }
+}

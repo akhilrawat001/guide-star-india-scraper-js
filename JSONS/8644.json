@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Tapan Kumar Behera",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8644",
+  "name": "MITO",
+  "primaryEmail": "mitotrust@gmail.com",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "919040140168"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "-Purusottam Behera, At-Prafullanagar, Ward No-12,",
+      "(Near Convent School), Station Bazar,",
+      "Baripada",
+      "Mayurbhanj",
+      "Odisha",
+      "757001"
+    ]
+  }
+}

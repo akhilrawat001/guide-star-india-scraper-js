@@ -1,0 +1,27 @@
+{
+  "contacts": [
+    {
+      "name": "Piyush Agarwal",
+      "email": "sankalp.washim@gmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4144",
+  "name": "VEER BHAGATSINGH BAHUUDDESHIYA SANSTHA",
+  "primaryEmail": "sankalp.washim@gmail.com",
+  "telephone": [
+    "919823123454"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "JANKI NAGAR",
+      "RISOD ROAD LAKHAL",
+      "WASHIM",
+      "Washim",
+      "Maharashtra",
+      "444505"
+    ]
+  }
+}

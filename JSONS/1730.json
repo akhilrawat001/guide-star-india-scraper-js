@@ -1,0 +1,35 @@
+{
+  "contacts": [
+    {
+      "name": "Rani P",
+      "email": "sahayawwsociety@gmail.com",
+      "designation": "Secretory",
+      "mobile": [
+        "91-9481327042"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1730",
+  "name": "Sahaya Women's Welfare Society",
+  "primaryEmail": "sahayawwsociety@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Grant-making",
+    "Support"
+  ],
+  "telephone": [
+    "918336223470",
+    "919481327042"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "No 1094",
+      "Church street Khanapur ,",
+      "Khanapur",
+      "Belagavi (Belgaum)",
+      "Karnataka",
+      "591302"
+    ]
+  }
+}

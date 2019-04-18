@@ -1,0 +1,47 @@
+{
+  "contacts": [
+    {
+      "name": "G.Renganayaki",
+      "email": "renga@mdfindia.org",
+      "designation": "Chairperson",
+      "mobile": [
+        "91-9994368550"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1126",
+  "name": "Muscular Dystrophy Foundation India",
+  "primaryEmail": "louis@mdfindia.org",
+  "website": "http://www.mdfidia.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "914524369494"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "26-B 1st Street",
+      "State Bank Colony-II By pass road",
+      "Madurai",
+      "Tamil Nadu",
+      "625010"
+    ]
+  },
+  "briefDescription": "It was the end of a life that geared her up toward creating a new era. As her only son/child passed at the age of 17, Ms. G. Renganayaki converted her oppressing grief into energy to fight the disorder called ‘muscular dystrophy’. It gave her the resolve to fight Muscular Dystrophy and the impetus to found Muscular Dystrophy Foundation India (MDF INDAI)- an organization of/for muscular dystrophy patients/parents. She launched this as a movement to offer children with MD “all the good things that she was able to provide her son and those that she wanted but could not”. MDF INDIA is the single largest organization of / for the Muscular Dystrophy (MD) patients and parents in the country. It serves more than 3000 patients who are primarily in Tamil Nadu, and does have limited presence in 11 other states. Present services include early intervention, CBR, stem cell therapy and campaigning.",
+  "yearOfEstablishment": "2000",
+  "regiseredAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "70, Thiruvalluvar Street",
+      "Jeya Nagar, Ponmeni",
+      "Madurai",
+      "Tamil Nadu",
+      "625010"
+    ]
+  }
+}

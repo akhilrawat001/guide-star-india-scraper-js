@@ -1,0 +1,44 @@
+{
+  "contacts": [
+    {
+      "name": "Mr. M. Subrahmanyam",
+      "email": "subrahmanyam _medikonda@yahoo.co.in",
+      "designation": "HIEF ADVISER AND SPONSORER",
+      "mobile": [
+        "91-8500027277"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7100",
+  "name": "DR. AMBEDKAR YUVAJANA SANGHAM",
+  "primaryEmail": "subrahmanyam_medikonda@yahoo.co.in",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "918500027277"
+  ],
+  "mainAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "Dr. B.R. Ambedkar Vidya Academy School",
+      "Ambedkar Nagar",
+      "Gollapudi, Vijayawada Rural Mandal",
+      "Krishna",
+      "Andhra Pradesh",
+      "521225"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "DR B R AMBEDKAR VIDYA ACADAMY SCHOOL",
+      "C/O DR B R AMBEDKAR YUVAJANA SANGAM",
+      "GOLLAPUDI VIJAYAWADA RURAL MANDAL",
+      "Krishna",
+      "Andhra Pradesh",
+      "521225"
+    ]
+  }
+}

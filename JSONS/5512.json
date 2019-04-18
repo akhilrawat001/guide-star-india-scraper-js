@@ -1,0 +1,53 @@
+{
+  "contacts": [
+    {
+      "name": "BIMAN MISTRY",
+      "email": "biman.mistry@gmail.com",
+      "designation": "CHIEF PATRON",
+      "mobile": [
+        "91-22-25899575",
+        "91-9322517908"
+      ]
+    },
+    {
+      "name": "BIMAN MISTRY",
+      "email": "biman.mistry@gmail.com",
+      "designation": "CHIEF PATRON",
+      "mobile": [
+        "91-22-25899575",
+        "91-9322517908"
+      ]
+    },
+    {
+      "name": "BIMAN MISTRY",
+      "email": "biman.mistry@gmail.com",
+      "designation": "CHIEF PATRON",
+      "mobile": [
+        "91-22-25899575",
+        "91-9322517908"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5512",
+  "name": "MAZI SAINIK SHIKSHANI ANI SWASTHYA KALYAN SANSTHA",
+  "primaryEmail": "biman.mistry@gmail.com",
+  "website": "http://www.mazisainiktrust.org,",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919322517908"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "202, SILVER LANE",
+      "OPP. HOLY CROSS HIGH SCHOOL",
+      "THANE WEST",
+      "Thane",
+      "Maharashtra",
+      "400601"
+    ]
+  }
+}

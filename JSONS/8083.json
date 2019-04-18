@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Dr. Renu Rai",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8083",
+  "name": "VIKALP",
+  "primaryEmail": "vikalpmp_ngo@yahoo.co.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919827555369"
+  ],
+  "mainAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "Samadhan Computer Centre",
+      "Gandhi Bhawan, Shyamla Hills",
+      "Bhopal",
+      "Madhya Pradesh",
+      "462002"
+    ]
+  }
+}

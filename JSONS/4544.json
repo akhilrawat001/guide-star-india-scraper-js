@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "VANMALA JAIN",
+      "email": "vanmalajain@kuprkabifoundation.org",
+      "designation": "TRUSTEE",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4544",
+  "name": "KUPRKABI  FOUNDATION",
+  "primaryEmail": "vanmalajain@kuprkabifoundation.org",
+  "website": "na",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919820519877"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "FLAT NO 101  , JAMUNA MAHAL COOP HOUSING SOCIETY",
+      "73 PRABHAT COLONY SANTA CRUZ (EAST )",
+      "MUMBAI",
+      "Mumbai",
+      "Maharashtra",
+      "400055"
+    ]
+  }
+}

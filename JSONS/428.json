@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "P Kandavel",
+      "email": "preed@rediffmail.com",
+      "designation": "Managing Trustee",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=428",
+  "name": "PREED",
+  "primaryEmail": "preed@rediffmail.com",
+  "website": "http://www.preedindia.org.in/",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "914549295202",
+    "914522482614",
+    "914549295202"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "5/165, Gandhi Nagar",
+      "Kappalur",
+      "Madurai",
+      "Tamil Nadu",
+      "625008"
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "AAGHAZ AHMED",
+      "email": "aaghaz_pasha2000@yahoo.com",
+      "designation": "Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4650",
+  "name": "Minority Educational and Welfare Organization",
+  "primaryEmail": "aaghaz_pasha2000@yahoo.com",
+  "telephone": [
+    "917692223386",
+    "919981635454"
+  ],
+  "mainAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "H.O. - 114 Ashok Ward Darogha Mohalla",
+      "Diamond Chowk",
+      "SEONI",
+      "Seoni",
+      "Madhya Pradesh",
+      "480661"
+    ]
+  }
+}

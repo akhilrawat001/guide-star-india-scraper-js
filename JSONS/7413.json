@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Ms.Vasvi R.Solanki",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7413",
+  "name": "SHREE BHIL (ADIVASI) MAHILA UTKARSH MANDAL,RAJKOT",
+  "primaryEmail": "vasvibhiladivasi@gmail.com",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "919328893588"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "4-Bhilvash,",
+      "B/h.Bharat Bakery,",
+      "Rajkot",
+      "Gujarat",
+      "360001"
+    ]
+  }
+}

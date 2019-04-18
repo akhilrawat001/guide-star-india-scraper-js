@@ -1,0 +1,26 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6904",
+  "name": "VIVEKANANDA GIRIJANA KALYANA KENDRA",
+  "primaryEmail": "parangowda@gmail.com",
+  "website": "www.vgkk.org",
+  "organisationType": [
+    "Direct Service",
+    "Intermediary",
+    "Support"
+  ],
+  "telephone": [
+    "918755366622"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "VGKK, 686, 16th Main,",
+      "4th T-block, Jayanagar,",
+      "Bengaluru",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560041"
+    ]
+  }
+}

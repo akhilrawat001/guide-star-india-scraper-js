@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Sudam Chandra Adak",
+      "email": "",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10587",
+  "name": "Dharmapur Samaj Kalyan Samity",
+  "primaryEmail": "dskswelfare59@gmail.com",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "919434801092"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Vill-Dharmapur ,P.O-Deulpota,",
+      "Haldia",
+      "East Medinipur",
+      "West Bengal",
+      "721603"
+    ]
+  }
+}

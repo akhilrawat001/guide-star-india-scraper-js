@@ -1,0 +1,28 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10769",
+  "name": "Tropical Institute of Ecological Sciences",
+  "primaryEmail": "support@ties.org.in",
+  "website": "http://www.ties.org.in",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "914812503988",
+    "919958815063"
+  ],
+  "mainAddrress": {
+    "state": "Kerala",
+    "address": [
+      "Ecological Research Campus,",
+      "K.K.Road, Velloor P.O.",
+      "Kottayam,",
+      "Kottayam",
+      "Kerala",
+      "686501"
+    ]
+  },
+  "briefDescription": "TIES is established mainly to promote education and research in the field of science, to diffuse useful knowledge and also for initiating charitable works. It works to create an environmentally responsible community, through research, environmental education, capacity building and community participation.",
+  "yearOfEstablishment": "2004"
+}

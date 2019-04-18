@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "SUBODH SATYAWADI",
+      "email": "subodh_satyawadi@emri.in",
+      "designation": "Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4711",
+  "name": "GVK Emergency Management and Research Institute",
+  "primaryEmail": "subodh_satyawadi@emri.in",
+  "telephone": [
+    "914023462600",
+    "914023462600"
+  ],
+  "mainAddrress": {
+    "state": "Telangana",
+    "address": [
+      "Devar Yamzal",
+      "Medchal Road,",
+      "Secunderabad",
+      "Hyderabad",
+      "Telangana",
+      "500014"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Dr.Mukul Rajput",
+      "email": "br.mukulra@gmail.com",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4305",
+  "name": "Maargdarshak Centre for Research & Development",
+  "primaryEmail": "maargdarshakconnect@gmail.com",
+  "website": "na",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919899363121"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "14-A,shatabdi vihar",
+      "sector-61",
+      "Noida",
+      "Gautam Buddha Nagar",
+      "Uttar Pradesh",
+      "201301"
+    ]
+  }
+}

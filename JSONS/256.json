@@ -1,0 +1,46 @@
+{
+  "contacts": [
+    {
+      "name": "Hemesh Sheth",
+      "email": "hemesh@arpan.org.in",
+      "designation": "Director Operations",
+      "mobile": [
+        "91-22-26862444"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=256",
+  "name": "Arpan",
+  "primaryEmail": "hemesh@arpan.org.in",
+  "website": "www.arpan.org.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service"
+  ],
+  "telephone": [
+    "912226868444",
+    "912226862444"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "1st floor, Delta Chemicals Pvt Ltd; J-1 Cama Industrial Zone",
+      "Off Val Bhatt Road, Goregaon (E),",
+      "Mumbai",
+      "Maharashtra",
+      "400063"
+    ]
+  },
+  "briefDescription": "Arpan a registered NGO based in Mumbai started working on the issue of child sexual abuse with a team of dedicated and skilled professionals since the year 2006.  The vision and mission of Arpan is as follows:Vision:  World free of Child Sexual AbuseMission: To empower individuals, families, communities and society with prevention and intervention skills to reduce the occurrence of child sexual abuse and heal its psychological, social, sexual and physical consequencesArpan is currently working in Mumbai, with a child centric model of intervention in the area of child sexual abuse with a balanced emphasis on prevention and healing components. While the focus is on children, Arpan also understands the need for reaching out to adult survivors of Child sexual abuse in order to support them in an adequate manner and prevent any further re-victimization as well as enable them to heal from the impact of CSA.The projects and intervention at Arpan is guided by the following 4 interdependent strategies namely:a. Direct Preventive and Psychotherapeutic services for children and adult survivors of sexual abuse and their families;b.Creating sensitization on Child Sexual Abuse with relevant civil society groups;c. Training and Capacity Building of relevant stakeholders;d. Research and Advocacy at the systemic level.Through the projects, the Arpan team intends to empower children, teachers, parents, NGO professionals and other care givers in multiple setting like schools, NGO set ups, institutions etc. with knowledge, skills and attitude to prevent instances of child sexual abuse and provide adequate support to children who have been victims. Along with empowering relevant stakeholders, Arpan also offers psychotherapeutic support through trained, qualified therapists to children and adult survivors of sexual abuse and their families.Arpan has reached out to over 85,000 individuals directly & indirectly (both children and adults since its existence) and has constantly reviewed and improved their programmes and strategic direction to suit the requirements of the various stakeholder groups across socio-economic and cultural set ups.",
+  "yearOfEstablishment": "2008",
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "E 2407/08, Oberoi Splendor",
+      "JVLR, Jogeshwari East",
+      "Mumbai",
+      "Maharashtra",
+      "400060"
+    ]
+  }
+}

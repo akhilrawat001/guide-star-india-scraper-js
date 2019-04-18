@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Mr. Pawan Kumar",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9345",
+  "name": "MARKSMAN WELFARE SOCIETY",
+  "primaryEmail": "mws.hzb@gmail.com",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "916546233045",
+    "916546233045"
+  ],
+  "mainAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "Marksman Welfare Society, Demotand, Post - Morangi",
+      "Hazaribag",
+      "Jharkhand",
+      "825301"
+    ]
+  },
+  "yearOfEstablishment": "1994"
+}

@@ -1,0 +1,27 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5116",
+  "name": "UDAYANI SOCIAL ACTION FORUM",
+  "primaryEmail": "jothisj@gmail.com",
+  "website": "www.udayani.org.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Intermediary",
+    "Network"
+  ],
+  "telephone": [
+    "913324606941",
+    "913324606941"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "75/1, Ballygunge Place, Kolkata",
+      "Ballygunge Place, Kolkata",
+      "Kolkata",
+      "West Bengal",
+      "700019"
+    ]
+  }
+}

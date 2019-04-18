@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "name": "Mohammad Wasim",
+      "email": "holdinghands13@gmail.com",
+      "designation": "secretary",
+      "mobile": []
+    },
+    {
+      "name": "Mohammad Wasim",
+      "email": "holdinghands13@gmail.com",
+      "designation": "secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6082",
+  "name": "Holding Hand Organisation",
+  "primaryEmail": "holdinghands13@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Grant-making",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "918882856902"
+  ],
+  "mainAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "11 Churi Tola Kanke",
+      "11 Churi tola kanke",
+      "Ranchi",
+      "Jharkhand",
+      "834006"
+    ]
+  }
+}

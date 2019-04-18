@@ -1,0 +1,41 @@
+{
+  "contacts": [
+    {
+      "name": "Het Shah",
+      "email": "hetshah.gyws@gmail.com",
+      "designation": "Sponsorship and Finance Head",
+      "mobile": []
+    },
+    {
+      "name": "Het Shah",
+      "email": "hetshah.gyws@gmail.com",
+      "designation": "Sponsorship and Finance Head",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10566",
+  "name": "Gopali Youth Welfare Society",
+  "primaryEmail": "gywsociety@gmail.com",
+  "website": "http://gyws.org/",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "913222296537",
+    "919002863514"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Gopali Youth Welfare Society(Main Office)",
+      "Gopali (No-shooting Area)",
+      "Salua",
+      "West Medinipur",
+      "West Bengal",
+      "721145"
+    ]
+  },
+  "briefDescription": "Gopali Youth Welfare Society is a registered voluntary non-governmental organisation run by IIT Kharagpur students along with some faculty members with the support of local members from Gopali. Marking illiteracy as its prime concern, GYWS embarked on an education program in April 2008: Jagriti Vidya Mandir, an English medium primary school which provides free of cost quality education to underprivileged children. Currently there are about 220 students enrolled in Jagriti Vidya Mandir from Nursery to Class5. Our other initiatives include Youth Upliftment through Tailoring Program, Computer Coaching, Teachers Training, Agriculture Greenovation Project. More than 500 children and 100 local youth have been benefited through our initiatives.",
+  "yearOfEstablishment": "2004"
+}

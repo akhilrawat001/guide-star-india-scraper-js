@@ -1,0 +1,41 @@
+{
+  "contacts": [
+    {
+      "name": "Poonam Chadda",
+      "email": "mailpoonam@gmail.com",
+      "designation": "Coordinator",
+      "mobile": [
+        "91-80-42116090"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=315",
+  "name": "Ananya",
+  "primaryEmail": "shashi_ananya@hotmail.com",
+  "website": "http://www.ananyatrust.org",
+  "organisationType": [
+    "Direct Service",
+    "Network"
+  ],
+  "telephone": [
+    "918028441691",
+    "918028441691"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "233, 6th Main",
+      "4th Block, Jayanagar",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560011"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "Karnataka"
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "name": "Sudha Vahra",
+      "email": "",
+      "designation": "Exective Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=602",
+  "name": "ASTHA - Alternatives Strategies for the Handicapped",
+  "primaryEmail": "aarthindia@gmail.com",
+  "website": "http://www.asthaindia.in",
+  "telephone": [
+    "911126449029",
+    "911129211693",
+    "911126449029"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "Basti Vikash Kendra, Balmukund Khand",
+      "Giri Nagar",
+      "Kalkaji",
+      "New Delhi",
+      "Delhi",
+      "110048"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "S-286, Greater Kailash - II",
+      "New Delhi",
+      "Delhi",
+      "110048"
+    ]
+  }
+}

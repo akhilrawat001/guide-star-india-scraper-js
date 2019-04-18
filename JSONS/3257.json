@@ -1,0 +1,26 @@
+{
+  "contacts": [
+    {
+      "name": "Vijay Wankhade",
+      "email": "",
+      "designation": "Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3257",
+  "name": "Naagsen Magasarvigya Shikshan Sanstha",
+  "primaryEmail": "nagasenorg@rediffmail.com",
+  "telephone": [
+    "919970379760"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "At Rahul Nagar, Behind Police Club",
+      "Vitta Bhatti Parisar Near Dongare Kiran Camp",
+      "Amravati",
+      "Maharashtra",
+      "444602"
+    ]
+  }
+}

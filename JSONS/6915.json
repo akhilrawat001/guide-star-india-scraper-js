@@ -1,0 +1,35 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6915",
+  "name": "THE DIVINE LIGHT",
+  "primaryEmail": "thedivinelight1999@gmail.com",
+  "website": "http://thedivinelight.in/",
+  "organisationType": [
+    "Advocacy & Campaigning"
+  ],
+  "telephone": [
+    "919654877651"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "40- C, Vijay Mandal Enclave, Survpriya Vihar,  New Delhi- 110016",
+      "Near - IIT Delhi",
+      "Hauz Khas,",
+      "South Delhi",
+      "Delhi",
+      "110016"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "40- C, Vijay Mandal Enclave, Survpriya Vihar",
+      "Hauz Khas, Near IIT Delhi",
+      "New Delhi",
+      "South Delhi",
+      "Delhi",
+      "110016"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1225",
+  "name": "Arushi Society",
+  "primaryEmail": "arushiorg@gmail.com",
+  "website": "http://www.arushi-india.org/",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service"
+  ],
+  "telephone": [
+    "917554293399",
+    "917552550827",
+    "917554293399"
+  ],
+  "mainAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "1, Shivaji Nagar",
+      "Near Mpeb Office",
+      "Bhopal",
+      "Madhya Pradesh",
+      "462016",
+      "AP_ElecBill_1129.PDF"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "96/9A, Saket Nagar",
+      "Bhopal",
+      "Madhya Pradesh",
+      "462024",
+      "AP_ElecBill_1129.PDF"
+    ]
+  }
+}

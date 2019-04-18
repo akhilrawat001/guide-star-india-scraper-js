@@ -1,0 +1,38 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5088",
+  "name": "GOPAL COMPUTER EDUCATION SOCIETY",
+  "primaryEmail": "mail.gces@gmail.com",
+  "website": "www.gces.org.in",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "913432586847",
+    "913432586847"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "82-Vivekananda Pally, Benachity, Durgapur-713213",
+      "DURGAPUR",
+      "Bardhaman",
+      "West Bengal",
+      "713213"
+    ]
+  },
+  "briefDescription": "Computer teaching and training and one step improvement to all people for peace, food and integrity.",
+  "yearOfEstablishment": "2004",
+  "regiseredAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "82-Vivekananda Pally, Benachity, Durgapur-713213",
+      "GURUDWARA RD",
+      "DURGAPUR",
+      "Bardhaman",
+      "West Bengal",
+      "713213"
+    ]
+  }
+}

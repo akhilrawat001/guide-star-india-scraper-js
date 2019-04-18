@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "V John Vethamuthu",
+      "email": "novafoundationtrust2013@gmail.com",
+      "designation": "Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4999",
+  "name": "NOVA FOUNDATION TRUST",
+  "primaryEmail": "novafoundationtrust2013@gmail.com",
+  "website": "www.novafoundationtrust.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "917811968119"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "No 21, 3rd Street, Sripathy Nagar, Nanjundapuram Road, Ramanathapuram, Coimbatore",
+      "Coimbatore",
+      "Tamil Nadu",
+      "641045"
+    ]
+  }
+}

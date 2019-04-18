@@ -1,0 +1,46 @@
+{
+  "contacts": [
+    {
+      "name": "Ilona Bhattacharya",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "24236119"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5431",
+  "name": "Kolkata Sanved",
+  "primaryEmail": "kolkatasanved@gmail.com",
+  "website": "http://www.kolkatasanved.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service"
+  ],
+  "telephone": [
+    "913324236119",
+    "913324236119"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "P-27, CIT Scheme, No LXXII, Block-B",
+      "Gariahat Road (South)",
+      "Kolkata",
+      "West Bengal",
+      "700029"
+    ]
+  },
+  "briefDescription": "Kolkata Sanved works towards healing and empowerment of women and girls who are victims of violence, abuse and exploitation by using Dance Movement Therapy (DMT). It believes in Social Transformation through healing and recovery using the therapeutic inputs of dance and movement.  Its dance and movement therapy sessions, training of trainers programme and advocacy campaigns have succeeded in reaching out to 3000 survivors directly; 30 partner organisations across South Asia. It works in Government Institutions, Shelter Home run by Non-profits, Mental Hospitals and vulnerable communities in collaboration with partner organizations. In the year 2012-13, 856 individuals benefitted from 600 Dance Movement Therapy (DMT) sessions designed e",
+  "yearOfEstablishment": "2004",
+  "regiseredAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "100/76 , Jessore Road, Dum Dum",
+      "Bhagabati Park",
+      "Kolkata",
+      "West Bengal",
+      "700074"
+    ]
+  }
+}

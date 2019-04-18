@@ -1,0 +1,34 @@
+{
+  "contacts": [
+    {
+      "name": "Khateeja Sheikh Ahmed",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "65652336"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2703",
+  "name": "Global Care and Development Society",
+  "primaryEmail": "info@globalcare.in",
+  "website": "http://www.globalcare.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "911165652336",
+    "911165652336"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "E-318, Second Floor, Greater Kailash-II, New Delhi",
+      "Greater kailash, New Delhi",
+      "New Delhi",
+      "South Delhi",
+      "Delhi",
+      "110048"
+    ]
+  }
+}

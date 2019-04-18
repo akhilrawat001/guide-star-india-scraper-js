@@ -1,0 +1,35 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7167",
+  "name": "Lake Gardens Saha Education Society",
+  "primaryEmail": "imsbschool@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "913324264168",
+    "913324264168"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Institute of Management Study",
+      "93, Mukundapur Main Road",
+      "Kolkata",
+      "West Bengal",
+      "700099"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "C-C446/3",
+      "LAKE GARDENS",
+      "KOLKATA",
+      "Kolkata",
+      "West Bengal",
+      "700045"
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "name": "Pradip Kumar Das",
+      "email": "pradipdr2@gmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    },
+    {
+      "name": "Pradip Kumar Das",
+      "email": "pradipdr2@gmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=834",
+  "name": "Swasthya Bhabna Welfare Society",
+  "primaryEmail": "pradipdr2@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "913326521559",
+    "913326521559",
+    "913326524899",
+    "919433345591"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "15/C, Raja K.L.Goswami Street",
+      "P.O.-Serampore",
+      "Serampore",
+      "Hooghly",
+      "West Bengal",
+      "712201"
+    ]
+  }
+}

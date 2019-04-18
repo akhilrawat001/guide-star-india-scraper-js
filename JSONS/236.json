@@ -1,0 +1,34 @@
+{
+  "contacts": [
+    {
+      "name": "Meenakshi Ramesh",
+      "email": "",
+      "designation": "Volunteer",
+      "mobile": [
+        "91-9500086421"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=236",
+  "name": "Krishnamurti Foundation India",
+  "primaryEmail": "kfihq@md2.vsnl.net.in",
+  "website": "www.kfionline.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "914424937803",
+    "914424937596",
+    "914424937803"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "New No 124-125, \"Vasanta Vihar\"",
+      "Greenways Road, R. A. Puram",
+      "Chennai",
+      "Tamil Nadu",
+      "600028"
+    ]
+  }
+}

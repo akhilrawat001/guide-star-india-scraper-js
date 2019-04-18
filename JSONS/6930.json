@@ -1,0 +1,37 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6930",
+  "name": "Rangvedh Bahuddeshiya Sanstha Amravati",
+  "primaryEmail": "rangvedhcses2000@gmail.com",
+  "website": "www.rangvedhartandculture.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Intermediary",
+    "Support"
+  ],
+  "telephone": [
+    "919422856761",
+    "918380863984"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Manoj Ujjainkar, Somnath Appartment, Surabhi Layout,Tapovan Road, Amravati. Pin - 444602",
+      "Rangvedh Office - P.D.Ujjainkar, 68 - Ward No.- 2, Keshar Colony, Panchashil Chowk, Tapovan Road, Camp, Amravati Pin- 444602",
+      "Amravati",
+      "Maharashtra",
+      "444602"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Somnath Apartment, Surabhi Layout,Tapovan Road,",
+      "Rangvedh Office - P.D.Ujjainkar, 68 - Ward No.- 2, Keshar Colony, Panchashil Chowk, Tapovan Road, Camp,",
+      "Amravati",
+      "Maharashtra",
+      "444602"
+    ]
+  }
+}

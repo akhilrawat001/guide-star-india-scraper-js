@@ -1,0 +1,47 @@
+{
+  "contacts": [
+    {
+      "name": "Rujuta Teredesai",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "26160086"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5693",
+  "name": "Equal Community Foundation",
+  "primaryEmail": "info@ecf.org.in",
+  "website": "http://www.ecf.org.in/",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network"
+  ],
+  "telephone": [
+    "912026160086",
+    "912026160086"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "B-14 Shardaram Park, Opp Ruby Hall Hospital",
+      "Next to Crowne Plaza Hotel, Sasoon Road",
+      "Pune",
+      "Maharashtra",
+      "411001"
+    ]
+  },
+  "briefDescription": "Set up in 2009, Equal Community Foundation is a non-profit organisation based in Pune, India that works with boys and men to end violence and discrimination against women and girls.Our mission is to ensure that every man in India has the opportunity to study and practise gender equitable behaviour to end violence and discrimination against women and girls.In a year, we work with more than 800 young men and the low-income communities they live in.",
+  "yearOfEstablishment": "2011",
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "B-14, 3rd Floor, Wing B-2",
+      "Shardaram Park, Opp. Ruby Hall Clinic, Next to Hotel Courtyard Marriott, Sasoon Road",
+      "Pune",
+      "Maharashtra",
+      "411001"
+    ]
+  }
+}

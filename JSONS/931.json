@@ -1,0 +1,38 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=931",
+  "name": "Dantan Manav Kalyan Kendra",
+  "primaryEmail": "dmkk22@gmail.com",
+  "website": "www.dmkk.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "913229253246",
+    "913229253246"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Krishnapur,",
+      "Dantan",
+      "West Medinipur",
+      "West Bengal",
+      "721426"
+    ]
+  },
+  "briefDescription": "This organisation has been working for community development since 2002.This org. works on health,education,livelihood,disability,Disaster management.",
+  "yearOfEstablishment": "2002",
+  "regiseredAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Krishnapur,P.O-Dantan",
+      "Dantan",
+      "West Medinipur",
+      "West Bengal",
+      "721426"
+    ]
+  }
+}

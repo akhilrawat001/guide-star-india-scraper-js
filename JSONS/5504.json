@@ -1,0 +1,35 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5504",
+  "name": "Bombay Foundation of Deaf Women",
+  "primaryEmail": "bfdwgeneralsecretary@yahoo.co.in",
+  "website": "bfdwgeneralsecretary@yahoo.co.in",
+  "organisationType": [
+    "Direct Service",
+    "Intermediary"
+  ],
+  "telephone": [
+    "919892544149"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Sohrab Minar, 1st Floor",
+      "5, Carmichael Road",
+      "Mumbai",
+      "Maharashtra",
+      "400026"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Manohar Das School, Mahanagar Public",
+      "U.Pra Marathi School",
+      "Mody Street, Near GPO",
+      "Mumbai",
+      "Maharashtra",
+      "400001"
+    ]
+  }
+}

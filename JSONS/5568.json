@@ -1,0 +1,36 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5568",
+  "name": "Centre for Community Development Through Network, Education, Research, Training, Resource Mobilization and Capacity Building (CODNERC)",
+  "primaryEmail": "cod_nerc@yahoo.co.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "913892311617",
+    "913892311617"
+  ],
+  "mainAddrress": {
+    "state": "Mizoram",
+    "address": [
+      "3rd Floor",
+      "Lalat Chamber, Near Solomons Cave,Temple Sq.",
+      "Tuikual, Aizawl",
+      "Aizawl",
+      "Mizoram",
+      "796001"
+    ]
+  },
+  "briefDescription": "COD NERC is working in Mizoram.",
+  "yearOfEstablishment": "1992",
+  "regiseredAddrress": {
+    "state": "Mizoram",
+    "address": [
+      "3rd Floor,",
+      "Lalat Chamber, Temple Sq. Zodin Road",
+      "Aizawl",
+      "Mizoram",
+      "796001"
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Prashant Kumar",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4452",
+  "name": "JEEVIKA",
+  "primaryEmail": "jeevikaindia@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Intermediary",
+    "Support"
+  ],
+  "telephone": [
+    "919334777194"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "Nilkanth Bhawan",
+      "Chaturbhuj Thakur Road, Gannipur, P.O-Ramna",
+      "Muzaffarpur",
+      "Bihar",
+      "842002"
+    ]
+  },
+  "briefDescription": "jeevika working for poor people skill development mainly in Urban areas.people served around 50000.",
+  "yearOfEstablishment": "2001"
+}

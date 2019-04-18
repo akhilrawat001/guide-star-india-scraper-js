@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "G.P.Bhadradas",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5186",
+  "name": "CMBD (COMMUNITY BASED MOBILIZATION FOR DEVELOPMENT)",
+  "primaryEmail": "cbmd@cbmd.co.in",
+  "website": "www.cbmd.co.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919871771991"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "709/F-1, MAMTA APARTMENTS, SHALIMAR GARDEN EXTEN-1",
+      "SHALIMAR GARDEN EXTEN-1",
+      "SAHIBABAD, GHAZIABAD",
+      "Ghaziabad",
+      "Uttar Pradesh",
+      "201005"
+    ]
+  },
+  "briefDescription": "CBMD is a non profit making non-governmental organization working in lines of secular and democratic principles. Its registered office is in Delhi having branches in Uttar Pradesh, Chhattisgarh,Rajasthan, Karnataka, Andhra Pradesh and Kerala. Its main focus is community for overall human development that relies on science and technology to participate in humanitarian services with intervention of E-Governance. CBMD devises and implements growth and build up plans keeping in mind the particularities and special needs of the Indian subcontinent. Our movement is involved in raising resources for the actualization of our evolvement strategies.",
+  "yearOfEstablishment": "2009"
+}

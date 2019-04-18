@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "P Bhagavatheeswaran",
+      "email": "",
+      "designation": "Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=682",
+  "name": "Centre for Social Development",
+  "primaryEmail": "csdbhagavathi@rediffmail.com",
+  "website": "www.csdaction.org",
+  "telephone": [
+    "914651237455",
+    "914651214539",
+    "914651237455",
+    "914651237455"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "Kulala Street, Thirunainarkurichy",
+      "Ammandivilai Post",
+      "Kanyakumari",
+      "Tamil Nadu",
+      "629204"
+    ]
+  }
+}

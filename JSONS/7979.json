@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "Rupendra Mohan Sarkar",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "26630983",
+        "9433090291"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7979",
+  "name": "Uttarpara Sangeet Chakra",
+  "primaryEmail": "sangeet.chakraup@gmail.com",
+  "website": "www.uttarparasangeetchakra.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Support"
+  ],
+  "telephone": [
+    "913326630983",
+    "913326630983"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "163",
+      "G T Road",
+      "Uttarpara",
+      "Hooghly",
+      "West Bengal",
+      "712258"
+    ]
+  }
+}

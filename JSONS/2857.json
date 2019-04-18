@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "Muneer Alavi",
+      "email": "ruralcommunes@gmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2857",
+  "name": "Rural Commmunes",
+  "primaryEmail": "ruralcommunes@gmail.com",
+  "website": "www.ruralcommunes.org",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "912222050426",
+    "912222085601",
+    "912222050426"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "70, 2nd FLOOR, LIC BUILDING",
+      "ANANDILAL PODDAR MARG",
+      "MUMBAI",
+      "Mumbai",
+      "Maharashtra",
+      "400002"
+    ]
+  },
+  "briefDescription": "Our vision is to bring real change to rural poor for a sustainable future with the collective efforts of youth and community, following decentralization, transparency and participatory development approach",
+  "yearOfEstablishment": "1976"
+}

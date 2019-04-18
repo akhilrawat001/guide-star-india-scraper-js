@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Jasmine K. Angeline MJF",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7298",
+  "name": "LEADING LIGHT INTERNATIONAL (LLI)",
+  "primaryEmail": "leadinglight.international@gmail.com",
+  "website": "www.leadinglightinte.org",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "919840128945"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "Plot no: 56/69,",
+      "Palayam Pillai Nagar Ayanavaram",
+      "Chennai",
+      "Tamil Nadu",
+      "600023"
+    ]
+  }
+}

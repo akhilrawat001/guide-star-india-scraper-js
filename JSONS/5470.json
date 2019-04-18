@@ -1,0 +1,35 @@
+{
+  "contacts": [
+    {
+      "name": "Anamika Prasad",
+      "email": "anamika.aidforchange@gmail.com",
+      "designation": "Programme Assistant",
+      "mobile": [
+        "91-20-26824597"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5470",
+  "name": "AID FOR SOCIAL CHANGE AND WELFARE ASSOCIATION",
+  "primaryEmail": "aidforchange@yahoo.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Grant-making",
+    "Intermediary",
+    "Support"
+  ],
+  "telephone": [
+    "2026824597",
+    "912026824597"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Flat no: 2, 1st Floor, Shefali Apartment",
+      "Behind Hotel Sai Sagar, Wanowrie",
+      "Pune",
+      "Maharashtra",
+      "411040"
+    ]
+  }
+}

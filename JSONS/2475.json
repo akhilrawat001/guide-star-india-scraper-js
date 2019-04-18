@@ -1,0 +1,30 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2475",
+  "name": "JALPAIGURI SWAPNOTORON WELFARE SOCIETY",
+  "primaryEmail": "jsws@ymail.com",
+  "telephone": [
+    "913561222544",
+    "9933803920"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "JALPAIGURI SWAPNOTORON WELFARE SOCIETY Care of -DEBASISH CHAKRABORTY SENPARA (NEAR SUB-POST OFFICE) BLOCK- SADAR PO",
+      "Jalpaiguri",
+      "West Bengal",
+      "735101"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Swapnatoron(vocational training center for physically challenged),Senpara(bhatakhana road), sadar block, Jalpaiguri",
+      "Swapnatoron(vocational training center for physically challenged),Senpara(bhatakhana road), sadar block, Jalpaigur",
+      "jalpaiguri",
+      "Jalpaiguri",
+      "West Bengal",
+      "735101"
+    ]
+  }
+}

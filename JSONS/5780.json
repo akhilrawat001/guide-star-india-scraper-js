@@ -1,0 +1,34 @@
+{
+  "contacts": [
+    {
+      "name": "Mrs. Nisha Malawat",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5780",
+  "name": "ABHILASHA FOUNDATION",
+  "primaryEmail": "info@abhilasha-foundation.org",
+  "website": "www.abhilasha-foundation.org",
+  "organisationType": [
+    "Grant-making",
+    "Network",
+    "Support"
+  ],
+  "mainAddrress": {
+    "address": []
+  },
+  "briefDescription": "Orphanage SupportMedical SupportEducational SupportOld Age SupportWomen EmpowermentSave the Girl Child",
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "27, GORAI PRACHI CHS LTD",
+      "RSC 37 GORAI ROAD, NEAR NALANDA COLLEGE, GORAI",
+      "BORIVALI - WEST",
+      "Mumbai",
+      "Maharashtra",
+      "400091"
+    ]
+  }
+}

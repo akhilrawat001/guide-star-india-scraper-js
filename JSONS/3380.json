@@ -1,0 +1,26 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3380",
+  "name": "Life & Leaf",
+  "primaryEmail": "info@lifeandleaf.org",
+  "website": "www.lifeandleaf.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Network"
+  ],
+  "telephone": [
+    "913542253088",
+    "913542253088"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Life & Leaf, The Mall, Chowrastha, Darjeeling - 734101",
+      "Darjeeling",
+      "West Bengal",
+      "734101"
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "SANJAY KUMAR",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8268",
+  "name": "PRAGATI - SANDESH",
+  "primaryEmail": "pragatisandesh@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919431122550"
+  ],
+  "mainAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "ABHINANDAN,SIMALDIH,",
+      "TELIPARA P.O. DAMODARPUR",
+      "DHANBAD",
+      "Dhanbad",
+      "Jharkhand",
+      "826004"
+    ]
+  }
+}

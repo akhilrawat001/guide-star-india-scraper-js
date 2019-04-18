@@ -1,0 +1,49 @@
+{
+  "contacts": [
+    {
+      "name": "Raj Kumar Gope",
+      "email": "",
+      "designation": "Secretary",
+      "mobile": [
+        "9934155959"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6401",
+  "name": "EKJUT",
+  "primaryEmail": "rajkumar.ekjut@gmail.com",
+  "website": "www.ekjutindia.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919934155959"
+  ],
+  "mainAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "Plot No. 556B, Ward No. 17,",
+      "Potka",
+      "Chakradharpur",
+      "West Singhbhum",
+      "Jharkhand",
+      "833102"
+    ]
+  },
+  "briefDescription": "There are nearly 700 indigenous groups in India constituting 8% of the population. Jharkhand and Odisha have some of the largest indigenous populations. Ekjut chose to work in areas with high proportions of indigenous groups as most of this population lives below the poverty line with limited access to education. In this context of widespread poverty, disease and malnutrition are rampant. A look at basic health indicators in the areas throw up alarmingly high figures of maternal mortality ratio (720) and neonatal mortality rate (59) aggravated with poor quality, inaccessible and mostly, unavailable health services. Ekjut believes that the children of poor households have fewer opportunities and resources, in education,health and livelihood",
+  "yearOfEstablishment": "2002",
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "E-303",
+      "Yamuna Apartments",
+      "Alaknanda",
+      "New Delhi",
+      "Delhi",
+      "110019"
+    ]
+  }
+}

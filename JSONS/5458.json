@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Pulickal Joseph D",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5458",
+  "name": "CALCUTTA HOME OF HOPE",
+  "primaryEmail": "brpjdas@hotmail.com",
+  "website": "ashabri.org.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919830109428"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Ashabari, Jododukan, PO-Bethberia, PS Bishnupur, Amtala,",
+      "Kolkata, Amtala, Jodadukan",
+      "South 24 Parganas",
+      "West Bengal",
+      "743503"
+    ]
+  }
+}

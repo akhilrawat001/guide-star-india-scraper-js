@@ -1,0 +1,38 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10525",
+  "name": "MORI DEVI MEMORIAL SOCIETY",
+  "primaryEmail": "moridevisociety@gmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "917726805738"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "Mori Devi Memorial Society, Rzf99, Gali No 9, Near Dda Park ,Raj Nagar,Phase 2,Palam,New Delhi",
+      "Mori Devi Memorial Society Nr. Hp Gas",
+      "New Delhi",
+      "South West Delhi",
+      "Delhi",
+      "110045"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "Mori Devi Memorial Society  Rzf 99, Gail No 9,Dda Park Raj Nagar .Phase 2.Palam",
+      "Virat Nagar",
+      "South West Delhi",
+      "Delhi",
+      "110077"
+    ]
+  }
+}

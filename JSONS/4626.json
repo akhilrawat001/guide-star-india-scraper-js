@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "Suresh Pratap Singh",
+      "email": "swajan.ngo@gmail.com",
+      "designation": "Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4626",
+  "name": "Swajan Shikshan Sansthan",
+  "primaryEmail": "swajan.ngo@gmail.com",
+  "website": "www.swajan.org",
+  "telephone": [
+    "915224104450",
+    "919415301515"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "E-131",
+      "Kurmanchal Nagar Indira Nagar",
+      "Lucknow",
+      "Uttar Pradesh",
+      "226016"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10231",
+  "name": "Social Foundation",
+  "primaryEmail": "Socialfoundationngo@gmail.com",
+  "website": "www.socialfoundation.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919540526344"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "Khasra No. 216, Gali No. 7 Near Shiv Mandir, Village Saboli",
+      "Delhi",
+      "North East Delhi",
+      "110093"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "Khasra No. 216,  Gali No. 7  Near Shiv Mandir, Village Saboli",
+      "Delhi",
+      "North East Delhi",
+      "110093"
+    ]
+  }
+}

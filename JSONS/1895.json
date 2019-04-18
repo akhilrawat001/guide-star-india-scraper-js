@@ -1,0 +1,49 @@
+{
+  "contacts": [
+    {
+      "name": "aspiringfoundation@gmail.com",
+      "email": "aspiringfoundation@gmail.com",
+      "designation": "President",
+      "mobile": [
+        "91-11-65762162"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1895",
+  "name": "Aspiring for Achievement Foundation (AAF",
+  "primaryEmail": "aspiringfoundation@gmail.com",
+  "website": "www.aspiringfoundation.org.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network"
+  ],
+  "telephone": [
+    "919472702588",
+    "919163341881"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "383, Surat Complex, Near Bank Street",
+      "Munirka",
+      "New Delhi",
+      "South West Delhi",
+      "Delhi",
+      "110067"
+    ]
+  },
+  "briefDescription": "Aspiring for Achievement Foundation (AAF) was established by a group of youth with a dedication to promote empowerment of the marginalized.Current Programmes :Preschool center -Pre-primary education for better school entry of children  for3-5yrs children . Remedial centers and support classesAround 328 children coming to our centers   Community Health hygiene- Awareness Camps, Community Talks and Lectures Check-up camps for eye, dental, personal hygiene as well help needy patients for their medication cost. 2010- Women Health Camp, 127+ treated 2011-Children and Youth Medical Camp, 187 examined 2011- Eye Camp, 265 examined women and children (12 Adolescent Health Counseling Sessions in 2010 and 2011 236 attended)",
+  "yearOfEstablishment": "2009",
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "H.No.60A T/F BP Village",
+      "Munirka",
+      "New Delhi",
+      "South West Delhi",
+      "Delhi",
+      "110067"
+    ]
+  }
+}

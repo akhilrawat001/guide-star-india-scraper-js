@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Sushil Kumar Dash",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4423",
+  "name": "Social Education for Women's Awareness",
+  "primaryEmail": "sewakolabira@yahoo.com",
+  "website": "www.sewa.net.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "916645271345",
+    "916645271345"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "AT-Kumuradihi, P.O. Jhirlapali",
+      "Kuchinda Road",
+      "N.A",
+      "Jharsuguda",
+      "Odisha",
+      "768213"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "contacts": [
+    {
+      "name": "vijay khiste patil",
+      "email": "vijaykhistepatil@gmail.com",
+      "designation": "secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5765",
+  "name": "Shri Beleshwar Sevabhavi Sanstha Parbhani",
+  "primaryEmail": "vijaykhistepatil@gmail.com",
+  "telephone": [
+    "919423444562"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "BANK COLONY DARGA RAOD PARBHANI",
+      "PARBHANI",
+      "Parbhani",
+      "Maharashtra",
+      "431401"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Medhavi Gandhi",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4455",
+  "name": "Happy Hands Foundation",
+  "primaryEmail": "info@happyhands.in",
+  "website": "http://www.happyhands.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919810886981"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "B-8/1 First Floor, Lane no.2, Saidulajab, Saket, New Delhi",
+      "Kehar Singh Estate (Westend Marg)",
+      "New Delhi",
+      "South Delhi",
+      "Delhi",
+      "110030"
+    ]
+  }
+}

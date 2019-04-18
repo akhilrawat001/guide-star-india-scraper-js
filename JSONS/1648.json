@@ -1,0 +1,42 @@
+{
+  "contacts": [
+    {
+      "name": "Gokul Balu",
+      "email": "gokul@agastya.org",
+      "designation": "Executive",
+      "mobile": []
+    },
+    {
+      "name": "Gokul Balu",
+      "email": "gokul@agastya.org",
+      "designation": "Executive",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1648",
+  "name": "Agastya International Foundation",
+  "primaryEmail": "info@agastya.org",
+  "website": "www.agastya.org",
+  "organisationType": [
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "918041124132/ 23545054",
+    "918041124132/ 23545054"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "101 Varsav Plaza",
+      "12 Jaymahal Main Road Bangalore – 560046, INDIA",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560046"
+    ]
+  },
+  "briefDescription": "Agastya is a public charitable trust registered in Bangalore, India and is a leader in creativity-based education in rural India.  Agastya provides children and teachers access to quality hands-on basic education that awakens their curiosity and fosters creative thinking, problem-solving and communication skills. Agastya makes learning - fun and engaging, hands-on and creative, useful and relevant to the child’s current and future context which is transparent and accessible to all at the village doorstep catering to the most vulnerable and disadvantaged children. Through the Innovative programs, offered by Agastya, rural children & teachers will acquire the creative energy, learning tools and confidence to overcome their constraints.",
+  "yearOfEstablishment": "1999"
+}

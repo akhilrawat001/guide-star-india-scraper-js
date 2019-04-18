@@ -1,0 +1,35 @@
+{
+  "contacts": [
+    {
+      "name": "Joseph Chacko",
+      "email": "josephchacko64@gmail.com",
+      "designation": "Administrator",
+      "mobile": [
+        "91-2836-270257",
+        "91-9925150908"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=942",
+  "name": "Kandla Seafarers Welfare Association",
+  "primaryEmail": "pwckandla@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "912836224013",
+    "919925150908"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "B-136, Shaktinagar",
+      "Gandhidham",
+      "Kachchh",
+      "Gujarat",
+      "370201"
+    ]
+  },
+  "briefDescription": "We serve the Seafarers/ Sailors coming from different parts of the world by helping them to communicate with their family members through Free Internet and cheap telephone calling cards. We also provide them with free transport and take care of every need possible.",
+  "yearOfEstablishment": "2009"
+}

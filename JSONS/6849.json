@@ -1,0 +1,53 @@
+{
+  "contacts": [
+    {
+      "name": "Rajesh Vaishnava",
+      "email": "arth.instdev@gmail.com",
+      "designation": "Sr. Programme Associate (Institutional Development)",
+      "mobile": [
+        "9001991232"
+      ]
+    },
+    {
+      "name": "Rajesh Vaishnava",
+      "email": "arth.instdev@gmail.com",
+      "designation": "Sr. Programme Associate (Institutional Development)",
+      "mobile": [
+        "9001991232"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6849",
+  "name": "Action Research and Training for Health society",
+  "primaryEmail": "arthindia@gmail.com",
+  "website": "www.arth.in",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919001991232"
+  ],
+  "mainAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "G1-2, Satyam, Ramgiri, Badgaon, Udaipur- 313 011, Rajasthan, India",
+      "Near Vidya bhavan school",
+      "Udaipur",
+      "Rajasthan",
+      "313011"
+    ]
+  },
+  "briefDescription": "ARTH’s mission is to help communities access and manage health care according to their needs and capacity, by using research and training initiatives.ARTH strives to achieve this through its three main programs (Neonatal and Child Health; Reproductive Health; Health Systems and Policy) as well as numerous smaller projects. ARTH has also published numerous publications to showcase its research.ARTH provides asssitance to National Health Mission (NHM) for better implementation of health programs meant for disadvantaged.",
+  "yearOfEstablishment": "1997",
+  "regiseredAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "67, Adinath Nagar",
+      "Fatehpura",
+      "Udaipur",
+      "Rajasthan",
+      "313004"
+    ]
+  }
+}

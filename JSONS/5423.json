@@ -1,0 +1,38 @@
+{
+  "contacts": [
+    {
+      "name": "Audrey D'Mello",
+      "email": "majlislaw@gmail.com",
+      "designation": "Director",
+      "mobile": [
+        "91-22-26661252"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5423",
+  "name": "Majlis Manch",
+  "primaryEmail": "majlislaw@gmail.com",
+  "website": "http://www.majlislaw.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "912226661252",
+    "912226662394",
+    "912226661252"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "4A/2, Golden Valley, Kalina Kurla Road, Kalina Market, Santacruz (E)",
+      "Opp Canara Bank",
+      "Mumbai",
+      "Maharashtra",
+      "400098"
+    ]
+  },
+  "briefDescription": "Majlis, which means an ‘association’, has been a registered Society and Public Trust since 1991. The Trust has two distinct centres - Legal and Cultural. The Majlis Legal Centre, headed by Adv. Flavia Agnes who is a women’s rights activist and a legal scholar, works on issues related to women’s legal rights and access to justice. Our vibrant all-women team comprises lawyers and social activists. A large group of individuals, interns and other organizations contribute to our functioning. At the micro-level, we help individual women access their rights through legal interventions in court and training. At the macro level, we endeavour to bring about social change through policy level interventions, public campaigns and public interest lit",
+  "yearOfEstablishment": "1991"
+}

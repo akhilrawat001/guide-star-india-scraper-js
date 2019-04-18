@@ -1,0 +1,42 @@
+{
+  "contacts": [
+    {
+      "name": "S.M.DHANAD-PATIL",
+      "email": "sagardhanad@yahoo.com",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4493",
+  "name": "SHRI CHATRAPATI SHIVAJI PARYAVARAN VA SHETI VIKAS PRATISHTHAN",
+  "primaryEmail": "sagardhanad@yahoo.com",
+  "website": "www.paryavaranngo.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919158045285"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "199,200 GROUND FLOOR, NEW BJ MARKET,Jalgaon",
+      "JALGAON",
+      "Jalgaon",
+      "Maharashtra",
+      "425001"
+    ]
+  },
+  "briefDescription": "SHRI CHATRAPATI SHIVAJI PARYAVARAN VA SHETI VIKAS PRATISHTHAN is located in Jalgaon  Maharashtra.",
+  "yearOfEstablishment": "2002",
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "200, GROUND FLOOR, NEW BJ MARKET",
+      "JALGAON",
+      "Jalgaon",
+      "Maharashtra",
+      "425001"
+    ]
+  }
+}

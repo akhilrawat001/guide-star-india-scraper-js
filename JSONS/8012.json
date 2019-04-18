@@ -1,0 +1,45 @@
+{
+  "contacts": [
+    {
+      "name": "Krishna Kant",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8012",
+  "name": "Abhivyakti Foundation",
+  "primaryEmail": "avfoundation@gmail.com",
+  "website": "http://www.avfoundation.weebly.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "916532250415",
+    "919801331700"
+  ],
+  "mainAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "Himani Bhawan,",
+      "Besides Barganda Sub Post Office, New Barganda",
+      "Giridih",
+      "Jharkhand",
+      "815301"
+    ]
+  },
+  "briefDescription": "Abhivyakti Foundation is located in Giridih, Jharkhand.",
+  "yearOfEstablishment": "2002",
+  "regiseredAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "New Barganda,",
+      "New Barganda",
+      "Giridih",
+      "Jharkhand",
+      "815301"
+    ]
+  }
+}

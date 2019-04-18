@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Ramesh Chandra",
+      "email": "",
+      "designation": "Manager",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=580",
+  "name": "Chitrakoot Seva Ashram",
+  "primaryEmail": "csa_india@yahoo.co.in",
+  "telephone": [
+    "915198235221",
+    "915198235221",
+    "915198235221"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "Mission Road, Satrughnapuri",
+      "Near Church",
+      "Karwi",
+      "Chitrakoot",
+      "Uttar Pradesh",
+      "210205"
+    ]
+  }
+}

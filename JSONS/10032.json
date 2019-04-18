@@ -1,0 +1,30 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10032",
+  "name": "BLUE BIRDS CHARITABLE SOCIETY",
+  "primaryEmail": "deepika_dhanoa2003@yahoo.co.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918872498499",
+    "919877520969"
+  ],
+  "mainAddrress": {
+    "state": "Chandigarh",
+    "address": [
+      "3149  1st Floor  47 D",
+      "Chandigarh",
+      "160047"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Punjab",
+    "address": [
+      "No 414 Ward No 13  Dashmesh Nagar",
+      "Sangrur",
+      "Punjab",
+      "148001"
+    ]
+  }
+}

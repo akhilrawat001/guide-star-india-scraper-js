@@ -1,0 +1,40 @@
+{
+  "contacts": [
+    {
+      "name": "S Sophia Shalom",
+      "email": "",
+      "designation": "Project Officer",
+      "mobile": []
+    },
+    {
+      "name": "S Sophia Shalom",
+      "email": "",
+      "designation": "Project Officer",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=181",
+  "name": "Confederation of India Organisations for Service & Advocacy",
+  "primaryEmail": "prasanna@ciosa.org.in",
+  "website": "www.ciosa.org.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "914443582125",
+    "914465515921",
+    "919282339070"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "New No 16, Jeyalarshmipuram 1st Street",
+      "Nungambakkam",
+      "Chennai",
+      "Tamil Nadu",
+      "600034"
+    ]
+  }
+}

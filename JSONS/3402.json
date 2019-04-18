@@ -1,0 +1,41 @@
+{
+  "contacts": [
+    {
+      "name": "Kh Rajendra",
+      "email": "secretarygf@yahoo.co.uk",
+      "designation": "Vice President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3402",
+  "name": "The Green Foundation",
+  "primaryEmail": "secretarygf@yahoo.co.uk",
+  "website": "http://www.greenfound.net",
+  "organisationType": [
+    "Direct Service",
+    "Network"
+  ],
+  "telephone": [
+    "913879222051"
+  ],
+  "mainAddrress": {
+    "state": "Manipur",
+    "address": [
+      "Green Foundation Care of Khaidem Rajendra Singh",
+      "Bishnupur Bazar",
+      "Bishnupur",
+      "Manipur",
+      "795623"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Manipur",
+    "address": [
+      "Green Foundation C/o Khaidem Rajendra Singh",
+      "Bishnupur Bazar",
+      "Bishnupur",
+      "Manipur",
+      "795623"
+    ]
+  }
+}

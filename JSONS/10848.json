@@ -1,0 +1,49 @@
+{
+  "contacts": [
+    {
+      "name": "K Anbarasan",
+      "email": "anbarasan.k94@gmail.com",
+      "designation": "Manager",
+      "mobile": []
+    },
+    {
+      "name": "K Anbarasan",
+      "email": "anbarasan.k94@gmail.com",
+      "designation": "Manager",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10848",
+  "name": "SREE ORGANIZATION",
+  "primaryEmail": "sree.organization@gmail.com",
+  "website": "http://www.sreeorganization.com/",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "914164201702",
+    "919443191811"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "No.6, Avalkara Street, Behind Cmc Eye Hospital,Kosapet,  Vellore",
+      "Kosapet, Vellore",
+      "Vellore",
+      "Tamil Nadu",
+      "632001"
+    ]
+  },
+  "briefDescription": "Sree Organization is into service for the society in diversified sectors. Ever since the inception of the Organization the concentration was given more in the departments of Health Education, Skill Training, Poverty alleviation, Distribution of Free Tree Saplings, Entrepreneurship Development Training, Creation and Training of Self Help Groups, Health Camps, Blood Donation Camps, Eye Camps, Naturopathy camps, Ayurvedha Camps, NEET Entrance Exam Training, Students motivation and Orientation, Health and Environmental Cleanliness Awareness camps, Yoga Training.  Still the service sectors are expanded in broader and diversified ways so as to render result oriented development programs to the society.",
+  "yearOfEstablishment": "1994",
+  "regiseredAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "No.387-A, Perunkanchee Road, Kodaikkal Village, Sholinghur-631102",
+      "Kodaikkal Village, Sholinghur",
+      "Vellore",
+      "Tamil Nadu",
+      "631102"
+    ]
+  }
+}

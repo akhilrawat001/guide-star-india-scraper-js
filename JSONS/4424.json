@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "name": "Koutuk Talukdar",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "9957287921"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4424",
+  "name": "OIKOS",
+  "primaryEmail": "oikospathsala@gmail.com",
+  "website": "www.oikosassam.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919957287921"
+  ],
+  "mainAddrress": {
+    "state": "Assam",
+    "address": [
+      "H/O- Sri Indrajit Das",
+      "Vill+P.O.: Bamakhata",
+      "Bamakhata, Pathsala",
+      "Barpeta",
+      "Assam",
+      "781325"
+    ]
+  },
+  "briefDescription": "OIKOS is a Non Governmental Organization that has been working since 2008, to bring about sustainable improvement in the quality of life of poor and marginalized rural communities mostly in Assam. All initiative of OIKOS focuses on ensuring equal opportunities for resources poor households through improvement access to human development opportunity. As a strategy, OIKOS concentrates on building local capacity, ensuring information and technology available and enhancing linkage.OIKOS targets to work on health, education, livelihood and food security, self governing people institutions and livelihood-enabling infrastructure.OIKOS has a group of 55 paid field staff active in the field.",
+  "yearOfEstablishment": "2008"
+}

@@ -1,0 +1,26 @@
+{
+  "contacts": [
+    {
+      "name": "Dhananjay Ray",
+      "email": "rdjoy@rediffmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4194",
+  "name": "Jalpaiguri Centre for the Development of Human Initiatives",
+  "primaryEmail": "jcdhi@rediffmail.com",
+  "telephone": [
+    "913561255207",
+    "913561255207"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Composite complex",
+      "Jalpaiguri",
+      "West Bengal",
+      "735121"
+    ]
+  }
+}

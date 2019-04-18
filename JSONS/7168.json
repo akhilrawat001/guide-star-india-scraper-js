@@ -1,0 +1,35 @@
+{
+  "contacts": [
+    {
+      "name": "Dr. Akshay Sharma",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7168",
+  "name": "Exalt Education And Welfare Society",
+  "primaryEmail": "exalteducation@gmail.com",
+  "website": "WWW.eews.in",
+  "organisationType": [
+    "Direct Service",
+    "Grant-making",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "917552896444",
+    "9993151348"
+  ],
+  "mainAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "B-39",
+      "J K Park",
+      "Kolar Road",
+      "Bhopal",
+      "Madhya Pradesh",
+      "462042"
+    ]
+  }
+}

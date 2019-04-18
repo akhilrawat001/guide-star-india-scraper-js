@@ -1,0 +1,26 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1614",
+  "name": "Indian Society For Life Development",
+  "primaryEmail": "isld@email.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Intermediary"
+  ],
+  "telephone": [
+    "912402371352",
+    "912402370558",
+    "919421302354"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "D12",
+      "Chinar Garden, Padegaon, Cantonment",
+      "AURANGABAD",
+      "Aurangabad",
+      "Maharashtra",
+      "431002"
+    ]
+  }
+}

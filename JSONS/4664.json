@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "Dr. Madhukrishan",
+      "email": "madhujesus@hotmail.com",
+      "designation": "Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4664",
+  "name": "Snahalaya Ashram",
+  "primaryEmail": "madhujesus@hotmail.com",
+  "telephone": [
+    "914491764777",
+    "918015147770"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "Administrative Office- 142- Samayapuram",
+      "5Th Cross Stree",
+      "Karambakkam",
+      "Kancheepuram",
+      "Tamil Nadu",
+      "600116"
+    ]
+  }
+}

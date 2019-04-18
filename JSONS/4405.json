@@ -1,0 +1,34 @@
+{
+  "contacts": [
+    {
+      "name": "Rahima Khatun",
+      "email": "nskk1979@gmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4405",
+  "name": "Nari-O-Sishu Kalyan Kendra",
+  "primaryEmail": "nskk1979@gmail.com",
+  "website": "www.noskk.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service"
+  ],
+  "telephone": [
+    "913326917382",
+    "919830646876"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Vill: Khaskhamar;P.O: Rameswarnagar",
+      "Dist: Howrah 711310",
+      "Howrah",
+      "West Bengal",
+      "711310"
+    ]
+  },
+  "briefDescription": "In the year 1978, there was a devastating flood in almost all the part of West Bengal. More or less all the districts of this state were flood affected where as, in Howrah district, it was a severe one. The reason behind was that three of the important rivers i.e. the Ganges, Damodar and Rupnarayan pass along this smallest district of the state. The embankments were washed away by tremendous force of the floodwater causing massive loss of lives and damage of properties. Like any catastrophe, the children and the women were the most debilitated group in this natural calamity also.",
+  "yearOfEstablishment": "1979"
+}

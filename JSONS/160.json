@@ -1,0 +1,35 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=160",
+  "name": "Hyderabad Council of Human Welfare",
+  "primaryEmail": "hchw.in@gmail.com",
+  "website": "www.hchw.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "914023526554",
+    "914065505827",
+    "914023526674"
+  ],
+  "mainAddrress": {
+    "state": "Telangana",
+    "address": [
+      "#12-2-790/56, Ayodhya Nagar Colony",
+      "Mehdipatnam",
+      "Hyderabad",
+      "Telangana",
+      "500028"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Telangana",
+    "address": [
+      "# 4-6-338 Esamian Bazar",
+      "Hyderabad",
+      "Telangana",
+      "500027",
+      "AP_TelBill_60.PDF"
+    ]
+  }
+}

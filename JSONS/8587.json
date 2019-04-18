@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Shyamalendu Bhoi",
+      "email": "pragatisamaj@gmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8587",
+  "name": "Pragati Samaj",
+  "primaryEmail": "pragatisamaj@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919238820986"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "Plot No 662, AT/PO-Dalakasoti,",
+      "Via-Balipatna,",
+      "Police Station-Balipatana",
+      "Khordha",
+      "Odisha",
+      "752102"
+    ]
+  }
+}

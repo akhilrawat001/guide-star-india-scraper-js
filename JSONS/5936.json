@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Dayamoy Pramanik",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5936",
+  "name": "BARUNA TARUN SANGHA",
+  "primaryEmail": "dayamoypramik1234@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Network"
+  ],
+  "telephone": [
+    "+919851328059"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "K-27, Saratpally, P.O.- Midnapore, Dist- Paschim Medinipur.",
+      "Vill- lokshyatapal, P.O- Fulbira, P.S- Garhbeta, Dist.- Paschim Medinipur.",
+      "Medinipur",
+      "West Medinipur",
+      "West Bengal",
+      "721101"
+    ]
+  }
+}

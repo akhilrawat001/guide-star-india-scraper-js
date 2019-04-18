@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Rakesh Kapoor",
+      "email": "afmailbox@gmail.com",
+      "designation": "Managing Trustee",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7937",
+  "name": "Alternative Futures",
+  "primaryEmail": "afmailbox@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "911126847668",
+    "911126847668"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "B-177,",
+      "East of Kailash",
+      "Delhi",
+      "New Delhi",
+      "110065"
+    ]
+  }
+}

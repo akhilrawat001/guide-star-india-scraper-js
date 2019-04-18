@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Prakash Das",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9032",
+  "name": "Raniganj Amra Achi Yuba Samaj",
+  "primaryEmail": "amraachiys@gmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making"
+  ],
+  "telephone": [
+    "919475024924"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "KUMAR BAZAR",
+      "BHIMA CHARAN ROAD",
+      "RANIGANJ",
+      "Bardhaman",
+      "West Bengal",
+      "713347"
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "GOKUL CHANDRA SAHU",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6099",
+  "name": "SHRI SHRI SHARADESWARI PATHAGAR",
+  "primaryEmail": "ssspkharda@rediffmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919438296439"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "AT KHARDA",
+      "POST TUSRA",
+      "DIST BALANGIR",
+      "Balangir",
+      "Odisha",
+      "767030"
+    ]
+  }
+}

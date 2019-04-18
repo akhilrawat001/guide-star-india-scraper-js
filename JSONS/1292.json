@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Naresh Chandra Das",
+      "email": "blba@in.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1292",
+  "name": "Bizpur Lord Basudeb Ashram",
+  "primaryEmail": "blba@in.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919330482083"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "558/2 Siraj Mondal Road",
+      "Po-Kanchrapara,",
+      "Kanchrapara",
+      "North 24 Parganas",
+      "West Bengal",
+      "743145"
+    ]
+  }
+}

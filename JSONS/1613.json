@@ -1,0 +1,26 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1613",
+  "name": "Gramshree Trust",
+  "primaryEmail": "info@gramshree.org",
+  "website": "www.gramshree.org",
+  "organisationType": [
+    "Direct Service",
+    "Intermediary",
+    "Support"
+  ],
+  "telephone": [
+    "917927522248",
+    "918460690530"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "10",
+      "New Vidyavihar Society,Ramjimandir Road,Ranip",
+      "Ahmedabad",
+      "Gujarat",
+      "382480"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Goutam Singha",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5067",
+  "name": "PARJAS FOUNDATION",
+  "primaryEmail": "parjas.foundation@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "913472223151",
+    "913472223151"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "MADONA HOUSE",
+      "Bowbazar, D. L. Roy Road",
+      "Krishnagar",
+      "Nadia",
+      "West Bengal",
+      "741101"
+    ]
+  }
+}

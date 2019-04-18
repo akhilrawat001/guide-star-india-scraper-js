@@ -1,0 +1,27 @@
+{
+  "contacts": [
+    {
+      "name": "Arjun Kumar",
+      "email": "ucesociety@yahoo.com",
+      "designation": "Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2947",
+  "name": "Unique Creative Educational Society",
+  "primaryEmail": "ucesociety@yahoo.com",
+  "telephone": [
+    "916275244442",
+    "916275244442"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "Station Road",
+      "singhiaghat Samastipur",
+      "Samastipur",
+      "Bihar",
+      "848101"
+    ]
+  }
+}

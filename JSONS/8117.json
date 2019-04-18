@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Paramjit Singh",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8117",
+  "name": "ZILA YUVA VIKAS SANGHTHAN",
+  "primaryEmail": "info@zyvs.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "911712530211",
+    "911712530211"
+  ],
+  "mainAddrress": {
+    "state": "Haryana",
+    "address": [
+      "#1606",
+      "H.B.C.Sec-10",
+      "Ambala city",
+      "Ambala",
+      "Haryana",
+      "134003"
+    ]
+  }
+}

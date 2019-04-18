@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Mr. Binoy Das",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3437",
+  "name": "NANDABHANGA BANKIM BEHARI SAMAJ KALYAN SANGHA",
+  "primaryEmail": "nbbsks@rediffmail.com",
+  "website": "www.nbbsks.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919126722022"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Village: Nandabhanga, Post Office: Ganeshnagar",
+      "Police Station: Kakdwip",
+      "Block: Namkhana",
+      "South 24 Parganas",
+      "West Bengal",
+      "743357"
+    ]
+  }
+}

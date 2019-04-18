@@ -1,0 +1,44 @@
+{
+  "contacts": [
+    {
+      "name": "Subhashini Rao",
+      "email": "",
+      "designation": "Director",
+      "mobile": [
+        "91-44-42113947"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=239",
+  "name": "Sankalp",
+  "primaryEmail": "admin.sankalp@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "914426182588",
+    "914442113947",
+    "919841273228"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "Sankalp - The Open School, Plot No - 1587",
+      "6th Avenue, Near Vijaya Maruthi, Anna Nagar West",
+      "Chennai",
+      "Tamil Nadu",
+      "600040"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "Dr Ajit Mullasari, I Block-57",
+      "Horizon Villa, 1st Floor, 10th Street, Anna Nagar East,",
+      "Chennai",
+      "Tamil Nadu",
+      "600102",
+      "AP_TelBill_140.PDF"
+    ]
+  }
+}

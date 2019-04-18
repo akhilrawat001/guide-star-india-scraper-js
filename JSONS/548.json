@@ -1,0 +1,37 @@
+{
+  "contacts": [
+    {
+      "name": "G David",
+      "email": "",
+      "designation": "Secretary",
+      "mobile": [
+        "91-9395305722"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=548",
+  "name": "Rural Poor People Development Service Society",
+  "primaryEmail": "rppds.gdavid@yahoo.com",
+  "telephone": [
+    "919395305722"
+  ],
+  "mainAddrress": {
+    "state": "Telangana",
+    "address": [
+      "12575, Industrial Area",
+      "Poultry Complex",
+      "Jangaon",
+      "Telangana",
+      "506167"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Telangana",
+    "address": [
+      "Ambedkar Nagar",
+      "Jangaon",
+      "Telangana",
+      "506167"
+    ]
+  }
+}

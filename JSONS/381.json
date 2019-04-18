@@ -1,0 +1,40 @@
+{
+  "contacts": [
+    {
+      "name": "B Nageswar Rao",
+      "email": "janakalyan@rediffmail.com",
+      "designation": "Secretary",
+      "mobile": [
+        "91-883-2442293"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=381",
+  "name": "Jana Kalyan Welfare Society",
+  "primaryEmail": "janakalyan@rediffmail.com",
+  "website": "http://www.jkws.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918832442293",
+    "918832442293"
+  ],
+  "mainAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "36373, Durga Nagar IInd street",
+      "Mallayapet, Rajahmundry",
+      "East Godavari",
+      "Andhra Pradesh",
+      "533105"
+    ]
+  },
+  "yearOfEstablishment": "1992",
+  "regiseredAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "Andhra Pradesh"
+    ]
+  }
+}

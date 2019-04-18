@@ -1,0 +1,38 @@
+{
+  "contacts": [
+    {
+      "name": "J M Balaraj",
+      "email": "",
+      "designation": "Executive Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=327",
+  "name": "Balajothi Centre for the Disabled",
+  "primaryEmail": "balajothi.blr@gmail.com",
+  "website": "http://balajothi.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918023541940",
+    "918023541940"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "# 25, 2nd Main",
+      "S.K.Garden, Benson Town P.O.",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560046"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "Karnataka"
+    ]
+  }
+}

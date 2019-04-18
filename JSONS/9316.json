@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Suman Singh Tomar",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9316",
+  "name": "MAHAKAUSHAL VIKAS SAMITI RAIPUR",
+  "primaryEmail": "mvsraipur@yahoo.co.in",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919644155502"
+  ],
+  "mainAddrress": {
+    "state": "Chhattisgarh",
+    "address": [
+      "Near Siddhi Vinayak Pahisar Ring Road No 1",
+      "Vinayaka Vihar D D Nagar Raipur",
+      "Raipur",
+      "Chhattisgarh",
+      "492010"
+    ]
+  },
+  "yearOfEstablishment": "2002"
+}

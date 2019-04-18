@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "Aparna Saboo",
+      "email": "aparna.axf@gmail.com",
+      "designation": "Communication Manager",
+      "mobile": [
+        "91-9930070086"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4804",
+  "name": "Angel Xpress Foundation",
+  "primaryEmail": "info@angelxpress.org",
+  "website": "http://angelxpress.org/",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919930070086",
+    "919820244562"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "1st Floor, Sai Darshan",
+      "19th Road, Khar (W)",
+      "Mumbai",
+      "Mumbai Suburban",
+      "Maharashtra",
+      "400052"
+    ]
+  },
+  "briefDescription": "Angel Xpress Foundation (AXF) was started in 2012 as a platform for concerned citizens willing to tutor and mentor first-generation learners from slums in their neighborhoods. As of August 2017, it is a 12 A and 80 G accredited Section 8 NGO where 1300 school goers from slums get 200+ hours of lessons in English, Math and values, led by over 300 volunteers at free learning centers in across 11 locations in Mumbai and we hope to continue to grow our numbers substantially year on year. AXF aspires to enable educated affluent who display a social conscience. Our main innovation lies in redistributing society’s available resources to bridge a gap in the system. By enabling utilization of abilities of the affluent segment of the society (educated housewives, students, and able-bodied retired individuals) for social good with limited investment in training, the model brings forth a section of human resource lying unused in society.  By helping with a small contribution of their time, the educated can tutor, mentor, guide and hence help first generation learners dwelling in the slums of Mumbai find their true potential and AXF aims to make this fact a realization. We want to ease the conversion of intent into action for willing communities and citizen groups by making our format, curriculum and execution capacities available to all.",
+  "yearOfEstablishment": "2012"
+}

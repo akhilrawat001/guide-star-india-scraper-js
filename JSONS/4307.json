@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "WD.DANIEL RAJA SELVAN",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4307",
+  "name": "NEO EDUCATION SOCIAL AWARENESS AND MANAGEMENT SOCIETY",
+  "primaryEmail": "nesam99@yahoo.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919443537405"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "831/155-D/1",
+      "THIRUVALLUVAR NAGAR, VETTAVALAM ROAD",
+      "TIRUVANNAMALAI",
+      "Tiruvannamalai",
+      "Tamil Nadu",
+      "606602"
+    ]
+  }
+}

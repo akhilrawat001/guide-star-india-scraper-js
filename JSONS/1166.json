@@ -1,0 +1,27 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1166",
+  "name": "Pragati Prerna Samiti",
+  "primaryEmail": "ppsamiti@gmail.com",
+  "website": "pragatiprernasamiti.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "911352660942",
+    "911352660942"
+  ],
+  "mainAddrress": {
+    "state": "Uttarakhand",
+    "address": [
+      "Opp Shiva Temple, Haridwar Road,",
+      "Mohkampur, P.O. Navada",
+      "Dehradun",
+      "Uttarakhand",
+      "248005"
+    ]
+  }
+}

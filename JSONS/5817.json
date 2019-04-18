@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Mr. Zinjade Pramod Namdev",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5817",
+  "name": "Mahatma Fule Samaj Seva Mandal",
+  "primaryEmail": "admin@mpssm.org",
+  "website": "www.mpssm.org",
+  "organisationType": [
+    "Direct Service",
+    "Network"
+  ],
+  "telephone": [
+    "917577903052"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "NiyojanNagar",
+      "Jamkhed Road, Karmala",
+      "Karmala",
+      "Solapur",
+      "Maharashtra",
+      "413203"
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "contacts": [
+    {
+      "name": "Sudha Sharma",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "45719436",
+        "9811847720"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9304",
+  "name": "CHETANA CONSCIENCE OF WOMEN",
+  "primaryEmail": "chetana4delhi@gmail.com",
+  "website": "http://www.chetanadelhi.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "911145719436",
+    "911145719436"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "35/13 second floor East Patel Nagar",
+      "New Delhi",
+      "West Delhi",
+      "Delhi",
+      "110008"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "Sewa International 3304, Ranjit Nagar Apposit, 9/9,",
+      "South Patel Nagar",
+      "New Delhi",
+      "West Delhi",
+      "Delhi",
+      "110012"
+    ]
+  }
+}

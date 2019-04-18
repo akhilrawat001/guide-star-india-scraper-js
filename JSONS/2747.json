@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Nasreen Jahan",
+      "email": "nwwsociety@gmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    },
+    {
+      "name": "Nasreen Jahan",
+      "email": "nwwsociety@gmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2747",
+  "name": "National Women's Welfare Society",
+  "primaryEmail": "nationalytl@gmail.com",
+  "telephone": [
+    "917238254729",
+    "919921863621"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Darwha City",
+      "Yavatmal",
+      "Maharashtra",
+      "445202"
+    ]
+  }
+}

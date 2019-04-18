@@ -1,0 +1,35 @@
+{
+  "contacts": [
+    {
+      "name": "R.Gopalakrishnan",
+      "email": "",
+      "designation": "Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2815",
+  "name": "PROMPT CARE INTERNATIONAL FOUNDATION",
+  "primaryEmail": "pcif@vsnl.com",
+  "website": "http://www.pcif.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "9892134567"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "24, DOLLY APARTMENT",
+      "CHINCHOLI PHATAK, PAWAN BAUG ROAD",
+      "MALAD (WEST), MUMBAI  400064",
+      "Mumbai",
+      "Maharashtra",
+      "400064"
+    ]
+  },
+  "briefDescription": "AT PRESENT WE ARE IN THE PROCESS OF SETTING UP OF A PERMANENT / LONG STAY HOME FOR PEOPLE SUFFERING FROM MENTAL ILLNESS \"SCHIZOPHRENIA\" NEAR MUMBAI AT KAMAN BHIWANDI ROAD",
+  "yearOfEstablishment": "1995"
+}

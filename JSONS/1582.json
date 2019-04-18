@@ -1,0 +1,30 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1582",
+  "name": "Moser Baer Trust",
+  "primaryEmail": "moserbaertrust@moserbaer.in",
+  "website": "http://www.moserbaertrust.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "911140594170",
+    "911140594553"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "Moser Baer India Limited",
+      "43A, Okhla Industrial Estate, Phase III",
+      "New Delhi",
+      "Delhi",
+      "110020"
+    ]
+  },
+  "briefDescription": "Moser Baer Trust has been working on developmental issues like Education, Health, Livelihood and youth development, with a view to empower communities of its operation, to sustain positive social change brought in through Moser Baer Trust’s interventions.",
+  "yearOfEstablishment": "2005"
+}

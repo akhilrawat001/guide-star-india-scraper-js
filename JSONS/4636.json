@@ -1,0 +1,27 @@
+{
+  "contacts": [
+    {
+      "name": "Dr L C Sharma",
+      "email": "ceohss@gmail.com",
+      "designation": "General Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4636",
+  "name": "Hind Sewa Sangathan",
+  "primaryEmail": "ceohss@gmail.com",
+  "telephone": [
+    "911772640761",
+    "911772640761"
+  ],
+  "mainAddrress": {
+    "state": "Himachal Pradesh",
+    "address": [
+      "IIRD Complex Bye-Pass Road",
+      "Shanan, Sanjauli",
+      "Shimla",
+      "Himachal Pradesh",
+      "171006"
+    ]
+  }
+}

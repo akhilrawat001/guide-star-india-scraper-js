@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "Dr. Sandeep Pipare",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8435",
+  "name": "Harshal Gramin Vikas Bahuudeshiya Sanstha",
+  "primaryEmail": "hrda_chd1@rediffmail.com",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "919422135329"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Watchal Bhawan Viveknagar Mul Road Chandrapur",
+      "Chandrapur",
+      "Maharashtra",
+      "442402"
+    ]
+  }
+}

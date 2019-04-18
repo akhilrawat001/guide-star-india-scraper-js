@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Deepak Thimaya",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7673",
+  "name": "Verbattle Foundation",
+  "primaryEmail": "info@verbattle.com",
+  "website": "http://www.verbattle.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service"
+  ],
+  "telephone": [
+    "919739900011"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "#808, First Floor, 18th Cross,",
+      "9th Main, 3rd Block",
+      "Bengaluru",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560011"
+    ]
+  }
+}

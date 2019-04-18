@@ -1,0 +1,50 @@
+{
+  "contacts": [
+    {
+      "name": "Prashant Dobriyal",
+      "email": "prashant@indoscience.org",
+      "designation": "Vice President",
+      "mobile": []
+    },
+    {
+      "name": "Prashant Dobriyal",
+      "email": "prashant@indoscience.org",
+      "designation": "Vice President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10333",
+  "name": "INDO SCIENCE EDUCATION TRUST",
+  "primaryEmail": "prashant@indoscience.org",
+  "website": "http://www.indoscience.org",
+  "organisationType": [
+    "Direct Service",
+    "Network"
+  ],
+  "telephone": [
+    "919822090659"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "\"Sonali Niwas\" House No 2282/5, Laxmi Colony",
+      "Behing SP Infocity, Phursungi",
+      "Pune",
+      "Maharashtra",
+      "412308"
+    ]
+  },
+  "briefDescription": "Science and Technology Education, mainly for school students, to promote development and innovation. Served more than 2 lakh students till date.",
+  "yearOfEstablishment": "2012",
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "SYLVANIA, Wing-F, Flat No.904",
+      "Hadapsar",
+      "Magarptta",
+      "Pune",
+      "Maharashtra",
+      "411028"
+    ]
+  }
+}

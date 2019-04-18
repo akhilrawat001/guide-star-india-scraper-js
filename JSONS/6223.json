@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "M.M.VAJEER",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6223",
+  "name": "VANAVIL SOCIAL  WELFARE DEVELOPMENT TRUST",
+  "primaryEmail": "vanavilngo@gmail.com",
+  "website": "www.vanavilngo.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Support"
+  ],
+  "telephone": [
+    "914366236306",
+    "914366236306"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "11-2/3 Sakthi Illam,",
+      "Railway Gate, Nagai Main Road,Sannanallur",
+      "NANNILAM TOWN",
+      "Tiruvarur",
+      "Tamil Nadu",
+      "609504"
+    ]
+  }
+}

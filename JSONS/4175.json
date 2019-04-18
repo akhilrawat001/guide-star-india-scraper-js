@@ -1,0 +1,31 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4175",
+  "name": "Alhamd Social Welfare Society",
+  "primaryEmail": "alhamdsocialwelfaresociety@rediffmail.com",
+  "telephone": [
+    "91571453203",
+    "919219616939"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "4/41,",
+      "Ahmad Nager Zohra Bagh",
+      "Aligarh",
+      "Uttar Pradesh",
+      "202001"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "414/17,Al-Noor Nursing Home",
+      "(Barola By Pass Road) Bhagwan Gari1",
+      "Aligargh",
+      "Aligarh",
+      "Uttar Pradesh",
+      "202122"
+    ]
+  }
+}

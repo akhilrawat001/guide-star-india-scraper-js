@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Banoth Sena",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "9440064623"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8396",
+  "name": "Banjara Seva Samithi",
+  "primaryEmail": "bss.garla@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919440064623"
+  ],
+  "mainAddrress": {
+    "state": "Telangana",
+    "address": [
+      "7-1-57-2/A, S2, Shanmukha Aptm",
+      "D.K Road, Ameerpet",
+      "Hyderabad",
+      "Telangana",
+      "500016"
+    ]
+  }
+}

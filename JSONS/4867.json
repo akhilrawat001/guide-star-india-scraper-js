@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Mr.Sanjay Udare",
+      "email": "llmorglatur@gmail.com",
+      "designation": "Secretry",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4867",
+  "name": "Life Line Multipurpose Society",
+  "primaryEmail": "llmorglatur@gmail.com",
+  "website": "NA",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "+919960710154"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Opp.Loakseva Ded.College,Sambhaji Nagar,Latur Tq.Dist.Latur.",
+      "Khadgaon Road,",
+      "LATUR",
+      "Latur",
+      "Maharashtra",
+      "413512"
+    ]
+  }
+}

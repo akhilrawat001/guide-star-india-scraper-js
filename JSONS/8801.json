@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "Sayyd Atiq Ahmed",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8801",
+  "name": "SHAFIYA BAHUUDDESHIYA SEVABHAVI SANSTHA",
+  "primaryEmail": "sbussgeorai@gmail.com",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "919890033527"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Momin Pura Georai, Tq Georai,",
+      "Beed",
+      "Maharashtra",
+      "431127"
+    ]
+  }
+}

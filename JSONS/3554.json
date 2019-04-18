@@ -1,0 +1,35 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3554",
+  "name": "Calcutta Rescue",
+  "primaryEmail": "info@calcuttarescue.org",
+  "website": "www.calcuttarescue.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "913322175675"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "85 Collin Street",
+      "4th Floor",
+      "Kolkata",
+      "West Bengal",
+      "700016"
+    ]
+  },
+  "briefDescription": "Calcutta Rescue (CR) is a non – governmental organization (NGO) operating in Kolkata and parts of rural West Bengal for over three decades. Calcutta Rescue provides free medical care, education and development to the poorest and most disadvantaged people of Kolkata and rural West Bengal irrespective of gender, age, caste, or religion. CR was adjudged the joint winner of the BEST NGO (medium sized) in India by the Resource Alliance and the Rockefeller Foundation in 2009.It is registered under the West Bengal Societies Act 1961 (Registration number S/67495 (91-92), and under the Foreign Contributions Regulations Act ( No 147120588). All donations are 100% exempted u/s 35AC of the Income Tax Act for corporates and u/s 80GGA for individuals.",
+  "yearOfEstablishment": "1991",
+  "regiseredAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "10 Nilmoni Mitra Street",
+      "Girish Park",
+      "Kolkata",
+      "West Bengal",
+      "700006"
+    ]
+  }
+}

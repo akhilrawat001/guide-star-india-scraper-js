@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "name": "David Kumar",
+      "email": "david.kumar55@gmail.com",
+      "designation": "Founder - Director",
+      "mobile": [
+        "91-9449787912"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7117",
+  "name": "Samagra Foundation",
+  "primaryEmail": "samagra.people@gmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919449787912"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "# 47",
+      "2nd Cross, Cambridge Road",
+      "Ulsoor , Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560008"
+    ]
+  },
+  "briefDescription": "Samagra foundation campaigns for the revival of lost bio-diversity through rejuvenation of water bodies,soil and preservation of ingenuous seeds. Efforts are made to revive traditional /organic farming practices and promotion of seed banks. Nutrition gardens are set up at the households to ensure food, nutrition security and the well-being. Besides, support services are provided towards livelihood for the poor/ women and Education for deserving students. Of late we have taken up revival of traditional sports by popularizing them through events such as Halli Habba which is an annual feature in Bangalore since 2015. Our next project is on preservation of indigenous cow varieties which are integral part of organic farming practice.",
+  "yearOfEstablishment": "2010"
+}

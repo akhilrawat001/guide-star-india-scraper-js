@@ -1,0 +1,47 @@
+{
+  "contacts": [
+    {
+      "name": "Sachin Sharma",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "9811755471"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8953",
+  "name": "UDGAM WELFARE FOUNDATION",
+  "primaryEmail": "udgamwelfarefoundation@gmail.com",
+  "website": "www.udgamwlefarefoundation.in",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919811755471"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "C-1, Masjid Street, Sultanpur Colony,",
+      "MG Road, New Delhi",
+      "New Delhi",
+      "South West Delhi",
+      "Delhi",
+      "110030"
+    ]
+  },
+  "briefDescription": "We have been providing FREE Coaching ( since 2012 ) of JEE (Joint Entrance Exam) to get admission in reputed engineering colleges of India viz. IIT, Delhi College of Engineering, Indira Gandhi Delhi Technical University, etc. to underprivileged children from various govt. schools in Delhi . This is our two years FREE JEE coaching programme to serve those children who have dream of becoming an engineer but can't afford expensive coaching. This students are from poor background and their parents' monthly income is less than Rs. 10,000/-. Few students of our NGO are studying in IIT Kharagpur, Delhi College of Engineering, IGDTU, GB Pant Engineering college etc. We also provide them FREE Food, Metro passes to commute.",
+  "yearOfEstablishment": "2012",
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "19, Kh. No. 416, Ground Floor, Gurudwara Road,Sultanpur Colony,",
+      "MG Road, New Delhi",
+      "New Delhi",
+      "South West Delhi",
+      "Delhi",
+      "110030"
+    ]
+  }
+}

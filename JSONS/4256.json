@@ -1,0 +1,34 @@
+{
+  "contacts": [
+    {
+      "name": "Pranati Sawant",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "28726151"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4256",
+  "name": "C.C. Shroff Self Help Centre",
+  "primaryEmail": "shroffshc@gmail.com",
+  "website": "http://www.selfhelpcentre.org",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "912228726151",
+    "912228726151"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "9, Vikas Estate,Opp. Vishweshwar Nagar,",
+      "Near Virwani Industrial Estate, Goregaon (East).",
+      "Mumbai",
+      "Mumbai Suburban",
+      "Maharashtra",
+      "400063"
+    ]
+  }
+}

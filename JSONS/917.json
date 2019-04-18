@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Rohit Chavan",
+      "email": "rohit.chavan@nirmallifestyle.com",
+      "designation": "Executive",
+      "mobile": [
+        "91-22-25937020"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=917",
+  "name": "Care Foundation",
+  "primaryEmail": "rohit.chavan@nirmallifestyle.com",
+  "website": "http://www.carefoundation.in/",
+  "telephone": [
+    "912225905122",
+    "912225905121",
+    "919987700711"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Jawahar Talkies Compound,",
+      "Mumbai",
+      "Maharashtra",
+      "400080"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "contacts": [
+    {
+      "name": "Ashok Pande",
+      "email": "crs@pn2.vsnl.net.in",
+      "designation": "Sr. Vice President",
+      "mobile": [
+        "91-20-26926248"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=839",
+  "name": "BAIF Development Research Foundation",
+  "primaryEmail": "accounts@baif.org.in",
+  "website": "www.baif.org.in",
+  "telephone": [
+    "912025231662",
+    "912025231661",
+    "912025231661"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "BAIF Bhawan, Dr. Manibhai Desai Nagar",
+      "National Highway No. 4",
+      "Warje",
+      "Pune",
+      "Maharashtra",
+      "411058"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Central Research Station (CRS) A /P Urulikanchan",
+      "Urulikanchan",
+      "Pune",
+      "Maharashtra",
+      "412202",
+      "AP_TelBill_752.PDF"
+    ]
+  }
+}

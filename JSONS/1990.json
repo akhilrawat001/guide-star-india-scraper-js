@@ -1,0 +1,25 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1990",
+  "name": "IC Centre for Governance",
+  "primaryEmail": "iccfg@yahoo.co.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Support"
+  ],
+  "telephone": [
+    "911126146236",
+    "911140809939",
+    "919818381999"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "Niryat Bhawan",
+      "3rd floor, Rao Tula Ram Marg,",
+      "New Delhi",
+      "Delhi",
+      "531114"
+    ]
+  }
+}

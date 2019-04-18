@@ -1,0 +1,47 @@
+{
+  "contacts": [
+    {
+      "name": "Deo Datt",
+      "email": "ceopani@gmail.com",
+      "designation": "CEO",
+      "mobile": [
+        "91-7897345556"
+      ]
+    },
+    {
+      "name": "Deo Datt",
+      "email": "ceopani@gmail.com",
+      "designation": "CEO",
+      "mobile": [
+        "91-7897345556"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5677",
+  "name": "People's Action for National Integration",
+  "primaryEmail": "panisansthan@rediffmail.com",
+  "website": "http://www.paniindia.in/",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "915278225175",
+    "915278225175",
+    "915278225175"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "H.No. 530, Civil Lines (Near J B Polytechnic), Dist-Faizabad-224 001, UP, India",
+      "Gaddopur Road, Near J B Polytechnic, Faizabad",
+      "Faizabad",
+      "Uttar Pradesh",
+      "224001"
+    ]
+  },
+  "briefDescription": "People's Action for National Integration-PANI was founded in 1986 by some prominent and devoted social activists from Gandhian background and ideology of integrated development and registered in 1989. It promotes integrated and participatory approach for community empowerment; and thereby poverty alleviation, and give priority to women and children of socio-economically marginalized sections.",
+  "yearOfEstablishment": "1989"
+}

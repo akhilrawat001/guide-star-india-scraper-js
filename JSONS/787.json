@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Kasturi",
+      "email": "",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=787",
+  "name": "Shree Devi Mahila Swa Shayaya Seva Sangh",
+  "primaryEmail": "shreedeviglb@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Network"
+  ],
+  "telephone": [
+    "919449309632"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "H No 1-891/33D/1 Datt Nagar",
+      "Gulbarga",
+      "Kalaburagi (Gulbarga)",
+      "Karnataka",
+      "585102"
+    ]
+  }
+}

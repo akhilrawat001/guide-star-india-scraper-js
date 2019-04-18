@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Dr. K. S. Sebastian",
+      "email": "sebastian.ks@aif.org",
+      "designation": "Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2653",
+  "name": "The American India Foundation Trust",
+  "primaryEmail": "sebastian.ks@aif.org",
+  "website": "http://www.aif.org",
+  "telephone": [
+    "911146118857",
+    "918800092386"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "C-17, Ground Floor",
+      "Green Park Extension,",
+      "New Delhi",
+      "South Delhi",
+      "Delhi",
+      "110017"
+    ]
+  }
+}

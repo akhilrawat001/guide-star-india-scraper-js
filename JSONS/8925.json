@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Ramchandra Kushal Patil",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8925",
+  "name": "MAHATMA GANDHI SHIKSHAN SANSTHA",
+  "primaryEmail": "patilrk1944@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "917267257744",
+    "917267257744"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "At Chawarda  Post Pimpri Gwali",
+      "Tq Motala",
+      "Buldhana",
+      "Maharashtra",
+      "443102"
+    ]
+  }
+}

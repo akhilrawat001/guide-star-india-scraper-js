@@ -1,0 +1,34 @@
+{
+  "contacts": [
+    {
+      "name": "Rafik Uddin Molla",
+      "email": "",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1449",
+  "name": "South Sundarban Janakalyan Sangha",
+  "primaryEmail": "south_sundarban@yahoo.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network"
+  ],
+  "telephone": [
+    "913210260406",
+    "913210260406",
+    "919734513751"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Vill-Raghunathpur",
+      "P.O.-Madhabnagar,",
+      "Kakdwip",
+      "South 24 Parganas",
+      "West Bengal",
+      "743374"
+    ]
+  }
+}

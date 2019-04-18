@@ -1,0 +1,37 @@
+{
+  "contacts": [
+    {
+      "name": "Jagannath Mishra",
+      "email": "",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=745",
+  "name": "EKTA",
+  "primaryEmail": "ektan_koraput@yahoo.com",
+  "telephone": [
+    "916582250842",
+    "916852252606",
+    "916582250842"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "1st Lane, Goutam Nagar",
+      "Koraput",
+      "Odisha",
+      "764020"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Odisha",
+    "address": [
+      "At : Padampur",
+      "Dumuriput",
+      "Koraput",
+      "Odisha",
+      "764020"
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10452",
+  "name": "SHUDDHI",
+  "primaryEmail": "info@shuddhi.org",
+  "website": "http://www.shuddhi.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919654815105",
+    "911141253951"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "451, 4th Floor, Aggarwal Metro Heights",
+      "Netaji Subhash Place, Pitampura",
+      "New Delhi",
+      "North West Delhi",
+      "Delhi",
+      "110034"
+    ]
+  },
+  "briefDescription": "Shuddhi ( शुद्धि ) is a registered Non-Profit Organisation (NGO) ​working together with Partners & Local Communities in India & Globally to improve ​Environment ​& Human Well-Being. Shuddhi has served more than 10,000 people.",
+  "yearOfEstablishment": "2014",
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "86-C, CD Block",
+      "Pitampura",
+      "New Delhi",
+      "North West Delhi",
+      "Delhi",
+      "110034"
+    ]
+  }
+}

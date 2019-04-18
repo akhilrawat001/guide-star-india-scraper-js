@@ -1,0 +1,46 @@
+{
+  "contacts": [
+    {
+      "name": "Islam Husain",
+      "email": "",
+      "designation": "Executive Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=577",
+  "name": "Pahal",
+  "primaryEmail": "naipahal@yahoo.co.uk",
+  "website": "nil",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "915946266209",
+    "915946266216",
+    "915946266216"
+  ],
+  "mainAddrress": {
+    "state": "Uttarakhand",
+    "address": [
+      "Gola Bairrage Road,",
+      "Near Railway Station, (North Side)",
+      "Kathgodam",
+      "Nainital",
+      "Uttarakhand",
+      "263126"
+    ]
+  },
+  "briefDescription": "PAHAL is an voluntary Institution was established in 1988, with the object of Social Welfare, Environment Protection & Rural Development. It is worth mentioning from the very inception, that, the society has paid special attention towards income generation, and livelihood support activities, PAHAL has initiated community based micro finance for promoting micro enterprise and livelihood activities in Uttarakhand in 1994 & till now formed more than 700 Self Help Groups.(Highest in Uttarakhand) we have provided more than 10 crore liquidity to community and supported more than 5000 micro enterprises in our area. We are also engaged in Health Education services to the society and environment conservation. Pahal is accredited member of credibility alliance and Partner and associated with many social net work like Sa-dhan, Micro credit campaign USA and Planet Finance France.",
+  "yearOfEstablishment": "1988",
+  "regiseredAddrress": {
+    "state": "Uttarakhand",
+    "address": [
+      "Village Sultan Nagri Khera",
+      "PO Kathgodam",
+      "Kathgadam",
+      "Nainital",
+      "Uttarakhand",
+      "263126"
+    ]
+  }
+}

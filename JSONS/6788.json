@@ -1,0 +1,41 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6788",
+  "name": "BHOJPUR MAHILA KALA KENDRA",
+  "primaryEmail": "bhojpurmahila@gmail.com",
+  "website": "http://www.bhojpurmahila.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "917903100990",
+    "917903737181"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "A-403, Ranjan Palace",
+      "Magistrate Colony, Ashiana",
+      "Patna",
+      "Bihar",
+      "800014"
+    ]
+  },
+  "briefDescription": "BMKK has been functioning since 1993. It got registered as a non-profit voluntary organization under the Society Registration Act in 2000 and under the Foreign Contribution (Regulation) Act in 2002also with Income tax 80G. It is managed by a group of women’s Ms. Anita gupta Secretary founder of the Organization with a vision to organize, educate and empower poor to promote development as a liberating force and justice, economic growth and self-reliance.",
+  "yearOfEstablishment": "1993",
+  "regiseredAddrress": {
+    "state": "Bihar",
+    "address": [
+      "Bazari Sha Ka Mandir",
+      "Abar Pool Par",
+      "Ara",
+      "Bhojpur",
+      "Bihar",
+      "802301"
+    ]
+  }
+}

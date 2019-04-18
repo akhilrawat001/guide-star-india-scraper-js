@@ -1,0 +1,49 @@
+{
+  "contacts": [
+    {
+      "name": "Akhilesh Maindwal",
+      "email": "aakashmaindwalfoundation@gmail.com",
+      "designation": "Founder Member",
+      "mobile": [
+        "91-120-3229585",
+        "91-9871745011"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=995",
+  "name": "Aakash Maindwal Foundation",
+  "primaryEmail": "aakashmaindwalfoundation@yahoo.com",
+  "website": "www.amfindia.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "911204377527",
+    "919953236357",
+    "919871745011"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "107, FIRST FLOOR",
+      "BLOCK- MILANO,MAHAGUN MOSAIC PHASE - II, SECTOR - 4, VAISHALI",
+      "GHAZIABAD",
+      "Ghaziabad",
+      "Uttar Pradesh",
+      "201010"
+    ]
+  },
+  "briefDescription": "Providing Secondary and Sr. Secondary Level Education to Underpriviledged Girls from \"National Institute of Open Schooling\". A largest open schooling system in the world.Also Providing Computer and Enlish Speaking Teaching to these girl childrens. There are altogether 101 to 103 such girls.",
+  "yearOfEstablishment": "2009",
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "HOUSE NO: 6016,",
+      "C-6, VASANT KUNJ,",
+      "NEW DELHI",
+      "South Delhi",
+      "Delhi",
+      "110070"
+    ]
+  }
+}

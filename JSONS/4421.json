@@ -1,0 +1,43 @@
+{
+  "contacts": [
+    {
+      "name": "Ratna Singh",
+      "email": "cbedce@gmail.com",
+      "designation": "Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4421",
+  "name": "Center for Business and Entrepreneurial Development",
+  "primaryEmail": "cbedce@gmail.com",
+  "website": "www.cbedce.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "911352761476",
+    "911352761476"
+  ],
+  "mainAddrress": {
+    "state": "Uttarakhand",
+    "address": [
+      "195/1 Vasant Vihar",
+      "P.O. New Forest",
+      "Dehradun",
+      "Uttarakhand",
+      "248006"
+    ]
+  },
+  "briefDescription": "Center for Business and Entrepreneurial Development (CBED) was registered under the Societies Registration Act, 1860 on December 28, 2005 with the main objective to promote and strengthen the self-reliant cooperatives and community based organizations for various development initiatives, sustainable agriculture and environment friendly livelihood activities for economic development.Our MissionTo ensure livelihood security on sustainable basis with main focus on rural based eco-friendly activities.Objectives1.\tTo develop sustainable and replicable, community based eco-friendly models for diversified livelihood  Enterprises2.\tTo provide business oriented livelihood opportunities through community based  Bio-physical and socio-economic management of resources and Production Systems.3.\tTo promote and strengthen producer groups and self-reliant cooperatives for market interventions through knowledge and skill development of the community. 4.\tTo motivate youth for self- employment with special focus on  rural enterprise development.Areas of Work in Livelihood Development•\tSustainable Agriculture  and  Allied activities•\tBio-resource management and Improved Profitability•\tValue Addition, Branding and Market  Interventions•\tRural Entrepreneurial Development",
+  "yearOfEstablishment": "2005",
+  "regiseredAddrress": {
+    "state": "Uttarakhand",
+    "address": [
+      "1489, Indira Nagar",
+      "P.O. New Forest",
+      "Dehradun",
+      "Uttarakhand",
+      "248006"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Mr.Baharul Islam Majumder",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7583",
+  "name": "MANSUR ALI FOUNDATION (unfolding Human Capabilities and Rebuilding Societies)",
+  "primaryEmail": "mansuralifoundation@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919436502971"
+  ],
+  "mainAddrress": {
+    "state": "Tripura",
+    "address": [
+      "Type-V /Qr No-9,",
+      "KUNJABAN TOWNSHIP COMPLEX,",
+      "Agartala",
+      "West Tripura",
+      "Tripura",
+      "799005"
+    ]
+  }
+}

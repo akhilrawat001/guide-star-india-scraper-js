@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "Sudha Subramanian",
+      "email": "pathwayprasad@gmail.com",
+      "designation": "Director - Technical",
+      "mobile": [
+        "91-44-24483949",
+        "91-9840029352"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=246",
+  "name": "Dr Dathu Rao Memorial Charitable Trust",
+  "primaryEmail": "pathwayprasad@gmail.com",
+  "website": "www.pathway.org.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "914424483949",
+    "914424488366",
+    "919840029352",
+    "914424488366"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "E-76/1, 12th West Street",
+      "Kamaraj Nagar, Thiruvanniyur",
+      "Chennai",
+      "Tamil Nadu",
+      "600041"
+    ]
+  }
+}

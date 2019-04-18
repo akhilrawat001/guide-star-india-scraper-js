@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "Manawar Ahmad",
+      "email": "manawar_amu@yahoo.co.in",
+      "designation": "Secretary",
+      "mobile": [
+        "91-8791204154"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1105",
+  "name": "Smile Rehabilitation And Children Welfare Samiti",
+  "primaryEmail": "aligarh_assessment@yahoo.co.in",
+  "website": "www.smilesamiti.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "915712709634",
+    "918791204154"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "4/1341 IInd Pulia  Near Azeem Estate",
+      "Sir Syed Nagar  Aligarh",
+      "Aligarh",
+      "Uttar Pradesh",
+      "202001"
+    ]
+  }
+}

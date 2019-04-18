@@ -1,0 +1,34 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8816",
+  "name": "Jan Swasthya Sahyog",
+  "primaryEmail": "janswasthya@gmail.com",
+  "website": "www.jssbilaspur.org",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "917752244997"
+  ],
+  "mainAddrress": {
+    "state": "Chhattisgarh",
+    "address": [
+      "Vill and PO: Ganiyari",
+      "Tehsil: Takhatpur",
+      "Bilaspur",
+      "Chhattisgarh",
+      "495112"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "S 295",
+      "Greater Kailash Part II",
+      "Delhi",
+      "New Delhi",
+      "110048"
+    ]
+  }
+}

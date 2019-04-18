@@ -1,0 +1,43 @@
+{
+  "contacts": [
+    {
+      "name": "Santosh Damodar Mhaske",
+      "email": "",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10932",
+  "name": "Rangsharda Bahuuddeshiy Sewabhavi Sanstha",
+  "primaryEmail": "rangsharda2014@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919423344273"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Sawargaon Mhaske Po.Hira Kabali, Ta. Zafarabad,",
+      "Near Mahadev Temple",
+      "Sawargaon",
+      "Jalna",
+      "Maharashtra",
+      "431206"
+    ]
+  },
+  "briefDescription": "संस्थे ने आतापर्यंत 2000 पेक्षा जास्त महिला,पुरुष,तरुण,प्रशिक्षित केले आहेत.मोफतशेती चे उत्पन्न दुप्पट करण्यासाठी शेतकरी उत्पा दक कंपनी उभारली आहे.",
+  "yearOfEstablishment": "2012",
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Ward No 2",
+      "Near Mahadev Mandir",
+      "Sawargaon",
+      "Jalna",
+      "Maharashtra",
+      "431208"
+    ]
+  }
+}

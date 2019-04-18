@@ -1,0 +1,35 @@
+{
+  "contacts": [
+    {
+      "name": "Sudhakar Mahandule",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6175",
+  "name": "RURAL DEVELOPMENT AND RESEARCH CENTER",
+  "primaryEmail": "rdrcparner@gmail.com",
+  "website": "www.rdrc.in",
+  "organisationType": [
+    "Direct Service",
+    "Grant-making",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919423789063"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Shivpushpa",
+      "Navi Peth",
+      "Parner",
+      "Ahmednagar",
+      "Maharashtra",
+      "414302"
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "contacts": [
+    {
+      "name": "Sushama Joshi",
+      "email": "caspheadoffice@gmail.com",
+      "designation": "Dy. Executive Director",
+      "mobile": [
+        "91-20-25862843"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=343",
+  "name": "Community Aid and Sponsorship Programme",
+  "primaryEmail": "caspheadoffice@gmail.com",
+  "website": "http://www.caspindia.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "912025862844",
+    "912025862836",
+    "912025862844"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "CASP Bhavan, S.No. 132/2",
+      "Plot No.3, Pashan Baner Link Road, Pashan",
+      "Pune",
+      "Maharashtra",
+      "411021"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Maharashtra"
+    ]
+  }
+}

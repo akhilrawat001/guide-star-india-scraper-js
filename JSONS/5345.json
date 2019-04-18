@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "SUSAN THOMAS",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "26580530"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5345",
+  "name": "LOK SWASTHYA SEWA TRUST",
+  "primaryEmail": "health@sewass.org",
+  "website": "http://www.lokswasthya.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network"
+  ],
+  "telephone": [
+    "917926580530",
+    "917926580530"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "THIRD FLOOR, CHANDA NIWAS",
+      "OPP. KARNAVATI HOSPITAL, ELLISBRIDGE",
+      "AHMEDABAD",
+      "Ahmedabad",
+      "Gujarat",
+      "380006"
+    ]
+  }
+}

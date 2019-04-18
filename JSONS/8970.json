@@ -1,0 +1,46 @@
+{
+  "contacts": [
+    {
+      "name": "Tamijul Haque",
+      "email": "tamijulhaque@gmail.com",
+      "designation": "Secretary",
+      "mobile": [
+        "91-9647752032"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8970",
+  "name": "Limra Social Welfare Society",
+  "primaryEmail": "limra068@gmail.com",
+  "website": "www.limrasociety.org",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919647752032",
+    "+919733330016"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "AT-AZAD NAGAR CHOPRA, P.O.+P.S.-Chopra,",
+      "Chopra",
+      "North Dinajpur",
+      "West Bengal",
+      "733207"
+    ]
+  },
+  "briefDescription": "Limra Social Welfare Society is located in Chopra, West Bengal.",
+  "yearOfEstablishment": "2013",
+  "regiseredAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "At:- Vill-Kaliganj, P.O.- Khunia, P.S.-Chopra,",
+      "Chopra",
+      "North Dinajpur",
+      "West Bengal",
+      "733207"
+    ]
+  }
+}

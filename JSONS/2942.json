@@ -1,0 +1,27 @@
+{
+  "contacts": [
+    {
+      "name": "Ram T Jadhav",
+      "email": "ramjadhav_2008@yahoo.in",
+      "designation": "Chairman",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2942",
+  "name": "Pragat Art Foundation",
+  "primaryEmail": "ramjadhav_2008@yahoo.in",
+  "telephone": [
+    "912228943647",
+    "912228943647"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "9, Sangram C H S Ltd.,",
+      "Eksar Road, Thakur pakhadi. Borivili(West),",
+      "Mumbai",
+      "Maharashtra",
+      "400091"
+    ]
+  }
+}

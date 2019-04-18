@@ -1,0 +1,47 @@
+{
+  "contacts": [
+    {
+      "name": "Sonali Sinha",
+      "email": "sonali.sinha@dignityfoundation.com",
+      "designation": "Chief Operating Officer",
+      "mobile": [
+        "91-22-61381100"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=272",
+  "name": "Dignity Foundation",
+  "primaryEmail": "responsedignity@gmail.com",
+  "website": "www.dignityfoundation.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "912261381100",
+    "912261381111"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "B-206, 2nd Floor,",
+      "Byculla Service Industries Premises Sussex Road, Byculla (E)",
+      "Mumbai",
+      "Maharashtra",
+      "400027"
+    ]
+  },
+  "briefDescription": "Dignity Foundation is a not-for-profit organization that has been working in the field of Elder Care for over 18 years. Dignity offers the 50+ an enriching set of opportunities to lead a more dignified, secure, fun-filled and fulfilling life. Dignity provides social support services, knowledge, life enrichment, shelter and advocacy for senior citizens. It runs a number of programs like: - Helpline for senior citizens - to address elder abuse and other distress situations - Ration Service for BOP senior citizens - monthly basket of basic provisions for the very poor senior citizens - Dementia Day Care Centre - to provide therapies for persons with Dementia and relief to their caregivers - Senior Citizens ID Card - Govt. issued ID Cards to help avail various benefits - Counselling Services - for various legal, financial and other matters - Companionship - to mitigate loneliness for senior citizens who cannot step out of their homes - Life Enrichment Centres - a platform for regular social interaction and structured activities - Dignity on Wheels - an outreach programme for reaching out to poor senior citizens Dignity has been publishing a magazine specifically for senior citizens, Dignity Dialogue, for over 17 years. This monthly magazine provides inspiration, motivation and knowledge to senior citizens. Through the Enrichments Centres, Dignity provides an opportunity to senior citizens to engage in structured activities like yoga, tai ichi, bridge, computer classes, etc. and interact with peers on a daily basis.",
+  "yearOfEstablishment": "1995",
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "BMC School Bldg, Topiwala Lane",
+      "Opp. Lamington Road Police Station, Grant Road (East)",
+      "Mumbai",
+      "Maharashtra",
+      "400007"
+    ]
+  }
+}

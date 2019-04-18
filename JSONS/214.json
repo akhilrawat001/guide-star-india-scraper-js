@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "Krithivasan",
+      "email": "giftafuture@gmail.com",
+      "designation": "Managing Trustee",
+      "mobile": [
+        "91-44-24981967",
+        "91-9444231243"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=214",
+  "name": "Altius Foundation",
+  "primaryEmail": "giftafuture@gmail.com",
+  "website": "www.giftafuture.org",
+  "organisationType": [
+    "Intermediary",
+    "Support"
+  ],
+  "telephone": [
+    "914424981967",
+    "919444231243",
+    "914424660562"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "No.5/5, Shreshta Shangrila Apartments",
+      "Urur Olcott Road, 5th Avenue, Besant Nagar",
+      "Chennai",
+      "Tamil Nadu",
+      "600090"
+    ]
+  }
+}

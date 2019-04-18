@@ -1,0 +1,27 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7930",
+  "name": "SNEHA DEEP TRUST FOR THE DISABLED",
+  "primaryEmail": "paulmuddha@snehadeep.org",
+  "website": "www.snehadeep.org",
+  "organisationType": [
+    "Direct Service",
+    "Intermediary",
+    "Support"
+  ],
+  "telephone": [
+    "919449021997",
+    "8025801069"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "No 36, Charles Campbell Road",
+      "Cox Town",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560005"
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "name": "Usha Choudhary",
+      "email": "vikalporg@gmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5678",
+  "name": "Vikalp Sansthan",
+  "primaryEmail": "vikalporg@gmail.com",
+  "website": "www.vikalporg.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919414146408"
+  ],
+  "mainAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "80, Vinayak Nagar,",
+      "Ramgiri, Badgoan,",
+      "Udaipur",
+      "Rajasthan",
+      "313001"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "Not provided",
+      "Udaipur",
+      "Rajasthan",
+      "313001"
+    ]
+  }
+}

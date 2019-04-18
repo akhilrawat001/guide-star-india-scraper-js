@@ -1,0 +1,34 @@
+{
+  "contacts": [
+    {
+      "name": "Mr.Manohar",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8089",
+  "name": "THE SAMARITANS, BOMBAY",
+  "primaryEmail": "samaritans.helpline@gmail.com",
+  "website": "http://samaritansbombay.com/",
+  "organisationType": [
+    "Intermediary",
+    "Support"
+  ],
+  "telephone": [
+    "912264640822",
+    "912264640822"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "402 Jasmine Apartment",
+      "Dadasaheb Phalke Road, Dadar East",
+      "Mumbai",
+      "Maharashtra",
+      "400014"
+    ]
+  },
+  "briefDescription": "The Samaritans Bombay is a helpline working towards providing emotional support to those who are stressed, depressed, despairing or even suicidal. We maintain complete anonymity and confidentiality while providing an empathetic listening ear to our callers.",
+  "yearOfEstablishment": "1961"
+}

@@ -1,0 +1,41 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7299",
+  "name": "WELDON TRUST",
+  "primaryEmail": "weldontrust@gmail.com",
+  "website": "http://www.weldontrust.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919791717331",
+    "914146257331",
+    "919865769331"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "No.195/B,Gowtham Nagar",
+      "Near Srinivasa Mahal",
+      "Salamedu",
+      "Viluppuram",
+      "Tamil Nadu",
+      "605401"
+    ]
+  },
+  "briefDescription": "WELDON TRUST LOCATED IN No.195/B,Gowtham Nagar,Near Srinivasa Mahal,SALAMEDU,Villupuram, TAMIL NADU.Pin Code : 605401",
+  "yearOfEstablishment": "2009",
+  "regiseredAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "No,2/47,",
+      "South Street (Main Road),",
+      "Villupuram",
+      "Viluppuram",
+      "Tamil Nadu",
+      "605103"
+    ]
+  }
+}

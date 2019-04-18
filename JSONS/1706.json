@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "M.P .Kanapuran",
+      "email": "",
+      "designation": "Project Co-ordinator",
+      "mobile": [
+        "91-432-2221717"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1706",
+  "name": "Yathra Trust (Youth Activities,Trainings, Humanity and Rural Activities Trust)",
+  "primaryEmail": "yathratrust@yahoo.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "914322221717",
+    "914322221717"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "No.3904",
+      "South 2nd Street,",
+      "Pudukkottai",
+      "Tamil Nadu",
+      "622001"
+    ]
+  }
+}

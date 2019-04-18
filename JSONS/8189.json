@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Muhammad Hamid Raza",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8189",
+  "name": "BARKAATI EDUCATIONAL TRUST",
+  "primaryEmail": "hamid.barkati@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919289536100"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "Barkaati Academy",
+      "Muhalla Quraishiyan Sherpur Kalan",
+      "P S Puranpur",
+      "Pilibhit",
+      "Uttar Pradesh",
+      "262122"
+    ]
+  }
+}

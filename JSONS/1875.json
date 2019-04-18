@@ -1,0 +1,28 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1875",
+  "name": "Global Education and Charitable Trust",
+  "primaryEmail": "globalsevatrust@gmail.com",
+  "website": "http://globalsevatrust.blogspot.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919327555352"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "142 KRISHNA COMPLEX NEAR NEW BUS STATION",
+      "JASDAN",
+      "Rajkot",
+      "Gujarat",
+      "360050"
+    ]
+  }
+}

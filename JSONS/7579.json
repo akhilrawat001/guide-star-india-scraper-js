@@ -1,0 +1,24 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7579",
+  "name": "MAULI BAHHUUDESHIYA SEWABHAVI SANSTHA",
+  "primaryEmail": "dishaskill123@gmail.com",
+  "website": "www.dishaorg.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "917744051162"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "H.No.1-1-3626 Joshaba Nagar",
+      "Palwan Chowk ,Dhanora Road",
+      "Beed",
+      "Maharashtra",
+      "431122"
+    ]
+  }
+}

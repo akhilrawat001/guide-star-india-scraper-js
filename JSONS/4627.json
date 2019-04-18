@@ -1,0 +1,26 @@
+{
+  "contacts": [
+    {
+      "name": "Dr J P Verma",
+      "email": "pariwarkalyanvoilenteyar@yahoo.in",
+      "designation": "Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4627",
+  "name": "Pariwar Kalyan Voilentiyar Samiti",
+  "primaryEmail": "pariwarkalyanvoilenteyar@yahoo.in",
+  "telephone": [
+    "917512577315",
+    "919425716406"
+  ],
+  "mainAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "Near Pts Tighra",
+      "Gwalior",
+      "Madhya Pradesh",
+      "474001"
+    ]
+  }
+}

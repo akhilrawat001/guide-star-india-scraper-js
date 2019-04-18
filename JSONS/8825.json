@@ -1,0 +1,43 @@
+{
+  "contacts": [
+    {
+      "name": "Vijayaraghavan",
+      "email": "",
+      "designation": "Vice Chairman",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8825",
+  "name": "CORNELL- SATHGURU FOUNDATION FOR DEVELOPMENT",
+  "primaryEmail": "rajeswarim@cornellsathgurufoundation.org",
+  "website": "http://www.cornellsathgurufoundation.org/",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919052222599"
+  ],
+  "mainAddrress": {
+    "state": "Telangana",
+    "address": [
+      "Plot 54, Sagar Society, Road No 2, Banjara Hills,",
+      "Cornell Sathguru Foundation for Development",
+      "Hyderabad",
+      "Telangana",
+      "500034"
+    ]
+  },
+  "briefDescription": "CSFD is a not for profit entity established in the year 2006 to foster social development in India with focus on education, agriculture development, rural entrepreneurship and women empowerment. Cornell University is a partner institution for the Foundation to advance these initiatives in India. So far CSFD has contributed to agriculture sector especially by nurturing over 500 skilled human resource by delivering the International Agriculture and Rural Development program (IARD), Master of Professional Studies (MPS) a dual degree program & support for doctoral program in agricultural sciences. These alumni are currently instrumental in generating new technologies and disseminating to the farming community in India.",
+  "yearOfEstablishment": "2005",
+  "regiseredAddrress": {
+    "state": "Telangana",
+    "address": [
+      "Plot 54, Sagar Society, Road No 2, Banjara Hills",
+      "hyderabad",
+      "Hyderabad",
+      "Telangana",
+      "500034"
+    ]
+  }
+}

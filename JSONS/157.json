@@ -1,0 +1,40 @@
+{
+  "contacts": [
+    {
+      "name": "Shahela Sajanlal",
+      "email": "",
+      "designation": "Business Development Associate",
+      "mobile": []
+    },
+    {
+      "name": "Shahela Sajanlal",
+      "email": "",
+      "designation": "Business Development Associate",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=157",
+  "name": "Acumen Trust",
+  "primaryEmail": "ssajanlal@acumenfund.org",
+  "website": "www.acumenfund.org",
+  "organisationType": [
+    "Intermediary",
+    "Support"
+  ],
+  "telephone": [
+    "914066772734",
+    "919848518017",
+    "914066772731"
+  ],
+  "mainAddrress": {
+    "state": "Telangana",
+    "address": [
+      "Unit G4, Le Benaka",
+      "6-3-248/F, Road No I",
+      "Banjara Hills",
+      "Hyderabad",
+      "Telangana",
+      "500034"
+    ]
+  }
+}

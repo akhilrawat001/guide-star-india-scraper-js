@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "M Stella",
+      "email": "legiomariea51@yahoo.in",
+      "designation": "Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3229",
+  "name": "Legio Mariae Educational and Welfare Charitable Trust",
+  "primaryEmail": "legiomariea51@yahoo.in",
+  "telephone": [
+    "914543264223",
+    "919788151351"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "2/882",
+      "Kannimar Kovil Street",
+      "Gandhi Nagar",
+      "Vellore",
+      "Tamil Nadu",
+      "624202"
+    ]
+  }
+}

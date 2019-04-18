@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Tamil Selvan R",
+      "email": "helphands2007@gmail.com",
+      "designation": "Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2938",
+  "name": "Puducherry Helping Hands Foundation",
+  "primaryEmail": "helphands2007@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "914132660276",
+    "914132660276"
+  ],
+  "mainAddrress": {
+    "state": "Puducherry",
+    "address": [
+      "no 5, janci rani nagar",
+      "villianur manaveli arumbarthapuram",
+      "Puducherry",
+      "605001"
+    ]
+  }
+}

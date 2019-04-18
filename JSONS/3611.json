@@ -1,0 +1,38 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3611",
+  "name": "Rural Development Trust",
+  "primaryEmail": "sdutta@rdt.co.in",
+  "website": "http://www.rdtfvf.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919849548910"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Om Sai Ganga, B2, Flat 101/102, Opp Jeevan Vikas Hospital",
+      "Off Sahar Road, Andheri East",
+      "Mumbai",
+      "Maharashtra",
+      "400069"
+    ]
+  },
+  "briefDescription": "RDT was started by Vicente and Anne Ferrer in 1969 in Anantapur, Andhra Pradesh. RDT works in one of the most drought prone regions in India and has till date worked in an integrated development model with 30,00,000 people in over more than 3000 villages with all sections of society but primarily for the up-liftment of dalits, SC’s and ST’s, women and people with disabilities. Supplementary schools, scholarship programs for bright students, inclusive schools for kids with disability, community based rehabilitation centers, constructing low cost housing for marginalized section of the society, assisting farmers in land development, irrigation, women empowerment, income generation, cultural centers, sports academies are some of our programs.",
+  "yearOfEstablishment": "1982",
+  "regiseredAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "Rural Development Trust",
+      "Bangalore Highway",
+      "Anantapur",
+      "Andhra Pradesh",
+      "515004"
+    ]
+  }
+}

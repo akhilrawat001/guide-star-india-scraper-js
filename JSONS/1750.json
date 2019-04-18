@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Gaikwad Sandhya Kamalakar",
+      "email": "sewamngo@gmail.com",
+      "designation": "Chairman",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1750",
+  "name": "Social Educational Welfare Association for Multipurpose (SEWAM)",
+  "primaryEmail": "sewamngo@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919767548372"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "A/P.-Sonaj",
+      "Malegoan",
+      "Nashik",
+      "Maharashtra",
+      "423208"
+    ]
+  }
+}

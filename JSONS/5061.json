@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Rev K.Solomonraj",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5061",
+  "name": "PEACE FOR ALL NATIONS",
+  "primaryEmail": "peacek25@yahoo.com",
+  "website": "....",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919441681406"
+  ],
+  "mainAddrress": {
+    "state": "Telangana",
+    "address": [
+      "2-4 Post Mdl Nallabelly dist Warangal 506349",
+      "ZPSS SCHOOL OPP",
+      "NALLABELLY WARANGAL",
+      "Warangal (Urban)",
+      "Telangana",
+      "506349"
+    ]
+  }
+}

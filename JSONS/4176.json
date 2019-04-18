@@ -1,0 +1,32 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4176",
+  "name": "Books for All Trust",
+  "primaryEmail": "booksforallinfo@gmail.com",
+  "website": "http://www.booksforall.in",
+  "telephone": [
+    "911204546127",
+    "911204546127"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "502,EH4",
+      ",Eldeco Utopia, Sec 93A,",
+      "Noida",
+      "Gautam Buddha Nagar",
+      "Uttar Pradesh",
+      "201304"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "Flat No-74",
+      "C-Block, Sarita Vihar",
+      "New Delhi",
+      "Delhi",
+      "110076"
+    ]
+  }
+}

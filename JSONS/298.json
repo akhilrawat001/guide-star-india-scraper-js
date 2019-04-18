@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "name": "Parul Sheth",
+      "email": "",
+      "designation": "Executive Director",
+      "mobile": []
+    },
+    {
+      "name": "Parul Sheth",
+      "email": "",
+      "designation": "Executive Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=298",
+  "name": "Shaishav Amdavad",
+  "primaryEmail": "falgun@shaishavchildrights.org",
+  "website": "http://www.shaishavchildrights.org",
+  "organisationType": [
+    "Direct Service",
+    "Grant-making",
+    "Network"
+  ],
+  "telephone": [
+    "912782201966",
+    "919825209679"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "Plot No. 601/B, Shanti Sadan",
+      "Sir Pattani Road, Opp.Shiv Shakti Hall, Crescent",
+      "Bhavnagar",
+      "Gujarat",
+      "364001"
+    ]
+  }
+}

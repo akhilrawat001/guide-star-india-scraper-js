@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "DHARM BIR SINGH",
+      "email": "janjagariti@yahoo.co.in",
+      "designation": "CHAIRMAN",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6055",
+  "name": "JANA JAGARITI EDUCATIONAL SOCIETY",
+  "primaryEmail": "janjagariti@yahoo.co.in",
+  "website": "www.jjes.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919810154849"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "M-186, Mangol puri",
+      "Delhi",
+      "North West Delhi",
+      "110083"
+    ]
+  }
+}

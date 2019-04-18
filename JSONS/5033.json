@@ -1,0 +1,37 @@
+{
+  "contacts": [
+    {
+      "name": "MOHAMMED SIDDIQUE",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5033",
+  "name": "THE CRESCENT FOUNDATION",
+  "primaryEmail": "nnd.tcf@gmail.com",
+  "website": "www.thecrescentfoundation.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "INDIA",
+    "9823954885",
+    "912462240085"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "1-4-48, MAULANA AZAD NAGAR",
+      "BEHIND JANTA MARKET",
+      "NANDED",
+      "Nanded",
+      "Maharashtra",
+      "431602"
+    ]
+  },
+  "briefDescription": "We, The Crescent Foundation, are an award-winning NGO working for the upliftment of social standards in the following five domains Education, Health, Social, Aesthetic, Athletic, We have successfully carried out some very innovative projects that have been strongly acknowledged by the administrative authorities (plz see on our facebook account http://www.facebook.com/TheCrescentFoundation)",
+  "yearOfEstablishment": "2008"
+}

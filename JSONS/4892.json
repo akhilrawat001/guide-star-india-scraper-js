@@ -1,0 +1,37 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4892",
+  "name": "MAYA FOUNDATION",
+  "primaryEmail": "mayacharity@gmail.com",
+  "website": "www.mayafoundation.net",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service"
+  ],
+  "telephone": [
+    "919830247250",
+    "919007095806"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Arvind Tower",
+      "242,1B APC Road Kolkata 4",
+      "Kolkata",
+      "West Bengal",
+      "700004"
+    ]
+  },
+  "briefDescription": "MAYA FOUNDATION is a Non-Governmental organization committed to work for Aged/Elderly, Children, Disabled, Disaster Management, Dalit Upliftment, Drinking    Water, Education & Literacy and for the betterment of SC/ST/OBCs and other minority communities including women, children both in urban and rural situation.",
+  "yearOfEstablishment": "2002",
+  "regiseredAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Arvind Tower",
+      "15B, Adhar Chandra Das Lane, Telengabagan,",
+      "Kolkata",
+      "West Bengal",
+      "700067"
+    ]
+  }
+}

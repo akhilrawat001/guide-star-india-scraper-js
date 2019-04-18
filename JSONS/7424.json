@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "Mr.Om Satyam Trivedi",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7424",
+  "name": "SAMANVAY TIRTH",
+  "primaryEmail": "samanvay_tirth@yahoo.co.in",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "919473315351"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "Prabhavati Gram, Post-Raniganj",
+      "Gaya",
+      "Bihar",
+      "824110"
+    ]
+  }
+}

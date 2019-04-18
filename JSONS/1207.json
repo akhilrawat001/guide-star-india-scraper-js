@@ -1,0 +1,40 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1207",
+  "name": "Tribal and Rural Welfare Awareness Trust",
+  "primaryEmail": "truwatrust@hotmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "914290265304",
+    "914272264783"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "Room No.10, Karuppayya Complex No:192",
+      "Tiruchengode Main Road",
+      "Namakkal",
+      "Tamil Nadu",
+      "637001",
+      "AP_BankStat_1111.PDF"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "25/22,Upstairs,Near TNEB Office,Valavanthi Nadu,",
+      "Semmedu Post,Kolli Hills,",
+      "Semmedu",
+      "Namakkal",
+      "Tamil Nadu",
+      "637411",
+      "AP_BankStat_1111.PDF"
+    ]
+  }
+}

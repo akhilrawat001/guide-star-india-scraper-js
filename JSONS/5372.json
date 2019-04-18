@@ -1,0 +1,42 @@
+{
+  "contacts": [
+    {
+      "name": "Rakesh Singh",
+      "email": "",
+      "designation": "Co-Founder",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5372",
+  "name": "FREEDOM MISSION",
+  "primaryEmail": "freedommission@rediffmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Intermediary",
+    "Network"
+  ],
+  "telephone": [
+    "9304414342"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "at Kavita Apartment ( Copier World), Opposite HPO",
+      "Mahatma Gandhi Road",
+      "Bhagalpur",
+      "Bihar",
+      "812001"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Bihar",
+    "address": [
+      "Narayan Complex",
+      "Tilkamanjhi Chowk",
+      "Bhagalpur",
+      "Bihar",
+      "812001"
+    ]
+  }
+}

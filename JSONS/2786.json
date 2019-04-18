@@ -1,0 +1,24 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2786",
+  "name": "Aashray Trust",
+  "primaryEmail": "principal@aashray.com",
+  "website": "www.aashray.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "9102227751149",
+    "9102227751149"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Aashray special school, plot- 5, Sec. -7, Sanpada.",
+      "Navi Mumbai",
+      "Thane",
+      "Maharashtra",
+      "400705"
+    ]
+  }
+}

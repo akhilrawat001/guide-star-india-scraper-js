@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Jaya Mishra",
+      "email": "jaya.kss@gmail.com",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4843",
+  "name": "Kumaon Sewa Samiti",
+  "primaryEmail": "jaya.kss@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919411168213"
+  ],
+  "mainAddrress": {
+    "state": "Uttarakhand",
+    "address": [
+      "SIDACUL BY PASS",
+      "Near Sitar international hotel",
+      "Sitarganj",
+      "Udham Singh Nagar",
+      "Uttarakhand",
+      "262405"
+    ]
+  }
+}

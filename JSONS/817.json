@@ -1,0 +1,65 @@
+{
+  "contacts": [
+    {
+      "name": "Rina Soni",
+      "email": "Rina@oxfamindia.org",
+      "designation": "Director -Public Engagement",
+      "mobile": [
+        "91-11-46538000"
+      ]
+    },
+    {
+      "name": "Rina Soni",
+      "email": "Rina@oxfamindia.org",
+      "designation": "Director -Public Engagement",
+      "mobile": [
+        "91-11-46538000"
+      ]
+    },
+    {
+      "name": "Rina Soni",
+      "email": "Rina@oxfamindia.org",
+      "designation": "Director -Public Engagement",
+      "mobile": [
+        "91-11-46538000"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=817",
+  "name": "Oxfam India",
+  "primaryEmail": "Rina@oxfamindia.org",
+  "website": "www.oxfamindia.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Grant-making",
+    "Intermediary"
+  ],
+  "telephone": [
+    "911146538099",
+    "911146538000",
+    "911146538000"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "4th and 5th Floor, Shriram Bharatiya Kala Kendra 1, Copernicus Marg",
+      "New Delhi",
+      "Central Delhi",
+      "Delhi",
+      "110001"
+    ]
+  },
+  "briefDescription": "Oxfam India is a newly restructured Indian non-governmental organisation integrating the 60-year-old India operations of 6 separate International Oxfam affiliates working in the country.Oxfam India's vision is to create a more equal, just, and sustainable world by empowering the poor to demand their rights, engaging the non-poor to become active and supportive citizens, advocating for an effective and accountable state, and making markets work for poor people. The overarching vision of Oxfam India is \"right to life with dignity\".",
+  "yearOfEstablishment": "2008",
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "1 Community Center, 2nd Floor",
+      "Above Sujan Mohinder Hospital, New Friends Colony",
+      "New Delhi",
+      "Delhi",
+      "110025",
+      "AP_TelBill_189.PDF"
+    ]
+  }
+}

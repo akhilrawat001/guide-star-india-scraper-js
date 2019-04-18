@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Kumari Sunita Singh",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5664",
+  "name": "DISHA EK PRAYASH",
+  "primaryEmail": "dishaara1000@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "9430153153"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "MADHOPURAM DHOBHI GHAT ANAITH  ARA BIHAR",
+      "ARA",
+      "Bhojpur",
+      "Bihar",
+      "802301"
+    ]
+  }
+}

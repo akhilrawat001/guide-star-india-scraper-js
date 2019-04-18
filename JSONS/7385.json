@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Naiyer Tanwir",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7385",
+  "name": "Creation Welfare Society",
+  "primaryEmail": "creationwelfaresoct@rediffmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "918743022106"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "Creation Welfare SocietyVillage",
+      "RajapurPost: Dihuli Buzurg",
+      "Rajapur",
+      "Muzaffarpur",
+      "Bihar",
+      "843104"
+    ]
+  },
+  "briefDescription": "Creation Welfare Society located in Rajapur, Bihar. The organization has been engaged in women empowerment, livelihood promotion,conservation agriculture, capacity building, advocacy, health issues and action research activities since 2002 through SHG formation, vocational training, awareness, health, advocacy and entrepreneurship development.",
+  "yearOfEstablishment": "2002"
+}

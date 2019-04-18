@@ -1,0 +1,35 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5926",
+  "name": "World Wide Fund For Nature - India",
+  "primaryEmail": "mrinalwwf@gmail.com",
+  "website": "http://www.wwfindia.org",
+  "organisationType": [
+    "Advocacy & Campaigning"
+  ],
+  "telephone": [
+    "912224701361",
+    "911141504834"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Care of Godrej & Boyce Mfg. Co. Ltd.",
+      "Bombay Gas Lane, Palbaug",
+      "Mumbai",
+      "Maharashtra",
+      "400012"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "C/o. Godrej & Boyce Mfg. Co. Ltd.",
+      "Bombay Gas Lane, Palbaug",
+      "Mumbai",
+      "Maharashtra",
+      "400012",
+      "Bank of Maharashtra - Statement of Account.doc"
+    ]
+  }
+}

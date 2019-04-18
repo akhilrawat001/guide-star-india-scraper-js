@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Umasankar Mukherjee",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5354",
+  "name": "Agraduth Pallie Unnayan Samity",
+  "primaryEmail": "agradut_org@yahoo.co.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "913214257254",
+    "913214257254"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "PO/AT-Gaza",
+      "Udaynarayanpur",
+      "Howrah",
+      "West Bengal",
+      "711226"
+    ]
+  }
+}

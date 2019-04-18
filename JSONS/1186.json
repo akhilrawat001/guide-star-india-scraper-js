@@ -1,0 +1,38 @@
+{
+  "contacts": [
+    {
+      "name": "Gaikwad S. K.",
+      "email": "",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1186",
+  "name": "Swami Vivekanand Education Society",
+  "primaryEmail": "abhinavcolleagesangola@gmail.com",
+  "telephone": [
+    "912189222701"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Patil Complex Wadhegon Naka",
+      "Sangola",
+      "Solapur",
+      "Maharashtra",
+      "413302",
+      "AP_Other_1089.PDF"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "The Charity commission",
+      "Ambajogai Road",
+      "Latur",
+      "Maharashtra",
+      "413512",
+      "AP_Other_1089.PDF"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "contacts": [
+    {
+      "name": "Shri. R.S. Ubarhande",
+      "email": "ansatpute677@gmail.com",
+      "designation": "Vice President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4160",
+  "name": "Disha Bahuuddeshiya Sanstha",
+  "primaryEmail": "rajaramu16@gmail.com",
+  "telephone": [
+    "919422591341"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Sercular Road, Ekta Nagar,",
+      "Near Gajanan Maharaj Temple",
+      "Buldhana",
+      "Maharashtra",
+      "443001"
+    ]
+  }
+}

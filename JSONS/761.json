@@ -1,0 +1,38 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=761",
+  "name": "Centre for Internet and Society",
+  "primaryEmail": "radha@cis-india.org",
+  "website": "www.cis-india.org",
+  "organisationType": [
+    "Advocacy & Campaigning"
+  ],
+  "telephone": [
+    "918040926283",
+    "918025350955",
+    "918025350955",
+    "918040926283"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "194, 2nd C Cross",
+      "Domlur 2nd Stage",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560071"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "# 106, Vineyard Jasmine Appt",
+      "Bank Avenue, 1st Main Road, Babuspalya, Banaswadi,",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560043",
+      "AP_TelBill_675.PDF"
+    ]
+  }
+}

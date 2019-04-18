@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "SHIVAJIRAO PAWAR",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "9822245292"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6252",
+  "name": "ATHRARVE SAMAJIC VIKAS SANSTHA BARSHI",
+  "primaryEmail": "shivajiraopawar1978@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919822245292"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "MATHMA GANDHI SHOPPING CENTER ,",
+      "3 TH FLOWER,",
+      "BARSHI TAL-BARSHI DIST-SOLAPUR",
+      "Solapur",
+      "Maharashtra",
+      "413401"
+    ]
+  },
+  "briefDescription": "D",
+  "yearOfEstablishment": "2004"
+}

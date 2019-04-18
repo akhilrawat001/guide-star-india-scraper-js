@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "Dn Pathak",
+      "email": "jjss@india.com",
+      "designation": "Chairman",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2970",
+  "name": "Jeevan Jyoti Seva Sanstha",
+  "primaryEmail": "jjss@india.com",
+  "telephone": [
+    "911202955163",
+    "911202955163"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "621 Saraswati Vihar Ward No-32",
+      "Nagar Palika Parishad",
+      "Loni",
+      "Ghaziabad",
+      "Uttar Pradesh",
+      "201102"
+    ]
+  }
+}

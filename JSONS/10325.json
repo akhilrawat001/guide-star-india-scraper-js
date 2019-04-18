@@ -1,0 +1,49 @@
+{
+  "contacts": [
+    {
+      "name": "Prashant Bhekare",
+      "email": "",
+      "designation": "MD",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10325",
+  "name": "GLOBAL GRAPHOLOGISTS ASSOCIATION",
+  "primaryEmail": "graphologist.bhekare@gmail.com",
+  "website": "https://www.graphologists.org/",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "917666043123"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "15 Veena Apt SV Patel Road Borivali West Mandapeshwar PO",
+      "Opp Bhagwati Hospital",
+      "Mumbai",
+      "Mumbai Suburban",
+      "Maharashtra",
+      "400103"
+    ]
+  },
+  "briefDescription": "Global Graphologists Association (GGA) is a registered not-for-profit. The primary objective of GGA is to promote graphology and graphologists. Secondary objectives are research, publications, certifications and events; again to support the primary objective.",
+  "yearOfEstablishment": "2015",
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "15  2nd floor, Veena Apt SV Patel Road Borivali West Mandapeshwar PO",
+      "Opp Bhagwati Hospital",
+      "Mumbai",
+      "Mumbai Suburban",
+      "Maharashtra",
+      "400103"
+    ]
+  }
+}

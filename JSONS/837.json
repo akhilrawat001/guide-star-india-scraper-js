@@ -1,0 +1,58 @@
+{
+  "contacts": [
+    {
+      "name": "Mohan Sundaram",
+      "email": "mohan@humanrightsinitiative.org",
+      "designation": "Manager - Administration",
+      "mobile": [
+        "91-11-43180230"
+      ]
+    },
+    {
+      "name": "Mohan Sundaram",
+      "email": "mohan@humanrightsinitiative.org",
+      "designation": "Manager - Administration",
+      "mobile": [
+        "91-11-43180230"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=837",
+  "name": "Commonwealth Human Rights Initiative",
+  "primaryEmail": "info@humanrightsinitiative.org",
+  "website": "www.humanrightsinitiative.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "911143180225",
+    "911143180200",
+    "911143180225",
+    "911143180217"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "Third Floor, T 55 A Siddharta Chambers",
+      "Kalu Sarai",
+      "New Delhi",
+      "Delhi",
+      "110016"
+    ]
+  },
+  "briefDescription": "CHRI is an independent, non-partisan, international non-governmental organisation, mandated to work for the practical realisation of human rights of the people of the Commonwealth.",
+  "yearOfEstablishment": "1993",
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "Third Floor, T 55 A, Siddharth Chambers",
+      "Kalu Sarai",
+      "New Delhi",
+      "Delhi",
+      "110016"
+    ]
+  }
+}

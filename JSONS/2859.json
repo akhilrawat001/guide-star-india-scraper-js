@@ -1,0 +1,26 @@
+{
+  "contacts": [
+    {
+      "name": "Gobinda Chandra Samantasinghar",
+      "email": "ojkss_resinga@rediffmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2859",
+  "name": "Orissa Jankalyan Seva Sangh",
+  "primaryEmail": "ojkss_resinga@rediffmail.com",
+  "telephone": [
+    "919439807278"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "At Resinga,",
+      "P.O. Dandipur, Via P.S. Balganga",
+      "Puri",
+      "Odisha",
+      "752105"
+    ]
+  }
+}

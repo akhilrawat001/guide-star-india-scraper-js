@@ -1,0 +1,27 @@
+{
+  "contacts": [
+    {
+      "name": "Chhotulal Malakar",
+      "email": "",
+      "designation": "Coordinator",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=578",
+  "name": "Tilonia Shodh Evam Vikas Sansthan",
+  "primaryEmail": "Barefootnalu@gmail.com",
+  "telephone": [
+    "911463288305",
+    "919413042286",
+    "911463288206"
+  ],
+  "mainAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "V.P. Nalu, Tehsil Kishangarh",
+      "Ajmer",
+      "Rajasthan",
+      "305816"
+    ]
+  }
+}

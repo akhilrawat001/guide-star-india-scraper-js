@@ -1,0 +1,29 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1546",
+  "name": "Creative Education & Development Society",
+  "primaryEmail": "yogesh.kum11@gmail.com",
+  "telephone": [
+    "915742232076",
+    "915742232076"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "Kidwai Nagar",
+      "Etah",
+      "Uttar Pradesh",
+      "207001"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "House No. 155",
+      "Patyati Gate,",
+      "Etah",
+      "Uttar Pradesh",
+      "207001"
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "RENUKA MEHTA",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4884",
+  "name": "WELFARE ORGANISATION",
+  "primaryEmail": "welfareorganisation@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919999979289"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "BASTI VIKAS KENDRE, KALI BASTI, HASTSAL, UTTAM NAGAR, NEW DELHI-110059",
+      "TOWM",
+      "West Delhi",
+      "Delhi",
+      "110059"
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1954",
+  "name": "Jan Sewa Samiti",
+  "primaryEmail": "jansewa1@gmail.com",
+  "website": "http://jansewa.4t.com/",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919999844934"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "218D/16 Jayantipur",
+      "Sulem Sarai",
+      "Allahabad",
+      "Uttar Pradesh",
+      "211001"
+    ]
+  }
+}

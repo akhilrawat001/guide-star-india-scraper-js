@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Arup Kumar Mandal",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5511",
+  "name": "SOUTH GARIA GRAMIN WELFARE SOCIETY",
+  "primaryEmail": "sggws2005@gmail.com",
+  "website": "www.graminwelfare.wordpress.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919143062610"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Vill-Ghoshpur,P.O-Southgaria,P.S-Baruipur,Dist- South 24 Parganas,Pin-743613,West Bengal",
+      "36.M.G.Road,Kolkata-700009",
+      "Kolkata",
+      "South 24 Parganas",
+      "West Bengal",
+      "743613"
+    ]
+  }
+}

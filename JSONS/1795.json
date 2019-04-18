@@ -1,0 +1,49 @@
+{
+  "contacts": [
+    {
+      "name": "sujaya rai",
+      "email": "sujaya.rai@sujayafoundation.org",
+      "designation": "program director",
+      "mobile": []
+    },
+    {
+      "name": "sujaya rai",
+      "email": "sujaya.rai@sujayafoundation.org",
+      "designation": "program director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1795",
+  "name": "Sujaya Foundation",
+  "primaryEmail": "sujayafoundation@sujayafoundation.org",
+  "website": "www.sujayafoundation.org",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "912223826238",
+    "919324310455"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "2nd Floor",
+      "Adarsh Guest House, Above Adarsh Mithai Mandir, Nana Chowk, Grant Road (W),",
+      "Mumbai",
+      "Maharashtra",
+      "400007"
+    ]
+  },
+  "briefDescription": "Sujaya Foundation is a not for profit organisation aimed at bridging the linguistic and digital divide in modern India.  The Foundation works with Various sections of the underprivileged- primary and secondary school children in vernacular medium schools;youth hoping to secure jobs;mentally & physically challenged youth & women seeking a place in the sun.",
+  "yearOfEstablishment": "2002",
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "401, 4th Floor, Lotus House",
+      "New Marine lines",
+      "Mumbai",
+      "Maharashtra",
+      "400020"
+    ]
+  }
+}

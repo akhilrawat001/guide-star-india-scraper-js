@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "ASHOK KUMAR SINGH",
+      "email": "sevaksamaj94@gmail.com",
+      "designation": "SECRETARY",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4982",
+  "name": "SEVAK SAMAJ",
+  "primaryEmail": "sevaksamaj94@gmail.com",
+  "website": "UNDER CONSTRUCTION",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919313848585"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "DAYA KUTIR ,PLOT NO-107-109,RAJPUR KHURD EXTENSION C OLONY ,",
+      "DELHI",
+      "South Delhi",
+      "Delhi",
+      "110068"
+    ]
+  }
+}

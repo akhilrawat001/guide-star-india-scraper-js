@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "SHAIKH MOHAMMED AKHIL",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8388",
+  "name": "AAYAT EDUCATION AND SOCIAL WELFARE SOCIETY",
+  "primaryEmail": "aayat_esws@rediffmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919420730960"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "POST BOX NO.47",
+      "CHUN GALLI SARAFA LANE",
+      "BEED",
+      "Beed",
+      "Maharashtra",
+      "431122"
+    ]
+  }
+}

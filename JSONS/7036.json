@@ -1,0 +1,48 @@
+{
+  "contacts": [
+    {
+      "name": "Mr.KUMAR RANBIR",
+      "email": "kranbir@gmail.com",
+      "designation": "DIRECTOR",
+      "mobile": [
+        "91-9810555444"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7036",
+  "name": "AIDENT SOCIAL WELFARE ORGANISATION",
+  "primaryEmail": "aidentsworg@yahoo.com",
+  "website": "www.aident.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service"
+  ],
+  "telephone": [
+    "911127631191",
+    "919810555444"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "# 59, Bhalswa Village,",
+      "Near Laxmi Narayan Mandir,",
+      "Jahangirpuri",
+      "North East Delhi",
+      "Delhi",
+      "110033"
+    ]
+  },
+  "briefDescription": "AIDENT-Social Welfare Organisation (ASWO) is a not for profit, non- political, organization established by a group of people representing different social and professional streams.  This organization came into being with the idea of working towards the overall development of the marginalized section of the society in all spheres. The basic philosophy of ASWO is to use Education, Health and means of livelihood as the basic enablers to help the target population.Thematic issues/ priorities —•\tEducation•\tPublic Health•\tWomen & Child •\tLivelihood & Sustainable development.",
+  "yearOfEstablishment": "2000",
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "# 7247, B-10,",
+      "Vasant Kunj",
+      "New Delhi",
+      "South Delhi",
+      "Delhi",
+      "110070"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "contacts": [
+    {
+      "name": "Kavita Gupta",
+      "email": "winovercancer.net@gmail.com",
+      "designation": "COO",
+      "mobile": [
+        "91-9958984008"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10966",
+  "name": "Win Over Cancer",
+  "primaryEmail": "arun@winovercancer.net",
+  "website": "www.winovercancer.net",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Intermediary",
+    "Support"
+  ],
+  "telephone": [
+    "919958984008"
+  ],
+  "mainAddrress": {
+    "state": "Haryana",
+    "address": [
+      "C 57 Ashoka Enclave II Sector 37",
+      "Faridabad",
+      "Haryana",
+      "121003"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "1819/20 2nd Floor",
+      "Bhagirath Place Chandni Chowk",
+      "Delhi",
+      "Central Delhi",
+      "110006"
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Mehjabeen Zaki Khan",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7971",
+  "name": "KOKAN INTERNATIONAL",
+  "primaryEmail": "saadk@email.com",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "912512201971",
+    "912512201971"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Office No. 4, Arman Mazgaon Co-Op Hsg. Society, 262,",
+      "Barrister Nathpai Marg, Dockyard Road, Mazgaon,",
+      "Mumbai",
+      "Maharashtra",
+      "400010"
+    ]
+  }
+}

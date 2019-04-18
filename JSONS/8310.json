@@ -1,0 +1,41 @@
+{
+  "contacts": [
+    {
+      "name": "Narinder Singh",
+      "email": "etrdiindia2@gmail.com",
+      "designation": "Deputy Director",
+      "mobile": []
+    },
+    {
+      "name": "Narinder Singh",
+      "email": "etrdiindia2@gmail.com",
+      "designation": "Deputy Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8310",
+  "name": "Entrepreneurship Training and Rural Development  Initiatives Society",
+  "primaryEmail": "etrdiindia@yahoo.co.in",
+  "website": "www.etrdiindia.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919417249390"
+  ],
+  "mainAddrress": {
+    "state": "Punjab",
+    "address": [
+      "H.No. 982, 2nd Floor, Sector  79",
+      "Mohali",
+      "SAS Nagar (Mohali)",
+      "Punjab",
+      "140308"
+    ]
+  },
+  "briefDescription": "ETRDI is committed for the promotion of entrepreneurship development and enterprise management.",
+  "yearOfEstablishment": "2004"
+}

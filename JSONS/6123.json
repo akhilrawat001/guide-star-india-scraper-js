@@ -1,0 +1,37 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6123",
+  "name": "Centre for Rural Education and Development Action",
+  "primaryEmail": "mail2creda@gmail.com",
+  "website": "http://www.credaindia.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network"
+  ],
+  "telephone": [
+    "915442220285",
+    "919415206651"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "490-491, Awas Vikas Colony",
+      "Near Khushbu Child Hospital",
+      "Mirzapur",
+      "Uttar Pradesh",
+      "231001"
+    ]
+  },
+  "briefDescription": "Founded in 1982, CREDA works on the issue of child labour, bonded child labour, child education, community health, employment oriented training, formation of self-help groups, health education, care of elderly, studies and research on various aspects of problems of community, child labour, rural workers. The organisation is also active in organizing training, orientation, workshop and seminars. Nearly 72,000 child workers belonging to poor and marginalized communities have been benefited under various projects. The contribution of CREDA has been recognized nationally and internationally. CREDA has received five national awards for its work focusing on child labour, child right and child education.",
+  "yearOfEstablishment": "1982",
+  "regiseredAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "Sher Khan Lane",
+      "Mirzapur",
+      "Uttar Pradesh",
+      "231001"
+    ]
+  }
+}

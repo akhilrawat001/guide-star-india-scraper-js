@@ -1,0 +1,27 @@
+{
+  "contacts": [
+    {
+      "name": "Prakash Dole",
+      "email": "reachbidar@gmail.com",
+      "designation": "Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2886",
+  "name": "Rural Education and Child Health (REACH) Society",
+  "primaryEmail": "reachbidar@gmail.com",
+  "telephone": [
+    "919448715937"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "REACH SATISH DEENE NIVAS",
+      "H.NO.12-1-168 NEAR S.P.HOUSE.",
+      "SIDHARATH NAGAR",
+      "Bidar",
+      "Karnataka",
+      "585401"
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "contacts": [
+    {
+      "name": "Lalita Tripathy",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9305",
+  "name": "Nav Sreejan Siksha Avam Jan Sewa Samiti",
+  "primaryEmail": "navsreejanrgh@gmail.com",
+  "website": "www.navsreejan.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919826153205"
+  ],
+  "mainAddrress": {
+    "state": "Chhattisgarh",
+    "address": [
+      "Care of Bharat Tripathy",
+      "Bohidar Para, Panth Gali",
+      "Raigarh",
+      "Chhattisgarh",
+      "496001"
+    ]
+  },
+  "briefDescription": "Nav Sreejan Siksha Avam Jan Sewa Samiti is located in Raigarh, Chhattisgarh.Mainly worked in health,environment,nashamukti, education.",
+  "yearOfEstablishment": "2009",
+  "regiseredAddrress": {
+    "state": "Chhattisgarh",
+    "address": [
+      "Bharat Tripathy",
+      "Bohidar Para, Panth Gali",
+      "Raigarh",
+      "Chhattisgarh",
+      "496001"
+    ]
+  }
+}

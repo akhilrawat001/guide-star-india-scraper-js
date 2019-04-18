@@ -1,0 +1,38 @@
+{
+  "contacts": [
+    {
+      "name": "DR.RAHUL DESHMUKH",
+      "email": "rahulsahyog@gmail.com",
+      "designation": "PRESIDENT",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8104",
+  "name": "LOK KALYAN JAN SABHA",
+  "primaryEmail": "rahulsahyog@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919425921100"
+  ],
+  "mainAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "110,CHANKYAPURI,",
+      "J.K.ROAD",
+      "BHOPAL",
+      "Bhopal",
+      "Madhya Pradesh",
+      "462001"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "Shajapur",
+      "Madhya Pradesh",
+      "465333"
+    ]
+  }
+}

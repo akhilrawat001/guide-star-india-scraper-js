@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Shrirang Bijur",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8260",
+  "name": "Nirdhar Pratishtan",
+  "primaryEmail": "sn_bijur@rediffmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "917387625555"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Village Tokare, Near Kaner Phata",
+      "Vasai",
+      "Thane",
+      "Maharashtra",
+      "401303"
+    ]
+  }
+}

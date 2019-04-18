@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "Jayshree",
+      "email": "jayshreedd@gmail.com",
+      "designation": "Volunteer",
+      "mobile": [
+        "91-22-26183594"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5330",
+  "name": "Vivekananda Youth Forum",
+  "primaryEmail": "contactvyf@gmail.com",
+  "website": "http://www.vyfngo.com/",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "912226183594",
+    "919820440280"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "19-D Firdaus,",
+      "N.S.Road No. 4, J.V.P.D. Scheme, Juhu",
+      "Mumbai",
+      "Mumbai Suburban",
+      "Maharashtra",
+      "400056"
+    ]
+  },
+  "briefDescription": "Vivekananda Youth Forum is a non-profit,voluntary organization managed by young members who wish to make a difference to their own lives and to empower those less fortunate in areas of education, health, & creativity.Formed in 1987 by a group of young individuals, inspired to make a difference in society based on the character building ideas of Swami Vivekananda,VYF has worked with children from a variety of backgrounds.From imparting formal,non formal education to children in the slums of Juhu to interacting with street children in Mumbai to reaching out to the children of sex-workers in Kamathipura (the largest red-light district in Mumbai),to identifying children with special needs.",
+  "yearOfEstablishment": "1988"
+}

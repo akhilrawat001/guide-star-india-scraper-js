@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Kommu Kotesh",
+      "email": "alpharuraldevelopmentsociety@gmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4980",
+  "name": "Alpha Rural Development Society",
+  "primaryEmail": "alpharuraldevelopmentsociety@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919705355619"
+  ],
+  "mainAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "16-78",
+      "Arundathinagar",
+      "Tangutur",
+      "Prakasam",
+      "Andhra Pradesh",
+      "523274"
+    ]
+  }
+}

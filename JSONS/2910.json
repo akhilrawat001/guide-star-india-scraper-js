@@ -1,0 +1,27 @@
+{
+  "contacts": [
+    {
+      "name": "M Kamil",
+      "email": "",
+      "designation": "Chairman",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2910",
+  "name": "Knowledge and Resource Adaption Society",
+  "primaryEmail": "support.kara@hotmail.com",
+  "telephone": [
+    "911126917108",
+    "911126917108"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "F-16, Shaheen Bagh",
+      "Jamia Nagar",
+      "New Delhi",
+      "Delhi",
+      "110025"
+    ]
+  }
+}

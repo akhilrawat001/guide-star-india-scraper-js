@@ -1,0 +1,34 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1864",
+  "name": "Adarsh Samaj Nirman Samiti",
+  "primaryEmail": "asnsngo@gmail.com",
+  "website": "www.asnsngo.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "916122236789",
+    "918986185651"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "B-310",
+      "Lekhraj Parishar, Road No-3, East Patel Nagar",
+      "Patna",
+      "Bihar",
+      "800023"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Bihar",
+    "address": [
+      "At Chhinegawn",
+      "Po-Sinha, PS-Sinha",
+      "Bhojpur",
+      "Bihar",
+      "802316"
+    ]
+  }
+}

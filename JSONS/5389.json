@@ -1,0 +1,37 @@
+{
+  "contacts": [
+    {
+      "name": "Elango Rajarathinam",
+      "email": "elango.efef@gmail.com",
+      "designation": "Director",
+      "mobile": [
+        "91-9790024490"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5389",
+  "name": "Elders for Elders Foundation",
+  "primaryEmail": "efefoundation@gmail.com",
+  "website": "eldersforelders.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919790024490"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "Thamaraikulam Elders Village,",
+      "Periyakanganankuppam,",
+      "Cuddalore",
+      "Dindigul",
+      "Tamil Nadu",
+      "607002"
+    ]
+  },
+  "briefDescription": "Working for the cause and care of the elderly community.Major thrust areas are livelihood promotion, health care, social protection, destitute care and advocacy & lobbing",
+  "yearOfEstablishment": "2007"
+}

@@ -1,0 +1,35 @@
+{
+  "contacts": [
+    {
+      "name": "Monish Ahuja",
+      "email": "",
+      "designation": "Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8734",
+  "name": "PRES Green Energy Foundation",
+  "primaryEmail": "ahujamonish@gmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "912227570498",
+    "918898057100"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Office No. J-105, on 1st Floor, Tower no. 7, in Belapur Railway Station Cum Commercial Complex,",
+      "C.B.D Belapur, Navi Mumbai- 400 614, Tal. & Dist. Thane",
+      "Navi Mumbai",
+      "Thane",
+      "Maharashtra",
+      "400614"
+    ]
+  }
+}

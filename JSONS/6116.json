@@ -1,0 +1,42 @@
+{
+  "contacts": [
+    {
+      "name": "VIKRANT S BAPAT",
+      "email": "vikrant_creative@yahoo.com",
+      "designation": "PRESIDENT",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6116",
+  "name": "CREATIVE GROUP",
+  "primaryEmail": "vikrant_creative@yahoo.com",
+  "website": "www.smghtitwala.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919820872084"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      ". Mr. Kishore Vijay Gavankar, Vijay Smruti, Ganpati Mandir Road, Behind Shakuntala Vidyalaya, At P.O. Manda, Titwala (East), Taluka : Kalyan, Dist. Thane ï¿½ 421 605.",
+      "Shree Mahaganapati Hospital, Plot No.75/76, Near Sai Baba temple, Radhanagar,",
+      "Manda - Titwala (E)",
+      "Thane",
+      "Maharashtra",
+      "421605"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "C/o. Mr. Kishore Vijay Gavankar, Vijay Smruti, Ganpati Mandir Road, Behind Shakuntala Vidyalaya, At P.O. Manda, Titwala (East), Taluka : Kalyan, Dist. Thane – 421 605.",
+      "c/o Shree Mahaganapati Hospital, Plot No.75/76, Near Sai Baba temple, Radhanagar,",
+      "Manda - Titwala (E)",
+      "Thane",
+      "Maharashtra",
+      "421605"
+    ]
+  }
+}

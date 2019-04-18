@@ -1,0 +1,38 @@
+{
+  "contacts": [
+    {
+      "name": "Solomon",
+      "email": "huwadkun@gmail.com",
+      "designation": "Project Coordinator",
+      "mobile": [
+        "91-9008878399"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1338",
+  "name": "Human Welfare and Development Trust",
+  "primaryEmail": "huwadcbe@gmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "914222594714",
+    "914258291093",
+    "919443345990"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "Vasantham Campus",
+      "Nanjiampalayam,",
+      "Dharapuram",
+      "Erode",
+      "Tamil Nadu",
+      "638657"
+    ]
+  },
+  "briefDescription": "HUWAD is a secular Non–Governmental and Non-Profit Organisation. HUWAD mainly works with women, youth, children and rural poor. It works on education, health and community oriented development programmes.",
+  "yearOfEstablishment": "2000"
+}

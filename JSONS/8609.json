@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Hussain shaikh",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8609",
+  "name": "Dilshad Educational Society",
+  "primaryEmail": "shahvilayatschool@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919769368735"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Room no 61,Plot no 18,Gate no 7",
+      "New Collector Compound",
+      "Malwani Malad west",
+      "Mumbai Suburban",
+      "Maharashtra",
+      "400095"
+    ]
+  }
+}

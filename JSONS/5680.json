@@ -1,0 +1,41 @@
+{
+  "contacts": [
+    {
+      "name": "Mr. Ashok Kumar Hota",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5680",
+  "name": "SOCIAL AWARENESS INSTITUTION (SAI)",
+  "primaryEmail": "sai_social@yahoo.com",
+  "website": "www.saiorissa.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919438068563"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "AT-DIVINE NAGAR, PO-NAYABAZAR, DIST-CUTTACK",
+      "CUTTACK",
+      "Cuttack",
+      "Odisha",
+      "753004"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Odisha",
+    "address": [
+      "AT-DIVINE NAGAR, PO-NAYABAZAR, DIST-CUTTACK",
+      "PO Naya Bazar,",
+      "CUTTACK",
+      "Cuttack",
+      "Odisha",
+      "753004"
+    ]
+  }
+}

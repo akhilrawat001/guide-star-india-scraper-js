@@ -1,0 +1,38 @@
+{
+  "contacts": [
+    {
+      "name": "Manoj Kumar Thakur",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "26496925"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4786",
+  "name": "Multiple Action Research Group Society",
+  "primaryEmail": "marg@ngo-marg.org",
+  "website": "www.ngo-marg.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "911126496925",
+    "911126496925"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "205-206, 2nd Floor, Shahpur Jat, New Delhi",
+      "Opposite MCD Boys Pripamary School",
+      "New Delhi",
+      "South Delhi",
+      "Delhi",
+      "110049"
+    ]
+  },
+  "briefDescription": "MARG is a NGO based in Delhi. we undertake socio-legal research, documentation, legal literacy materials, training and advocacy on issues concerning the poor and the disadvantaged. At MARG we beleive that the best way to ensure justice is to legally empower people to demand it.",
+  "yearOfEstablishment": "1985"
+}

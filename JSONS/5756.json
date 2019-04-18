@@ -1,0 +1,27 @@
+{
+  "contacts": [
+    {
+      "name": "Santosh Sahu",
+      "email": "suntoshsahu@gmail.com",
+      "designation": "Founder-cum-Chairman",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5756",
+  "name": "Koraput Development Foundation",
+  "primaryEmail": "vibrantkdf@gmail.com",
+  "telephone": [
+    "919437964677"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "Koraput Development Foundation Kalpabata,",
+      "KDF Square, Lingaraj Nagar",
+      "Jeypore",
+      "Koraput",
+      "Odisha",
+      "764004"
+    ]
+  }
+}

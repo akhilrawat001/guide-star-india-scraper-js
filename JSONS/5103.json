@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Abhishek Maleti",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "9982778677"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5103",
+  "name": "SHUBHASHRAYA SEVA SAMITI",
+  "primaryEmail": "shubhashrayafoundation@yahoo.com",
+  "website": "www.shubhashraya.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919982778677",
+    "919461113752"
+  ],
+  "mainAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "Opposite Lav Kush Hotel Ladpura Kota",
+      "Ladpura Kota Rajasthan",
+      "Kota",
+      "Rajasthan",
+      "324006"
+    ]
+  }
+}

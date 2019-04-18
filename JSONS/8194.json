@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Rubina Hussain",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8194",
+  "name": "Narkeldanga Educational Environmental Development Society",
+  "primaryEmail": "needsociety2006@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919231511297"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "3/37",
+      "Narkeldanga Main Road",
+      "Kolkata",
+      "West Bengal",
+      "700011"
+    ]
+  },
+  "briefDescription": "Narkeldanga Educational Environmental Development Society is Located in Kolkata, West Bengal.",
+  "yearOfEstablishment": "2007"
+}

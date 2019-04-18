@@ -1,0 +1,33 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7882",
+  "name": "VOLUNTARY ASSOCIATION FOR RURAL UPLIFTMENT AND NETWORKING (VARUN)",
+  "primaryEmail": "varun_kashi@yahoo.co.in",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919415812309"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "Mr. Kamta Singh, Near Karman Veer School,",
+      "Post: Susuwahi, Varanasi",
+      "Varanasi",
+      "Uttar Pradesh",
+      "221011"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "C/o Mr. Kamta Singh, Near Karman Veer School,",
+      "Post: Susuwahi, Varanasi",
+      "Varanasi",
+      "Uttar Pradesh",
+      "221011"
+    ]
+  }
+}

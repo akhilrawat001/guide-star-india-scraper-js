@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "Panna Lal Barnawal (Dr)",
+      "email": "",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=609",
+  "name": "Shree Ramdhani Jan Sewa Sansthan",
+  "primaryEmail": "pannalalji94@gmail.com",
+  "telephone": [
+    "915466239031",
+    "915466239582",
+    "915466239031"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "Latghat Bazar Main Chowk Azamgarh To Doharighat Bitween Latghat Bazar",
+      "Azamgarh",
+      "Uttar Pradesh",
+      "276136"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "Mishtapur Latghat Bazar Azamatgarh Tahid - Sagari",
+      "Azamgarh",
+      "Uttar Pradesh",
+      "276136"
+    ]
+  }
+}

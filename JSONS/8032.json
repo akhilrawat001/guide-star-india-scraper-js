@@ -1,0 +1,25 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8032",
+  "name": "Srishti Seva Sansthan",
+  "primaryEmail": "srishtiseva@gmail.com",
+  "website": "www.srishti.ngo",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Network"
+  ],
+  "telephone": [
+    "915523222140",
+    "915523222140"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "Hanumangarhi,Cinema Road,",
+      "Hanumangarhi,Maharajganj(U.P.)",
+      "Maharajganj",
+      "Uttar Pradesh",
+      "273303"
+    ]
+  }
+}

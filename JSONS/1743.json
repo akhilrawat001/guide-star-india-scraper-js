@@ -1,0 +1,41 @@
+{
+  "contacts": [
+    {
+      "name": "Maj Gen R P Chahda",
+      "email": "esainoida@gmail.com",
+      "designation": "General Secretary",
+      "mobile": [
+        "91-120-4238672"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1743",
+  "name": "Shri Sai Samiti",
+  "primaryEmail": "shrisaisamitisec40noida@gmail.com",
+  "website": "http://www.sainoida.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "911202572810",
+    "911202575672",
+    "919810482130"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "64D/2",
+      "F-Block, Sector-40, Noida",
+      "Gautam Buddha Nagar",
+      "Uttar Pradesh",
+      "201303"
+    ]
+  },
+  "briefDescription": "We are giving free education (School is Recognized by Govt. of U.P.) to 300 children plus scholarships to 30 children. Free Medical Services to 300 patients through 16 Doctors at our dispensary. Delivering mid-day-meals to 3000 children daily by our Vans at the schools of needy children.",
+  "yearOfEstablishment": "1991"
+}

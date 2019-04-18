@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Mr.Girdhari Lal",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7490",
+  "name": "SHIKSHA VIKAS SABHA",
+  "primaryEmail": "info@svsup.in",
+  "website": "www.svsup.in",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919412596512"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "Shiksha Vikas Sabha,",
+      "Vill Ghanghauli",
+      "Vill.Ghanghauli",
+      "Aligarh",
+      "Uttar Pradesh",
+      "202165"
+    ]
+  }
+}

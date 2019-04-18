@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "N Lokesh",
+      "email": "motherhomefoundation@rediffmail.com",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=842",
+  "name": "Mother Home Foundation for Society",
+  "primaryEmail": "motherhomefoundation@rediffmail.com",
+  "website": "www.motherhomefoundation.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919940021446"
+  ],
+  "mainAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "6–3-311, Manchala Street",
+      "Tirupati",
+      "Chittoor",
+      "Andhra Pradesh",
+      "517501"
+    ]
+  }
+}

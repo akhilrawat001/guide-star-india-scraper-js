@@ -1,0 +1,36 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=650",
+  "name": "Suraksha",
+  "primaryEmail": "suraksha.org@gmail.com",
+  "website": "http://www.surakshagajapati.in",
+  "organisationType": [
+    "Direct Service",
+    "Intermediary"
+  ],
+  "telephone": [
+    "916815224723",
+    "919437723687"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "At: Radha Govind Nagar, Opp: HP petrol pump, pathapatnam Road",
+      "Paralakhemundi",
+      "Gajapati",
+      "Odisha",
+      "761200"
+    ]
+  },
+  "briefDescription": "The organisation has been working with the tribes, Dalits and socio-economically deprived communities since last two decades for their sustainable development with a prime focus on community Health, Education, Natural resource Management and Income Generation Activities.",
+  "yearOfEstablishment": "1996",
+  "regiseredAddrress": {
+    "state": "Odisha",
+    "address": [
+      "At : R. Sitapur, Via: Uppalada",
+      "Gajapati",
+      "Odisha",
+      "761200"
+    ]
+  }
+}

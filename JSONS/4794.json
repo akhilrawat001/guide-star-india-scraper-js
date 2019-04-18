@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Blossom Monteiro",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "66099379"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4794",
+  "name": "Center for Awareness Holistic Healing Growth and Research",
+  "primaryEmail": "Jlf22865@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "912266099379",
+    "912266099379"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Shiv Shakti Housing Society,",
+      "Kashinath Dhuru Road,Agar Bazaar",
+      "Mumbai",
+      "Maharashtra",
+      "400028"
+    ]
+  }
+}

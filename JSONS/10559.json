@@ -1,0 +1,45 @@
+{
+  "contacts": [
+    {
+      "name": "Reena rani",
+      "email": "",
+      "designation": "CEO",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10559",
+  "name": "SILVER LINING",
+  "primaryEmail": "Slining163@gmail.com",
+  "website": "http://silverliningtrust.com/index.php",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "919650572523",
+    "919650572523"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "56D Gali no1 Ashok Mohalla Nangloi Delhi 110041",
+      "Gali no. 1",
+      "City",
+      "West Delhi",
+      "Delhi",
+      "110041"
+    ]
+  },
+  "briefDescription": "Helping the ones in need. Determined to make a difference in strengthening the roots - Our young generation.",
+  "yearOfEstablishment": "2018",
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "56D Gali no.1 Ashok Mohalla Nangloi Delhi 110041",
+      "Rohtak road, Nangloi",
+      "City",
+      "West Delhi",
+      "Delhi",
+      "110041"
+    ]
+  }
+}

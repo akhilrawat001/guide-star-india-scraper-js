@@ -1,0 +1,45 @@
+{
+  "contacts": [
+    {
+      "name": "RAJ GUPTA",
+      "email": "info@jeevangyantrust.org",
+      "designation": "TRUSTEE",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7025",
+  "name": "JEEVAN GYAN TRUST",
+  "primaryEmail": "info@jeevangyantrust.org",
+  "website": "www.jeevangyantrust.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "+911145660659",
+    "911145660659"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "B6/207",
+      "SECTOR3",
+      "ROHINI",
+      "North Delhi",
+      "Delhi",
+      "110085"
+    ]
+  },
+  "briefDescription": "RAJ GUPTA,First TrusteeMADHU GUPTA IIND Trustee",
+  "yearOfEstablishment": "5112015",
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "b6/207",
+      "sECTOR3",
+      "rOHINI",
+      "North Delhi",
+      "Delhi",
+      "110085"
+    ]
+  }
+}

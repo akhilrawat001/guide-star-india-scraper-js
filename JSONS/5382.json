@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "Sumit Mahatha",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5382",
+  "name": "Life Giving Love",
+  "primaryEmail": "lifegivinglove@yahoo.com",
+  "website": "www.lifegivinglove.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919990193888"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "133/3 Harijan Basti, Kamalpur Burari",
+      "Near Bus stand",
+      "Burari",
+      "North Delhi",
+      "Delhi",
+      "110084"
+    ]
+  },
+  "briefDescription": "Life Giving Love is a non-profit, voluntary citizens group which works at a grass-root level. Task-oriented and driven by people with a common interest, LGL performs a variety of service and humanitarian functions. LGL is building a global family for lasting change.",
+  "yearOfEstablishment": "2013"
+}

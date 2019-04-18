@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "SadhuSharan Sharma",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8161",
+  "name": "Nehru Yuva Gram Vikas Yuva Kalyan Seva Sansthan",
+  "primaryEmail": "nssmaharajganj@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919120405969",
+    "919415872798",
+    "918924089768"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "Sonara",
+      "Maharajganj",
+      "Uttar Pradesh",
+      "273155"
+    ]
+  }
+}

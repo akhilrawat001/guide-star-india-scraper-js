@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "M.SUNDARASAN",
+      "email": "airdngo123@gmail.com",
+      "designation": "SENIOR COUNSELLOR",
+      "mobile": [
+        "91-9042737306"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2756",
+  "name": "Annai Institute of Rural Development",
+  "primaryEmail": "airdl@ymail.com",
+  "telephone": [
+    "919952350305"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "AIRD, 2, St. Antiniyar Street",
+      "Jaya malar Bhavan",
+      "Vettavalam",
+      "Tiruvannamalai",
+      "Tamil Nadu",
+      "606754"
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Himanshu R Vaghela",
+      "email": "",
+      "designation": "Project Officer",
+      "mobile": [
+        "91-265-2325250",
+        "91-9825325250"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1136",
+  "name": "Disha Charitable Trust",
+  "primaryEmail": "dishatrustbaroda@gmail.com",
+  "website": "www.disha.org",
+  "telephone": [
+    "912652321229",
+    "912652325250",
+    "912652325250"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "391 Race Course Towers",
+      "Gotri Road",
+      "Vadodara",
+      "Gujarat",
+      "390007"
+    ]
+  }
+}

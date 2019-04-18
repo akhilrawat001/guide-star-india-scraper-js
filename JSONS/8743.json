@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Kiran Shere",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8743",
+  "name": "Shri Hari Bahuuddeshiya Sanstha Sundarkhed",
+  "primaryEmail": "kiranshere78@gmail.com",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "918625817094"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "At.Post.Maharana",
+      "Prarap Nagar Sunderkhed",
+      "Buldhana",
+      "Maharashtra",
+      "443001"
+    ]
+  },
+  "briefDescription": "Shri Hari Bahuuddeshiya Sanstha Sundarkhed is Located in Buldhana, Maharashtra.",
+  "yearOfEstablishment": "2015"
+}

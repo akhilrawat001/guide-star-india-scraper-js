@@ -1,0 +1,36 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6522",
+  "name": "SARWANCHAL SANSKRITIK AVAM SAMAJIK VIKAS MANCH (SUDHI)",
+  "primaryEmail": "ngosudhi@gmail.com",
+  "website": "N/A",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service"
+  ],
+  "telephone": [
+    "919711260022"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "182, Ring Road Mkt., Sarojini Nagar, New Delhi-110023",
+      "182,",
+      "Ring Road Mkt., Sarojini Nagar, New Delhi",
+      "South West Delhi",
+      "Delhi",
+      "110023"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "182,",
+      "Ring Road Mkt",
+      "Sarojini Nagar,",
+      "South West Delhi",
+      "Delhi",
+      "110023"
+    ]
+  }
+}

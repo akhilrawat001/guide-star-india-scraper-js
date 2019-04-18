@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "name": "Shaikh Ibrahim Natthumiya",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8890",
+  "name": "Alqama Education and Welfare Society",
+  "primaryEmail": "alqamashaikh97@gmail.com",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "919373364696"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Care of, Diamond Girls High School Bohra Baugh Bajrangwadi ,",
+      "Malegaon",
+      "Nashik",
+      "Maharashtra",
+      "423203"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      ", Diamond Girls High School Bohra Baugh Bajrangwadi ,",
+      "Malegaon",
+      "Nashik",
+      "Maharashtra",
+      "423203"
+    ]
+  }
+}

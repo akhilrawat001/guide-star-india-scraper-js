@@ -1,0 +1,34 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3302",
+  "name": "Bombay Leprosy Project",
+  "primaryEmail": "bombayleprosy@gmail.com",
+  "website": "www.bombayleprosy.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "912224056486",
+    "912224056486"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Vidnyan Bhavan, 11, VN Purav Marg",
+      "Sion-Chunabhatti",
+      "Mumbai",
+      "Maharashtra",
+      "400022"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "6/27, Amar Bhuvan",
+      "Sion (E)",
+      "Mumbai",
+      "Maharashtra",
+      "400022"
+    ]
+  }
+}

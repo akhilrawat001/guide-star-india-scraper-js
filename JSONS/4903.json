@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Kirshnat chormale",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4903",
+  "name": "MAHATMA SHIKSHAN SANSTHA",
+  "primaryEmail": "mssp1970@yahoo.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "917588384950"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "BUTHWAR PETH 353",
+      "GAJANAN CHOWK PHALTAN",
+      "PHALTAN DIST  SATARA",
+      "Satara",
+      "Maharashtra",
+      "415523"
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Mr Ravi Desai",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8095",
+  "name": "Social Association of Network Voluntary Actions and Development (SANVAD)",
+  "primaryEmail": "sanvadrd@rediffmail.com",
+  "website": "-",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919422625675"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Gargoti,",
+      "Tal: Bhudarga",
+      "Dist Kolhapur",
+      "Kolhapur",
+      "Maharashtra",
+      "416209"
+    ]
+  },
+  "briefDescription": "Social Association of Network Voluntary Action and Development (SANVAD) Located In Maharashtra.",
+  "yearOfEstablishment": "2001"
+}

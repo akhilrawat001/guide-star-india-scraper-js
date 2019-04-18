@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "name": "Sugandha More",
+      "email": "tathapi@tathapi.org",
+      "designation": "Administration in charge",
+      "mobile": [
+        "91-20-24260264"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=491",
+  "name": "Tathapi - Trust for Documentation, Research and Education Initiatives for Women and Health",
+  "primaryEmail": "tathapi@tathapi.org",
+  "website": "http://www.tathapi.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "912024267908",
+    "912024273951",
+    "912024267908"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "77 TMV Colony, Mukund Nagar",
+      "Pune",
+      "Maharashtra",
+      "411037"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Maharashtra"
+    ]
+  }
+}

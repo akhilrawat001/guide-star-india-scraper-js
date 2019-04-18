@@ -1,0 +1,28 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1852",
+  "name": "Centre for Environmental and Multicultural Communication",
+  "primaryEmail": "cemc_orissa2007@hotmail.com",
+  "website": "www.cemckorissa.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network"
+  ],
+  "telephone": [
+    "916742720363",
+    "916712366277",
+    "919853667958"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "P.K.Pradhan Building",
+      "S-2/740,Niladrivihar,Post:Sailashree Vihar",
+      "Bhubaneswar",
+      "Khordha",
+      "Odisha",
+      "751021"
+    ]
+  }
+}

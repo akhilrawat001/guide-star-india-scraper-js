@@ -1,0 +1,37 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5659",
+  "name": "AZYSHAA FOUNDATION",
+  "primaryEmail": "azyshaafoundation@gmail.com",
+  "website": "www.cedp-edu.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919320378866"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "304/305 , 3rd Floor ,Koteshwar Plaza",
+      "JN Road ,",
+      "Mulund West",
+      "Mumbai Suburban",
+      "Maharashtra",
+      "400080"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "1/1097 , Geeta , Shivram CHS ,",
+      "Devidayal Road, Near Johnson & Johnson ,",
+      "Mulund West ,",
+      "Mumbai Suburban",
+      "Maharashtra",
+      "400080"
+    ]
+  }
+}

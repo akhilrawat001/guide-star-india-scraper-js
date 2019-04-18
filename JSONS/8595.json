@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Sakthivel S",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8595",
+  "name": "SKS Trust",
+  "primaryEmail": "skstrustsalem@gmail.com",
+  "website": "www.msgt.in",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "91427",
+    "9360388152"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "106 C/3 Rajiv Gandhi Street",
+      "Shankar Nagar",
+      "Salem",
+      "Tamil Nadu",
+      "636007"
+    ]
+  }
+}

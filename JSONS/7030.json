@@ -1,0 +1,42 @@
+{
+  "contacts": [
+    {
+      "name": "PANKAJ NIRANJAN",
+      "email": "yuvasankalpngo@gmail.com",
+      "designation": "FOUNDER & CHAIRMAN",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7030",
+  "name": "YUVA SANKALP",
+  "primaryEmail": "yuvasankalpngo@gmail.com",
+  "website": "www.yuvasankalp.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919268770589"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "B3/90,LGF Safdarjung enclave",
+      "Near sarvodaya school",
+      "New delhi",
+      "South Delhi",
+      "Delhi",
+      "110016"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "B-3/90 SAFDARJUNG ENCLAVE",
+      "NEAR SARVODAYA ENCLAVE",
+      "NEW DELHI",
+      "South Delhi",
+      "Delhi",
+      "110016"
+    ]
+  }
+}

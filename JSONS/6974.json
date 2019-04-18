@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Ms.Sunaina Singh",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6974",
+  "name": "Mahila Shikshan Avam Prashikshan Kendra",
+  "primaryEmail": "mspkgoarakhpur@gmail.com",
+  "website": "www.mspk.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Grant-making",
+    "Support"
+  ],
+  "telephone": [
+    "919208078491"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "Suria Kuwan , Gorakhpur",
+      "Basharatpur Gorakhpur",
+      "Gorakhpur",
+      "Uttar Pradesh",
+      "273004"
+    ]
+  }
+}

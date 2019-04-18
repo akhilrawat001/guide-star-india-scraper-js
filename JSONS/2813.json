@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "MERAJ BANO",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2813",
+  "name": "Warsi Sewa Sadan",
+  "primaryEmail": "wssindia@gmail.com",
+  "website": "www.wssindia.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919839723524"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "Mohalla Anandidas",
+      "Kannauj",
+      "Uttar Pradesh",
+      "209725"
+    ]
+  }
+}

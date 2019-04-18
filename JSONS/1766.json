@@ -1,0 +1,42 @@
+{
+  "contacts": [
+    {
+      "name": "G Krishna",
+      "email": "gkscdss@yahoo.com",
+      "designation": "Secretary",
+      "mobile": []
+    },
+    {
+      "name": "G Krishna",
+      "email": "gkscdss@yahoo.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1766",
+  "name": "Social & Cultural Development Service Society",
+  "primaryEmail": "giriproject_scdss@rediffmail.com",
+  "telephone": [
+    "918716221213",
+    "919440973305"
+  ],
+  "mainAddrress": {
+    "state": "Telangana",
+    "address": [
+      "4-5-24/9 Near Police Quarters",
+      "Jangaon",
+      "Telangana",
+      "506167"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Telangana",
+    "address": [
+      "Ambedkar Nagar",
+      "Warangal",
+      "Jangaon",
+      "Telangana",
+      "506167"
+    ]
+  }
+}

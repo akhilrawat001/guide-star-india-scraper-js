@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "badri rav",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6098",
+  "name": "Margee Gramin Vikas And Sikshan Sansthan",
+  "primaryEmail": "mgvss_b@yahoo.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "9352719456"
+  ],
+  "mainAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "91 jogiyo ka mohall natata jamwaramghar",
+      "91",
+      "natata jamwaramghar",
+      "Jaipur",
+      "Rajasthan",
+      "302028"
+    ]
+  }
+}

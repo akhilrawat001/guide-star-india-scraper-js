@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "name": "Patrick San Francesco",
+      "email": "delhi@samarpanfoundation.org",
+      "designation": "Chief Functionary",
+      "mobile": [
+        "91-9873872451"
+      ]
+    },
+    {
+      "name": "Patrick San Francesco",
+      "email": "delhi@samarpanfoundation.org",
+      "designation": "Chief Functionary",
+      "mobile": [
+        "91-9873872451"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8407",
+  "name": "SAMARPAN FOUNDATION",
+  "primaryEmail": "nilofer@samarpanfoundation.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919873872451"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "63 Jor Bagh",
+      "New Delhi",
+      "Delhi",
+      "110003"
+    ]
+  },
+  "briefDescription": "To work for the upliftment and welfare of underprivileged children and orphans, irrespective of caste, creed and religion and to establish institutions."
+}

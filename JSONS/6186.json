@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "DR. SUBRATA SARKAR",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6186",
+  "name": "NAIHATI NEW LIFE SOCIETY",
+  "primaryEmail": "naihatinewlife@gmail.com",
+  "website": "www.naihatinewlifesociety.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "913325810122",
+    "913325810122"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "NAIHATI NEW LIFE SOCIETY 1721",
+      "TAL PUKUR ROAD",
+      "P.O. - NAIHATI",
+      "North 24 Parganas",
+      "West Bengal",
+      "743165"
+    ]
+  }
+}

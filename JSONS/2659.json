@@ -1,0 +1,36 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2659",
+  "name": "Smile Train India",
+  "primaryEmail": "limam@smiletrainindia.org",
+  "website": "smiletrain.org",
+  "organisationType": [
+    "Grant-making",
+    "Intermediary",
+    "Support"
+  ],
+  "telephone": [
+    "919880588700"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "D-38 Diamond District",
+      "Old Airport Road",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560001"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "S-240 Panchsheel Park",
+      "New Delhi",
+      "South Delhi",
+      "Delhi",
+      "560001"
+    ]
+  }
+}

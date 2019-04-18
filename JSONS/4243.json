@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Santosh Bhanudas Gaikwad",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4243",
+  "name": "DEEPSTAMBH PRATISHTHAN",
+  "primaryEmail": "deepstambh.pratishthan@gmail.com",
+  "website": "www.deepstambh.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "910992291220"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "At/Post - Nimgaon Wagha, Tal. - Nagar",
+      "At/Post - Nimgaon Wagha",
+      "Ahmedngar",
+      "Ahmednagar",
+      "Maharashtra",
+      "414005"
+    ]
+  }
+}

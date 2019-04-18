@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Utpal Kumar",
+      "email": "akenambharatngo@rediffmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8413",
+  "name": "AKENAM BHARAT",
+  "primaryEmail": "akenambharatngo@rediffmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919308709618"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "Salimpur Ahra",
+      "Behind RBI,",
+      "Exhibition Road,",
+      "Patna",
+      "Bihar",
+      "800001"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "contacts": [
+    {
+      "name": "B Chatterjee",
+      "email": "",
+      "designation": "Well Wisher",
+      "mobile": []
+    },
+    {
+      "name": "B Chatterjee",
+      "email": "",
+      "designation": "Well Wisher",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=252",
+  "name": "Pranab Kanya Sangha",
+  "primaryEmail": "pranabkanyasangha@gmail.com",
+  "telephone": [
+    "912502024646",
+    "919970348262"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "More Gaon, Near More Gaon Talao Virar Road (E)",
+      "Nallasopara",
+      "Thane",
+      "Maharashtra",
+      "401209"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Po Hridaypur, Barasat",
+      "Kolkata",
+      "West Bengal",
+      "700127",
+      "AP_ElecBill_153.PDF"
+    ]
+  }
+}

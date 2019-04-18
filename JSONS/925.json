@@ -1,0 +1,36 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=925",
+  "name": "Shelter of Love Charitable Trust",
+  "primaryEmail": "shelterofloveorp@yahoo.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "912502404002",
+    "919892059107"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "113/114, A-001",
+      "Sriprashta complex, 2nd road",
+      "Nalasopara (E)",
+      "Thane",
+      "Maharashtra",
+      "401203"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "207, New  Arunoday CHS Ltd, Taki road",
+      "Nalasopara",
+      "Thane",
+      "Maharashtra",
+      "401209",
+      "AP_TelBill_839.PDF"
+    ]
+  }
+}

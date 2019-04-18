@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "MR. MANOJ JHA",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4902",
+  "name": "PRAGATISHEEL KALYANKARI SANSTHA",
+  "primaryEmail": "prakas05@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "911122593000",
+    "911122593000"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "A-3/ 24 NAND NAGARI DELHI",
+      "499 GTB ENCLAVE",
+      "JANTA FLAT",
+      "East Delhi",
+      "Delhi",
+      "110093"
+    ]
+  }
+}

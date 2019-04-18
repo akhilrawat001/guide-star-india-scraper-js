@@ -1,0 +1,27 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1601",
+  "name": "APS Siksha Sansthan",
+  "primaryEmail": "info@aps.org.in",
+  "website": "http://www.aps.org.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "915278217699",
+    "919919805363"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "1/13/24",
+      "Dashrath Niwas,Civil Lines Modha,",
+      "Faizabad",
+      "Uttar Pradesh",
+      "224001"
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "contacts": [
+    {
+      "name": "P. K. Paul",
+      "email": "tolly_win@yahoo.com",
+      "designation": "Chief Functionary",
+      "mobile": []
+    },
+    {
+      "name": "P. K. Paul",
+      "email": "tolly_win@yahoo.com",
+      "designation": "Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2965",
+  "name": "Tollygunge Women in Need",
+  "primaryEmail": "tollygungewin05@gmail.com",
+  "telephone": [
+    "913324225897",
+    "913324228771",
+    "913324225897"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "WIN House",
+      "4/C Dr. Radha Gobinda Nath Sarani",
+      "Kolkata",
+      "West Bengal",
+      "700033"
+    ]
+  }
+}

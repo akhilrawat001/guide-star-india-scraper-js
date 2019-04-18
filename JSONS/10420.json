@@ -1,0 +1,33 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10420",
+  "name": "RIDS CHARITABLE TRUST",
+  "primaryEmail": "ridsngo.org@gmail.com",
+  "website": "www.ridsngo.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919920988121",
+    "919322272727"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "Bethamangala Hobli, K.G.F Taluk",
+      "I. P. Extn. Patparganj",
+      "Kolar",
+      "Karnataka",
+      "563116"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "No.4 Betkur Village, Bethamangala Hobli, K.G.F Taluk,",
+      "Kolar",
+      "Karnataka",
+      "563116"
+    ]
+  }
+}

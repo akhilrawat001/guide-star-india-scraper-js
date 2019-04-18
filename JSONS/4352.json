@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "ANIL YADAV",
+      "email": "shridharmaraj@gmail.com",
+      "designation": "PRESIDENT",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4352",
+  "name": "SHRI DHARMARAJ GRAMIN VIKAS PRATISHTHAN",
+  "primaryEmail": "shridharmaraj@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "910997161860"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "At- Tupewadi",
+      "Post - Yetgaon",
+      "Kadegaon",
+      "Sangli",
+      "Maharashtra",
+      "415311"
+    ]
+  }
+}

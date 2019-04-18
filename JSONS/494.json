@@ -1,0 +1,25 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=494",
+  "name": "The Banyan",
+  "primaryEmail": "ashok.kumar@thebanyan.org",
+  "website": "http://www.thebanyan.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "914442233666",
+    "914442233600",
+    "914442233666"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "6th Main Road, Mogapair Eri Scheme",
+      "Mogapair West",
+      "Chennai",
+      "Tamil Nadu",
+      "600037"
+    ]
+  }
+}

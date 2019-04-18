@@ -1,0 +1,47 @@
+{
+  "contacts": [
+    {
+      "name": "K Priya",
+      "email": "pridhil@gmail.com",
+      "designation": "Programme Officer",
+      "mobile": [
+        "91-44-65682846",
+        "91-9865788729"
+      ]
+    },
+    {
+      "name": "K Priya",
+      "email": "pridhil@gmail.com",
+      "designation": "Programme Officer",
+      "mobile": [
+        "91-44-65682846",
+        "91-9865788729"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=203",
+  "name": "Arunodhaya Centre for Street & Working Children",
+  "primaryEmail": "arunodhaya2000@yahoo.com",
+  "website": "www.arunodhayacentre.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "914442632264",
+    "914465682846",
+    "914442173383",
+    "914442632264"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "No.15, Bazaar Street",
+      "Royapuram",
+      "Chennai",
+      "Tamil Nadu",
+      "600013"
+    ]
+  }
+}

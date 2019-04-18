@@ -1,0 +1,27 @@
+{
+  "contacts": [
+    {
+      "name": "Haranadh Meharji",
+      "email": "srujanangoindia@yahoo.co.in",
+      "designation": "Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5729",
+  "name": "SRUJANA WELFARE ASSOCIATION",
+  "primaryEmail": "srujanangoindia@yahoo.co.in",
+  "telephone": [
+    "919985369779"
+  ],
+  "mainAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "D.No. 16-179, Gunisetty",
+      "Vari Street",
+      "Chodavaram",
+      "Visakhapatnam",
+      "Andhra Pradesh",
+      "531036"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "contacts": [
+    {
+      "name": "B K Jha",
+      "email": "bkjha@kritsankalp.org",
+      "designation": "Chairman",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2908",
+  "name": "Krit Sankalp Welfare Society",
+  "primaryEmail": "kritsankalpa@gmail.com",
+  "website": "http://www.kritsankalp.org",
+  "telephone": [
+    "919810881625"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "D 445 Avantika,",
+      "Rohini Sec -1,",
+      "New Delhi",
+      "Delhi",
+      "110085"
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "name": "Thomas Chandy",
+      "email": "t.chandy@savethechildren.in",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=296",
+  "name": "Bal Raksha, Bharat",
+  "primaryEmail": "info@savethechildren.in",
+  "website": "www.savethechildren.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "911142294900",
+    "911142294990"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "4th Floor, Farm Bhawan",
+      "14-15 Nehru Place",
+      "New Delhi",
+      "Delhi",
+      "110019"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "Delhi"
+    ]
+  }
+}

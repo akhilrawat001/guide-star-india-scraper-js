@@ -1,0 +1,33 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10384",
+  "name": "NEEMUCH SAHAJ SAMAJ UTTHAN SAMITI",
+  "primaryEmail": "sahajsmiti@gmail.com",
+  "website": "http://sahajsamiti.org/",
+  "organisationType": [
+    "Advocacy & Campaigning"
+  ],
+  "telephone": [
+    "919630326995",
+    "919340445785"
+  ],
+  "mainAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "7, Parda Complex, Kamal Chowk,",
+      "Near Central Bank",
+      "Neemuch",
+      "Madhya Pradesh",
+      "458441"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "384 Mahatma Gandhi Marg Bhaghana Neemuch",
+      "Neemuch",
+      "Madhya Pradesh",
+      "458441"
+    ]
+  }
+}

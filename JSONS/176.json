@@ -1,0 +1,34 @@
+{
+  "contacts": [
+    {
+      "name": "Surekha Ramachandran",
+      "email": "rekharami@gmail.com",
+      "designation": "Chairman",
+      "mobile": [
+        "91-9841099130"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=176",
+  "name": "Down's Syndrome Federation of India",
+  "primaryEmail": "rekharami@gmail.com",
+  "website": "www.downsyndrome.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "914424995224",
+    "914442112249",
+    "919841099130",
+    "914428520717"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "No.27 Dr. C.P. Ramaswamy Road, Alwarpet",
+      "Chennai",
+      "Tamil Nadu",
+      "600018"
+    ]
+  }
+}

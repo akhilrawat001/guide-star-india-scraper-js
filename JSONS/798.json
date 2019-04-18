@@ -1,0 +1,39 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=798",
+  "name": "The Richmond Fellowship Society (India)",
+  "primaryEmail": "rfsnationalb@gmail.com",
+  "website": "www.rfsindia.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "918026575389",
+    "918026575389"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "Adminstrative Office & National Headquarters, ‘Usha Kirana’",
+      "406A/10, 7th Main, Jayanagar II Block",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560011"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "Care of Mr.R.K.P.Shankar Dass, Senior Advocate",
+      "B-12, Maharani Bagh",
+      "New Delhi",
+      "Delhi",
+      "110065",
+      "AP_TelBill_713.PDF"
+    ]
+  }
+}

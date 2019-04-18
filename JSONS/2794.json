@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Nirmal Kumar Singh",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2794",
+  "name": "NALINI FOUNDATION",
+  "primaryEmail": "nalinifoundation@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919234797065"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "First Floor ,Nageshwar Complex ,Kachahahri Road ,Jamui ,Post& Dist.-JAMUI ,Pin-811307 (Bihar)",
+      "Nageshwar Complex , Jamui",
+      "JAMUI",
+      "Jamui",
+      "Bihar",
+      "811307"
+    ]
+  }
+}

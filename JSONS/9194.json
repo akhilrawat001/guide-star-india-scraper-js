@@ -1,0 +1,41 @@
+{
+  "contacts": [
+    {
+      "name": "Shyam Sundar Singh",
+      "email": "shyam@farmsnfarmers.com",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9194",
+  "name": "Farms and Farmers Foundation",
+  "primaryEmail": "shyam@farmsnfarmers.com",
+  "website": "http://farmsnfarmers.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "916122352244",
+    "916122352244"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "B-83, Housing Colony, Lohiya Nagar, Kankarbagh",
+      "Patna",
+      "Bihar",
+      "800020"
+    ]
+  },
+  "yearOfEstablishment": "2011",
+  "regiseredAddrress": {
+    "state": "Bihar",
+    "address": [
+      "Mini House, Indradeo Path",
+      "Sri Krishnapuri",
+      "Samastipur",
+      "Bihar",
+      "848101"
+    ]
+  }
+}

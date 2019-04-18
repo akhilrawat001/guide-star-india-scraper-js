@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "name": "K.Ramalakshmi",
+      "email": "",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1054",
+  "name": "Punitha Annai Samuga Sevai Sangam",
+  "primaryEmail": "pass_59@yahoo.com",
+  "website": "www.karmayog,org/ngo/pass",
+  "telephone": [
+    "914632251177",
+    "914632251177"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "No 25  Dippo Street",
+      "Kalugumalai",
+      "Thoothukudi",
+      "Tamil Nadu",
+      "628552"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "No - 3/29, Middle Street",
+      "Vanarmutti",
+      "Tuticorin",
+      "Thoothukudi",
+      "Tamil Nadu",
+      "628721"
+    ]
+  }
+}

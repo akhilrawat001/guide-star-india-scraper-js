@@ -1,0 +1,56 @@
+{
+  "contacts": [
+    {
+      "name": "Sudhamanudu",
+      "email": "anthony@faithindia.in",
+      "designation": "Program Coordinator",
+      "mobile": []
+    },
+    {
+      "name": "Sudhamanudu",
+      "email": "anthony@faithindia.in",
+      "designation": "Program Coordinator",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1276",
+  "name": "Faith Foundation",
+  "primaryEmail": "admin@faithindia.in",
+  "website": "http://faithindia.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "914027700511",
+    "914027700373",
+    "914027700373"
+  ],
+  "mainAddrress": {
+    "state": "Telangana",
+    "address": [
+      "Plot # 109, Road No.3,",
+      "West Marredpally",
+      "Secunderabad",
+      "Hyderabad",
+      "Telangana",
+      "500026",
+      "AP_TelBill_1180.PDF"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Telangana",
+    "address": [
+      "3-6-206, Flat No.6,Suman Housing Colony,",
+      "West Marredpally",
+      "Secunderabad",
+      "Hyderabad",
+      "Telangana",
+      "500026",
+      "AP_TelBill_1180.PDF"
+    ]
+  }
+}

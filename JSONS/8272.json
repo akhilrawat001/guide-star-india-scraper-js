@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "P.Natarajan",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8272",
+  "name": "Namma Ooru Foundation",
+  "primaryEmail": "nammaoorufoundation@gmail.com",
+  "website": "http://www.nammaoorufoundation.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919840987363"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "28/35 Dr.Radhakrishnan Nagar Main Road",
+      "Flat.4, Thiruvanmiyur",
+      "Chennai",
+      "Tamil Nadu",
+      "197612"
+    ]
+  },
+  "briefDescription": "Namma Ooru Foundation formed with a focus to serve the society in the field of Education, Employment and Environment.Namma Kalvi the project in the field of education through which we incorporate technology and equip the chidren for Digital India. Namma Thiran the project in the field of skill development/employment through which we connect the beneficiaries and the providers, in terms of getting trained and getting employed. Namma Thooimai the project in the field of waste management, educate and equip the citizens on segregation of garbage at source and do home composting.",
+  "yearOfEstablishment": "2015"
+}

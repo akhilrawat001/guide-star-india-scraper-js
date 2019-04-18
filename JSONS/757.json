@@ -1,0 +1,52 @@
+{
+  "contacts": [
+    {
+      "name": "Ram B Chavan",
+      "email": "ramchavan.0605@gmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    },
+    {
+      "name": "Ram B Chavan",
+      "email": "ramchavan.0605@gmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=757",
+  "name": "Janai Krshi Dnyan Seva Bhavi Shikshan Sanstha",
+  "primaryEmail": "janaikrshi542@rediffmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919545016014",
+    "7219053494"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "307, Hanuman Chowk Balapur",
+      "Dharmabad",
+      "Nanded",
+      "Maharashtra",
+      "431809"
+    ]
+  },
+  "briefDescription": "Janai Krushi Dnyan Seva Bhavi Shikshan Sanstha ,started operations As per Bombay Public Trust Act 1950 ( Clue 19) in 2007 with the mission of providing a full range of financial services to the economically active poor who are not adequately served by financial institutions. Presently, our operations is spread across Nanded District within 89 Villages , We serve over 2.10 Crore active customers through our 70 SHG’s .  we tie up  with NABARD for SHG registration and Bank Linkage Programme. Janai business is primarily based on the joint liability group lending model for providing collateral free, small ticket-size loans to economically active poor women.",
+  "yearOfEstablishment": "2007",
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Hanuman Gally, Balapur",
+      "Dharmabad",
+      "Nanded",
+      "Maharashtra",
+      "431809",
+      "AP_Other_671.PDF"
+    ]
+  }
+}

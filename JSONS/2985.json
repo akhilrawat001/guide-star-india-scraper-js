@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Dr Rita Savla",
+      "email": "info@radhee.com",
+      "designation": "Founder Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2985",
+  "name": "RADHEE Disaster and Education Foundation",
+  "primaryEmail": "info@radhee.com",
+  "website": "www.radhee.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919833835789"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "11-B/11, Manibhuvan, Jawahar Nagar,",
+      "S.V Road, Gorgeaon West",
+      "Mumbai",
+      "Mumbai Suburban",
+      "Maharashtra",
+      "400062"
+    ]
+  }
+}

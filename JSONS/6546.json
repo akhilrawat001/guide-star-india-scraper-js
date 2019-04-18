@@ -1,0 +1,35 @@
+{
+  "contacts": [
+    {
+      "name": "Poushali Sengupta",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "65021101"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6546",
+  "name": "Mukti Rehabilitation Centre",
+  "primaryEmail": "muktirc@gmail.com",
+  "website": "http://muktirc.in/",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "913365021101",
+    "913365021101"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Mukti Rehabilitation Centre, Ramkrishnapally Dashadrone, P.O. Rajarhat Gopalpur, West bengal 700136",
+      "Rajarhat New Town",
+      "North 24 Parganas",
+      "West Bengal",
+      "700136"
+    ]
+  },
+  "briefDescription": "Mukti, an escape from hapless poverty, social preconceived notion and a new approach to life where each and every child finds a safe and a loving environment to grow up and where their self dignity is respected and upheld.Mukti’s philosophy is that no child should be deprived of the right to life, survival and development which is at stake for those children who live on the railway stations, streets, where abuse is prevalent in all forms and the risk of accidents is always present.Mukti is the only single umbrella provider for vulnerable children in Kolkata",
+  "yearOfEstablishment": "2002"
+}

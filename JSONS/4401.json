@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "CHHOTALAL GOPAL PATEL",
+      "email": "saf0538@gmail.com",
+      "designation": "PRESIDENT",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4401",
+  "name": "SHRI ASHIRVAD FOUNDATION",
+  "primaryEmail": "saf0538@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919850734282"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "A/P-PACHORABARI",
+      "TAL-NANDURBAR",
+      "Nandurbar",
+      "Maharashtra",
+      "425412"
+    ]
+  }
+}

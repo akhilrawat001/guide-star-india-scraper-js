@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "name": "Rahul Dombe",
+      "email": "domberahul@gmail.com",
+      "designation": "Adviser",
+      "mobile": []
+    },
+    {
+      "name": "Rahul Dombe",
+      "email": "domberahul@gmail.com",
+      "designation": "Adviser",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10861",
+  "name": "RADHA KRUSHNA CHARITABLE TRUST TORAMBA",
+  "primaryEmail": "radhakrushnatrust2012@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "917744896076",
+    "919822468873",
+    "919130704608"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Toramba (Harali), Tal, Lohara,",
+      "Lohara",
+      "Osmanabad",
+      "Maharashtra",
+      "413608"
+    ]
+  },
+  "briefDescription": "Radha Krushna Charitable Trust Toramba is located in Osmanabad, Maharashtra.",
+  "yearOfEstablishment": "2012"
+}

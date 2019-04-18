@@ -1,0 +1,34 @@
+{
+  "contacts": [
+    {
+      "name": "K A Jayachandra",
+      "email": "",
+      "designation": "Chairman",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=725",
+  "name": "Shubhodaya Education Trust",
+  "primaryEmail": "adarshacollege@yahoo.com",
+  "website": "www.adarshacollege.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918244272261",
+    "918242459981",
+    "919448104321",
+    "918242459982"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "SHUBHODAYA' 1st Cross, Anegundi Road",
+      "Bejai",
+      "Mangalore",
+      "Dakshina Kannada",
+      "Karnataka",
+      "575004"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5803",
+  "name": "DURGA SOCIAL WELFARE SOCIETY",
+  "primaryEmail": "amarjeet.105@rediffmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Network"
+  ],
+  "telephone": [
+    "918601118555"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "Amarjeet Giri",
+      "VILL BADAYA HARDO FULPUR",
+      "POST KOTPUR PIPARA",
+      "Deoria",
+      "Uttar Pradesh",
+      "274603"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "VILL BADAYA HARDO FULPUR",
+      "POST KOTPUR PIPARA",
+      "BARHAJ",
+      "Deoria",
+      "Uttar Pradesh",
+      "274603"
+    ]
+  }
+}

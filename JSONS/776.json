@@ -1,0 +1,37 @@
+{
+  "contacts": [
+    {
+      "name": "Shivkumar Menon",
+      "email": "shiv.menon@janaagraha.org",
+      "designation": "Deputy Head-Development",
+      "mobile": [
+        "91-80-40790400"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=776",
+  "name": "Janaagraha Centre for Citizenship and Democracy (JCCD)",
+  "primaryEmail": "info@janaagraha.org",
+  "website": "www.janaagraha.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Network"
+  ],
+  "telephone": [
+    "918041271104",
+    "918040790400"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "4th Floor, UNI Building",
+      "Thimmaiah Road",
+      "Vasanth Nagar",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560052"
+    ]
+  },
+  "briefDescription": "Janaagraha is a non-profit organisation based in Bangalore, India. We seek to improve quality of life in Urban India by fixing the country’s ‘City Systems’ – laws, policies, institutions, and governance frameworks that directly underlie quality of life. As an organisation we work with both citizens and government to catalyse this systemic change using three scale models – Partnerships, Platforms, and Policies. Our work is guided by the City Systems Framework which provides the blueprint for world class cities through its four dimensions:• Urban Planning & Design• Urban Capacities & Resources• Empowered & Legitimate Political Representation• Transparency, Accountability & ParticipationFounded in 2001 by Ramesh Ramanathan and Swati Ramanathan, Janaagraha started as a movement to enable citizen participation in public governance. It has now evolved into a robust institution for Citizenship and Democracy.",
+  "yearOfEstablishment": "2005"
+}

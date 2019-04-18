@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "W.Sebasti Lourd Mary Anusha",
+      "email": "",
+      "designation": "Head",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1377",
+  "name": "Adaikalam Trust",
+  "primaryEmail": "adaikalam@live.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919962676335"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "80,SSV Koil,",
+      "1st Street,Melapattadai, Perambur",
+      "Chennai",
+      "Tamil Nadu",
+      "600011"
+    ]
+  }
+}

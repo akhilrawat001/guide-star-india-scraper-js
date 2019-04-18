@@ -1,0 +1,47 @@
+{
+  "contacts": [
+    {
+      "name": "Sindhu",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "2556796",
+        "9447268987"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3383",
+  "name": "SANTHI MEDICAL INFORMATION CENTRE",
+  "primaryEmail": "santhimedicalinfo@gmail.com",
+  "website": "www.santhimedicalinfo.org",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "914872556796",
+    "914872556796"
+  ],
+  "mainAddrress": {
+    "state": "Kerala",
+    "address": [
+      "punnathur road",
+      "kottapadi  P.O",
+      "guruvayur",
+      "Thrissur",
+      "Kerala",
+      "680505"
+    ]
+  },
+  "briefDescription": "Facilitated kidney transplants for 640 patients, 62 from the Gulf.Facilitated heart surgeries for 20,500 patients, 184 from the Gulf. \tDialysis Unit for the less privileged. 1, 50,000 Dialysis carried out in 10 years in Trichur, Palakkad, Kunnamkulam, puthanpally, chalakudy, waynad , kothamangalam and in our two mobile Dialysis units.\tMobilized Poor patient’s treatment fund for more than IRS80/Million from the Central Government and charitable institutions in India. \tProvides Mobile Lab facilities in rural areas of Kerala Inaugurated by Bharath Suresh Gopi \tProvides medical information for more than 100 persons daily and guided by Phone, Letter and E-Mail. \tPublishes a Health Magazine in Malayalam.",
+  "yearOfEstablishment": "1997",
+  "regiseredAddrress": {
+    "state": "Kerala",
+    "address": [
+      "Vanien Lane, Poonkunnam,",
+      "thrissur",
+      "Thrissur",
+      "Kerala",
+      "680502"
+    ]
+  }
+}

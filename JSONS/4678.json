@@ -1,0 +1,27 @@
+{
+  "contacts": [
+    {
+      "name": "Kinkar Ghosh",
+      "email": "bpaindia@gmail.com",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4678",
+  "name": "Blind Persons' Association",
+  "primaryEmail": "bpaindia@gmail.com",
+  "telephone": [
+    "913324605548",
+    "919432128493"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "6B Panchanantala Road",
+      "2Nd Floor",
+      "Kolkata",
+      "West Bengal",
+      "700029"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "contacts": [
+    {
+      "name": "Yogendra Jha",
+      "email": "",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=702",
+  "name": "Centre for Social Secuirity Action & Research",
+  "primaryEmail": "cssar@yahoo.in",
+  "website": "www.cssar.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919968246139"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "429, Rajendra Arihant",
+      "Tower, B-1,Community",
+      "Centre, Janakpuri",
+      "West Delhi",
+      "Delhi",
+      "110058"
+    ]
+  },
+  "briefDescription": "CSSAR IS ENGAGED IN TEACHING OF SLUM AND HOMELESS CHILDREN IN DELHI. CURRENTLY IT TEACHES 230 CHILDREN IN THREE SLUMS OF DELHI.",
+  "yearOfEstablishment": "2008",
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "239, Sector - 1",
+      "Pocket - 1, D D A Flat",
+      "Dwarka",
+      "New Delhi",
+      "Delhi",
+      "110075"
+    ]
+  }
+}

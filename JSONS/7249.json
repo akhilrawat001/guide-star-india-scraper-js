@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "MR.SHIVAKUMAR H R",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7249",
+  "name": "SEVA TRUST FOR THE BLIND",
+  "primaryEmail": "mail@sevatrustfortheblindrnr.org",
+  "website": "mail@sevatrustfortheblindrnr.org",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "919448309957"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "1 ST MAIN ROAD",
+      "MARUTI NAGAR",
+      "RANEBENNUR",
+      "Haveri",
+      "Karnataka",
+      "581115"
+    ]
+  }
+}

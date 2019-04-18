@@ -1,0 +1,41 @@
+{
+  "contacts": [
+    {
+      "name": "K.Brahmanandam",
+      "email": "snehaorg@rediffmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3440",
+  "name": "SNEHA RURAL DEVELOPMENT SOCIETY",
+  "primaryEmail": "snehaorg@rediffmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "917702656102"
+  ],
+  "mainAddrress": {
+    "state": "Telangana",
+    "address": [
+      "Ramakkapet",
+      "Near APSWR school",
+      "Dubbak",
+      "Medak",
+      "Telangana",
+      "502108"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Telangana",
+    "address": [
+      "House Number 3-10",
+      "Ramakkapet",
+      "Dubbak",
+      "Medak",
+      "Telangana",
+      "502108"
+    ]
+  }
+}

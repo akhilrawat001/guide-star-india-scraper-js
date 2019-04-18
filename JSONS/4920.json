@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Fakir charan Das",
+      "email": "dasshelter@yahoo.co.in",
+      "designation": "Secretary and CEO",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4920",
+  "name": "Society of Health Education Legal Training And Emergency Rehabilitation (SHELTER)",
+  "primaryEmail": "dasshelter@yahoo.co.in",
+  "website": "http://www.sheltersociety.com",
+  "organisationType": [
+    "Advocacy & Campaigning"
+  ],
+  "telephone": [
+    "919937986808"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "Plot No-GA-403,Behind New DAV School Phage-II",
+      "Sailashree Vihar,Po- Chandrasekharpur",
+      "Bhubaneswar",
+      "Khordha",
+      "Odisha",
+      "751021"
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Binoy Acharya",
+      "email": "",
+      "designation": "Member Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=641",
+  "name": "UNNATI-Organisation for Development Education",
+  "primaryEmail": "psu_unnati@unnati.org",
+  "website": "www.unnati.org",
+  "telephone": [
+    "917926716145",
+    "917926733296",
+    "917926743752",
+    "917926716145"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "G-1/200, Raksha Apartment",
+      "Azad Society",
+      "Ambawadi",
+      "Ahmedabad",
+      "Gujarat",
+      "380015"
+    ]
+  },
+  "yearOfEstablishment": "1990"
+}

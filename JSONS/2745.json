@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Swati T. Auhad",
+      "email": "mtsm_ho@rediffmail.com",
+      "designation": "Vice President",
+      "mobile": [
+        "91-9325107005"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2745",
+  "name": "Maharashtra Tantrik Shikshan Mandal",
+  "primaryEmail": "mtsm_ho@rediffmail.com",
+  "telephone": [
+    "912412423629",
+    "919325107005"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Kaustubh, Sona Nagar",
+      "Near Kushthadham, Savedi Road, Plot –23",
+      "Ahmadnagar",
+      "Ahmednagar",
+      "Maharashtra",
+      "414003"
+    ]
+  }
+}

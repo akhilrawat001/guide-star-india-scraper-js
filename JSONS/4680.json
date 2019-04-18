@@ -1,0 +1,65 @@
+{
+  "contacts": [
+    {
+      "name": "Shubhrajyoti Bhowmik",
+      "email": "sb@ankindia.org",
+      "designation": "Chief Mentor",
+      "mobile": [
+        "91-9810561157"
+      ]
+    },
+    {
+      "name": "Shubhrajyoti Bhowmik",
+      "email": "sb@ankindia.org",
+      "designation": "Chief Mentor",
+      "mobile": [
+        "91-9810561157"
+      ]
+    },
+    {
+      "name": "Shubhrajyoti Bhowmik",
+      "email": "sb@ankindia.org",
+      "designation": "Chief Mentor",
+      "mobile": [
+        "91-9810561157"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4680",
+  "name": "ANK",
+  "primaryEmail": "info@ankindia.org",
+  "website": "www.ankindia.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Intermediary"
+  ],
+  "telephone": [
+    "919810561157",
+    "919717422882"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "ANK, E 480, First floor",
+      "Opposite Mahesh Apartments",
+      "New Ashok Nagar",
+      "New Delhi",
+      "Delhi",
+      "110092"
+    ]
+  },
+  "briefDescription": "ANK as an organization was established in 2004 by a group of like minded individuals who wanted to be agents of social change to bring smiles and opportunities to people who where on the margins of society so that they could benefit from the paradigm changes that were taking place in the Indian economy and society. The belief behind starting ANK was that quality education is the only medium that can improve the living standards of the disadvantaged population. It is the most powerful tool, which can equip them to make informed and intelligent choices about their lives and future. ANK believes that education is the only weapon to fight poverty and truly empower the children who tomorrow will be the face of India. ANK seeks to achieve a better tomorrow through the medium of education and unleash the power of knowledge that is inaccessible to millions.",
+  "yearOfEstablishment": "2004",
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "JG 40, Ground Floor,",
+      "Hare Krishna Apartments",
+      "Malviya Nagar",
+      "South Delhi",
+      "Delhi",
+      "110017"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1306",
+  "name": "Jeevan Dan Samiti",
+  "primaryEmail": "jdsvishwesh@yahoo.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "915495249699",
+    "919450243848"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "Village Math Uchauri",
+      "Post Uchauri",
+      "Tehsil Saidpur",
+      "Ghazipur",
+      "Uttar Pradesh",
+      "233307"
+    ]
+  }
+}

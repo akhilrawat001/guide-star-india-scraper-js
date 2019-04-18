@@ -1,0 +1,23 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8279",
+  "name": "Aasha Samajik Vikas Sanstha",
+  "primaryEmail": "aashangosatara@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919665191116"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "45, Guruwar Peth",
+      "Kamani Houdh, Near Patvardhan Gyaraj",
+      "Satara",
+      "Maharashtra",
+      "415002"
+    ]
+  }
+}

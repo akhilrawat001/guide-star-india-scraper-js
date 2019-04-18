@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Vijay Jadhav",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7962",
+  "name": "LOKRAJYA SAMAJ VIKAS VA SANSHODHAN SANSTHAN AURANGABAD",
+  "primaryEmail": "lokrajya2009@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919168788578"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "D 3/12",
+      "Kasiwal Tarangaon",
+      "Daulatabad Road Padegaon",
+      "Aurangabad",
+      "Maharashtra",
+      "431001"
+    ]
+  }
+}

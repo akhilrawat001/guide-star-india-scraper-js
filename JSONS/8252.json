@@ -1,0 +1,41 @@
+{
+  "contacts": [
+    {
+      "name": "DR RAJESH RODGE",
+      "email": "kardfoundation@gmail.com",
+      "designation": "SECRETARY",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8252",
+  "name": "Kusum Ayurved Research And Development Foundation",
+  "primaryEmail": "kardfoundation@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919766304037"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Flat No.10,",
+      "K C Complex, Near Chate house",
+      "N-2, CIDCO,",
+      "Aurangabad",
+      "Maharashtra",
+      "431003"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Prayag",
+      "Sarvodaya Nagar",
+      "Teachers colony Selu",
+      "Parbhani",
+      "Maharashtra",
+      "431401"
+    ]
+  }
+}

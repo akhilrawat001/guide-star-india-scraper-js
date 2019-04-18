@@ -1,0 +1,48 @@
+{
+  "contacts": [
+    {
+      "name": "Subash Chandra Bairiganjan",
+      "email": "",
+      "designation": "Chairman",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3403",
+  "name": "The Miracle (NGO)",
+  "primaryEmail": "miraclengo@yahoo.com",
+  "website": "www.miracleodisha.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919437436212"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "baradeswar chhaka",
+      "TODAGOAN",
+      "barik pur",
+      "Bhadrak",
+      "Odisha",
+      "756112"
+    ]
+  },
+  "briefDescription": "The Miracle IS A LEADING ORG. ALWAYS LOOKING AFTER WOMEN AND CHILDREN FOR THEIR UPLIFTMENT. ORGANISING TRAINING PROGRAMES.WATER AND SANITATION PROGRAMES FOR RURAL PEOPLE.",
+  "yearOfEstablishment": "1989",
+  "regiseredAddrress": {
+    "state": "Odisha",
+    "address": [
+      "baradeswar chhaka",
+      "Todagoan",
+      "barikpur",
+      "Bhadrak",
+      "Odisha",
+      "756112"
+    ]
+  }
+}

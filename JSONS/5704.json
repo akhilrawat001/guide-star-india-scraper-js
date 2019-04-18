@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "Niranjani",
+      "email": "info@smilealways.org",
+      "designation": "Administrator",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5704",
+  "name": "Smile always Foundation",
+  "primaryEmail": "info@smilealways.org",
+  "website": "http://www.smilealways.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "mainAddrress": {
+    "address": []
+  },
+  "briefDescription": "Smile always Foundation makes life better for orphans, vulnerable children and families.We are an organization serving the poor and needy people especially children in the community in rural & urban slum areas and backward communities of Telangana and Andhra Pradesh, India.Smile always Foundation commenced its service during 2005 by providing Food, Shelter and education to the Orphan, Semi-Orphan, destitute and underprivileged children in some of the backward areas in Andhra Pradesh,Telangana states of India. Since then the ‘Smile always’ is involved in Child care and education, Literacy for illiterates, Drinking Water Bore wells for poor communities, Health Care interventions, HIV/AIDS awareness, Capacity building initiatives, Women empowerment, Saving based credit programs, Relief at the times of Natural calamities.Reach out to the poorest of the poor in India",
+  "yearOfEstablishment": "2005",
+  "regiseredAddrress": {
+    "state": "Telangana",
+    "address": [
+      "Plot No.13, Mamatha Nagar, Nagole,",
+      "Near Musi Bridge",
+      "Hyderabad",
+      "Medchal",
+      "Telangana",
+      "500068"
+    ]
+  }
+}

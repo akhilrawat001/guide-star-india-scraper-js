@@ -1,0 +1,34 @@
+{
+  "contacts": [
+    {
+      "name": "George Varghese",
+      "email": "vbsudr@yahoo.com",
+      "designation": "Manager",
+      "mobile": [
+        "91-294-2450911"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=507",
+  "name": "Vidya Bhawan Society",
+  "primaryEmail": "vbsudr@yahoo.com",
+  "website": "http://www.vidyabhawan.org.",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "912942450911",
+    "912942451323",
+    "912942450911"
+  ],
+  "mainAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "Vidya Bhawan Society, Dr MohanSinha Mehta Marg",
+      "Fatehpura-Dewali Road",
+      "Udaipur",
+      "Rajasthan",
+      "313004"
+    ]
+  }
+}

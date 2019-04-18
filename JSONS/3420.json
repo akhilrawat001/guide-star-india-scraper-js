@@ -1,0 +1,43 @@
+{
+  "contacts": [
+    {
+      "name": "Birendra Kumar Jha",
+      "email": "",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3420",
+  "name": "Maulana Azad Samajik Evam Shaikshnik Parishad",
+  "primaryEmail": "massp123@gmail.com",
+  "website": "http://www.massp.org.in/",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service"
+  ],
+  "telephone": [
+    "919835095429"
+  ],
+  "mainAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "Bandha, Taran Tilha",
+      "Behind Om Bharat Gas Agency, Baijnathpur",
+      "Deoghar",
+      "Jharkhand",
+      "814112"
+    ]
+  },
+  "briefDescription": "We are implementing NRM projects(such as watershed,wadi, seed village etc.) mostly funded by NABARD,Jharkhand and Bihar. Currently 46 people are serving our organisation.",
+  "yearOfEstablishment": "1990",
+  "regiseredAddrress": {
+    "state": "Bihar",
+    "address": [
+      "Radha Bhawan Compound",
+      "Opp. L.C.T. Ghat, Mainpura",
+      "Patna",
+      "Bihar",
+      "800001"
+    ]
+  }
+}

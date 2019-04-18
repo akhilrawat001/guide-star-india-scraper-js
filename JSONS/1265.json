@@ -1,0 +1,30 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1265",
+  "name": "BOSCO Organisation for Social Concern and Operation",
+  "primaryEmail": "boscodelhi@sify.com",
+  "website": "www.boscodelhi.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "912226820632",
+    "911126321903",
+    "912226820632"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "Don Bosco Technical Institute,,",
+      "Jamia Nagar, Okhla",
+      "New Delhi",
+      "Delhi",
+      "110025",
+      "AP_TelBill_1169.PDF"
+    ]
+  }
+}

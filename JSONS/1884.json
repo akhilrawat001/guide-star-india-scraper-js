@@ -1,0 +1,24 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1884",
+  "name": "Gandhiji Seva Parisad",
+  "primaryEmail": "gsp_skp@yahoo.co.in",
+  "website": "www.gandhijisevaparisad.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service"
+  ],
+  "telephone": [
+    "916861237090",
+    "919438181495"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "At/Po-Kudumuluguma",
+      "Malkangiri",
+      "Odisha",
+      "764043"
+    ]
+  }
+}

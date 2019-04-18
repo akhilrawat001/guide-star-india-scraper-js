@@ -1,0 +1,48 @@
+{
+  "contacts": [
+    {
+      "name": "Prasad Kabadi",
+      "email": "foundationiwc@gmail.com",
+      "designation": "Project Manager",
+      "mobile": [
+        "91-9987969540"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8227",
+  "name": "Indian Women And Children Foundation",
+  "primaryEmail": "foundationiwc@gmail.com",
+  "website": "www.iwcfoundation.org",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919975591865",
+    "919987969540"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Shop 5/6",
+      "Shopping Complex Mansarovar, Post Vidyashram",
+      "Bhiwandi",
+      "Thane",
+      "Maharashtra",
+      "421305"
+    ]
+  },
+  "briefDescription": "Indian Women and Children Foundation (IWCF) is a Non Governmental, Non Profit, Community Based Developmental Organization working in the Urban, Semi-Urban, Rural areas as well as in the Tribal pockets of the Bhiwandi , Shahapur and Vasai Tehsil of Thane District, since 2002.As it is mentioned in the name, the foundation basically works for the all round development of the Under- privileged women and children. It strives for strengthening the Socio-Economical development through continuous and focused community interventions.",
+  "yearOfEstablishment": "2002",
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "B 15 702",
+      "Mansarovar, Post Vidyashram",
+      "Bhiwandi",
+      "Thane",
+      "Maharashtra",
+      "421305"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "contacts": [
+    {
+      "name": "Zubin J  Bamji",
+      "email": "swastikcharitabletrust@gmail.com",
+      "designation": "Vice President",
+      "mobile": [
+        "91-2634-287805",
+        "91-9925223891"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1488",
+  "name": "Swastik Charitable Trust",
+  "primaryEmail": "swastikcharitabletrust@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "912634288744",
+    "919662961009"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "7-Shivam Apartment",
+      "Station Road,",
+      "Bilimora",
+      "Navsari",
+      "Gujarat",
+      "396321"
+    ]
+  }
+}

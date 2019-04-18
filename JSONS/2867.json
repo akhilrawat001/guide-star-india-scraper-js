@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "Ravindra Hombal",
+      "email": "r_hombal@yahoo.com",
+      "designation": "Chairman",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2867",
+  "name": "Gram Shikshana Charity Foundation",
+  "primaryEmail": "r_hombal@yahoo.com",
+  "telephone": [
+    "918362236055",
+    "918362236055"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "31 Morarji Nagar",
+      "Gokul Road",
+      "Hubli",
+      "Dharwad",
+      "Karnataka",
+      "580030"
+    ]
+  }
+}

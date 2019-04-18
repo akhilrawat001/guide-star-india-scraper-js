@@ -1,0 +1,27 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7127",
+  "name": "Disha Sewa Sansthan",
+  "primaryEmail": "dishasewasansthanmrt@gmail.com",
+  "website": "http://www.dishasewasansthan.ngo",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "918006734242",
+    "919359065166",
+    "911214005988"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "530, Lisari",
+      "Meerut",
+      "Uttar Pradesh",
+      "250002"
+    ]
+  }
+}

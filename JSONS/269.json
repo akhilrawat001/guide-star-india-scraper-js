@@ -1,0 +1,38 @@
+{
+  "contacts": [
+    {
+      "name": "Pratibha K Rao",
+      "email": "pratibhakrao9@gmail.com",
+      "designation": "CEO",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=269",
+  "name": "Deeds Public Charitable Trust",
+  "primaryEmail": "raavi.murarka@gmail.com",
+  "website": "http://www.deeds-india.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "912226058048",
+    "919967234486",
+    "912226048911"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "8, Bajaj Arcade",
+      "31, Union Park, Khar West",
+      "Mumbai",
+      "Maharashtra",
+      "400052"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Maharashtra"
+    ]
+  }
+}

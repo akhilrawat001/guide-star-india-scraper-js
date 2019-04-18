@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "P RAJARETHINAM",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4465",
+  "name": "BETTER ENVIRONMENT FOR EVERYBODY IN THE SOCIETY (BEES)",
+  "primaryEmail": "bees_pr@yahoo.co.in",
+  "website": "www.beesindia.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "914522094057",
+    "914522094057"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "No:12, Press colony, Near Mattuthavani bus stand",
+      "Madurai",
+      "Tamil Nadu",
+      "625007"
+    ]
+  }
+}

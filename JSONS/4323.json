@@ -1,0 +1,34 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4323",
+  "name": "Community Health Research Programme Charitable Trust",
+  "primaryEmail": "helplibrary@gmail.com",
+  "website": "www.healthlibrary.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service"
+  ],
+  "telephone": [
+    "912265952393"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Ashish, 5th floor,",
+      "Tardeo end of Bombay Central Bridge, Tardeo,",
+      "Mumbai",
+      "Maharashtra",
+      "400034"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "206, Dr.D.N Road, National Insurance building, Ground Floor, Fort,",
+      "Near New Excelsior Cinema,",
+      "Mumbai",
+      "Maharashtra",
+      "400001"
+    ]
+  }
+}

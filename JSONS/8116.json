@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Prof. V. J. Naidu",
+      "email": "sochursod@gmail.com",
+      "designation": "Executive Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8116",
+  "name": "Society for Human Rights and Social Development -SOCHURSOD",
+  "primaryEmail": "sochursod@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918772244973",
+    "918772244973"
+  ],
+  "mainAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "15-49/2, Sri Sai Sadan,",
+      "Padmavathi Nagar",
+      "Tirupati",
+      "Chittoor",
+      "Andhra Pradesh",
+      "517502"
+    ]
+  }
+}

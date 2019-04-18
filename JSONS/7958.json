@@ -1,0 +1,27 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7958",
+  "name": "VISION RESCUE",
+  "primaryEmail": "ajesh@visionrescue.co.in",
+  "website": "www.visionrescue.co.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919930879098",
+    "912225790119"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "18 1/1,",
+      "Near Mahatma Phule Hospital,",
+      "Vikhroli East",
+      "Mumbai",
+      "Maharashtra",
+      "400083"
+    ]
+  }
+}

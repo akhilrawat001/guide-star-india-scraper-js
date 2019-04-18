@@ -1,0 +1,35 @@
+{
+  "contacts": [
+    {
+      "name": "Mr.Purushottam Kute",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7119",
+  "name": "Swami Vivekanand Seva Trust (SVST)",
+  "primaryEmail": "svsthingoli@gmail.com",
+  "website": "svstmh.blogspot.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "912456220630",
+    "912456220630"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "At Post-Sukli, Taluka-Sengaon",
+      "SVST Admin Office, Lothe Nivas, Kothaloj Road, Naiknagar",
+      "Hingoli",
+      "Maharashtra",
+      "431514"
+    ]
+  },
+  "briefDescription": "SVST is a non-political, non-religious and development oriented grassroot level organization. The thrust area of working has been to work for creating self employment avenues for the unemployed and income generation by the poor for self-reliance. Scientific management of enterprises and income generation activities in the rural areas had been the main hurdle for coming up for a sustainable economic growth. SVST, a non-profit organization was established with an aim to provide qualitative inputs for making society systematic and sustainable economically in the long run. Its focus has been on the development of poor and marginalized people, youth, women, adolescents and children.",
+  "yearOfEstablishment": "2010"
+}

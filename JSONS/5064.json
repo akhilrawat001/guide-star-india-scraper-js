@@ -1,0 +1,40 @@
+{
+  "contacts": [
+    {
+      "name": "BANAMALI SINGHA",
+      "email": "katkina.rvds@gmail.com",
+      "designation": "PRESIDENT",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5064",
+  "name": "KAT KINA ISWARIPUR RURAL VILLAGE DEVELOPMENT SOCIETY",
+  "primaryEmail": "katkina.rvds@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919830475865"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "VILL: KAT KINA ISWARIPUR",
+      "POST: DHANPOTA",
+      "PS: MOGRAHAT",
+      "South 24 Parganas",
+      "West Bengal",
+      "743355"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "NOT PROVIDED",
+      "PS: MOGRAHAT",
+      "South 24 Parganas",
+      "West Bengal",
+      "743355"
+    ]
+  }
+}

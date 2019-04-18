@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "Sudhir Kumar Singh",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7244",
+  "name": "Sewabharti Sewapuri, Bhagalpur",
+  "primaryEmail": "sewabhartisewapuri@yahoo.co.in",
+  "website": "www.sewabhartisewapuri.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919939626925",
+    "919155782443"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "Sewabharti Sewapuri, At - Acharaj",
+      "Post- Bounsi, Ps-Bounsi",
+      "Bounsi",
+      "Banka",
+      "Bihar",
+      "813104"
+    ]
+  }
+}

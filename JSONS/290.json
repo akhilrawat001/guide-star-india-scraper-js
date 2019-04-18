@@ -1,0 +1,49 @@
+{
+  "contacts": [
+    {
+      "name": "Milind Mhaske",
+      "email": "milind@praja.org",
+      "designation": "Project Director",
+      "mobile": [
+        "91-22-65252729"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=290",
+  "name": "Praja Foundation",
+  "primaryEmail": "sumangali@adity.net",
+  "website": "www.praja.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service"
+  ],
+  "telephone": [
+    "912222188865",
+    "919820286050",
+    "+912265252729",
+    "919930811106"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Victoria Building 1st Floor",
+      "Agiary Lane , Off Mint Road",
+      "Fort, Mumbai",
+      "Mumbai",
+      "Maharashtra",
+      "400001"
+    ]
+  },
+  "briefDescription": "Praja is a non-partisan voluntary organization enabling accountable governance. Praja empowers citizens to participate in governance by providing knowledge and perspective so that they can become politically active and involved beyond the ballot box. It undertakes extensive research and highlights civic issues to build the awareness of, and mobilize action by the government and elected representatives.",
+  "yearOfEstablishment": "1999",
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "84A",
+      "Nepean Sea Road",
+      "Mumbai",
+      "Maharashtra",
+      "400006"
+    ]
+  }
+}

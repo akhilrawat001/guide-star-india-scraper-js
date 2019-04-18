@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Ch Vijaya Bhaskar Rao",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3597",
+  "name": "Social Service Society",
+  "primaryEmail": "sss.kdp@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919666626586"
+  ],
+  "mainAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "D.No.67/143,SBI Colony,RV Nagar Post, Kadapa",
+      "Kadapa",
+      "YSR District, Kadapa (Cuddapah)",
+      "Andhra Pradesh",
+      "516003"
+    ]
+  }
+}

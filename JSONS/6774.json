@@ -1,0 +1,35 @@
+{
+  "contacts": [
+    {
+      "name": "Sarang Chaudhary",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "9560249933"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6774",
+  "name": "SNEH FOUNDATION",
+  "primaryEmail": "snehfoundationindia@gmail.com",
+  "website": "http://www.snehfoundationindia.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919560249933"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Dr. Pankaj Bohra Clinic",
+      "Near Darshan Hall",
+      "Chinchwad, Pune",
+      "Pune",
+      "Maharashtra",
+      "411033"
+    ]
+  }
+}

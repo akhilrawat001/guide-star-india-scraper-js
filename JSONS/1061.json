@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "U. Anbarasu",
+      "email": "",
+      "designation": "Secretary/founder",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1061",
+  "name": "Society for Community Organisation and Rural Development",
+  "primaryEmail": "scordindia@hotmail.com",
+  "website": "www.scordindia.org",
+  "telephone": [
+    "914367270420",
+    "914367270494",
+    "914367270420"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "North Street  Alangottai",
+      "Mannargudi",
+      "Tiruvarur",
+      "Tamil Nadu",
+      "614018"
+    ]
+  }
+}

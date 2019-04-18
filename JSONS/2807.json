@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Sadhana Kumari",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2807",
+  "name": "YOUNG ACTION FOR MASS (YAM) INDIA",
+  "primaryEmail": "yam.india@yahoo.co.in",
+  "website": "B.B.SARKAR ROAD, AMBEDKAR NAGAR,BARMASIA",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919199338966"
+  ],
+  "mainAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "AMBEDKAR NAGAR",
+      "BARMASIA",
+      "DEOGHAR",
+      "Deoghar",
+      "Jharkhand",
+      "814112"
+    ]
+  }
+}

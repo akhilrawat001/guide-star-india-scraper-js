@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "KANUBHAI SHELAR",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8010",
+  "name": "THE SOCIETY FOR PHYSICALLY HANDICAPPED",
+  "primaryEmail": "thespha@yahoo.co.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "917926576519",
+    "917926576519"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "No.-6, Sudama House (Marutinandan Complex)",
+      "Pritamnagar,",
+      "Ellisbridge, Ahmedabad",
+      "Ahmedabad",
+      "Gujarat",
+      "380006"
+    ]
+  }
+}

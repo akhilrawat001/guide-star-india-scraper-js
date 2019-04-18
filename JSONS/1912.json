@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Shakil Ahmed",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1912",
+  "name": "Parivartan Shikshan Sanstha",
+  "primaryEmail": "parivartanshikshan@gmail.com",
+  "website": "www.parivartansanstha.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "912222947309",
+    "912222947309"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Parivartan Shikshan Sanstha, Dr. Babasaheb Ambedkar Telgu Sangh, Room No. 14. Vijay Nagar Rahivasi Sangh, Vijay Nagar, Salt Pan Road, Bharni Naka Antop Hill, Wadala East, Mumbai",
+      "Salt Pan Road, Bharni Naka Antop Hill, Wadala East, Mumbai",
+      "Mumbai",
+      "Maharashtra",
+      "400037"
+    ]
+  }
+}

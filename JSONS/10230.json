@@ -1,0 +1,38 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10230",
+  "name": "DHARITHREE TRUST",
+  "primaryEmail": "info@dharithree.org",
+  "website": "www.dharithree.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919448353888",
+    "918023567518"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "Dharithree Trust",
+      "46, 1st Main, G.D. Park Extn., Vyallikaval, Malleshwaram",
+      "Bengaluru",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560003"
+    ]
+  },
+  "briefDescription": "To empower special (Handicapped) young and adult children and provide them residential accommodation when deemed necessary.  Dharithree now serves around 200 children/adults.",
+  "yearOfEstablishment": "2003",
+  "regiseredAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "56, 11th Main Road",
+      "Malleshwaram",
+      "Bengaluru",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560003"
+    ]
+  }
+}

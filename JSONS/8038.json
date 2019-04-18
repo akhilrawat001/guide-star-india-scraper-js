@@ -1,0 +1,44 @@
+{
+  "contacts": [
+    {
+      "name": "BAPPADITYA CHAKRABORTY",
+      "email": "bappadc@gmail.com",
+      "designation": "SECRTARY",
+      "mobile": []
+    },
+    {
+      "name": "BAPPADITYA CHAKRABORTY",
+      "email": "bappadc@gmail.com",
+      "designation": "SECRTARY",
+      "mobile": []
+    },
+    {
+      "name": "BAPPADITYA CHAKRABORTY",
+      "email": "bappadc@gmail.com",
+      "designation": "SECRTARY",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8038",
+  "name": "HEALTH & ECO DEFENCE - SOCIETY",
+  "primaryEmail": "heds11@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919830117184"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "11C,",
+      "MONALISA",
+      "17 CAMAC STREET",
+      "Kolkata",
+      "West Bengal",
+      "700017"
+    ]
+  },
+  "briefDescription": "HEALTH & ECO DEFENCE - SOCIETY IS LOCATED IN WEST BENGAL.",
+  "yearOfEstablishment": "1992"
+}

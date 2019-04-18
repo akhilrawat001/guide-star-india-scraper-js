@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Rajesh A Shinde",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6224",
+  "name": "BHUVANESHWARI SEVA SAMSTHE, GADAG",
+  "primaryEmail": "rajuseva2002@rediffmail.com",
+  "website": "www.bssgdg.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918362203949",
+    "918362203949"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "Kireusr Building Near Gandhi Circle Gadag",
+      "Behand Head Post Gadag",
+      "Gadag",
+      "Karnataka",
+      "582101"
+    ]
+  }
+}

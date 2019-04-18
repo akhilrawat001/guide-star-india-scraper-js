@@ -1,0 +1,23 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=769",
+  "name": "Towards Future",
+  "primaryEmail": "2wards.future@gmail.com",
+  "website": "www.towardsfuture.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919831630412"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "6 Dumdum Park, Keshab Apartment",
+      "3rd Floor, Flat 4A",
+      "Kolkata",
+      "West Bengal",
+      "700055"
+    ]
+  }
+}

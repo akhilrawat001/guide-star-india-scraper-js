@@ -1,0 +1,35 @@
+{
+  "contacts": [
+    {
+      "name": "Runa Banerjee",
+      "email": "",
+      "designation": "CEO",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8120",
+  "name": "SELF EMPLOYED WOMEN'S ASSOCIATION SEWA LUCKNOW",
+  "primaryEmail": "sewa_lko@rediffmail.com",
+  "website": "www.sewalucknow.org",
+  "organisationType": [
+    "Direct Service",
+    "Intermediary",
+    "Support"
+  ],
+  "telephone": [
+    "915222743259",
+    "919415102206"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "474/1Ka/4, Braham Nagar",
+      "Sitapur Road",
+      "Lucknow",
+      "Uttar Pradesh",
+      "226020"
+    ]
+  },
+  "briefDescription": "Self-Employed Women’s Association (SEWA-Lucknow) is an autonomous organisation of Chikan artisans. Impetus for setting up SEWA-Lucknow came from a UNICEF sponsored study conducted in 1979 on the condition of Chikan artisans. The study established that over 40,000 Chikan artisans working in and around Lucknow were highly exploited in the industry even as middlemen made hay. As a result, Chikan artisans lived in shanty localities and suffered from poverty; they and their offspring were illiterate; and their families had poor health.",
+  "yearOfEstablishment": "1984"
+}

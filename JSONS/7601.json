@@ -1,0 +1,34 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7601",
+  "name": "Action for Welfare and Awakening in Rural Environment (AWARE)",
+  "primaryEmail": "katadimreipanmei15@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919436231806"
+  ],
+  "mainAddrress": {
+    "state": "Manipur",
+    "address": [
+      "Dimdaijang,",
+      "Thangmeiband, Imphal,",
+      "New Salem Village, Medical Gate,",
+      "Imphal West",
+      "Manipur",
+      "795004"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Manipur",
+    "address": [
+      "Wairangba part-II",
+      "(Duiluan Part-II), Tamenglong",
+      "Tamenglong",
+      "Manipur",
+      "795141"
+    ]
+  }
+}

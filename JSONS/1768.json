@@ -1,0 +1,38 @@
+{
+  "contacts": [
+    {
+      "name": "Kumari Amrita",
+      "email": "",
+      "designation": "Manager",
+      "mobile": []
+    },
+    {
+      "name": "Kumari Amrita",
+      "email": "",
+      "designation": "Manager",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1768",
+  "name": "Om Nirman Bharti",
+  "primaryEmail": "onirmanb@gmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919835205180"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "Vill-Madhubani  Po-Patahi",
+      "Muzaffarpur",
+      "Bihar",
+      "843113"
+    ]
+  }
+}

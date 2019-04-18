@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Vijay Nagnath Awaghade",
+      "email": "ajss.ngo@gmail.com",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4492",
+  "name": "Anand Janvikas Samajik Sanstha",
+  "primaryEmail": "ajss.ngo@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918308568453"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "A/p - kem Tal - Karmala Dist - Solapur",
+      "Kem",
+      "Solapur",
+      "Maharashtra",
+      "413223"
+    ]
+  }
+}

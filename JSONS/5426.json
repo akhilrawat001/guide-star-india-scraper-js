@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "Mrs Shalini C Bijliwala",
+      "email": "bijliwala@gmail.com",
+      "designation": "Co-ordinator",
+      "mobile": [
+        "91-9833186682"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5426",
+  "name": "AASHISH FOUNDATION",
+  "primaryEmail": "aashishfoundation@gmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "912267439941",
+    "919870183414"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "122, Unique Industrial Estate,",
+      "Near Shiddhivinayak Temple, Prabhadevi",
+      "Mumbai",
+      "Maharashtra",
+      "400025"
+    ]
+  },
+  "briefDescription": "Aashish Foundation is a trust which aims to provide best practice in the assessment and management of individuals    having developmental challenges. The foundation runs two Centres offering Occupational Therapy services; located at Prabhadevi and Navi Mumbai. Since the inception of the centres in 2008. the foundation has served around 500 families. Our future plan is to develop a custodial care home for our clients.",
+  "yearOfEstablishment": "2008"
+}

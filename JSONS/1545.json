@@ -1,0 +1,27 @@
+{
+  "contacts": [
+    {
+      "name": "Pradeep S Mehta",
+      "email": "",
+      "designation": "Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1545",
+  "name": "Consumer Unity & Trust Society",
+  "primaryEmail": "psm@cuts.org",
+  "telephone": [
+    "911412282821",
+    "911412282821"
+  ],
+  "mainAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "D-217",
+      "Bhaskar Marg, Bani Park,",
+      "Jaipur",
+      "Rajasthan",
+      "302016"
+    ]
+  }
+}

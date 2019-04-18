@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "ANILKUMAR",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "42933333"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5988",
+  "name": "SINGHVI CHARITABLE TRUST",
+  "primaryEmail": "info@sugalgroup.com",
+  "website": "http://www.singhvi.co.in/",
+  "organisationType": [
+    "Advocacy & Campaigning"
+  ],
+  "telephone": [
+    "914442933333",
+    "914442933333"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "No.961, Siyat House, 4th Floor",
+      "Poonamallee High Road",
+      "Chennai",
+      "Tamil Nadu",
+      "600084"
+    ]
+  }
+}

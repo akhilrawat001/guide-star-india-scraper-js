@@ -1,0 +1,51 @@
+{
+  "contacts": [
+    {
+      "name": "PREETY SINGH",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "9958102189"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5854",
+  "name": "JOKERS GROUP",
+  "primaryEmail": "delhijokers@gmail.com",
+  "website": "http://www.jokersgroup.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919958102189",
+    "+918130472135"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "11A T/F AMRITPURI, GHARI",
+      "EAST OF KAILASH",
+      "NEW DELHI",
+      "New Delhi",
+      "Delhi",
+      "110065"
+    ]
+  },
+  "briefDescription": "JOKERS is a Non-Governmental Organization to promote welfare activities aimed at the alleviation of human suffering and overall amelioration of society especially for the poor, helpless youth/juveniles . The name JOKERS was carefully chosen to give a simple definition of the organization's activities.JOKERS stands for-JOYOFKINDNESS WITH THEEXPERIENCE OFRIGHT TIME HELP TOWARDSSOCIETY",
+  "yearOfEstablishment": "2014",
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "11A T/F AMRITPURI, GARHI",
+      "EAST OF KAILASH ,NEAR ISKCON TEMPLE",
+      "NEW DELHI",
+      "South Delhi",
+      "Delhi",
+      "110065"
+    ]
+  }
+}

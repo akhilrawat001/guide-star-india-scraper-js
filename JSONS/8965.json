@@ -1,0 +1,42 @@
+{
+  "contacts": [
+    {
+      "name": "Harender Saxena",
+      "email": "skavs186@gmail.com",
+      "designation": "President",
+      "mobile": [
+        "91-9887720786"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8965",
+  "name": "SAMAJ KALYAN AVOM VIKASH SANSTHAN",
+  "primaryEmail": "skavs186@gmail.com",
+  "website": "www.samajkalyan.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919887720786"
+  ],
+  "mainAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "Hotal Haveli 2 Park House Scheme",
+      "Opp All India Radio M.I. Road Ear Ganpati Plaza",
+      "jaipur",
+      "Jaipur",
+      "Rajasthan",
+      "302001"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "C-1/181 Nand Nagri,",
+      "East Delhi",
+      "Delhi",
+      "110093"
+    ]
+  }
+}

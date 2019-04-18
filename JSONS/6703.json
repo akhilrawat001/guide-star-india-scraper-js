@@ -1,0 +1,38 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6703",
+  "name": "Brahmi Educational and Cultural Trust",
+  "primaryEmail": "info@brahmi.org",
+  "website": "www.brahmi.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919945013193",
+    "919448584569"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "Anjana Vidya Kendra",
+      "DesapandeGuttahalli, Tattanur Village,  Kalkunte Post, Via- Kadugodi",
+      "Bangalore",
+      "Bengaluru (Bangalore) Rural",
+      "Karnataka",
+      "560067"
+    ]
+  },
+  "briefDescription": "Brahmi's main goal is to provide meaningful education to needy Rural Children. The organization runs a formal school at Desapandeguttahalli, a backward village on the outskirts of Bangalore. The school, recognized by the govt. of Karanataka and currently provides formal education to about 325 disadvantaged children (children of small time farmers, migrant labour and farm workers), particularly girls.",
+  "yearOfEstablishment": "1999",
+  "regiseredAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "Anjana Vidya Kendra",
+      "DesapandeGuttahalli, Tattanur Village,  Kalkunte Post, Via- Kadugodi",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560067"
+    ]
+  }
+}

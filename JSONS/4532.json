@@ -1,0 +1,38 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4532",
+  "name": "Sewa International",
+  "primaryEmail": "sewamumbai@gmail.com",
+  "website": "www.sewainternational.org",
+  "organisationType": [
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919869165147"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Chachad Smruti, Gaothan 2nd Lane,",
+      "Station Road, Santacruz West,",
+      "Mumbai",
+      "Mumbai Suburban",
+      "Maharashtra",
+      "400054"
+    ]
+  },
+  "briefDescription": "Sewa International is a Voluntary Organisation working to create a global movement of selfless actions inspired by the Hindu spirit of Sewa for the well being of the entire mankind. The movement started in 1991 in the UK by some volunteers to initially help the earthquake victims of Latur, Maharashtra. The movement has spread to USA, Canada, Australia and 15 other countries. Sewa International was involved in rescue, relief and rehabilitation work of Gujarat Earthquake of 2001 and scores of other natural disasters in the last decade. Sewa International supports about 100 grass roots level NGOs having a nationwide presence. A wide spectrum of service activities are covered by these projects.",
+  "yearOfEstablishment": "1997",
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "49 Ground Floor, D D Upadhyay Marg",
+      "New Delhi",
+      "Central Delhi",
+      "Delhi",
+      "110002"
+    ]
+  }
+}

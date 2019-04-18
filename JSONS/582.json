@@ -1,0 +1,27 @@
+{
+  "contacts": [
+    {
+      "name": "Monoj Kumar Poddar (Dr)",
+      "email": "",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=582",
+  "name": "Vivek Bicklang Sah-Jan Utthan Sansthan",
+  "primaryEmail": "vivekbiklang@yahoo.co.in",
+  "telephone": [
+    "916243243619",
+    "916243243619"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "At- Harpur",
+      "Tilrath",
+      "Begusarai",
+      "Bihar",
+      "851122"
+    ]
+  }
+}

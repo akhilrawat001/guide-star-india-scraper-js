@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Sachin Kinikar",
+      "email": "",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=948",
+  "name": "Sanjivani Vikas Foundation",
+  "primaryEmail": "kinikarsachin@yahoo.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "912172345560",
+    "919422065514"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "M11,Sundaram Nagar",
+      "Bijapur Road",
+      "Solapur",
+      "Maharashtra",
+      "413004"
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Dr.Vijay Gautam",
+      "email": "srkgmss@gmail.com",
+      "designation": "Managing Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3283",
+  "name": "Shri Roop Kishore Gautam Manav Sewa Sansthan",
+  "primaryEmail": "srkgmss@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919837602917"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "Katra Chowki",
+      "Jalesar",
+      "Etah",
+      "Uttar Pradesh",
+      "207302"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "contacts": [
+    {
+      "name": "Asha Mehta",
+      "email": "ratnatrust@gmail.com",
+      "designation": "Trustee",
+      "mobile": [
+        "91-022-23895997"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=869",
+  "name": "Ratna Nidhi Charitable Trust",
+  "primaryEmail": "ratnanidhicharity@gmail.com",
+  "website": "www.ratnanidhi.org",
+  "organisationType": [
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "912223878930",
+    "912223898930"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Vasant Vilas, 5th Floor",
+      "31 DD Sathye Marg",
+      "Mumbai",
+      "Maharashtra",
+      "400004"
+    ]
+  },
+  "briefDescription": "The organisation implements a varied range of humanitarian projects with a special emphasis on the physically handicapped and children. Till date its projects have benefited over 2,45,000 physically handicapped and hearing impaired, over 63,000 street and slum children and distributed lakhs of food packets under its Food for Education programme",
+  "yearOfEstablishment": "1967"
+}

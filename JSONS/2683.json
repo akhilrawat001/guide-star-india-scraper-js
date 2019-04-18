@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "A.P.Pandey",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "9335052750"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2683",
+  "name": "Unique Vikas Sansthan",
+  "primaryEmail": "unique.vikas.sansthan@gmail.com",
+  "website": "www.uniquevikassansthan.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919335052750",
+    "918009007744"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "2/94-B, Vijay Khand, Gomti Nagar",
+      "Gomti Nagar Thana Road",
+      "Lucknow",
+      "Uttar Pradesh",
+      "226010"
+    ]
+  }
+}

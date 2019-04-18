@@ -1,0 +1,44 @@
+{
+  "contacts": [
+    {
+      "name": "Yogesh Rajvaidya",
+      "email": "rajvaidyayogesh1@gmail.com",
+      "designation": "Secretary",
+      "mobile": [
+        "91-9096278415"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=635",
+  "name": "Dnyandeep Pratishthan,Telhara",
+  "primaryEmail": "rajvaidyayogesh1@gmail.com",
+  "website": "we have no webside",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "917258231157",
+    "919881560155"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Yogesh Rajvaidya, Back Side Of Police Station",
+      "Telhara",
+      "Akola",
+      "Maharashtra",
+      "444108"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "C/O Yogesh Rajvaidya, Back Side Of Police Station",
+      "Telhara",
+      "Akola",
+      "Maharashtra",
+      "444108",
+      "AP_TelBill_552.PDF"
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Arabinda Ghosh",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5128",
+  "name": "KIRNAHAR SNEHALATA SCHOOL",
+  "primaryEmail": "snehalata.school@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919163904784"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Kirnahar, Birbhum, West Bengal pin 731302",
+      "KIRNAHAR",
+      "Birbhum",
+      "West Bengal",
+      "731302"
+    ]
+  }
+}

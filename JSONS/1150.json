@@ -1,0 +1,38 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1150",
+  "name": "Asian Institute for Services  Health  & Agricultural Reserch to Antyoday",
+  "primaryEmail": "ishwar_yogi@yahoo.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "912672284373"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "At, Po & Ta- Morva (Hadaf),",
+      "Godhra",
+      "Panchmahal",
+      "Gujarat",
+      "389115",
+      "AP_BankStat_1052.PDF"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "At Gadh",
+      "Po - Paravadi,",
+      "Godhra",
+      "Panchmahal",
+      "Gujarat",
+      "389120",
+      "AP_BankStat_1052.PDF"
+    ]
+  }
+}

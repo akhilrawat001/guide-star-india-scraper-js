@@ -1,0 +1,26 @@
+{
+  "contacts": [
+    {
+      "name": "Yogendranath Sachan",
+      "email": "",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=606",
+  "name": "People's Initiative for Developmental Association",
+  "primaryEmail": "pidaup@gmail.com",
+  "telephone": [
+    "919936986818"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "Vill-Chainapur",
+      "Bara Daultpur",
+      "Kanpur Dehat",
+      "Uttar Pradesh",
+      "209206"
+    ]
+  }
+}

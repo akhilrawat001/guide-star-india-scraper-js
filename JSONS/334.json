@@ -1,0 +1,25 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=334",
+  "name": "Centre for Communication Resources Development (CENCORED)",
+  "primaryEmail": "sansarg@rediffmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Network"
+  ],
+  "telephone": [
+    "916122533309",
+    "916122523857",
+    "916122533309"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "223, Triveni Apartments",
+      "East Boring Canal Road",
+      "Patna",
+      "Bihar",
+      "800001"
+    ]
+  }
+}

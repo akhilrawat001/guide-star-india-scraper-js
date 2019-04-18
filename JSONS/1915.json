@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "Kumar Rajesh Ranjan",
+      "email": "",
+      "designation": "President",
+      "mobile": [
+        "9431000973"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1915",
+  "name": "Akshay Prayas Trust",
+  "primaryEmail": "9431000973r@gmail.com",
+  "website": "http://akshayprayas.org",
+  "organisationType": [
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919431000973"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "Suman Clinic",
+      "Puranderpur",
+      "Patna",
+      "Bihar",
+      "800001"
+    ]
+  },
+  "briefDescription": "Akshay Prayas is Social Organization based on Patna. Its works in Health, Education, Art and Culture, Environments, Women Empowerment area. We have branches in  Patna, Katihar (Bihar), Jamshedpur (Jharkhand).",
+  "yearOfEstablishment": "2011"
+}

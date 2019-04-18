@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "ANUP MAJUMDER",
+      "email": "bba11_06@yahoo.co.in",
+      "designation": "DIRECTOR",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4932",
+  "name": "BETHUA DAHARI BHORER ALO",
+  "primaryEmail": "bba11_06@yahoo.co.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919093681508"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "REGISTERED OFFICE : SOVONA MARKET (CINEMA ROAD), P.O. BETHUADAHARI, P.S. NAKASHIPARA, DIST. NADIA",
+      "CITY OFFICE  : 18K KALUPARA LANE, DHAKURIA, KOLKATA - 700031",
+      "BETHUADAHARI",
+      "Nadia",
+      "West Bengal",
+      "741126"
+    ]
+  }
+}

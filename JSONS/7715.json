@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "MR.PRADEEP KUMAR",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7715",
+  "name": "WORLD HUMAN CARE FOUNDATION",
+  "primaryEmail": "pradeep.krr.nios@gmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Intermediary",
+    "Support"
+  ],
+  "telephone": [
+    "918826831475",
+    "919871083710"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "14/261",
+      "DAKSHIN PURI EXTN.",
+      "SOUTH DELHI",
+      "South Delhi",
+      "Delhi",
+      "110062"
+    ]
+  }
+}

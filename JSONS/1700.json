@@ -1,0 +1,43 @@
+{
+  "contacts": [
+    {
+      "name": "P Manjula",
+      "email": "adarsha2008@yahoo.com",
+      "designation": "Manager/E.C.Member",
+      "mobile": [
+        "91-8556-202021",
+        "91-9441943719"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1700",
+  "name": "Adarsha Rural Development and Training Society",
+  "primaryEmail": "adarshardts@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "918556202021",
+    "919441943719"
+  ],
+  "mainAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "Chilamathur Mandal Kodikonda",
+      "Anantapur",
+      "Andhra Pradesh",
+      "515601"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "Pulukuntla palli",
+      "Anantapur",
+      "Andhra Pradesh",
+      "515601"
+    ]
+  }
+}

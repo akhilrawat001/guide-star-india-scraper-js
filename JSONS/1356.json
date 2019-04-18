@@ -1,0 +1,37 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1356",
+  "name": "Janakalyan Pratisthan",
+  "primaryEmail": "jana_kalyan@sify.com",
+  "website": "www.jkpodisha.org",
+  "organisationType": [
+    "Direct Service",
+    "Network"
+  ],
+  "telephone": [
+    "916815223769",
+    "916815222291",
+    "919437012921"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "Sivananda Nagar",
+      "Opp-Indira Nagar,",
+      "Paralakhemundi",
+      "Gajapati",
+      "Odisha",
+      "761200"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Odisha",
+    "address": [
+      "Karan Street",
+      "Paralakhemundi",
+      "Gajapati",
+      "Odisha",
+      "761200"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Swapna Dutta",
+      "email": "mathun_nite@yahoo.co.in",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8217",
+  "name": "BARUIPUR MULTI DEVELOPMENT SOCIETY FOR SOCIAL WELFARE",
+  "primaryEmail": "mathun_nite@yahoo.co.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "913324333295",
+    "913324333295"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Flat No. 6, First Floor",
+      "Upamaya Apartment,",
+      "Baruipur Rail Gate,",
+      "Kolkata",
+      "West Bengal",
+      "700144"
+    ]
+  }
+}

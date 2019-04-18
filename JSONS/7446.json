@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Mr.Brijesh Kumar Bhartiy",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7446",
+  "name": "Bodhi Manav Kalyan Samiti",
+  "primaryEmail": "bodhimanav@gmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning"
+  ],
+  "telephone": [
+    "919415983521"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "Nai Basti Phulvariya,",
+      "PO-Phulvariya, Dist- Varanasi",
+      "varanasi",
+      "Varanasi",
+      "Uttar Pradesh",
+      "221007"
+    ]
+  }
+}

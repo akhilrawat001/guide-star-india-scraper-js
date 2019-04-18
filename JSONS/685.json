@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Sanjay Pandey",
+      "email": "",
+      "designation": "Director",
+      "mobile": []
+    },
+    {
+      "name": "Sanjay Pandey",
+      "email": "",
+      "designation": "Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=685",
+  "name": "Samagra Abhuday",
+  "telephone": [
+    "919415203123"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "Vill & Po - Rajgarh Basgaun",
+      "Gorakhpur",
+      "Uttar Pradesh",
+      "331023"
+    ]
+  }
+}

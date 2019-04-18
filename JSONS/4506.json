@@ -1,0 +1,42 @@
+{
+  "contacts": [
+    {
+      "name": "Jeetendra Kumar Pradhan",
+      "email": "odress_bhubaneswar@rediffmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4506",
+  "name": "Organisation For Development  of Rural Economy and Social Service",
+  "primaryEmail": "odress_bhubaneswar@rediffmail.com",
+  "website": "NA",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919438361070"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "plot No-10/41,Vijaya Bihar,po-Sisupalgarh,Bhubaneswar-2",
+      "plot No-10/41, Vijaya Bihar,sisupalgarh,Bhubaneswar-751002",
+      "Bhubaneswar,Vijaya Bihar,Bhubaneswar Sadar",
+      "Khordha",
+      "Odisha",
+      "751002"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Odisha",
+    "address": [
+      "At-plot No-10/41,Vijayabihar,po-Sisupalgarh,Via-old Town,Bhubaneswar-2",
+      ",po-Sisupalgarh,Via-old Town,",
+      "Ullunda,Subarnapur",
+      "Subarnapur",
+      "Odisha",
+      "767019"
+    ]
+  }
+}

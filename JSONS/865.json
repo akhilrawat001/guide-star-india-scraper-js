@@ -1,0 +1,31 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=865",
+  "name": "Cheer Society",
+  "primaryEmail": "cheersociety@gmail.com",
+  "telephone": [
+    "911415050726",
+    "917442370534",
+    "919460204222"
+  ],
+  "mainAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "H.No.49, Adarsh Nagar",
+      "Bundi Road, Kunadi",
+      "Kota",
+      "Rajasthan",
+      "324008"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "SB-35, Bagaru Walon Ki Nasia, Railway Station Road",
+      "Jaipur",
+      "Rajasthan",
+      "302006",
+      "AP_ElecBill_778.PDF"
+    ]
+  }
+}

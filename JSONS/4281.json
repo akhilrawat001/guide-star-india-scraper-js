@@ -1,0 +1,28 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4281",
+  "name": "The Humsafar Trust",
+  "primaryEmail": "info@humsafar.org",
+  "website": "www.humsafar.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "912226673800",
+    "912226673800"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "3rd Floor , Manthan Plaza , Nehru Road , Santacruz East , Vakola",
+      "Mumbai",
+      "Mumbai Suburban",
+      "Maharashtra",
+      "400055"
+    ]
+  }
+}

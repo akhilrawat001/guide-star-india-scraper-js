@@ -1,0 +1,50 @@
+{
+  "contacts": [
+    {
+      "name": "Anugrah Agrawal",
+      "email": "anugrah.agrawal@gmail.com",
+      "designation": "Director",
+      "mobile": [
+        "91-2642-230044",
+        "91-7340068555"
+      ]
+    },
+    {
+      "name": "Anugrah Agrawal",
+      "email": "anugrah.agrawal@gmail.com",
+      "designation": "Director",
+      "mobile": [
+        "91-2642-230044",
+        "91-7340068555"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7983",
+  "name": "Serve Happiness Foundation",
+  "primaryEmail": "nitin@servehappiness.org",
+  "website": "www.servehappiness.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919714534304",
+    "912642230044"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "15, Vijaynagar Society, Behind N K Petrol Pump",
+      "Zadeshwar Road",
+      "Bharuch",
+      "Gujarat",
+      "392011"
+    ]
+  },
+  "briefDescription": "'Serve Happiness Foundation' aimed at building and improving grass root communities by connecting passionate individuals to them.It is a registered non profit organization with an international mission to implore, invite and inspire youth to work towards nation building. We aim to direct today's youth towards a platform specific to their interest. Our approach is to take youth on an inspirational journey of awakening and help them foster relationships by building network along the spectrum of role models working in the ecosystem. Narmada Prerna Yatra (http://www.narmadaprernayatra.org/) - is one of our initiatives.",
+  "yearOfEstablishment": "2014"
+}

@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Rampal Singh Saini",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6448",
+  "name": "Nucleus Education & Health Welfare",
+  "primaryEmail": "nucleus.ngo@gmail.com",
+  "website": "www.nucleusindia.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "+919810648273"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "C-62/3, Jantagarden, Pandavnagar",
+      "Street-F1",
+      "East Delhi",
+      "Delhi",
+      "110091"
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Tafazul Fazili",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7565",
+  "name": "HELPKASH INDIA CHARITABLE SOCIETY",
+  "primaryEmail": "helpkash@gmail.com",
+  "website": "www.helpkash.org",
+  "organisationType": [
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919796729903",
+    "919906592431"
+  ],
+  "mainAddrress": {
+    "state": "Jammu and Kashmir",
+    "address": [
+      "Airport Road,Parraypora,",
+      "Baghaat,Barzulla",
+      "Srinagar",
+      "Jammu and Kashmir",
+      "190005"
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Mr.Nishith Chhotalal Mehta",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7548",
+  "name": "Shree Pionieer Education and Charitable Trust-Rajkot",
+  "primaryEmail": "nishith1967@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919427564740"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "Bhavneesh Jivan Vihar Society",
+      "Block No -4, Behind Mahila Colleage",
+      "Rajkot",
+      "Gujarat",
+      "360007"
+    ]
+  }
+}

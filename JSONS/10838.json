@@ -1,0 +1,54 @@
+{
+  "contacts": [
+    {
+      "name": "Hamid Alam",
+      "email": "hamid.alam@pehchaanlivefoundation.org",
+      "designation": "Secretary",
+      "mobile": [
+        "91-9321047617"
+      ]
+    },
+    {
+      "name": "Hamid Alam",
+      "email": "hamid.alam@pehchaanlivefoundation.org",
+      "designation": "Secretary",
+      "mobile": [
+        "91-9321047617"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10838",
+  "name": "Pehchaan Live Foundation",
+  "primaryEmail": "info@pehchaanlivefoundation.org",
+  "website": "www.pehchaanlivefoundation.org",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "917777099283",
+    "917045370317"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "402,Nisarg CHS, plot No. A-230, Sector 19A, Koperkhairane, Navi Mumbai",
+      "Navi Mumbai",
+      "Thane",
+      "Maharashtra",
+      "400709"
+    ]
+  },
+  "briefDescription": "Pehchaan means 'identity' in Hindi. Our motive is to give identity to the children with their own qualities. We strongly believe that education is the foundation for better future and that hope and equal opportunities should be given to all children.  Children form the pillar of the future society and it is extremely essential to strengthen those pillars for a better future.Today Pehchaan work for slum kids in Mumbai,Bihar and Delhi with 8 branches. Today pehchaan providing free education to more than 1000 slum kids and 2 computer labs setup. Pehchaan works today in the field of Education, Health and Sports for the betterment for slum kids. We believe in \"Education for All\".",
+  "yearOfEstablishment": "2017",
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "502, Shree Sarswati CHS, Plot No 91, Sector-1, KoperKhairane, Navi Mumbai",
+      "Navi Mumbai",
+      "Thane",
+      "Maharashtra",
+      "400709"
+    ]
+  }
+}

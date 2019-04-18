@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "Gasper Orehek",
+      "email": "",
+      "designation": "Chairman",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=920",
+  "name": "TWIMC Charitable trust",
+  "primaryEmail": "twimc_go@yahoo.in",
+  "telephone": [
+    "914142293222",
+    "914142293222",
+    "919488013848"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "No 4, Kuttiapran Nagar",
+      "Vannarapalayam",
+      "Cuddalore",
+      "Tamil Nadu",
+      "607001"
+    ]
+  }
+}

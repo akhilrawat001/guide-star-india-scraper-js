@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Sendmarai",
+      "email": "",
+      "designation": "Managing Trustee",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4759",
+  "name": "J.K.K.RANGAMMAL CHARITABLE TRUST",
+  "primaryEmail": "md@jkkn.org",
+  "website": "www.jkkn.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919865933332"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "230, Salem Main Road",
+      "Komarpalayam",
+      "Namakkal",
+      "Tamil Nadu",
+      "638183"
+    ]
+  }
+}

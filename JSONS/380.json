@@ -1,0 +1,38 @@
+{
+  "contacts": [
+    {
+      "name": "Jayashree Kale",
+      "email": "vishwask@vsnl.com",
+      "designation": "Managing Trustee",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=380",
+  "name": "Jagruti Seva Sanstha",
+  "primaryEmail": "info@jagrutiseva.org",
+  "website": "http://www.jagrutiseva.org/",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "912025654138",
+    "912024350923",
+    "912025654138"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "823/C Savitri, Prof.V.G. Kale Path",
+      "Bhandarkar Road",
+      "Pune",
+      "Maharashtra",
+      "411004"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Maharashtra"
+    ]
+  }
+}

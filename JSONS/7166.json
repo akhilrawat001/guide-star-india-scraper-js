@@ -1,0 +1,35 @@
+{
+  "contacts": [
+    {
+      "name": "Santanu Biswas",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "22809337"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7166",
+  "name": "La Martiniere SEOMP Society",
+  "primaryEmail": "lamartseomp@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "913322809337",
+    "913322809337"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "11, Dr. U.N. Brahmachari Street",
+      "Brahmachari Street",
+      "Kolkata",
+      "West Bengal",
+      "700017"
+    ]
+  }
+}

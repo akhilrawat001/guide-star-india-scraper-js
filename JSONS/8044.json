@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Sanjib Kumar Bhaumik",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8044",
+  "name": "ALOK SANGHA",
+  "primaryEmail": "aloksanghajanubasan@yahoo.co.in",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "919474066732",
+    "919932665884",
+    "919732713912"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Kabiguru Mancha",
+      "Janubasan Uttar Para",
+      "Village - Janubasan, P.O.- Nonakuri Bazar, P.S.- Tamluk,",
+      "East Medinipur",
+      "West Bengal",
+      "721172"
+    ]
+  }
+}

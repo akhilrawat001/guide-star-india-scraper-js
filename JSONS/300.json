@@ -1,0 +1,38 @@
+{
+  "contacts": [
+    {
+      "name": "Rohit Jain",
+      "email": "rohitjjain@gmail.com",
+      "designation": "Executive Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=300",
+  "name": "S'RUTI",
+  "primaryEmail": "akaushik49@hotmail.com",
+  "website": "www.sruti.org.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "911126852439",
+    "919717764485",
+    "911126964946"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "Q1, First Foor",
+      "Hauz Khas Enclave",
+      "New Delhi",
+      "Delhi",
+      "110016"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "Delhi"
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Datta Gurunath Mirkale",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8222",
+  "name": "Sant Dnyaneshwar Krushi Vidnyan Mandal",
+  "primaryEmail": "vilasgundre@yahoo.com",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "917385062778"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "At-Borgaon,Post.Dhalegaon,",
+      "Tq.Ahmedpur",
+      "Ahmedpur",
+      "Latur",
+      "Maharashtra",
+      "413523"
+    ]
+  }
+}

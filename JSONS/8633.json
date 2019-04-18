@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Dhrubananda Saran",
+      "email": "navjyotiorissa@rediffmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8633",
+  "name": "NAVAJYOTI",
+  "primaryEmail": "navjyotiorissa@rediffmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919437741558"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "At/Po: Garudgaon,",
+      "Via: Kotsahi",
+      "Cuttack",
+      "Odisha",
+      "754022"
+    ]
+  }
+}

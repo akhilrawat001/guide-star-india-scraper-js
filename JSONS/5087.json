@@ -1,0 +1,43 @@
+{
+  "contacts": [
+    {
+      "name": "NITA MAZUMDER",
+      "email": "bbss_95@rediffmail.com",
+      "designation": "EX-SECRETARY",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5087",
+  "name": "BELDANGA BHAGIRATHI SEVA SADAN",
+  "primaryEmail": "bbss_95@rediffmail.com",
+  "website": "NA",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919434229691"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "RADHIKANAGAR (DASPARA), PO - COSSIMBAZAR RAJ, PS - BERHAMPORE, DIST - MURSHIDABAD, PIN - 742102",
+      "RADHIKANAGAR (DASPARA), PO - COSSIMBAZAR RAJ, PS - BERHAMPORE",
+      "BERHAMPORE",
+      "Murshidabad",
+      "West Bengal",
+      "742102"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "not provided",
+      "BERHAMPORE",
+      "Murshidabad",
+      "West Bengal",
+      "742102"
+    ]
+  }
+}

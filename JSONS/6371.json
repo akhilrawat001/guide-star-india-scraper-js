@@ -1,0 +1,35 @@
+{
+  "contacts": [
+    {
+      "name": "Samrat Ghatak",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "9547920800"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6371",
+  "name": "Chakdaha Jatiya Matri Seva Samity",
+  "primaryEmail": "mail@matriseva.in",
+  "website": "http://www.matriseva.in",
+  "organisationType": [
+    "Direct Service",
+    "Intermediary",
+    "Support"
+  ],
+  "telephone": [
+    "919547920800"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Lalpur, Baganbari",
+      "In front of SBI",
+      "Chakdaha",
+      "Nadia",
+      "West Bengal",
+      "741222"
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "contacts": [
+    {
+      "name": "Malarvani",
+      "email": "durai2020@yahoo.co.in",
+      "designation": "secretary",
+      "mobile": [
+        "91-9655769641"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1933",
+  "name": "Grama Kalvi Matrum Sutruppura Sugathara Sangam",
+  "primaryEmail": "durai2020@yahoo.co.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919655769641"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "69/2",
+      "Shreenah Complex,Opposit To R D M College,",
+      "Sivagangai",
+      "Tamil Nadu",
+      "630561"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "4/77 N.lakshmipuram",
+      "namanur-po",
+      "sivagangai",
+      "Sivagangai",
+      "Tamil Nadu",
+      "630553"
+    ]
+  }
+}

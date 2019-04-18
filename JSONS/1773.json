@@ -1,0 +1,48 @@
+{
+  "contacts": [
+    {
+      "name": "Vaidehi Chokshi",
+      "email": "communications@akrspi.org",
+      "designation": "Manager-Communications",
+      "mobile": []
+    },
+    {
+      "name": "Vaidehi Chokshi",
+      "email": "communications@akrspi.org",
+      "designation": "Manager-Communications",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1773",
+  "name": "Aga Khan Rural Support Programme (India)",
+  "primaryEmail": "communications@akrspi.org",
+  "website": "www.akdn.org/india",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "917927540421",
+    "917966312451",
+    "919925239301"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "9-10th Floor",
+      "Corporate House, Opp Dinesh Hall, Off Ashram Road",
+      "Ahmedabad",
+      "Gujarat",
+      "380009"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "2nd Floor",
+      "Sarojini House, 6 Bhagwandass Road",
+      "New Delhi",
+      "Delhi",
+      "110001"
+    ]
+  }
+}

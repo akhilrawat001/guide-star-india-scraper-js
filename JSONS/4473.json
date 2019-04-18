@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Paresh Pimpale",
+      "email": "pareshpimpale@gmail.com",
+      "designation": "Advisor",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4473",
+  "name": "Dnyansadhana Education Society",
+  "primaryEmail": "pareshpimpale@gmail.com",
+  "website": "na",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919821194396"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "201- A wing, Moreshwar Krupa CHS",
+      "Eksar, Near Om Shanti Chowk",
+      "Borivali (W)",
+      "Mumbai",
+      "Maharashtra",
+      "400103"
+    ]
+  }
+}

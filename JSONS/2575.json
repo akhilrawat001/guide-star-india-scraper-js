@@ -1,0 +1,37 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2575",
+  "name": "Cachar Cancer Hospital",
+  "primaryEmail": "admin@cacharcancerhospital.org",
+  "website": "http://www.cacharcancerhospital.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "913842231901"
+  ],
+  "mainAddrress": {
+    "state": "Assam",
+    "address": [
+      "THE CACHAR CANCER HOSPITAL SOCIETY",
+      "N.S. Avenue",
+      "Silchar",
+      "Cachar",
+      "Assam",
+      "788005"
+    ]
+  },
+  "briefDescription": "Cachar Cancer Hospital and Research Centre is a 100-bedded hospital located at Silchar, Assam, India. Since 1992, we have dedicated ourselves to cancer prevention, diagnosis, treatment, education and research and have reached out to economically impoverished patients with premium quality care.The hospital is administered by the Cachar Cancer Hospital Society, a non-profit registered NGO having 80G exemption and FCRA (Foreign Contribution Regulation Act) status.",
+  "yearOfEstablishment": "1996",
+  "regiseredAddrress": {
+    "state": "Assam",
+    "address": [
+      "CACHAR CANCER HOSPITAL AND RESEARCH CENTRE",
+      "MEHERPUR",
+      "SILCHAR",
+      "Cachar",
+      "Assam",
+      "788015"
+    ]
+  }
+}

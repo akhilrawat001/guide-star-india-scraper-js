@@ -1,0 +1,47 @@
+{
+  "contacts": [
+    {
+      "name": "Ashok M Gawande",
+      "email": "ashokgolegaonkar@gmail.com",
+      "designation": "Secretary",
+      "mobile": [
+        "91-721-2564078",
+        "91-9922857675"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=868",
+  "name": "Krushnai Bahuuddeshiya Gramin Vikas Sanstha, Daryapur",
+  "primaryEmail": "krd.amt@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "917212564078",
+    "917212564078",
+    "919922857675"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "428 Dr Sapkal Building, Behind Gopal Talkies",
+      "Rajapeth",
+      "Amravati",
+      "Maharashtra",
+      "444606"
+    ]
+  },
+  "briefDescription": "Awerness conducted in rural areas for the rural poor for their their rights and help to handicap and widow. The secretary of this organisation conducted various social awarness programs before joining of this organisation. In 1980.",
+  "yearOfEstablishment": "2004",
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "64, Jin Plot",
+      "Daryapur",
+      "Amravati",
+      "Maharashtra",
+      "444803",
+      "AP_TelBill_781.PDF"
+    ]
+  }
+}

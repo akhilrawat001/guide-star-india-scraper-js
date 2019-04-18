@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "DEY SANJAY S",
+      "email": "amindia@anoopam.org",
+      "designation": "EXECUTIVE COMMITTEE MEMBER",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3574",
+  "name": "ANOOPAM MISSION",
+  "primaryEmail": "amindia@anoopam.org",
+  "website": "www.anoopam.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "912692230544",
+    "912692230544"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "BRAHMAJYOTI, YOGIJI MARG,",
+      "MOGRI,",
+      "ANAND",
+      "Anand",
+      "Gujarat",
+      "388345"
+    ]
+  }
+}

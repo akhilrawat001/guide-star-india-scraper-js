@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Smti Jharna Singh",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8393",
+  "name": "Mahila Seva Sangh",
+  "primaryEmail": "mahilasevasangh@gmail.com",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "913192235241",
+    "913192235241"
+  ],
+  "mainAddrress": {
+    "state": "Andaman and Nicobar Islands",
+    "address": [
+      "145,Haddo",
+      "Opp:- Mini Zoo",
+      "Port Blair",
+      "South Andaman",
+      "Andaman and Nicobar Islands",
+      "744102"
+    ]
+  },
+  "briefDescription": "Mahila Seva Sangh is Located in Port Blair, Andaman and Nicobar Islands.",
+  "yearOfEstablishment": "2005"
+}

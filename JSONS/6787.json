@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Sunita Attray",
+      "email": "sc/stwds@gmail.com",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6787",
+  "name": "Scheduled Caste Scheduled Tribe Welfare And Development Society",
+  "primaryEmail": "sc/stwds@gmail.com",
+  "website": "http://www.scstwds.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "910959994481"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "Rzh-330 b, gali no 11, raj nagar ii,palam colony, new delhi-45",
+      "Palam colony new delhi",
+      "Delhi",
+      "South West Delhi",
+      "110045"
+    ]
+  }
+}

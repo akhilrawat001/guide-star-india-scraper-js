@@ -1,0 +1,47 @@
+{
+  "contacts": [
+    {
+      "name": "Saroja P",
+      "email": "saroja488@gmail.com",
+      "designation": "President",
+      "mobile": [
+        "91-80-23521915"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1084",
+  "name": "Karnataka Network For People Living WIth HIV/AIDS",
+  "primaryEmail": "knppluz@gmail.com",
+  "website": "www.knppluz.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "918023521915",
+    "918023130409",
+    "918892067131"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "#2038, 7th Main, D Block, 2nd Stage, Rajajinagar",
+      "Bangalore - 10",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560010"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "KNP+",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560010",
+      "AP_TelBill_1010.PDF"
+    ]
+  }
+}

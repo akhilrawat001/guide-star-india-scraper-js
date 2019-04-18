@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Mrs.B.Sugunamma",
+      "email": "",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4241",
+  "name": "Centre for Educational and Rural Development",
+  "primaryEmail": "cerd_cerd2001@yahoo.com",
+  "website": "under process",
+  "organisationType": [
+    "Direct Service",
+    "Intermediary"
+  ],
+  "telephone": [
+    "914094413371"
+  ],
+  "mainAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "13-218-X-9, Gandi Road, Vempalli-516 329",
+      "Gandi Road, Vempalli- Kadapa dist.",
+      "Vempalli, Cuddapah",
+      "YSR District, Kadapa (Cuddapah)",
+      "Andhra Pradesh",
+      "516329"
+    ]
+  }
+}

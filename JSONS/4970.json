@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Niraj Satnalika",
+      "email": "bnsatnalikafoundation@gmail.com",
+      "designation": "Managing Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4970",
+  "name": "Babulal Nagarmal Satnalika Foundation",
+  "primaryEmail": "bnsatnalikafoundation@gmail.com",
+  "website": "http://www.bnsatnalikafoundation.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "917679635152"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "92 M G Road",
+      "Raniganj",
+      "Bardhaman",
+      "West Bengal",
+      "713347"
+    ]
+  },
+  "briefDescription": "Babulal Nagarmal Satnalika Foundation is located in West Bengal.",
+  "yearOfEstablishment": "2012"
+}

@@ -1,0 +1,25 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1040",
+  "name": "Adwait Sarvajanik Trust",
+  "primaryEmail": "adwaitsarvjaniktrust@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "912744256280",
+    "912744256280",
+    "919624956835"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "AT - JASARA  TA - DEESA",
+      "AT - JASARA, TA - DEESA, DIST. BANASKANTHA",
+      "Banaskantha",
+      "Gujarat",
+      "385535"
+    ]
+  }
+}

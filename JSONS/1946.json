@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Vijay Bhatkar",
+      "email": "",
+      "designation": "Chief-Mentor",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1946",
+  "name": "India International Multiversity",
+  "primaryEmail": "contact@multiversity.co.in",
+  "website": "www.iimv.co.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "912041051818",
+    "912041051818"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "1A, I - Space",
+      "Off Mumbai Bangalore Highway, Near Mahindra First Choice, Bavdhan Budruk",
+      "Pune",
+      "Maharashtra",
+      "411021"
+    ]
+  }
+}

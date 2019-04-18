@@ -1,0 +1,36 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7447",
+  "name": "Sant Ravidass Educational Society",
+  "primaryEmail": "manavvikasbij@gmail.com",
+  "website": "www.santravidasseducationalsociety.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919999114574"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "C-3 , Shyam Vihar Phase - I Nazafgadh ,",
+      "401,Rambagh Colony ,Civil Line Bijnore , UP",
+      "New Delhi",
+      "South West Delhi",
+      "Delhi",
+      "110043"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "222-C, JG -III",
+      "VIKASPURI",
+      "New Delhi",
+      "South West Delhi",
+      "Delhi",
+      "110018"
+    ]
+  }
+}

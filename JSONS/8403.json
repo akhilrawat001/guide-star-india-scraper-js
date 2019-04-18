@@ -1,0 +1,41 @@
+{
+  "contacts": [
+    {
+      "name": "SAMBIT PATTANAIK",
+      "email": "ushadevipathagar@gmail.com",
+      "designation": "SECRETARY",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8403",
+  "name": "USHADEVI PATHAGAR",
+  "primaryEmail": "ushadevipathagar@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919438009409"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "Plot No. 32,",
+      "Santoshi Vihar,",
+      "Canal Road, Near Laxmi Sagar",
+      "Cuttack",
+      "Odisha",
+      "753001"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Odisha",
+    "address": [
+      "At Eradasahi No 2",
+      "Po Galadari",
+      "PS Balikuda",
+      "Cuttack",
+      "Odisha",
+      "753001"
+    ]
+  }
+}

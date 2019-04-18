@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "name": "Beena George",
+      "email": "esafhq@esaf.in",
+      "designation": "AGM - Programs",
+      "mobile": []
+    },
+    {
+      "name": "Beena George",
+      "email": "esafhq@esaf.in",
+      "designation": "AGM - Programs",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6343",
+  "name": "Evangelical Social Action Forum (ESAF)",
+  "primaryEmail": "esafhq@esaf.in",
+  "website": "www.esafindia.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "914872373813"
+  ],
+  "mainAddrress": {
+    "state": "Kerala",
+    "address": [
+      "ESAF, VISWAS BHAVAN, KUNDUKULAM ROAD",
+      "MANNUTHY P.O,",
+      "Thrissur",
+      "Kerala",
+      "680651"
+    ]
+  }
+}

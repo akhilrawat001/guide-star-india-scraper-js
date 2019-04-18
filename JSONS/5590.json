@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Ghufran Kidwai",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5590",
+  "name": "ASTRAL EDUCATIONAL AND WELFARE SOCIETY",
+  "primaryEmail": "SHAINDA_WASIM@YAHOO.CO.IN",
+  "website": "ASTRALNGO.ORG",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "917607959539"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "GHUFRAN KIDWAI,",
+      "64, AASRA COLONY , MALHOUR , CHINHUT",
+      "LUCKNOW",
+      "Lucknow",
+      "Uttar Pradesh",
+      "227105"
+    ]
+  }
+}

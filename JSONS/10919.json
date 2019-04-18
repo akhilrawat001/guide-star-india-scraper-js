@@ -1,0 +1,37 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10919",
+  "name": "Pune Vyavsay Shikshan Prashikshan Mandal",
+  "primaryEmail": "pbetb.org.in@gmail.com",
+  "website": "www.pbetb.co.in",
+  "organisationType": [
+    "Network"
+  ],
+  "telephone": [
+    "919730077452"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Siddheshwer Complex Perane Phata",
+      "Pune Nagar Road",
+      "Perane Phata , Pune",
+      "Pune",
+      "Maharashtra",
+      "412216"
+    ]
+  },
+  "briefDescription": "Education Courses1.Technical Courses,2.Computer Courses,3.Vocational Courses,4.Management Courses",
+  "yearOfEstablishment": "2013",
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "House No.  1163 , Ganesh Nagar Prerane Phata",
+      "Ganesh Nagar",
+      "Perane Phata",
+      "Pune",
+      "Maharashtra",
+      "412216"
+    ]
+  }
+}

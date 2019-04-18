@@ -1,0 +1,25 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1826",
+  "name": "Sonadev Aarogyam",
+  "primaryEmail": "sonadev@sonadevaarogyam.com",
+  "website": "www.sonadevaarogyam.com",
+  "organisationType": [
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919934408932"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "Sunita Sadan K-41 Chitragupta Nagar",
+      "Road No 04 K.Bagh ,",
+      "Patna",
+      "Bihar",
+      "800020"
+    ]
+  }
+}

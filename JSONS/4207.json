@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "Ramesh Panchal",
+      "email": "rahatfoundation10@gmail.com",
+      "designation": "SECRETARY",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4207",
+  "name": "RAHAT FOUNDATION",
+  "primaryEmail": "rahatfoundation10@gmail.com",
+  "website": "WWW.RAHATFOUNDATION.COM",
+  "telephone": [
+    "919833011749"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "SHOP NO-4 MAQBOOL COMPD",
+      "PATHANWADI MALAD(EAST)",
+      "MALAD-MUMBAI",
+      "Mumbai",
+      "Maharashtra",
+      "400097"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2548",
+  "name": "Navjyoti Development Society",
+  "primaryEmail": "ndsindia@gmail.com",
+  "website": "www.ndsindia.org",
+  "telephone": [
+    "911126366721",
+    "911126366721"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "3rd Floor - B – 72",
+      "Vishwakarma Colony, M. B. Road",
+      "New Delhi",
+      "Delhi",
+      "110044"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "3rd Floor - B ï¿½ 72",
+      "Vishwakarma Colony, M. B. Road",
+      "New Delhi",
+      "Delhi",
+      "110044"
+    ]
+  }
+}

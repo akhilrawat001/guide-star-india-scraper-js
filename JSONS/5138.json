@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "NAMDEO KERBA DIPKE",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5138",
+  "name": "NATIONAL ACADEMIC MULTIPURPOSE ASSOCIATION (NAMA)",
+  "primaryEmail": "nationalacademic.ngo@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918698748722"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "SANTUK PIMPRI ,TAL-HINGOLI",
+      "SANTUK PIMPRI",
+      "Hingoli",
+      "Maharashtra",
+      "431513"
+    ]
+  }
+}

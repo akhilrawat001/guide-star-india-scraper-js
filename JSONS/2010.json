@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "K Ramadurai",
+      "email": "annai_therasa@yahoo.com",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2010",
+  "name": "Annai Therasa Charitable Trust",
+  "primaryEmail": "annai_therasa@yahoo.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919786342411"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "Opp. Register Office",
+      "Sethi Yathope Po Chidaombaram",
+      "Cuddalore",
+      "Tamil Nadu",
+      "396001"
+    ]
+  }
+}

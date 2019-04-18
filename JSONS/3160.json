@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "Ajay Kumar Ram Shukla",
+      "email": "",
+      "designation": "Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3160",
+  "name": "Humanity Friends Foundation",
+  "primaryEmail": "hum.frnds.org@gmail.com",
+  "telephone": [
+    "917932988867",
+    "917932988867"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "Flat No. 62, Room No. 739,",
+      "B/H. Jalaram Medical Store, Nr. Vijay Park Gate, Rushikeshnagar, Haripura,",
+      "Maninagar (East)",
+      "Ahmedabad",
+      "Gujarat",
+      "380008"
+    ]
+  }
+}

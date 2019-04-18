@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "Indira Jena",
+      "email": "indira.jena@gmail.com",
+      "designation": "Founder Managing Trustee",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4653",
+  "name": "Nirnaya",
+  "primaryEmail": "indira.jena@gmail.com",
+  "telephone": [
+    "914027805089",
+    "919848436874"
+  ],
+  "mainAddrress": {
+    "state": "Telangana",
+    "address": [
+      "Flat No.11",
+      "Deepti Apartments, S.P.Road,",
+      "Secunderabad",
+      "Hyderabad",
+      "Telangana",
+      "500003"
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Gulistan",
+      "email": "gulistananwar_online@yahoo.co.in",
+      "designation": "G.Secratery",
+      "mobile": [
+        "91-11-22357478"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1216",
+  "name": "Anwar Education Society",
+  "primaryEmail": "anwareducationsociety@yahoo.com",
+  "organisationType": [
+    "Grant-making"
+  ],
+  "telephone": [
+    "911122357478",
+    "911122357478",
+    "911122357478"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "C/478,Old Seemapuri",
+      "Near Chand Masjid",
+      "Delhi",
+      "East Delhi",
+      "110095"
+    ]
+  }
+}

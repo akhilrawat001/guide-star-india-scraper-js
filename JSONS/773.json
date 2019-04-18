@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "name": "Abhijeet Mehta",
+      "email": "abhijeet@questalliance.net",
+      "designation": "Chief Operating Officer",
+      "mobile": [
+        "91-80-40983304"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=773",
+  "name": "QUEST ALLIANCE (Quality Education and Skills Training Alliance)",
+  "primaryEmail": "info@questalliance.net",
+  "website": "www.questalliance.net",
+  "organisationType": [
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "918040983304",
+    "918041304473",
+    "918040983304"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "108, 2nd Main",
+      "6th Cross, Koramangala 1st Block",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560034"
+    ]
+  },
+  "briefDescription": "Quest Alliance is a non-profit trust working to bridge the education and skills divide by enabling self-learning for young people aged 10-35 years. Quest designs scalable and replicable solutions across three programs: Anandshala that works to create joyful schools, myQuest that focuses on career development for youth and Quest 2 Learn that curates and disseminates knowledge. Quest is fuelled by research, strengthened by partnerships and driven by innovation and technology.",
+  "yearOfEstablishment": "2008"
+}

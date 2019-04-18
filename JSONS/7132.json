@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "B.Jayaramaiah",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7132",
+  "name": "Creative Social Educational and Economical Development Society (CRE-SEEDS)",
+  "primaryEmail": "ankuramngotpt@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919247123699"
+  ],
+  "mainAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "5-113, Saraswathi Nagar",
+      "M.R. Palle",
+      "Tirupati",
+      "Chittoor",
+      "Andhra Pradesh",
+      "517502"
+    ]
+  }
+}

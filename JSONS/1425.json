@@ -1,0 +1,34 @@
+{
+  "contacts": [
+    {
+      "name": "Rajendran",
+      "email": "svshanur@gmail.com",
+      "designation": "Correspondent",
+      "mobile": [
+        "91-8224-268055",
+        "91-9449130987"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1425",
+  "name": "Sri Vivekananda Educational And Social Welfare Trust",
+  "primaryEmail": "svshanur@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918224268055",
+    "919379883176"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "Main Road",
+      "Hanur,",
+      "Kollegal",
+      "Chamarajanagar",
+      "Karnataka",
+      "571439"
+    ]
+  }
+}

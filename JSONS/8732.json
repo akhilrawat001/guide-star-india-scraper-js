@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Dr Ajay More",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8732",
+  "name": "MORE EDUCATION SOCIETY",
+  "primaryEmail": "drajaymore777@gmail.com",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "918087567704"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "More Education Society",
+      "Opp Bus Stand Mangaon,",
+      "Mangaon",
+      "Raigad",
+      "Maharashtra",
+      "402104"
+    ]
+  }
+}

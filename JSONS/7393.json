@@ -1,0 +1,41 @@
+{
+  "contacts": [
+    {
+      "name": "Ms.Ishu sharma",
+      "email": "ishusharma3331@gmail.com",
+      "designation": "Office Secretary",
+      "mobile": [
+        "9837055246"
+      ]
+    },
+    {
+      "name": "Ms.Ishu sharma",
+      "email": "ishusharma3331@gmail.com",
+      "designation": "Office Secretary",
+      "mobile": [
+        "9837055246"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7393",
+  "name": "SANKALP FOUNDATION WELFARE SOCIETY",
+  "primaryEmail": "info@sfws.org",
+  "website": "www.sfws.org",
+  "organisationType": [
+    "Grant-making"
+  ],
+  "telephone": [
+    "919837055246"
+  ],
+  "mainAddrress": {
+    "state": "Uttarakhand",
+    "address": [
+      "89 PRAKASH VIHAR",
+      "LANE NO 05 OPP LIC BUILDING DHARAMPUR",
+      "DEHRADUN",
+      "Dehradun",
+      "Uttarakhand",
+      "248001"
+    ]
+  }
+}

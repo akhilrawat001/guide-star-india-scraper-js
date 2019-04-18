@@ -1,0 +1,42 @@
+{
+  "contacts": [
+    {
+      "name": "Bosco Pereira",
+      "email": "marysclan@gmail.com",
+      "designation": "Trustee",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2956",
+  "name": "Mary's Clan",
+  "primaryEmail": "marysclan@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Network"
+  ],
+  "telephone": [
+    "919820349299"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Mt.Mary's Basilica,",
+      "Mt.Mary Road",
+      "Bandra",
+      "Mumbai Suburban",
+      "Maharashtra",
+      "400050"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "101-B Labbaik House, 39 Chimbai",
+      ", Bandra West",
+      "Mumbai Suburban",
+      "Mumbai",
+      "Maharashtra",
+      "400050"
+    ]
+  }
+}

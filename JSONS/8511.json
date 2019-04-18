@@ -1,0 +1,37 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8511",
+  "name": "KALASHREE SANSAD",
+  "primaryEmail": "kalashreesansad@gmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Intermediary",
+    "Support"
+  ],
+  "telephone": [
+    "919438671018"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "Block-7, QR No-E/37, I R C Village,",
+      "Nayapalli",
+      "Bhubaneswar",
+      "Khordha",
+      "Odisha",
+      "751012"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Odisha",
+    "address": [
+      "Plot No-1172",
+      "Nayapalli",
+      "Bhubaneswar",
+      "Khordha",
+      "Odisha",
+      "751012"
+    ]
+  }
+}

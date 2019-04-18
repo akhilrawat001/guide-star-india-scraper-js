@@ -1,0 +1,35 @@
+{
+  "contacts": [
+    {
+      "name": "MR. RAVI RANJAN KUMAR",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7383",
+  "name": "LOKHIT JANKALYAN SEVA SANSTHAN",
+  "primaryEmail": "NGOLOKHIT2008@GMAIL.COM",
+  "website": "www.rajeevitc.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "916512265157",
+    "916512265157"
+  ],
+  "mainAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "ADARSH  NAGAR",
+      "TATISILWAI",
+      "RANCHI",
+      "Ranchi",
+      "Jharkhand",
+      "835103"
+    ]
+  },
+  "briefDescription": "LOKHIT JANKALYAN SEVA SANSTHAN is situated in Ranchi, Jharkhand.",
+  "yearOfEstablishment": "2008"
+}

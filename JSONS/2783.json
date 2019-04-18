@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Kh.Malemnganba Singh",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2783",
+  "name": "RESOURCE UPLIFTMENT CENTRE FOR HUMAN INTEREST",
+  "primaryEmail": "ruchisekmai@yahoo.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919862032456"
+  ],
+  "mainAddrress": {
+    "state": "Manipur",
+    "address": [
+      "Awang Sekmai, Makha Leikai, Imphal west",
+      "Near Community Health Centre,Awang Sekmai.",
+      "Imphal west.",
+      "Imphal West",
+      "Manipur",
+      "795136"
+    ]
+  }
+}

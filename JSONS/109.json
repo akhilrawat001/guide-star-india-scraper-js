@@ -1,0 +1,47 @@
+{
+  "contacts": [
+    {
+      "name": "Manju Gupta",
+      "email": "",
+      "designation": "Executive Director",
+      "mobile": [
+        "91-22-24927007"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=109",
+  "name": "Cancer Patients Aid Association",
+  "primaryEmail": "manju.gupta@cancer.org.in",
+  "website": "www.cancer.org.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "912224927007",
+    "912224903561",
+    "919821032176",
+    "912224973599"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Cancer Patients Aid Association, Rehabilitation Centre",
+      "Anand Niketan, King George V Memorial, Dr. E Moses Road, Mahalaxmi",
+      "Mumbai",
+      "Maharashtra",
+      "400011"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Cancer Patients Aid Association, No. 5",
+      "Malhotra House, Opposite GPO",
+      "Mumbai",
+      "Maharashtra",
+      "400001"
+    ]
+  }
+}

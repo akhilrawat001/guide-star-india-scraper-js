@@ -1,0 +1,24 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8376",
+  "name": "Samagra Sewa Ashram",
+  "primaryEmail": "ssa_nala@rediffmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "916428228926",
+    "916428228926"
+  ],
+  "mainAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "Vill-Gopalpur,",
+      "PO-Nala,",
+      "Distt-Jamtara",
+      "Jamtara",
+      "Jharkhand",
+      "815355"
+    ]
+  }
+}

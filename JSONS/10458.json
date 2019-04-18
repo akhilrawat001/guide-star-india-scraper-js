@@ -1,0 +1,38 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10458",
+  "name": "ONEWAY FOUNDATION",
+  "primaryEmail": "onewayfoundation3@gmail.com",
+  "website": "www.onewayskill.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "+918968145553"
+  ],
+  "mainAddrress": {
+    "state": "Chandigarh",
+    "address": [
+      "Sco 18 , 1st  Floor Sector- 26",
+      "Chandigarh",
+      "160019"
+    ]
+  },
+  "briefDescription": "Oneway Foundation is located in Chandigarh .",
+  "yearOfEstablishment": "2018",
+  "regiseredAddrress": {
+    "state": "Punjab",
+    "address": [
+      "539,Naya Gaon Sas Nagar Mohali",
+      "Mohali",
+      "SAS Nagar (Mohali)",
+      "Punjab",
+      "160103"
+    ]
+  }
+}

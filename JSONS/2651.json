@@ -1,0 +1,52 @@
+{
+  "contacts": [
+    {
+      "name": "Mr.Pradeep Mahapatra",
+      "email": "udyama.pradeep@gmail.com",
+      "designation": "Secretary",
+      "mobile": [
+        "91-674-2475656",
+        "91-9437110892"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2651",
+  "name": "UDYAMA",
+  "primaryEmail": "udyama.pradeep@gmail.com",
+  "website": "https://www.udyama.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "916742475656",
+    "919437110892"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "HIG-140-K-6/Kalinga Vihar",
+      "HIG-140-K-6-Kalingavihar, Bhubaneswar-751019, Odisha, India",
+      "Bhubaneswar",
+      "Khordha",
+      "Odisha",
+      "751019"
+    ]
+  },
+  "briefDescription": "UDYAMA has demonstrated few evidence based initiatives working  with community & engaging partner NGOs have carved out good learning on community resilience process . Learning–Linking- Livelihoods is the core areas of UDYAMA that has reached 123670 persons, scaled/replicated in urban, coastal, rural and tribal hinter lands. Founded in 1997, UDYAMA primarily aims towards strengthening and building capacities of local communities towards rejuvenating human, ecological, economical capital & well-being improvement with a view to enhancing adaptation to vulnerability & changing the culture of self-reliance.",
+  "yearOfEstablishment": "1997",
+  "regiseredAddrress": {
+    "state": "Odisha",
+    "address": [
+      "Care of Late Krushna Chandra Mahapatra, Gandhimarg, Nayagarh-752069",
+      "Gandhimarg, Post Box-10",
+      "Nayagarh",
+      "Odisha",
+      "752069"
+    ]
+  }
+}

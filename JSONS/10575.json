@@ -1,0 +1,32 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10575",
+  "name": "Siddhivinayak Yuva foundation",
+  "primaryEmail": "Suhasnyayadhish@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "+919960589525"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "18, Shopping Complex Samarth Nagar",
+      "Vivekanand College To Sawarkar Chowk Approach Lane",
+      "Aurangabad",
+      "Maharashtra",
+      "431001"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "18, Shopping Complex Samarth Nagar Aurangabad",
+      "Vivekanand College To Sawarkar Chowk Lane",
+      "Aurangabad",
+      "Maharashtra",
+      "431001"
+    ]
+  }
+}

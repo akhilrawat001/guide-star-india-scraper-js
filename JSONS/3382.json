@@ -1,0 +1,53 @@
+{
+  "contacts": [
+    {
+      "name": "Sitakanta Sahu",
+      "email": "sitakanta.sahu@yahoo.com",
+      "designation": "Administrative Officer/Programme Manager",
+      "mobile": [
+        "91-9338189371"
+      ]
+    },
+    {
+      "name": "Sitakanta Sahu",
+      "email": "sitakanta.sahu@yahoo.com",
+      "designation": "Administrative Officer/Programme Manager",
+      "mobile": [
+        "91-9338189371"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3382",
+  "name": "LOK KALA BIKAS KENDRA",
+  "primaryEmail": "lkbkboudh@yahoo.com",
+  "website": "www.lkbkodisha.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Network"
+  ],
+  "telephone": [
+    "919438364576"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "At/po-Sarasara,Dist-boudh",
+      "AT/PO-SARASARA",
+      "Boudh",
+      "Odisha",
+      "762026"
+    ]
+  },
+  "briefDescription": "A Society where the poor and underprivileged will be free from any kind of exploitation and can live with dignity and prosperity.To improve the quality of life of the poor and otherwise underprivileged especially women and child  through promotion and development indigenous knowledge and skill for best utilization of their resources and ensure sustainable development.",
+  "yearOfEstablishment": "1989",
+  "regiseredAddrress": {
+    "state": "Odisha",
+    "address": [
+      "At/po-Sarasara,Dist-Boudh",
+      "AT/PO-SARASARA",
+      "Boudh",
+      "Odisha",
+      "762026"
+    ]
+  }
+}

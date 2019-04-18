@@ -1,0 +1,25 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=135",
+  "name": "Prajna Counselling Centre",
+  "primaryEmail": "prajnacounsel@yahoo.com",
+  "website": "www.prajnacounsel.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918242432682",
+    "919343567445",
+    "918242432133"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "Falnir Road, Kankanady",
+      "Mangalore",
+      "Dakshina Kannada",
+      "Karnataka",
+      "575002"
+    ]
+  }
+}

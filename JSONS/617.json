@@ -1,0 +1,27 @@
+{
+  "contacts": [
+    {
+      "name": "Anukesh Misra",
+      "email": "",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=617",
+  "name": "Richa Manav Vikas Trust",
+  "primaryEmail": "rmvt.knp@gmail.com",
+  "telephone": [
+    "915123269111",
+    "915123269111"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "258 Yogandar Vihar",
+      "Naubasta",
+      "Kanpur Nagar",
+      "Uttar Pradesh",
+      "208021"
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "Harwinder Singh",
+      "email": "harwinderrai@yahoo.co.in",
+      "designation": "Donor Coordinator",
+      "mobile": [
+        "91-1823-240773",
+        "91-9815953627"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1236",
+  "name": "S. Kartar Singh Memorial Society For Education & Social Welfare",
+  "primaryEmail": "bajwahs@hotmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Intermediary"
+  ],
+  "telephone": [
+    "911823240773",
+    "911823240773"
+  ],
+  "mainAddrress": {
+    "state": "Punjab",
+    "address": [
+      "Sks Computer Education Centre,",
+      "Ghakewal Road",
+      "Rahon",
+      "Nawanshahr",
+      "Punjab",
+      "144517",
+      "AP_Other_1140.PDF"
+    ]
+  }
+}

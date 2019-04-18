@@ -1,0 +1,48 @@
+{
+  "contacts": [
+    {
+      "name": "Suresh Karuppiah",
+      "email": "suchju@yahoo.com",
+      "designation": "Director",
+      "mobile": [
+        "91-4339-262840",
+        "91-9443362841"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6105",
+  "name": "Institute for Rural Community Service (IRCS)",
+  "primaryEmail": "ircsindia@gmail.com",
+  "website": "www.ircs.org.in",
+  "organisationType": [
+    "Direct Service",
+    "Network"
+  ],
+  "telephone": [
+    "914339262840",
+    "919488862841"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "7/6",
+      "Kallar Street,",
+      "Keerranur",
+      "Pudukkottai",
+      "Tamil Nadu",
+      "622502"
+    ]
+  },
+  "briefDescription": "Institute for Rural Community Service (IRCS) is a small NGO based in Trichy. We try to create a harmonious society in which the community feels empowered to address and improve their own education, economic and health, development in a sustainable way with the community participation.",
+  "yearOfEstablishment": "2011",
+  "regiseredAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "10, Kesava Nagar",
+      "Race Course Road,",
+      "Tiruchirappalli",
+      "Tamil Nadu",
+      "620023"
+    ]
+  }
+}

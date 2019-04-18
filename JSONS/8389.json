@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Madan Kumar Sahu",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8389",
+  "name": "Sahiya",
+  "primaryEmail": "sahiya2004@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "916512361146",
+    "916512361146"
+  ],
+  "mainAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "Vill.+Po. Tangar",
+      "Bijapur",
+      "Block Chano",
+      "Ranchi",
+      "Jharkhand",
+      "835214"
+    ]
+  }
+}

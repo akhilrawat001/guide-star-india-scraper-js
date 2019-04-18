@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Raja Paul Gajendran",
+      "email": "",
+      "designation": "Chairman",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2911",
+  "name": "King of Glory Missions",
+  "primaryEmail": "info@kgmissions.org",
+  "website": "http://www.kgmissions.org",
+  "telephone": [
+    "914445575148",
+    "914445575148"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "Plot No 48",
+      "Kamakoti Nagar, 2nd Street, Narayanapuram,",
+      "Pallikaranai",
+      "Chennai",
+      "Tamil Nadu",
+      "600100"
+    ]
+  }
+}

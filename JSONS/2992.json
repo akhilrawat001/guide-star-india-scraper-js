@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "MR. SARAJU B NAYAK",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2992",
+  "name": "URMILA BRUNDABAN NAYAK MEMORIAL EDUCATION TRUST",
+  "primaryEmail": "INFO@UBNMET.ORG",
+  "website": "HTTP://WWW.UBNMET.ORG",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service"
+  ],
+  "telephone": [
+    "912612894312",
+    "912612894312"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "1-2, VISHNU NAGAR-1, 120FT BAMROLI ROAD",
+      "FATEH NAGAR, NR. PIYUSH POINT",
+      "SURAT",
+      "Surat",
+      "Gujarat",
+      "394220"
+    ]
+  }
+}

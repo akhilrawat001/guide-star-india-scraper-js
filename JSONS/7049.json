@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Dr. P.K.Jain",
+      "email": "jainhospitalvasundhara@yahoo.co.in",
+      "designation": "Secretary",
+      "mobile": [
+        "91-9810070637"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7049",
+  "name": "ARIHANT CHARITABLE HOSPITAL TRUST SOCIETY",
+  "primaryEmail": "jainhospitalvasundhara@yahoo.co.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "9810070637"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "14A/636",
+      "Vasundhara",
+      "Ghaziabad",
+      "Uttar Pradesh",
+      "201301"
+    ]
+  }
+}

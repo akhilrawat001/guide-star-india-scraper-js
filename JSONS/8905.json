@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Mr Sureshkumar Shivaji Sankpal",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8905",
+  "name": "AADHAR PROJECTS WELFARE SOCIETY",
+  "primaryEmail": "aadharngo@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919421226630"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Hivshree Building,Near Kalambi Road,Ap Malgaon Tal.Miraj",
+      "Miraj",
+      "Sangli",
+      "Maharashtra",
+      "416407"
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=973",
+  "name": "Universal Versatile Society",
+  "primaryEmail": "uvsoindia@yahoo.com",
+  "website": "https://uvsociety.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919325044140",
+    "917350234754"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "01 Care of Vidarbha Infotech",
+      "Near Collector Office, Kata Road",
+      "Washim",
+      "Maharashtra",
+      "444505"
+    ]
+  },
+  "briefDescription": "We are active in Education, Rural Development, Agriculture and Women's Empowerment in Vidarbha of Washim (Farmer's suicide prone district).Our target benificiaries are rural students, farmers and villagers.",
+  "yearOfEstablishment": "2005",
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Universal Versatile Society Infront of State Bank of India",
+      "Patni Chowk",
+      "Washim",
+      "Maharashtra",
+      "444505",
+      "AP_BankStat_888.PDF"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10547",
+  "name": "YASHOTTAM JANHIT PRATISHTHAN",
+  "primaryEmail": "nitin.wable121@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919922922476"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Nitin Uttam Wable  SR.No. 211, Hiss No. 3 Near DP Road, Vidyavihar Soci Malwadi, Hadapsar,",
+      "Pune",
+      "Maharashtra",
+      "411028"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Ghar No. 484,  A/P - Karkhel Tal - Baramati,",
+      "Pune",
+      "Maharashtra",
+      "413102"
+    ]
+  }
+}

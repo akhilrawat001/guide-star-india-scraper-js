@@ -1,0 +1,45 @@
+{
+  "contacts": [
+    {
+      "name": "SANDEEP GOKHALE",
+      "email": "sdg2k@yahoo.com",
+      "designation": "CSR Volunteer",
+      "mobile": [
+        "91-22-25784810"
+      ]
+    },
+    {
+      "name": "SANDEEP GOKHALE",
+      "email": "sdg2k@yahoo.com",
+      "designation": "CSR Volunteer",
+      "mobile": [
+        "91-22-25784810"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=815",
+  "name": "Vatsalya Trust Mumbai",
+  "primaryEmail": "sdg2k@yahoo.com",
+  "website": "http://www.vatsalyatrustmumbai.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "912225782958",
+    "912225784810",
+    "912225784820",
+    "912225782958"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Plot 1285, Vatsalya Trust Mumbai",
+      "Near Police Station, Kanjurmarg East",
+      "Mumbai",
+      "Maharashtra",
+      "400042"
+    ]
+  },
+  "briefDescription": "Upliftment  of downtrodden members of our society with emphasis on destitute children and children  in crisis.",
+  "yearOfEstablishment": "1983"
+}

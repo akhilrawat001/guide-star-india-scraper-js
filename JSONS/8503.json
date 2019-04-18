@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Ramesh Kaul",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8503",
+  "name": "HOPE ONE WELFARE SOCIETY",
+  "primaryEmail": "hopeonewelfare@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919536006359",
+    "919411065284"
+  ],
+  "mainAddrress": {
+    "state": "Haryana",
+    "address": [
+      "A-403, Samanvay Apartment",
+      "CGHS, Plot No. 82 GH, Sector 56,",
+      "Gurgoan",
+      "Gurugram",
+      "Haryana",
+      "122003"
+    ]
+  }
+}

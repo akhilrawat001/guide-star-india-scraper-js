@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Rajkumari Singh",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4496",
+  "name": "GARHWAL COMMUNITY DEVELOPMENT & WELFARE SOCIETY",
+  "primaryEmail": "gcdwschc@gmail.com",
+  "website": "http//www.gcdwsindia.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "911376255273"
+  ],
+  "mainAddrress": {
+    "state": "Uttarakhand",
+    "address": [
+      "christian hospital massoorei road chamba ,Tehri Garhwal,uttarakhand",
+      "garhwal community development&wefare society , christian hospital massoorei road chamba ,Tehri Garhwal,uttarakhand",
+      "Tehri Grahwal",
+      "Tehri Garhwal",
+      "Uttarakhand",
+      "249145"
+    ]
+  }
+}

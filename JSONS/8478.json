@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Swapnarani Mallick",
+      "email": "vikash_jyoti@sifi.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8478",
+  "name": "Vikash Jyoti",
+  "primaryEmail": "vikash_jyoti@sifi.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919437637411"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "At: Ramachandrapur",
+      "Post: Narendrapur",
+      "via: Padmanabhapur",
+      "Jagatsinghapur",
+      "Odisha",
+      "761007"
+    ]
+  }
+}

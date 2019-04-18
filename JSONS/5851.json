@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "PRATIK REWATKAR",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "8408099757"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5851",
+  "name": "SARASWATI BAHUUDDESHIYA SANSTHA KATOL",
+  "primaryEmail": "sbsindia.katol@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "918408099757"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Apang Sevashram",
+      "Dharti-Murti Road",
+      "Katol",
+      "Nagpur",
+      "Maharashtra",
+      "441302"
+    ]
+  }
+}

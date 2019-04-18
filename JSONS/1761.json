@@ -1,0 +1,45 @@
+{
+  "contacts": [
+    {
+      "name": "Bhagirath Gehlot",
+      "email": "yqecbpl@yahoo.in",
+      "designation": "Project Coordinator",
+      "mobile": []
+    },
+    {
+      "name": "Bhagirath Gehlot",
+      "email": "yqecbpl@yahoo.in",
+      "designation": "Project Coordinator",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1761",
+  "name": "Yuvak Quami Ekta Committee",
+  "primaryEmail": "yqecbpl@yahoo.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "917552460371",
+    "917552460372",
+    "919425079722"
+  ],
+  "mainAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "E7/2 Chitragupt Nagar Arra Colony",
+      "Bhopal",
+      "Madhya Pradesh",
+      "462016"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "33/2 South T.T. Nagar",
+      "Bhopal",
+      "Madhya Pradesh",
+      "462016"
+    ]
+  }
+}

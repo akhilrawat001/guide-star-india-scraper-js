@@ -1,0 +1,26 @@
+{
+  "contacts": [
+    {
+      "name": "M.Ravi Kumar",
+      "email": "",
+      "designation": "Executive Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1125",
+  "name": "Sri Triveni Yuvajana Sangham",
+  "primaryEmail": "srithriveni@gmail.com",
+  "telephone": [
+    "918932295021",
+    "918932295021"
+  ],
+  "mainAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "Rolugunta (Post & Mandal)",
+      "Visakhapatnam",
+      "Andhra Pradesh",
+      "531114"
+    ]
+  }
+}

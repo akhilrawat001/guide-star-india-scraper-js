@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Marimuthu",
+      "email": "maris_kalikup@yahoo.co.in",
+      "designation": "Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4897",
+  "name": "NATIONAL INSTITUTE OF SLUM STUDIES",
+  "primaryEmail": "maris_kalikup@yahoo.co.in",
+  "website": "www.star-india.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "917666228971"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "D-29, 2:1,Sector -21 & 22,CBD- Belapur, Navi Mumbai",
+      "Income Tax Colony, Parshik Hill",
+      "Navi Mumbai",
+      "Thane",
+      "Maharashtra",
+      "400713"
+    ]
+  }
+}

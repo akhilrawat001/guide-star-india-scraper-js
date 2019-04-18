@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Avinash M Jogdand",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7417",
+  "name": "Geetai Humankind Development Trust",
+  "primaryEmail": "info@geetai.org",
+  "website": "www,geetai.org",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "9011331400"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "81/2, Ramelex House, Dnagat Industrial Estate ,",
+      "NDA Road ,Shivane,",
+      "Pune",
+      "Maharashtra",
+      "411023"
+    ]
+  }
+}

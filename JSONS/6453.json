@@ -1,0 +1,33 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6453",
+  "name": "Crafts & Social Development Organisation",
+  "primaryEmail": "craft_social@yahoo.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918860075342"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "3484/1, narang colony",
+      "narang colony, tri nagar",
+      "Delhi",
+      "North Delhi",
+      "110035"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "3484/1, NARANG COLONY",
+      "TRI NAGAR,",
+      "DELHI",
+      "North Delhi",
+      "Delhi",
+      "110035"
+    ]
+  }
+}

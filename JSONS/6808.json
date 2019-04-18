@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Swati Devidas Chaudhari",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6808",
+  "name": "Suman Shaikshanik Sevabhavi Sanstha Mukti",
+  "primaryEmail": "sudamachaudhari@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Intermediary",
+    "Support"
+  ],
+  "telephone": [
+    "919423217790"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "4A DHRUV BANGALA",
+      "G D MALI HOUSEING SOCITY",
+      "DEVAPUR",
+      "Dhule",
+      "Maharashtra",
+      "424002"
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "contacts": [
+    {
+      "name": "Dr. Abhishek Tiwari",
+      "email": "abhishekkt1998@gmail.com",
+      "designation": "Cofounder",
+      "mobile": [
+        "91-9475558999"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10787",
+  "name": "SISU UDGAM",
+  "primaryEmail": "sisuudgam@gmail.com",
+  "website": "www.sisuudgamngo.org.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919475558999"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Care Of Mousumi Mukherjee.Gopalmath Telephone Exchange Building",
+      "J.B. Plot",
+      "Durgapur",
+      "Bardhaman",
+      "West Bengal",
+      "713217"
+    ]
+  },
+  "briefDescription": "Sisu Udgam is a NGO founded by doctors and healthcare professional to give free medical aids to children of rural and urban deprived group of population with love and compassion. Sisu Udgam board members are health care provider only who have dedicated life for social cause.",
+  "yearOfEstablishment": "2018"
+}

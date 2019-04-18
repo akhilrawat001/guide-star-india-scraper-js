@@ -1,0 +1,36 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7833",
+  "name": "UMANG BAHUUDDESHIYA SANSTHA",
+  "primaryEmail": "umangngosnk@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919637007675",
+    "912566222742"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Matrix Institute Of Computer Education",
+      "1St Floor Lordkrishna Complex Bhagwa Chowk Station Road",
+      "At Tal. Sindkheda",
+      "Dhule",
+      "Maharashtra",
+      "425406"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "C/O Matrix Institute Of Computer Education",
+      "1St Floor Lordkrishna Complex Bhagwa Chowk Station Road",
+      "At Tal. Sindkheda",
+      "Dhule",
+      "Maharashtra",
+      "425406"
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "A.Jayarani",
+      "email": "akmmdvk12@rediff.com",
+      "designation": "Secretary",
+      "mobile": [
+        "91-9942635306"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6261",
+  "name": "Annai Kasthuribai Mahalir Mandram Devakottai",
+  "primaryEmail": "akmmdvk12@rediffmail.com",
+  "telephone": [
+    "914561273781",
+    "914561273781"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "5/10,",
+      "Vellaiyan Orani North Street Devakottai",
+      "Sivaganga",
+      "Sivagangai",
+      "Tamil Nadu",
+      "630302"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "contacts": [
+    {
+      "name": "Aditya Kumar Mishra",
+      "email": "cktd.up@gmail.com",
+      "designation": "President",
+      "mobile": [
+        "91-9452176972"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7489",
+  "name": "JAN KALYAN SHIKSHAN PRASAR SAMITI",
+  "primaryEmail": "jksps333@gmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Support"
+  ],
+  "telephone": [
+    "919450223899"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "In front of Ramayan Mela Parisar, Chitrakoot Dham",
+      "Sitapur, (Chitrakoot)",
+      "ChitraKoot",
+      "Chitrakoot",
+      "Uttar Pradesh",
+      "210204"
+    ]
+  },
+  "briefDescription": "The organisation operates Chitrakoot district in Uttar Pradesh.Jan Kalyan Shikshan Prasar Samiti (JKSPS)  started to work with mandated of participative development and creation of employment through farming and non-farming activities for sustainable livelihood options support and assistance towards land reclamation enabled the people to earn supplementary income for their livelihood.",
+  "yearOfEstablishment": "1997"
+}

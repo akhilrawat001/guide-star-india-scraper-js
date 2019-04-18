@@ -1,0 +1,33 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8653",
+  "name": "SADHANA RAICHUR",
+  "primaryEmail": "sadhana_organ@yahoo.co.in",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "918971962227"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "# 1-3-39/B Matru Krupa Vasavi Nagar Pwd Camp P.B. 19",
+      "Sindhanur,",
+      "Sindhanur",
+      "Raichur",
+      "Karnataka",
+      "584101"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "No- 179 EWS Quaters",
+      "Matanari Road",
+      "Raichur",
+      "Karnataka",
+      "584101"
+    ]
+  }
+}

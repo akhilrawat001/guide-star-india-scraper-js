@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "J.S.B.Sundaram",
+      "email": "",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1764",
+  "name": "Mamre Foundation Society",
+  "primaryEmail": "mamrefoundationbmt3@gmail.com",
+  "telephone": [
+    "918569283477",
+    "919441130880"
+  ],
+  "mainAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "N- Gollpalli ( VL)",
+      "Nandipalli ( PO ), B.Mattam (M)",
+      "B.Mattam",
+      "YSR District, Kadapa (Cuddapah)",
+      "Andhra Pradesh",
+      "516502"
+    ]
+  }
+}

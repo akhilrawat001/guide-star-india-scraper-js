@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "M. Thomas John",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4950",
+  "name": "ANTARA",
+  "primaryEmail": "antaragram365@gmail.com",
+  "website": "http://www.antaraglobal.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919836133250"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Antara, P.O. Dakshin Gobindapur",
+      "Kolkata",
+      "South 24 Parganas",
+      "West Bengal",
+      "700145"
+    ]
+  },
+  "briefDescription": "The ever-increasing complexities of modern life are creating more problems for the human mind than it can cope with. Mental illness, including addiction and alcoholism, is assuming greater proportions as challenging social problems. Antara is a response to this challenge. It strives to extend a helping hand to the mentally-distressed in ways more than one.",
+  "yearOfEstablishment": "1971"
+}

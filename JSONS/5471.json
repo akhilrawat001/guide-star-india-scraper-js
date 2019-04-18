@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "name": "SANJAY KHAN",
+      "email": "snjy.khan@rediffmail.com",
+      "designation": "SECRETARY",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5471",
+  "name": "STAR YOUTH CULTURAL SOCIETY",
+  "primaryEmail": "snjy.khan@rediffmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919460221786"
+  ],
+  "mainAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "PRABHAKAR BHARATIYA BHAWAN,",
+      "NEAR M. D. H.",
+      "NAGAUR",
+      "Nagaur",
+      "Rajasthan",
+      "341001"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "not provided",
+      "Nagaur",
+      "Rajasthan",
+      "341001"
+    ]
+  }
+}

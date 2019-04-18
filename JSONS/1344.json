@@ -1,0 +1,40 @@
+{
+  "contacts": [
+    {
+      "name": "Awantika Chitnavis",
+      "email": "",
+      "designation": "Trustee",
+      "mobile": [
+        "91-712-2542833"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1344",
+  "name": "Sir Gangadharrao Chitnavis Memorial Medical Research Trust",
+  "primaryEmail": "sirgangadhar@rediffmail.org",
+  "telephone": [
+    "917122555025",
+    "917122556545",
+    "919423077562"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Chitnavis Center",
+      "56, Temple Road, Civil Lines",
+      "Nagpur",
+      "Maharashtra",
+      "440002"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Chitnavis Wada,",
+      "Chitnavispura",
+      "Nagpur",
+      "Maharashtra",
+      "440002"
+    ]
+  }
+}

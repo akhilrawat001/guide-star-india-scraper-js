@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "S.Nagaraza",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8652",
+  "name": "SRI MANJUNATH EDUCATION AND DEVELOPMENT SOCIETY",
+  "primaryEmail": "srimaned.society@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919449867000"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "# 1995, Ranganatha Nilaya, 20th Main",
+      "2nd Cross, J.P.Nagar, 2nd Phase",
+      "Bangalore",
+      "Chamarajanagar",
+      "Karnataka",
+      "560078"
+    ]
+  }
+}

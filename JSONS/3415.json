@@ -1,0 +1,41 @@
+{
+  "contacts": [
+    {
+      "name": "V.Vijayalakshmi",
+      "email": "",
+      "designation": "Founder & President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3415",
+  "name": "Centre for Social Service",
+  "primaryEmail": "vemuri.vl2012@gmail.com",
+  "website": "http://cssvision.org",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "+919885472959"
+  ],
+  "mainAddrress": {
+    "state": "Telangana",
+    "address": [
+      "House no.: 1-10/2,1-10/3, Plot no.: 53, Mamathanagar Colony, Nagole - 500 068",
+      "'Vasundhara' House no.: 1-10/2,1-10/3, Plot no.: 53, Mamathanagar Colony, Nagole - 500 068",
+      "Rangareddy",
+      "Telangana",
+      "500068"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Telangana",
+    "address": [
+      "House no.: 1-10/2,1-10/3, Plot no.: 53, Mamathanagar Colony, Nagole - 500 068",
+      "'Vasundhara' House no.: 1-10/2,1-10/3, Plot no.: 53, Mamathanagar Colony, Nagole - 500 068",
+      "Rangareddy",
+      "Telangana",
+      "500068"
+    ]
+  }
+}

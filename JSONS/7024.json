@@ -1,0 +1,26 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7024",
+  "name": "Delhi Art Society",
+  "primaryEmail": "artneeraj@yahoo.co.in",
+  "website": "www.delhiartsociety.com/",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919818735209"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "4/54-55, Victoria Cross Bldg,Terrace Floor,",
+      "W.E.A., Saraswati Marg, Karol Bagh,",
+      "New Delhi",
+      "Central Delhi",
+      "Delhi",
+      "110005"
+    ]
+  },
+  "briefDescription": "The society promotes Indian art and more specifically promotion of Indian aesthetics in art. It organizes seminars cum panel discussions cum exhibitions for the importance of public art in big cities, like Delhi , which lacks meaningful public art. It gives a platform to artists to showcase their ideas for public art in such seminar cum exhibitions.",
+  "yearOfEstablishment": "2013"
+}

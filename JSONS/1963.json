@@ -1,0 +1,27 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1963",
+  "name": "Regional Rehabilitation & Research Center (RRRC)",
+  "primaryEmail": "rrrc_disability@yahoo.co.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "916612506452",
+    "916616532404",
+    "919437085434"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "Plot. No.- 21/321",
+      "Near Rourkela Govt. Hospital, Panposh Road,",
+      "Rourkela",
+      "Sundargarh",
+      "Odisha",
+      "769004"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "contacts": [
+    {
+      "name": "BAIDYA DEBBARMA",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6663",
+  "name": "DUYA  MEMORIAL CARE SOCIETY",
+  "primaryEmail": "duyamemorialcare@gmail.com",
+  "website": "Nil",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919774310926"
+  ],
+  "mainAddrress": {
+    "state": "Tripura",
+    "address": [
+      "VILL: GAMSA KOBRA, P.O.: BODHJHUNGNAGAR, P.S.: LEFUNGA, WEST TRIPURA.",
+      "VILL: GAMSA KOBRA, P.O.: BODHJHUNGNAGAR, P.S.: LEFUNGA, WEST TRIPURA",
+      "West Tripura",
+      "Tripura",
+      "799210"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Tripura",
+    "address": [
+      "VILL: GAMSA KOBRA, P.O.: BODHJHUNGNAGAR, P.S.: LEFUNGA, WEST TRIPURA.",
+      "P.O Agratala",
+      "VILL: GAMSA KOBRA, P.O.: BODHJHUNGNAGAR, P.S.: LEFUNGA, WEST TRIPURA",
+      "West Tripura",
+      "Tripura",
+      "799210"
+    ]
+  }
+}

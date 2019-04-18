@@ -1,0 +1,52 @@
+{
+  "contacts": [
+    {
+      "name": "Sreedevi Yadavalli",
+      "email": "ysreedevi@lvpei.org",
+      "designation": "Associate Director",
+      "mobile": [
+        "91-40-23547254"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=977",
+  "name": "Hyderabad Eye Institute",
+  "primaryEmail": "ysreedevi@lvpei.org",
+  "website": "http://www.lvpei.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "914023548271",
+    "914023547254",
+    "914030612345",
+    "919849171895"
+  ],
+  "mainAddrress": {
+    "state": "Telangana",
+    "address": [
+      "Kallam Anji Reddy Campus",
+      "L V Prasad Marg, Banjara Hills",
+      "Hyderabad",
+      "Telangana",
+      "500034"
+    ]
+  },
+  "briefDescription": "LVPEI is a not-for-profit, public-spirited, comprehensive eye care institution. It operates out of 116 locations, 95 of them being primary eye care centres located in remote rural villages. For the past 26 years, it has served over 17 million (1 crore 70 lakh) people, over 50% of them entirely free of cost, irrespective of the complexity of care needed.  Till date, LVPEI has trained over 14,000 eye care professionals; its faculty been awarded 29 PhDs with over 1350 research papers publications, its sight enhancement and visual rehabilitation services served over 100,000 people, and its eye bank services has harvested over 43,000 donor corneas, and transplanted over 22,750 of them to needy patients.",
+  "yearOfEstablishment": "1986",
+  "regiseredAddrress": {
+    "state": "Telangana",
+    "address": [
+      "Hyderabad Eye Institute,8-2-326/4, Road No. 3,",
+      "Banjara Hills",
+      "Hyderabad",
+      "Telangana",
+      "500034",
+      "AP_TelBill_892.PDF"
+    ]
+  }
+}

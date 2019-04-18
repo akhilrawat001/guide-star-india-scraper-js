@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "Sonali Jain",
+      "email": "rafoundationmumbai@gmail.com",
+      "designation": "Program director",
+      "mobile": [
+        "91-9870594133"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8039",
+  "name": "Ra Foundation",
+  "primaryEmail": "dhara@rafoundation.in",
+  "website": "http://www.rafoundation.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Intermediary",
+    "Support"
+  ],
+  "telephone": [
+    "919022551604"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "E2 Mandar Society",
+      "Raut lane, Juhu",
+      "Mumbai",
+      "Maharashtra",
+      "400049"
+    ]
+  },
+  "briefDescription": "Ra Foundation is a Mumbai-based and registered Ngo that works with Akanksha Foundation and Teach for India in supporting children's education with an extraordinary approach. We provide talented children coming from unprivileged background with an end-to-end development program by enrolling them in good quality boarding schools, exposing them to sports, music and arts and ensuring they remain healthy through balanced nutrition and regular medical checkups.",
+  "yearOfEstablishment": "2004"
+}

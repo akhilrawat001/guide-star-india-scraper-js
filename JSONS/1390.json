@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "name": "Somnath Mukherjee",
+      "email": "ngocon@rediffmail.com",
+      "designation": "President",
+      "mobile": []
+    },
+    {
+      "name": "Somnath Mukherjee",
+      "email": "ngocon@rediffmail.com",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1390",
+  "name": "Ichamati Rural Development Society",
+  "primaryEmail": "icharur@rediffmail.com",
+  "website": "www.ichamati.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "913324663358",
+    "913324663358"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "106 B Rash Behari Avenue",
+      "Kolkata",
+      "West Bengal",
+      "700029"
+    ]
+  }
+}

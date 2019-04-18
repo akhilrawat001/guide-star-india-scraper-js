@@ -1,0 +1,39 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=739",
+  "name": "HOPE Foundation",
+  "primaryEmail": "Hope_Foundation@hopeww.org",
+  "website": "www.hopefoundation.org.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "911126515373",
+    "911126515374",
+    "911141621725"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "18 Tejus Saraswati Ammal Road, Maruti Sewa Nagar",
+      "Maruthi Sewa Nagar",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560033"
+    ]
+  },
+  "briefDescription": "Our vision is simple: to bring hope to those with none and to change the lives of everyone we come into contact with - our donors, volunteers, staff, NGO partners, government, and the poor whom we serve.HOPE foundation is a compassionate but non-sectarian charity that changes lives by harnessing the compassion and commitment of dedicated staff and volunteers to deliver sustainable, high-impact, community-based services to the poor and needy.",
+  "yearOfEstablishment": "1991",
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "H-6/B,Ground Floor",
+      "Hauz Khas",
+      "New Delhi",
+      "South Delhi",
+      "Delhi",
+      "110016"
+    ]
+  }
+}

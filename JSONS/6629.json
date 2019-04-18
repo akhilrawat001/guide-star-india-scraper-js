@@ -1,0 +1,35 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6629",
+  "name": "JAGRUTI BAHUDDESHIYA SANSTHA",
+  "primaryEmail": "jagrutibs2014@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "9075199040"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Behind Uttam Talkies",
+      "Shashtri Nagar",
+      "At Post Arni District",
+      "Yavatmal",
+      "Maharashtra",
+      "445103"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Dhanora (KD)",
+      "P.O Tiwari",
+      "Digras Taluka",
+      "Yavatmal",
+      "Maharashtra",
+      "445203"
+    ]
+  }
+}

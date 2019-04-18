@@ -1,0 +1,48 @@
+{
+  "contacts": [
+    {
+      "name": "P.Suseela",
+      "email": "caidtrust@gmail.com",
+      "designation": "Managing Trustee",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7653",
+  "name": "COMMUNITY AID TRUST",
+  "primaryEmail": "CAIDTRUST@GMAIL.COM",
+  "organisationType": [
+    "Direct Service",
+    "Grant-making",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919443792075",
+    "914512430284",
+    "917200112940"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "NO.7-4-64A/1,AKSHARA SPECIAL SCHOOL BUILDING,",
+      "NEAR RAILWAY GATE,SILLUVATHUR ROAD,",
+      "VADAMADURAI(PO),VEDASANDUR(TK)",
+      "Dindigul",
+      "Tamil Nadu",
+      "624801"
+    ]
+  },
+  "briefDescription": "The overall objective at the Community Aid Trust is to provide expertise and assistance to rural master in building their capacity to reduce poverty, tackle environmental problem, and assure responsibility for their health and pursuer education. The organization has further developed specific infrastructures for extending the support to Persons with Disabled to act with a holistic approach. Since India’s seventy percent population lives in villages, the key to its long term growth and all round development lies in the development at its rural sector.",
+  "yearOfEstablishment": "2002",
+  "regiseredAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "86 B2, NAICKER NEW 3RD STREET,",
+      "EAST GOVINDAPURAM",
+      "DINDIGUL",
+      "Dindigul",
+      "Tamil Nadu",
+      "624001"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6110",
+  "name": "KRISHNA SHANTI SUMAN BAHUDDESHIYA KRIDA SANSTHA",
+  "primaryEmail": "sandhyajain107@gmail.com",
+  "website": "www.krishnashanti.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919920989001"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "20/502 NRI COMPLEX, SEAWOOD ESTATES",
+      "PALM BEACH ROAD",
+      "NERIUL NAVI MUMBAI",
+      "Thane",
+      "Maharashtra",
+      "400706"
+    ]
+  }
+}

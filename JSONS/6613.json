@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Brijesh Arya",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6613",
+  "name": "Pehchan Foundation",
+  "primaryEmail": "pehchan.mumbai@gmail.com",
+  "website": "www.pehchanindia.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919702892141"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Room 39 1st Floor Rehmat Bhai Building 2",
+      "Sane Guru Ji Marg Tardeo",
+      "Mumbai",
+      "Maharashtra",
+      "400032"
+    ]
+  }
+}

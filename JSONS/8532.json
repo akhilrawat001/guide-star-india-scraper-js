@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Mr Shib Mukhopadhyay",
+      "email": "shibmukh_nat@rediffmail.com",
+      "designation": "Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8532",
+  "name": "NATADHA",
+  "primaryEmail": "shibmukh_nat@rediffmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Network"
+  ],
+  "telephone": [
+    "919433767806"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "7/2",
+      "Naba Kumar Nandy Lane",
+      "District- Howrah",
+      "Howrah",
+      "West Bengal",
+      "711101"
+    ]
+  }
+}

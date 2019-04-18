@@ -1,0 +1,27 @@
+{
+  "contacts": [
+    {
+      "name": "Sushil Kumar Dwivedi",
+      "email": "ho@gds.org.in",
+      "designation": "Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4649",
+  "name": "Grameen Development Services",
+  "primaryEmail": "ho@gds.org.in",
+  "website": "http://www.gdsindia.org",
+  "telephone": [
+    "919415110759"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "B-1/84, Sector-B",
+      "Aliganj, Lucknow",
+      "Lucknow",
+      "Uttar Pradesh",
+      "226024"
+    ]
+  }
+}

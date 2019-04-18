@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "uma shankar jaiswal",
+      "email": "kartikgroup05@gmail.com",
+      "designation": "manager",
+      "mobile": [
+        "91-9936682556"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4369",
+  "name": "KARTIK EDUCATIONAL AND SOCICAL WELFARE SOCIETY",
+  "primaryEmail": "kartikgroup05@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919936682556"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "HETIMPUR DEORIA U.P.",
+      "HETIMPUR",
+      "Deoria",
+      "Uttar Pradesh",
+      "274206"
+    ]
+  }
+}

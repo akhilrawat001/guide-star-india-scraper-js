@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "MAYANK SINGH",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "9919124672"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2979",
+  "name": "MAHILA KALYAN SAMITI",
+  "primaryEmail": "mahilaumasingh@gmail.com",
+  "website": "not created",
+  "organisationType": [
+    "Direct Service",
+    "Grant-making",
+    "Intermediary",
+    "Support"
+  ],
+  "telephone": [
+    "919919124672"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "285,AnshuBhavan ,GoraBazar ,civil Line,Raebareli(U.P)",
+      "Civil line,",
+      "Raebareli",
+      "RaeBareli",
+      "Uttar Pradesh",
+      "229001"
+    ]
+  }
+}

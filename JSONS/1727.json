@@ -1,0 +1,26 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1727",
+  "name": "Shiksha Abhiyan Educational Society",
+  "primaryEmail": "info@shikshaabhiyan.in",
+  "website": "www.shikshaabhiyan.in",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "911165651920",
+    "917503565656"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "H.No. 20 B",
+      "Lane No 38, Chanakya Place",
+      "Janak Puri",
+      "New Delhi",
+      "Delhi",
+      "110059"
+    ]
+  }
+}

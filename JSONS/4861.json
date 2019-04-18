@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Rakesh Khatri",
+      "email": "ecorootsfoundation@gmail.com",
+      "designation": "Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4861",
+  "name": "Eco Roots Foundation",
+  "primaryEmail": "ecorootsfoundation@gmail.com",
+  "website": "ecorootsfoundation.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service"
+  ],
+  "telephone": [
+    "919312626909"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "6 A Pocket 6 MIG",
+      "Mayur Vihar Phase III",
+      "New Kondli",
+      "East Delhi",
+      "Delhi",
+      "110096"
+    ]
+  }
+}

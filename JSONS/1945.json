@@ -1,0 +1,51 @@
+{
+  "contacts": [
+    {
+      "name": "Kavita",
+      "email": "kavita.jkitm@gmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    },
+    {
+      "name": "Kavita",
+      "email": "kavita.jkitm@gmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1945",
+  "name": "Jagkalyan Trust",
+  "primaryEmail": "info@jagkalyantrust.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Support"
+  ],
+  "telephone": [
+    "912241239114",
+    "912239610033",
+    "919819278795"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "10/303",
+      "Seawoods Estates, Nerul West,",
+      "Mumbai",
+      "Maharashtra",
+      "400706"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "1 - 2634",
+      "Aiwan shahi",
+      "Gulbarga",
+      "Kalaburagi (Gulbarga)",
+      "Karnataka",
+      "585102"
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "contacts": [
+    {
+      "name": "Hiren Kamdar",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8769",
+  "name": "KAMDAR EDUCATION TRUST",
+  "primaryEmail": "hirenkamdar70@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "+919322439645",
+    "+919665212676",
+    "+917776887588"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Amchi shaala building(Z P M School) Babul Pada",
+      "Opp. Little flower school, Don Lane, Achole road",
+      "Nallasopara East.",
+      "Thane",
+      "Maharashtra",
+      "401209"
+    ]
+  },
+  "briefDescription": "Kamdar Education Trust is Located in Thane, Maharashtra.Add:- Amchi Shala, Opp little flower school, Don Lane, Achole Road, NallaSopara(East). Dist: Thane-Palghar. Pincode: 401209.From The last 6 years we are providing computer education to all students with 100% job placement in which in the starting 2 years we have just provided the seva to all handicap students along with jobs. Then with the growth of education we started providing education to all students. we have provided more than 3000+ students till 2016-2017.",
+  "yearOfEstablishment": "2011",
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Stall No-70,",
+      "Near St. Augustine School, Barampur",
+      "Vasai Road, Vasai West",
+      "Thane",
+      "Maharashtra",
+      "401201"
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Pradeep Singh",
+      "email": "",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8483",
+  "name": "JAGO YUVA MANDAL SANSTHAN",
+  "primaryEmail": "JAGOYUVASANSTHAN@GMAIL.COM",
+  "website": "www.jagoyuvasansthan.com",
+  "organisationType": [
+    "Grant-making"
+  ],
+  "telephone": [
+    "917732937937"
+  ],
+  "mainAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "52 Garhi wale",
+      "Garhi jonawad",
+      "Devkhera Rajakhera",
+      "Dholpur",
+      "Rajasthan",
+      "328025"
+    ]
+  },
+  "briefDescription": "Jago Yuva Mandal Sansthan is Located in Dholpur, Rajasthan.",
+  "yearOfEstablishment": "2015"
+}

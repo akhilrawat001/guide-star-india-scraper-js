@@ -1,0 +1,53 @@
+{
+  "contacts": [
+    {
+      "name": "Gopal Dhanotiya",
+      "email": "gopaldhanotiyamds@gmail.com",
+      "designation": "Tresurer",
+      "mobile": []
+    },
+    {
+      "name": "Gopal Dhanotiya",
+      "email": "gopaldhanotiyamds@gmail.com",
+      "designation": "Tresurer",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8492",
+  "name": "ANUSANDHAN SHIKSHA EVAM SAMAJIK SAMITI",
+  "primaryEmail": "Yogeshporwalmds@gmail.com",
+  "website": "www.anusandhansolution.webs.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919691549171",
+    "919691485945"
+  ],
+  "mainAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "54",
+      "Gram-Lilda",
+      "Lilda,Post-Nahargarh,Teh-Mandsaur",
+      "Mandsaur",
+      "Madhya Pradesh",
+      "458558"
+    ]
+  },
+  "briefDescription": "Anusandhan Shiksha Evam Samajik Samiti is Located in Mandsaur,Madhya Pradesh.",
+  "yearOfEstablishment": "2013",
+  "regiseredAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "54",
+      "Near Mandir",
+      "Gram-Lilda,Post-Nahargarh,Teh-Mandsaur",
+      "Mandsaur",
+      "Madhya Pradesh",
+      "458558"
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Udita Roy",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8076",
+  "name": "Rudragni Creative & Classical Dance Academy",
+  "primaryEmail": "jeat.subha@gmail.com",
+  "website": "www.rudragni.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919836066933"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "487,",
+      "Rabindra Sarani",
+      "Kolkata",
+      "West Bengal",
+      "700005"
+    ]
+  }
+}

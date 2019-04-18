@@ -1,0 +1,24 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6100",
+  "name": "Bally Palli Mangal Society",
+  "primaryEmail": "pallimangalbally@rediffmail.com",
+  "website": "-",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919433029551"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "15/2, Beni Madhab Banerjee Lane",
+      "Room No-2, Ground Floor",
+      "P.O- Bally, Dist:- Howrah",
+      "Howrah",
+      "West Bengal",
+      "711201"
+    ]
+  }
+}

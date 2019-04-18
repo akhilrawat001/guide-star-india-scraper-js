@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "SUDHIR KESHAORAO RAUT",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8239",
+  "name": "LOK KALYAN BAHUUDDESHIY GRAMIN VIKAS SANSTHA WARDHA",
+  "primaryEmail": "lokkalyan.ngo@rediffmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "917152255002",
+    "917152255002"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "AT SUBHASH CHOUK GOND",
+      "PLOT WARDHA",
+      "WARDHA",
+      "Wardha",
+      "Maharashtra",
+      "442001"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "contacts": [
+    {
+      "name": "Chandra Prakask Singh",
+      "email": "",
+      "designation": "Manager",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=659",
+  "name": "Paryavaran Evam Jan Kalyan Samiti",
+  "primaryEmail": "pejks@rediffmail.com",
+  "telephone": [
+    "915944263117",
+    "915944263117",
+    "915944263117"
+  ],
+  "mainAddrress": {
+    "state": "Uttarakhand",
+    "address": [
+      "Bandia Kichha",
+      "Udham Singh Nagar",
+      "Uttarakhand",
+      "263148"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "contacts": [
+    {
+      "name": "Kishore Kumar Jena",
+      "email": "akp_balipatna@rediffmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8522",
+  "name": "ATMA KRUSHAK PARISAD",
+  "primaryEmail": "akp_balipatna@rediffmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919438636885"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "AT-ROUTRAY BUILDING, BALIPATNA CHHAK",
+      "AT-BALIPATNA CHHAK",
+      "BALIPATANA",
+      "Khordha",
+      "Odisha",
+      "752102"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Odisha",
+    "address": [
+      "Plot No 1124",
+      "Po/Via/P.S.- Balipatna",
+      "Dist - Khurda",
+      "Khordha",
+      "Odisha",
+      "752102"
+    ]
+  }
+}

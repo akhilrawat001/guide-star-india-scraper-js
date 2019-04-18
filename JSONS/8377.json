@@ -1,0 +1,48 @@
+{
+  "contacts": [
+    {
+      "name": "Neelam Patel",
+      "email": "pragatipath.org@gmail.com",
+      "designation": "General Secretary",
+      "mobile": [
+        "91-9369338976"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8377",
+  "name": "Pragati Path Foundation",
+  "primaryEmail": "pragatipath.org@gmail.com",
+  "website": "www.pragatipathfoundation.org.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making"
+  ],
+  "telephone": [
+    "919389220813",
+    "919369338976",
+    "918303586006"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "A 36/26 DM Kajjakpura",
+      "Rajghat",
+      "Varanasi",
+      "Uttar Pradesh",
+      "221001"
+    ]
+  },
+  "briefDescription": "Pragati Path Foundation is working for women empowerment and child development in rural and urban aria. Pragati Path Foundation tries to make able to women. Pragati Path Foundation women are trying to maintain the right to equality in society, maintaining their identity and dignity, making them self-sufficient, building their confidence and fear for them and their environment.",
+  "yearOfEstablishment": "2011",
+  "regiseredAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "SA. 17/208 Sarangtalab,",
+      "Pahariya",
+      "Varanasi",
+      "Uttar Pradesh",
+      "221007"
+    ]
+  }
+}

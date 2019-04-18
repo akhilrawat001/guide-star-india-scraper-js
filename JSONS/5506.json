@@ -1,0 +1,28 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5506",
+  "name": "MANAV KALYAN MANDAL",
+  "primaryEmail": "mpmerja@yahoo.com",
+  "website": "www.sevaindia.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "+919426737273"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "4-Ganga Jamuna Saraswati Tower, University Road, Rajkot, Gujrat-360005",
+      "University Road",
+      "Rajkot",
+      "Gujarat",
+      "360005"
+    ]
+  }
+}

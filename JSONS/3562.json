@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Shyamjee Kushwaha",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3562",
+  "name": "Novel Education and Welfare Society",
+  "primaryEmail": "shyambettiah@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "916254240407",
+    "916254240407"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "NEWS Campus, Bhola Babu Complex,",
+      "Teen Lalten",
+      "Bettiah",
+      "West Champaran",
+      "Bihar",
+      "845438"
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "T.Jayabalan",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4787",
+  "name": "REHABILITATION EMPOWERMENT WELFARE AND RESOURCE DEVELOPMENT SOCIETY (REWARD SOCIETY)",
+  "primaryEmail": "rewardsociety@yahoo.co.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919443537954"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "No.129 / A , Ambuja Complex , First Floor , Trichy Main Road , Vilupuram , 605602",
+      "Vilupuram",
+      "Viluppuram",
+      "Tamil Nadu",
+      "605602"
+    ]
+  }
+}

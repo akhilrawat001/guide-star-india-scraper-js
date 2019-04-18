@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Kushark Jaiswal",
+      "email": "kushark@gmail.com",
+      "designation": "Project Head",
+      "mobile": [
+        "91-9819320583"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6628",
+  "name": "SHIV PRATHISTHAN",
+  "primaryEmail": "kushark@gmail.com",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "919819320583"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Plot No.69,",
+      "Shivaji Nagar,",
+      "Yavatmal",
+      "Mumbai",
+      "Maharashtra",
+      "445000"
+    ]
+  }
+}

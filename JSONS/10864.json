@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Pk Sahu",
+      "email": "su.margdarsi@gmail.com",
+      "designation": "CEO",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10864",
+  "name": "MARGDARSI",
+  "primaryEmail": "su.margdarsi@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918249927043"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "Srujani Complex",
+      "Badaraghunathpur,Madanpur",
+      "Khordha",
+      "Odisha",
+      "752054"
+    ]
+  },
+  "briefDescription": "Margdarsi is located in Khordha, Odisha.",
+  "yearOfEstablishment": "1995"
+}

@@ -1,0 +1,24 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7955",
+  "name": "ARPHEN (Association Of Rural People for Health and Educational Needs)",
+  "primaryEmail": "arphenvashi@rediffmail.com",
+  "website": "www.arphen.org",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "919869005094"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Arphen Row House",
+      "C35/32,Sector-12 ,Kharghar,",
+      "Navi Mumbai",
+      "Raigad",
+      "Maharashtra",
+      "410210"
+    ]
+  }
+}

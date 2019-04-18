@@ -1,0 +1,41 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8934",
+  "name": "ZESTREET",
+  "primaryEmail": "cometogether@zestreet.in",
+  "website": "www.zestreet.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919871859480",
+    "919971797727"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "3rd Floor, 5355/67",
+      "Regar Pura, Karol Bagh",
+      "New Delhi",
+      "Central Delhi",
+      "Delhi",
+      "110005"
+    ]
+  },
+  "briefDescription": "Zestreet is an NGO working to empower women financially through skill development.We see women employability as one such tool which can potentially strike off all other problems (gender inequality,violence etc.)  related to women in our society.Our Vision – We envision women to be A.I.E.E.E.(Aware, Independent, Employed, Engaged and Empowered)Our Mission- To empower 2000 women to be financially independent by 2020.",
+  "yearOfEstablishment": "2016",
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "3rd Floor, 5355/67",
+      "Regar Pura, Karol Bagh",
+      "Delhi",
+      "Central Delhi",
+      "110005"
+    ]
+  }
+}

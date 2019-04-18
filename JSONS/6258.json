@@ -1,0 +1,47 @@
+{
+  "contacts": [
+    {
+      "name": "N.K.Patel",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "9178139286"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6258",
+  "name": "MADHYAM",
+  "primaryEmail": "info@madhyamjsg.org",
+  "website": "www.madhyamjsg.org",
+  "organisationType": [
+    "Direct Service",
+    "Grant-making"
+  ],
+  "telephone": [
+    "919178139286"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "AT-Yogvihar(Govindpur).PO-Kadamdihi",
+      "Block-Lakhanpur",
+      "Jharsuguda",
+      "Odisha",
+      "768219",
+      "TAX COLLECTION & DEDUCTION CERTIFICATE.doc"
+    ]
+  },
+  "briefDescription": "Rural development and women empowerment",
+  "yearOfEstablishment": "2003",
+  "regiseredAddrress": {
+    "state": "Odisha",
+    "address": [
+      "AT-Yogvihar(Govindpur)",
+      ".PO-Kadamdihi",
+      "Block-Lakhanpur",
+      "Jharsuguda",
+      "Odisha",
+      "768219"
+    ]
+  }
+}

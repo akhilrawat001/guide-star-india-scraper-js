@@ -1,0 +1,26 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1514",
+  "name": "Shubhasheesh Shiksha Evam Vikas Seva Sansthan",
+  "primaryEmail": "shubhasheeshsansthan@yahoo.com",
+  "website": "www.shubhasheesh.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "915352217123",
+    "915352217124",
+    "919415190420"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "E-27, Industrial Area,",
+      "Site, RaeBareli No. 2, Amawan Road",
+      "RaeBareli",
+      "Uttar Pradesh",
+      "229001"
+    ]
+  }
+}

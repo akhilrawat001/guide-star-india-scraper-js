@@ -1,0 +1,42 @@
+{
+  "contacts": [
+    {
+      "name": "K. BASKARAN",
+      "email": "goodlife1996@gmail.com",
+      "designation": "HONORARY SECRETARY",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5489",
+  "name": "GOOD LIFE CENTRE",
+  "primaryEmail": "goodlife1996@gmail.com",
+  "website": "http://www.goodlifecentre.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "914422264151",
+    "914422264151"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "7-B Loganathan Street",
+      "West Tambaram, Near Vidya Theatre",
+      "Chennai",
+      "Kancheepuram",
+      "Tamil Nadu",
+      "600045"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "not provided",
+      "Chennai",
+      "Kancheepuram",
+      "Tamil Nadu",
+      "600045"
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Anilkumar Jambhulkar",
+      "email": "jankalyan.aajk@yahoo.co.in",
+      "designation": "President",
+      "mobile": [
+        "91-9422819104"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4692",
+  "name": "Jankalyan Bahuuddeshiya Sanstha",
+  "primaryEmail": "jankalyan.aajk@yahoo.co.in",
+  "website": "www.jankalyanbsramtek.org",
+  "telephone": [
+    "917114255739",
+    "919422819104"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Yashoda, Bhagyashri Colony",
+      "Arsoda Po. K K Nagar Ta",
+      "RAMTEK",
+      "Nagpur",
+      "Maharashtra",
+      "441106"
+    ]
+  },
+  "yearOfEstablishment": "2009"
+}

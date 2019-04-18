@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Dr. Ranjan Kumar Dubey",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7007",
+  "name": "SAWAN (Gramin Niyojan Evam Shodh Sansthan)",
+  "primaryEmail": "sawan.siwan@gmail.com",
+  "website": "SAWAN SIWAN.ORG.IN",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "919431406962"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "VILL+PO-NONEYA PATTI,BLOCK-SISWAN,",
+      "NONEYA(SOUTH TOLA)",
+      "SIWAN",
+      "Siwan",
+      "Bihar",
+      "841210"
+    ]
+  }
+}

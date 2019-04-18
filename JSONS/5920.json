@@ -1,0 +1,35 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5920",
+  "name": "Shantikunj Shikshan Prasarak Bahuuddeshiya Sanstha",
+  "primaryEmail": "abhishekpohankar46@rediffmail.com",
+  "website": "www.shantikunj.co.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919970437826"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Police Mitra Society,Plot No. 37",
+      "in front of Gulmohar Hotel,Lohara",
+      "Yavatmal",
+      "Maharashtra",
+      "445001"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Police Mitra Society,Plot No. 37",
+      "in front of Gulmohar Hotel, Lohara",
+      "Yavatmal",
+      "Maharashtra",
+      "445001"
+    ]
+  }
+}

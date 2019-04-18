@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Rahul Prabhakar Parve",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8745",
+  "name": "SEEDHANT BAHUUDDESHIYA SANSTHA",
+  "primaryEmail": "rahulparve01@gmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning"
+  ],
+  "telephone": [
+    "917588009403"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Seedhant Niwas Near Post Office",
+      "At-Takali pra.cha Tal-Chalisgaon",
+      "Chalisgaon",
+      "Jalgaon",
+      "Maharashtra",
+      "424101"
+    ]
+  }
+}

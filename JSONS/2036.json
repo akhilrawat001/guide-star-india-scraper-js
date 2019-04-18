@@ -1,0 +1,37 @@
+{
+  "contacts": [
+    {
+      "name": "Altaf Ahmed",
+      "email": "niet@india.com",
+      "designation": "secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2036",
+  "name": "North Indian Educational Trust",
+  "primaryEmail": "niet@india.com",
+  "website": "www.niettrust.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919807447483"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "405/32",
+      "SARAI MALI KHAN CHOWK",
+      "LUCKNOW",
+      "Lucknow",
+      "Uttar Pradesh",
+      "226003"
+    ]
+  },
+  "briefDescription": "North Indian Educational Trust (NIET) is a voluntary, non-political, non-profit making social service organization, established to promote education amongst educationally backward sections of the society and for upliftment of downtrodden people through various developmental projects. NIET is involved directly implementing the developmental projects. We in NIET believe in sustainable model of development where believe in Participatory Approach for the implementation of the sustainable development projects.",
+  "yearOfEstablishment": "2005"
+}

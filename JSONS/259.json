@@ -1,0 +1,37 @@
+{
+  "contacts": [
+    {
+      "name": "Madhavi Hegde Karandikar",
+      "email": "balasha@vsnl.com",
+      "designation": "Trustee / Hon. Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=259",
+  "name": "Bal Asha Trust",
+  "primaryEmail": "balasha@vsnl.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "912224926526",
+    "912224944090",
+    "919810158131"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Anand Niketan, Dr.E. Moses Road",
+      "Mahalaxmi",
+      "Mumbai",
+      "Maharashtra",
+      "400011"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Maharashtra"
+    ]
+  }
+}

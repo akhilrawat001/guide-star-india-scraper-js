@@ -1,0 +1,35 @@
+{
+  "contacts": [
+    {
+      "name": "Sudhir Pratap Singh",
+      "email": "sudhirpratap@hotmail.com",
+      "designation": "General Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=455",
+  "name": "Sapna",
+  "primaryEmail": "ngo.sapna@gmail.com",
+  "website": "http://www.giveindia.org/GetOrganisationProfile.aspx?ngoid=955",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919810408182"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "C 93, Defence Colony",
+      "New Delhi",
+      "Delhi",
+      "110003"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "Delhi"
+    ]
+  }
+}

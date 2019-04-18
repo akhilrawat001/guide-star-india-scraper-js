@@ -1,0 +1,27 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1204",
+  "name": "Caresoft Foundation",
+  "primaryEmail": "info@caresoftfoundation.org",
+  "website": "www.caresoftfoundation.org",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "912228127215",
+    "912228115575",
+    "912228127215"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "I-50, 702, Poonam Sagar Complex ,",
+      "Mira Road East",
+      "Thane",
+      "Maharashtra",
+      "401107",
+      "AP_ElecBill_1108.PDF"
+    ]
+  }
+}

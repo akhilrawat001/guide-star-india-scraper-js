@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Pradeep Kumar Gupta",
+      "email": "g_a7@rediffmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2983",
+  "name": "SUCHETANA WELFARE SOCIETY",
+  "primaryEmail": "g_a7@rediffmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919873093644"
+  ],
+  "mainAddrress": {
+    "state": "Haryana",
+    "address": [
+      "1028 SECTOR 15",
+      "PART-2",
+      "GURGAON",
+      "Gurugram",
+      "Haryana",
+      "122001"
+    ]
+  }
+}

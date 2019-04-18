@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Madhuri Devi",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8665",
+  "name": "Abhinav Vikas Manch",
+  "primaryEmail": "abhinav.gaya@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919386391305"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "Ramsagar Talab,",
+      "Purana Civil Line, Pipe Gali,",
+      "Gaya",
+      "Bihar",
+      "823004"
+    ]
+  }
+}

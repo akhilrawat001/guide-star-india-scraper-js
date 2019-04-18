@@ -1,0 +1,25 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5456",
+  "name": "GRAMIN SEVA SANSTHAN",
+  "primaryEmail": "gramin_seva@rediffmail.com",
+  "website": "www.gssup.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service"
+  ],
+  "telephone": [
+    "919415210607"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "19,Ist Floor Opp.Nurses Hostel Townhall,Gorakhpur UP",
+      "Nepal Road Rajendra Nagar behind Union Bank,Gorakhnath Gorakhpur",
+      "GORAKHPUR",
+      "Gorakhpur",
+      "Uttar Pradesh",
+      "273015"
+    ]
+  }
+}

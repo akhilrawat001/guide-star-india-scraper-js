@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Dr.Mamta Waikar",
+      "email": "dmwwsociety@gmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4417",
+  "name": "Dr.Mamta Waikar's Welfare Society",
+  "primaryEmail": "dmwwsociety@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919810310666"
+  ],
+  "mainAddrress": {
+    "state": "Haryana",
+    "address": [
+      "A-205,Rail Vihar",
+      "Sector-45",
+      "Faridabad",
+      "Haryana",
+      "121003"
+    ]
+  }
+}

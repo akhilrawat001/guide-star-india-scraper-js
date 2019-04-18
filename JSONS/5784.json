@@ -1,0 +1,37 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5784",
+  "name": "aahuti social welfare society",
+  "primaryEmail": "aahuti11@yahoo.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "918871718537"
+  ],
+  "mainAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "h.n. 46 azad ward,near old police station,betul bazar,betul,m.p",
+      "betul bazar",
+      "Betul",
+      "Madhya Pradesh",
+      "460004"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "h.n. 46 azad ward,near old police station ,betul bazar,betul,m.p",
+      "betul bazar",
+      "Betul",
+      "Madhya Pradesh",
+      "460004"
+    ]
+  }
+}

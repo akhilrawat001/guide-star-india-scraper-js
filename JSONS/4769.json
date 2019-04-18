@@ -1,0 +1,28 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4769",
+  "name": "World Without Obstacles",
+  "primaryEmail": "wwoindia@gmail.com",
+  "website": "http://worldwithoutobstacles.org/",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919811172449",
+    "919868789478",
+    "911122017706"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "H - 5, Garhwali Mohalla",
+      "(Opp: Hanuman Mandir), Laxmi Nagar",
+      "Delhi",
+      "East Delhi",
+      "110092"
+    ]
+  }
+}

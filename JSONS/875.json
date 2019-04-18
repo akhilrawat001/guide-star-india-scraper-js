@@ -1,0 +1,38 @@
+{
+  "contacts": [
+    {
+      "name": "George Johnson",
+      "email": "disancer@ymail.com",
+      "designation": "Monitoring Officer",
+      "mobile": [
+        "91-44-64557949",
+        "91-9940308921"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=875",
+  "name": "Life Help Centre for the Handicapped",
+  "primaryEmail": "lifehelptaskforce@gmail.com",
+  "website": "http://www.lifehelpcentre.org",
+  "organisationType": [
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "914424490245",
+    "914424490144",
+    "914424490144"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "#2/546, East Coast Road",
+      "Neelangarai.",
+      "Chennai",
+      "Kancheepuram",
+      "Tamil Nadu",
+      "600041"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5524",
+  "name": "UJJAIN YOG LIFE SOCIETY",
+  "primaryEmail": "info@yogalife.co.in",
+  "website": "http://yogalife.co.in",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "917342525113",
+    "919406624555"
+  ],
+  "mainAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "B-1 University Campus",
+      "Kothi Road",
+      "Ujjain",
+      "Madhya Pradesh",
+      "456010"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "B-1/1 Vikram University Campus",
+      "Kothi Road",
+      "Ujjain",
+      "Madhya Pradesh",
+      "456010"
+    ]
+  }
+}

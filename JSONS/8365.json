@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Mr Paul Digal",
+      "email": "digalpaul@gmail.com",
+      "designation": "Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8365",
+  "name": "(SANDHAN)Society Assuring National Development on Health Agriculture and Nutrition",
+  "primaryEmail": "sandhan_ngo2007@rediffmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919438053104"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "At/Po : Tumudibandha",
+      "Dist : Kandhamal,",
+      "Kandhamal",
+      "Odisha",
+      "762107"
+    ]
+  }
+}

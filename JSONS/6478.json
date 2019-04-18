@@ -1,0 +1,58 @@
+{
+  "contacts": [
+    {
+      "name": "Annu Jha",
+      "email": "annu.jha@sardindia.org",
+      "designation": "Academic support Manager",
+      "mobile": [
+        "91-11-28524728",
+        "91-9899012730"
+      ]
+    },
+    {
+      "name": "Annu Jha",
+      "email": "annu.jha@sardindia.org",
+      "designation": "Academic support Manager",
+      "mobile": [
+        "91-11-28524728",
+        "91-9899012730"
+      ]
+    },
+    {
+      "name": "Annu Jha",
+      "email": "annu.jha@sardindia.org",
+      "designation": "Academic support Manager",
+      "mobile": [
+        "91-11-28524728",
+        "91-9899012730"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6478",
+  "name": "SOCIETY FOR ALL ROUND DEVELOPMENT (SARD)",
+  "primaryEmail": "sudhir.bhatnagar@sardindia.org",
+  "website": "http://sardindia.org/",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "911128524728",
+    "911128524728"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "311, KIRTI DEEP BUILDING, NANGAL RAYA COMMERCIAL COMPLEX",
+      "NANGAL RAYA",
+      "NEW DELHI",
+      "South West Delhi",
+      "Delhi",
+      "110046"
+    ]
+  },
+  "briefDescription": "SARD is a national level NGO working mainly on education, health and promotion of livelihood options among most deprived communities in India. Currently SARD is operating in 8 states of India through 13 field units. SARD is known for low cost innovative models. The organisation's work is appreciated by a variety of stakeholders was awarded many times.",
+  "yearOfEstablishment": "1996"
+}

@@ -1,0 +1,34 @@
+{
+  "contacts": [
+    {
+      "name": "Johnson Kennedy",
+      "email": "udavi93@gmail.com",
+      "designation": "Project Director",
+      "mobile": [
+        "91-9444752222"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1229",
+  "name": "Upliftment of Democratic and Village Improvement Society",
+  "primaryEmail": "udavi93@gmail.com",
+  "website": "www.udavi.org",
+  "organisationType": [
+    "Advocacy & Campaigning"
+  ],
+  "telephone": [
+    "914426630477",
+    "914426630477"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "8/2, VOC Nagar, 2nd Corss Street,",
+      "1st Main Road, Anna Nagar East",
+      "Chennai",
+      "Tamil Nadu",
+      "600102",
+      "AP_TelBill_1133.PDF"
+    ]
+  }
+}

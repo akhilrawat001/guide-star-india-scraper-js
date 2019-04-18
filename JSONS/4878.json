@@ -1,0 +1,35 @@
+{
+  "contacts": [
+    {
+      "name": "Soumya Ranjan Das",
+      "email": "help@srdfoundation.org",
+      "designation": "Managing Trustee",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4878",
+  "name": "SRD FOUNDATION",
+  "primaryEmail": "help@srdfoundation.org",
+  "website": "http://www.srdfoundation.org",
+  "organisationType": [
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919439585061"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "Plot no.-2309/802",
+      "near hotel Mayfair Lagoon, Jayadev Vihar",
+      "Bhubaneswar",
+      "Khordha",
+      "Odisha",
+      "751013"
+    ]
+  },
+  "briefDescription": "SRD Foundation is a charitable organisation which has been established for social welfare and it targets the weaker section of the society.Its mission is to create positive change in Socio-Economic, Cultural, and Environmental Spheres of the deprived, disadvantageous and dispossessed community.Inside of this context we’re planning to take different projects in and around Odisha to start with.We are working on projects like blood donation camps, health awareness camps, 'Green Planet-Green Life' plantation project, free computer education camps in rural areas ,sponsoring children studies who cannot afford to go to school, inspiring children to attend school, providing them with different facilities that aid them in completing there academi",
+  "yearOfEstablishment": "2010"
+}

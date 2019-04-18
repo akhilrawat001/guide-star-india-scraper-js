@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Dr Mrs Nuzhat Tarannum Umar Khan",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7734",
+  "name": "BAZM E KHAWATEEN FOUNDATION",
+  "primaryEmail": "bkf786@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "912402339557",
+    "912402339557"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "1-17-73, Naraynan Nagar Juna Bazar",
+      "Near Head Post Office",
+      "Aurangabad",
+      "Maharashtra",
+      "431001"
+    ]
+  }
+}

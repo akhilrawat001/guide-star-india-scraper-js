@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Sagar Vilas Rane",
+      "email": "",
+      "designation": "Founder",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4772",
+  "name": "LOKKALYAN SAMAJIK SANSTHA",
+  "primaryEmail": "lokkalyan@rocketmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919404256830",
+    "919404256830"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "atpost-palyachahuda,tal.-bhudargad,dist.-kolhapur",
+      "patgaon road",
+      "gargoti",
+      "Kolhapur",
+      "Maharashtra",
+      "416210"
+    ]
+  }
+}

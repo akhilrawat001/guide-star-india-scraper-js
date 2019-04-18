@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Ravindra S.Patil",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5436",
+  "name": "SAMAJ SANSKRUTI VIKAS BAHUUDDESHIYA SEVA SANSTHA",
+  "primaryEmail": "ravindrapatil89@ymail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919028081273"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Nanda Ravindra patil ward No-1",
+      "Near -saimandir wanadongri",
+      "wanadongri, th-Higna Nagpur",
+      "Nagpur",
+      "Maharashtra",
+      "441216"
+    ]
+  }
+}

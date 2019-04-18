@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Richa Audichya",
+      "email": "",
+      "designation": "Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1063",
+  "name": "Jan Chetna Sansthan",
+  "primaryEmail": "janchetnasansthan@gmail.com",
+  "website": "www.janchetna.org",
+  "telephone": [
+    "912974220727",
+    "912974220727",
+    "912974223782",
+    "912974220727"
+  ],
+  "mainAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "1-C-40  Housing Board Colony",
+      "Akra Bhatta",
+      "Abu Road",
+      "Sirohi",
+      "Rajasthan",
+      "307026"
+    ]
+  }
+}

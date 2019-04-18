@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "M.SHAMSHUDEEN QUASMI",
+      "email": "ias@makkamasjid.com",
+      "designation": "FOUNDER",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6565",
+  "name": "AZHAGIA KADAN ARAKKATTALAI",
+  "primaryEmail": "ias@makkamasjid.com",
+  "website": "http://akias.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919600006246"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "NO. 882, Azhagiya Kadan Arakkattalai,",
+      "Makka Masjid complex, Anna Salai",
+      "Chennai",
+      "Tamil Nadu",
+      "600002"
+    ]
+  }
+}

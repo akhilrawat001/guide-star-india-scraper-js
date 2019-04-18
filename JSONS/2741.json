@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Sanober Z Bharucha",
+      "email": "cupablr@cupaindia.org",
+      "designation": "Hony. Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2741",
+  "name": "Compassion Unlimited Plus Action (CUPA Trust)",
+  "primaryEmail": "cupablr@cupaindia.org",
+  "website": "www.cupabangalore.org",
+  "telephone": [
+    "918023413427",
+    "918023419177",
+    "918023413427"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "257 1st Cross, HAL IInd Stage",
+      "Indira Nagar",
+      "Bangalore",
+      "Bhavnagar",
+      "Karnataka",
+      "560038"
+    ]
+  }
+}

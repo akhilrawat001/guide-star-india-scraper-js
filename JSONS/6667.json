@@ -1,0 +1,43 @@
+{
+  "contacts": [
+    {
+      "name": "Sapna A. Rathod",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "9405969099"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6667",
+  "name": "WATSLABAI NAIK MAHILA GRAMIN KRUSHI VIKAS BAHUUDDESHIYA SANSTHA",
+  "primaryEmail": "ajayv.rathod99@gmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919405969099"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "C/o Ajay Vitthalsing Rathod, Near Gajanan Mandir",
+      "Kolhe Lay Out",
+      "Yavatmal",
+      "Maharashtra",
+      "445001"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Ajay Vitthalsing Rathod, Near Gajanan Mandir",
+      "Kolhe Lay Out",
+      "Yavatmal",
+      "Maharashtra",
+      "445001"
+    ]
+  }
+}

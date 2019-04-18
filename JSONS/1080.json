@@ -1,0 +1,27 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1080",
+  "name": "Riona Sevabhavi Sanstha",
+  "primaryEmail": "info@rionaseva.org",
+  "website": "http://www.rionaseva.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "912332222595",
+    "912332222595",
+    "919423689421"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "F-1",
+      "Miraj",
+      "Sangli",
+      "Maharashtra",
+      "416410"
+    ]
+  }
+}

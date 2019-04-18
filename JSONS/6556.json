@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "SOHRAB",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "9716588162"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6556",
+  "name": "AMAN YUVA EKTA SAMITI",
+  "primaryEmail": "ayesngo@gmail.com",
+  "website": "ayesindia.webs.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919716588162",
+    "919990490786"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "2151/10T/6 D,",
+      "New Patesl Nagar",
+      "New Delhi",
+      "West Delhi",
+      "Delhi",
+      "110008"
+    ]
+  }
+}

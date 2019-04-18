@@ -1,0 +1,27 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5957",
+  "name": "SAHARA",
+  "primaryEmail": "m4u.sahara@rediffmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Intermediary",
+    "Network"
+  ],
+  "telephone": [
+    "919668052152",
+    "916866270490"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "At- Near Shiv Mandir",
+      "Po- Umerkote",
+      "Umerkote",
+      "Nabarangpur",
+      "Odisha",
+      "764073"
+    ]
+  }
+}

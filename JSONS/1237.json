@@ -1,0 +1,40 @@
+{
+  "contacts": [
+    {
+      "name": "Selvamani",
+      "email": "",
+      "designation": "Administrative Officer",
+      "mobile": [
+        "91-44-22396081"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1237",
+  "name": "Forum For Women's Rights And Development Trust",
+  "primaryEmail": "shiamalaforword@yahoo.com",
+  "website": "www.forword.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "914422396081",
+    "914422790236",
+    "914422396081"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "Old No-27/2, New no-117, Suddananda Bharathi",
+      "St, East Tambaram, Near old Gragha Gas Agency",
+      "Chennai",
+      "Kancheepuram",
+      "Tamil Nadu",
+      "600059",
+      "AP_TelBill_1141.PDF"
+    ]
+  }
+}

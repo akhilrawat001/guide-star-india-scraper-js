@@ -1,0 +1,35 @@
+{
+  "contacts": [
+    {
+      "name": "Nikhel Morris/ Sunali K",
+      "email": "",
+      "designation": "Manager-Communication",
+      "mobile": []
+    },
+    {
+      "name": "Nikhel Morris/ Sunali K",
+      "email": "",
+      "designation": "Manager-Communication",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=762",
+  "name": "Wockhardt Foundation",
+  "primaryEmail": "nmorris@wockhardtfoundation.org",
+  "website": "www.wockhardfoundation.org",
+  "telephone": [
+    "912226596122",
+    "912226534242",
+    "912226596122"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Wockhardt Towers, Bandra Kurla Complex",
+      "Bandra (East)",
+      "Mumbai",
+      "Maharashtra",
+      "400051"
+    ]
+  }
+}

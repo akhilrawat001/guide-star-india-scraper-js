@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "Mansi Sanghvi",
+      "email": "mansi06@hotmail.com",
+      "designation": "Manager",
+      "mobile": [
+        "91-9821240643"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=146",
+  "name": "Down to Earth",
+  "primaryEmail": "dteindia@gmail.com",
+  "telephone": [
+    "919821240643"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "901 Dhavalgiri, Gowali Tank",
+      "August Kranti Marg",
+      "Mumbai",
+      "Maharashtra",
+      "400036"
+    ]
+  }
+}

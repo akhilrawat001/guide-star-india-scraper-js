@@ -1,0 +1,37 @@
+{
+  "contacts": [
+    {
+      "name": "Bhagyashri Bhandakkar",
+      "email": "bhagyashrib11@gmail.com",
+      "designation": "Project Officer",
+      "mobile": [
+        "91-9660655251"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5986",
+  "name": "Foster Care India",
+  "primaryEmail": "iananand@fostercareindia.org",
+  "website": "www.fostercareindia.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "912942450847",
+    "912942450847"
+  ],
+  "mainAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "5/3 Old Fatehpura",
+      "Shankar Colony",
+      "Udaipur",
+      "Rajasthan",
+      "313001"
+    ]
+  },
+  "briefDescription": "We promote Foster Care and Kinship Care as best practices for children in need of care and protection.Our work focuses on advocacy, direct practice, capacity building and research.We have served around 150 people.",
+  "yearOfEstablishment": "2012"
+}

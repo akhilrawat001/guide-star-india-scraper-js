@@ -1,0 +1,41 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1090",
+  "name": "Society for Promoting Rural Education and Development",
+  "primaryEmail": "info@spread.org.in",
+  "website": "http://www.spread.org.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "916852251018",
+    "916852250326",
+    "919439287397"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "POST BOX NO: - 12  NEW JANIGUDA",
+      "KUBHA ROAD",
+      "KORAPUT",
+      "Koraput",
+      "Odisha",
+      "764020"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Odisha",
+    "address": [
+      "L / 3, KALPANA SQUARE,",
+      "BHUBANESWAR",
+      "Khordha",
+      "Koraput",
+      "Odisha",
+      "751006",
+      "AP_TelBill_1016.PDF"
+    ]
+  }
+}

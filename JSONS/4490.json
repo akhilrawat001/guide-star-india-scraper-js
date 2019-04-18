@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "SHAKIL SHAIKH",
+      "email": "JAVEDZED@GMAIL.COM",
+      "designation": "PRESIDENT",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4490",
+  "name": "JUPITER SHIKSHAN SANSTHA",
+  "primaryEmail": "WARDHA.JSS@GMAIL.COM",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "919325237454"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Javed Sheikh Co/oAbdul Wahid Dr. Zakir Hussain",
+      "Colony",
+      "WARDHA",
+      "Wardha",
+      "Maharashtra",
+      "442001"
+    ]
+  },
+  "briefDescription": "Jupiter Shikshan Sanstha registered on 7th july 2010. The motto of this organization is to help people who are less fortunate. They should ‘Be dependable but not dependant.’ We organize people at village level into small self help groups with average membership of 12 and which function as self help groups helping the members to deal with their personal, family and community issues which meets once in a month.",
+  "yearOfEstablishment": "2010"
+}

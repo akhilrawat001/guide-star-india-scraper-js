@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "MR.SUDIP MONDAL",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7143",
+  "name": "BHADRAPUR PEOPLES RELIEF WELFARE COMMITTEE",
+  "primaryEmail": "bhadrapurprwc.prwc1@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919593219375"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "VILL+P.O- BHADRAPUR",
+      "P.S- NALHATI",
+      "NALHATI",
+      "Birbhum",
+      "West Bengal",
+      "731237"
+    ]
+  }
+}

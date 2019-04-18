@@ -1,0 +1,47 @@
+{
+  "contacts": [
+    {
+      "name": "Sanjay David",
+      "email": "sanjay@chohindia.org",
+      "designation": "Project Manager",
+      "mobile": [
+        "91-44-23870122",
+        "91-9176655776"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=876",
+  "name": "Children's Home Of Hope",
+  "primaryEmail": "indrani@chohindia.org",
+  "website": "www.chohindia.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "914423783199",
+    "919003230122",
+    "919176655776"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "NO.288, P.H.ROAD",
+      "MADURAVOYAL",
+      "Chennai",
+      "Tamil Nadu",
+      "600095"
+    ]
+  },
+  "briefDescription": "Children's Home of Hope, Chennai is a residential Home looking after  orphans, destitute children and children of leprosy patients.The home was started in 1970 by Late Mrs Lily Prabhakar, wife of Late Mr. E.C.P. Prabhakar (IAS). CHOH provides these children with proper nourishment, an all round Education and mentoring in a clean environment. With the Government encouraging and supporting the Girl Child Initiative, CHOH is one of the few organisations that educate the girl child to their fullest potential thus making them able and worthy citizens. We have girls who are doing Engineering, BBA ,BCom, BPT, Nursing and many other courses. We currently look after close to 90 children. It has been a challenging yet blessed journey for the last four decades and we are happy to have touched the lives of so many children with the support of our sponsors/well wishers and the dedication of our staff.",
+  "yearOfEstablishment": "1980",
+  "regiseredAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "#1, 3rd Cross Street",
+      "Sitanagar Colony",
+      "Chennai",
+      "Tamil Nadu",
+      "600034"
+    ]
+  }
+}

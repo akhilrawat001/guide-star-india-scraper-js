@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Prema Chande",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4412",
+  "name": "Optometric Education Society",
+  "primaryEmail": "enquiry@optomeyeinstitute.org",
+  "website": "http://www.optomeyeinstitute.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "912226207655",
+    "912226207655"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Lotus College of Optometry,3rd Floor, Lotus Eye Hospital, 13th N.S. Road, JVPD, Juhu, Vile Parle",
+      "Opp. Juhu Natural's Icecream parlour",
+      "Mumbai",
+      "Maharashtra",
+      "400049"
+    ]
+  }
+}

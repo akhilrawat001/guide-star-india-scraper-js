@@ -1,0 +1,36 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6742",
+  "name": "NUTAN SANJEEVANI SANSTHAN",
+  "primaryEmail": "swamimangalteertham@yahoo.com",
+  "website": "http://www.holistichealingplace.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service"
+  ],
+  "telephone": [
+    "919934353800"
+  ],
+  "mainAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "239,MATH BARI ROAD,BELABAGAN, DEOGHAR",
+      "MATH BARI ROAD, BEHIND VIVEKANANDA MATH",
+      "DEOGHAR",
+      "Deoghar",
+      "Jharkhand",
+      "814112"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "239,MATH BARI ROAD,BELABAGAN",
+      "BEHIND VIVEKANANDA MATH",
+      "DEOGHAR",
+      "Deoghar",
+      "Jharkhand",
+      "814112"
+    ]
+  }
+}

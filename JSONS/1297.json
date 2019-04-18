@@ -1,0 +1,40 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1297",
+  "name": "Aide Et Action (India)",
+  "primaryEmail": "aishwarya.mahajan@aide-et-action.org",
+  "website": "http://www.aide-et-action.org",
+  "organisationType": [
+    "Direct Service",
+    "Grant-making",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "914428365516",
+    "914428365520",
+    "914428365516"
+  ],
+  "mainAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "B-30",
+      "Dev nagar, Tonk Road, Opp Kamal & Co.",
+      "Jaipur",
+      "Jajpur",
+      "Rajasthan",
+      "302015"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "16/20, Gilchrist Avenue,",
+      "Hamington Road, Chetpet",
+      "Chennai",
+      "Tamil Nadu",
+      "600031"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "MR.SRINIVASAN T",
+      "email": "kftvpm@gmail.com",
+      "designation": "FOUNDER",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6144",
+  "name": "KARUNALAYA FOUNDATION",
+  "primaryEmail": "kftvpm@gmail.com",
+  "website": "www.kftvpm.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "+918012209150"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "141",
+      "WEST PONDY ROAD",
+      "VALAVANUR & POST, VILLUPURAM DT.",
+      "Viluppuram",
+      "Tamil Nadu",
+      "605108"
+    ]
+  }
+}

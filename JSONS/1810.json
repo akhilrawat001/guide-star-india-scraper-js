@@ -1,0 +1,28 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1810",
+  "name": "Tajmahal Gram Bikash Kendra",
+  "primaryEmail": "tgbk@rediffmail.com",
+  "website": "www.tgbk.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network"
+  ],
+  "telephone": [
+    "913326917975",
+    "919830683589",
+    "913326917975"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Vill : Khaskhamar",
+      "P.O- Rameswarnagar, P.S- Bauria",
+      "Rameswarnagar",
+      "Howrah",
+      "West Bengal",
+      "711310"
+    ]
+  }
+}

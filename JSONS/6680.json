@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "AMEEN AHMAD ANSARI",
+      "email": "HAMDAMFOUNDATION@GMAIL.COM",
+      "designation": "Treasurer",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6680",
+  "name": "HAMDAM FOUNDATION",
+  "primaryEmail": "HAMDAMFOUNDATION@GMAIL.COM",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "915854270447",
+    "915854270447"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "56A",
+      "MOHALLA KHINNI TOLA MANGAL BAZAR",
+      "SANDILA",
+      "Hardoi",
+      "Uttar Pradesh",
+      "241204"
+    ]
+  }
+}

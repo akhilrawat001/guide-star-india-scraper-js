@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "Shrikant Kulkarni",
+      "email": "seniormanager@richmonddglobalschool.edu.in",
+      "designation": "Sr Manager",
+      "mobile": [
+        "91-11-25276588",
+        "91-9650081703"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1825",
+  "name": "Mata Krishna Wanti Memorial Educational Society",
+  "primaryEmail": "info@mkmesngoindia.org",
+  "website": "www.mkmesngoindia.org",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "911125276588",
+    "911125278010",
+    "919650081703"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "Richmond Global School Campus",
+      "Ns Road, Opp-Inderenclave, Mianwali Nagar Paschim Vihar",
+      "New Delhi",
+      "Delhi",
+      "110087"
+    ]
+  }
+}

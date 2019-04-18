@@ -1,0 +1,34 @@
+{
+  "contacts": [
+    {
+      "name": "Nekhilendra Lodha",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "2320474",
+        "9890211999"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5909",
+  "name": "Jain Social Federation",
+  "primaryEmail": "anandrishiji@rediffmail.com",
+  "website": "http://www.anandrishijihospital.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "912412320474",
+    "912412320474"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "124",
+      "Anandrishiji Marg",
+      "Ahmednagar",
+      "Maharashtra",
+      "414001"
+    ]
+  }
+}

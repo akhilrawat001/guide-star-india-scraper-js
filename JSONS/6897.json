@@ -1,0 +1,40 @@
+{
+  "contacts": [
+    {
+      "name": "Namita Choudhary",
+      "email": "neetu311979@gmail.com",
+      "designation": "Secretary",
+      "mobile": [
+        "91-9810973857"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6897",
+  "name": "Choti Si Khushi",
+  "primaryEmail": "info@chotisikhushi.org",
+  "website": "www.chotisikhushi.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919810973857",
+    "919711282050",
+    "919810708756"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "Sector 3",
+      "Dwarka",
+      "South West Delhi",
+      "Delhi",
+      "110075"
+    ]
+  },
+  "briefDescription": "Choti si Khushi is a community-based, volunteer-driven, registered organization based out of Dwarka, New Delhi. We offer after-school activities and engagements for women and children belonging to urban slums. We have a completely volunteer-driven approach to impart knowledge and skills, counsel the troubled kids, listen to them or just spend time with them, all in a community park.",
+  "yearOfEstablishment": "2015"
+}

@@ -1,0 +1,42 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1241",
+  "name": "Mysore Resettlemement and Development Agency",
+  "primaryEmail": "myradahuthur@yahoo.co.in",
+  "website": "www.myrada.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "918224268927",
+    "918224268835",
+    "918224268927"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "Mahadeshwara Complex,",
+      "Bandalli Road, Kollegal Taluka",
+      "HANUR",
+      "Chamarajanagar",
+      "Karnataka",
+      "571439",
+      "AP_TelBill_1145.PDF"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "No. 2, Service Road,",
+      "Domlur Layout",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "570071",
+      "AP_TelBill_1145.PDF"
+    ]
+  }
+}

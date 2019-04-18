@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Pravin Vijay Deora",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7988",
+  "name": "Shri Sant Namdev Maharaj Bahuddeshiya Sanstha",
+  "primaryEmail": "pravindeore123456@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919822447483"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "1757B",
+      "Sundhargdi",
+      "Chopala",
+      "Jalgaon",
+      "Maharashtra",
+      "425001"
+    ]
+  }
+}

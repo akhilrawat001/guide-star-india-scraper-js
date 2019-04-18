@@ -1,0 +1,27 @@
+{
+  "contacts": [
+    {
+      "name": "Sudhakar V Bhadarge",
+      "email": "kpragatism9@gmail.com",
+      "designation": "Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4140",
+  "name": "Kolhapur Pragati Shikshan Mandal",
+  "primaryEmail": "kpragatism9@gmail.com",
+  "telephone": [
+    "912312636027",
+    "912312636027"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "PACE Training Cente Vikas Highschool,",
+      "2nd Floor, Dudhali Near Rankala Stand",
+      "Kolhapur",
+      "Maharashtra",
+      "416012"
+    ]
+  }
+}

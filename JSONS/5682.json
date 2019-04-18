@@ -1,0 +1,52 @@
+{
+  "contacts": [
+    {
+      "name": "Mr. Santosh Pandey",
+      "email": "santosh@suvidha.org.in",
+      "designation": "Manager-HR",
+      "mobile": []
+    },
+    {
+      "name": "Mr. Santosh Pandey",
+      "email": "santosh@suvidha.org.in",
+      "designation": "Manager-HR",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5682",
+  "name": "Society for the Upliftment of Villagers and Development of Himalayan Areas",
+  "primaryEmail": "ceo@suvidha.org.in",
+  "website": "www.suvidha-india.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Support"
+  ],
+  "telephone": [
+    "919412084300",
+    "919557792234"
+  ],
+  "mainAddrress": {
+    "state": "Uttarakhand",
+    "address": [
+      "OM Complex, Karayal Jolasal",
+      "Raja Rani Vihar, Near Birla School",
+      "Haldwani",
+      "Nainital",
+      "Uttarakhand",
+      "263139"
+    ]
+  },
+  "briefDescription": "SUVIDHA is a registered voluntary organization working in the field of sustainable agriculture for marginal farmers, watershed management, livelihood based activities and climate change mitigation. In sustainable agriculture & best livelihood practices, our present focus is to develop FiGs, SHGs and promote certified organic farm produce to benefit the farmer. For women & girls empowerment we have also setup a looming unit to train handloom production and products. We have initiated a baseline survey to determine the type of Clean Development Mechanism. One of them linked to rural energy sector by biogas and woodstoves. The other aspect of CDM is to take up Low Carbon Farming in time to come.Presently SUVIDHA is working with 35,000 farmers.",
+  "yearOfEstablishment": "2004",
+  "regiseredAddrress": {
+    "state": "Uttarakhand",
+    "address": [
+      "Village Bayala, Post Chanthariya",
+      "Near Forest Office",
+      "Dwarahat",
+      "Almora",
+      "Uttarakhand",
+      "263653"
+    ]
+  }
+}

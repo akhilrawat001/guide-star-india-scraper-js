@@ -1,0 +1,33 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1834",
+  "name": "Zakat Foundation of India",
+  "primaryEmail": "info@zakatindia.org",
+  "website": "http://www.zakatindia.org",
+  "telephone": [
+    "911126982781",
+    "919910058317"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "Happy Home",
+      "A-11, Khajoori Road, Okhla",
+      "New Delhi",
+      "Delhi",
+      "110025"
+    ]
+  },
+  "briefDescription": "Establishes & runs orphanages for boys and girls, charitable medical centers, helps needy widows, students, patients, empowers the downtrodden economically, socially, educationally, helps graduates of deprived sections occupy positions of governmental authority and influence, monitors implementation of government welfare schemes for the depressed classes, restores to them justice, provides mechanism for better social upbringing of the current and upcoming generations.",
+  "yearOfEstablishment": "2001",
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "D-208",
+      "Abul Fazal Enclave",
+      "New Delhi",
+      "Delhi",
+      "110025"
+    ]
+  }
+}

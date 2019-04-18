@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Jayram Sharma",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4484",
+  "name": "UNCLE FOUNDATION",
+  "primaryEmail": "uncle_foundation@yahoo.co.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919431646409"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "BENGALI TOLA",
+      "RAJGIR",
+      "Nalanda",
+      "Bihar",
+      "803116"
+    ]
+  }
+}

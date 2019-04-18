@@ -1,0 +1,32 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10659",
+  "name": "NAELIN TRUST",
+  "primaryEmail": "naelintrust@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919894155806"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "28G, New Street,",
+      "CSI Compound, Church Corner",
+      "karur, Karur Town",
+      "Karur",
+      "Tamil Nadu",
+      "639001"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "41-KA Nagar, Kothur Road, Velusamy puram",
+      "Karur",
+      "Tamil Nadu",
+      "639002"
+    ]
+  }
+}

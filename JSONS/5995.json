@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Claire Rao",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5995",
+  "name": "NAKSHATRA TRUST",
+  "primaryEmail": "claire@nakshatra-trust.org",
+  "website": "www.nakshatra-trust.org",
+  "organisationType": [
+    "Direct Service",
+    "Network"
+  ],
+  "telephone": [
+    "919900214867"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "Gitanjali, 22, 10th main Road",
+      "Malleswaram",
+      "BANGALORE",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560003"
+    ]
+  }
+}

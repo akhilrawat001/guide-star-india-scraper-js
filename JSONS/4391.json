@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Ajay Thkaur",
+      "email": "aaryacharity@yahoo.com",
+      "designation": "Managing Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4391",
+  "name": "AARYA PUBLIC CHARITABLE TRUST",
+  "primaryEmail": "aaryacharity@yahoo.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919016680821"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "65-A, Suvidha tenament",
+      "vatva gidc road",
+      "Ahmedabad",
+      "Gujarat",
+      "382445"
+    ]
+  }
+}

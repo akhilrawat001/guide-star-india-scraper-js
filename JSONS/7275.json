@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Dr.Yaseen Khan",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "9425009257"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7275",
+  "name": "MADHYA PRADESH VIGYAN SABHA",
+  "primaryEmail": "mpvs.bpl@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919425009257"
+  ],
+  "mainAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "Gyan vigyan Parisar,",
+      "Sagonikalan",
+      "Raisen Road",
+      "Bhopal",
+      "Madhya Pradesh",
+      "462021"
+    ]
+  }
+}

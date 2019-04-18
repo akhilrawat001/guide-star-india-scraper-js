@@ -1,0 +1,35 @@
+{
+  "contacts": [
+    {
+      "name": "Abhijeet p shinde",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4873",
+  "name": "Sawali Samajik Pratisthan",
+  "primaryEmail": "info@sawalingo.org",
+  "website": "sawalingo.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Intermediary",
+    "Support"
+  ],
+  "telephone": [
+    "912162237142",
+    "912162237142"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "plot no. 6 'Rajdeep 'Suyog colony Sader Bazar Satara.",
+      "Sader Bazar Near canal",
+      "Sader BazaR satara.",
+      "Satara",
+      "Maharashtra",
+      "415001"
+    ]
+  }
+}

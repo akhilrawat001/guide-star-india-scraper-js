@@ -1,0 +1,43 @@
+{
+  "contacts": [
+    {
+      "name": "Kannan M",
+      "email": "vazhitn@gmail.com",
+      "designation": "Project Coordinator",
+      "mobile": [
+        "91-452-2690189"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3379",
+  "name": "Royal Vision",
+  "primaryEmail": "vazhitn@gmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service"
+  ],
+  "telephone": [
+    "914522690189"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "No.2,Balaji nagar, mandela nagar ring road, SN College Road, Perungudi",
+      "Madurai",
+      "Tamil Nadu",
+      "625022"
+    ]
+  },
+  "briefDescription": "Our organisation rehabilitates blind youths and serves physically challenged. We run a rehabilitation home with 25 inmates. So far we have assisted 28 persons to become skilled and provided vocational training to 25 persons. Our resource centre has served thousands of youths including blind and physically challenged and our awareness programme has reached many thousands.",
+  "yearOfEstablishment": "2007",
+  "regiseredAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "2/520, SN College Road, Indra Nagar",
+      "Perungudi",
+      "Madurai",
+      "Tamil Nadu",
+      "625022"
+    ]
+  }
+}

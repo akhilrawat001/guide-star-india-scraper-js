@@ -1,0 +1,44 @@
+{
+  "contacts": [
+    {
+      "name": "Nidhi Pandey",
+      "email": "jc.devashish@gmail.com",
+      "designation": "manager",
+      "mobile": [
+        "91-9301582097"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1937",
+  "name": "Sparse Foundation",
+  "primaryEmail": "sparsefoundation@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Grant-making",
+    "Network"
+  ],
+  "telephone": [
+    "917714700097",
+    "919589547181"
+  ],
+  "mainAddrress": {
+    "state": "Chhattisgarh",
+    "address": [
+      "Care of DR AGRAWAL HOUSE brahaman para road",
+      "Sarathi Chowk, Lakhe Nagar ,",
+      "Raipur",
+      "Chhattisgarh",
+      "492001"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Chhattisgarh",
+    "address": [
+      "C/O DR AGRAWAL HOUSE brahaman para road",
+      "Sarathi Chowk, Lakhe Nagar ,",
+      "Raipur",
+      "Chhattisgarh",
+      "492001"
+    ]
+  }
+}

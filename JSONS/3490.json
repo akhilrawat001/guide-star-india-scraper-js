@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "Dr. W.N. Tungar",
+      "email": "jeevandharapune@gmail.com",
+      "designation": "Founder",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3490",
+  "name": "Apang Sahayyakari Sanstha",
+  "primaryEmail": "jeevandharapune@gmail.com",
+  "telephone": [
+    "912024424981",
+    "912026336548",
+    "919422987684"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "235/2- B",
+      "Paresh Apartment Parvati",
+      "Pune",
+      "Maharashtra",
+      "411009"
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Birendra Oraon",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2977",
+  "name": "TRIBAL PEOPLE AND WOMEN WELFARE ORGANISATION (TPWWO)",
+  "primaryEmail": "tpwwo_org@rediffmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919777576989"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "At-Lingaraj Nagar, near Christian Street, Po-Jeypore,",
+      "Dist-Koraput",
+      "Koraput",
+      "Odisha",
+      "764001"
+    ]
+  }
+}

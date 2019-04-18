@@ -1,0 +1,34 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10377",
+  "name": "UJJAWAL WELFARE DEVELOPMENT SOCIETY",
+  "primaryEmail": "uwd.society2007@gmail.com",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "919973817060"
+  ],
+  "mainAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "Baba Path",
+      "Hurhuru",
+      "Hazaribag",
+      "Jharkhand",
+      "825301"
+    ]
+  },
+  "briefDescription": "Ujjawal Welfare Development Society is located in Hazaribag, Jharkhand.",
+  "yearOfEstablishment": "2007",
+  "regiseredAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "Baba Path, Hurhuru Road",
+      "P.O.- Hazaribag, P.S.-Sadar",
+      "Hazaribag",
+      "Jharkhand",
+      "825301"
+    ]
+  }
+}

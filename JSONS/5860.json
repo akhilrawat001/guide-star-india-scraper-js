@@ -1,0 +1,41 @@
+{
+  "contacts": [
+    {
+      "name": "Mrs Ashima goyal",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5860",
+  "name": "sewanjali mahila kalyan samiti",
+  "primaryEmail": "sewanjalimahilakalyansamiti@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919414177880"
+  ],
+  "mainAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "14 A vallabh nagar , kota",
+      "near sophia school",
+      "kota",
+      "Kota",
+      "Rajasthan",
+      "324007"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "14 A Vallabh nagar",
+      "nera sophia school",
+      "kota",
+      "Kota",
+      "Rajasthan",
+      "324007"
+    ]
+  }
+}

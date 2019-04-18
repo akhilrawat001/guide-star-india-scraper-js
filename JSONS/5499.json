@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "name": "L.M. Rodricks",
+      "email": "vak@bom3.vsnl.net.in",
+      "designation": "Ex.Secretary-Programme",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5499",
+  "name": "VIKAS ADHYAYAN KENDRA",
+  "primaryEmail": "vak@bom3.vsnl.net.in",
+  "website": "www.vakindia.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919869230298"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "D-1, Shivdham",
+      "62 Link Road, Malad (West)",
+      "Mumbai",
+      "Maharashtra",
+      "400064"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "not provided",
+      "Mumbai",
+      "Maharashtra",
+      "400064"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "contacts": [
+    {
+      "name": "HRIDAY CHAND GHOSH",
+      "email": "dsws1994@gmail.com",
+      "designation": "SECRETARY",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5263",
+  "name": "DHAGAGIA SOCIAL WELFARE SOCIETY",
+  "primaryEmail": "dsws1994@gmail.com",
+  "website": "www.dswsociety.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919732009757"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Sundarikhali",
+      "P.O.-Agarhati",
+      "P.S.-Sandeshkhali",
+      "North 24 Parganas",
+      "West Bengal",
+      "743329"
+    ]
+  },
+  "briefDescription": "Dhagagia Social Welfare Society (DSWS) is a charitable social welfare organization which was established in 1994. This organization was registered under West Bengal Society Registration Act XXVI of 1961 and registered under Foreign Contribution (Regulation) Act,1976 and also registered u/s. 12AA of the Income Tax Act,1961.The Organization aspires with the evangelical endeavour to proceed for a society where the moral values and good principles of life living would be followed. The evils will be perished away and the people will live with justice, equity, dignity and peace where mutual trust love , affection, mutual respect, sisterhood and brotherhood will be maintained and honoured.Our Vision:To work towards promoting social justice, equity and harmony in the society.Our Mission:To work with the poor & marginalized section of the society especially women and children on the issues of their rights and livelihood security.WHERE WE WORKWe are working in four districts (North 24 Parganas, South 24 Parganas, Birbhum and Burdwan) of West Bengal, India.",
+  "yearOfEstablishment": "1994",
+  "regiseredAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Dhagaria",
+      "P.O.-JOPLAI",
+      "P.S.-DUBRAJPUR",
+      "Birbhum",
+      "West Bengal",
+      "731123"
+    ]
+  }
+}

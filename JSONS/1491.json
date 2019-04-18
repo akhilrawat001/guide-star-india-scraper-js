@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Jaswinder Singhpatti",
+      "email": "jas_karwar@yahoo.com",
+      "designation": "PRO",
+      "mobile": [
+        "91-1823-223666"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1491",
+  "name": "Sankalp Welfare & Awareness Society -SWAS",
+  "primaryEmail": "jas_karwar@yahoo.com",
+  "organisationType": [
+    "Advocacy & Campaigning"
+  ],
+  "telephone": [
+    "911823223666",
+    "919988340105"
+  ],
+  "mainAddrress": {
+    "state": "Punjab",
+    "address": [
+      "Model Town, Kulam Road,",
+      "Durgapur Turn, Near Bhatia Marble Store, Nawanshahr",
+      "Shahid Bhagat Singh Nagar",
+      "Nawanshahr",
+      "Punjab",
+      "144514"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "contacts": [
+    {
+      "name": "Shomali Johri",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "26311407",
+        "9867181234"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4731",
+  "name": "Atmashakti",
+  "primaryEmail": "atmashaktitrust@gmail.com",
+  "website": "www.atmashaktitrust.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Intermediary",
+    "Support"
+  ],
+  "telephone": [
+    "911126311407",
+    "911126311407"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "101A Friends Colony East",
+      "New Delhi",
+      "Delhi",
+      "100065"
+    ]
+  },
+  "briefDescription": "We are working with around 400,000 marginalized families, the bulk of which belong to tribal and dalit communities spread across 42 blocks,480 GPs in 10 districts of Orissa, one of India's poorest states. We are working to empower the underprivileged section of the society to seek their basic entitlements with a specific focus on the National Rural Employment Scheme(MGNREGA) and food security. Our focus is to create awareness about the benefits of the schemes floated by the Goverment -MGNREGA and Food Security and it's implementation at ground level.",
+  "yearOfEstablishment": "1998"
+}

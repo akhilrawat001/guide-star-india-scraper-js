@@ -1,0 +1,45 @@
+{
+  "contacts": [
+    {
+      "name": "Gokul Acharjee",
+      "email": "president@rsrd.org",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1959",
+  "name": "Radhabinod Society for Rural Development",
+  "primaryEmail": "president@rsrd.org",
+  "website": "www.rsrd.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Support"
+  ],
+  "telephone": [
+    "913242325183",
+    "913242325183"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Qrt No EMG2",
+      "IIT",
+      "Kharagpur",
+      "East Medinipur",
+      "West Bengal",
+      "721302"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Near Nim Tala",
+      "Jhantihaphari",
+      "Bankura",
+      "West Bengal",
+      "722137"
+    ]
+  }
+}

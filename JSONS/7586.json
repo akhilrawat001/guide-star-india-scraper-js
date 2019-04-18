@@ -1,0 +1,59 @@
+{
+  "contacts": [
+    {
+      "name": "Neeraja Kalakuntla",
+      "email": "navajyothi2007@rediffmail.com",
+      "designation": "Deputy Director",
+      "mobile": [
+        "9963812345"
+      ]
+    },
+    {
+      "name": "Neeraja Kalakuntla",
+      "email": "navajyothi2007@rediffmail.com",
+      "designation": "Deputy Director",
+      "mobile": [
+        "9963812345"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7586",
+  "name": "Nava Jyothi Youth Club",
+  "primaryEmail": "navajyothi2007@rediffmail.com",
+  "website": "www.navajyothi.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919963812345",
+    "919701289777",
+    "919704489777"
+  ],
+  "mainAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "17-71,",
+      "Vinayak Nager",
+      "RAMAYAMPET , District.Medak, Telangana State",
+      "West Godavari",
+      "Andhra Pradesh",
+      "502101"
+    ]
+  },
+  "briefDescription": "Nava Jyothi   was incepted in 1976 based on its commitment to provide development aspects for  the  poor  and  needy  in  rural  areas  and   also  with  a  deep  thrust  for  innovative  peoples participation  in  social  change  in  rural  areas  of  Medak  and  Karimnagar   Districts.   The  efforts  were  started  in  one  village  and  gradually expanded  its  activities  to  106  villages. Presently Navajyothi is working with 20 active projects . Navajyoth in now covering  15000 families and around 75 000 individual members are  covered  under different programmes ie; Women Selp-Help Groups, Sustainable Agriculture, Eradication of Child labour,Formation of Community-based Organisations, Health,Education, Elderly welfare, Ecological",
+  "yearOfEstablishment": "1976",
+  "regiseredAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "17-71,",
+      "Vinayak Nager",
+      "RAMAYAMPET , District.Medak, Telangana State",
+      "East Godavari",
+      "Andhra Pradesh",
+      "502101"
+    ]
+  }
+}

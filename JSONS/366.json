@@ -1,0 +1,37 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=366",
+  "name": "Gramin Vikas Vigyan Samiti",
+  "primaryEmail": "email@gravis.org.in",
+  "website": "http://www.gravis.org.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service"
+  ],
+  "telephone": [
+    "912912785317, 2785116",
+    "912912785116"
+  ],
+  "mainAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "3/ 437, 358, Milk Men Colony, Pal Road",
+      "Jodhpur",
+      "Rajasthan",
+      "342008"
+    ]
+  },
+  "briefDescription": "Founded in 1983, GRAVIS is a development organization working for the empowerment of the Thar Desert communities.  GRAVIS is based on the Gandhian philosophy of self-reliance and works toward the rehabilitation of drought affected and marginalized rural communities, enabling village ownership and control over its environment, institutions, and relations. Till date, GRAVIS has worked with over 50,000 desert families across 850 villages in Rajasthan reaching a population of over 1 million, and has established over 1,100 community Based Organizations (CBOs).",
+  "yearOfEstablishment": "1983",
+  "regiseredAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "Gramin Vikas Vigyan Samiti",
+      "Tehsil Tinwari",
+      "Jeloogagadi",
+      "Jodhpur",
+      "Rajasthan",
+      "342006"
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Rajendra Meher",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5537",
+  "name": "Youth Council for Development Alternatives",
+  "primaryEmail": "ycdaboudh@yahoo.co.in",
+  "website": "www.ycdaindia.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919437639503"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "At/Po- Baunsuni (Tikirapara road)",
+      "Near Baunsuni Hospital",
+      "Boudh",
+      "Odisha",
+      "762015"
+    ]
+  }
+}

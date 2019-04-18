@@ -1,0 +1,34 @@
+{
+  "contacts": [
+    {
+      "name": "Mrs. Rajani Suram",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2987",
+  "name": "Kiranmayi Socio Educational Society",
+  "primaryEmail": "kises1999@yahoo.co.in",
+  "website": "http://www.kisesngo.org",
+  "organisationType": [
+    "Direct Service",
+    "Grant-making",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919440573842"
+  ],
+  "mainAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "H.No.54-20/9-10A",
+      "Thimmarusu Street, Srinagar Colony",
+      "VIJAYAWADA",
+      "Krishna",
+      "Andhra Pradesh",
+      "520008"
+    ]
+  }
+}

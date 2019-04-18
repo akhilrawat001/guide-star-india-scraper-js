@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Ms.Tasneem Khan",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7504",
+  "name": "MAHILA EDUCATION SOCIETY",
+  "primaryEmail": "mesocietycwa@rediffmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919425461570"
+  ],
+  "mainAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "NEAR RAJ CINEMA, AZAD CHOWK CHHINDWARA",
+      "CHHINDWARA",
+      "Chhindwara",
+      "Madhya Pradesh",
+      "480001"
+    ]
+  }
+}

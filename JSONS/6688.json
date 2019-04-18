@@ -1,0 +1,32 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6688",
+  "name": "BINDU",
+  "primaryEmail": "binduorg@rediffmail.com",
+  "website": "http://www.bindusociety.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "911352734162",
+    "919412046917",
+    "919891522481"
+  ],
+  "mainAddrress": {
+    "state": "Uttarakhand",
+    "address": [
+      "21, Doon Vihar,",
+      "Rajpur Road,",
+      "Dehardun",
+      "Dehradun",
+      "Uttarakhand",
+      "248001"
+    ]
+  },
+  "briefDescription": "BINDU attempts to bridge the gaps between research, action and policy and focuses on issues concerning the poor, especially the vulnerable population in difficult terrains in the hills, in disaster affected zones, officially backward declared regions and conflict ridden states.",
+  "yearOfEstablishment": "1993"
+}

@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "Jaiswal Dhananjay",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7113",
+  "name": "Vasundara Charitable Trust",
+  "primaryEmail": "vasundarachartiabletrust@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Grant-making",
+    "Support"
+  ],
+  "telephone": [
+    "914027810774",
+    "917095644330",
+    "919441802590"
+  ],
+  "mainAddrress": {
+    "state": "Telangana",
+    "address": [
+      "1st Floor, 3-1-194,",
+      "Soma Sundaram Street,",
+      "Secunderabad",
+      "Hyderabad",
+      "Telangana",
+      "500003"
+    ]
+  },
+  "briefDescription": "provided skill training programme to 200 beneficiaries in hyderabad and nizamabad, in various handicrafts activities, to support artisans children by various & need means.",
+  "yearOfEstablishment": "2014"
+}

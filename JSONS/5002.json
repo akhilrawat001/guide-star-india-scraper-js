@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Betty Thomas",
+      "email": "betnil77@gmail.com",
+      "designation": "trustee",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5002",
+  "name": "UMANG FOUNDATION TRUST",
+  "primaryEmail": "betty@umangfoundationtrust.org",
+  "website": "www.umangfoundationtrust.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919819304321"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "S-6 & 11, Silver Strip, Vakola Pipeline,",
+      "Santacruz (East), Mumbai",
+      "Mumbai",
+      "Maharashtra",
+      "400055"
+    ]
+  }
+}

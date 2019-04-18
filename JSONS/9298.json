@@ -1,0 +1,48 @@
+{
+  "contacts": [
+    {
+      "name": "Sunita Shetty",
+      "email": "sunitasls20@gmail.com",
+      "designation": "Secretary",
+      "mobile": [
+        "91-832-2445565",
+        "91-9890005565"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9298",
+  "name": "HELP INDIA",
+  "primaryEmail": "helpindia.goa@gmail.com",
+  "website": "https://www.helpindiagoa.in",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "919890005565",
+    "919823326204",
+    "919881376777",
+    "919881370998"
+  ],
+  "mainAddrress": {
+    "state": "Goa",
+    "address": [
+      "Flat No. 5, Eutico Apartments",
+      "Bhuttem Bhat, Merces",
+      "P.O. St. Cruz",
+      "North Goa",
+      "Goa",
+      "403005"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Goa",
+    "address": [
+      "H. No. 442",
+      "Mascarenhas Waddo",
+      "Goa Velha - Tiswadi",
+      "North Goa",
+      "Goa",
+      "403108"
+    ]
+  }
+}

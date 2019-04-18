@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Mr.Amol Vande",
+      "email": "amolvande@live.com",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8205",
+  "name": "Krushnakath Social Foundation,Bhilawadi",
+  "primaryEmail": "amolvande@live.com",
+  "website": "www.KrushnaKath.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919890546909"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "A/P- Bhilawadi",
+      "Tal-Palus",
+      "Dist-Sangli",
+      "Sangli",
+      "Maharashtra",
+      "416303"
+    ]
+  },
+  "briefDescription": "KrushnaKath Social Foundation,Bhilawadi Is Located In Maharashtra.",
+  "yearOfEstablishment": "2015"
+}

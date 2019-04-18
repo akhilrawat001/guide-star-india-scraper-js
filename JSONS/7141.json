@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "GOPAL CH MONDAL",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7141",
+  "name": "BAGARIA RELIEF WELFARE AMBULANCE SOCIETY",
+  "primaryEmail": "brwaswb@gmail.com",
+  "website": "www.brwas.in",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919647889776"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "VILL & PO- BAGARIA",
+      "Diamond Harbour",
+      "South 24 Parganas",
+      "West Bengal",
+      "743332"
+    ]
+  },
+  "briefDescription": "BAGARIA RELIEF WELFARE AMBULANCE SOCIETY has been conducting child and women development since 1994. Especially micro credit program through women JLG.",
+  "yearOfEstablishment": "1994"
+}

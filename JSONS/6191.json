@@ -1,0 +1,24 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6191",
+  "name": "Vijayapuram Social Service Society",
+  "primaryEmail": "vsssdirector@yahoo.in",
+  "website": "http://www.vsss.co",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "914812573291",
+    "914812573291"
+  ],
+  "mainAddrress": {
+    "state": "Kerala",
+    "address": [
+      "VIJAYAPURAM SOCIAL SERVICE SOCIETY ‘Amalanilayam’",
+      "P.B. NO. 1101 Keezhukkunnu",
+      "Kottayam",
+      "Kerala",
+      "686002"
+    ]
+  }
+}

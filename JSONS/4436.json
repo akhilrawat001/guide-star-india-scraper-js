@@ -1,0 +1,44 @@
+{
+  "contacts": [
+    {
+      "name": "Prashant Sude",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "236613"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4436",
+  "name": "Grameen Shramik Pratishthan",
+  "primaryEmail": "gsp.rural@gmail.com",
+  "website": "www.gspindia.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "912383236613",
+    "912383236613"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "GSP Campus At Post Budhoda Ta. Ausa District Latur",
+      "Latur",
+      "Maharashtra",
+      "413520"
+    ]
+  },
+  "briefDescription": "Grameen Shramik Pratishthan since inception has been endeavoring for the development of rural underprivileged sections  The organization has two distinct intervention programs that are namely “SWADHAR” dedicated to ‘Disability Interventions’ and “GRAMODAY” for ‘Rural Community Development’.GSP has developed alternate rehabilitation model that goes beyond conventional approach and provides comprehensive rehabilitation support to rural persons with disability.  More than 1000 rural persons with disability have availed our rehabilitation support and in next five years GSP aims to reach out to more than 3 five years GSP aims to reach out to more than 3000 persons.",
+  "yearOfEstablishment": "1981",
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "GSP Campus At Post Budhoda Ta. Ausa District Latur",
+      "Behind Swami Vivekanad Statue , Near Padmavati Circle , Pune",
+      "Latur",
+      "Maharashtra",
+      "413520"
+    ]
+  }
+}

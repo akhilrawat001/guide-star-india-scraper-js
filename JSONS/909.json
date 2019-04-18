@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Kothai Nayaki",
+      "email": "rayoflightindia@gmail.com",
+      "designation": "Coordinator",
+      "mobile": [
+        "91 44 28211080"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=909",
+  "name": "Ray Of Light Foundation",
+  "primaryEmail": "rayoflightindia@gmail.com",
+  "website": "http://www.rayoflightindia.com",
+  "telephone": [
+    "918535264488",
+    "914428211080",
+    "919841393340"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "NO 10,",
+      "CHENNAI",
+      "Chennai",
+      "Tamil Nadu",
+      "600034"
+    ]
+  }
+}

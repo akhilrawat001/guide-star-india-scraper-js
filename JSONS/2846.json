@@ -1,0 +1,41 @@
+{
+  "contacts": [
+    {
+      "name": "Mr V L Patil",
+      "email": "pvpsndb@gmail.com",
+      "designation": "Chairman",
+      "mobile": [
+        "91-9172204188"
+      ]
+    },
+    {
+      "name": "Mr V L Patil",
+      "email": "pvpsndb@gmail.com",
+      "designation": "Chairman",
+      "mobile": [
+        "91-9172204188"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2846",
+  "name": "Pragati Vidya Prasarak Sanstha",
+  "primaryEmail": "pvpsnandurbar@gmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Support"
+  ],
+  "telephone": [
+    "912564221504",
+    "919172204188"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Lokmanya Colony",
+      "Flat No 5",
+      "Nandurbar",
+      "Maharashtra",
+      "425412"
+    ]
+  }
+}

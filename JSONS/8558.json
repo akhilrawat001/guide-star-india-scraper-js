@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Swapan Dutta",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8558",
+  "name": "Vivekananda Seva Sansad",
+  "primaryEmail": "vivekanandasevasansad12@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919776181767"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "Shanti Nagar,",
+      "Kali Mandir Road,",
+      "Jharsuguda",
+      "Odisha",
+      "768202"
+    ]
+  }
+}

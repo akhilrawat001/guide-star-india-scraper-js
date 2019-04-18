@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Bijoyini Das",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8335",
+  "name": "SANYOG",
+  "primaryEmail": "sanyogaca@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919937603349"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "At. H-14, Mahatab Nagar PO",
+      "Tulasipur",
+      "Cuttack",
+      "Odisha",
+      "753008"
+    ]
+  }
+}

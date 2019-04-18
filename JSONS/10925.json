@@ -1,0 +1,48 @@
+{
+  "contacts": [
+    {
+      "name": "Razouvikhol Luho",
+      "email": "youthnet1@gmail.com",
+      "designation": "Manager",
+      "mobile": [
+        "91-7005181833"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10925",
+  "name": "YOUTH NET",
+  "primaryEmail": "youthnet1@gmail.com",
+  "website": "http://www.youthnet.org.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "917005181833"
+  ],
+  "mainAddrress": {
+    "state": "Nagaland",
+    "address": [
+      "YouthNet Main Office, Billy Graham Road",
+      "Near Kohima College",
+      "Kohima",
+      "Nagaland",
+      "797001"
+    ]
+  },
+  "briefDescription": "YouthNet is a non-profit organization with a mission to help youth acquire knowledge, develop life skills and form attitudes to enable them to become self-directing, positive, productive, responsible and contributing members of society through active participation and involvement.YouthNet have worked and impacted 22439 youths in Capacity Building, Skill Development, Education and Entrepreneurship.",
+  "yearOfEstablishment": "2006",
+  "regiseredAddrress": {
+    "state": "Nagaland",
+    "address": [
+      "Officers Hill",
+      "Near Raj Bhavan",
+      "Kohima",
+      "Nagaland",
+      "797001"
+    ]
+  }
+}

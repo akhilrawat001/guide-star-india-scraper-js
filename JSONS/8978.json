@@ -1,0 +1,35 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8978",
+  "name": "AGRICULTURAL DEVELOPMENT AND RURAL EDUCATIONAL SOCIETY",
+  "primaryEmail": "adresorg1990@gmail.com",
+  "website": "adresorg.webs.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "918157243349",
+    "919741984456",
+    "918694074876"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "Shagathur Village  Yedarur Post Srinivaspur  Taluk Kolar",
+      "Ramalakshmanakrishna Ashrama",
+      "Kolar",
+      "Karnataka",
+      "563138"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "Yeldur Village and Post Srinivasapura taluk Kolar",
+      "Kolar",
+      "Karnataka",
+      "563138"
+    ]
+  }
+}

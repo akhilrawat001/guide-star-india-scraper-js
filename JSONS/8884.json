@@ -1,0 +1,34 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8884",
+  "name": "GRAM VIKAS SEVABHAVI SANSTHA",
+  "primaryEmail": "gramvikasinfoss@gmail.com",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "919922163164"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Care of. Mirkale Nagar, Ahmedpur",
+      "Latur - Nanded  Road",
+      "Ahmedpur",
+      "Latur",
+      "Maharashtra",
+      "0"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "C/O. Mirkale Nagar, Ahmedpur",
+      "Latur - Nanded  Road",
+      "Ahmedpur",
+      "Latur",
+      "Maharashtra",
+      "413515"
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Saswat Kumar Dash",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "24099110"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8464",
+  "name": "Parivartana Foundation for Humanity & Welfare (PFHW)",
+  "primaryEmail": "parivartanafoundation@outlook.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "914024099110",
+    "914024099110"
+  ],
+  "mainAddrress": {
+    "state": "Telangana",
+    "address": [
+      "Plot 48, H.No 8-1-116/5/1, Nirmalanagar Colony, Karmanghat, Hyderabad",
+      "Hyderabad",
+      "Telangana",
+      "500079"
+    ]
+  },
+  "briefDescription": "Work with government schools in rural areas to promote digital literacy, and the way they learn the contemporary issues. Setup digital libraries, and traditional libraries.Work with farmers and agriculture officers to bridge them to promote better farming methods for low investment and high yield.Served close to 2000 students so far, and 4 villages in Ranga Reddy district of Telangana.",
+  "yearOfEstablishment": "2015"
+}

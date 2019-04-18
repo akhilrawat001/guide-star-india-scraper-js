@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Mr. Ranjeet Manikrao Shinde",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8697",
+  "name": "RUDRANI BAHUDDESHIYA SEVABHAVI SANSTHA",
+  "primaryEmail": "connect.rbss@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919975439801"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Rudrani Bahuddeshiya Sevabhavi Sanstha",
+      "Opp Bsnl Office,Omerga Road,At Po Lamjana Tq Ausa",
+      "Latur",
+      "Maharashtra",
+      "413516"
+    ]
+  },
+  "briefDescription": "Rudrani Bahuddeshiya Sevabhavi Sanstha is Located in Latur, Maharashtra.",
+  "yearOfEstablishment": "2015"
+}

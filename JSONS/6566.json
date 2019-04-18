@@ -1,0 +1,26 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6566",
+  "name": "PRAYAN INITIATIVES",
+  "primaryEmail": "mail.prayan@gmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919853314001"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "PLOT NO-1073, CHILIPOKHARI",
+      "SIVA NAGAR, TANKAPANI ROAD",
+      "BHUBANESWAR",
+      "Khordha",
+      "Odisha",
+      "751018"
+    ]
+  }
+}

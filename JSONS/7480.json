@@ -1,0 +1,34 @@
+{
+  "contacts": [
+    {
+      "name": "Mr. Vikas Gaikwad",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "8898861112"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7480",
+  "name": "SAVALI",
+  "primaryEmail": "savaliorg@gmail.com",
+  "website": "www.savalingo.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "918898861112"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "A-3/201, Shree Complex ï¿½ IV",
+      "Khadak Pada",
+      "KALYAN (W)",
+      "Thane",
+      "Maharashtra",
+      "421301"
+    ]
+  }
+}

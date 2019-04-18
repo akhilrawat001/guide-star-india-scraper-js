@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Azeem Khan Turab Khan Pathan",
+      "email": "",
+      "designation": "Member",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10904",
+  "name": "Maulana Abul Kalam Azaad Education and Social Welfare Sanstha Nandurbar",
+  "primaryEmail": "azeemfine81@yahoo.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919764335087"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "260",
+      "Patel Wadi Korit Road Nandurbar",
+      "Nandurbar",
+      "Maharashtra",
+      "425412"
+    ]
+  }
+}

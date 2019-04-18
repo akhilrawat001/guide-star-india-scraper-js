@@ -1,0 +1,26 @@
+{
+  "contacts": [
+    {
+      "name": "Kesav Ram Lothta",
+      "email": "mksscpl@yahoo.co.in",
+      "designation": "Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3162",
+  "name": "Manav Kalyan Seva Samiti",
+  "primaryEmail": "mksscpl@yahoo.co.in",
+  "telephone": [
+    "911783260334",
+    "911783260334"
+  ],
+  "mainAddrress": {
+    "state": "Himachal Pradesh",
+    "address": [
+      "Karai,Po & Teh Chopal.",
+      "Shimla",
+      "Himachal Pradesh",
+      "171001"
+    ]
+  }
+}

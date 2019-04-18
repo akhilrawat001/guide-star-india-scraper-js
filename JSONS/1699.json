@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Meena",
+      "email": "occurdales@rediffmail.com",
+      "designation": "Financial Truestee",
+      "mobile": [
+        "91-9245445736"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1699",
+  "name": "Organization for Cooperation of Children Uphold Research and Development Trust",
+  "primaryEmail": "occurdalex1@rediffmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919384624020"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "No.148/1",
+      "Malai Street, Alapakkam, Vallam Post, ,",
+      "Chengalpattu",
+      "Kancheepuram",
+      "Tamil Nadu",
+      "603002"
+    ]
+  }
+}

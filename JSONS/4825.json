@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Madhabananda Saraswati",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4825",
+  "name": "DALPUR SREE SREE GYANANANDA SARASWATI ASHRAM",
+  "primaryEmail": "dssgsashram@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919732079089"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Village Dalpur",
+      "Post - Kharbana, Bankura",
+      "Bankura",
+      "West Bengal",
+      "722137"
+    ]
+  }
+}

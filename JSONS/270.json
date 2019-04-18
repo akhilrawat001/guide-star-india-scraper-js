@@ -1,0 +1,38 @@
+{
+  "contacts": [
+    {
+      "name": "Nidhi Prabha Tewari",
+      "email": "npt@democracyconnect.org",
+      "designation": "Ceo and Managing Trustee",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=270",
+  "name": "Democracy Connect",
+  "primaryEmail": "info@democracyconnect.org",
+  "website": "www.democracyconnect.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "911140521236",
+    "911126525949",
+    "919350025912",
+    "911126525949"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "E 56, Third Floor Saket",
+      "New Delhi",
+      "Delhi",
+      "110017"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "Delhi"
+    ]
+  }
+}

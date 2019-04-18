@@ -1,0 +1,36 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5136",
+  "name": "Rural Development Institute (RDI)",
+  "primaryEmail": "mkgp@hotmail.com",
+  "website": "www.rdi-india.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "+911146900900",
+    "911146900900"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "18th Ramnath House, First Floor, ,",
+      "Community Centre,Yusuf Sarai, New Delhi",
+      "New Delhi",
+      "South Delhi",
+      "Delhi",
+      "110049"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "1820, 6thCross, Judicial Layout",
+      "Yelahanka Bangalore, Karnataka",
+      "BAGALORE, KARANATAKA",
+      "Bengaluru (Bangalore) Rural",
+      "Karnataka",
+      "560065"
+    ]
+  }
+}

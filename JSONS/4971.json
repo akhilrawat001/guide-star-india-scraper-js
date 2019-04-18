@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Mahesh Nimbalkar",
+      "email": "srujanonline@gmail.com",
+      "designation": "head",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4971",
+  "name": "Ajit Foundation",
+  "primaryEmail": "srujanonline@gmail.com",
+  "website": "www.ajitfoundation.com",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "919822897382"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Wani Plot",
+      "Agalgaon Rd",
+      "A/P/T-Barshi",
+      "Solapur",
+      "Maharashtra",
+      "413401"
+    ]
+  },
+  "briefDescription": "Ajit Foundation is a non-profit voluntary organization established in the year 2004 and registered in the year 2006 under society Registration Act, 1860 and The Bombay Public Trust Act. 1950.It was established by group of likeminded social workers who are working in the field of basic health, education, vocational training, employment generation and skill development training programmes, environmental protection, rural development, women empowerment and child protection, Social Justice and other social issues. The organization works among rural women, children, unemployed youth and backward poor villagers. Major areas of interest of the organization are women empowerment, Primary and non-formal education, Basic health, HIV/ AIDS Awar",
+  "yearOfEstablishment": "2006"
+}

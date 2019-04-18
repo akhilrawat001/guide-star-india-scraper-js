@@ -1,0 +1,36 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10263",
+  "name": "WILDLIFE CONSERVATION FOUNDATION",
+  "primaryEmail": "rajkumar.naturalist@gmail.com",
+  "website": "wcfindia.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918214033300"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "No. 177, Hebbal Industrial Area, Phase-1",
+      "Near L & T 3rd Gate",
+      "Mysore",
+      "Mysuru (Mysore)",
+      "Karnataka",
+      "570018"
+    ]
+  },
+  "briefDescription": "Wildlife Conservation Foundation is located in Mysore, Karnataka.",
+  "yearOfEstablishment": "2007",
+  "regiseredAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "398/1, Shivayan Mutt Road, Devraja Mohalla",
+      "Mysore",
+      "Mysuru (Mysore)",
+      "Karnataka",
+      "570024"
+    ]
+  }
+}

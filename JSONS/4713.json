@@ -1,0 +1,27 @@
+{
+  "contacts": [
+    {
+      "name": "DR SREEMATHI SESHADRINATHAN",
+      "email": "sreemseshadrinathan@gmail.com",
+      "designation": "Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4713",
+  "name": "K.J. Research Foundation",
+  "primaryEmail": "sreemseshadrinathan@gmail.com",
+  "telephone": [
+    "914426411513",
+    "914426411513"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "New No. 152",
+      "Poonamallee High Road,",
+      "Chennai",
+      "Tamil Nadu",
+      "600084"
+    ]
+  }
+}

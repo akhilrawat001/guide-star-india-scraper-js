@@ -1,0 +1,44 @@
+{
+  "contacts": [
+    {
+      "name": "Rajeev Kumar Gupta",
+      "email": "rajeevsahil@yahoo.com",
+      "designation": "Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2693",
+  "name": "RAMRAJYA AHWAHAN MISSION",
+  "primaryEmail": "rgupta@vkvermaco.com",
+  "website": "www.ramrajyaahwahan.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "911206516399",
+    "911206516399"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "A1 and B2 Pushpa Apartment III Plot 44A",
+      "Rajinder Nagar Sector V Sahibabad Distt Ghaziabad",
+      "Ghaziabad",
+      "Uttar Pradesh",
+      "201005"
+    ]
+  },
+  "briefDescription": "The Mission education the values to the public as idealogy could be developed in general public.",
+  "yearOfEstablishment": "2009",
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "V.K.Verma & Co.,",
+      "C-37,Connaught Place,",
+      "New Delhi",
+      "Central Delhi",
+      "Delhi",
+      "110001"
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "contacts": [
+    {
+      "name": "Vivek Kaushik",
+      "email": "manabc@gmail.com",
+      "designation": "Project Director",
+      "mobile": [
+        "91-11-65154037"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1250",
+  "name": "Partners in Prosperity",
+  "primaryEmail": "pd@pnpindia.in",
+  "website": "http://www.pnpindia.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "911165154037",
+    "911165154037"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "35/2/9 Kishangarh,",
+      "Vasant Kunj",
+      "New Delhi",
+      "Delhi",
+      "110070",
+      "AP_BankStat_1154.PDF"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "C6/6048 Vasant Kunj",
+      "New Delhi",
+      "South Delhi",
+      "Delhi",
+      "110070",
+      "AP_BankStat_1154.PDF"
+    ]
+  }
+}

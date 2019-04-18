@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "K M Umapathigouda",
+      "email": "smileorg5@gmail.com",
+      "designation": "Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2940",
+  "name": "Socio Moral Integration of Living Educe (SMILE) Organisation",
+  "primaryEmail": "smileorg5@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918066422232",
+    "918066422232"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "H.O.Near APMC",
+      "Kurugodu",
+      "Ballari (Bellary)",
+      "Karnataka",
+      "583116"
+    ]
+  }
+}

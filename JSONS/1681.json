@@ -1,0 +1,27 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1681",
+  "name": "Green Seva Foundation",
+  "primaryEmail": "greensevafoundation@gmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "918019694589"
+  ],
+  "mainAddrress": {
+    "state": "Telangana",
+    "address": [
+      "2-2-1125/162/1",
+      "Vasavi Nilayam, New Nallakunta",
+      "Hyderabad",
+      "Telangana",
+      "500044"
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Rakesh Kumar",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8627",
+  "name": "Prabhat Sansthan Dholpur",
+  "primaryEmail": "prabhatngo@rediffmail.com",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "919785374311"
+  ],
+  "mainAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "Village: Rajor Via Panchgon, Post: Saranikhera,",
+      "Post: Saranikhera, Th. Bari,",
+      "Dholpur",
+      "Rajasthan",
+      "328030"
+    ]
+  }
+}

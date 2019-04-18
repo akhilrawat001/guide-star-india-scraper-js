@@ -1,0 +1,45 @@
+{
+  "contacts": [
+    {
+      "name": "Sanjay Daswani",
+      "email": "sanjayd@hfhindia.org",
+      "designation": "Senior Director-Information Management | Resource",
+      "mobile": [
+        "91-22-67846809"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=142",
+  "name": "Habitat for Humanity India Trust",
+  "primaryEmail": "info@hfhindia.org",
+  "website": "www.habitatindia.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "912267846827"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Habitat For Humanity India",
+      "102/103, 1st Floor, Dhantak Plaza, Makwana Road, Marol, Andheri East",
+      "Mumbai",
+      "Maharashtra",
+      "400059"
+    ]
+  },
+  "briefDescription": "Habitat for Humanity India is a non-profit organization that builds homes and provides housing-related services to low-income, marginalized families across India. Habitat India began operations in 1983 and is today one of Habitat’s largest programmes in the Asia pacific region. It works in partnership with local, grassroots, non-governmental organizations, and micro finance institutions throughout India to provide decent housing. Till date, we have served over 1,34,893 families across 20 states in India. Our Vision is \"A world where everyone has a decent place to live\"HFH India manages operations throughout India through Habitat Resource Centers in Mumbai, Delhi, Bengaluru and Chennai with projects in 17 states in India. Habitat for Humanity India uses a model under which homeowner families are expected to raise one third of the cost of the house and the remaining two thirds is facilitated by Habitat for Humanity through its partnerships with local grassroot NGO's and corporates. Habitat for Humanity’s interventions also extend beyond housing to areas of livelihood, sanitation, water projects and disaster rehabilitation. Apart from our projects, another core focus of Habitat programs is Volunteering. We engage volunteers from corporates, schools and colleges. Volunteers on a build get to see first-hand how poverty housing undermines the life chances of children and adults alike thus offering a journey of discovery and transformation through this program.",
+  "yearOfEstablishment": "2005",
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "Habitat For Humanity India, B-248",
+      "38 Hanuman Road",
+      "Connaught Place",
+      "New Delhi",
+      "Delhi",
+      "110001"
+    ]
+  }
+}

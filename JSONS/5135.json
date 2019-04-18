@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Sandip Mondal",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "260250"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5135",
+  "name": "AKABPUR SAMMELANI",
+  "primaryEmail": "akabpursammelani2@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "913454260250",
+    "913454260250"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "P.O. : Nadanghat, Dist. : Burdwan, West Bengal - 713515",
+      "Nadanghat",
+      "Bardhaman",
+      "West Bengal",
+      "713515"
+    ]
+  }
+}

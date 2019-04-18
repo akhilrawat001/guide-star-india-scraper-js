@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Ram Ingole",
+      "email": "vimlashram@yahoo.co.in",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2799",
+  "name": "Amrapali Utkarsh Sangh",
+  "primaryEmail": "vimlashram@yahoo.co.in",
+  "website": "www.navindesai.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919881213298"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Vimlashram Gharkul,59 Srikrushna Nagar",
+      "Opp. Udainagar NIT Garden",
+      "Nagpur",
+      "Maharashtra",
+      "440024"
+    ]
+  }
+}

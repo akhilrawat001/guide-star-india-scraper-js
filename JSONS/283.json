@@ -1,0 +1,44 @@
+{
+  "contacts": [
+    {
+      "name": "J. Subbanna",
+      "email": "subbanna@leprahealthinaction.in",
+      "designation": "Chief Executive In-Charge",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=283",
+  "name": "Lepra Society",
+  "primaryEmail": "omprakash@leprahealthinaction.in",
+  "website": "http://www.leprasociety.org",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919000111270",
+    "914027801391",
+    "914044586060"
+  ],
+  "mainAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "Plot no. 17, Krishnapuri Colony",
+      "West Marredpally, Krishnapuri Colony",
+      "Secunderabad",
+      "East Godavari",
+      "Andhra Pradesh",
+      "500026"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "Plot no. 17, Krishnapuri Colony",
+      "West Marredpally, Krishnapuri Colony",
+      "Secunderabad",
+      "Andhra Pradesh",
+      "500026"
+    ]
+  }
+}

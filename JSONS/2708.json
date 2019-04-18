@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Gaurav Turkhade",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "2512023",
+        "9765850487"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2708",
+  "name": "Sahyadri Shikshan And Krida Prasarak Sanstha",
+  "primaryEmail": "gaurav_turkhade@yahoo.co.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "9107212512023",
+    "9107212512023"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "54, Ganesh Vihar , Probadhan Colony , Badnera Road",
+      "Amravati",
+      "Maharashtra",
+      "444607"
+    ]
+  }
+}

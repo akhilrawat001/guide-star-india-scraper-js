@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Belaluddin Khan",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8079",
+  "name": "ORISSA RURAL SPORTS, HEALTH AND EDUCATIONAL DEVELOPMENT WELFARE SOCIETY",
+  "primaryEmail": "orshed.secretary@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Grant-making",
+    "Support"
+  ],
+  "telephone": [
+    "919937050834"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "Khan Mahal, Sainso, Gobabast, Cuttack",
+      "Village- Sainso Panchayat",
+      "Cuttack",
+      "Odisha",
+      "754001"
+    ]
+  }
+}

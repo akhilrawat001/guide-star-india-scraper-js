@@ -1,0 +1,37 @@
+{
+  "contacts": [
+    {
+      "name": "Mr. Netai Maitra",
+      "email": "midnapore_prog@yahoo.co.in",
+      "designation": "Chieff Coordinatir",
+      "mobile": [
+        "91-9434416481"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7149",
+  "name": "Midnapur Progressive SC/ST/ Minority Dev. Association",
+  "primaryEmail": "progressive92mid@gmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919434175408",
+    "919434416481"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Ms. Mantu Ahmed, Sister Nibadita Sarani",
+      "Sepoy Bazar (Church)",
+      "Po.- Midnapur",
+      "West Medinipur",
+      "West Bengal",
+      "721101"
+    ]
+  },
+  "briefDescription": "Service towards backward class.",
+  "yearOfEstablishment": "1989"
+}

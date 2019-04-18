@@ -1,0 +1,41 @@
+{
+  "contacts": [
+    {
+      "name": "B Raju",
+      "email": "rajub1949@yahoo.co.in",
+      "designation": "Chief Administrative Officer",
+      "mobile": [
+        "91-44-26153971"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=460",
+  "name": "Schizophrenia Research Foundation (India)",
+  "primaryEmail": "scarf@vsnl.com",
+  "website": "http://www.scarfindia.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "914426153971",
+    "914426153971",
+    "914426153971",
+    "914426153971"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "Plot No. R.7A, North Main Road",
+      "Anna Nagar West Extn",
+      "Chennai",
+      "Tamil Nadu",
+      "600101"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "Tamil Nadu"
+    ]
+  }
+}

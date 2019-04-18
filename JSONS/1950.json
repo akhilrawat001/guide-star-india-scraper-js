@@ -1,0 +1,38 @@
+{
+  "contacts": [
+    {
+      "name": "Shyama Verma",
+      "email": "shyamaverma68@gmail.com",
+      "designation": "secratry",
+      "mobile": []
+    },
+    {
+      "name": "Shyama Verma",
+      "email": "shyamaverma68@gmail.com",
+      "designation": "secratry",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1950",
+  "name": "Bhartiya Shaikshanik Sansthan",
+  "primaryEmail": "bssbhopal@gmail.com",
+  "website": "http://www.bhartiyashakshiksansthan.in",
+  "organisationType": [
+    "Advocacy & Campaigning"
+  ],
+  "telephone": [
+    "917553930670",
+    "917552572030",
+    "919826320691"
+  ],
+  "mainAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "B/M 135",
+      "Nehru Nagar",
+      "Bhopal",
+      "Madhya Pradesh",
+      "462003"
+    ]
+  }
+}

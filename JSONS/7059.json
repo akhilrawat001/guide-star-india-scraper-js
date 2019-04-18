@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Sapna Saini",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "9953429822"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7059",
+  "name": "Voice Society",
+  "primaryEmail": "sapna@consumer-voice.org",
+  "website": "www.consumer-voice.org",
+  "organisationType": [
+    "Advocacy & Campaigning"
+  ],
+  "telephone": [
+    "9953429822"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "O-45, Ring Road,",
+      "Lajpat Nagar - II",
+      "New Delhi",
+      "Delhi",
+      "110024"
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Darivianca Elliotte Laloo",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5440",
+  "name": "Partnership for TB Care and Control",
+  "primaryEmail": "ceoptcc@gmail.com",
+  "website": "http://www.tbpartnershipindia.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Intermediary",
+    "Network"
+  ],
+  "telephone": [
+    "910971101068"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "Plot 2, A- 3 , Local Shopping Centre,",
+      "Janakpuri",
+      "New Delhi",
+      "West Delhi",
+      "Delhi",
+      "110059"
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7337",
+  "name": "Bundel Khand Sewa Sansthan",
+  "primaryEmail": "bssltp@rediffmail.com",
+  "website": "www.bssindia.ngo",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919415412961"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "Sarla Vihar Kaloni Nehrunagar, Devgarh Road Railway Crossing .",
+      "Lalitpur",
+      "Uttar Pradesh",
+      "284403"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "Village: Madawara , Post: Madawara",
+      "Lalitpur",
+      "Uttar Pradesh",
+      "284404"
+    ]
+  }
+}

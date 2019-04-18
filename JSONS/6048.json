@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "JASMINE JOSE",
+      "email": "JASMINEJOSE@KAMALINI.ORG",
+      "designation": "PROGRAMME DEVELOPMENT OFFICER",
+      "mobile": [
+        "91-11-41759434"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6048",
+  "name": "Educational and Development Initiatives",
+  "primaryEmail": "INFO@EDI.ORG.IN",
+  "website": "WWW.EDI.ORG.IN",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919899113697",
+    "911141759434"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "40 B, FIRST FLOOR",
+      "YUSUF SARAI",
+      "NEW DELHI",
+      "South Delhi",
+      "Delhi",
+      "110016"
+    ]
+  },
+  "briefDescription": "Educational and Development Initiatives (EDI) was formed with the aim of fostering among young people ideals of service to those in need and leadership for society. Hundreds of families have participated in the educational, personal development and cultural enrichment programmes offered through study centres run by EDI in New Delhi and Mumbai.Apart from the study centers, EDI also has experience in offering vocational training for underprivileged girls and women from rural areas and to help fill the gap in studies for school-leavers. As an expansion of its current projects, EDI is coming up with a Vocational Training Centre on Sohna Road, Haryana, to reach out to the underprivileged women in the surrounding villages",
+  "yearOfEstablishment": "1995"
+}

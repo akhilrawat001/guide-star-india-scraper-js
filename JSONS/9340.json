@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Narayan Das",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9340",
+  "name": "VIVEKANANDA SEVA SAMITY",
+  "primaryEmail": "adv.narayandas@gmail.com",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "919954224514"
+  ],
+  "mainAddrress": {
+    "state": "Assam",
+    "address": [
+      "Vill- Uttar Lamding (Tiniali)",
+      "P.O. Lamding",
+      "Nagaon",
+      "Assam",
+      "782447"
+    ]
+  },
+  "yearOfEstablishment": "2004"
+}

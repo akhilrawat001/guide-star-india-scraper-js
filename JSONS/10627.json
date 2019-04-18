@@ -1,0 +1,49 @@
+{
+  "contacts": [
+    {
+      "name": "Ashok Rao",
+      "email": "ashok.rao@heartfulness.org",
+      "designation": "Funding Coordinator",
+      "mobile": [
+        "91-8754470650"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10627",
+  "name": "HEARTFULNESS EDUCATION TRUST",
+  "primaryEmail": "ashok.rao@heartfulness.org",
+  "website": "http://education.heartfulness.org",
+  "organisationType": [
+    "Direct Service",
+    "Grant-making",
+    "Support"
+  ],
+  "telephone": [
+    "918754470650",
+    "919133318180"
+  ],
+  "mainAddrress": {
+    "state": "Telangana",
+    "address": [
+      "Kanha Shantivanam",
+      "Nandigama Mandal",
+      "Kanha Village",
+      "Rangareddy",
+      "Telangana",
+      "509325"
+    ]
+  },
+  "briefDescription": "Heartfulness Education Trust (HET) was born from the vision that most effective way to transform society in a generation, is to provide teachers with the opportunity and tools for change and to empower them to transform their students. HET's vision is to enable teachers and students to live a balanced, purposeful, happy life through heart-based practices, so that they are equipped to contribute to sustainable school reform and community citizenship. HET along with its affiliated organizations, work towards social transformation by offering Heartfulness methods for individual change.For a list of successfully concluded programs, please refer to http://education.heartfulness.org/concluded-programs/",
+  "yearOfEstablishment": "2017",
+  "regiseredAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "40-15-9/12 Nandamuri Road",
+      "Venkateswarapuram PO",
+      "Vijayawada",
+      "Krishna",
+      "Andhra Pradesh",
+      "520010"
+    ]
+  }
+}

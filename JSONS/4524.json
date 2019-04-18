@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Sutapa Biswas",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4524",
+  "name": "Cancer Foundation of India",
+  "primaryEmail": "cancer-india@vsnl.net",
+  "website": "http://www.cancerfoundationofindia.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "913323452728",
+    "913323452728"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "47/2D",
+      "Selimpur Road",
+      "Kolkata",
+      "South 24 Parganas",
+      "West Bengal",
+      "700031"
+    ]
+  }
+}

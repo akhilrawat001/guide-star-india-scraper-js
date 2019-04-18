@@ -1,0 +1,44 @@
+{
+  "contacts": [
+    {
+      "name": "Ms. Leena Joseph",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "23556491",
+        "9848027003"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1652",
+  "name": "Naandi Foundation",
+  "primaryEmail": "leena@naandi.org",
+  "website": "www.naandi.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "914023556491",
+    "914023556491"
+  ],
+  "mainAddrress": {
+    "state": "Telangana",
+    "address": [
+      "502, Trend Set Towers, Road # 2",
+      "Banjara Hills",
+      "Hyderabad",
+      "Telangana",
+      "500034"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Telangana",
+    "address": [
+      "502, Trend Set Towers, Road # 2",
+      "Banjara Hills",
+      "Hyderabad",
+      "Telangana",
+      "500034"
+    ]
+  }
+}

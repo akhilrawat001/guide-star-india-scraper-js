@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Mr. Tapan Biswas",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7948",
+  "name": "ALIPURDUAR RURAL & TRIBAL DEVELOPMENT KALLYAN SAMITI",
+  "primaryEmail": "tapan.apd2014@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919475118750"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Vill: Bidhan Pally",
+      "P.O+Dist: Alipurduar",
+      "Alipurduar",
+      "Jalpaiguri",
+      "West Bengal",
+      "736121"
+    ]
+  }
+}

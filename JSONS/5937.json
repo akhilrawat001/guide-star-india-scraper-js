@@ -1,0 +1,37 @@
+{
+  "contacts": [
+    {
+      "name": "MANINDER SINGH NAYYAR",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "41047806"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5937",
+  "name": "BAL BHARTI ACADEMY",
+  "primaryEmail": "info@balbharti.co.in",
+  "website": "http://www.balbharti.co.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "911141047806",
+    "911141047806"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "A/24, LGF, CR Park, New Delhi-110019",
+      "Delhi",
+      "South Delhi",
+      "110019"
+    ]
+  },
+  "briefDescription": "Bal Bharti Academy is a Non-Government, Non-Profit NGO engaged in various developmental, training and other socially important activities since 1970. Having done programs in partnership with Planning Commission of India, ASSOCHAM (The Associated Chambers of Commerce & Industry of India), United Nations Millennium Development, etc Bal Bharti Academy is leaving no stones unturned for the betterment of the society. Since 2004, we have partnered Ch. Narender Singh College for providing free education to girls and minority communities every year (except 2010). Bal Bharti Academy has also been part of several basic training activities in other parts of the country for development of the nation.",
+  "yearOfEstablishment": "1970"
+}

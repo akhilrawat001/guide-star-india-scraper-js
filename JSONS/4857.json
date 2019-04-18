@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "NILAKANTHA MOHARANA",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4857",
+  "name": "SEVA O SEVAK",
+  "primaryEmail": "sevaosevak@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919238548613"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "M/s SEVA O SEVAK",
+      "AT/PO- NUAGAON",
+      "VIA/PS- NIALI",
+      "Cuttack",
+      "Odisha",
+      "754004"
+    ]
+  }
+}

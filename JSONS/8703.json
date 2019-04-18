@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Prabhat Kumar Singh",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8703",
+  "name": "Nav Prabhat",
+  "primaryEmail": "navprabhat2004@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919931238176"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "Vill Chamrahra",
+      "Po Mahnar ( railway station )",
+      "Vaishali",
+      "Bihar",
+      "843114"
+    ]
+  }
+}

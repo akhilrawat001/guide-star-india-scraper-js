@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Snehal Salve",
+      "email": "snehal.passages@gmail.com",
+      "designation": "Office Assistant",
+      "mobile": [
+        "91-22-22047823"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=928",
+  "name": "Passages Association For Guidance, Education & Support",
+  "primaryEmail": "info@epassages.org",
+  "website": "www.epassages.org",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "912222047823",
+    "912222047823"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "92, Lady Ratan Tata Medical Centre",
+      "Maharashi Karve Road, Ceoperage",
+      "Mumbai",
+      "Maharashtra",
+      "400021"
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1052",
+  "name": "National Institute for People's Development,Investigation and Training(NIPDIT)",
+  "primaryEmail": "nipdit@rediffmail.com",
+  "website": "www.nipdit.org",
+  "telephone": [
+    "916892253403",
+    "916892253579",
+    "916892253579"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "NIPDIT  At - College Road",
+      "Po - Phulbani",
+      "Phulbani",
+      "Kandhamal",
+      "Odisha",
+      "762001"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Odisha",
+    "address": [
+      "At & Po - Paburia",
+      "Kandhamal",
+      "Odisha",
+      "762112"
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5787",
+  "name": "Nav Chetan Vikas Samiti",
+  "primaryEmail": "ncvskasardevi@gmail.com",
+  "website": "www.ncvskasardevi.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making"
+  ],
+  "telephone": [
+    "917579050222"
+  ],
+  "mainAddrress": {
+    "state": "Uttarakhand",
+    "address": [
+      "Kasardevi, Near Cyber 24",
+      "Post- Deenapani",
+      "Almora",
+      "Uttarakhand",
+      "263601"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Uttarakhand",
+    "address": [
+      "Nav Chetan Vikas Samiti",
+      "Kasardevi, Near Cyber 24",
+      "Post - Deenapani",
+      "Almora",
+      "Uttarakhand",
+      "263601"
+    ]
+  }
+}

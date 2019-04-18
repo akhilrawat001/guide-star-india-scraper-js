@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Jaybhay Ajinath Jagannath",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3598",
+  "name": "Shri Ankhiridevi Shaiksanik Samajik Sanskrutik Va Krida Mandal",
+  "primaryEmail": "adsssvkmfkd@gmail.com",
+  "website": "na",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918007394241"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Fakrabad Tal Jamkhed Dist Ahmednager (M/S) Pin 413205",
+      "Jamkhed",
+      "Ahmednagar",
+      "Maharashtra",
+      "413205"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Vikrant Kumar Singh",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6644",
+  "name": "NAVYUG FOUNDATION",
+  "primaryEmail": "vikrant@navyugfoundation.org",
+  "website": "www.navyugfoundation.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919873608216"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "Vikas Bhavan, Rajputtola, Banmankhi",
+      "Purnia",
+      "Bihar",
+      "854202"
+    ]
+  },
+  "briefDescription": "Navyug Foundation is a not-for-profit society registered by a team of highly enthusiastic & multi facet young experienced people.The trust working in India focusing on, Child Labor, Girl Education, Environmental Awareness, Disaster Management and Social Injustice. We do this through well planned and catholic programs in health, education and disaster willingness.",
+  "yearOfEstablishment": "2015"
+}

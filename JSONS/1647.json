@@ -1,0 +1,59 @@
+{
+  "contacts": [
+    {
+      "name": "Puja Bhalla",
+      "email": "puja.bhalla@cafindia.org",
+      "designation": "CEO",
+      "mobile": [
+        "91-11-29233392"
+      ]
+    },
+    {
+      "name": "Puja Bhalla",
+      "email": "puja.bhalla@cafindia.org",
+      "designation": "CEO",
+      "mobile": [
+        "91-11-29233392"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1647",
+  "name": "Charities Aid Foundation India",
+  "primaryEmail": "contact@cafindia.org",
+  "website": "www.cafindia.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "911129233392",
+    "911141689100"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "136, 2nd Floor, Vishal House,",
+      "Jamrudpur",
+      "New Delhi",
+      "South Delhi",
+      "Delhi",
+      "110048"
+    ]
+  },
+  "briefDescription": "Charities Aid Foundation India is a value driven organization. We stand for acceptance, efficiency and humanity. Our mission is to promote and support strategic giving for a more equitable and sustainable society. We focus on effective giving from individuals and organizations to the development sector. We help Companies, PSUs and individuals make more impact through their community development initiatives. We enable Charities to address the development sector needs of the country and propose better ways to support the charity sector.For more information, please visit: www.cafindia.org",
+  "yearOfEstablishment": "1998",
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "A-85,1st Floor",
+      "East of Kailash",
+      "New Delhi",
+      "South Delhi",
+      "Delhi",
+      "110065"
+    ]
+  }
+}

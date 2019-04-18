@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "Rajesh Tripathi",
+      "email": "lokjs@rediffmail.com",
+      "designation": "Manager",
+      "mobile": [
+        "91-9451232090"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8401",
+  "name": "LOK JAGRITI SANSTHAN",
+  "primaryEmail": "ljsambedkernager@gmail.com",
+  "website": "http://www.lokjagriti.ngo",
+  "organisationType": [
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919451232090"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "Village Pahunti",
+      "Post- Saya",
+      "Mijhaura, Bhiti",
+      "Ambedkar Nagar",
+      "Uttar Pradesh",
+      "224152"
+    ]
+  },
+  "briefDescription": "Vision : The organization ‘s vision is to achieve an egalitarian society devoid of any deprivation ,exploitation and neglect by enabling socio-economic development of the disadvantaged and deprived sections with their active involvements and collaboration .Mission : The Mission of the organization is to work for sustainable holistic development by empowering rural community with focus on women and children by providing quality education, Health care, Family welfare, vocational/skill development training and creation of awareness and various aspects including conservation of environment.",
+  "yearOfEstablishment": "14011999"
+}

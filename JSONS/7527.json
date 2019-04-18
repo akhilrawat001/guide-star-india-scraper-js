@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "MR.GHANSHYAM SAW",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7527",
+  "name": "LOK JAGRAN KENDRA",
+  "primaryEmail": "lokjagrankendra@yahoo.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919934508857"
+  ],
+  "mainAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "AT+PO+PS-MANDU",
+      "STREET KALI MANDIR,NEAR HANU MAN MANDIR BAGI TOLA",
+      "RAMGARH",
+      "Ramgarh",
+      "Jharkhand",
+      "825316"
+    ]
+  },
+  "briefDescription": "LOK JAGRAN KENDRA LOCATED IN RAMGARH, JHARKHAND.",
+  "yearOfEstablishment": "2007"
+}

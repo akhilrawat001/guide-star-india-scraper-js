@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "Meghna Banker",
+      "email": "",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=592",
+  "name": "Mam Movies Society",
+  "primaryEmail": "info@mammovies.com",
+  "website": "www.mammovies.com",
+  "telephone": [
+    "919833167990"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "D-5, Society No- 85",
+      "Near Janki Devi School, Mhada 4 Bunglows, Andheri (W)",
+      "Mumbai",
+      "Maharashtra",
+      "400053"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Chhattisgarh",
+    "address": [
+      "Near Shri Ram Tyres, Link Road",
+      "Bilaspur",
+      "Chhattisgarh",
+      "495001"
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Ashok Thorat",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8234",
+  "name": "Marg,Satya Va Jeevan Bahuuddeshiya Sevabhavi Sanstha",
+  "primaryEmail": "msjbss@gmail.com",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "919762265227"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Shree Vastu Row No-3 Kalanagar,",
+      "Behind Reliance Petrol Pump, Meri Dindori Road,",
+      "Nashik",
+      "Maharashtra",
+      "422003"
+    ]
+  }
+}

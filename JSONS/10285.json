@@ -1,0 +1,45 @@
+{
+  "contacts": [
+    {
+      "name": "Unmesh Joshi",
+      "email": "unmesh@responsiblenetism.org",
+      "designation": "Director Projects",
+      "mobile": [
+        "91-9820447887"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10285",
+  "name": "AHAAN FOUNDATION MUMBAI",
+  "primaryEmail": "responsiblenetism@gmail.com",
+  "website": "www.responsiblenetism.org",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "918433701077"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "716, Ecstasy Commercial, J S D  Road,",
+      "Mulund West,",
+      "Mumbai",
+      "Maharashtra",
+      "400080"
+    ]
+  },
+  "briefDescription": "Ahaan Foundation is located in Mumbai, Maharashtra.Ahaan Foundation is a registered trust aimed at mobilizing and empowering people towardsself-enhancement transition and evolution. We work towards sensitizing people towards social issues impacting their lives to bring about a change through collective action. In this digital era, it is essential to equip children and adults with online safety, ‘Responsible Netism’ is a unique project initiated by AHaan Foundation that aspires towards building cyber safe world in order to protect children and adults from digital distress. The team has successfully educated over 8 lakh students and adults on cyber wellness thus making then Responsible Netizens.",
+  "yearOfEstablishment": "2012",
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "A-303, Pawan Putra Apartments, Plot No. 282, Charkop, Sector – 5,  Kandivali West",
+      "Kandivali West",
+      "Mumbai",
+      "Maharashtra",
+      "400067"
+    ]
+  }
+}

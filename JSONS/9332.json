@@ -1,0 +1,32 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9332",
+  "name": "The Ramakrishna Sarada Mission",
+  "primaryEmail": "rksmksa@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919436275136",
+    "913786222358"
+  ],
+  "mainAddrress": {
+    "state": "Arunachal Pradesh",
+    "address": [
+      "P.O.Khonsa",
+      "Tirap",
+      "Arunachal Pradesh",
+      "792130"
+    ]
+  },
+  "yearOfEstablishment": "1960",
+  "regiseredAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Ramakrishna Sarada Mission Dakshineswar, Kolkata",
+      "Kolkata",
+      "West Bengal",
+      "700076"
+    ]
+  }
+}

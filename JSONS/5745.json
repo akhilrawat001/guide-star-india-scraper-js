@@ -1,0 +1,27 @@
+{
+  "contacts": [
+    {
+      "name": "Mohd Minhajuddin",
+      "email": "adv.minhaj@gmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5745",
+  "name": "Friends Social Organization",
+  "primaryEmail": "adv.minhaj@gmail.com",
+  "telephone": [
+    "911126043953",
+    "911126043953"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "D-1/4,Ratiya Marg,",
+      "Sangam Vihar",
+      "New Delhi",
+      "Delhi",
+      "110080"
+    ]
+  }
+}

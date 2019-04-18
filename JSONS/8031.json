@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Anil Kumar",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8031",
+  "name": "NAYEE PARAKH",
+  "primaryEmail": "nayeeparakh_01@rediffmail.com",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "917352374147"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "Ram Nagar, Behind Aggarwal Petrol Pump,",
+      "Near Sankat Mochan Temple",
+      "Nawada",
+      "Bihar",
+      "805110"
+    ]
+  }
+}

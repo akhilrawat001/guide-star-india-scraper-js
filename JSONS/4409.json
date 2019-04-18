@@ -1,0 +1,47 @@
+{
+  "contacts": [
+    {
+      "name": "Shabab Alam",
+      "email": "misbah.india@yahoo.com",
+      "designation": "General secretary",
+      "mobile": [
+        "91-9910126035"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4409",
+  "name": "MISBAH",
+  "primaryEmail": "misbah.india@yahoo.com",
+  "website": "N/A",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service"
+  ],
+  "telephone": [
+    "919910126035"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "J-3/122, 2nd Floor, J-Extension Laxmi Nagar,",
+      "Near Anar Wali Masjid",
+      "New Delhi",
+      "East Delhi",
+      "Delhi",
+      "110092"
+    ]
+  },
+  "briefDescription": "Misbah is running a drug and alcohol detoxification and rehabilitation center in south Delhi and also working on TB and HIV prevention program.",
+  "yearOfEstablishment": "2005",
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "T-73, A/B, Basti Hazrat Nizamuddin",
+      "Near Khusro Masjid",
+      "New Delhi",
+      "South Delhi",
+      "Delhi",
+      "110013"
+    ]
+  }
+}

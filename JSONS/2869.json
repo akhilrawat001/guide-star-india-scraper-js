@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "Ashok Patil",
+      "email": "vishwasociety123@gmail.com",
+      "designation": "Chairman",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2869",
+  "name": "Vision for the Integrated Social Health and Women Awareness Society (VISHWA)",
+  "primaryEmail": "vishwasociety123@gmail.com",
+  "telephone": [
+    "918392267371",
+    "918392267371"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "Vishwa Society Door No.28",
+      "Sarovara Complex, Kappagal Road",
+      "Bellary",
+      "Ballari (Bellary)",
+      "Karnataka",
+      "583102"
+    ]
+  }
+}

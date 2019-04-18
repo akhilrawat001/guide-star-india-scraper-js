@@ -1,0 +1,26 @@
+{
+  "contacts": [
+    {
+      "name": "ABDUL SATTAR",
+      "email": "muskaanngo@gmail.com",
+      "designation": "STATE COORDINATOR",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5767",
+  "name": "Jan Kalyan Shikshan Prashikshan Samiti",
+  "primaryEmail": "muskaanngo@gmail.com",
+  "telephone": [
+    "919719527397"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "MOHALL DALCHAND NEAR AYURVEDIC COLLEGE",
+      "PILBHEET",
+      "Bareilly",
+      "Uttar Pradesh",
+      "262001"
+    ]
+  }
+}

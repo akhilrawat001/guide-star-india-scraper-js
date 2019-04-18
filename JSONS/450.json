@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "Channabasavaraj M.S.",
+      "email": "inform2channu@gmail.com",
+      "designation": "Administrator",
+      "mobile": [
+        "91-8192-237057",
+        "91-9448145446"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=450",
+  "name": "Samveda Training & Research Centre",
+  "primaryEmail": "suren@samveda.org",
+  "website": "http://www.samveda.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service"
+  ],
+  "telephone": [
+    "918192237057"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "# 610, 7th Cross",
+      "5th Main, P.J.Extension",
+      "Davangere",
+      "Karnataka",
+      "577002"
+    ]
+  },
+  "briefDescription": "We are NGO dedicated to the rehabilitation of children with Learning Disabilities and Mental Impairment. In every academic year (June to March) we serve the special needs of 60 children with learning Disability. As it is an intense trainig program there are 23 staff (teaching & non teaching) members of which 5-6 of them are on 24 hour duty (on rotation). Usually the training program is for 3-6 years depending on the need",
+  "yearOfEstablishment": "1997"
+}

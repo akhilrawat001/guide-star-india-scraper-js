@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "S.KANAGARATHINAM",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7310",
+  "name": "GOSPEL VISION MISSION",
+  "primaryEmail": "gospelvision2003@yahoo.co.in",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "919840109971"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "No.27",
+      "Gandhi Nagar, Padikuppam Road",
+      "Thirumangalam",
+      "Chennai",
+      "Tamil Nadu",
+      "600040"
+    ]
+  }
+}

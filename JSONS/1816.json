@@ -1,0 +1,28 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1816",
+  "name": "Bharat Bharati Samaj",
+  "primaryEmail": "bharatbharatisamaj@yahoo.com",
+  "website": "www.bharatbharatisamaj.webs.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "913324319713",
+    "919038964616"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Kinnar Apartment Ground Floor",
+      "164, Bansdroni Park Road,",
+      "Kolkata",
+      "West Bengal",
+      "700070"
+    ]
+  }
+}

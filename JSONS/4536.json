@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Raghu Kiran Appasani",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4536",
+  "name": "MINDS-India: Mental Illness & Neurological Disorders Foundation - India",
+  "primaryEmail": "info@mindsfoundation.org",
+  "website": "http://www.mindsfoundation.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "7812668211"
+  ],
+  "mainAddrress": {
+    "state": "Telangana",
+    "address": [
+      "Sham's Villa, 1-51/46/2C",
+      "Bank Colony, Mahalaxmi Nager Pangra",
+      "Nizamabad",
+      "Telangana",
+      "503230"
+    ]
+  }
+}

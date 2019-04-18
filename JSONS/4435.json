@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "SOMESH PRATAP SINGH",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4435",
+  "name": "INSTITUTE OF SCIENCE & PROMPT COMPUTER SYSTEM",
+  "primaryEmail": "ngoispcs@rediffmail.com",
+  "website": "*",
+  "organisationType": [
+    "Grant-making"
+  ],
+  "telephone": [
+    "919425424350"
+  ],
+  "mainAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "KHANNA TOWER 2ND FLOOR ABOVE UNION BANK",
+      "SIRMOUR CHOWK",
+      "REWA",
+      "Rewa",
+      "Madhya Pradesh",
+      "486001"
+    ]
+  },
+  "briefDescription": "good service",
+  "yearOfEstablishment": "1998"
+}

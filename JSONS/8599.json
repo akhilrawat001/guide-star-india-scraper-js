@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Chitralee Bhattacharyya",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8599",
+  "name": "LAKSHYA",
+  "primaryEmail": "chitralee.lakshya@gmail.com",
+  "website": "www.lakshyatrust.org.in",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "919334122468",
+    "919430944243",
+    "917070812390"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "House No. 311, 1st Floor, Patliputra Colony - Patna-13.",
+      "Flat No. 101, Block - B, Girija Apartment, Opposite P.N.Anglo High School.",
+      "Patna",
+      "Bihar",
+      "800013"
+    ]
+  }
+}

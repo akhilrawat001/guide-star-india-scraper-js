@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Mr.Ashis Das",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8087",
+  "name": "EARTH CARE",
+  "primaryEmail": "earthcarekol@yahoo.co.in",
+  "organisationType": [
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "913322572365",
+    "913322572365"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Earth Care, 150",
+      "Muktaram Babu Street",
+      "Kolkata",
+      "West Bengal",
+      "700007"
+    ]
+  }
+}

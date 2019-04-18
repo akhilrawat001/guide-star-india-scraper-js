@@ -1,0 +1,51 @@
+{
+  "contacts": [
+    {
+      "name": "Anisha",
+      "email": "info@thelivelovelaughfoundation.org",
+      "designation": "Director",
+      "mobile": []
+    },
+    {
+      "name": "Anisha",
+      "email": "info@thelivelovelaughfoundation.org",
+      "designation": "Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8427",
+  "name": "The Live Love Laugh Foundation",
+  "primaryEmail": "info@thelivelovelaughfoundation.org",
+  "website": "http://www.thelivelovelaughfoundation.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Support"
+  ],
+  "telephone": [
+    "918041245860"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "703, 9th A Main Road, Indiranagar 1st Stage",
+      "Next to Chinmaya Mission Hospital",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560038"
+    ]
+  },
+  "briefDescription": "The foundation seeks to champion the cause of mental health in India, with a focus on depression in particular. Over the next few years, The Live Love Laugh Foundation will focus onIncreasing awareness of mental health issuesReducing the stigma around mental healthWork & collaborate with other NGOs in the field of mental healthEncourage research that would help design local solutions",
+  "yearOfEstablishment": "2015",
+  "regiseredAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "703, 9th A Main, Off CMH road Indiranagar",
+      "Next to Chinmaya Mission Hospital",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560066"
+    ]
+  }
+}

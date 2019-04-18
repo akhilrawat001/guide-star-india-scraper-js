@@ -1,0 +1,27 @@
+{
+  "contacts": [
+    {
+      "name": "SAROJ KUMAR PANIGRAHI",
+      "email": "sarojnada@gmail.com",
+      "designation": "Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4628",
+  "name": "Gopinath Swami Yuva Seva Sansad",
+  "primaryEmail": "gsyss@rediffmail.com",
+  "telephone": [
+    "918895668737"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "Gopinath Swami Yuva Seva Sansad At-Nada",
+      "P.O-Jagannath Prasad",
+      "GANJAM",
+      "Ganjam",
+      "Odisha",
+      "761121"
+    ]
+  }
+}

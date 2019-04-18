@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "MANNU CHAKRAWARTI",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7215",
+  "name": "GYAN SWAROOP WELFARE SOCIETY",
+  "primaryEmail": "gsws2015@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919425800087"
+  ],
+  "mainAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "97C, MAHAKAUSHAL NAGAR,",
+      "SARASWATI H.S. SCHOOL KE PASS, ADHARTAL",
+      "JABALPUR",
+      "Jabalpur",
+      "Madhya Pradesh",
+      "482004"
+    ]
+  }
+}

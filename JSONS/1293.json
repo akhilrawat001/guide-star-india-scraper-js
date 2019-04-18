@@ -1,0 +1,37 @@
+{
+  "contacts": [
+    {
+      "name": "A. Allirani",
+      "email": "vkgallirani@gmail.com",
+      "designation": "Treasurer",
+      "mobile": [
+        "91-4545-264005"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1293",
+  "name": "Valam Kundra Grama Munnetra Sangam",
+  "primaryEmail": "vkgmsu@gmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919600338264",
+    "914546261005"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "10/W2",
+      "R.C. Church Street,",
+      "Uppukkottai",
+      "Theni",
+      "Tamil Nadu",
+      "625534"
+    ]
+  }
+}

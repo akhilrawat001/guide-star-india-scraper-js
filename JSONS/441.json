@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "name": "Suprava Patra (Dr)",
+      "email": "suprava2008@rediffmail.com",
+      "designation": "Coordinator",
+      "mobile": [
+        "91-674-2384627"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=441",
+  "name": "Sahara for All",
+  "primaryEmail": "info@saharaforall.org",
+  "website": "http://www.saharaforall.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "916742384627",
+    "916742384627"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "HIG1/36, Satyasai Enclave",
+      "Bhubaneswar",
+      "Khordha",
+      "Odisha",
+      "751030"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Odisha",
+    "address": [
+      "Odisha"
+    ]
+  }
+}

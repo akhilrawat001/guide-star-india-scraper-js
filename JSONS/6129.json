@@ -1,0 +1,44 @@
+{
+  "contacts": [
+    {
+      "name": "PARMANAND MESHRAM",
+      "email": "nalandaorg1@gmail.com",
+      "designation": "SECRETARY",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6129",
+  "name": "NALANDA BAHUUDDESHIYA SHIKSHAN SANSTHA GEWARDHA",
+  "primaryEmail": "nalandaorg1@gmail.com",
+  "website": "nalandabss.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918698105806"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "BRAMHAPURI WADSA ROAD ARMORI",
+      "Care of SUYASH ACADEMY ARMORI",
+      "ARMORI",
+      "Gadchiroli",
+      "Maharashtra",
+      "441208"
+    ]
+  },
+  "briefDescription": "Nalanda Bahuuddeshiya Shikshan Sanstha is located in Gewardha, Tah Kurkheda Dist Gadchiroli Maharashtra.",
+  "yearOfEstablishment": "9112004",
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "BRAMHAPURI WADSA ROAD ARMORI",
+      "C/O SUYASH ACADEMY ARMORI",
+      "ARMORI",
+      "Gadchiroli",
+      "Maharashtra",
+      "441208"
+    ]
+  }
+}

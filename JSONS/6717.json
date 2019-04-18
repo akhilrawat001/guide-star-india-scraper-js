@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Atul Popatrao Mane Patil",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6717",
+  "name": "Usa Utpadak Sangh",
+  "primaryEmail": "usautpadaksangh@gmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning"
+  ],
+  "telephone": [
+    "919075463999"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "UsaBhavan,",
+      "Undergaon",
+      "Solapur",
+      "Maharashtra",
+      "413209"
+    ]
+  }
+}

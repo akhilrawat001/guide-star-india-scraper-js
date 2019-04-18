@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "Sushma D. Bhandarkar",
+      "email": "linkage@rediffmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3486",
+  "name": "Asara Education And Welfare Society",
+  "primaryEmail": "linkage@rediffmail.com",
+  "telephone": [
+    "912554256385",
+    "912554256385"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "202, Shriram Nagar,",
+      "Lane No-5 B Malegaon,",
+      "Malegaon",
+      "Nashik",
+      "Maharashtra",
+      "423203"
+    ]
+  }
+}

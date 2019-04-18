@@ -1,0 +1,37 @@
+{
+  "contacts": [
+    {
+      "name": "Manish Sharma",
+      "email": "er.manish90@outlook.com",
+      "designation": "Executive Director / Secretary",
+      "mobile": [
+        "91-9602324343"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9042",
+  "name": "PRAYAAS-CORPS",
+  "primaryEmail": "info@prayaascorps.com",
+  "website": "www.prayaascorps.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919602324343",
+    "917727048984"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "WZ-654/5-A G NO. 18 E, SADH NAGAR II, PALAM",
+      "NEW DELHI",
+      "New Delhi",
+      "Delhi",
+      "110045"
+    ]
+  },
+  "briefDescription": "Siksha Mission is one of the most drastic superlative initiative of Prayaas Corps. Realizing the hollowness of Indian education system and the weakness of Indian policies regarding this issue, the volunteers took a major step in educating the children. This education granting is different from what is provided to them in schools. This system of learning has the motto- \"Learn by Fun.\" The children of various age groups are made to learn things by plays and games. The things taught are always not necessarily based on their syllabus. Extra curricular activities and interest of the children are kept in mind and they are motivated ti gain perfection in them.",
+  "yearOfEstablishment": "2016"
+}

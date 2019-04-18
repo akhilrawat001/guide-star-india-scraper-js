@@ -1,0 +1,27 @@
+{
+  "contacts": [
+    {
+      "name": "PRAKASH CH SAHOO",
+      "email": "ashaorissa1997@gmail.com",
+      "designation": "SECRETARY",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5762",
+  "name": "ASSOCIATION OF SOCIAL HEALTH AWARENESS",
+  "primaryEmail": "ashaorissa1997@gmail.com",
+  "telephone": [
+    "916752233183",
+    "919853220682"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "NABAKALEBAR ROAD -ATHRANALA",
+      "PURI",
+      "Puri",
+      "Odisha",
+      "752002"
+    ]
+  }
+}

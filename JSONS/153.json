@@ -1,0 +1,35 @@
+{
+  "contacts": [
+    {
+      "name": "Ganesh Dubey",
+      "email": "gdubey@psi.org.in",
+      "designation": "Manager CP & RM",
+      "mobile": [
+        "91-9958159991"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=153",
+  "name": "Population Services International",
+  "primaryEmail": "gdubey@psi.org.in",
+  "website": "www.psi.org.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "911244726200",
+    "911204726200",
+    "919958159991"
+  ],
+  "mainAddrress": {
+    "state": "Haryana",
+    "address": [
+      "4th floor, Tower A",
+      "Building NO 10, DLF Cyber City, Phase-2",
+      "Gurgaon",
+      "Gurugram",
+      "Haryana",
+      "122001"
+    ]
+  }
+}

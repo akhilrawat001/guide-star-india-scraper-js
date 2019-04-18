@@ -1,0 +1,26 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8325",
+  "name": "Utkal Bidyarthi Abhijana (UBA)",
+  "primaryEmail": "ubaodisha@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919937804596",
+    "919437573371",
+    "916742549050"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "138/101, VIP Narayani Enclave,",
+      "VIP Area IRC Village, Nayapalli",
+      "Bhubaneswar",
+      "Khordha",
+      "Odisha",
+      "751015"
+    ]
+  }
+}

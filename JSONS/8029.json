@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Srikanta Mondal",
+      "email": "bolpurmanabjamin@gmail.com",
+      "designation": "Project In-Charge",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8029",
+  "name": "Bolpur Manab Jamin",
+  "primaryEmail": "bolpurmanabjamin@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919434375805"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "South Jambuni,",
+      "P.O.: Bolpur",
+      "Dist.: Birbhum",
+      "Birbhum",
+      "West Bengal",
+      "731204"
+    ]
+  }
+}

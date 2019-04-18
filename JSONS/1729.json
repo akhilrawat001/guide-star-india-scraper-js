@@ -1,0 +1,28 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1729",
+  "name": "The Eastern Edge Rural Development Society (TEERDS)",
+  "primaryEmail": "teerds@gmail.com",
+  "website": "www.teerds.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Support"
+  ],
+  "telephone": [
+    "916512502008",
+    "919031274414"
+  ],
+  "mainAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "HN-01",
+      "RN-01, JANPATH,SHUKLA COLONY, HINOO,",
+      "RANCHI",
+      "Ranchi",
+      "Jharkhand",
+      "834002"
+    ]
+  }
+}

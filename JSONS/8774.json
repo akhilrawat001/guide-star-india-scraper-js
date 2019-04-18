@@ -1,0 +1,35 @@
+{
+  "contacts": [
+    {
+      "name": "Arvind Rathod",
+      "email": "vone_society@yahoo.com",
+      "designation": "Manager Administration",
+      "mobile": [
+        "91-9825028343"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8774",
+  "name": "V- ONE SOCIETY",
+  "primaryEmail": "vone_society@yahoo.com",
+  "website": "http://www.vonesociety.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "912652791621",
+    "912652791621"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "Bhumij Complex",
+      "Near Municipal School No.6 , B/h Rangoli Restaurant, Fatehgunj",
+      "Vadodara",
+      "Gujarat",
+      "390002"
+    ]
+  },
+  "briefDescription": "* Assistance for artificial limbs, aids, appliances & post operative medicines* Assistance for Education, Employment & Self Employment* Holds camps in remote villages of Gujarat* Recreation & Rehabilitation Programme.* Computer classes on the premises.*Marriage Counselling.*Physiotherapy Centre on the premises.*Dissemination of information regarding benefits to the disabled & help in availing them.",
+  "yearOfEstablishment": "1972"
+}

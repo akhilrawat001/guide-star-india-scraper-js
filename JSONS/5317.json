@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Mr Ravi N Wanklhade",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "8806230796"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5317",
+  "name": "AADIM GROUP ACTION DEVELOPMENT FOR MASS MOVEMENT",
+  "primaryEmail": "admgrp@rediffmail.com",
+  "website": "NIL",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918806230796",
+    "918605646628"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "gajanan nagar back of mahadev khori amravati",
+      "amravati",
+      "Amravati",
+      "Maharashtra",
+      "444606"
+    ]
+  }
+}

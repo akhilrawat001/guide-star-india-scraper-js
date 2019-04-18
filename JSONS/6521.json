@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "N P SINGH TOMAR",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6521",
+  "name": "MUDRA SOCIAL WELFARE SOCIETY SAMITI",
+  "primaryEmail": "npsinghtomar@yahoo.com",
+  "website": "www.mudrasws.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "917869060047"
+  ],
+  "mainAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "D-50",
+      "RISHINAGAR MAIN ROAD",
+      "UJJAIN",
+      "Ujjain",
+      "Madhya Pradesh",
+      "456010"
+    ]
+  }
+}

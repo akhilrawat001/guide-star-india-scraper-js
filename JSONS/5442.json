@@ -1,0 +1,40 @@
+{
+  "contacts": [
+    {
+      "name": "ARATI JAISWAL",
+      "email": "msjvs@yahoo.com",
+      "designation": "SECRETARY",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5442",
+  "name": "MAHILA SHISHU JAN VIKAS SAMITI ISPAT NAGAR",
+  "primaryEmail": "msjvs.arti@gmail.com",
+  "website": "www.msjvs.org.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919431742945"
+  ],
+  "mainAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "Sukhdeo Nagar, Ward No-17, Chas Bokaro",
+      "Bokaro",
+      "Jharkhand",
+      "827013"
+    ]
+  },
+  "briefDescription": "Mahila Shishu Jan Vikas Samiti Ispat Nagar is located in Jharkhand.Mahila Sishu Jan Vikas Samiti Ispat Nagar (MSJVSIN) is a NGO established by a group of committed women activists who have deep social concern to work for the promotion of an egalitarian society based on the principles of equality and justice. MSJVSIN came into existence in 2007 in Bokaro district in Jharkhand State to run constructive socio-economic programs for the men, women, children, youth, disabled, farmers and other needy section of the society for their progress and development.MSJVSIN aspires for the promotion of an egalitarian society based on the values of equality, fraternity and mutual help. MSJVSIN stands for organizing and empowering the poor and marginalized people to promote development as a liberating force for achieving social justice, economic growth and self-reliance.MSJVSIN strategy is to empower the people of the deprived and marginalized section of the society and ensure their access to local resources. The strategy is such that they should actively participate in program planning and implementation.",
+  "yearOfEstablishment": "1992",
+  "regiseredAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "Sec-9B, Street-12, Qtr. No.-305",
+      "Bokaro",
+      "Jharkhand",
+      "827009"
+    ]
+  }
+}

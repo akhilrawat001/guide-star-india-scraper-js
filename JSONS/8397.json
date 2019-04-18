@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Kalu Charan Rout",
+      "email": "adarshakural@gmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8397",
+  "name": "Adarsha",
+  "primaryEmail": "adarshakural@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919777300656"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "Totasahi",
+      "Kural",
+      "Nayagrh",
+      "Nayagarh",
+      "Odisha",
+      "752090"
+    ]
+  }
+}

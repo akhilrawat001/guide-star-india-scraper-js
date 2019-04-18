@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "T.K. Omana",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4404",
+  "name": "RASTA (Rural Agency for Social and Technological Advancement)",
+  "primaryEmail": "rastawayanad@gmail.com",
+  "website": "www.rastaindia.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "914936286725",
+    "914936286725"
+  ],
+  "mainAddrress": {
+    "state": "Kerala",
+    "address": [
+      "Rural Agency for Social and Technological Advancement Kambalakkad P.O",
+      "Kalpetta",
+      "Wayanad",
+      "Kerala",
+      "673121"
+    ]
+  }
+}

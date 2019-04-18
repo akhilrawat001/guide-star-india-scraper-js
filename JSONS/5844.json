@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Rajesh Vijay Bhoite",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5844",
+  "name": "ABHINAV SHAIKSHANIK VA BAHUUDDESHIYA SANSTHA",
+  "primaryEmail": "r_bhoite@yahoo.com",
+  "website": "none",
+  "organisationType": [
+    "Grant-making",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919923223380"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Virar Nagar Yawal Tal Yawal",
+      "Bus Stand Behind Yawal",
+      "Yawal",
+      "Jalgaon",
+      "Maharashtra",
+      "425301"
+    ]
+  }
+}

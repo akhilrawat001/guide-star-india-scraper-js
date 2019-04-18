@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Lata Jha",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6161",
+  "name": "Greenosonic Foundation",
+  "primaryEmail": "greenosonic@gmail.com",
+  "website": "www.greenosonic.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "912225964790",
+    "912225964790"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "403, RLA. Tower",
+      "Tank Road",
+      "Bhandup West",
+      "Mumbai",
+      "Maharashtra",
+      "400078"
+    ]
+  }
+}

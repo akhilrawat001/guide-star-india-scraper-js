@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Martin Sloot",
+      "email": "marin.sloot@new-delhi.msf.org",
+      "designation": "Director General",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4308",
+  "name": "MEDECINS SANS FRONTIERES INDIA",
+  "primaryEmail": "DonorService@new-delhi.msf.org",
+  "website": "http://msfindia.in/",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service"
+  ],
+  "telephone": [
+    "918860084547",
+    "911140567329"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "C-162, FIRST FLOOR",
+      "DEFENCE COLONY",
+      "NEW DELHI",
+      "South Delhi",
+      "Delhi",
+      "110024"
+    ]
+  }
+}

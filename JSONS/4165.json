@@ -1,0 +1,38 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4165",
+  "name": "Center of Human Action for Novel Development",
+  "primaryEmail": "chand_org@yahoo.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919553480380"
+  ],
+  "mainAddrress": {
+    "state": "Telangana",
+    "address": [
+      "9-1-30/5,",
+      "Flat No.22,IIFloor,Wadhumal Mansion,S.P.Road,opp:Civil Court",
+      "Secunderabad",
+      "Hyderabad",
+      "Telangana",
+      "500010"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Telangana",
+    "address": [
+      "1-3-49/51/3/102.Sai chandana residency,",
+      "Opp:ZP Girls High school",
+      "Old Alwal,Secunderabad",
+      "Hyderabad",
+      "Telangana",
+      "500003"
+    ]
+  }
+}

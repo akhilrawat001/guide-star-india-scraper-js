@@ -1,0 +1,37 @@
+{
+  "contacts": [
+    {
+      "name": "Asmi Vijay Shah",
+      "email": "",
+      "designation": "Managing Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=281",
+  "name": "Kinnari Foundation",
+  "primaryEmail": "info@kinnaricentre.com",
+  "website": "http://www.kinnaricentre.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "912223673914",
+    "919821043501",
+    "912224966555"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Bhulabhai Desai Road, Next to Tata Garden",
+      "Mumbai",
+      "Maharashtra",
+      "400026"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Maharashtra"
+    ]
+  }
+}

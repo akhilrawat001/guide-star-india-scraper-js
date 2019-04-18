@@ -1,0 +1,40 @@
+{
+  "contacts": [
+    {
+      "name": "Shabnam",
+      "email": "info@vishakhawe.org",
+      "designation": "Resource team member",
+      "mobile": [
+        "91-141-2703725"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=513",
+  "name": "Vishakha Mahila Shiksha Avam Shodh Samiti",
+  "primaryEmail": "vishakhawe@dataone.in",
+  "website": "http://www.vishakhawe.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "911415172422",
+    "911412703725",
+    "911415172422"
+  ],
+  "mainAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "9 Pratap Nagar Colony, Near Glass Factory",
+      "Tonk Road",
+      "Jaipur",
+      "Rajasthan",
+      "203018"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "Rajasthan"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Mr.Sebastian Kasughar",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7503",
+  "name": "THE POWER OF GOD PRAYER TRUST",
+  "primaryEmail": "powerofgod532@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919821414660"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Uttan Bhotodi Bunder",
+      "Gothani Road, Behind Mother India Building",
+      "Uttan P.O,Bhayander -West",
+      "Thane",
+      "Maharashtra",
+      "401106"
+    ]
+  }
+}

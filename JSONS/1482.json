@@ -1,0 +1,36 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1482",
+  "name": "Institute of Integrated Development",
+  "primaryEmail": "iiddirector@yahoo.co.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "917122745152",
+    "919823245684"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "394",
+      "New Subhedar Lay Out, ,",
+      "Nagpur",
+      "Maharashtra",
+      "440024"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "23,",
+      "Ambazhari Lay Out,",
+      "Nagpur",
+      "Maharashtra",
+      "440010"
+    ]
+  }
+}

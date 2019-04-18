@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "A.SUDIR NAIK",
+      "email": "hswshyd@gmail.com",
+      "designation": "PRESIDENT",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4751",
+  "name": "HELPING SOCIETY FOR WEAKER SECTION",
+  "primaryEmail": "hswshyd@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919441293158"
+  ],
+  "mainAddrress": {
+    "state": "Telangana",
+    "address": [
+      "H.NO.8-2-3, OLD KHARMANGHAT VILLAGE, KHARMANGHAT, HYDERBAD.",
+      "HYDERABAD",
+      "Hyderabad",
+      "Telangana",
+      "500079"
+    ]
+  }
+}

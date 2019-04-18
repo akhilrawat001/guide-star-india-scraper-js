@@ -1,0 +1,42 @@
+{
+  "contacts": [
+    {
+      "name": "V Sivasankara Rao",
+      "email": "",
+      "designation": "Executive Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=432",
+  "name": "RAKSHANA (Rural Action to Keep Safe Heritage and Natural Assets)",
+  "primaryEmail": "rakshana_in@rediffmail.com",
+  "website": "http://www.giveindia.org/GetOrganisationProfile.aspx?ngoid=891",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "918594233453",
+    "918594233453"
+  ],
+  "mainAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "D No 22-15-24, Thomaspet",
+      "Chirala",
+      "Prakasam",
+      "Andhra Pradesh",
+      "523155"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "RAKSHANA",
+      "Koyavaripalem",
+      "Guntur",
+      "Andhra Pradesh",
+      "522019"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "contacts": [
+    {
+      "name": "Faizan Khan",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8689",
+  "name": "BHARTIYA JAN JEEVAN KALYAN SEWA SAMITI",
+  "primaryEmail": "bhartiyajanjeevan@gmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919235270166",
+    "919696710007"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "1/2 Akhtar Khan Collony, Chhaturi Bahadurganj",
+      "Magdapur Road",
+      "Chhaturi",
+      "Lakhimpur Kheri",
+      "Uttar Pradesh",
+      "262804"
+    ]
+  },
+  "briefDescription": "Animal Husbandry, Dairying & Fisheries, Aged/Elderly, Agriculture, Art & Culture, Biotechnology, Children, Civic Issues, Differently Abled, Disaster Management, Dalit Upliftment, Drinking Water, Education & Literacy, Environment & Forests, Food Processing, Health & Family Welfare, HIV/AIDS, Housing, Human Rights, Information & Communication Technology, Legal Awareness & Aid, Labour & Employment, Land Resources, Micro Finance (SHGs), Minority Issues, Micro Small & Medium Enterprises,",
+  "yearOfEstablishment": "2006"
+}

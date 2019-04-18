@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "SHYAMAL SARKAR",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7085",
+  "name": "TARASANKAR PANCHA GRAM SEVA SAMITI",
+  "primaryEmail": "tpss.lab@gmail.com",
+  "website": "www.tpss.org.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919474010191"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "TARASANKAR PANCHAGRAM SEVA SAMITI",
+      "LABPUR BABUPARA NEAR LABPUR POLICE STATION",
+      "LABPUR",
+      "Birbhum",
+      "West Bengal",
+      "731303"
+    ]
+  },
+  "briefDescription": "The Tarasankar  Panchagram  Seva Samiti is a Social welfare organization of local repute. We have formed the organization to actively participate in various rural Development activities. All these Socio-economic programmed are among the  general public of the locality.",
+  "yearOfEstablishment": "2002"
+}

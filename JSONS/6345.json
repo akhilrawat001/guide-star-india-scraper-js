@@ -1,0 +1,38 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6345",
+  "name": "HUMAN PRIDE CHARITABLE TRUST",
+  "primaryEmail": "humanpridetrust@gmail.com",
+  "website": "www.humanpride.strikingly.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "918108030050"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Flat No. 506, Jasvand Building No.4, Virar Garden, Virar West",
+      "Bolinj Road , Virar West",
+      "Virar",
+      "Thane",
+      "Maharashtra",
+      "401303"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "92/65, B.D.D CHAWL, WORLI",
+      "WAKRIKAR MARG",
+      "MUMBAI",
+      "Mumbai",
+      "Maharashtra",
+      "400018"
+    ]
+  }
+}

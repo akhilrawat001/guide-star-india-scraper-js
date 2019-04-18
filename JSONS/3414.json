@@ -1,0 +1,47 @@
+{
+  "contacts": [
+    {
+      "name": "Manoj Kumar Verma",
+      "email": "kksansthan@gmail.com",
+      "designation": "Accountant",
+      "mobile": [
+        "91-9044520760"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3414",
+  "name": "Kranti Kalyan Sansthan",
+  "primaryEmail": "kksansthan@gmail.com",
+  "website": "http://www.krantisansthan.com/",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919919030944"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "610/11, Keshav Nagar",
+      "Sitapur Road",
+      "Lucknow",
+      "Uttar Pradesh",
+      "226020"
+    ]
+  },
+  "briefDescription": "Kranti Kalyan Sansthan is working on issues affecting the urban and rural poor, with a special focus on Agriculture and education.Uttar Pradesh is one the poor state of India and farmers of the state are still following the old traditional method of the farming.Our main focus is to educate them about the latest technology/methods available for doing farming. We have a dedicated team and member of the team are highly qualified and have a long experience in the agriculture area. The other focus of the Kranti Kalyan Sansthan is education. We have started a school in the village so that children can easily take the education.",
+  "yearOfEstablishment": "2009",
+  "regiseredAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "Village -Bhatauli",
+      "Post- Ausgawna",
+      "District-Ambedkar Nagar",
+      "Ambedkar Nagar",
+      "Uttar Pradesh",
+      "224157"
+    ]
+  }
+}

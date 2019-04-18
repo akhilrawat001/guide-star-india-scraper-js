@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Ms.Sushanta Kumar Mahapatra",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7155",
+  "name": "Tagore Academy of Life long Learning",
+  "primaryEmail": "talllindia@gmail.com",
+  "website": "www.tall.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Network"
+  ],
+  "telephone": [
+    "919836690108"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "126,SOUTHEND PARK,",
+      "POST-PAILAN",
+      "Kolkata",
+      "South 24 Parganas",
+      "West Bengal",
+      "700104"
+    ]
+  }
+}

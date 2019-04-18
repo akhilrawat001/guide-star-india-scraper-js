@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "name": "MRK Kishore",
+      "email": "",
+      "designation": "Founder & Managing Trustee",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9187",
+  "name": "SAI ANUGRAHA",
+  "primaryEmail": "info@saianugraha.org",
+  "website": "https://srisaianugraha.blogspot.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "18602786665"
+  ],
+  "mainAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "M.V.L.N. Murthy, Flat No-101, Shri Dwarakamayee, LGH Complex - 2 , Srinivasa Nagar, Near MSN Colony",
+      "Vizianagaram",
+      "Andhra Pradesh",
+      "535002"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "Plot No1, Door No 5A, Kalai Magal Street",
+      "Puzhuthivakkam",
+      "Chennai",
+      "Tamil Nadu",
+      "600091"
+    ]
+  }
+}

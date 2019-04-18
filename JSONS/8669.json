@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Lambodar Dalai",
+      "email": "",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8669",
+  "name": "VIVEK BHARATI SEVASHRAM",
+  "primaryEmail": "vivekbharatisevaashram@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919439333259"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "AT-DAGARAPADA",
+      "VIA-TURIGADIA",
+      "P.S-KHAIRA",
+      "Baleswar",
+      "Odisha",
+      "756047"
+    ]
+  }
+}

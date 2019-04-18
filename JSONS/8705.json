@@ -1,0 +1,37 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8705",
+  "name": "Nature Conservation And Human Welfare Society",
+  "primaryEmail": "nchws_etw@rediffmail.com",
+  "website": "www.nchws.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919411018480",
+    "919690136773"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "140,",
+      "Vijay Nagar",
+      "Etawah",
+      "Uttar Pradesh",
+      "206001"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "140,",
+      "Vijay Nagar",
+      "Etawah City",
+      "Etawah",
+      "Uttar Pradesh",
+      "206001"
+    ]
+  }
+}

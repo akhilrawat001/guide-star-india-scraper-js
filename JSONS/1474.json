@@ -1,0 +1,37 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1474",
+  "name": "VATSA BHARATI",
+  "primaryEmail": "vatsabharati@rediffmail.com",
+  "website": "http://www.vatsabharati.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Intermediary",
+    "Support"
+  ],
+  "telephone": [
+    "916212278882",
+    "916212278882"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "1St Floor",
+      "A.K. Complex, Aghoria Bazar Chowk,",
+      "Muzaffarpur",
+      "Bihar",
+      "842002"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Bihar",
+    "address": [
+      "Banrup Ashray,",
+      "Madopur Govind",
+      "Mehsi",
+      "East Champaran",
+      "Bihar",
+      "845426"
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "DENSON JOSEPH",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5977",
+  "name": "JAGRUK NAGRIK SURAKSHA SANGATHAN",
+  "primaryEmail": "INFO.JNSS@GMAIL.COM",
+  "website": "WWW.JNSS.IN",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919313835345"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "B-134-136, AMBEDKAR COLONY, CHATTARPUR,",
+      "NEW DELHI",
+      "South Delhi",
+      "Delhi",
+      "110074"
+    ]
+  }
+}

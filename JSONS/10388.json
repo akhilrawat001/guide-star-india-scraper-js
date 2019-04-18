@@ -1,0 +1,33 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10388",
+  "name": "SWASTHGRAM",
+  "primaryEmail": "projectmanager@swasthgram.com",
+  "website": "www.swasthgram.com",
+  "organisationType": [
+    "Grant-making"
+  ],
+  "telephone": [
+    "+919873737062"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "424 CMR Building Govt School",
+      "Ghitorani Village",
+      "South Delhi",
+      "Delhi",
+      "110030"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "11/9, 3rd Floor Indra Vikas Colony",
+      "New Delhi",
+      "North West Delhi",
+      "Delhi",
+      "110009"
+    ]
+  }
+}

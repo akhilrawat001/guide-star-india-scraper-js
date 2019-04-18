@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Rajeev Ranjan",
+      "email": "",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8477",
+  "name": "HIFAZAT",
+  "primaryEmail": "hifazatgaya2001@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919304147512"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "Vikas Bhawan,",
+      "Makhara Niwas,",
+      "PO-Buniyadganj",
+      "Gaya",
+      "Bihar",
+      "824323"
+    ]
+  }
+}

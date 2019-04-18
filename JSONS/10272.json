@@ -1,0 +1,41 @@
+{
+  "contacts": [
+    {
+      "name": "Ankit Manchanda",
+      "email": "team@booksforall.org.in",
+      "designation": "Founder",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10272",
+  "name": "GUZARISH",
+  "primaryEmail": "team@booksforall.org.in",
+  "website": "http://booksforall.org.in/",
+  "organisationType": [
+    "Direct Service",
+    "Network"
+  ],
+  "telephone": [
+    "917042111717"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "G-45, First Floor, Bali Nagar",
+      "New Delhi",
+      "West Delhi",
+      "Delhi",
+      "110015"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "2/194 Subhash Nagar",
+      "New Delhi",
+      "West Delhi",
+      "Delhi",
+      "110027"
+    ]
+  }
+}

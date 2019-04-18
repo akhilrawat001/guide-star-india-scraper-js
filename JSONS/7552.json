@@ -1,0 +1,26 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7552",
+  "name": "Swami Vivekananda Yuva Foundation",
+  "primaryEmail": "jitendra@svyuvafoundation.com",
+  "website": "www.svyuvafoundation.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919175937700",
+    "918087074891"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Arounaday Colony Plot no.8/A",
+      "Near Bed Collage , Old Shirpur Road",
+      "Chopda",
+      "Jalgaon",
+      "Maharashtra",
+      "425107"
+    ]
+  }
+}

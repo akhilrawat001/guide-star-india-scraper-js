@@ -1,0 +1,25 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2163",
+  "name": "LIFE FOUNDATION",
+  "primaryEmail": "lifefoundationngo@gmail.com",
+  "website": "http://www.lifefoundationngo.org.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919862059664"
+  ],
+  "mainAddrress": {
+    "state": "Assam",
+    "address": [
+      "Purba Dhaniram Pathar",
+      "Post Office: Telebosti",
+      "Nagaon",
+      "Assam",
+      "782435"
+    ]
+  },
+  "briefDescription": "Life Foundation forms Self Help Groups (SHGs) for women empowerment in Hojai.",
+  "yearOfEstablishment": "2011"
+}

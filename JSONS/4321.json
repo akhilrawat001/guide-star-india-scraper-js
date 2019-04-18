@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Premananda Mishra",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4321",
+  "name": "Organisation for Social Research and Development (OSRD)",
+  "primaryEmail": "osrdodisha@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919438738315"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "Jamutia",
+      "Kushmel",
+      "Chandanbhati",
+      "Balangir",
+      "Odisha",
+      "767065"
+    ]
+  }
+}

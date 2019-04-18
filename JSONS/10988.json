@@ -1,0 +1,37 @@
+{
+  "contacts": [
+    {
+      "name": "Vijayalakshmy Krishnan",
+      "email": "vijayalakshmy.krishnan@gmail.com",
+      "designation": "Director",
+      "mobile": []
+    },
+    {
+      "name": "Vijayalakshmy Krishnan",
+      "email": "vijayalakshmy.krishnan@gmail.com",
+      "designation": "Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10988",
+  "name": "SAI KRUSHNA CHARITABLE TRUST",
+  "primaryEmail": "vinod.cartic@gmail.com",
+  "website": "http://www.saikrushnacharitabletrust.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919663222362"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "S. No. 93/1, Sai Krushna Mandir",
+      "Hosadoddi Village, Off Kanakapura Main Road, Bolare Post",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560082"
+    ]
+  }
+}

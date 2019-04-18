@@ -1,0 +1,38 @@
+{
+  "contacts": [
+    {
+      "name": "P N Wath",
+      "email": "",
+      "designation": "Secretary",
+      "mobile": []
+    },
+    {
+      "name": "P N Wath",
+      "email": "",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2971",
+  "name": "Community Action for Rural Development Society (CARDS)",
+  "primaryEmail": "cardanj1@gmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service"
+  ],
+  "telephone": [
+    "917224242445",
+    "917224242445"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Ladhole Bhuvan",
+      "Near resr House",
+      "A/P Anjangaon Surji",
+      "Amravati",
+      "Maharashtra",
+      "444705"
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Dr.K.S.MD ASMATHULLA",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6551",
+  "name": "Integrated People Development Project",
+  "primaryEmail": "ipdp_ngo@rediffmail.com",
+  "website": "www.ipdptrust.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "914343251303",
+    "914343251303"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "29/41, Bharathi Nagar, New Pet, Krishnagiri, Tamil Nadu",
+      "Krishnagiri",
+      "Tamil Nadu",
+      "635001"
+    ]
+  }
+}

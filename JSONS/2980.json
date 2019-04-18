@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Dr. Jyotsna Chatterji",
+      "email": "jwp@airtelmail.in",
+      "designation": "Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2980",
+  "name": "Joint Women's Programme",
+  "primaryEmail": "jwp@airtelmail.in",
+  "website": "http://www.jwpindia.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Support"
+  ],
+  "telephone": [
+    "91981001752"
+  ],
+  "mainAddrress": {
+    "state": "Haryana",
+    "address": [
+      "Apt. 201, BLOCK 44,",
+      "HERITAGE CITY COMPLEX, M.G. ROAD,",
+      "GURGAON",
+      "Gurugram",
+      "Haryana",
+      "122002"
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7223",
+  "name": "Centre for Development Service",
+  "primaryEmail": "cdsorissa@yahoo.co.in",
+  "website": "www.cdsorissa.org",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919937683561"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "Plot No.3652/12",
+      "Prachi Vihar,Palasuni, P.O-GGP",
+      "Bhubaneshwar",
+      "Khordha",
+      "Odisha",
+      "751025"
+    ]
+  },
+  "briefDescription": "Centre for Development Service (CDS) is a social developmental organisation with its registered office located at Banarpal in Angul district of Odisha. It is working currently in Angul & Khurda district of Odisha. Intervention areas are child education, livelihood, water , sanitation & hygiene (WASH),agriculture etc.",
+  "yearOfEstablishment": "1998",
+  "regiseredAddrress": {
+    "state": "Odisha",
+    "address": [
+      "Centre for Development Service",
+      "Jagannath Nagar",
+      "Banarpal",
+      "Angul",
+      "Odisha",
+      "759128"
+    ]
+  }
+}

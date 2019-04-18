@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Manohar Gyaniram Uikey",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8897",
+  "name": "ADIVASI SWAYAM KALA SANSTHA",
+  "primaryEmail": "askssalekasa@gmail.com",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "919423113365"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Uikey Shilpgram Salekasa Post + Tah. Salekasa",
+      "Salekasa",
+      "Gondia",
+      "Maharashtra",
+      "441916"
+    ]
+  }
+}

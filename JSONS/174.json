@@ -1,0 +1,35 @@
+{
+  "contacts": [
+    {
+      "name": "Sheela Jayanthi",
+      "email": "karnaprayag@vsnl.net",
+      "designation": "Director",
+      "mobile": [
+        "91-44-24355182"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=174",
+  "name": "Karna Prayag Trust",
+  "primaryEmail": "karnaprayag@vsnl.net",
+  "website": "www.karnaprayag.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "914424355182",
+    "914424355182",
+    "919884092427",
+    "914424344485"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "No. 10, Raja Krishna Road",
+      "Teynampet",
+      "Chennai",
+      "Tamil Nadu",
+      "600018"
+    ]
+  }
+}

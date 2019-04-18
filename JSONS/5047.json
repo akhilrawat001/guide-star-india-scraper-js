@@ -1,0 +1,51 @@
+{
+  "contacts": [
+    {
+      "name": "Srinivas Kalaveni",
+      "email": "kalaveni.svas@gmail.com",
+      "designation": "General Secretary",
+      "mobile": []
+    },
+    {
+      "name": "Srinivas Kalaveni",
+      "email": "kalaveni.svas@gmail.com",
+      "designation": "General Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5047",
+  "name": "EARTH FOUNDATION",
+  "primaryEmail": "earthfoundation7@gmail.com",
+  "website": "http://www.earthindia.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service"
+  ],
+  "telephone": [
+    "919542849777"
+  ],
+  "mainAddrress": {
+    "state": "Telangana",
+    "address": [
+      "6-75",
+      "THOGARRAI",
+      "SULTHANABAD",
+      "Karimnagar",
+      "Telangana",
+      "505185"
+    ]
+  },
+  "briefDescription": "Our mission is to improve quantitative and qualitative education in backward villages thus transforming children to become quality individuals to help form a more complete society and thus a more complete INDIA. Currently we adopted 4 villages which accounts for about 350 students in total. Our model is to adopt backward villages, develop the education quantitatively and qualitatively (from ground/root level) until the villages become self-sustaining, and then put these villages in monitoring phase and go on to other villages. Our work is 2-fold in our adopted villages:1.(Qualitative) Work towards childrens' growth in academics, sports, arts, personality, health.2.(Quantitative) Mobilize villagers (esp. parents) for a permanent change.",
+  "yearOfEstablishment": "2012",
+  "regiseredAddrress": {
+    "state": "Telangana",
+    "address": [
+      "6-75",
+      "THOGARRAI",
+      "SULTHANABAD",
+      "Karimnagar",
+      "Telangana",
+      "505185"
+    ]
+  }
+}

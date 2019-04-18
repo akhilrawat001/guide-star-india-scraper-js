@@ -1,0 +1,41 @@
+{
+  "contacts": [
+    {
+      "name": "Nethala Ramesh babu",
+      "email": "nrb_freesociety@yahoo.com",
+      "designation": "President&Correspondent",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5048",
+  "name": "FOUNDATION FOR RURAL EDUCATION & ECONOMICAL (FREE) SOCIETY",
+  "primaryEmail": "nrb_freesociety@yahoo.com",
+  "website": "no",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "9440596310"
+  ],
+  "mainAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "7c-11-1/20 ,PhillHouse pet",
+      "EastrenSteet",
+      "Eluru ,",
+      "West Godavari",
+      "Andhra Pradesh",
+      "534001"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "not provided",
+      "Eluru",
+      "West Godavari",
+      "Andhra Pradesh",
+      "534001"
+    ]
+  }
+}

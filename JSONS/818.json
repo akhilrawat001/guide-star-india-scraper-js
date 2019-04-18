@@ -1,0 +1,34 @@
+{
+  "contacts": [
+    {
+      "name": "P Sundarraj",
+      "email": "online@meenakshimission.org",
+      "designation": "Sr Manager R & D",
+      "mobile": [
+        "91-9952405440"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=818",
+  "name": "SR Trust",
+  "primaryEmail": "online@meenakshimission.org",
+  "website": "www.meenakshimission.org",
+  "organisationType": [
+    "Direct Service",
+    "Network"
+  ],
+  "telephone": [
+    "914522586353",
+    "914524263000",
+    "914522588741"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "Lake Area, Melur Road",
+      "Madurai",
+      "Tamil Nadu",
+      "626107"
+    ]
+  }
+}

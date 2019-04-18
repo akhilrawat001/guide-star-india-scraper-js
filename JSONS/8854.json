@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "S.Saraswathi",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8854",
+  "name": "AWARD (ACTION FOR WELFARE AND AWAKENING IN RURAL DEVELOPMENT)",
+  "primaryEmail": "awardtrustindia@gmail.com",
+  "website": "www.awardtrust.org.in",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "918220079022"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "6,Ganapathinagar,Extension",
+      "Vadalur",
+      "Cuddalore",
+      "Tamil Nadu",
+      "607303"
+    ]
+  }
+}

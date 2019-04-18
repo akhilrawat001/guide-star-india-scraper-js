@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Lalitha.N",
+      "email": "myradahutur@yahoo.co.in",
+      "designation": "CMRC Assistant",
+      "mobile": [
+        "91-9481534464"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1783",
+  "name": "Kamadhenu Samudhaya Nirvahana Sampanmula Samsthe",
+  "primaryEmail": "myradahuthur@gmail.com",
+  "telephone": [
+    "918224265322",
+    "918224265322"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "Bandalli Village & Post",
+      "Kollegal Taluk,",
+      "Chamrajnagar",
+      "Chamarajanagar",
+      "Karnataka",
+      "571493"
+    ]
+  }
+}

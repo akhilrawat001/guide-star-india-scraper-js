@@ -1,0 +1,30 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2165",
+  "name": "LOTUS MEDICAL FOUNDATION",
+  "primaryEmail": "lotusmedicalfoundation@yahoo.co.in",
+  "website": "www.lotusmedicalfoundation.org",
+  "telephone": [
+    "912312692411",
+    "912312536611"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "1654, 8th lane rajarampuri",
+      "10th lane, rajarampuri,",
+      "Kolhapur",
+      "Maharashtra",
+      "416408"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "61, Shivaji Housing society,10th lane, rajarampuri, kolhapur 416408",
+      "Kolhapur",
+      "Maharashtra",
+      "416008"
+    ]
+  }
+}

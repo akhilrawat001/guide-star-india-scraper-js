@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "Amruta",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "27270744"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4753",
+  "name": "Janvikas Pratishthan",
+  "primaryEmail": "nandinidatar@gmail.com",
+  "website": "http:// www.janvikaspratishthan.org",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "912027270744",
+    "912027270744"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "A / 102 Planet Millennium, Near Rakshak Society",
+      "Pimple Saudagar, Aundh Camp",
+      "Pune",
+      "Maharashtra",
+      "411027"
+    ]
+  },
+  "briefDescription": "We are an organization working at the grassroot level with marginalized communities in rural areas of Pune and Konkan District in Maharashtra.We believe that 'everything is connected' and work on multifarious issues such as women empowerment through micro-credit, gender education,holistic health and sanitation,livelihoods and vocational education etc. We also work in urban slums in Pune city.",
+  "yearOfEstablishment": "1993"
+}

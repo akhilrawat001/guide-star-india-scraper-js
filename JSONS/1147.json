@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "T.P.Jain",
+      "email": "",
+      "designation": "Chief Executive",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1147",
+  "name": "Positive Women Network of Rajasthan Society (PWNR + Society)",
+  "primaryEmail": "pwnrplus@rediffmail.com",
+  "website": "www.pwnrplus.org",
+  "telephone": [
+    "911414033848",
+    "911414033848"
+  ],
+  "mainAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "65 Shripuram Colony Gurjar Ki Thari",
+      "Gopalpura Bye Pass Post Office Shyam Nagar",
+      "Jaipur",
+      "Rajasthan",
+      "302019"
+    ]
+  }
+}

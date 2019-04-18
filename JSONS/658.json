@@ -1,0 +1,48 @@
+{
+  "contacts": [
+    {
+      "name": "Joseph Appavoo (Fr)",
+      "email": "jappavoo@yahoo.co.in",
+      "designation": "Secretary & Executive Director",
+      "mobile": [
+        "91-9825953865"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=658",
+  "name": "Kaira Social Service Society",
+  "primaryEmail": "kairasss@gmail.com",
+  "website": "www.kairasociety.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "917922861216",
+    "917922861215",
+    "919825953865"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "St Xavier's School Compound, Hansol",
+      "Sardarnagar",
+      "Ahmedabad",
+      "Gujarat",
+      "383315"
+    ]
+  },
+  "briefDescription": "Promotion of Justice, Peace, Develoment and Human Rights especially of women and children Direct Beneficiaries (yearly) : more than one LacsIndirect Beneficiaries (Yearly) : More than Crore",
+  "yearOfEstablishment": "1967",
+  "regiseredAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "Care of St Mary's School, Nadiad (Post)",
+      "Kheda",
+      "Gujarat",
+      "387320"
+    ]
+  }
+}

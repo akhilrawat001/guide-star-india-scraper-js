@@ -1,0 +1,40 @@
+{
+  "contacts": [
+    {
+      "name": "RUDREHSA KH",
+      "email": "socialwayrural@ymail.com",
+      "designation": "SECRATARY",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5309",
+  "name": "SOCIAL WAY RURAL DEVELOPMENT SOCIETY",
+  "primaryEmail": "socialwayrural@ymail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919844634859"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "No.24/7, SAKUTUMBA NILAYA , NEAR RAMALINGESHWARA TEMPAL",
+      "NEAR RAMALINGESHWARA TEMPAL",
+      "KOTTUR,",
+      "Ballari (Bellary)",
+      "Karnataka",
+      "583134"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "Not Provided",
+      "KOTTUR,",
+      "Ballari (Bellary)",
+      "Karnataka",
+      "583134"
+    ]
+  }
+}

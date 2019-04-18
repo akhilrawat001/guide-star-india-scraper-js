@@ -1,0 +1,27 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1264",
+  "name": "Jeevan Jyot Kendra",
+  "primaryEmail": "jeevanjyotkendra@yahoo.com",
+  "website": "www.jeevanjyot.weebly.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Intermediary",
+    "Support"
+  ],
+  "telephone": [
+    "912852653847",
+    "912852653847"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "210 Indralok Arcade,",
+      "Near Talav Gate",
+      "Junagadh",
+      "Gujarat",
+      "362001"
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Dr. A. Saibaba Goud",
+      "email": "saibaba_goud@hotmail.com",
+      "designation": "Chairman",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2648",
+  "name": "Devnar Foundation For the Blind",
+  "primaryEmail": "saibaba_goud@hotmail.com",
+  "website": "www.devnarfoundationfortheblind.org",
+  "telephone": [
+    "914027767931",
+    "914066335696",
+    "919394703686"
+  ],
+  "mainAddrress": {
+    "state": "Telangana",
+    "address": [
+      "Plot No. 185,",
+      "Road No. 1, West Marredpally,",
+      "Secunderabad –",
+      "Hyderabad",
+      "Telangana",
+      "500026"
+    ]
+  }
+}

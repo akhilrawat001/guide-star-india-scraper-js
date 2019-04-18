@@ -1,0 +1,33 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5177",
+  "name": "Association for Blindness & Leprosy Eradication",
+  "primaryEmail": "ableindia@yahoo.com",
+  "website": "http://www.ableindiacharities.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919811157104"
+  ],
+  "mainAddrress": {
+    "state": "Haryana",
+    "address": [
+      "885, Sector - 15, Faridabad",
+      "Faridabad, Haryana",
+      "Faridabad",
+      "Haryana",
+      "121002"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "F-16, Hauz Khaz Enclave, Ground Floor",
+      "New Delhi",
+      "South Delhi",
+      "Delhi",
+      "110016"
+    ]
+  }
+}

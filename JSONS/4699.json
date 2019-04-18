@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "Dr N M Dwivedi",
+      "email": "senanitbhospital@gmail.com",
+      "designation": "Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4699",
+  "name": "Swargiya Mishri Lal Senani Charitable Social Welfere Society",
+  "primaryEmail": "senanitbhospital@gmail.com",
+  "telephone": [
+    "915341247207",
+    "919415639429"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "Care of Senani Hospital Vill & Po-Jheengur",
+      "Block-Babaganj ,Kunda",
+      "PRATAPGARH",
+      "Pratapgarh",
+      "Uttar Pradesh",
+      "230204"
+    ]
+  }
+}

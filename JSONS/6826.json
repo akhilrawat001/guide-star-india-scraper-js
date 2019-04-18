@@ -1,0 +1,47 @@
+{
+  "contacts": [
+    {
+      "name": "Mahesh Menon",
+      "email": "mahesh@vkvapt.org",
+      "designation": "Office Incharge",
+      "mobile": [
+        "91-373-2324320"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6826",
+  "name": "Vivekananda Kendra Vidyalayas Arunachal Pradesh Trust",
+  "primaryEmail": "info@vkvapt.org",
+  "website": "http://www.vkvapt.org/",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "913732324320",
+    "919435198047"
+  ],
+  "mainAddrress": {
+    "state": "Assam",
+    "address": [
+      "Near SP Office",
+      "Dibrugarh",
+      "Assam",
+      "786001",
+      "vkvapt address proof.PDF"
+    ]
+  },
+  "briefDescription": "Vivekananda Kendra Vidyalaya Arunachal Pradesh Trust have been striving to provide an all round nationalistic education to the children of this remote Himalayan State of India. Presently, VKVs in Arunachal Pradesh are 34 in numbers. VKVs have been acknowledged throughout the North-East India for their substantial contribution in improving the educational scenario in these States. A large number of 1st Generation learners, especially from poor & backward villages have emerged as Doctors, Engineers, Professionals in Fine Arts, Businessmen, IAS Officers, as well as enlightened citizens.",
+  "yearOfEstablishment": "1999",
+  "regiseredAddrress": {
+    "state": "Arunachal Pradesh",
+    "address": [
+      "VKV School Campus",
+      "Bage Tinali",
+      "Nirjuli",
+      "Papum Pare",
+      "Arunachal Pradesh",
+      "791109",
+      "Electricity bill vkvapt.PDF"
+    ]
+  }
+}

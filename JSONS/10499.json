@@ -1,0 +1,49 @@
+{
+  "contacts": [
+    {
+      "name": "Rachana KG",
+      "email": "rachana.kg@sukhibhava.org.in",
+      "designation": "Head of Partnerships",
+      "mobile": [
+        "91-80-23510431",
+        "91-9886781989"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10499",
+  "name": "Sukhibhava Foundation",
+  "primaryEmail": "dilip@sukhibhava.org.in",
+  "website": "www.sukhibhava.org.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Intermediary"
+  ],
+  "telephone": [
+    "919886781989"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "No 449, 5th cross, 9th main, Viveknagar,",
+      "Near Viveknagar ground",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560047"
+    ]
+  },
+  "briefDescription": "Sukhibhava works towards making menstruation a non-issue for women and girls in the low income and marginalised communities across India. Sukhibhava is currently working across 7 states and has launched its flagship event - The Period fellowship. Sukhibhava identifies women living in the low-income communities to  become \"Community Resource Persons\", who form groups of women and girls to educate about menstrual hygiene and improve access to affordable menstrual hygiene products.",
+  "yearOfEstablishment": "2016",
+  "regiseredAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "No 288, 1st A cross, Nagashettyhalli, RMV 2nd stage,",
+      "Near Dollars Residency",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560094"
+    ]
+  }
+}

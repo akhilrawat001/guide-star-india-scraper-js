@@ -1,0 +1,38 @@
+{
+  "contacts": [
+    {
+      "name": "KUMARI REETA",
+      "email": "kramws123.in@gmail.com",
+      "designation": "CHAIRMAN",
+      "mobile": []
+    },
+    {
+      "name": "KUMARI REETA",
+      "email": "kramws123.in@gmail.com",
+      "designation": "CHAIRMAN",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4357",
+  "name": "ALPSANKHYAK MILLAT WELFARE SOCIETY",
+  "primaryEmail": "amws786.in@gmail.com",
+  "website": "www.amws786.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "mainAddrress": {
+    "address": []
+  },
+  "briefDescription": "ALPSANKHYAK MILLAT WELFARE SOCIETY is working in Bihar and up.",
+  "yearOfEstablishment": "2001",
+  "regiseredAddrress": {
+    "state": "Bihar",
+    "address": [
+      "PALTU HATA,JAMO BAZAR,SIWAN(BIHAR)",
+      "BARHARIYA",
+      "Siwan",
+      "Bihar",
+      "841413"
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "contacts": [
+    {
+      "name": "Subhashini Prabhaker",
+      "email": "subhashini.samadhan@gmail.com",
+      "designation": "Program Manager",
+      "mobile": [
+        "91-11-45516693"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4407",
+  "name": "Society for the Aid of Mentally & Developmentally Handicapped \"SAMADHAN'",
+  "primaryEmail": "samadhan.dwarka@gmail.com",
+  "website": "http://www.samadhanindia.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "911145516693",
+    "911145516693"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "Sector-2, Pocket -2",
+      "Near Mahalakshmi Aparments",
+      "Dwarka",
+      "West Delhi",
+      "Delhi",
+      "110075"
+    ]
+  },
+  "briefDescription": "SAMADHAN, a registered non-profit organization set up in 1981 in New Delhi, India, has as its dual purpose the betterment of these disregarded communities, specifically children with intellectual disability and their mothers. SAMADHAN’s philosophy is that all persons with intellectual disability can be helped, if appropriate and timely services are available. Over the years, it has effectively transferred this philosophy into action and developed a viable model of service delivery linking services for the intellectually disabled, with the needs of their mothers and of the women in the community, using locally available resources and materials.",
+  "yearOfEstablishment": "1981",
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "F- Block, Sector- V",
+      "Dakshinpuri",
+      "New Delhi",
+      "South Delhi",
+      "Delhi",
+      "110062"
+    ]
+  }
+}

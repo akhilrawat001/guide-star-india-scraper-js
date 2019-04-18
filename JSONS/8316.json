@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "SADANANDA TRIPATHY",
+      "email": "nirman_sbp@rediffmail.com",
+      "designation": "SECRETARY",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8316",
+  "name": "NIRMAN, SAMBALPUR",
+  "primaryEmail": "nirman_sbp@rediffmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919937102371"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "AT-SRIRAM BIHAR",
+      "GOBINDTOLA",
+      "PO/DIST-SAMBALPUR",
+      "Sambalpur",
+      "Odisha",
+      "768005"
+    ]
+  },
+  "briefDescription": "NIRMAN IS LOCATED IN SAMBALPUR, ORISSA."
+}

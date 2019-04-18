@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "SR BINCY THOMAS",
+      "email": "mvanhospital@gmail.com",
+      "designation": "Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4714",
+  "name": "Society of Daughters of St.Camillus",
+  "primaryEmail": "mvannini2008@yahoo.com",
+  "telephone": [
+    "918818244950",
+    "919440922171"
+  ],
+  "mainAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "Kadakatla",
+      "Tadepalligudem",
+      "TADEPALLIGUDEM",
+      "West Godavari",
+      "Andhra Pradesh",
+      "534101"
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "contacts": [
+    {
+      "name": "-RC Giri",
+      "email": "aarceegiri@gmail.com",
+      "designation": "Administrative Officer",
+      "mobile": [
+        "91-11-22514200",
+        "91-9716378160"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1384",
+  "name": "Confederation of Community Based Organisations of India",
+  "primaryEmail": "ccboscm@gmail.com",
+  "website": "www.ccbos.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "911122514200",
+    "919716378160",
+    "911140601555",
+    "911122514300"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "H.No.7, G&1st Floor,",
+      "Lane No.3, Vijay Block, Laxmi Nagar",
+      "Delhi",
+      "East Delhi",
+      "110092"
+    ]
+  },
+  "briefDescription": "CCBOS is an apex body of several small community based organisations from all over India. We have member organizations from the different parts of the country working in various spheres of social issues like women and minority empowerment, environmental concerns like climate change and solid waste management , micro finance and employment generation .",
+  "yearOfEstablishment": "2007"
+}

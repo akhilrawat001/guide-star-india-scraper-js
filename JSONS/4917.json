@@ -1,0 +1,41 @@
+{
+  "contacts": [
+    {
+      "name": "M.Asif",
+      "email": "besws055@gmail.com",
+      "designation": "Manager",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4917",
+  "name": "Bright Educational & Social Welfare Society",
+  "primaryEmail": "besws055@gmail.com",
+  "website": "Village Jalalpur Post. Incholi.",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919412108654"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "220",
+      "meerut",
+      "Meerut",
+      "Uttar Pradesh",
+      "250001"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "220",
+      "Village Jalalpur Post. Incholi.",
+      "meerut",
+      "Meerut",
+      "Uttar Pradesh",
+      "250001"
+    ]
+  }
+}

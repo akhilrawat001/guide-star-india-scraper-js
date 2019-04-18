@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Ms.Deepika Sharma",
+      "email": "childfoundation@rediffmail.com",
+      "designation": "Executive Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7621",
+  "name": "Child Care & Development Foundation",
+  "primaryEmail": "childfoundation@rediffmail.com",
+  "website": "www.childcare.org.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "911141523438",
+    "911141523438"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "D-44, Street No.18,",
+      "Madhu Vihar, Patparganj",
+      "Delhi",
+      "East Delhi",
+      "110092"
+    ]
+  }
+}

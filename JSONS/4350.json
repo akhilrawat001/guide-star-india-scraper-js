@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "N SHASHIKALA",
+      "email": "mrds2008@yahoo.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4350",
+  "name": "MEGA RURAL DEVELOPMENT SOCIETY",
+  "primaryEmail": "mrds2008@yahoo.com",
+  "website": "www.mrdsociety.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919900870895"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "No. 371, Ward No. 29",
+      "Behind St. Joseph's Convent School, Sunnakallu Street",
+      "Chickballapur",
+      "Chikkaballapura",
+      "Karnataka",
+      "562101"
+    ]
+  }
+}

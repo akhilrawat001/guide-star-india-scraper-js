@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "name": "Manisha Sharma",
+      "email": "sankalpss1@rediffmail.com",
+      "designation": "Director",
+      "mobile": []
+    },
+    {
+      "name": "Manisha Sharma",
+      "email": "sankalpss1@rediffmail.com",
+      "designation": "Director",
+      "mobile": []
+    },
+    {
+      "name": "Manisha Sharma",
+      "email": "sankalpss1@rediffmail.com",
+      "designation": "Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4662",
+  "name": "Sankalp Sanskritik Samiti",
+  "primaryEmail": "sankalpss1@rediffmail.com",
+  "telephone": [
+    "917712442060",
+    "919827179103"
+  ],
+  "mainAddrress": {
+    "state": "Chhattisgarh",
+    "address": [
+      "18, Kailash Residency",
+      "Shankar Nagar",
+      "Raipur",
+      "Chhattisgarh",
+      "492001"
+    ]
+  }
+}

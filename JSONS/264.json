@@ -1,0 +1,37 @@
+{
+  "contacts": [
+    {
+      "name": "Harsha S Parekh",
+      "email": "harshaparekh0@gmail.com",
+      "designation": "Executive Trustee",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=264",
+  "name": "Bombay Community Public Trust",
+  "primaryEmail": "bcpt@vsnl.com",
+  "website": "www.bcpt@org.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919821312555",
+    "912222836672"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Earnest House, 7th Floor",
+      "Nariman Point",
+      "Mumbai",
+      "Maharashtra",
+      "400021"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Maharashtra"
+    ]
+  }
+}

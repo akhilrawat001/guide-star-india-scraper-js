@@ -1,0 +1,40 @@
+{
+  "contacts": [
+    {
+      "name": "Rewant sing Sodha",
+      "email": "ramdevac@gmail.com",
+      "designation": "chairman",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5257",
+  "name": "JAGO GRAMIN VIKAS SANSTHAN",
+  "primaryEmail": "ramdevac@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919413163833"
+  ],
+  "mainAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "Laxmi nagar",
+      "Karagrah ke piche",
+      "Barmer",
+      "Rajasthan",
+      "344001"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "JAGO GRAMIN VIKAS SANSTHAN",
+      "LAXMI NAGAR KARAGRAH KE PICHE",
+      "BARMER",
+      "Barmer",
+      "Rajasthan",
+      "344001"
+    ]
+  }
+}

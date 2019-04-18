@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "KRISHNENDU CHAKRABARTY",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2998",
+  "name": "BAHARPOTA PREMTIRTHA RURAL DEVELOPMENT SOCIETY",
+  "primaryEmail": "bprds96@rediffmail.com",
+  "website": "http://bprds.heroku.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919733547451"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "183",
+      "HARASANKAR,CHANDIPUR ROAD",
+      "kolkata",
+      "East Medinipur",
+      "West Bengal",
+      "721151"
+    ]
+  }
+}

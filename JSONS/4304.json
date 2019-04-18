@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Uttara Bharath Kumar",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4304",
+  "name": "Nalamdana",
+  "primaryEmail": "info@nalamdana.org",
+  "website": "http://www.nalamdana.org/home",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "914424493772",
+    "914424493772"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "1 Floor, Kadambam Apartments, 4/192, Ellaiamman Kovil Street, Neelankarai",
+      "Chennai",
+      "Tamil Nadu",
+      "600041"
+    ]
+  }
+}

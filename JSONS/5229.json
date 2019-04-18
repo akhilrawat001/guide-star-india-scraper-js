@@ -1,0 +1,35 @@
+{
+  "contacts": [
+    {
+      "name": "sarthak mohanty",
+      "email": "sarthakmohanty88@gmail.com",
+      "designation": "Trustee",
+      "mobile": [
+        "91-9853172305"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5229",
+  "name": "Save Earth Foundation",
+  "primaryEmail": "foundationsaveearth@gmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919853172305"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "At- Pareswar sahi",
+      "Jobra",
+      "Cuttack",
+      "Odisha",
+      "753003"
+    ]
+  },
+  "briefDescription": "The Save earth foundation charitable trust is a multidisciplinary Professional Trust registered with the Government of Odisha as a Non-Government Organization in 2012.Our projects include: Environmental Awarness, Distressed animal rescue and rehab, Animal vaccination and sterlization, Plantation Programmes, Health Camps, Blood Camps, Art and Debate Competetions, etc.",
+  "yearOfEstablishment": "2012"
+}

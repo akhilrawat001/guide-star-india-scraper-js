@@ -1,0 +1,32 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10715",
+  "name": "Samata Magasvargiya Vikas Mandal",
+  "primaryEmail": "smvmsk17@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918007927250"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Sunil Surykant Pallewad At. Post.Shekapur Tq.Kandhar",
+      "Kandhar",
+      "Nanded",
+      "Maharashtra",
+      "431714"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Apt.Post.Savarmal Tq.Mukhed Dist.Nanded",
+      "Mukhed",
+      "Nanded",
+      "Maharashtra",
+      "431716"
+    ]
+  }
+}

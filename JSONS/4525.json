@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Vishal Tridevi",
+      "email": "cpac1950@gmail.com",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4525",
+  "name": "Grahak Suraksha Pagla Samiti",
+  "primaryEmail": "cpac1950@gmail.com",
+  "website": "http://grahaksuraksh66 http://",
+  "organisationType": [
+    "Advocacy & Campaigning"
+  ],
+  "telephone": [
+    "919924444633"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "f/3 municipal shopping center",
+      "opp.sardar baug,new bus stand",
+      "anand",
+      "Anand",
+      "Gujarat",
+      "388001"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "contacts": [
+    {
+      "name": "Dr. Anand  Singh Rana",
+      "email": "anand.rana@katha.org",
+      "designation": "Deputy Director- Projects",
+      "mobile": [
+        "91-11-41416641"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=852",
+  "name": "Katha",
+  "primaryEmail": "parvinder.kaur@katha.org",
+  "website": "www.katha.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service"
+  ],
+  "telephone": [
+    "911126514373",
+    "911141416600",
+    "911141416612"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "A-3, Sarvodaya Enclave",
+      "Sri Aurobindo Marg",
+      "New Delhi",
+      "Delhi",
+      "110017"
+    ]
+  },
+  "briefDescription": "Katha is a grassroots Indian non-profit organization that for the last 28 years has been empowering children to become agents of change through quality education, teacher training, and world-class book publishing.  Katha works in the slums of New Delhi to ensure that children from underprivileged backgrounds are able to receive the quality of education needed to build a better future for themselves and their families. We have an innovative, proven education model that makes learning a fun, creative experience for children and teachers alike.  Katha’s programs have reached over 9, 00,000 underserved children from 423 Municipal Corporation Schools (MCD) and over 600 slum communities across Delhi.  Katha has embarked on a major scale up plan to spread its innovative model to reach children across India and abroad",
+  "yearOfEstablishment": "1989"
+}

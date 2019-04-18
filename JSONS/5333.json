@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "H R Rajendra",
+      "email": "generalsecretary@parivarthanafoundation.in",
+      "designation": "General Secretary",
+      "mobile": [
+        "91-821-2570969",
+        "91-9886145969"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5333",
+  "name": "PARIVARTHANA FOUNDATION",
+  "primaryEmail": "generalsecretary@parivarthanafoundation.in",
+  "website": "www.parivarthanafoundation.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Support"
+  ],
+  "telephone": [
+    "919886145969",
+    "918212570969"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "77 RAMAKRISHNA PARAMAHAMSA BLOCK",
+      "TEACHERS LAYOUT",
+      "MYSORE",
+      "Mysuru (Mysore)",
+      "Karnataka",
+      "570011"
+    ]
+  }
+}

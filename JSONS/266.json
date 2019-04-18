@@ -1,0 +1,38 @@
+{
+  "contacts": [
+    {
+      "name": "Hutokshi Doctor",
+      "email": "research@ccds.in",
+      "designation": "Director-Trustee",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=266",
+  "name": "Centre for Communication and Development Studies",
+  "primaryEmail": "research@ccds.in",
+  "website": "http://www.infochangeindia.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "912025457371",
+    "919881730873",
+    "912030222156"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "C-12, Gera Greens",
+      "NIBM Road, Kondhwa",
+      "Pune",
+      "Maharashtra",
+      "410048"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Maharashtra"
+    ]
+  }
+}

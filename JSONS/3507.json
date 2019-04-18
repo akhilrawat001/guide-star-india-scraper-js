@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "Dr Yadav V R",
+      "email": "jrp.latur@gmail.com",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3507",
+  "name": "Jeevan Rekha Pratisthan",
+  "primaryEmail": "jrp.latur@gmail.com",
+  "telephone": [
+    "912382224556",
+    "912382248228",
+    "912382224556"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "A/P Abbass Complex,",
+      "Ambejogai Road 2Nd Floor",
+      "Latur",
+      "Maharashtra",
+      "413512"
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "contacts": [
+    {
+      "name": "Madhava Prasad Padaki H",
+      "email": "madhava06@chirantana.com",
+      "designation": "Secretary",
+      "mobile": [
+        "91-8192-651075"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1434",
+  "name": "Chirantana Academy",
+  "primaryEmail": "info@chirantana.com",
+  "website": "www.chirantana.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "918192651075",
+    "919535656163"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "615/96-97",
+      "2nd cross, Anjaneya Badavane,",
+      "Davangere",
+      "Karnataka",
+      "577004"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "3571, 5th main, 6th cross,",
+      "M.C.C B block",
+      "Davangere",
+      "Karnataka",
+      "577004"
+    ]
+  }
+}

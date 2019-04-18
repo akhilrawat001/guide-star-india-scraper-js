@@ -1,0 +1,39 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=923",
+  "name": "Shivshankar Shikshan Sanstha",
+  "primaryEmail": "support@shivshankarss.org.in",
+  "website": "http://shivshankarss.org.in",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "912227753890",
+    "912227753890",
+    "912222985630",
+    "919969042388"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "A / 53/ 1, Sector-21",
+      "Turbhe Complex,Vashi",
+      "Navi Mumbai",
+      "Thane",
+      "Maharashtra",
+      "400705"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "A-1/44/1,Sector-21, Turbhe Complex,Vashi",
+      "Navi Mumbai",
+      "Thane",
+      "Maharashtra",
+      "400705",
+      "AP_Other_837.PDF"
+    ]
+  }
+}

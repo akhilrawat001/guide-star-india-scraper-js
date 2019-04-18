@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "Pradeep Shukla",
+      "email": "info@progressivesociety.org",
+      "designation": "Chairman",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2930",
+  "name": "Progressive Delhi Society",
+  "primaryEmail": "info@progressivesociety.org",
+  "telephone": [
+    "911128567715",
+    "911128567715"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "A 62/2",
+      "Shish Ram Park",
+      "Uttam Nagar",
+      "New Delhi",
+      "Delhi",
+      "110059"
+    ]
+  }
+}

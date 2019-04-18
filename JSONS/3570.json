@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Devendra Singh Bhadauriya",
+      "email": "",
+      "designation": "Director",
+      "mobile": [
+        "223369"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3570",
+  "name": "Lupin Human Welfare & Research Foundation",
+  "primaryEmail": "lupinfoundation@gmail.com",
+  "website": "http://www.lupinfoundation.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "912362223369",
+    "912362223369"
+  ],
+  "mainAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "160 Krishna Nagar Bharatpur",
+      "Rajasthan",
+      "Bharatpur",
+      "321001"
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Vivek Gupta",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5488",
+  "name": "Friends of People for Active Democracy",
+  "primaryEmail": "vivekgupta1977@gmail.com",
+  "website": "padindia.wordpress.com",
+  "organisationType": [
+    "Advocacy & Campaigning"
+  ],
+  "telephone": [
+    "919818161391"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "Office no. 111, MP Mall",
+      "Pitampura ( Near Netaji Subhash Metro Station)",
+      "Delhi",
+      "North West Delhi",
+      "110034"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10638",
+  "name": "Divine Faith Fellowship Society",
+  "primaryEmail": "divineffc@yahoo.com",
+  "organisationType": [
+    "Advocacy & Campaigning"
+  ],
+  "telephone": [
+    "917066508089"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "I-605, VVIP Addresses, Raj Nagar Extension,",
+      "Ghaziabad",
+      "Uttar Pradesh",
+      "201001"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "Divine Faith Fellowship Church Compound, Purana Bazar Bahjoi,",
+      "Post Bahjoi,",
+      "Sambhal (Bhim Nagar)",
+      "Uttar Pradesh",
+      "244410"
+    ]
+  }
+}

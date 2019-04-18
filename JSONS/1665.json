@@ -1,0 +1,42 @@
+{
+  "contacts": [
+    {
+      "name": "Devi Prasad Mahapatra",
+      "email": "devimahapatra@dbtech.co.in",
+      "designation": "Head - Communications",
+      "mobile": []
+    },
+    {
+      "name": "Devi Prasad Mahapatra",
+      "email": "devimahapatra@dbtech.co.in",
+      "designation": "Head - Communications",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1665",
+  "name": "Don Bosco Tech Society",
+  "primaryEmail": "info@dbtech.in",
+  "website": "http://www.dbtech.in/",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "911128011433",
+    "919711859873"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "Don Bosco Tech Society, Don Bosco Yuva Kendra,",
+      "Nangloi Road",
+      "Najafgarh",
+      "North West Delhi",
+      "Delhi",
+      "110043"
+    ]
+  },
+  "briefDescription": "DB Tech, a network of Don Bosco skill training centers that attempts to bridge this widening divide between those who have access to opportunities and those who are increasingly being marginalized from the ‘new economy’ jobs. DB Tech addresses this endemic problem with a market-based approach that is sensitive to the socio-economic needs of marginalized youth in the 18-35 years age group. DB Tech is an example of synchronous social action of various stakeholders, which is aimed at mainstreaming and ensuring economic security for youth who could be victimized by poverty. To enable them to gain a foothold in the competitive job market, DB Tech helps them acquire the required livelihood and soft skills.",
+  "yearOfEstablishment": "2006"
+}

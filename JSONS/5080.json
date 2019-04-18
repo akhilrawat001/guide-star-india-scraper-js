@@ -1,0 +1,41 @@
+{
+  "contacts": [
+    {
+      "name": "Sanjoy Banerjee",
+      "email": "nabadiganta_lab@rediffmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5080",
+  "name": "Labpur Busstand Nabadiganta Rural Development Welfare Society",
+  "primaryEmail": "nabadiganta_lab@rediffmail.com",
+  "website": "no",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919434559406"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Po & Ps Labpur, Dist.Birbhum,",
+      "Opposite Labpur PS",
+      "Labpur",
+      "Birbhum",
+      "West Bengal",
+      "731303"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "not provided",
+      "Labpur",
+      "Birbhum",
+      "West Bengal",
+      "731303"
+    ]
+  }
+}

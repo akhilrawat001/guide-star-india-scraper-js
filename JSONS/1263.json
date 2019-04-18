@@ -1,0 +1,41 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1263",
+  "name": "Centre for Community Initiative",
+  "primaryEmail": "info@communityinitiative.in",
+  "website": "http://www.communityinitiative.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "913874233108"
+  ],
+  "mainAddrress": {
+    "state": "Manipur",
+    "address": [
+      "Zion Street/Nehru Marg, Central Lamka",
+      "Tedim Road",
+      "Churachandpur",
+      "Manipur",
+      "795128",
+      "AP_BankStat_1167.PDF"
+    ]
+  },
+  "briefDescription": "Centre for Community Initiative (CCI) is devoted to differently abled persons. CCI facilitates and empower parents, disabled persons with practical support, assessment and counseling, getting involved in mapping positive and supportive environment",
+  "yearOfEstablishment": "2002",
+  "regiseredAddrress": {
+    "state": "Manipur",
+    "address": [
+      "Zuihnuam, College Veng",
+      "New Lamka",
+      "Churachandpur",
+      "Manipur",
+      "795128",
+      "AP_BankStat_1167.PDF"
+    ]
+  }
+}

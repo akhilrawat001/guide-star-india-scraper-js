@@ -1,0 +1,31 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10987",
+  "name": "Arya Sugandh Sansthan",
+  "primaryEmail": "assa.medical@gmail.com",
+  "telephone": [
+    "919837032614"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "Arya sugandh sansthan",
+      "Arya Nagar",
+      "Mussepur",
+      "Bijnor",
+      "Uttar Pradesh",
+      "246749"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "Arya Sugandh Sansthan",
+      "Arya Nagar",
+      "Mussepur",
+      "Bijnor",
+      "Uttar Pradesh",
+      "246749"
+    ]
+  }
+}

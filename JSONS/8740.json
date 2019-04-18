@@ -1,0 +1,32 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8740",
+  "name": "Saam Bahu-uddeshiya Samajik Sanstha",
+  "primaryEmail": "anilmahindrakar11@gmail.com",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "919028422638"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "52, Ghorpadi Bazar, Pune",
+      "Ghorpadi Bazar Road",
+      "Pune",
+      "Maharashtra",
+      "411001"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "S.No - 103/126/4,",
+      "Nagar Road, Tal. Haveli",
+      "Pune",
+      "Maharashtra",
+      "411006"
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10623",
+  "name": "Akar Samajik Sanstha",
+  "primaryEmail": "ashakirankamble@yahoo.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "918898468852",
+    "918433708007"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "1527A, BMC Colony, Gate No 6",
+      "Near Mount Merry School, Malavani Malad West",
+      "Mumbai",
+      "Mumbai Suburban",
+      "Maharashtra",
+      "400095"
+    ]
+  },
+  "briefDescription": "Akar is an slum based NGO who works mainly with Women and youth. Akar works in health, education and micro fiance. Akar gives non financial training to the slum women so they can run their small business happly.",
+  "yearOfEstablishment": "2014",
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "B-003, Reshma CHs, Ground floor, Mhada,RSC 2, PLot No, 5,",
+      "Gate no 8, Near chef Corner, Malavani Malad(West)",
+      "Mumbai",
+      "Mumbai Suburban",
+      "Maharashtra",
+      "0"
+    ]
+  }
+}

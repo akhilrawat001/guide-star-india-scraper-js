@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "ANIMESH MONDAL",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7157",
+  "name": "Plassey Bhagat Singh Youth Forum",
+  "primaryEmail": "plassey.it@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "8116377938"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "/O. ANIMESH MONDAL .",
+      "P.O.- Plassey Sugar Mill, P.S.- Kaliganj",
+      "Vill.- Tejnagar,( Kalitala )",
+      "Nadia",
+      "West Bengal",
+      "742257"
+    ]
+  }
+}

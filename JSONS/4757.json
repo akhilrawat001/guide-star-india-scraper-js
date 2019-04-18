@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Dr Upma Diwan",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4757",
+  "name": "Satpura Ekikrit Gramin Vikas Sansthan",
+  "primaryEmail": "sirdiemail@gmail.com",
+  "website": "http://www:sirdi.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919329666025"
+  ],
+  "mainAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "1st flor 1A Green city Gulmohar Bhopal",
+      "villag Sawalmedha Thshil Bhasdehi Dist-Betul M P",
+      "Bhopal",
+      "Betul",
+      "Madhya Pradesh",
+      "462039"
+    ]
+  }
+}

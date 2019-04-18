@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Sudhakar Bandyopadhyay",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4341",
+  "name": "PYARI FOUNDATION-INDIA TRUST",
+  "primaryEmail": "pyari.india@gmail.com",
+  "website": "http://www.pyarionlus.org/",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "913252244284",
+    "913252244284"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Balarampur, GMLF Campus",
+      "Tata Road",
+      "Balarampur, PO: Rangadih",
+      "Purulia",
+      "West Bengal",
+      "723143"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2643",
+  "name": "PFI Foundation",
+  "primaryEmail": "pfifound@gmail.com",
+  "website": "www.pfifound.org",
+  "organisationType": [
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "913612235655",
+    "919859914100"
+  ],
+  "mainAddrress": {
+    "state": "Assam",
+    "address": [
+      "Hn 46, Sijubari Masjid Road,",
+      "Hatigaon",
+      "Guwahati",
+      "Kamrup Metropolitan",
+      "Assam",
+      "781038"
+    ]
+  }
+}

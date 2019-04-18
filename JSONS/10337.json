@@ -1,0 +1,37 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10337",
+  "name": "GRAMODAYA TRUST",
+  "primaryEmail": "satyajeet.tambe@gmail.com",
+  "website": "www.tas.edu.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919822933333"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Tambe Hospital",
+      "New Akole Road",
+      "Sangamner",
+      "Ahmednagar",
+      "Maharashtra",
+      "422605"
+    ]
+  },
+  "briefDescription": "Gramodaya trust was founded in 1994 and is sister trust of Sahyadri educational trust which was founded in 1967 and SMBT trust founded in 1985 with a vision of imparting education to rural children and special children (mentally challenged as well as focus on healthcare",
+  "yearOfEstablishment": "1994",
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Gramodaya Trust",
+      "Akole Road",
+      "Sangamner",
+      "Ahmednagar",
+      "Maharashtra",
+      "422605"
+    ]
+  }
+}

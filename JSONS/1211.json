@@ -1,0 +1,37 @@
+{
+  "contacts": [
+    {
+      "name": "Kamakshi",
+      "email": "chigururc05@rediffmail.com",
+      "designation": "President",
+      "mobile": [
+        "91-8222-253245",
+        "91-9845916528"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1211",
+  "name": "Jnana Chiguru Community Managed Resource Centre",
+  "primaryEmail": "chigururc05@rediffmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "918222253245",
+    "918222253245"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "17, Mekeri, Hunsur works staff colony,",
+      "B.M.Road,Hunsur",
+      "Hunsur",
+      "Mysuru (Mysore)",
+      "Karnataka",
+      "571105",
+      "AP_TelBill_1115.PDF"
+    ]
+  }
+}

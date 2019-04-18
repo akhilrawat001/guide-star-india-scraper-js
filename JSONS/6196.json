@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Raj Sharma",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6196",
+  "name": "Sparsh Intention",
+  "primaryEmail": "rajsharma@sparshintention.org",
+  "website": "http://www.sparshintention.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "911132927045",
+    "911132927045"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "RZ-17A,Backside street no-2",
+      "Syndicate Enclave near Dabri More",
+      "New Delhi",
+      "Delhi",
+      "110045"
+    ]
+  }
+}

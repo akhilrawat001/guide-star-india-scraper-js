@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Pheno Mon Joy",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5902",
+  "name": "Femina Charitable Trust",
+  "primaryEmail": "fenojoy@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919961910999"
+  ],
+  "mainAddrress": {
+    "state": "Kerala",
+    "address": [
+      "Puthumana House, Alapuram, Elanji",
+      "Elanji",
+      "Ernakulam",
+      "Kerala",
+      "686665"
+    ]
+  }
+}

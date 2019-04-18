@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Aruna Pradeep.C",
+      "email": "saisevasangh99@gmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5037",
+  "name": "Sai Seva Sangh",
+  "primaryEmail": "saisevasangh99@gmail.com",
+  "website": "http://www.saisevasangh.org",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "914023818558",
+    "914023818558"
+  ],
+  "mainAddrress": {
+    "state": "Telangana",
+    "address": [
+      "Plot no-99,Road no- 12",
+      "Vivekananda Nagar colony,Kukatpally",
+      "Hyderabad",
+      "Telangana",
+      "500072"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Balaji Nivarti Shinde",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8845",
+  "name": "Pariwartan Sanstha",
+  "primaryEmail": "parivartan40@yahoo.co.in",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "919421372018"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "At.Sumthana Post.Gngahipprga",
+      "Tq.Ahmedpur",
+      "Latur",
+      "Maharashtra",
+      "413515"
+    ]
+  },
+  "briefDescription": "Pariwartan Sanstha is Located in Latur, Maharashtra.",
+  "yearOfEstablishment": "1998"
+}

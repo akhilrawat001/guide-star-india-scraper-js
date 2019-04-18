@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "RIJAWAN AHMAD KHAN",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6617",
+  "name": "DUA FOUNDATION",
+  "primaryEmail": "duafoundation.up@gmail.com",
+  "website": "duafoundation.webs.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "915541217020",
+    "915541217020"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "kathela janubi",
+      "bhojwar",
+      "Siddharthnagar",
+      "Uttar Pradesh",
+      "272192"
+    ]
+  }
+}

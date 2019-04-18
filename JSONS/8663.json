@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "Anilesh Kumar",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8663",
+  "name": "SAMBHAVANA",
+  "primaryEmail": "sambhavana.in@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919910516905"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "Nayatola Bihari,",
+      "Jamui",
+      "Bihar",
+      "811307"
+    ]
+  }
+}

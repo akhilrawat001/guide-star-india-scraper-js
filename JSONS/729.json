@@ -1,0 +1,25 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=729",
+  "name": "Bhartiya Gramin Vikas Evam Ayurved Sewa Sansthan",
+  "primaryEmail": "bgvass@sify.com",
+  "website": "www.bgvass.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "916122268596",
+    "919431457942",
+    "916122673035"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "Kararia Bhawan, East Lohanipur",
+      "Railway Hunder Road, Kadamkuan",
+      "Patna",
+      "Bihar",
+      "800003"
+    ]
+  }
+}

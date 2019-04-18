@@ -1,0 +1,46 @@
+{
+  "contacts": [
+    {
+      "name": "RajaRajeswari",
+      "email": "Sankalp@sathguru.com",
+      "designation": "General Manager",
+      "mobile": [
+        "98490533"
+      ]
+    },
+    {
+      "name": "RajaRajeswari",
+      "email": "Sankalp@sathguru.com",
+      "designation": "General Manager",
+      "mobile": [
+        "98490533"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8826",
+  "name": "SANKALP",
+  "primaryEmail": "Sankalp@sathguru.com",
+  "website": "http://www.sathguru.com/Sankalp/",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "914098490533",
+    "914098490533"
+  ],
+  "mainAddrress": {
+    "state": "Telangana",
+    "address": [
+      "Plot 54, Sagar Society, Road No 2, Banjara Hills,",
+      "Hyderabad",
+      "Telangana",
+      "500034"
+    ]
+  },
+  "briefDescription": "Sankalp- for a good cause, is a registered body under the Societies Registration Act, 1860. It is also a CSR initiative by the staff of Sathguru Management Consultants, where a group of like-minded colleagues from all the divisions join together to support some specific philanthropic goals. Education of underprivileged girl children, healthcare for the elderly, skill building and some more community-centric activities sum up this philanthropic initiative to reach out and make a difference to the society. Sankalp project are categorized under Siksha, Jiva and Vivrithi.",
+  "yearOfEstablishment": "2007"
+}

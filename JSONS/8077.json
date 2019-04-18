@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "SANJAY KUMAR AZAD",
+      "email": "vskjharkhand@gmail.com",
+      "designation": "SECRETARY",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8077",
+  "name": "VISHWA SAMVAD KENDRA, JHARKHAND",
+  "primaryEmail": "vskjharkhand@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "916512480712",
+    "916512480712"
+  ],
+  "mainAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "SRI NIKETAN",
+      "NIWARANPUR",
+      "DIST- RANCHI",
+      "Ranchi",
+      "Jharkhand",
+      "834002"
+    ]
+  }
+}

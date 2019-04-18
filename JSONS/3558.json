@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "DR.SHRIKANT CHENDKE",
+      "email": "principal@hvpmcoet.edu.in",
+      "designation": "DIRECTOR, HVPM COET",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3558",
+  "name": "HANUMAN VYAYAM PRASARAK MANDAL",
+  "primaryEmail": "principal@hvpmcoet.edu.in",
+  "website": "http://www.hvpm.org/",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919890211135"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "HANUMAN NAGAR",
+      "AMRAVATI",
+      "Amravati",
+      "Maharashtra",
+      "444605"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Lokendra Singh Tomar",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7198",
+  "name": "ADVANCE INFORMATION MANAGEMENT SOCIETY",
+  "primaryEmail": "aims4541@yahoo.com",
+  "website": "www.aimsearth.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919425091380"
+  ],
+  "mainAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "LIG 371 indira nagar",
+      "agar road",
+      "ujjain",
+      "Ujjain",
+      "Madhya Pradesh",
+      "456001"
+    ]
+  }
+}

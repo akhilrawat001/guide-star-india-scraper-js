@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "name": "Rahul Nainwal",
+      "email": "nainwal@mitra.org.in",
+      "designation": "Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=284",
+  "name": "Mitra Technology Foundation",
+  "primaryEmail": "nainwal@mitra.org.in",
+  "website": "www.mitra.org.in",
+  "organisationType": [
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919818003121",
+    "911126217460"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "D-134, First Floor",
+      "East of Kailash",
+      "New Delhi",
+      "Delhi",
+      "110065"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Maharashtra"
+    ]
+  }
+}

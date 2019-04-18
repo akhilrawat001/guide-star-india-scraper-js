@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Vivek Chavan",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8954",
+  "name": "MANAS BAHUDDESHIY SEVABHAVI SANSTHA",
+  "primaryEmail": "manasanstha@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Intermediary"
+  ],
+  "telephone": [
+    "919028915346"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Plot No. 56",
+      "Mahajan Colony",
+      "Aurangabad",
+      "Maharashtra",
+      "431003"
+    ]
+  }
+}

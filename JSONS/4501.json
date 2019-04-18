@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Aditya Nagrath",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4501",
+  "name": "Madhya Pradesh Voluntary Health Association",
+  "primaryEmail": "mpvha1973@gmail.com",
+  "website": "www.mpvha.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "917312877734",
+    "917312877734"
+  ],
+  "mainAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "Near Bilawali Lake",
+      "PO Kasturbagram",
+      "Indore",
+      "Madhya Pradesh",
+      "452020"
+    ]
+  }
+}

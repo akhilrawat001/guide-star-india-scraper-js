@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Manisha J Pote",
+      "email": "",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8246",
+  "name": "SARASWATI PRATISHTHAN",
+  "primaryEmail": "manishapote9@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919960082219"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Someshwar",
+      "Vasahat Rahuri Sector",
+      "Ahmednagar",
+      "Maharashtra",
+      "414001"
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "contacts": [
+    {
+      "name": "Balaji",
+      "email": "office@iiccc.org",
+      "designation": "Communication Officer",
+      "mobile": [
+        "91-44-48596611",
+        "91-9500007997"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7318",
+  "name": "INDO-INTERNATIONAL CHRISTIAN CHAMBER OF COMMERCE",
+  "primaryEmail": "iicccindia@gmail.com",
+  "website": "www.iiccc.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "914425322625",
+    "919840032244"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "Room No.100, YMCA Madras Complex, 6/74, Ritherdon Road,",
+      "VEPERY",
+      "CHENNAI",
+      "Chennai",
+      "Tamil Nadu",
+      "600007"
+    ]
+  },
+  "briefDescription": "IICCC is a registered as a company under Sec.25 of the Companies Act, 1956. We are an inter-denominational organization who aim to serve the society without any motive to gain profit.",
+  "yearOfEstablishment": "2004",
+  "regiseredAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "New no 43, Pushpavanam Apartments,",
+      "3rd main road,Gandhi Nagar, Adayar",
+      "Chennai",
+      "Tamil Nadu",
+      "600020"
+    ]
+  }
+}

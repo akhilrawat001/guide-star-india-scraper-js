@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "name": "MANIKYARAO.J",
+      "email": "spandana1962@gmail.com",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5110",
+  "name": "SPANDANA EDUCATIONAL SOCIETY",
+  "primaryEmail": "spandana1962@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919849746674"
+  ],
+  "mainAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "flat no.7-731,KAMAL HOUSE,ABM COMPOUND,NELLORE -524002,ANDHRA PRADESH-INDIA-",
+      "NELLORE,NELLORE MANDAL,",
+      "Sri Potti Sriramulu Nellore",
+      "Andhra Pradesh",
+      "524002"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "not provided",
+      "NELLORE,NELLORE MANDAL,",
+      "Sri Potti Sriramulu Nellore",
+      "Andhra Pradesh",
+      "524002"
+    ]
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "contacts": [
+    {
+      "name": "Kulsoom Rashid",
+      "email": "kulsum@ipartnerindia.org",
+      "designation": "Senior Programmes Manager",
+      "mobile": [
+        "91-9891513551"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1671",
+  "name": "iPartner India",
+  "primaryEmail": "sumedha@ipartnerindia.org",
+  "website": "www.ipartnerindia.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Grant-making",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "911126528916",
+    "919873007757"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "4/303, Second Floor",
+      "Kaushalya Park, Hauz Khas",
+      "New Delhi",
+      "South Delhi",
+      "Delhi",
+      "110016"
+    ]
+  },
+  "briefDescription": "iPartner India was established in 2009 in a bid to take charitable giving in India to a new level. It is a unique social sector enterprise that helps donors, who are committed to making a difference, discover and engage with a wide range of inspiring projects in India. We believe in enhancing both the joy of giving and the outcome of receiving.  We work closely with donors to help them discover their interests and priorities and then partner them with grassroots projects that make real difference to the lives of many people. We also help our partner NGOs build their capacity and sustainability by providing access to in-house skills, volunteer, pro-bono and paid consultancy.",
+  "yearOfEstablishment": "2009",
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "C-181, 2nd Floor",
+      "Sarvodhaya Enclave",
+      "New Delhi",
+      "South Delhi",
+      "Delhi",
+      "110017"
+    ]
+  }
+}

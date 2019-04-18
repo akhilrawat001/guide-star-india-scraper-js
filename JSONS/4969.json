@@ -1,0 +1,37 @@
+{
+  "contacts": [
+    {
+      "name": "Dr. Peter Castelino",
+      "email": "coojtrust@yahoo.co.in",
+      "designation": "Managing Trustee",
+      "mobile": [
+        "91-832-2265550",
+        "91-9823321272"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4969",
+  "name": "COOJ Mental Health Foundation",
+  "primaryEmail": "coojtrust@yahoo.co.in",
+  "website": "http://www.cooj.co.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919822562522",
+    "918322260080"
+  ],
+  "mainAddrress": {
+    "state": "Goa",
+    "address": [
+      "13/34, Lavi Cottage,",
+      "Modlem Morod,",
+      "Mapuca",
+      "North Goa",
+      "Goa",
+      "403507"
+    ]
+  },
+  "briefDescription": "COOJ Mental Health Foundation (COOJ) is a registered Charitable Trust (Reg. Number 2211/02) that works towards promoting mental health in Goa.  Since the last 17 years, we have been tirelessly reaching out to people who have been affected with mental illness or disability. Overcoming the hurdles of  stigma,  myth, and  discrimination through education and  awareness, with  the  aim  of promoting  sustainable social  and  human  development, has  been  our mission. We operate projects under 4 major mental health needs: Psychosocial rehabilitation, Suicide Prevention, Geriatric & Dementia Care and Community Mental health. As part of our work we run mental health clinics, day care centres, support groups, conduct rural camps, workshops, awareness programmes and a suicide prevention helpline, besides advocating the rights of persons with mental illness.",
+  "yearOfEstablishment": "2002"
+}

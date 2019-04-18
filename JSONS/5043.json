@@ -1,0 +1,41 @@
+{
+  "contacts": [
+    {
+      "name": "PrakasaRao Kanchapogu",
+      "email": "irdsngoprakash@gmail.com",
+      "designation": "Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5043",
+  "name": "I.R.D.S. (INTEGRATED RURAL DEVELOPMENT SOCIETY)",
+  "primaryEmail": "irdsngoprakash@gmail.com",
+  "website": "http//:www.irdsngoprakash.blogspot.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918008576232"
+  ],
+  "mainAddrress": {
+    "state": "Telangana",
+    "address": [
+      "H.No:2-37,Y.N.PURAM (POST),KALLUR(MANDAL)KHAMMAM (DIST) ANDHRA PRADESH, INDIA.",
+      "4-37,DONKA VEEDI.V.R.PURAM (POST)(MANDAL) Mobile No:8790178921,8008576232",
+      "KHAMMAM",
+      "Khammam",
+      "Telangana",
+      "507209"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Telangana",
+    "address": [
+      "Not Provided",
+      "KHAMMAM",
+      "Khammam",
+      "Telangana",
+      "507209"
+    ]
+  }
+}

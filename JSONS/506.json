@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "name": "Ruchi Shah",
+      "email": "ruchi@vidyaandchild.org",
+      "designation": "Associate Director",
+      "mobile": []
+    },
+    {
+      "name": "Ruchi Shah",
+      "email": "ruchi@vidyaandchild.org",
+      "designation": "Associate Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=506",
+  "name": "Jayaprakash Narayan Memorial Trust",
+  "primaryEmail": "info@vidyaandchild.org",
+  "website": "www.vidyaandchild.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919810097572"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "1654 ATS Greens Village, Plot # 1 Express way",
+      "Sector 93 A",
+      "Noida",
+      "Gautam Buddha Nagar",
+      "Uttar Pradesh",
+      "201304"
+    ]
+  },
+  "briefDescription": "Vidya & Child works in marginalised communities, exploring the unique potential in each child by providing opportunities for value integrated learning and development. It works with 1600 first generation learners from age 4+ to 20+ years of age across 4 different communities in Noida (Delhi NCR) and 1 in Siwan (Bihar)",
+  "yearOfEstablishment": "1997"
+}

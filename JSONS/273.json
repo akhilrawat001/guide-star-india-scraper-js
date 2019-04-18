@@ -1,0 +1,36 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=273",
+  "name": "The Society for Door-Step Schools",
+  "primaryEmail": "mumbai@doorstepschool.org",
+  "website": "http://www.doorstepschool.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "912223826343",
+    "919821058655"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Jagannath Shankarsheth Mun. School Bldg 2nd Floor, Room no.54/55",
+      "Grant Road, Nana Chowk",
+      "Mumbai",
+      "Maharashtra",
+      "400007"
+    ]
+  },
+  "briefDescription": "Door Step School is a registered non-governmental organization working to promote education and impart literacy skills among the socially and economically disadvantaged children of urban slum communities in Mumbai & Pune. To cater to the scattered group of children on street, Door Step School also runs \"Schools on Wheels\". For children attending schools run by the Municipal Corporation in both cities, the organization offers direct intervention supporting the process of learning.  The Door Step School also has other supportive programs for further educational development of these children. Today the organization’s annual outreach exceeds 1,10,000 children altogether in both cities.",
+  "yearOfEstablishment": "1989",
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "529, Arun Chambers,",
+      "Tardeo Road,",
+      "Mumbai",
+      "Maharashtra",
+      "400034"
+    ]
+  }
+}

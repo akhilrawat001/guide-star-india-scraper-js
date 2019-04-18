@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "P.GUNASEKAR",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6763",
+  "name": "Food Education Environment Law Trust (FEEL TRUST)",
+  "primaryEmail": "feeltrust.2014@gmail.com",
+  "website": "www.feeltrust.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919092230350"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "1/130,PAVUN NAGAR,NACHIKURICHI,TRICHY-620102",
+      "NO-3, MANO COMPLEX,(OPP)-Govt..,ITI",
+      "THIRUVERUMBUR",
+      "Tiruchirappalli",
+      "Tamil Nadu",
+      "620014"
+    ]
+  }
+}

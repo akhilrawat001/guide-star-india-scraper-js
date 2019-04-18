@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Sanjib Kumar Pattanaik",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8005",
+  "name": "Anchalik Samrudhi Sadhana Anusthan",
+  "primaryEmail": "assa.kursud@yahoo.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919776863787"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "AT/PO-Kursud,",
+      "Via-Sindhekela",
+      "Balangir",
+      "Odisha",
+      "767035"
+    ]
+  }
+}

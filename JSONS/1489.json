@@ -1,0 +1,25 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1489",
+  "name": "Mega International",
+  "primaryEmail": "megainternational.ngo@gmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Network"
+  ],
+  "telephone": [
+    "919386957608"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "Siya Saran Niketan",
+      "Saraswati lane,Lohanipur,Kadamkuan",
+      "Patna",
+      "Bihar",
+      "800003"
+    ]
+  }
+}

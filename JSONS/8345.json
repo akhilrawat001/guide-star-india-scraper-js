@@ -1,0 +1,34 @@
+{
+  "contacts": [
+    {
+      "name": "Kalyan Roy",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8345",
+  "name": "SOUTHERN RESQUE",
+  "primaryEmail": "southernresque@rediffmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919679143868",
+    "919851809072"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Vill+P.O.-P.S.-Kulpi",
+      "117 No. National Haiway Kolkata To Kakdwip",
+      "Kulpi",
+      "South 24 Parganas",
+      "West Bengal",
+      "743351"
+    ]
+  }
+}

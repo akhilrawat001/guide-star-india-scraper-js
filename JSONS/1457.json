@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "V.Krishnamurthi",
+      "email": "",
+      "designation": "Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1457",
+  "name": "Duraisamy Generous Social Education Association",
+  "primaryEmail": "duraisamygenerous@gmail.com",
+  "telephone": [
+    "914427553364",
+    "919443352364"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "Vilvarayanallur New",
+      "Mambakkam Post Maduranthakam",
+      "Maduranthakam",
+      "Kancheepuram",
+      "Tamil Nadu",
+      "603306"
+    ]
+  }
+}

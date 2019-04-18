@@ -1,0 +1,31 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=493",
+  "name": "The Association of the Physically Handicapped",
+  "primaryEmail": "joycemp@apd-india.org",
+  "website": "http://www.apd-india.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "918025475165",
+    "918025470390",
+    "918025475165"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "6th Cross, Hutchins Road",
+      "Off Hennur Road, Lingarajapuram, St Thomas Town Post",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560084"
+    ]
+  },
+  "briefDescription": "The Association of people with Disability (APD) since its inception in 1959 has focused through its various programs on comprehensive rehabilitation of disabled people especially from impoverished segment of our society.",
+  "yearOfEstablishment": "1959"
+}

@@ -1,0 +1,36 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1091",
+  "name": "Jagran Jan Vikas Samiti",
+  "primaryEmail": "jagranudr@gmail.com",
+  "website": "www.jjvs.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "912942441322",
+    "919928816225"
+  ],
+  "mainAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "Ganesh Purohit(Director)",
+      "Udaipur",
+      "Rajasthan",
+      "313011"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "Vill. Vali,Via-Kurabad,Tehsil-Girwa,",
+      "Udaipur",
+      "Rajasthan",
+      "313011",
+      "AP_ElecBill_1018.PDF"
+    ]
+  }
+}

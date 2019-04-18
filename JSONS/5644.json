@@ -1,0 +1,37 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5644",
+  "name": "SWAMINI VIDHWA VIKAS MANDAL",
+  "primaryEmail": "swaminigroup@rediffmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "917242456000",
+    "919273223111",
+    "917242458000",
+    "919270468468"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "15, kunal complex,",
+      "main road, ranpise nagar, swamini square,",
+      "akola",
+      "Akola",
+      "Maharashtra",
+      "444002"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Ridhora",
+      "Taluka Balapur",
+      "Dist Akola",
+      "Akola",
+      "Maharashtra",
+      "444302"
+    ]
+  }
+}

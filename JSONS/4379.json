@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "SUNIL BANSAL",
+      "email": "saffrontohana@gmail.com",
+      "designation": "Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4379",
+  "name": "SAFFRON EDUCATION AND HEALTH CARE SOCIETY",
+  "primaryEmail": "saffrontohana@GMAIL.COM",
+  "website": "www.saffronehs.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919728074226"
+  ],
+  "mainAddrress": {
+    "state": "Haryana",
+    "address": [
+      "NEAR LIC OFFICE RATIA ROAD TOHANA",
+      "TOHANA",
+      "Fatehabad",
+      "Haryana",
+      "125120"
+    ]
+  }
+}

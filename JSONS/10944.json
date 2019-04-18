@@ -1,0 +1,42 @@
+{
+  "contacts": [
+    {
+      "name": "Lakshman Kumar Mahata",
+      "email": "",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10944",
+  "name": "Jhargram Honest Mission",
+  "primaryEmail": "jhmission2013@gmail.com",
+  "website": "www.jhargramhonestmission.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "916297062998"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Bachurdoba",
+      "At- Jamboni, P.O- Kismat Jamboni, P.S- Jamboni",
+      "Jamboni",
+      "West Medinipur",
+      "West Bengal",
+      "721507"
+    ]
+  },
+  "briefDescription": "Jhargram Honest Mission is located in West Medinipur, West Bengal.",
+  "yearOfEstablishment": "2009",
+  "regiseredAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Bachurdoba",
+      "West Medinipur",
+      "West Bengal",
+      "721507"
+    ]
+  }
+}

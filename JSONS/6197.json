@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Mr.B.V.Ramana Murthy",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6197",
+  "name": "RURAL ONGOING SERVICES AND ENLIGHTENMENT SOCIETY",
+  "primaryEmail": "rosesppm@rediffmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918963201059",
+    "918963201059"
+  ],
+  "mainAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "ROSES HEAD OFFICE CUM TRAINING CENTRE, SIVINI VILLAGE",
+      "VIKRAMAPURAM POST, PARVATIPURAM HO",
+      "VIZIANAGARAM",
+      "Vizianagaram",
+      "Andhra Pradesh",
+      "535501"
+    ]
+  }
+}

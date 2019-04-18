@@ -1,0 +1,27 @@
+{
+  "contacts": [
+    {
+      "name": "S R Patil",
+      "email": "bapujirds@gmail.com",
+      "designation": "Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2853",
+  "name": "Bapuji Rural Development Society",
+  "primaryEmail": "bapujirds@gmail.com",
+  "telephone": [
+    "918354200441",
+    "918354200441"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "plot no. D 7 & 8,",
+      "Sector No. 25, F road, Navanagar,",
+      "Bagalkot",
+      "Karnataka",
+      "587301"
+    ]
+  }
+}

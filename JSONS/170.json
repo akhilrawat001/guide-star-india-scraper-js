@@ -1,0 +1,48 @@
+{
+  "contacts": [
+    {
+      "name": "Raju  Joseph",
+      "email": "sppdindia@gmail.com",
+      "designation": "Secretary",
+      "mobile": [
+        "+91 4326-20131",
+        "91-9842481968"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=170",
+  "name": "Society for Poor People Development",
+  "primaryEmail": "sppdindia@gmail.com",
+  "website": "www.sppdonline.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "914326294525",
+    "919865181971",
+    "914314001970"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "1/76 – A, Thuraiyur Main Road",
+      "Soriyampatty, M.Pudhupatti",
+      "Musiri",
+      "Tiruchirappalli",
+      "Tamil Nadu",
+      "621211"
+    ]
+  },
+  "briefDescription": "SPPD in its 20 years of travel has come a long way in bringing transition among the targeted community – children & youth, women and farmers. Our 23 Evening study centers takes care of the academic assistance of 9243 children, provision of educational material and nutritional support. We also offer vocational skill training support to youth who would have been drop outs and pushed into the unskilled labour sector.  465 youth have transformed as educated, skilled, employed, independent, self-reliant, and financially contributing to their families and communities.Our partnership with Nationalized banks has become physically powerful in empowering the women community with financial inclusions which strengthens their social and economic status. New areas in which we initiated our immediate action were to the victims of the November 2015 floods in Chennai.",
+  "yearOfEstablishment": "1995",
+  "regiseredAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "1/76A, Thuraiyur Main Road, Soriyampatti",
+      "M.Pudhupatti Post, Musiri Taluk",
+      "Tiruchirappalli",
+      "Tamil Nadu",
+      "621211"
+    ]
+  }
+}

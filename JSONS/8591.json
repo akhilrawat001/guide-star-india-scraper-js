@@ -1,0 +1,24 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8591",
+  "name": "SAAD FOUNDATION",
+  "primaryEmail": "saadfoundation2010@gmail.com",
+  "website": "www.saadfoundationmumbai.org",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "917710924631"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Room No 1030,Panchshil Nagar,",
+      "Amar Mahal,",
+      "Chembur",
+      "Mumbai Suburban",
+      "Maharashtra",
+      "400089"
+    ]
+  }
+}

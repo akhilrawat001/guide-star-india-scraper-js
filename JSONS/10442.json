@@ -1,0 +1,50 @@
+{
+  "contacts": [
+    {
+      "name": "AMAN VERMA",
+      "email": "amanverma128@yahoo.com",
+      "designation": "Trustee",
+      "mobile": []
+    },
+    {
+      "name": "AMAN VERMA",
+      "email": "amanverma128@yahoo.com",
+      "designation": "Trustee",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10442",
+  "name": "HEALTHY SMILE TRUST",
+  "primaryEmail": "healthysmile92@gmail.com",
+  "website": "https://www.healthysmilee.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Support"
+  ],
+  "telephone": [
+    "918743813183",
+    "918744824175"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "Kalyanpuri Delhi",
+      "Gali No 2",
+      "New Delhi",
+      "Delhi",
+      "110091"
+    ]
+  },
+  "briefDescription": "We have come forward to help a poor and underprivileged child and women.. and also orphanage and old age homes",
+  "yearOfEstablishment": "2018",
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "16/170, Second Floor, Kalyanpuri",
+      "Gali No 2",
+      "Delhi",
+      "New Delhi",
+      "110091"
+    ]
+  }
+}

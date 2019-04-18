@@ -1,0 +1,37 @@
+{
+  "contacts": [
+    {
+      "name": "MR.DILIP AGRAWAL",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "282309"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7031",
+  "name": "VIDYARTHI SAHAYYAK SAMITI WARORA",
+  "primaryEmail": "dnyanda1@yahoo.co.in",
+  "website": "http://www.dnyanda.org",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "917176282309",
+    "917176282309"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "DNYANDA HOSTEL CAMPUS",
+      "NEAR ANANDWAN SQUARE, WARORA",
+      "WARORA",
+      "Chandrapur",
+      "Maharashtra",
+      "442914"
+    ]
+  },
+  "briefDescription": "We are a non-profit NGO working for fulfilling the ambition of poor and meritorious students. We runhostel cum educational institutions for this.",
+  "yearOfEstablishment": "1971"
+}

@@ -1,0 +1,33 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=813",
+  "name": "Seva Samiti",
+  "primaryEmail": "mailme.sevasamiti@rediff.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "916762213712",
+    "919937267103"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "At – Namachira, Via – Bhapur",
+      "Kankadahad",
+      "Dhenkanal",
+      "Odisha",
+      "759015"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Odisha",
+    "address": [
+      "At: - Nanachira P.O. - Kankadahad (Sadar) Via: Bhapur",
+      "Sadar",
+      "Dhenkanal",
+      "Odisha",
+      "759015"
+    ]
+  }
+}

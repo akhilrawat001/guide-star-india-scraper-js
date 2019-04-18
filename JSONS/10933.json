@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "D K Singhal",
+      "email": "rubal_gsvm@yahoo.co.in",
+      "designation": "Trustee",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10933",
+  "name": "MAA-SI CARE FOUNDATION TRUST",
+  "primaryEmail": "rubal_gsvm@yahoo.co.in",
+  "website": "www.maasicare.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "917275421569"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "12/87, Vikas Nagar",
+      "Lucknow",
+      "Uttar Pradesh",
+      "226022"
+    ]
+  },
+  "briefDescription": "Maa-Si Care Foundation Trust is located in Lucknow, Uttar Pradesh.",
+  "yearOfEstablishment": "2017"
+}

@@ -1,0 +1,36 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=122",
+  "name": "Isha Foundation",
+  "primaryEmail": "info@ishafoundation.org",
+  "website": "www.ishafoundation.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "914222615345",
+    "914222515499",
+    "914222615345"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "Isha Outreach 23/7 Raja nagar, 2nd street",
+      "Sewripalayam",
+      "Coimbatore",
+      "Tamil Nadu",
+      "641028"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "15, Govindaswamy Layout",
+      "Singanallur",
+      "Coimbatore",
+      "Tamil Nadu",
+      "641005",
+      "AP_TelBill_22.PDF"
+    ]
+  }
+}

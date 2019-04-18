@@ -1,0 +1,38 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10844",
+  "name": "RISE INDIA FOUNDATION",
+  "primaryEmail": "riseindiafoundation@gmail.com",
+  "website": "https://www.rifngo.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919999748750"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "I-2/484, Gali No. 13,",
+      "Old No. I-1269/13 GF",
+      "Sangam Vihar, New Delhi",
+      "South East Delhi",
+      "Delhi",
+      "110080"
+    ]
+  },
+  "briefDescription": "WE ARE WORKING ON OLD AGE AND PHYSICALLY HANDICAPPED PERSONS AND PROVIDING FREE OF COST FOOD, MEDICINE, CLOTHES AND ANY FULFILL ALL REQUIREMENTS",
+  "yearOfEstablishment": "2016",
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "I-2/484 Gali No. 13",
+      "Old No. I-1269, Gali No. 13, Block-I",
+      "Sangam Vihar",
+      "South East Delhi",
+      "Delhi",
+      "110080"
+    ]
+  }
+}

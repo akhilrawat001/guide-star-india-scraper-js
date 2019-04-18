@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "Shakir Husain",
+      "email": "",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=593",
+  "name": "Student Social Organisation",
+  "primaryEmail": "sso_socialorg@yahoo.com",
+  "telephone": [
+    "919453818349"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "Vill-Rampur",
+      "Gauri Bazar",
+      "Deoria",
+      "Uttar Pradesh",
+      "274202"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "Kamal Hostel (Kamal & Brothers) Khokhar Tola",
+      "Gita Press",
+      "Gorakhpur",
+      "Uttar Pradesh",
+      "273005"
+    ]
+  }
+}

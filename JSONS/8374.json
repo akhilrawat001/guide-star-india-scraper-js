@@ -1,0 +1,27 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8374",
+  "name": "Sai Ram Welfare Society",
+  "primaryEmail": "sairamwelfare@gmail.com",
+  "website": "www.sairamwelfare.com",
+  "organisationType": [
+    "Direct Service",
+    "Grant-making",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919431359999"
+  ],
+  "mainAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "Ramson Arcade, Shastri Nagar,Bank More, Dhanbad,",
+      "Bank More, Dhanbad",
+      "Dhanbad",
+      "Jharkhand",
+      "826001",
+      "Bank Account.PDF"
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "ANJALI BAR",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4914",
+  "name": "RUPAMARI RURAL DEVELOPMENT SOCIETY",
+  "primaryEmail": "rupamariruraldevelopmentsocie@yahoo.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919732958561"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "vill+po-Rupamari, Block-Hingalganj, Dist-North 24 Parganas, Pin Code-743435.",
+      "BC-50/2,Salt Lake, Bidhannagar, Kolkata-700064,WB.",
+      "KOLKATA-700064.",
+      "North 24 Parganas",
+      "West Bengal",
+      "743435"
+    ]
+  }
+}

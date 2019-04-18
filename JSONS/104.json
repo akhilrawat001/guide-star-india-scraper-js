@@ -1,0 +1,38 @@
+{
+  "contacts": [
+    {
+      "name": "Shalini Kamath",
+      "email": "shalini.kamath@indiancancersociety.org",
+      "designation": "CEO",
+      "mobile": [
+        "91-22-24139445"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=104",
+  "name": "The Indian Cancer Society",
+  "primaryEmail": "shalini.kamath@indiancancersociety.org",
+  "website": "www.indiancancersociety.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "912224139445",
+    "912224139451",
+    "912224156851"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "74, Jerbai Wadia Road",
+      "Bhoiwada, Parel",
+      "Mumbai",
+      "Maharashtra",
+      "400012"
+    ]
+  },
+  "briefDescription": "•\tIndian Cancer Society is Leading the fight against cancer in India. •\tCreating awareness among the general populace about cancer, its risk factors, the importance of early detection, treatment options and survivorship. •\tEnabling Cancer detection for the poor through fixed and mobile cancer detection camps. •\tHelping the poor in the treatment of cancer through various funding projects at different stages and levels, on an all India basis.•\tSupport, Rehabilitation and Survivorship for poor cancer patients. •\tResearch and Knowledge through the Indian Journal of Cancer and the Mumbai Cancer Registry.",
+  "yearOfEstablishment": "1951"
+}

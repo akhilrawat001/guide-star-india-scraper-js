@@ -1,0 +1,41 @@
+{
+  "contacts": [
+    {
+      "name": "Anant Bhaskar Garg",
+      "email": "anantg@hrdef.org",
+      "designation": "Director",
+      "mobile": []
+    },
+    {
+      "name": "Anant Bhaskar Garg",
+      "email": "anantg@hrdef.org",
+      "designation": "Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6573",
+  "name": "HaritaDhara Research Development and Education Foundation",
+  "primaryEmail": "anantg@hrdef.org",
+  "website": "www.hrdef.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network"
+  ],
+  "telephone": [
+    "919412989631",
+    "911352710616"
+  ],
+  "mainAddrress": {
+    "state": "Uttarakhand",
+    "address": [
+      "10 Vishnu Road",
+      "Near D.B.S. College",
+      "Dehradun",
+      "Uttarakhand",
+      "248001"
+    ]
+  },
+  "briefDescription": "HRDEF committed to establish processes and organization for educating for sustainable development, management of environmental and water issues through involving children, youth, and elders using ICT. HRDEF promoting capacity building for environment and sustainable development in children, youth, and skills development. HRDEF promotes natural, water, land resource management, sustainable agriculture, bio-diversity enrichment, and disaster management using educational inventiveness for smart cities and villages.",
+  "yearOfEstablishment": "2014"
+}

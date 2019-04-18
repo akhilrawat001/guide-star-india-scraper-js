@@ -1,0 +1,34 @@
+{
+  "contacts": [
+    {
+      "name": "MR.RAJENDRA HARITWAL",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7523",
+  "name": "PANDIT JAGANNATH JOSHI CHARITABLE TRUST",
+  "primaryEmail": "haritwal_rajendra@rediffmail.com",
+  "website": "https://panditjjct.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "911412341370",
+    "919414056633"
+  ],
+  "mainAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "99, SHRI RAMPURI",
+      "NIWARU ROAD,JHOTWARA",
+      "JAIPUR",
+      "Jaipur",
+      "Rajasthan",
+      "302012"
+    ]
+  }
+}

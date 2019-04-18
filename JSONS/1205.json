@@ -1,0 +1,29 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1205",
+  "name": "Development Support Centre",
+  "primaryEmail": "dsc@dscindia.org",
+  "website": "http://www.dscindia.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "912717235993",
+    "912717235994",
+    "912717235993"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "Marutinandan village,",
+      "Near Government Tubewell, Bopal",
+      "Ahmedabad",
+      "Gujarat",
+      "380058",
+      "AP_TelBill_1109.PDF"
+    ]
+  }
+}

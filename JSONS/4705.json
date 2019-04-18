@@ -1,0 +1,56 @@
+{
+  "contacts": [
+    {
+      "name": "Kaveri Dutt",
+      "email": "coo@consumervoice.org",
+      "designation": "Head Project & Resources",
+      "mobile": [
+        "91-11-47331023"
+      ]
+    },
+    {
+      "name": "Kaveri Dutt",
+      "email": "coo@consumervoice.org",
+      "designation": "Head Project & Resources",
+      "mobile": [
+        "91-11-47331023"
+      ]
+    },
+    {
+      "name": "Kaveri Dutt",
+      "email": "coo@consumervoice.org",
+      "designation": "Head Project & Resources",
+      "mobile": [
+        "91-11-47331023"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4705",
+  "name": "Voluntary Organisation in Interest of Consumer Education- VOICE",
+  "primaryEmail": "coo@consumer-voice.org",
+  "website": "www.consumer-voice.org",
+  "telephone": [
+    "911147331025",
+    "919350998460"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "O-45, Basement Lajpatnagar Ii,",
+      "Ring Road",
+      "New Delhi",
+      "Delhi",
+      "110024"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "0-45 (Basement) Lajpat Nagar II",
+      "Ring Road",
+      "New Delhi",
+      "Delhi",
+      "110024"
+    ]
+  }
+}

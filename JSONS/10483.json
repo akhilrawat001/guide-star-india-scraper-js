@@ -1,0 +1,29 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10483",
+  "name": "AAYAM FOUNDATION",
+  "primaryEmail": "AAYAM.FOUNDATION2018@GMAIL.COM",
+  "website": "http://www.aayamfoundation.in/",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919799393701"
+  ],
+  "mainAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "61, Riddhi Siddhi Nagar, Harnathpura, Kalwar Road, Jaipur",
+      "Jaipur",
+      "Rajasthan",
+      "302012"
+    ]
+  },
+  "briefDescription": "Aayam Foundation is located in Jaipur, Rajasthan.",
+  "yearOfEstablishment": "2018"
+}

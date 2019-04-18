@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Prasanna V R",
+      "email": "prasanna.sikshana@gmail.com",
+      "designation": "CEO",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=474",
+  "name": "Sivasri Charitable Trust",
+  "primaryEmail": "prasanna.sikshana@gmail.com",
+  "website": "http://www.sikshana.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919972039890",
+    "918041238853"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "298/C 7th Main 4th Block Jayanagar",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560011"
+    ]
+  },
+  "briefDescription": "Sikshana is a unique effort started by the Sikshana Foundation (aka Sivasri Charitable Trust) that aims at improving learning levels in the government primary schools through better access and delivery of education. The program has grown in six years to cover 1115 schools and 180,000 children, becoming one of the top such interventions in the country. We are working with several Government Primary and High schools across the states of Karnataka, Andhra Pradesh, Maharashtra and Gujarat, providing resources and enabling them to become better schools.",
+  "yearOfEstablishment": "1996"
+}

@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "Dr. Koti Reddy",
+      "email": "kotireddy@mohanfoundation.org",
+      "designation": "Director - Liaison & Strategy",
+      "mobile": [
+        "91-40-66369369",
+        "91-8801709800"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2016",
+  "name": "Mohan Foundation",
+  "primaryEmail": "info@mohanfoundation.org",
+  "website": "www.mohanfoundation.org",
+  "telephone": [
+    "914426263372",
+    "919444607000",
+    "914426447000",
+    "914066369369",
+    "918801709800"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "3rd Floor, Toshniwal Building",
+      "267, Kilpauk Garden Road,",
+      "Chennai",
+      "Tamil Nadu",
+      "600010"
+    ]
+  },
+  "briefDescription": "MOHAN Foundation is a not-for-profit organization started to promote organ donation in 1997 in Chennai by philanthropists and medical professionals led by Dr. Sunil Shroff. It is a registered NGO with Income Tax exemption under Section 80G and 35AC and has offices in Chennai, Hyderabad, Delhi-NCR, Chandigarh, Nagpur, Jaipur, Mumbai and USA. MOHAN Foundation was started by a group of like-minded and concerned medical and non-medical professionals committed to increasing the reach of the Transplantation of Human Organs Act.",
+  "yearOfEstablishment": "1997"
+}

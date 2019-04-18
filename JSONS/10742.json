@@ -1,0 +1,55 @@
+{
+  "contacts": [
+    {
+      "name": "Varsha Gaud",
+      "email": "VARSHA.GAUD@REDIFFMAIL.COM",
+      "designation": "Additional Director",
+      "mobile": [
+        "91-9452942970"
+      ]
+    },
+    {
+      "name": "Varsha Gaud",
+      "email": "VARSHA.GAUD@REDIFFMAIL.COM",
+      "designation": "Additional Director",
+      "mobile": [
+        "91-9452942970"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10742",
+  "name": "SRI CHITRAGUPTA JAN KALYAN FOUNDATION",
+  "primaryEmail": "info.srichitraguptaindia@gmail.com",
+  "website": "http://srichitraguptafoundation.org.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Intermediary"
+  ],
+  "telephone": [
+    "919452942970",
+    "919889912610"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "371 Vishnupuri Colony, Gonda",
+      "Civil line",
+      "Gonda",
+      "Uttar Pradesh",
+      "271001"
+    ]
+  },
+  "briefDescription": "Sri Chitragupta Jan Kalyan Foundation provides field support and Documentation Support to the staff of Different National and International Organizations on Institutional Building, Health,Education,Women Empowerment. Sri Chitragupta Jan Kalyan Foundation extended its support activities to 3 states of India – Uttar Pradesh,Madhya Pradesh. Sri Chitragupta Jan Kalyan Foundation is also providing Capacity Building support to its clients.",
+  "yearOfEstablishment": "2018",
+  "regiseredAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "371 Vishnupuri C0Lony, Gonda",
+      "Civil line",
+      "Gonda",
+      "Uttar Pradesh",
+      "271001"
+    ]
+  }
+}

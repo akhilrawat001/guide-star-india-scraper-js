@@ -1,0 +1,41 @@
+{
+  "contacts": [
+    {
+      "name": "DR PK SINGH",
+      "email": "hdwsociety@gmail.com",
+      "designation": "SECRETARY",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4441",
+  "name": "HEALTH DEVELOPMENT AND WELFARE SOCIETY",
+  "primaryEmail": "hdwsociety@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919931022419"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "50A\\175",
+      "ROAD NO 6 ,SANJAY GANDHI NAGAR ,HANUMAN NAGAR",
+      "patna",
+      "Patna",
+      "Bihar",
+      "800020"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Bihar",
+    "address": [
+      "sanjay gandhi nagar,road no-6 h\\o dr pk singh",
+      "hanuman nagar",
+      "patna",
+      "Patna",
+      "Bihar",
+      "800020"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "contacts": [
+    {
+      "name": "Mr. Sagar Chavan",
+      "email": "ssanstha123@gmail.com",
+      "designation": "PRESIDENT",
+      "mobile": [
+        "9420545323"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7473",
+  "name": "SHRI SAMARTH BAHUUDDESHIYA VA SANSHODHAN SANSTHA",
+  "primaryEmail": "ssanstha123@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "918605377197"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "18/35 Vasantrav Naik Nagar,",
+      "Vijapur Road,",
+      "Solapur,",
+      "Solapur",
+      "Maharashtra",
+      "413004"
+    ]
+  },
+  "briefDescription": "SHRI SAMARTH BAHUUDDESHIYA VA SANSHODHAN SANTHA is located in Solapur, Maharashtra.",
+  "yearOfEstablishment": "1991"
+}

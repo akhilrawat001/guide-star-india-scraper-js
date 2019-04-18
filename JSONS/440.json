@@ -1,0 +1,35 @@
+{
+  "contacts": [
+    {
+      "name": "N Sajitha",
+      "email": "Sahara_ngo@rediffmail.com",
+      "designation": "Project coordinator",
+      "mobile": [
+        "91-40-27407952"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=440",
+  "name": "Sahara",
+  "primaryEmail": "sahara_ngo@rediffmail.com",
+  "website": "http://www.saharangots.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "914027407952",
+    "919440483089"
+  ],
+  "mainAddrress": {
+    "state": "Telangana",
+    "address": [
+      "2-3-703/k/1, Tirumala Nagar",
+      "Amberpet",
+      "Hyderabad",
+      "Telangana",
+      "500013"
+    ]
+  },
+  "briefDescription": "Sahara is a grass root level orgn, working in  Hyderabad and rural areas  of Telangana state for the past 28 years. It has 80G tax exemption and registered under FCRA.Working for Girl child Edn, Adopting destitute aged, skill devpt among young women & youth, Save environment  and health education.",
+  "yearOfEstablishment": "1988"
+}

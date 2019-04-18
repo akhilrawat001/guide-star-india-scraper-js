@@ -1,0 +1,37 @@
+{
+  "contacts": [
+    {
+      "name": "Wayne D'Cruze",
+      "email": "wayne@kadamindia.org",
+      "designation": "Office Assistant",
+      "mobile": [
+        "40040283",
+        "9331215060"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5243",
+  "name": "Kadam",
+  "primaryEmail": "info@kadamindia.org",
+  "website": "www.kadamindia.org",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919331215060",
+    "913332997958"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "44B, Syed Amir Ali Avenue",
+      "Beckbagan",
+      "Kolkata",
+      "West Bengal",
+      "700017"
+    ]
+  },
+  "briefDescription": "Kadam is an NGO for the villages in West Bengal. It was formed in 2006. Our main aim is to train artisans in the field of handicrafts. We do this by adopting a craft cluster, eg. we now work with 2 clusters in Kharagpur & Belda. The artisans specialize in Sabaii Grass and Bamboo made goods. In order to market their produce and bring more awareness to Indian consumers, we have created a project called \"Kadam Haat\". The handicrafts are displayed in exhibitions under the latter name.Once our artisans are economically sustainable, we release them into the market, which means they can form their own firms and sell as individual entrepreneurs. We sell to 107 buyers in IndiaWe train Male (75) & Female (15)",
+  "yearOfEstablishment": "2006"
+}

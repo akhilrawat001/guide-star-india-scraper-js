@@ -1,0 +1,40 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6244",
+  "name": "BRUU FOUNDATION",
+  "primaryEmail": "bruufoundation@gmail.com",
+  "website": "www.bruufoundation.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919259001007"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "199 SHIV LOK",
+      "KANKER KHERA SARDHANA ROAD",
+      "MEERUT",
+      "Meerut",
+      "Uttar Pradesh",
+      "250001"
+    ]
+  },
+  "briefDescription": "We are a young social organization registered office in New Delhi and head office in Jaipur, with our operations having commenced in 120 districts across the country, operated from 9 locations spread across. Our mentors are experienced leaders from the corporate sector with considerable exposure to learning & development, Vocational education and Social Sector.Bruu works in social issue in the sector of Skill Development, CSR, Education, Child development, Environment, Health, HIV/Aids, Women Empowerment, Social & Economic Development and Rural Development .etc,",
+  "yearOfEstablishment": "2014",
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "C 1/40 RAMA PARK",
+      "NEAR SCHOOL UTTAM NAGAR",
+      "WEST DELHI",
+      "West Delhi",
+      "Delhi",
+      "110059"
+    ]
+  }
+}

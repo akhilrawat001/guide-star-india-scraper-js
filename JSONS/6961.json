@@ -1,0 +1,40 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6961",
+  "name": "International Rural Education & Cultural Association",
+  "primaryEmail": "info@inreca.com",
+  "website": "www.inreca.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "912649234334",
+    "912649234333"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "INRECA Complex",
+      "Rajpipla Road,",
+      "Dediapada",
+      "Narmada",
+      "Gujarat",
+      "393040"
+    ]
+  },
+  "briefDescription": "INRECA Sansthan is an action oriented rural development organization working the field of Education, health, livelihood, skill development, environment, agriculture, land and water resources development since 1984 without any discrimination any caste, creed and community in 100% backward and tribal areas of Narmada and Bharuch district.",
+  "yearOfEstablishment": "1984",
+  "regiseredAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "INRECA Complex",
+      "Rajpipla Road",
+      "DEDIAPADA",
+      "Narmada",
+      "Gujarat",
+      "393040"
+    ]
+  }
+}

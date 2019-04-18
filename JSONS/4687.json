@@ -1,0 +1,46 @@
+{
+  "contacts": [
+    {
+      "name": "Yugal Kishor",
+      "email": "yugalkishorbawari@gmail.com",
+      "designation": "Member of Committee",
+      "mobile": [
+        "91-9456575173"
+      ]
+    },
+    {
+      "name": "Yugal Kishor",
+      "email": "yugalkishorbawari@gmail.com",
+      "designation": "Member of Committee",
+      "mobile": [
+        "91-9456575173"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4687",
+  "name": "U.S.R. Indu Society",
+  "primaryEmail": "usrindusociety@gmail.com",
+  "website": "www.usrindusamiti.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Support"
+  ],
+  "telephone": [
+    "919927147950",
+    "919456575173"
+  ],
+  "mainAddrress": {
+    "state": "Uttarakhand",
+    "address": [
+      "Basai, P.O Peerumadara",
+      "Ramnagar",
+      "Nainital",
+      "Uttarakhand",
+      "244715"
+    ]
+  },
+  "briefDescription": "The Vision of the Samiti is to create such composite culture, where all the people will live together with equality without cast, color, physical and mental differences.At present the Samiti is running, at its headquarter, a Special School with inclusive setup and residential facilities for Special Needs Children of Uttarakhand as well as a Skill Development Training Centre for differently able children and people of the Uttarakhand.",
+  "yearOfEstablishment": "2000"
+}

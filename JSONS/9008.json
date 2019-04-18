@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "Partha Sarathi Pal",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9008",
+  "name": "Singhapara Rural Welfare Society",
+  "primaryEmail": "srws_vo@rediffmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919153009765"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Vill-Singhapara, PO-Sadya,",
+      "Bardhaman",
+      "West Bengal",
+      "713407"
+    ]
+  }
+}

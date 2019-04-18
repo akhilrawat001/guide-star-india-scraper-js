@@ -1,0 +1,49 @@
+{
+  "contacts": [
+    {
+      "name": "SHARMILA M",
+      "email": "mugavarifoundation@gmail.com",
+      "designation": "ADMIN",
+      "mobile": [
+        "91-44-24762710"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4957",
+  "name": "MUGAVARI FOUNDATION",
+  "primaryEmail": "mugavarifoundation@gmail.com",
+  "website": "http://www.mugavarifoundation.org",
+  "organisationType": [
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "914424762710",
+    "919566150942"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "14/1, FIRST STREET",
+      "KARAMBAKKAM, PORUR",
+      "CHENNAI",
+      "Chennai",
+      "Tamil Nadu",
+      "600116"
+    ]
+  },
+  "briefDescription": "Mugavari means address. Every living being in the world has a sense of humaneness. By creating a suitable situation we can induce the humaneness inside everyone. Such induced human being stands as an address for others whose humaneness is to be induced. We are creating such an address within everyone.We act as a bridge between the needy and those who are able to provide the needy. We are helping students from economically backward section in pursuing their higher education. Till now 330 students are helped by us. In that, there are 65 MBBS students and 2 students cleared UPSC examination.We have provided an opportunity to the outgoing students in contributing back through Vanavil (means Rainbow) Scheme through which students can contribute 7% of their earnings back to Mugavari Foundation.",
+  "yearOfEstablishment": "2011",
+  "regiseredAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "2/79, MUGAVARI ILLAM",
+      "ARATHI AGRAHARAM, KAMAKKAPALAYAM POST",
+      "ATTUR TALUK",
+      "Salem",
+      "Tamil Nadu",
+      "636112"
+    ]
+  }
+}

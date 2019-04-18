@@ -1,0 +1,43 @@
+{
+  "contacts": [
+    {
+      "name": "CHANDESHWAR RAM",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6359",
+  "name": "KANYA VIVAH AVAM KALYAN SAMITI",
+  "primaryEmail": "kanyavivahevamkalyansamiti@rediffmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "917209793705"
+  ],
+  "mainAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "OPP - INDIAN OIL PETRO PUMP,",
+      "MAIN ROAD KANDRA,",
+      "PO & PS - KANDRA,",
+      "Seraikela-Kharsawan",
+      "Jharkhand",
+      "832402"
+    ]
+  },
+  "briefDescription": "KANYA VIVAH AVAM KALYAN SAMITI is located in Jharkhand",
+  "yearOfEstablishment": "2012",
+  "regiseredAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "C/O- SAI STEEL FURNITURE",
+      "MAIN ROAD BISHRAMPUR",
+      "AT+PO+PS- BISHRAMPUR",
+      "Palamu",
+      "Jharkhand",
+      "822132"
+    ]
+  }
+}

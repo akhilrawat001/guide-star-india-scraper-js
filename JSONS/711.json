@@ -1,0 +1,38 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=711",
+  "name": "Amutha Surabi Women Development Society",
+  "primaryEmail": "awds_theni@yahoo.in",
+  "website": "www.amuthasurabi.org",
+  "organisationType": [
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "914546251740",
+    "919843996565"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "265-B, Rameshmurugan Complex",
+      "Subban Street",
+      "Theni",
+      "Tamil Nadu",
+      "625531"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "17 / 1B, Ramalingapuram",
+      "G Usilampatty Post",
+      "Aundipatty",
+      "Theni",
+      "Tamil Nadu",
+      "625517",
+      "AP_TelBill_626.PDF"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "ANJALI AKASH BHALERAO",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5301",
+  "name": "ASHA MAHILA JANKALLAYAN PRATISHTHAN",
+  "primaryEmail": "aashapratishtan@rediffmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning"
+  ],
+  "telephone": [
+    "912431241222",
+    "912431241222"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "149 krushnapur     post bidkin",
+      "paithan road",
+      "taluka paithan",
+      "Aurangabad",
+      "Maharashtra",
+      "431105"
+    ]
+  }
+}

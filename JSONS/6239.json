@@ -1,0 +1,37 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6239",
+  "name": "Skylark Education Welfare Society",
+  "primaryEmail": "skylarkedu.wel.society@gmail.com",
+  "website": "-",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "911313200159",
+    "919958336813"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "297 first floor",
+      "abkari road",
+      "muzaffarnagar",
+      "Muzaffarnagar",
+      "Uttar Pradesh",
+      "251002"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "A45D,SHOP NO.3",
+      "LANE NO.3 MAHENDRU ENCLAVE",
+      "DELHI",
+      "New Delhi",
+      "Delhi",
+      "110033"
+    ]
+  }
+}

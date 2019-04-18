@@ -1,0 +1,26 @@
+{
+  "contacts": [
+    {
+      "name": "A N Pandey",
+      "email": "",
+      "designation": "Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=622",
+  "name": "Gramika India",
+  "primaryEmail": "gramika.india@gmail.com",
+  "telephone": [
+    "919431978933"
+  ],
+  "mainAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "At Bakarganj, Via-Raj Dhanwar",
+      "Kisgo",
+      "Giridih",
+      "Jharkhand",
+      "825412"
+    ]
+  }
+}

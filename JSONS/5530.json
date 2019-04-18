@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "VIMAL KOTHARI",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5530",
+  "name": "EKLAVYA SWAVALAMBAN TRUST",
+  "primaryEmail": "vckothari@yahoo.co.uk",
+  "website": "nil",
+  "organisationType": [
+    "Direct Service",
+    "Intermediary"
+  ],
+  "telephone": [
+    "912224328285",
+    "912224328285"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "801,8th FLOOR, B WING, SHILP BUILDING",
+      "PANDURANG BUDHKAR MARG,",
+      "MUMBAI",
+      "Mumbai Suburban",
+      "Maharashtra",
+      "400013"
+    ]
+  }
+}

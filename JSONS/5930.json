@@ -1,0 +1,48 @@
+{
+  "contacts": [
+    {
+      "name": "Firdos",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "9740589555"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5930",
+  "name": "A-ONE EDUCATIONAL WELFARE TRUST",
+  "primaryEmail": "aone.trust@gmail.com",
+  "website": "http://aone-trust.blogspot.in/",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919740589555"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "No. 117, 6th Main, 6th Cross, Yarab Nagar",
+      "Banashankari 2nd Stage",
+      "Bangalore",
+      "Bengaluru (Bangalore) Rural",
+      "Karnataka",
+      "560070"
+    ]
+  },
+  "briefDescription": "A One Educational Welfare Trust operating in Banshankari 2nd Stage Bangalore from the year 2009. The Trust is founded by likeminded women, who believe in giving back to the society; who believe in touching lives.New Miracle School was adopted in 2009, which had 68 students & 4 staff. Today there are close to 350 students studying from nursery to class 5th with 11 staff. School provides quality education with nominal fee with Computers education facilities for less fortune children.",
+  "yearOfEstablishment": "2011",
+  "regiseredAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "No. 117, 6th Main, 6th Cross, Yarab Nagar",
+      "Banashankari 2nd Stage",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560070"
+    ]
+  }
+}

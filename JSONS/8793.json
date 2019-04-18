@@ -1,0 +1,34 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8793",
+  "name": "AANANDAM TRUST",
+  "primaryEmail": "gajanand1961@gmail.com",
+  "website": "www.aanandamtrust.org",
+  "organisationType": [
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919910445519"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "36/1/5 , Yusuf Sarai Village",
+      "Delhi",
+      "South Delhi",
+      "110016"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "36/1/5 , Yusuf Sarai Village",
+      "DELHI",
+      "South Delhi",
+      "Delhi",
+      "110016"
+    ]
+  }
+}

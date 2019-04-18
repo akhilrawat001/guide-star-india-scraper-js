@@ -1,0 +1,25 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=740",
+  "name": "PRAJWALA (A Society for Poor and Deprived)",
+  "primaryEmail": "praj_2010@yahoo.com",
+  "website": "www.prajwalaindia.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "914024510290",
+    "914024410813",
+    "914024510290"
+  ],
+  "mainAddrress": {
+    "state": "Telangana",
+    "address": [
+      "#20-4-34, III Floor",
+      "Behind Charminar Bus Stand",
+      "Hyderabad",
+      "Telangana",
+      "500002"
+    ]
+  }
+}

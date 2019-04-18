@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "L DEBEN SINGH",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6812",
+  "name": "THE RURAL AREA YOUTH DEVELOPMENT ORGANISATION (RAYDO)",
+  "primaryEmail": "rural_raydo@rediffmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919856360534"
+  ],
+  "mainAddrress": {
+    "state": "Manipur",
+    "address": [
+      "IRENGBAND VILLAGE, KAKCHING BLOCK",
+      "AWANG PUKHRI ACHOUBA MANING",
+      "KAKCHING",
+      "Thoubal",
+      "Manipur",
+      "795103"
+    ]
+  }
+}

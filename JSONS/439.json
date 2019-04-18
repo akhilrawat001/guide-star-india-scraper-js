@@ -1,0 +1,47 @@
+{
+  "contacts": [
+    {
+      "name": "Rahul Thomas",
+      "email": "communications@sahaarasociety.org",
+      "designation": "Donor Coordinator",
+      "mobile": [
+        "91-22-25250870"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=439",
+  "name": "Sahaara Charitable Society",
+  "primaryEmail": "communications@sahaarasociety.org",
+  "website": "http://sahaarasociety.org/",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "912225254194",
+    "912225250870"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Ground Floor, Gauri Shankar Building,",
+      "Plot No. 50/A, Pestom Sagar Road No. 2,",
+      "Chembur, Mumbai",
+      "Mumbai",
+      "Maharashtra",
+      "400089"
+    ]
+  },
+  "briefDescription": "Sahaara has vision to serve the helpless through diverse projects. It provides education, computer training, nutrition, mainstreaming of destitute children, medical help, legal help and rehabililtation centres to approximately 4600 beneficiaries.",
+  "yearOfEstablishment": "1994",
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "175, S.B.Singh Road",
+      "Near Colaba Post office,",
+      "Colaba",
+      "Mumbai",
+      "Maharashtra",
+      "400005"
+    ]
+  }
+}

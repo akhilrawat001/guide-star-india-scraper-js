@@ -1,0 +1,43 @@
+{
+  "contacts": [
+    {
+      "name": "Kshama Hastak",
+      "email": "kshama@sarthakfoundation.org",
+      "designation": "Founder President",
+      "mobile": [
+        "91-9839561301"
+      ]
+    },
+    {
+      "name": "Kshama Hastak",
+      "email": "kshama@sarthakfoundation.org",
+      "designation": "Founder President",
+      "mobile": [
+        "91-9839561301"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8781",
+  "name": "Sarthak Foundation",
+  "primaryEmail": "social@sarthakfoundation.org",
+  "website": "http://www.sarthakfoundation.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919839561301",
+    "919984031039"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "129-Manas Enclave",
+      "Faridi Nagar, Near Munshi Pulia",
+      "Lucknow",
+      "Uttar Pradesh",
+      "226015"
+    ]
+  },
+  "briefDescription": "Sarthak Foundation started  with teaching six children under a tree shade and in the last three and a half years have been able to touch the lives of more than 600 children with five centers in U.P. We work for improving the quality of life of children living in slums. Our After School model handles issues that children face at school level, home front and also focuses on children who do not go to schools. We set up centers within the hearts of the slums and conduct classes six days a week for the children. We teach them English, Mathematics, General Awareness and Etiquette. We also conduct sports,  arts and cultural classes for them. We also get non-school going children admitted to mainstream schools.",
+  "yearOfEstablishment": "2010"
+}

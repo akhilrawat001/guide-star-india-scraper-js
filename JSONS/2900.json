@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Pranbhai Mehta Virnagar",
+      "email": "",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2900",
+  "name": "Shivananda Mission",
+  "primaryEmail": "info@shivanandamission.org",
+  "website": "http://www.shivanandamission.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "912821283731",
+    "912821283727",
+    "912821283731"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "Shivananda Mission Village",
+      "Virnagar",
+      "Mehsana",
+      "Gujarat",
+      "360060"
+    ]
+  }
+}

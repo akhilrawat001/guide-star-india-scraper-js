@@ -1,0 +1,40 @@
+{
+  "contacts": [
+    {
+      "name": "Pramod Kumar",
+      "email": "",
+      "designation": "Manager",
+      "mobile": []
+    },
+    {
+      "name": "Pramod Kumar",
+      "email": "",
+      "designation": "Manager",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1347",
+  "name": "Avadh Sewa Sansthan",
+  "primaryEmail": "awadhsansthan.1995@gmail.com",
+  "website": "avadhsevasansthan.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "915224066449",
+    "919415461733"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "11/834",
+      "Indira Nagar",
+      "Lucknow",
+      "Uttar Pradesh",
+      "226016"
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Dr. Gopal Natthuji Paliwal",
+      "email": "cbd2000wardha@gmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4790",
+  "name": "CENTRE FOR BEE DEVELOPMENT",
+  "primaryEmail": "cbd2000wardha@gmail.com",
+  "website": "NA",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919423420485"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "9, Deshapande Layout,",
+      "Behind Charmalaya, Nalwadi",
+      "Wardha",
+      "Maharashtra",
+      "442001"
+    ]
+  }
+}

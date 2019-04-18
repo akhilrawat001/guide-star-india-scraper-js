@@ -1,0 +1,27 @@
+{
+  "contacts": [
+    {
+      "name": "Shipra Singh",
+      "email": "kamalsixtynine@gmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4188",
+  "name": "Nari Seva Niketan",
+  "primaryEmail": "kamalsixtynine@gmail.com",
+  "telephone": [
+    "919431684458"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "Ma Janaki niwas",
+      "Nala jhil Majhaua",
+      "Ara",
+      "Bhojpur",
+      "Bihar",
+      "802301"
+    ]
+  }
+}

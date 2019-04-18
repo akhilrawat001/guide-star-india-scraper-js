@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "ARUNABHA DUTTA",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8562",
+  "name": "Medinipur Shilpi Chakra",
+  "primaryEmail": "arunabbadutta@yahoo.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919434414466"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "VILL - SUBHAS NAGAR",
+      "POST - MIDNAPORE",
+      "P.S. - KOTWALI",
+      "West Medinipur",
+      "West Bengal",
+      "721011"
+    ]
+  }
+}

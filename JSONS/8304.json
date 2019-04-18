@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "Tukuna Mohanty",
+      "email": "hids.boudh@gmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8304",
+  "name": "Human Improvement and Development Society",
+  "primaryEmail": "hids.boudh@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919438241119"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "AT/PO: Baunsuni,",
+      "Boudh",
+      "Odisha",
+      "762015"
+    ]
+  }
+}

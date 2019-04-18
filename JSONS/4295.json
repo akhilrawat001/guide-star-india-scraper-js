@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Nilesh Walimbe",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4295",
+  "name": "Gurukul Sarvajanik Vachanalay",
+  "primaryEmail": "gurukool.academy@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919764200123"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Brahman Lane,",
+      "A/P- Shirwal",
+      "Khandala",
+      "Satara",
+      "Maharashtra",
+      "412801"
+    ]
+  }
+}

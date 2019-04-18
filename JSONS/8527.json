@@ -1,0 +1,24 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8527",
+  "name": "SHIVAM SANSTHAN",
+  "primaryEmail": "shivam.sansthan@yahoo.com",
+  "organisationType": [
+    "Intermediary",
+    "Support"
+  ],
+  "telephone": [
+    "917388883883"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "G G I C Road",
+      "Shivaji Nagar,Ward No-19,",
+      "Tetari Bazar,Naugarh",
+      "Siddharthnagar",
+      "Uttar Pradesh",
+      "272207"
+    ]
+  }
+}

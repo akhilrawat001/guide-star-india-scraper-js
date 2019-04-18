@@ -1,0 +1,44 @@
+{
+  "contacts": [
+    {
+      "name": "Mita G Basu Roy",
+      "email": "mitag.br@gmail.com",
+      "designation": "secretary",
+      "mobile": [
+        "91-33-24123292"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5498",
+  "name": "Abha Mission for Social Health and Education",
+  "primaryEmail": "abhamission@gmail.com",
+  "website": "https://abha-mission-she.webs.com/",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919903290696"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "26 N, East Road, Jadavpur",
+      "Central Road",
+      "Kolkata",
+      "West Bengal",
+      "700032"
+    ]
+  },
+  "briefDescription": "Abha Mission for Social Health and Education is 'of the people, by the people and for the people'; registered under W.B.Societies Act,1961 & member of India Govt. NGO Partnership System; work for rural development, children education, women empowerment; located in Kolkata, West Bengal.",
+  "yearOfEstablishment": "2007",
+  "regiseredAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "same",
+      "26 N, East Road; Jadavpur;",
+      "Kolkata",
+      "West Bengal",
+      "700032"
+    ]
+  }
+}

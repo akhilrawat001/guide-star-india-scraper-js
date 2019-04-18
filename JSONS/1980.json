@@ -1,0 +1,28 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1980",
+  "name": "Sadhu Savitri Sai Sewa Samiti",
+  "primaryEmail": "sadhu.savitri.sai.sewa.samiti@gmail.com",
+  "telephone": [
+    "919268525148"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "RZB-4, Nala Road,",
+      "Nihal Vihar",
+      "New Delhi",
+      "Delhi",
+      "110041"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "Y-536, Camp no.1,",
+      "Nangloi",
+      "Delhi",
+      "110041"
+    ]
+  }
+}

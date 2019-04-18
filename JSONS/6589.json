@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "RUSHIKESH ASHOKRAO TAKANKHAR",
+      "email": "rushi9423@yahoo.com",
+      "designation": "SECRETARY",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6589",
+  "name": "PRANJALI BAHUUDISHIYA SEVABHAVI SANSTHA",
+  "primaryEmail": "pranjalibss@yahoo.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "9146046444"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "AT. SHAHU NAGAR, MAJALGAON",
+      "MAJALGAONBEED",
+      "Beed",
+      "Maharashtra",
+      "431142"
+    ]
+  }
+}

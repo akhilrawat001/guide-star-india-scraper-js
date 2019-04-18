@@ -1,0 +1,40 @@
+{
+  "contacts": [
+    {
+      "name": "Shailender Kaushik",
+      "email": "mssevasansthanvbn@gmail.com",
+      "designation": "IT Head",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5039",
+  "name": "MANAV SWASTHYA SEVA SANSTHAN",
+  "primaryEmail": "mssevasansthanvbn@gmail.com",
+  "website": "www.mssevasansthan.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919690497629"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "Flat No.1, First Floor, (above UCO Bank), Satya Dham",
+      "Chaitanya Vihar-I",
+      "Vrindavan",
+      "Mathura",
+      "Uttar Pradesh",
+      "281121"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "Laxmi Nagar, Mathura",
+      "Mathura",
+      "Uttar Pradesh",
+      "281001"
+    ]
+  }
+}

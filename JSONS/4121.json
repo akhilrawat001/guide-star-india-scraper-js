@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Swami Suprakashananda",
+      "email": "rkmsvrnd@gmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4121",
+  "name": "RAMAKRISHNA MISSION",
+  "primaryEmail": "info@rkmsvrind.org",
+  "website": "http://www.rkmsvrind.org",
+  "telephone": [
+    "915652442310",
+    "919259271811"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "SWAMI VIVEKANAND MARG",
+      "PO VRINDAVAN",
+      "MATHURA",
+      "Mathura",
+      "Uttar Pradesh",
+      "281121"
+    ]
+  }
+}

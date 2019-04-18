@@ -1,0 +1,35 @@
+{
+  "contacts": [
+    {
+      "name": "Ashwin A Shah (Dr)",
+      "email": "",
+      "designation": "Managing Trustee",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=364",
+  "name": "Gram Seva Trust",
+  "primaryEmail": "gram_seva@yahoo.com",
+  "website": "http://www.gramseva.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "912634246248",
+    "912634246543",
+    "912634246248"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "N.H. No. 8, Kharel",
+      "Ta. Gandevi",
+      "Khaparia",
+      "Navsari",
+      "Gujarat",
+      "396430"
+    ]
+  },
+  "briefDescription": "Gram Seva Trust is not for profit Organization. Working for poor tribal people at Kharel- rural area of south Gujarat since 15 years. We have one hospital providing medical care tomore than 2 lacs population of surrounding villages of Navsari. Dang District. We havecommunity health of development programme in 24 villages comprising of 50.000 populations.The organization is having Child health & Nutrition proiect taking care of 3000 children ofvillages for health & malnutrition. The organisation is also working for women empowermentthrough project of vocational training & SHG groups ( 106 of 1200 women) It also providesmedical care to interior area of Dang district(Forest Area) bv satellite centres & medical camp.",
+  "yearOfEstablishment": "2001"
+}

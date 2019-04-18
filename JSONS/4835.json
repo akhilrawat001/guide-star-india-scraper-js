@@ -1,0 +1,35 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4835",
+  "name": "Agrasar",
+  "primaryEmail": "chetan@agrasar.org",
+  "website": "http://www.agrasar.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919810891859"
+  ],
+  "mainAddrress": {
+    "state": "Haryana",
+    "address": [
+      "A 281, South City 1, Gurgaon",
+      "Near Signature Tower",
+      "Gurgaon",
+      "Gurugram",
+      "Haryana",
+      "122001"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Haryana",
+    "address": [
+      "A 261, South City 1, Gurgaon",
+      "Near Signature Tower",
+      "Gurgaon",
+      "Gurugram",
+      "Haryana",
+      "122001"
+    ]
+  }
+}

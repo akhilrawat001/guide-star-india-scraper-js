@@ -1,0 +1,41 @@
+{
+  "contacts": [
+    {
+      "name": "Parag Bhinge",
+      "email": "parag.bhinge@mcf.org.in",
+      "designation": "Cordinator",
+      "mobile": []
+    },
+    {
+      "name": "Parag Bhinge",
+      "email": "parag.bhinge@mcf.org.in",
+      "designation": "Cordinator",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1529",
+  "name": "Muktaa Charitable Foundation",
+  "primaryEmail": "contactus@mcf.org.in",
+  "website": "http://www.mcf.org.in",
+  "organisationType": [
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "912026383456",
+    "919860728029"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "C 6",
+      "Hari Krishna Mandir Road,Model Colony",
+      "Pune",
+      "Maharashtra",
+      "411016"
+    ]
+  },
+  "briefDescription": "Muktaa Charitable Foundation, a public trust, formed by socially conscious citizens, runs Samvad HIV/AIDS Helpline.Started with a mission of making a visible impact in the field of HIV,\"Samvad H I V H e l p l i n e\" came into existence on 2ndv October 2005,till date Samvad has handled more than 90,000 calls,some of these were life saving for the callers.",
+  "yearOfEstablishment": "2010"
+}

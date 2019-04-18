@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Rabindra Gaurab",
+      "email": "samvednajh@gmail.com",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4885",
+  "name": "Samvedna",
+  "primaryEmail": "samvednajh@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "916512245679",
+    "916512245679"
+  ],
+  "mainAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "C/29",
+      "H.H.Colony",
+      "Ranchi",
+      "Jharkhand",
+      "834002"
+    ]
+  }
+}

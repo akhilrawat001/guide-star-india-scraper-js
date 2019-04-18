@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Md. Arshad Ali",
+      "email": "sewaranchi@gmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6575",
+  "name": "SEWA (Socio-Economic Welfare Association)",
+  "primaryEmail": "sewaranchi@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Network"
+  ],
+  "telephone": [
+    "919386122155"
+  ],
+  "mainAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "SEWA (Socio-Economic Welfare Association), “DARBAR” H.no.-1040, First Street, Bansi Chowk, Hindpiri, Ranchi-834001 Jharkhand.",
+      "First Street, Bansi Chowk",
+      "Ranchi",
+      "Jharkhand",
+      "834001"
+    ]
+  }
+}

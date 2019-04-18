@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Rajendra Baban Hase",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8136",
+  "name": "Saichaya Gramin Swayamsevi Bahuddeshiya Vikas Sanstha",
+  "primaryEmail": "saicchaya@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "912424221960",
+    "912424221960"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "-Fortune Computer Education,",
+      "Behind Sarda Petrol Pump,kolhar Ghoti Road Akole Tal-Akole",
+      "Akole",
+      "Ahmednagar",
+      "Maharashtra",
+      "422601"
+    ]
+  }
+}

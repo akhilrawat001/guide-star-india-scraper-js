@@ -1,0 +1,26 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9068",
+  "name": "ADIVASI SAMAJ SHAIKSHANIK VA SAMAJIK SANSTHA TALAVALI",
+  "primaryEmail": "asss.sanstha@gmail.com",
+  "website": "http://adivasisssstalavali.org/index.html",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919270121746",
+    "919503502928"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Nehru Chowk, Opp Arban Bank, Old Shabri Office",
+      "Jawhar - Nashik Road",
+      "Jawhar",
+      "Thane",
+      "Maharashtra",
+      "401603"
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "contacts": [
+    {
+      "name": "RAJA MOHAMED",
+      "email": "socionetraja@rediffmail.com",
+      "designation": "Executive Director",
+      "mobile": [
+        "91-451-2051098"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1597",
+  "name": "Meera Foundation",
+  "primaryEmail": "meerafound@rediffmail.com",
+  "website": "www.meerafoundation.webs.com, www.meerafoundation.wordpress.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network"
+  ],
+  "telephone": [
+    "919842085893",
+    "914512051098"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "Plot No.1, Theiva Nagar",
+      "Aalathur, Oomachikulam",
+      "Thirumalpuram Post, MADURAI",
+      "Madurai",
+      "Tamil Nadu",
+      "625016"
+    ]
+  },
+  "briefDescription": "MEERA works for MTCT (AIDS) among 22 lakhs population of Dindigul; TB control activities for about 10 lakhs population of Sivagangai. We do Child Protection (CHILDLINE)in Kodaikanal Block. And, we involve in Child Survival, HIV Nutrition and Economic Development, Skill Development for Girls, Childhood TB and Nutrition.",
+  "yearOfEstablishment": "2000"
+}

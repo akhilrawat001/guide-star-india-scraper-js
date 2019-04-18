@@ -1,0 +1,25 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1412",
+  "name": "Disha Education Society",
+  "primaryEmail": "admin@desociety.org",
+  "website": "http://www.desociety.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "912423310666",
+    "919890309167"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Kojagiri Colony",
+      "Niwara,",
+      "Kopargaon",
+      "Ahmednagar",
+      "Maharashtra",
+      "423601"
+    ]
+  }
+}

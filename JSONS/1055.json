@@ -1,0 +1,26 @@
+{
+  "contacts": [
+    {
+      "name": "Vijay Kumar Shukla",
+      "email": "",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1055",
+  "name": "Jan Kalyan Vikas Kendra",
+  "primaryEmail": "jkvkbnp@gmail.com",
+  "telephone": [
+    "919431785538"
+  ],
+  "mainAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "Vill - Singhitali  Po Chapari",
+      "Bhawnathpur",
+      "Garhwa",
+      "Jharkhand",
+      "822112"
+    ]
+  }
+}

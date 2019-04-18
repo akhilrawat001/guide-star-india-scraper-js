@@ -1,0 +1,37 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10993",
+  "name": "DOR-UMEED KA EK DHAAGA TRUST",
+  "primaryEmail": "dortrust@hotmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919319375161"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "98, Harbans Nagar,",
+      "Near Meerut Road",
+      "Ghaziabad",
+      "Uttar Pradesh",
+      "201001"
+    ]
+  },
+  "briefDescription": "Dor-Umeed Ka Ek Dhaaga Trust is located in Ghaziabad, Uttar Pradesh.",
+  "yearOfEstablishment": "2013",
+  "regiseredAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "98, Harbans Nagar",
+      "Near Meerut Road",
+      "Ghaziabad",
+      "Uttar Pradesh",
+      "0"
+    ]
+  }
+}

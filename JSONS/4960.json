@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "A.John Kennedy",
+      "email": "retrust99@gmail.com",
+      "designation": "Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4960",
+  "name": "Resource Exchange Trust",
+  "primaryEmail": "retrust99@gmail.com",
+  "website": "36/8,Type-III, H.V.F.Estate,Avadi, Chennai-600054,Tamil Nadu, India.",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919094917145"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "36/8, Type-III, H.V.F.Estate, Avadi, Chennai-600054, Tamil Nadu, India.",
+      "Chennao",
+      "Tiruvallur",
+      "Tamil Nadu",
+      "600054"
+    ]
+  }
+}

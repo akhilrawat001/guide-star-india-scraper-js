@@ -1,0 +1,38 @@
+{
+  "contacts": [
+    {
+      "name": "Nabajyoti Sarma Boruah",
+      "email": "",
+      "designation": "Chairman / Ceo",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=576",
+  "name": "GRAMIN (Agency for Rural Income Generation and Management on Short)",
+  "primaryEmail": "grm_bch@rediffmail.com",
+  "telephone": [
+    "913715222263",
+    "913715222263",
+    "913715222263"
+  ],
+  "mainAddrress": {
+    "state": "Assam",
+    "address": [
+      "Ward No-7",
+      "Madhupur",
+      "Sonitpur",
+      "Assam",
+      "784176"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Assam",
+    "address": [
+      "P.O.B Chariali",
+      "Madhupur",
+      "Sonitpur",
+      "Assam",
+      "784176"
+    ]
+  }
+}

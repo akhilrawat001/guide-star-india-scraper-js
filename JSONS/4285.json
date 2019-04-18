@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "name": "Janakkumar Trivedi",
+      "email": "jivandeep2004@gmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    },
+    {
+      "name": "Janakkumar Trivedi",
+      "email": "jivandeep2004@gmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4285",
+  "name": "JEEVANDEEP SEVA SANSTHAN",
+  "primaryEmail": "jivandeep2004@gmail.com",
+  "website": "http://www.jivandeep.org.in",
+  "organisationType": [
+    "Direct Service",
+    "Network"
+  ],
+  "telephone": [
+    "919974002870"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "24, Aatanisery,",
+      "Chhala",
+      "Gandhinagar",
+      "Gujarat",
+      "382321"
+    ]
+  },
+  "briefDescription": "JEEVANDEEP SEVA SANSTHAN LOCATED IN GUJARAT WORKS FOR THE BETTERMENT OF WOMEN OF BACKWARD SECTIONS, SC ST OBC AND ANY AUDHER PEOPLE,WOMEN,CHILDREN,GIRL'S TO EDUCATION,VOCATIONAL TRENING AND ANY AUDHER WORK....",
+  "yearOfEstablishment": "2004"
+}

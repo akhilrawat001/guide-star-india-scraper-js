@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Tamilselvi",
+      "email": "johny_psa@yahoo.com",
+      "designation": "Coordinator",
+      "mobile": [
+        "91-431-2685671"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=958",
+  "name": "People'S Solidarity Association",
+  "primaryEmail": "johny_psa@yahoo.com",
+  "website": "http://www.psatrichy.org",
+  "telephone": [
+    "914312471175",
+    "914312685671",
+    "914312471175"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "Mutharasa nallur,",
+      "Trichy",
+      "Tiruchirappalli",
+      "Tamil Nadu",
+      "620101"
+    ]
+  }
+}

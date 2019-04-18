@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "SAPNA UPADHYAYA",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4229",
+  "name": "EESHWAR CHILD WELFARE FOUNDATION",
+  "primaryEmail": "ecwf2012@gmail.com",
+  "website": "http://www.eeshwarchildwelfare.org",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "915224006505",
+    "915224006505"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "232 1st,floor rajendra nagar,lucknow,uttar pradesh",
+      "near vidhayak niwas,rajendra  nagar ,lucknow-226004",
+      "LUCKNOW",
+      "Lucknow",
+      "Uttar Pradesh",
+      "226004"
+    ]
+  }
+}

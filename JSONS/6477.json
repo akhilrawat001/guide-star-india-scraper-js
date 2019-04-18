@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Pramod Kamble",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6477",
+  "name": "NATIONAL FRIENDS ASSOCIATION",
+  "primaryEmail": "pskfriend@gmail.com",
+  "website": "www.nfa-india.org",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "917756014491"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Friend Computers, Opp. Maruti Mandir, Bhoite Nagar, Daund, Tal. Daund,",
+      "Opp. Maruti Mandir, Bhoite Nagar",
+      "Daudn",
+      "Pune",
+      "Maharashtra",
+      "413801"
+    ]
+  }
+}

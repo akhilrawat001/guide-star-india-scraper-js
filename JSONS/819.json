@@ -1,0 +1,37 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=819",
+  "name": "Rajasthan Mahila Kalyan Mandal Sanstha Ajmer",
+  "primaryEmail": "rmkm_ajm@yahoo.com",
+  "website": "http://www.rmkm.org.in",
+  "organisationType": [
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "911452794482",
+    "911452794481"
+  ],
+  "mainAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "Vishwamitra Ashram Village: Chachiyawas,",
+      "Sikar Road",
+      "Ajmer",
+      "Rajasthan",
+      "305023"
+    ]
+  },
+  "briefDescription": "Rajasthan Mahila kalyan Mandal is working for upliftment of women children and elderly through educational, social, health and economical empowerment which leads them to access their basic right of education, health and others.",
+  "yearOfEstablishment": "1987",
+  "regiseredAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "Anadpura, Topdara",
+      "Ajmer",
+      "Rajasthan",
+      "305001"
+    ]
+  }
+}

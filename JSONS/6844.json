@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "N.K.Mangcha",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6844",
+  "name": "INTEGRATED RURAL DEVELOPMENT SOCIETY",
+  "primaryEmail": "irds123@gmail.com",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "919436426027"
+  ],
+  "mainAddrress": {
+    "state": "Manipur",
+    "address": [
+      "Post Box No.125",
+      "PO Churachandpur",
+      "Imphal",
+      "Churachandpur",
+      "Manipur",
+      "795128"
+    ]
+  }
+}

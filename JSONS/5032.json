@@ -1,0 +1,43 @@
+{
+  "contacts": [
+    {
+      "name": "Aniruddh Tiwari",
+      "email": "info@humanitycarefoundationindia.org",
+      "designation": "Manager",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5032",
+  "name": "Humanity Care Foundation",
+  "primaryEmail": "info@humanitycarefoundationindia.org",
+  "website": "www.humanitycarefoundationindia.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919594693231"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "B-201 Bhawani Industrial Estate",
+      "Main Gate IIT Powai",
+      "Mumbai",
+      "Mumbai Suburban",
+      "Maharashtra",
+      "400076"
+    ]
+  },
+  "briefDescription": "Humanity Care Foundation is located in Mumbai, Maharashtra. HCF is a national level development organization reaching out directly to improve the living standards, health, knowledge, environment of underprivileged children.",
+  "yearOfEstablishment": "2004",
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "Street No. 44 B-Block Sant Nager Burari",
+      "New Delhi",
+      "North Delhi",
+      "Delhi",
+      "110084"
+    ]
+  }
+}

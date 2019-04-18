@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "name": "Valerie Tripp",
+      "email": "Valerie.tripp@gmail.com",
+      "designation": "Coordinator, Adminstration",
+      "mobile": [
+        "91-22-23009117"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=438",
+  "name": "SAATHI",
+  "primaryEmail": "info@saathi.org",
+  "website": "http://www.saathi.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service"
+  ],
+  "telephone": [
+    "912223009117"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Agripada Municipal School, 1st Floor",
+      "Opp. YMCA Swimming Pool, Farooque Umarbhouy Lane",
+      "Mumbai",
+      "Maharashtra",
+      "400011"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Maharashtra"
+    ]
+  }
+}

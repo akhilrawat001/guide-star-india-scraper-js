@@ -1,0 +1,34 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5985",
+  "name": "HELP-TRUST(HEALTH ENVIRONMENT & SOCIO-ECONOMIC LITERACY PROJECT)",
+  "primaryEmail": "helphiriyurngo@yahoo.com",
+  "website": "www.helphiriyurngo.org",
+  "organisationType": [
+    "Direct Service",
+    "Intermediary"
+  ],
+  "telephone": [
+    "+918193265558"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "Vedavathinagar",
+      "Hiriyur",
+      "Chitradurga",
+      "Karnataka",
+      "577599"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "Vedavathi Nagar",
+      "Hiriyur",
+      "Chitradurga",
+      "Karnataka",
+      "577599"
+    ]
+  }
+}

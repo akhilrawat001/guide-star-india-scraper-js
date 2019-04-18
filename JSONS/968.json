@@ -1,0 +1,21 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=968",
+  "name": "Times Foundation",
+  "primaryEmail": "timesfoundation@timesgroup.com",
+  "website": "http://timesfoundation.indiatimes.com",
+  "telephone": [
+    "912222731144",
+    "912266353535",
+    "919773399234"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "10, DaryaGanj",
+      "New Delhi",
+      "Delhi",
+      "110002"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "contacts": [
+    {
+      "name": "OM PRAKASH",
+      "email": "samajsevasangh@yahoo.com",
+      "designation": "GENERAL SECRETARY",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5241",
+  "name": "SAMAJ SEWA SANGH",
+  "primaryEmail": "samajsevasangh@yahoo.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "911122868977",
+    "911122868977"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "Samaj Sewa Sangh, N-69/10,",
+      "Lane No.-16,",
+      "BRAHM PURI",
+      "North East Delhi",
+      "Delhi",
+      "110053"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "not provided",
+      "BRAHM PURI",
+      "North East Delhi",
+      "Delhi",
+      "110053"
+    ]
+  }
+}

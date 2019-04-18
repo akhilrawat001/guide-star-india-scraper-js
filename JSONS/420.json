@@ -1,0 +1,42 @@
+{
+  "contacts": [
+    {
+      "name": "Suparna Mitra",
+      "email": "suparnam@parikrmafoundation.org",
+      "designation": "Donor Development",
+      "mobile": [
+        "91-80-23635225"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=420",
+  "name": "Parikrma Humanity Foundation",
+  "primaryEmail": "info@parikrmafoundation.org",
+  "website": "http://www.parikrmafoundation.org",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "918023635225",
+    "918023635781",
+    "918023635225"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "1846, 3rd Main",
+      "C Block Sahakaranagar",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560092"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "Karnataka"
+    ]
+  }
+}

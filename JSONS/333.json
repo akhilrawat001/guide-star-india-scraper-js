@@ -1,0 +1,48 @@
+{
+  "contacts": [
+    {
+      "name": "Wilma Correa",
+      "email": "wilma.correa@csa.org.in",
+      "designation": "Development & Communication - Senior Manager",
+      "mobile": []
+    },
+    {
+      "name": "Wilma Correa",
+      "email": "wilma.correa@csa.org.in",
+      "designation": "Development & Communication - Senior Manager",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=333",
+  "name": "Catalysts for Social Action (CSA)",
+  "primaryEmail": "anandhi.yagnaraman@csa.org.in",
+  "website": "http://www.csa.org.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918291890505"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Catalysts for Social Action (CSA), Care of Accelya Kale Solution Ltd.,",
+      "711 & 712, Bhaveshwar Arcade Annex, Nityanand Nagar, LBS Marg, Near Shreyas Cinema, Ghatkopar (West),",
+      "Mumbai",
+      "Maharashtra",
+      "400086"
+    ]
+  },
+  "briefDescription": "Established in September 2002, Catalysts for Social Action is an Indian NGO (non-governmental, social development organisation) with a mission to create a brighter future for children under institutional care.We are one of the few NGO's focused on children in institutional care. Our areas of work cover the entire eco-system spanning Adoption, Child Care Institutions and Aftercare. Within these areas, we have identified the gaps and work with existing institutions and stakeholders to fill these gaps and strengthen the systems and processes.We continue to make a valuable difference to 3500+ children across 60+ child care institutions in 4 states that we support.",
+  "yearOfEstablishment": "2002",
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Catalysts for Social Action (CSA), Care of Accelya Kale Solution Ltd.,",
+      "C/O Accelya Kale Solution Ltd.,  1st Floor, Sharada Arcade, Satara Road",
+      "Pune",
+      "Maharashtra",
+      "411037"
+    ]
+  }
+}

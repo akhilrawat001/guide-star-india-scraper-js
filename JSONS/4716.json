@@ -1,0 +1,44 @@
+{
+  "contacts": [
+    {
+      "name": "Saravanan D",
+      "email": "oazoane@yahoo.co.in",
+      "designation": "General Manager",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4716",
+  "name": "OAZOANE The Society for Development of Human Abilities and Environment",
+  "primaryEmail": "oazoane@yahoo.co.in",
+  "website": "www.oazoane.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "914371270128",
+    "914371270128"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "94-1, Agraharam",
+      "Aranthangi",
+      "Pudukkottai",
+      "Tamil Nadu",
+      "614616"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "94-1,",
+      "Agraharam",
+      "Aranthang Taluk Pudukkottai District",
+      "Pudukkottai",
+      "Tamil Nadu",
+      "614616"
+    ]
+  }
+}

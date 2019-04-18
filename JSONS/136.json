@@ -1,0 +1,35 @@
+{
+  "contacts": [
+    {
+      "name": "Sharon Watts",
+      "email": "shristi@india.com",
+      "designation": "Technical Director/Co- Founder",
+      "mobile": [
+        "91-9900170959"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=136",
+  "name": "Shristi Special Academy",
+  "primaryEmail": "shristi@india.com",
+  "website": "www.shristispecialacademy.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918023180318",
+    "918023180186",
+    "919900170959"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "13/1, 6th cross",
+      "9th G main, Byraveshwarnagar, Moodalapalya",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560072"
+    ]
+  }
+}

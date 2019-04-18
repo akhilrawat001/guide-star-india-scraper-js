@@ -1,0 +1,26 @@
+{
+  "contacts": [
+    {
+      "name": "MAHESH KUMAR",
+      "email": "viklangsanghpatna@yahoo.com",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4700",
+  "name": "Bhartiya Viklang Sangh",
+  "primaryEmail": "viklangsanghpatna@yahoo.com",
+  "telephone": [
+    "919386902604"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "At-Harnichack (East Of Middle School)",
+      "Post-Anishabad",
+      "Patna",
+      "Bihar",
+      "800002"
+    ]
+  }
+}

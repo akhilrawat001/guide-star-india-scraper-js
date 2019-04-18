@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Madhusudhan Pradhan",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8614",
+  "name": "Srima Dhyana Mandir",
+  "primaryEmail": "srimadhyanamandir@rediffmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919237040068"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "At/Po - Gopinathpur",
+      "Ps/Block- Bhogarai",
+      "Dist- Balasore",
+      "Baleswar",
+      "Odisha",
+      "756035"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=850",
+  "name": "SAID Social Action for Integrated Development",
+  "primaryEmail": "saidsdddnr@rediffmail.com",
+  "website": "www.saidngo.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918548253088",
+    "918548250598",
+    "919440528678"
+  ],
+  "mainAddrress": {
+    "state": "Telangana",
+    "address": [
+      "31107, Asha Colony",
+      "Shadnagar",
+      "Medak",
+      "Telangana",
+      "509216"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Telangana",
+    "address": [
+      "8-2-203/82/B/1/18-1/A Jawahar Nagar Colony, Jubilee Hills",
+      "Hyderabad",
+      "Telangana",
+      "500033",
+      "AP_TelBill_763.PDF"
+    ]
+  }
+}

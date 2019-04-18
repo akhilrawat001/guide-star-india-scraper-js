@@ -1,0 +1,26 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1348",
+  "name": "Indigenous Mission",
+  "primaryEmail": "im@indigenousmission.org",
+  "website": "www.indigenousmission.org",
+  "organisationType": [
+    "Direct Service",
+    "Network"
+  ],
+  "telephone": [
+    "913792255029",
+    "913792290139",
+    "919436054291"
+  ],
+  "mainAddrress": {
+    "state": "Arunachal Pradesh",
+    "address": [
+      "Box-1",
+      "P.O. Daporijo,",
+      "Upper Subansiri",
+      "Arunachal Pradesh",
+      "791122"
+    ]
+  }
+}

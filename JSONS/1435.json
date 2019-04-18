@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Ranga Kumar",
+      "email": "rangikumarj@gmail.com",
+      "designation": "Coordinator",
+      "mobile": [
+        "91-44-42041505"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1435",
+  "name": "Mahesh Memorial Trust",
+  "primaryEmail": "maheshmemorial@realimage.com",
+  "website": "www.livebeyondcancer.org",
+  "telephone": [
+    "914442060761",
+    "914442041505",
+    "919841094282"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "7-B",
+      "Balaji Nagar Third street, Royapettah,",
+      "Chennai",
+      "Tamil Nadu",
+      "600014"
+    ]
+  }
+}

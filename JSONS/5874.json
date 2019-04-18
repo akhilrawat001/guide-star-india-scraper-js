@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Mr Mohammad Abbass Wani",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5874",
+  "name": "RURAL MISSION EDUCATIONAL SOCIETY",
+  "primaryEmail": "RMESBUDGAM@GMAIL.COM",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919419034370"
+  ],
+  "mainAddrress": {
+    "state": "Jammu and Kashmir",
+    "address": [
+      "BUDGAM KASHMIR (J&K) INDIA",
+      "Near R.M.P. Higher Secondary School Budgam Kashmir.",
+      "Budgam Kashmir",
+      "Badgam",
+      "Jammu and Kashmir",
+      "191111"
+    ]
+  }
+}

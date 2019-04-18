@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "SHYAM MEHTA",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6413",
+  "name": "PARAM ASTHA SIKSHA EVM SAMAJIK SAMITI",
+  "primaryEmail": "paramastha2012@rediffmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "917422400791",
+    "917422400791"
+  ],
+  "mainAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "HOSUE NO. 98 ISHWAR NIWAS MOTIYAKHAI RAMTEKRI MANDSAUR",
+      "MANDSAUR",
+      "Mandsaur",
+      "Madhya Pradesh",
+      "458001"
+    ]
+  }
+}

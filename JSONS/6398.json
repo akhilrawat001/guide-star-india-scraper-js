@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "B. Ramana Redyy",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "9849066757"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6398",
+  "name": "Victory Educational and Welfare Society",
+  "primaryEmail": "victory757@yahoo.com",
+  "website": "No",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919849066757"
+  ],
+  "mainAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "87/2-1,Madhavi nagar,",
+      "B.camp",
+      "Kurnool",
+      "Andhra Pradesh",
+      "518002"
+    ]
+  }
+}

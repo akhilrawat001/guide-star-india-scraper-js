@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "SADANANDA PANI",
+      "email": "roopavan.ngo@gmail.com",
+      "designation": "SECRETARY",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8510",
+  "name": "Roopavan",
+  "primaryEmail": "roopavan.ngo@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919437863238"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "AT-D.P.CAMP",
+      "PO-THERUBALI",
+      "Rayagada",
+      "Odisha",
+      "765018"
+    ]
+  }
+}

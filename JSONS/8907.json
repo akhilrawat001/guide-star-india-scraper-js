@@ -1,0 +1,37 @@
+{
+  "contacts": [
+    {
+      "name": "Pabak Sarkar",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "25780810"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8907",
+  "name": "Organisation for Friends, Energies and Resources",
+  "primaryEmail": "info@offerindia.org",
+  "website": "www.offerindia.org",
+  "organisationType": [
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "913325780810",
+    "913325780810"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "152 B.T. Road, 1st Floor",
+      "Dunlop Bridge",
+      "Kolkata",
+      "West Bengal",
+      "700108"
+    ]
+  },
+  "briefDescription": "OFFER  has been serving children who are severely underprivileged in the city of Kolkata and semi-urban areas of West Bengal for past three decades. We strive to provide institutional care and security, specialized healthcare, education, psychosocial support to 5000 children living with HIV/AIDS, mentally challenged children and children in difficult circumstances.",
+  "yearOfEstablishment": "1986"
+}

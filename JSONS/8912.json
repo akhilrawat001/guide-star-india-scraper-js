@@ -1,0 +1,24 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8912",
+  "name": "ARYAN MEDICAL AND EDUCATIONAL TRUST",
+  "primaryEmail": "prmedscapeindia@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919699111111",
+    "919320855111"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Aryan Hospital, D- 28,29 Station Road,",
+      "Nehru Nagar,",
+      "Kurla (East), Mumbai",
+      "Mumbai",
+      "Maharashtra",
+      "400024"
+    ]
+  }
+}

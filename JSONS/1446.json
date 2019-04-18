@@ -1,0 +1,36 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1446",
+  "name": "Club Red Rose",
+  "primaryEmail": "crr.ngo@rediffmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919938444035"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "At - Durgaprasad",
+      "Po - Deuli. Via Pichukuli,",
+      "Khordha",
+      "Odisha",
+      "752064"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Odisha",
+    "address": [
+      "At. Durgaprasad",
+      "Po Deuli P.S. Begunir",
+      "Puri",
+      "Odisha",
+      "752064"
+    ]
+  }
+}

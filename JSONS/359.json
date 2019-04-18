@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "name": "K Pandiammal",
+      "email": "gandhigramtrust@gmail.com",
+      "designation": "Assistant Superintendent",
+      "mobile": [
+        "91-451-2451369"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=359",
+  "name": "Gandhigram Trust",
+  "primaryEmail": "gandhigramtrust@gmail.com",
+  "website": "http://www.gandhigram.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "914512452326",
+    "914512453347",
+    "914512452326"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "Gandhigram",
+      "Dindigul",
+      "Tamil Nadu",
+      "624302"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "Tamil Nadu"
+    ]
+  }
+}

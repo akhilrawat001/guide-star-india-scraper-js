@@ -1,0 +1,57 @@
+{
+  "contacts": [
+    {
+      "name": "Ovias Siraj",
+      "email": "Ovias@burooj.org",
+      "designation": "CEO",
+      "mobile": [
+        "91-22-27715424",
+        "91-8108753370"
+      ]
+    },
+    {
+      "name": "Ovias Siraj",
+      "email": "Ovias@burooj.org",
+      "designation": "CEO",
+      "mobile": [
+        "91-22-27715424",
+        "91-8108753370"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6374",
+  "name": "Burooj Education Foundation",
+  "primaryEmail": "sameed@burooj.org",
+  "website": "http://www.burooj.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919819033228"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "plot 125, Nandanwan Soc., Lane 6,",
+      "Sector17, Nerul East91",
+      "Navi Mumbai",
+      "Thane",
+      "Maharashtra",
+      "400706"
+    ]
+  },
+  "briefDescription": "Burooj is an not for profit Education and Research organisation working for the advancement of education. It conducts various programmes like teachers training and also runs schools under the self operated and franchaisee models currently Burooj operates around 5 schools with a student population of around 1000 students and also conducts weekend leadership programmes at around 100 centres around the world. Burooj has also conducted teachers training programes which has benefitted more than 5000 teachers.",
+  "yearOfEstablishment": "2008",
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "5 floot, room 29, Vithal niwas",
+      "sant gange chowk, jecob circle",
+      "Mumbai",
+      "Maharashtra",
+      "400011"
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "contacts": [
+    {
+      "name": "Dr Rakesh Dutta Mishra",
+      "email": "secretary@psvk.org.in",
+      "designation": "Secretary",
+      "mobile": [
+        "91-612-2214425",
+        "91-9304713303"
+      ]
+    },
+    {
+      "name": "Dr Rakesh Dutta Mishra",
+      "email": "secretary@psvk.org.in",
+      "designation": "Secretary",
+      "mobile": [
+        "91-612-2214425",
+        "91-9304713303"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1375",
+  "name": "Pawansut Servangin Vikas Kendra",
+  "primaryEmail": "info@psvk.org.in",
+  "website": "www.psvk.org.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "916122214425",
+    "918986000000"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "262/574",
+      "H/O Sri Suresh Dutta Mishra, Chandpur Bela, G.P.O",
+      "Patna",
+      "Bihar",
+      "800001"
+    ]
+  },
+  "briefDescription": "Background of the organization :The PSVK was started by help of few social workers in 1st july 2003 and registered in 24.07.2004 to initiate unique model of social work, Self Help Group Creation, formal education and computer education through community participation first in Patna district of Bihar and further replicated in other district of Bihar and Jharkhand.PSVK visualizes to create a value added society based on social justice, unity, integrity, equality, peace trust and freedom through community organization, participation and empowerment by providing equal access to right to food, clothing, shelter, education, health and information",
+  "yearOfEstablishment": "2004"
+}

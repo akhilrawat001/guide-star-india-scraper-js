@@ -1,0 +1,25 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7957",
+  "name": "Work for Equality",
+  "primaryEmail": "work4equality@gmail.com",
+  "website": "www.workforequality.org",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "919373032369",
+    "919545734545"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Flat No 8, Plot No 47,",
+      "Girija Park III, Rao Colony, Near Bhanadari Hospital, Talegaon Dabhade,",
+      "Talegaon Dabhade",
+      "Pune",
+      "Maharashtra",
+      "410506"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "contacts": [
+    {
+      "name": "Jitendra Pant",
+      "email": "",
+      "designation": "Secretary",
+      "mobile": []
+    },
+    {
+      "name": "Jitendra Pant",
+      "email": "",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1968",
+  "name": "Seemant Gramin Mahila Vikas Samiti Pithoragarh",
+  "primaryEmail": "sgmvs.pth@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "915964228581",
+    "919690071999"
+  ],
+  "mainAddrress": {
+    "state": "Uttarakhand",
+    "address": [
+      "Police Line Road",
+      "Pithoragarh",
+      "Uttarakhand",
+      "262501"
+    ]
+  }
+}

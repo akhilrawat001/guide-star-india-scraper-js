@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Ms.Padmavati",
+      "email": "swapnafoundation03@gmail.com",
+      "designation": "Chairman",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9024",
+  "name": "SWAPNA FOUNDATION",
+  "primaryEmail": "swapnafoundation03@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "+919838739751"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "4/5/39 Railway Sation,Road Jalwanpura,Ayodhya Faizabad",
+      "Ayodhya",
+      "Faizabad",
+      "Uttar Pradesh",
+      "224123"
+    ]
+  },
+  "briefDescription": "Swapna Foundation is located in Faizabad, Uttar Pradesh.",
+  "yearOfEstablishment": "2015"
+}

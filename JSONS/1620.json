@@ -1,0 +1,38 @@
+{
+  "contacts": [
+    {
+      "name": "Prem Kumar Raja",
+      "email": "",
+      "designation": "Trustee And Hon' Secretary",
+      "mobile": [
+        "91-80-23548444",
+        "91-9844037381"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1620",
+  "name": "Nightingales Medical Trust",
+  "primaryEmail": "nightingalesmt@gmail.com",
+  "website": "http://nightingaleseldercare.com/",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service"
+  ],
+  "telephone": [
+    "919243100560",
+    "918042426565"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "no.8P6",
+      "3rd A cross, East of NGEF layout, Kasturinagar , Banaswadi",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560043"
+    ]
+  },
+  "briefDescription": "Nightingales Medical Trust (NMT) is a professionally managed Non Government Organization (NGO) dedicated to eldercare. We firmly believe that elders should remain an integral part of their family. We sensitize the community and the government to the problems that elders face and encourage public participation in our efforts to create various family based Support systems for elders of different socio economic groups.",
+  "yearOfEstablishment": "1998"
+}

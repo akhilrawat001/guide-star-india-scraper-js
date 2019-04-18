@@ -1,0 +1,37 @@
+{
+  "contacts": [
+    {
+      "name": "George Abraham",
+      "email": "george@eyeway.org",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=297",
+  "name": "Score Foundation",
+  "primaryEmail": "scorefoundation@eyeway.org",
+  "website": "www.eyeway.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919810934040",
+    "911126852559"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "Y-70, Lower Ground Floor",
+      "Hauz Khas",
+      "New Delhi",
+      "Delhi",
+      "110016"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "Delhi"
+    ]
+  }
+}

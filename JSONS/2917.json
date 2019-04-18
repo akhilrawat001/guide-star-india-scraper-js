@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "Harshaben Davda",
+      "email": "",
+      "designation": "Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2917",
+  "name": "Girnari Nari Seva Charitable Trust",
+  "primaryEmail": "girnarisocialservices@gmail.com",
+  "telephone": [
+    "917926821696",
+    "917926821696"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "74, vishvakarma nagar society",
+      "opp.iswarami krupa society,",
+      "vejalpur",
+      "Ahmedabad",
+      "Gujarat",
+      "380051"
+    ]
+  }
+}

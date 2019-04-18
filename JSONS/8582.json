@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Albert Johnson",
+      "email": "provincial@donboscotiruchy.org",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8582",
+  "name": "Charity Foundation for Children and Aging",
+  "primaryEmail": "thamburaj.sdb@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919443168049"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "65, Illuppur Road, Kallukuzhy,",
+      "Don Bosco Provincial House",
+      "Trichy",
+      "Tiruchirappalli",
+      "Tamil Nadu",
+      "620020"
+    ]
+  }
+}

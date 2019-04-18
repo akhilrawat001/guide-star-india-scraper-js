@@ -1,0 +1,35 @@
+{
+  "contacts": [
+    {
+      "name": "K.B. SAXENA",
+      "email": "",
+      "designation": "ASSISTANT SECRETARY",
+      "mobile": [
+        "91-11-22724167"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1195",
+  "name": "Citizenship Development Society",
+  "primaryEmail": "citizenship_voc@yahoo.com",
+  "website": "www.citizenshipindia.org",
+  "organisationType": [
+    "Grant-making"
+  ],
+  "telephone": [
+    "911122724161",
+    "911122724167",
+    "911122724161"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "DR K B LALL NAGRIKTA VIKAS BHAWAN, Plot No. 4, OCF,",
+      "PKT-B, INST. AREA MAYUR VIHAR PH-2",
+      "New Delhi",
+      "Delhi",
+      "110091",
+      "AP_TelBill_1099.PDF"
+    ]
+  }
+}

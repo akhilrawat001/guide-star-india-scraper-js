@@ -1,0 +1,39 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10330",
+  "name": "LEAD INDIA",
+  "primaryEmail": "info@leadindia.org",
+  "website": "http://leadindia.org/",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "911141638440"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "M 8,3rd floor,Greater Kailash Part 1",
+      "New Delhi",
+      "South Delhi",
+      "Delhi",
+      "110048"
+    ]
+  },
+  "briefDescription": "LEAD (Leadership for Environment and Development) is a a unique, live, ever growing and global network organization with over 3000 cross sectoral LEADers who are committed to development that is environmentally sustainable, socially equitable and economically viable. Our mission is to build 'Leadership for Change' to create a sustainable world. LEAD Fellows, are successful leaders working on a wide range of local to global environmental and development issues in more than 90 countries including Africa, Brazil, Canada, China, India, Indonesia, Japan, Mexico, Pakistan, USA and UK.",
+  "yearOfEstablishment": "2000",
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "H-3 Alaknanda Commercial Complex",
+      "Alaknandan",
+      "New Delhi",
+      "South Delhi",
+      "Delhi",
+      "110048"
+    ]
+  }
+}

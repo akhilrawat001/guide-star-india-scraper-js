@@ -1,0 +1,27 @@
+{
+  "contacts": [
+    {
+      "name": "Dr K T Arasu",
+      "email": "aidindia@btinternet.com",
+      "designation": "Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4688",
+  "name": "Alternative for India Development",
+  "primaryEmail": "aidindia@btinternet.com",
+  "telephone": [
+    "914426272336",
+    "919444387655"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "Plot No 1 V G N Nagar",
+      "Iyappanthangal",
+      "Chennai",
+      "Tamil Nadu",
+      "600056"
+    ]
+  }
+}

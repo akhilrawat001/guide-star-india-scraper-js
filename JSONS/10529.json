@@ -1,0 +1,34 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10529",
+  "name": "JAN SWARAJYA SEVA FOUNDATION",
+  "primaryEmail": "janswarajyafoundation@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "917208668479"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "301 C Wing Near Aayepa Temple",
+      "Gouripada Road  Talav parisar",
+      "Kalyan West",
+      "Thane",
+      "Maharashtra",
+      "421301"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "301 C Wing Near Aayepa Temple",
+      "Gouripada Road Talav parisar",
+      "Kalyan West",
+      "Thane",
+      "Maharashtra",
+      "421301"
+    ]
+  }
+}

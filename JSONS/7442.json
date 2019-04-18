@@ -1,0 +1,35 @@
+{
+  "contacts": [
+    {
+      "name": "Ms.Pushpa Pal",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7442",
+  "name": "JAN SHIKSHAN KENDRA",
+  "primaryEmail": "jskkutiyawa@rediffmail.com",
+  "website": "jskambedkarnagar.ngo",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919415183210",
+    "919792831635"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "Kutiyawa, Bewana, Akbarpur, Ambedkar Nagar (UP)",
+      "Village-Kutiyawa, Post-bewana, Tahseel-Akbarpur,",
+      "Kutiyawa",
+      "Ambedkar Nagar",
+      "Uttar Pradesh",
+      "224122"
+    ]
+  },
+  "briefDescription": "JAN SHIKSHAN KENDRA LOCATED IN KUTIYAWA, UTTAR PRADESH.",
+  "yearOfEstablishment": "1995"
+}

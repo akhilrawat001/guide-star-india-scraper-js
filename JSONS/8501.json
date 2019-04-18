@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Ananthababu A",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8501",
+  "name": "ANBU FOUNDATION",
+  "primaryEmail": "anbufoundation2016@gmail.com",
+  "website": "www.anbufoundations.blogspot.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919842056610",
+    "919788567787"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "155/2 Min Nagar",
+      "Near Mrk Csm",
+      "Sethiyathope And Post",
+      "Cuddalore",
+      "Tamil Nadu",
+      "608702"
+    ]
+  }
+}

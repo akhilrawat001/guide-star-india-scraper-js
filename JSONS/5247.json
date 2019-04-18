@@ -1,0 +1,43 @@
+{
+  "contacts": [
+    {
+      "name": "Haritha Sarma",
+      "email": "haritha@hidforum.org",
+      "designation": "Executive Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5247",
+  "name": "Human and Institutional Development Forum",
+  "primaryEmail": "info@hidforum.org",
+  "website": "www.hidforum.org",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "918023659596",
+    "919980566741"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "# 21/4, 'Prakriya', 2nd Cross, 1st A Main, Atmananda Colony, Sultan Palya",
+      "R T Nagar Post",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560032"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "No. 3B, Lavelle Mansions",
+      "1/2 Lavelle Road",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560001"
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "MR.MOHD IMRAN SAIFI",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7638",
+  "name": "JANHIT SOCIAL WELFARE SOCIETY",
+  "primaryEmail": "imransaifi898@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919412464989"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "Station Road, Moh. Islamnagar",
+      "Seohara",
+      "Bijnor",
+      "Uttar Pradesh",
+      "246746"
+    ]
+  }
+}

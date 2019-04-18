@@ -1,0 +1,41 @@
+{
+  "contacts": [
+    {
+      "name": "M.Subbarao",
+      "email": "rao.masses@gmail.com",
+      "designation": "Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8170",
+  "name": "Masses Association for Self Sufficiency Economic Security, Gudur",
+  "primaryEmail": "rao.masses@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918985415543"
+  ],
+  "mainAddrress": {
+    "state": "Telangana",
+    "address": [
+      "10-3-18/12/A",
+      "Street No.7 Lane 4 East mared palli",
+      "Secunderabad",
+      "Hyderabad",
+      "Telangana",
+      "500026"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "Santhi Klasala Building",
+      "Raja street,",
+      "Gudur, Nellore district",
+      "Sri Potti Sriramulu Nellore",
+      "Andhra Pradesh",
+      "524101"
+    ]
+  }
+}

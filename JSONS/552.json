@@ -1,0 +1,36 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=552",
+  "name": "Shri Vadilal S Gandhi Charitable Trust",
+  "primaryEmail": "vsgct@yahoo.co.in",
+  "website": "www.vsgandhitrust.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service"
+  ],
+  "telephone": [
+    "912692263296",
+    "912691263466",
+    "912692263296"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "Antisar Darwaja, Neninathjini wadi.V.S. Circle",
+      "Kapadwanj",
+      "Kheda",
+      "Gujarat",
+      "387620"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Flat No. 17, Aryan Mahal",
+      "“C” Road, Churchgate",
+      "Mumbai",
+      "Maharashtra",
+      "400000"
+    ]
+  }
+}

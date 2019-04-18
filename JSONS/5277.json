@@ -1,0 +1,36 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5277",
+  "name": "Shrushti Seva Samiti",
+  "primaryEmail": "shrushtisevasamiti@gmail.com",
+  "website": "http://www.shrushti.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919414829461",
+    "912942461094"
+  ],
+  "mainAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "22 Sarvottam Comlex, Road No. 5, Behind Vaishali Apartment, Hiran Magri,Sector 4,",
+      "Udaipur",
+      "Rajasthan",
+      "313002"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "Shrushti Seva Samiti, New Colony, Jhadol(Ph)",
+      "Jhadol(Ph)",
+      "Udaipur",
+      "Rajasthan",
+      "313002"
+    ]
+  }
+}

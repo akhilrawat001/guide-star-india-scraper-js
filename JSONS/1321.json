@@ -1,0 +1,43 @@
+{
+  "contacts": [
+    {
+      "name": "Panna lal Dangi",
+      "email": "kamlendra.rathore@gmail.com",
+      "designation": "Office Incharge",
+      "mobile": [
+        "91-9414164478"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1321",
+  "name": "Rajasthan Van Upaj Sangrahak Evam Prashodhak Samuha Samarthak Samiti",
+  "primaryEmail": "samarthak@sancharnet.in",
+  "website": "www.samarthak.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "912942451478",
+    "919414164478"
+  ],
+  "mainAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "Inside Mangal Shree Garden",
+      "Near Chungi Naka Old Fathepura ,",
+      "Udaipur",
+      "Rajasthan",
+      "313004"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "39 Kharol coloney,",
+      "Old Fathepura ,",
+      "Udaipur",
+      "Rajasthan",
+      "313004"
+    ]
+  }
+}

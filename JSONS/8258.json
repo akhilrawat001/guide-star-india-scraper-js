@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Amit V. Kulkarni",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8258",
+  "name": "Navi Ummed Social Organization Pandharkawada",
+  "primaryEmail": "naviummed@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919420371985"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Amit v. Kulkarni",
+      "Near SBI,Akhadaward",
+      "Pandharkawada",
+      "Yavatmal",
+      "Maharashtra",
+      "445302"
+    ]
+  }
+}

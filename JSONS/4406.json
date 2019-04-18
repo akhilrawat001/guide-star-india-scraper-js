@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "LOPAMUDRA ACHARYA",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4406",
+  "name": "CHANCHALA",
+  "primaryEmail": "chanchala.society@gmail.com",
+  "website": "www.chanchalango.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "918093537503"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "HIG-32 (Duplex)",
+      "Sailashree Vihar, Chandrashekhar Pur",
+      "Bhubaneswar",
+      "Khordha",
+      "Odisha",
+      "751021"
+    ]
+  }
+}

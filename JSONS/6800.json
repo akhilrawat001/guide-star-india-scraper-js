@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "K.Pramod Dass",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6800",
+  "name": "BETHESDA CHARITABLE ENDEAVORS",
+  "primaryEmail": "bethesda_kj@hotmail.com",
+  "website": "http://www.bethesdace.webs.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919560872878"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "462, Second Floor, Indra Vihar, Mukharjee Nager, Delhi-110009",
+      "opposite Haryana Roadways Bus Depot.",
+      "Dellhi",
+      "North West Delhi",
+      "Delhi",
+      "110009"
+    ]
+  },
+  "briefDescription": "Bethesda Charitable Endeavor’ (BCE) is a registered society (NGO) of national recognition under the Society Registration Act, 1860 in Delhi in 2006.  This is a non-profit making and social organization and working for the socio- economic development of the community.  Bethesda focuses on socio-economic development of LAPs (Leprosy Affected Peoples) underprivileged and marginalized community without discrimination of caste, color, creed and religion.",
+  "yearOfEstablishment": "2006"
+}

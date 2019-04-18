@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "Prahallad Chandra Mallick",
+      "email": "",
+      "designation": "Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3242",
+  "name": "Association For Women And Rural Development (AWARD)",
+  "primaryEmail": "award97@rediffmail.com",
+  "telephone": [
+    "916642226422",
+    "916642226422"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "At/Po Jarabaga, Via Kesaibahal",
+      "Block Bamra",
+      "Sambhalpur",
+      "Sambalpur",
+      "Odisha",
+      "768228"
+    ]
+  }
+}

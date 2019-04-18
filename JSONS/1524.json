@@ -1,0 +1,26 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1524",
+  "name": "Vikas All India Society for Social Economical Educational Development Research & Traning",
+  "primaryEmail": "vikas_ngo@yahoo.com",
+  "website": "www.vikasngo.com",
+  "organisationType": [
+    "Direct Service",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919650397444"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "1/7226,",
+      "Mohar Singh Lane, Shivaji Park, Shahdara",
+      "Delhi",
+      "New Delhi",
+      "110032"
+    ]
+  }
+}

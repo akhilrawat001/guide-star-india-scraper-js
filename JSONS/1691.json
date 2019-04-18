@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Aranya Chatterjee",
+      "email": "debabrata_sarkar40@yahoo.co.in",
+      "designation": "Asst. Secretary",
+      "mobile": [
+        "91-33-26554418",
+        "91-9804350810"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1691",
+  "name": "Salkia Safar",
+  "primaryEmail": "salkia.safar@indiatimes.com",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "919804360810"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "27",
+      "Uttam Ghosh Lane, Salkia",
+      "Howrah",
+      "West Bengal",
+      "711106"
+    ]
+  }
+}

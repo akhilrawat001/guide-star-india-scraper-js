@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Kamran Alam (Adv.)",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5364",
+  "name": "Nav Nirman Sahyog Society",
+  "primaryEmail": "nilemgg@gmail.com",
+  "website": "n/a",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918969307265"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "Budha Shopping complex, Shop No. 7",
+      "Janta cinema Road, Gopalganj",
+      "Gopalganj",
+      "Bihar",
+      "841428"
+    ]
+  }
+}

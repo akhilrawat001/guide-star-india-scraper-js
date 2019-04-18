@@ -1,0 +1,49 @@
+{
+  "contacts": [
+    {
+      "name": "Jovial",
+      "email": "jmoshahary@vaani.in",
+      "designation": "Dy Head Strategic Partnership",
+      "mobile": [
+        "91-80-25457124",
+        "91-9886355891"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=502",
+  "name": "Vaani, Deaf Children's Foundation",
+  "primaryEmail": "vpandey@vaani.in",
+  "website": "http://vaani.in",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "913322892705",
+    "913322892705"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "No. 801, 2A Cross, 8th Main HRBR 1st Block",
+      "Kalyan Nagar Bangalore",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560043"
+    ]
+  },
+  "briefDescription": "“VAANI” means ‘sound of the soul’, and we work to bring communication and language into the lives of deaf children and their families. Deafness leads to the inability to develop language, rendering these children starved of stimulation; living in silence in a noisy world. Our goal is to ensure that every deaf child is given the opportunity to communicate, to learn, to grow and to participate in the world like any other regular child.",
+  "yearOfEstablishment": "2005",
+  "regiseredAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Flat # 1, Shree Apartments",
+      "4G Tiljala Road",
+      "Kolkata 700046",
+      "Kolkata",
+      "West Bengal",
+      "700046"
+    ]
+  }
+}

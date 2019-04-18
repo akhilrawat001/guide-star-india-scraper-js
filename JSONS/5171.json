@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "SUMATHI",
+      "email": "kerdsdowntrodden@gmail.com",
+      "designation": "SECRETARY",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5171",
+  "name": "KOTTAMALYAN  EDUCATIONAL AND RURAL WOMEN DEVELOPMENT SOCIETY",
+  "primaryEmail": "kerdsdowntrodden@gmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919865929492"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "52, EAST STREET, UTHANGAL POST.VRIDHACHALAM TALUK",
+      "CUDDALORE DIST, TAMILNADU",
+      "NEYVELI",
+      "Cuddalore",
+      "Tamil Nadu",
+      "607804"
+    ]
+  }
+}

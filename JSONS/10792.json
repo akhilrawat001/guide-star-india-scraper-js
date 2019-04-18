@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "Sourav Nandi",
+      "email": "",
+      "designation": "Authorised Signatory",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10792",
+  "name": "BRAJESWARI YOGANANDA BEHAVIOURAL VISION DEVELOPMENT",
+  "primaryEmail": "contact.brajeswari@gmail.com",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "917003049530"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "C/27, Ramkrishna Upanibesh, 1st Floor, Sulekha, Jadavpur,",
+      "Kolkata",
+      "West Bengal",
+      "700092"
+    ]
+  }
+}

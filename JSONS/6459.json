@@ -1,0 +1,34 @@
+{
+  "contacts": [
+    {
+      "name": "Srijoni Sen",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "43102767"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6459",
+  "name": "Vidhi Centre for Legal Policy",
+  "primaryEmail": "vclp@vidhilegalpolicy.in",
+  "website": "http://www.vidhilegalpolicy.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "911143102767",
+    "911143102767"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "D-21, Lower Ground Floor",
+      "Jangpura Extension",
+      "New Delhi",
+      "South Delhi",
+      "Delhi",
+      "110014"
+    ]
+  }
+}

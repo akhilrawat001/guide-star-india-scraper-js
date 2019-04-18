@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "PABAN ROY",
+      "email": "KORNIK91@REDIFFMAIL.COM",
+      "designation": "SECRETARY",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8151",
+  "name": "KORNIK",
+  "primaryEmail": "KORNIK91@REDIFFMAIL.COM",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "916432222010",
+    "916432222010"
+  ],
+  "mainAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "R.N.BOSE BANGLA",
+      "LIBRARY STATION ROAD",
+      "DEOGHAR",
+      "Deoghar",
+      "Jharkhand",
+      "814112"
+    ]
+  }
+}

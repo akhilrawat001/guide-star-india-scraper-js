@@ -1,0 +1,34 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6898",
+  "name": "BHARTIYA JANSEWA SANSTHAN",
+  "primaryEmail": "jansewa@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919810081022"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "Vishwa Hindu office",
+      "Sankat Mochan Ashram",
+      "Sector -6, R K Puram, New Delhi",
+      "South Delhi",
+      "Delhi",
+      "110022"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "BHARTIYA JANSEWA SANSTHAN",
+      "VISHWA HINDU PARISHAD OFFICE, SANKAT MOCHAN ASHRAM",
+      "SECTOR -6, R K PURAM, NEW DELHI",
+      "South Delhi",
+      "Delhi",
+      "110022"
+    ]
+  }
+}

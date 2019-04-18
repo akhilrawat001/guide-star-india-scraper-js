@@ -1,0 +1,57 @@
+{
+  "contacts": [
+    {
+      "name": "Mini Chacko",
+      "email": "mini@reachinghand.org",
+      "designation": "Manager - Corporate Affairs",
+      "mobile": [
+        "91-80-41677874",
+        "91-7625017981"
+      ]
+    },
+    {
+      "name": "Mini Chacko",
+      "email": "mini@reachinghand.org",
+      "designation": "Manager - Corporate Affairs",
+      "mobile": [
+        "91-80-41677874",
+        "91-7625017981"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1358",
+  "name": "Reaching Hand",
+  "primaryEmail": "sagar@reachinghand.org",
+  "website": "http://www.reachinghand.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918041677874",
+    "919972584243"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "No 44, 1st Floor, Nehru Road, Yadava Layout, Aravind Nagar, St. Thomas Town Post",
+      "Kammanahalli Extn, St. Thomas Town Post, Opposite State Bank of Hyderabad",
+      "Kammanahalli, Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560084"
+    ]
+  },
+  "briefDescription": "Reaching Hand is a registered Charitable Trust started in 1996 in Bangalore to work with underprivileged children, vulnerable youths & disadvantaged women. It envisions an empowered future for all by acting as a catalyst for social change. Reaching Hand empowers the children, youths and women through its innovative programme focusing on providing quality education, health care services and skill development training so that they lead a life of self-worth, hope & dignity. Reaching Hand has impacted more than 15000 children so far with its innovative projects.",
+  "yearOfEstablishment": "1996",
+  "regiseredAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "# 60/2, Nehru Road,",
+      "Kammanahalli Extn, St. Thomas Town Post, Opposite State Bank of Hyderabad",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560084"
+    ]
+  }
+}

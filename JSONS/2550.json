@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "Sunil J Makwan",
+      "email": "",
+      "designation": "Trustee",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2550",
+  "name": "Development Support Team",
+  "primaryEmail": "devteam@hotmail.com",
+  "website": "www.dsteam.org",
+  "telephone": [
+    "919427110209"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "S/28, Hexzone Arcade",
+      "Near Smt.Jayaben Modi Hospital, Valia Road",
+      "Ankleshwar",
+      "Bharuch",
+      "Gujarat",
+      "393002"
+    ]
+  }
+}

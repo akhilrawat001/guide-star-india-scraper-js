@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Banshi Dhar Tiwari",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8159",
+  "name": "Samagra Lokhit Sewashram",
+  "primaryEmail": "bdhartiwari@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919415860255"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "Vill- Bhadesar,",
+      "Post- Bairan,",
+      "Ghazipur",
+      "Uttar Pradesh",
+      "233227"
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "Buddhadeb Banerjee",
+      "email": "bahdo2002@yahoo.co.in",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2889",
+  "name": "BARASAT AKRAMPUR HUMAN DEVELOPMENT ORGANIZATION",
+  "primaryEmail": "bahdo2002@yahoo.co.in",
+  "telephone": [
+    "913328963714",
+    "913328963714"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Akrampur",
+      "PO- Noapara",
+      "Barasat",
+      "Kolkata",
+      "West Bengal",
+      "743373"
+    ]
+  }
+}

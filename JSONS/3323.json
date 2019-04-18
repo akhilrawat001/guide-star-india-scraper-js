@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Biswajit Jana",
+      "email": "pgredsociety@gmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3323",
+  "name": "Paschim Ghoshpur Rural - Education Development Society",
+  "primaryEmail": "pgredsociety@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919474894201"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Biswajit Jana , Vill- Paschim Ghoshpur, Post- Naba Anantapur ,Dist- Purba Medinipur.Pin-721601",
+      "Same",
+      "Vill-Paschim Ghoshpur",
+      "East Medinipur",
+      "West Bengal",
+      "721601"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1213",
+  "name": "The Saraswathi Shanmugam Public Charitable Trust",
+  "primaryEmail": "info@sspct.org",
+  "website": "http://www.sspct.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network"
+  ],
+  "telephone": [
+    "914181241100",
+    "914181241325"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "5/944, C.C.Road",
+      "Kalasapakkam",
+      "Tiruvannamalai",
+      "Tamil Nadu",
+      "606751",
+      "AP_BankStat_1117.PDF"
+    ]
+  }
+}

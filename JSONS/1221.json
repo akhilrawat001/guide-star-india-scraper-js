@@ -1,0 +1,28 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1221",
+  "name": "Project Concern International",
+  "primaryEmail": "proconin@pciindia.org",
+  "website": "http://www.pciindia.org/html/AboutUs.php",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "911146058888",
+    "911146058888"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "C-32, Ground Floor, Panchsheel Enclave",
+      "Near Chirag Delhi Flyover",
+      "New Delhi",
+      "Delhi",
+      "110017",
+      "AP_TelBill_1125.PDF"
+    ]
+  }
+}

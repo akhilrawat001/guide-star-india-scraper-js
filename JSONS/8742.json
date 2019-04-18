@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Shrikant Suryawanshi",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8742",
+  "name": "Mauli Charitable Trust",
+  "primaryEmail": "sachinsuryawanshi133@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919850918300"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Mauli Charitable Trust At Post Ekambi Tq. Ausa",
+      "Latur",
+      "Maharashtra",
+      "413520"
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5982",
+  "name": "CHILUME SAMAJA SEVA SAMASTHE (CSSS)",
+  "primaryEmail": "chilume.blr@gmail.com",
+  "website": "www.chilume.org",
+  "organisationType": [
+    "Direct Service",
+    "Intermediary"
+  ],
+  "telephone": [
+    "919980294914"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "No.18, 5th Main, 5th cross, Kammanahalli, st.Thomas Town PO, Bangalore- 560084",
+      "Kammanahalli",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560084"
+    ]
+  }
+}

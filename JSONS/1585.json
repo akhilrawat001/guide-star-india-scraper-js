@@ -1,0 +1,35 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1585",
+  "name": "Holy Trinity Charitable Trust",
+  "primaryEmail": "info@holytrinitycharity.com",
+  "website": "www.holytrinitycharity.com",
+  "telephone": [
+    "912227578750",
+    "912227578748",
+    "912227578749",
+    "919821135316"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "603",
+      "Prabhat Centre Annexe, Sector-1A, CBD Belapur",
+      "Navi Mumbai",
+      "Thane",
+      "Maharashtra",
+      "400614"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "C5/10/4-4, Sector-1A,",
+      "CBD Belapur",
+      "Navi Mumbai",
+      "Thane",
+      "Maharashtra",
+      "400614"
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Vijaychandra Prakash",
+      "email": "vc.prakash@rediffmail.com",
+      "designation": "Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2855",
+  "name": "Gramodaya Sangh",
+  "primaryEmail": "vc.prakash@rediffmail.com",
+  "telephone": [
+    "917175266029",
+    "917175266676",
+    "917175266029"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Post- Bhadrawati",
+      "Bhadrawati",
+      "Chandrapur",
+      "Maharashtra",
+      "442902"
+    ]
+  },
+  "briefDescription": "Gramoday Sangh is working for the development of rural tradtional art of India since 1955, running a training center for giving modern training keeping tradition art alive, working for cluster development in rural area of Maharashtra.",
+  "yearOfEstablishment": "1955"
+}

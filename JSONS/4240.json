@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "Gourhari Das",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "9733985135"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4240",
+  "name": "Indrapur Dwipanchal Adarsha Seva Samity",
+  "primaryEmail": "idass.ngo@gmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919733985135"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Vill+ P.O- Indrapur,",
+      "G-Plot Gram Panchayet,",
+      "P.S- Patharpratima,",
+      "South 24 Parganas",
+      "West Bengal",
+      "743371"
+    ]
+  }
+}

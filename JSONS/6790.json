@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "DHARAM SINGH JANGRA",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "9466206502"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6790",
+  "name": "Association for promotion sustainable development",
+  "primaryEmail": "apsdhisar@gmail.com",
+  "website": "under construction",
+  "organisationType": [
+    "Advocacy & Campaigning"
+  ],
+  "telephone": [
+    "+919466206502"
+  ],
+  "mainAddrress": {
+    "state": "Haryana",
+    "address": [
+      "dhani gujran",
+      "village Dhani Gujran",
+      "Hansi",
+      "Hisar",
+      "Haryana",
+      "125033"
+    ]
+  }
+}

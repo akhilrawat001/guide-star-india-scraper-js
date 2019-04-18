@@ -1,0 +1,27 @@
+{
+  "contacts": [
+    {
+      "name": "Zakir Hussain",
+      "email": "jpvvs@rediffmail.com",
+      "designation": "SECRETARY",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4195",
+  "name": "JHARKHAND PICHHARA VARG VIKAS SAMITI",
+  "primaryEmail": "jpvvs@rediffmail.com",
+  "telephone": [
+    "919973772587"
+  ],
+  "mainAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "PIYALSOLA,P.O. KELAHI",
+      "P.S. MIHIJAM",
+      "JAMTARA",
+      "Jamtara",
+      "Jharkhand",
+      "815354"
+    ]
+  }
+}

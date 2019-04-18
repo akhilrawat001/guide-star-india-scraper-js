@@ -1,0 +1,35 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1616",
+  "name": "Abhyudaya Sansthan",
+  "primaryEmail": "abhudaya_sansthan97@yahoo.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "915422508784",
+    "919235424449"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "B-89",
+      "AwasVikas",
+      "Banda",
+      "Uttar Pradesh",
+      "210001"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "S-8/314-A-9-E-1 Khajuri Near Tulsi Niketan",
+      "Pandeypur",
+      "Varanasi",
+      "Uttar Pradesh",
+      "221004"
+    ]
+  }
+}

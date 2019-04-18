@@ -1,0 +1,34 @@
+{
+  "contacts": [
+    {
+      "name": "Manish Joshi",
+      "email": "manish@drreddysfoundation.org",
+      "designation": "Head Project",
+      "mobile": [
+        "91-9912060444"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1298",
+  "name": "Dr. Reddy's Foundation for Human and Social Development",
+  "primaryEmail": "info@drreddysfoundation.org",
+  "website": "www.drreddysfoundation.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "914023301868",
+    "914023304199",
+    "914023301868"
+  ],
+  "mainAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "6-3-655/12",
+      "Somajiguda, ,",
+      "Hyderabad",
+      "Andhra Pradesh",
+      "500082"
+    ]
+  }
+}

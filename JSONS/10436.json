@@ -1,0 +1,39 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10436",
+  "name": "JANAKIAMMAL TRUST",
+  "primaryEmail": "janakiammaltrust@gmail.com",
+  "website": "www.grantalife.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Intermediary",
+    "Support"
+  ],
+  "telephone": [
+    "919629991828",
+    "918939366528"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "1/177",
+      "Sri Ranga Co-operative Nagar",
+      "Vadaperumbakkam",
+      "Chennai",
+      "Tamil Nadu",
+      "600060"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "399, First Floor",
+      "21st Street, NSK Nagar",
+      "Arumbakkam",
+      "Chennai",
+      "Tamil Nadu",
+      "600106"
+    ]
+  }
+}

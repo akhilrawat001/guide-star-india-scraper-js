@@ -1,0 +1,25 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1860",
+  "name": "Aryan Sanstha Baran",
+  "primaryEmail": "aryansansthan@gmail.com",
+  "website": "www.aryansansthan.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "917452223252",
+    "917452223252",
+    "919799111411"
+  ],
+  "mainAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "sivaji nagar",
+      "baran",
+      "Baran",
+      "Rajasthan",
+      "325205"
+    ]
+  }
+}

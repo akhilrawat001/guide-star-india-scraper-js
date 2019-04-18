@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "J P Nagabhushanam",
+      "email": "",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=579",
+  "name": "Dalit Welfare Trust",
+  "primaryEmail": "dalit_dwt@yahoo.co.in",
+  "telephone": [
+    "914428550655",
+    "914428550655",
+    "914428550655"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "40372, Bootha Perumal 1st Lane",
+      "Anna Salai",
+      "Chennai",
+      "Tamil Nadu",
+      "600002"
+    ]
+  }
+}

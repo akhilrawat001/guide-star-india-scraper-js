@@ -1,0 +1,41 @@
+{
+  "contacts": [
+    {
+      "name": "Rajiv Kumar",
+      "email": "abhiyan_office@sify.com",
+      "designation": "Office Assistant",
+      "mobile": [
+        "91-9431880143"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=307",
+  "name": "Abhiyan",
+  "primaryEmail": "abhiyan_office@sify.com",
+  "website": "http://www.abhiyan.net",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919931775677",
+    "916122673035"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "Barai Bhawan, Birsa Adivasi Colony",
+      "Gulzarbagh",
+      "Patna",
+      "Bihar",
+      "800007"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Bihar",
+    "address": [
+      "Bihar"
+    ]
+  }
+}

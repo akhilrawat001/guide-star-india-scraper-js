@@ -1,0 +1,37 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=770",
+  "name": "Sahyadri Gramin Vikas Va Bahuuddeshiya Yuvak Kalyan Sanstha",
+  "primaryEmail": "sahyadri@india.com",
+  "website": "www.sahyadriindia.webs.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "917122293314",
+    "917105232572",
+    "919860998971"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "27, Mulik Colony",
+      "Somalwada, B/H Hotel Centre Point, Wardha Road",
+      "Nagpur",
+      "Maharashtra",
+      "440025"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Care of Vijay Kshirsagar, 987",
+      "Ward No 4, Peth",
+      "Narkhed",
+      "Nagpur",
+      "Maharashtra",
+      "441304",
+      "AP_TelBill_684.PDF"
+    ]
+  }
+}

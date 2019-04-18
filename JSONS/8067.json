@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Shona Nag",
+      "email": "shona_nag@hotmail.com",
+      "designation": "Founder",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8067",
+  "name": "NAG FOUNDATION",
+  "primaryEmail": "mohsin@plan-a.co.in",
+  "website": "http://www.nagfoundation.org/",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "912026163852",
+    "912026163852"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "3, Boat Club Rd,",
+      "Sangamvadi",
+      "Pune",
+      "Maharashtra",
+      "411001"
+    ]
+  }
+}

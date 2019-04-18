@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "Mr. Ashok Kadam",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4896",
+  "name": "Parivartan",
+  "primaryEmail": "info@parivartan.org.in",
+  "website": "http://www.parivartan.org.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Intermediary",
+    "Support"
+  ],
+  "telephone": [
+    "912355256052",
+    "912355256052"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Parivartan, Behind Welcome Park",
+      "Malewadi, @post - Kherdi",
+      "Chiplun",
+      "Ratnagiri",
+      "Maharashtra",
+      "415604"
+    ]
+  },
+  "briefDescription": "Parivartan, since last 18 years, have been working on various issues/themes like Women empowerment, Strengthening citizen leadership, Techno-economic rural development, Livelihood enhancement, Responsible industrialization, Response to climate change, Disaster management, State level advocacy etc.Our focus is to form and strengthen people organizations to voice struggles for fundamental rights and bringing forward participatory development models for economic and social development wherein marginalized sections of the community are also equally empowered.Currently, we are a team of 14 dedicated activists and around 240 community volunteers from our intervention area.",
+  "yearOfEstablishment": "1995"
+}

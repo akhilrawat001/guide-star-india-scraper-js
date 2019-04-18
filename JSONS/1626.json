@@ -1,0 +1,48 @@
+{
+  "contacts": [
+    {
+      "name": "Kh. Ibemcha Devi",
+      "email": "inao4bi@gmail.com",
+      "designation": "Treasurer & Manager",
+      "mobile": [
+        "91-3848-201279"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1626",
+  "name": "The Socio-Economic Development Association",
+  "primaryEmail": "inaobisagolshem@yahoo.in",
+  "website": "http://www.sedamanipur.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "913848201279",
+    "919862402392"
+  ],
+  "mainAddrress": {
+    "state": "Manipur",
+    "address": [
+      "Athokpam Awang Leikai",
+      "Athokpam Awang Leikai- Thoubal- Manipur-India",
+      "Thoubal",
+      "Manipur",
+      "795138"
+    ]
+  },
+  "briefDescription": "Our organisation's main works are to advance women's rights and justice worldwide and bring the global women's movement to our community and increase social economic development of minority and gender rights.",
+  "yearOfEstablishment": "1984",
+  "regiseredAddrress": {
+    "state": "Manipur",
+    "address": [
+      "Athokpam Awang Leikai",
+      "Thoubal",
+      "Manipur",
+      "795138"
+    ]
+  }
+}

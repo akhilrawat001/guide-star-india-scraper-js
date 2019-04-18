@@ -1,0 +1,45 @@
+{
+  "contacts": [
+    {
+      "name": "Senthil singh",
+      "email": "swis_ngo@yahoo.com",
+      "designation": "EC Member",
+      "mobile": [
+        "91-9443810185"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1503",
+  "name": "Social Welfare Improvement Society",
+  "primaryEmail": "swis_ngo@yahoo.com",
+  "website": "www.swis.org.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network"
+  ],
+  "telephone": [
+    "914175295491",
+    "919443810185"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "622",
+      "Banglaw Street,Thandrampet Po &Tk,",
+      "Tiruvannamalai",
+      "Tamil Nadu",
+      "606707"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "650,Vijayappanur Vill,Rayandapuram Po,",
+      "Thandrampet Tk,",
+      "Tiruvannamalai",
+      "Tamil Nadu",
+      "606708"
+    ]
+  }
+}

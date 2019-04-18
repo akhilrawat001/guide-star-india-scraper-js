@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "Asha Ravindra Thatte",
+      "email": "vikasvhh@yahoo.co.in",
+      "designation": "Trustee",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3533",
+  "name": "Jankibai Shikshan Sanstha",
+  "primaryEmail": "vikas_vidyalaya@yahoo.co.in",
+  "telephone": [
+    "912224228966",
+    "912224229987",
+    "912224228966"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "A-3 , Mehta Apartments",
+      "Prof V.S. Agashe Path Dadar (W)",
+      "Mumbai",
+      "Maharashtra",
+      "400028"
+    ]
+  }
+}

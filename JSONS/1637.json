@@ -1,0 +1,27 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1637",
+  "name": "Beyond Sight Foundation",
+  "primaryEmail": "Supportus@blindwithcamera.org",
+  "website": "www.blindwithcamera.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "912228701761",
+    "919821474731"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "A-403 Vasant Sarita",
+      "90 Ft Road, Opp HDFC Bank, Thakur Complex,",
+      "Kandivali East",
+      "Mumbai",
+      "Maharashtra",
+      "400101"
+    ]
+  }
+}

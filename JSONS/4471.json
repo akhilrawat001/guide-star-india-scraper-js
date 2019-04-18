@@ -1,0 +1,45 @@
+{
+  "contacts": [
+    {
+      "name": "Anjali Shah",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4471",
+  "name": "Advitya Kala Sangam Trust",
+  "primaryEmail": "advitya_1@rediffmail.com",
+  "website": "http://www.advitya.com/",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "912226602900",
+    "912226602900"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "B-305, Pioneer Heritage Residency 2,",
+      "Near Milan Signal, next to sane guruji school, Santacruz West",
+      "Mumbai",
+      "Mumbai Suburban",
+      "Maharashtra",
+      "400054"
+    ]
+  },
+  "briefDescription": "Advitya is an organization that seeks to provide vocational training to differently-abled individuals with a view to keep them occupied through creative work. These are students above the age of 18 who are unable to continue in other special schools due to their need for individual attention, age or behavioural problems. The students work to add value to a range of gift products from office stationery, upholstery, bags, utility and lifestyle items to season specials like rakhis and diyas. It is rather amazing to see how these students can concentrate for hours on end to complete each piece. The final product is impeccable and of unmatched quality.It’s not just work that keeps the students at Advitya occupied.",
+  "yearOfEstablishment": "2004",
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "3, Lila Cottage",
+      "Besant Road, Santacruz West",
+      "Mumbai",
+      "Mumbai Suburban",
+      "Maharashtra",
+      "400054"
+    ]
+  }
+}

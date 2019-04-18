@@ -1,0 +1,28 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4230",
+  "name": "Action Research Centre",
+  "primaryEmail": "shankartalwar@gmail.com",
+  "website": "http://www.arcmumbai.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "912225893347",
+    "919819098256"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "A-1/605, Shruti Park, Kolshet Road",
+      "Thane (West)",
+      "Thane",
+      "Maharashtra",
+      "400607"
+    ]
+  },
+  "briefDescription": "ARC is a non-profit action research and intervention organization in the area of health, education, environment and industry. ARC has supported marginalized population including people living with HIV, sex workers, migrant labor and youth. ARC has helped other organizations including Avert/USAID, FPAI, Population Council and CARE India in implementing projects.",
+  "yearOfEstablishment": "2004"
+}

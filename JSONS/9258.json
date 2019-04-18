@@ -1,0 +1,33 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9258",
+  "name": "Manav Vikas Sansthan Khairi",
+  "primaryEmail": "manavsunil@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919934038018"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "Village-Khairi,Post-Fataki .Via-Madhepur",
+      "Madhepur,Madhubani",
+      "Madhubani",
+      "Bihar",
+      "847408"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Bihar",
+    "address": [
+      "Village-Khairi,Post -Fataki ,Via-Madhepur",
+      "Madhepur ,Madhubani",
+      "Madhubani",
+      "Bihar",
+      "847408"
+    ]
+  }
+}

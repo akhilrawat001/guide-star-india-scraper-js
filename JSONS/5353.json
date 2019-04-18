@@ -1,0 +1,34 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5353",
+  "name": "Vasudha Vikas Sansthan",
+  "primaryEmail": "vasudhaorganisation2000@yahoo.com",
+  "website": "www.vvs.org.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "917292408652",
+    "917292408652"
+  ],
+  "mainAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "91, Shantikunj colony",
+      "near kashibagh",
+      "Dhar",
+      "Madhya Pradesh",
+      "454001"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "162",
+      "Trupti Nagar",
+      "Dhar",
+      "Madhya Pradesh",
+      "454001"
+    ]
+  }
+}

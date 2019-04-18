@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Tadawee Jawed Noorbhai",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7838",
+  "name": "LAW AND RIGHTS COUNCIL OF INDIA",
+  "primaryEmail": "lawrightscouncilindia@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "918237222600"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "15/G-3,",
+      "Chandan Vihar, West Sant Nagar, Burari",
+      "Burari",
+      "North East Delhi",
+      "Delhi",
+      "110084"
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1587",
+  "name": "Care For Orphans Rehabilitation And Educational Society",
+  "primaryEmail": "coreorganization@gmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "918212377737",
+    "919347502657"
+  ],
+  "mainAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "Core, D.no.6-117,",
+      "Behind Old MRO Office,",
+      "Koyyalaguddem",
+      "West Godavari",
+      "Andhra Pradesh",
+      "534312"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "Ponguturu,",
+      "D.4-11",
+      "Koyyalgudem",
+      "West Godavari",
+      "Andhra Pradesh",
+      "534312"
+    ]
+  }
+}

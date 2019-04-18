@@ -1,0 +1,27 @@
+{
+  "contacts": [
+    {
+      "name": "Dan Singh Bisht",
+      "email": "",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=683",
+  "name": "Pithora Sanskritic Samajic Samiti",
+  "primaryEmail": "psspth@gmail.com",
+  "telephone": [
+    "915964227302",
+    "919412937302",
+    "915964227302"
+  ],
+  "mainAddrress": {
+    "state": "Uttarakhand",
+    "address": [
+      "Diwan Niwas Near Tildhukari",
+      "Pithoragarh",
+      "Uttarakhand",
+      "262501"
+    ]
+  }
+}

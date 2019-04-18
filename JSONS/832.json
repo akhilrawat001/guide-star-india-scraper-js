@@ -1,0 +1,34 @@
+{
+  "contacts": [
+    {
+      "name": "Priyanka Sharma",
+      "email": "priyanka@resource-alliance.org",
+      "designation": "Program Manager",
+      "mobile": [
+        "91-11-41354766"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=832",
+  "name": "The Resource Alliance-India",
+  "primaryEmail": "sheeja@resource-alliance.org",
+  "website": "www.resource-alliance.org",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "911141354766",
+    "911146061326"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "B-4/106, Basement, Safdarjung Enclave",
+      "New Delhi",
+      "Delhi",
+      "110029"
+    ]
+  },
+  "briefDescription": "The Resource Alliance India has been a pioneer in promoting the need for financial and organisational sustainability through its various capacity development activities since 2005. These include Tailored Capacity Development, training and mentoring services through short courses, annual regional Workshops on resource mobilisation, consultancy and the India NGO Awards.",
+  "yearOfEstablishment": "2005"
+}

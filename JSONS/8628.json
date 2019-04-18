@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "DEBADATTA TRIPATHY",
+      "email": "sysbgh@rediffmail.com",
+      "designation": "SECRETARY",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8628",
+  "name": "SANJUKTA YUBA SANGATHAN",
+  "primaryEmail": "sysbgh@rediffmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919437345540"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "AT/PO- BARGARH",
+      "DIST- BARGARH",
+      "Bargarh",
+      "Odisha",
+      "768028"
+    ]
+  }
+}

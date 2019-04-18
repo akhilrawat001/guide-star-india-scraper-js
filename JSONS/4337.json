@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Uttam Dhang",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4337",
+  "name": "BANKURA KATJURIDANGA BANDHAN",
+  "primaryEmail": "bankurabandhan@gmail.com",
+  "website": "nil",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919153222503"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Katjuridanga,Kenduadihi,Bankura,West Bengal, Pin-722102",
+      "Chhatna Road",
+      "Bankura",
+      "West Bengal",
+      "722102"
+    ]
+  }
+}

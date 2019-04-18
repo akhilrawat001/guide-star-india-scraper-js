@@ -1,0 +1,26 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1857",
+  "name": "Mahila Shakti Pratishthan",
+  "primaryEmail": "mahilashakti@rediffmail.com",
+  "website": "www.mahilashakti.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "912024375830",
+    "912024362182",
+    "912024375830",
+    "919371065408"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "L-503",
+      "Bharati Vihar,",
+      "Pune",
+      "Maharashtra",
+      "411046"
+    ]
+  }
+}

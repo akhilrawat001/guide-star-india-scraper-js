@@ -1,0 +1,24 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1634",
+  "name": "JAGRITI",
+  "primaryEmail": "jagriti2001@gmail.com",
+  "website": "http://www.jagritijaipur.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "911414033031",
+    "919829053031"
+  ],
+  "mainAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "Shubhashish",
+      "12-13, Rathore Nagar, Queens Road",
+      "Jaipur",
+      "Rajasthan",
+      "302021"
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=932",
+  "name": "Krpaa Foundation",
+  "primaryEmail": "info@krpaafoundation.org",
+  "website": "http://www.krpaafoundation.org/",
+  "organisationType": [
+    "Grant-making",
+    "Support"
+  ],
+  "telephone": [
+    "914024751972",
+    "918142771972"
+  ],
+  "mainAddrress": {
+    "state": "Telangana",
+    "address": [
+      "Mani Minar', 4-1-914",
+      "Parsi Gully, Tilak Road, Abids",
+      "Hyderabad",
+      "Telangana",
+      "500001"
+    ]
+  }
+}

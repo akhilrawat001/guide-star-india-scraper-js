@@ -1,0 +1,37 @@
+{
+  "contacts": [
+    {
+      "name": "Volunteering Manager",
+      "email": "info@youthforseva.org",
+      "designation": "Founder and Organizing Secretary",
+      "mobile": [
+        "91-9900227382"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5127",
+  "name": "Youth for Seva",
+  "primaryEmail": "info@youthforseva.org",
+  "website": "www.youthforseva.org",
+  "organisationType": [
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "917259958595"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "‘Jnanagiri’, # 75/76",
+      "4th Cross, 2nd Main, Soudamini Layout, Konanakunte",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560062"
+    ]
+  },
+  "briefDescription": "Youth for Seva (YFS) started in April 2007 as a platform to provide opportunities for youth who wanted to take active part in community development despite time constraints. Through this platform, YFS aims to empower youth to become positive change makers who will enable organizations and institutions to work without a vested interest. The goal of YFS is to support schools, NGOs, government hospitals and other organizations in the social sector through volunteers who can help them mitigate some of their shortcomings and challenges. Volunteering is made easy and customized to the individual’s interests and time constraints. YFS has over 6,000 registered volunteers and server over 40,000 beneficiaries annually.",
+  "yearOfEstablishment": "2012"
+}

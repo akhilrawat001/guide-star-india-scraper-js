@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Arindam Mondal",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8993",
+  "name": "Ranaghat Abna Welfare Society",
+  "primaryEmail": "abnawelfare@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919547769330"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "P.O. - Begopara",
+      "Ranaghat",
+      "Nadia",
+      "West Bengal",
+      "741256"
+    ]
+  }
+}

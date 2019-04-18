@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "PREMLATA MISHRA",
+      "email": "premlatamishra@yahoo.com",
+      "designation": "TRUSTEE",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6626",
+  "name": "MUKTIDHAM SEVA SANSTHAN",
+  "primaryEmail": "premlatamishra@yahoo.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919422279784"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "VILLAGE:PRASIDHNATH",
+      "POST :GAURA BAZAR",
+      "KATEYA",
+      "Gopalganj",
+      "Bihar",
+      "841437"
+    ]
+  }
+}

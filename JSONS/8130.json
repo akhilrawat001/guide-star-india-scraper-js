@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Usman Gani Adam",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8130",
+  "name": "Amine Shariat Education Trust",
+  "primaryEmail": "noori_92@rediffmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919879231786"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "Rajkot highway",
+      "Dhrol",
+      "dist-Jamnagar",
+      "Jamnagar",
+      "Gujarat",
+      "361210"
+    ]
+  }
+}

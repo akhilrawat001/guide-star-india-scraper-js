@@ -1,0 +1,40 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=555",
+  "name": "Civil Society Information Services India",
+  "primaryEmail": "info@guidestarindia.org",
+  "website": "www.guidestarindia.org",
+  "organisationType": [
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "912226856900",
+    "912226856999",
+    "912226856998"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "108, D-Definity",
+      "Jay Prakash Nagar Road 1, Goregaon East",
+      "Mumbai",
+      "Mumbai Suburban",
+      "Maharashtra",
+      "400063"
+    ]
+  },
+  "briefDescription": "We are India's most reliable NGO information repository. GuideStar India has created a vibrant community of 8900+ NGOs across India who get to access a wide range of resources and opportunities. By joining GuideStar India, an NGO demonstrates its commitment to being a transparent & accountable organization. NGOs use GuideStar India as a repository to store all their information and documents so that stakeholders can access the same at their convenience. We have created India's largest pool of certified NGOs who have been certified as Platinum/ Gold seal holders/ Transparency badge/ key holders.GuideStar India is an initiative of Civil Society Information Services India, in collaboration with GuideStar International and TechSoup Global, world leaders in NGO information and technology.We seek to transform the way NGOs share and report information, and, change the way the people perceive, interact and engage with NGOs.",
+  "yearOfEstablishment": "2009",
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "Y-57, Hauz Khas",
+      "1st Floor",
+      "New Delhi",
+      "Delhi",
+      "110016"
+    ]
+  }
+}

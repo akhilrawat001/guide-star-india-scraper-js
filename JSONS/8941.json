@@ -1,0 +1,43 @@
+{
+  "contacts": [
+    {
+      "name": "Dulal Chandra Mondal",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8941",
+  "name": "Haroa Minakhan Pioneer of Social Prosprity",
+  "primaryEmail": "haroaminakhanpsp@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919153542886",
+    "919732564733"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "C/O-Dulal Chandra Mondal",
+      "Vill-Bontosha, Po-Raikhan",
+      "Ps-Haroa",
+      "North 24 Parganas",
+      "West Bengal",
+      "743425"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "-Dulal Chandra Mondal",
+      "Vill-Bontosha, Po-Raikhan",
+      "Ps-Haroa",
+      "North 24 Parganas",
+      "West Bengal",
+      "743425"
+    ]
+  }
+}

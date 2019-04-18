@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "R.Ulaganambi",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "9841267476"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6665",
+  "name": "AGASTHYA SAMEE EDUCATIONAL SOCIETY",
+  "primaryEmail": "agasthyasamee@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919841267476"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "No.24 A Chelliaman Car Street",
+      "Maduranthagam",
+      "Kanchipuram",
+      "Kancheepuram",
+      "Tamil Nadu",
+      "603306"
+    ]
+  }
+}

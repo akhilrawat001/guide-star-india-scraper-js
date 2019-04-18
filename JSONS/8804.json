@@ -1,0 +1,48 @@
+{
+  "contacts": [
+    {
+      "name": "Basawaraj Patil Sedam",
+      "email": "",
+      "designation": "Chairman",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8804",
+  "name": "VIKAS ACADEMY",
+  "primaryEmail": "kulkarnihyd@gmail.com",
+  "website": "www.vikasacademy.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "918472690001",
+    "919035303333"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "Opp  Ewan-E-Shahi Guest house",
+      "Ewan-E-Shahi Road",
+      "Klaburagi",
+      "Kalaburagi (Gulbarga)",
+      "Karnataka",
+      "585102"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "opp  Ewan-E-Shahi Guest house",
+      "Ewan-E-Shahi Road",
+      "Klaburagi",
+      "Kalaburagi (Gulbarga)",
+      "Karnataka",
+      "585102"
+    ]
+  }
+}

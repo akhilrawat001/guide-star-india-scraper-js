@@ -1,0 +1,35 @@
+{
+  "contacts": [
+    {
+      "name": "B.Madhava Rao",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "244500"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6838",
+  "name": "MERCY AND GRACE CHARITABLE TRUST",
+  "primaryEmail": "mercybygrace@hotmail.com",
+  "website": "www.orphanage.org/asia/india/mercyandgrace",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "918656244500",
+    "918656244500"
+  ],
+  "mainAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "Door No:4-173",
+      "K S T Road,",
+      "BAPULAPADU, BAPULAPADU MANDALAM,",
+      "Krishna",
+      "Andhra Pradesh",
+      "521105"
+    ]
+  }
+}

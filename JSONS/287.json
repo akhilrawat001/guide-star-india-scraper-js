@@ -1,0 +1,37 @@
+{
+  "contacts": [
+    {
+      "name": "Vineet Kharat",
+      "email": "vineet_kharat68@yahoo.com",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=287",
+  "name": "Peepal Foundation",
+  "primaryEmail": "rooparampura@hotmail.com",
+  "website": "http://www.peepalfoundation.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "912025810913",
+    "919850090889"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "18/2A, Jai Shivshankar Hsg. Soc.",
+      "Behind Sapras Police Chowki, Alandi Road",
+      "Pune",
+      "Maharashtra",
+      "411003"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Maharashtra"
+    ]
+  }
+}

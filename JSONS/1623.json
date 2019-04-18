@@ -1,0 +1,29 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1623",
+  "name": "The Vatsalya Foundation",
+  "primaryEmail": "thevatsalyafoundation@gmail.com",
+  "website": "http://www.thevatsalyafoundation.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "912224962115",
+    "912224912352",
+    "919820319629"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Anand Niketan",
+      "King George - V Memorial, Dr. E Moses Road,",
+      "Mahalaxmi (W)",
+      "Mumbai",
+      "Maharashtra",
+      "400011"
+    ]
+  }
+}

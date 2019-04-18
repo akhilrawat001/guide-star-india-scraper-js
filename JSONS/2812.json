@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "K. Sreenivasulu",
+      "email": "meenakshieducationalsociety@yahoo.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2812",
+  "name": "MEENAKSHI EDUCATIONAL SOCIETY",
+  "primaryEmail": "meenakshieducationalsociety@yahoo.com",
+  "organisationType": [
+    "Direct Service",
+    "Intermediary",
+    "Support"
+  ],
+  "telephone": [
+    "919492717628",
+    "919441839986"
+  ],
+  "mainAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "1-2877, Meenakshi Primary School",
+      "Sri Sai Ganesh Colony",
+      "Yemmiganur",
+      "Kurnool",
+      "Andhra Pradesh",
+      "518360"
+    ]
+  }
+}

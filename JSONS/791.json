@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "Sunita",
+      "email": "",
+      "designation": "Secretary",
+      "mobile": []
+    },
+    {
+      "name": "Sunita",
+      "email": "",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=791",
+  "name": "Damodhar Satri Udyog Sanstha",
+  "primaryEmail": "damodharsanstha@gmail.com",
+  "telephone": [
+    "911912554255",
+    "911912554995",
+    "919858205858",
+    "911912554995"
+  ],
+  "mainAddrress": {
+    "state": "Jammu and Kashmir",
+    "address": [
+      "50, New Mohinder Nagar",
+      "Indira Theatre Lane, Canal Road",
+      "JammuTawi",
+      "Jammu",
+      "Jammu and Kashmir",
+      "180016"
+    ]
+  }
+}

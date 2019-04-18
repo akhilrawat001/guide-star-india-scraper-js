@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "name": "Shivsetti Maroti Piraji",
+      "email": "",
+      "designation": "Representative/ President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=701",
+  "name": "Karmyogi Babasaheb Deshmukh (Sagrolikar) Prathisthan",
+  "primaryEmail": "kbdp2008@gmail.com",
+  "telephone": [
+    "912465225416",
+    "919975690377",
+    "912465225416"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Nagar Perishad front Milk Dairy II Floor, Bus Stand Road",
+      "Kundalwadi",
+      "Biloli",
+      "Nanded",
+      "Maharashtra",
+      "431711"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Vill - Mamdapur, Post- Hunguanda",
+      "Biloli",
+      "Nanded",
+      "Maharashtra",
+      "431711"
+    ]
+  }
+}

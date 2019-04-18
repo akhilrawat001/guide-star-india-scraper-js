@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "MR, SANMATI A GOUNDAJE",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5433",
+  "name": "SNEHAJEET PRATISHTHAN, KUPWAD",
+  "primaryEmail": "snehajeetpratishthan@gmail.com",
+  "website": "http://www.snehajeetpratishthan.org/",
+  "organisationType": [
+    "Direct Service",
+    "Intermediary"
+  ],
+  "telephone": [
+    "919881157729"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "1269, late A P Goundaje path, Near Jain Mandir, Gaon Bhag, kupwad",
+      "Near  Lal Jain Mandir, Gaon Bhag, kupwad",
+      "Kupwad / Miraj",
+      "Sangli",
+      "Maharashtra",
+      "416436"
+    ]
+  }
+}

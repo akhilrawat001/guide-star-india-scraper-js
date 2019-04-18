@@ -1,0 +1,29 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1561",
+  "name": "Sahyog Bal Shravan Viklang Kalyan Samiti",
+  "primaryEmail": "nksharma52@yahoo.com",
+  "telephone": [
+    "911905223539",
+    "919418023539"
+  ],
+  "mainAddrress": {
+    "state": "Himachal Pradesh",
+    "address": [
+      "244/7, Sahyog office,",
+      "National Street,",
+      "Mandi",
+      "Himachal Pradesh",
+      "175001"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Himachal Pradesh",
+    "address": [
+      "65/6, National Street,",
+      "Mandi",
+      "Himachal Pradesh",
+      "175001"
+    ]
+  }
+}

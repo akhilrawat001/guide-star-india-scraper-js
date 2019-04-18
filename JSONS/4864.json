@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Hemshankar Jethmal",
+      "email": "graminvikas1926@gmail.com",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4864",
+  "name": "Gramin Vikas Sahara Sanstha",
+  "primaryEmail": "graminvikas1926@gmail.com",
+  "website": "www.gvssrjn.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "0779993611458"
+  ],
+  "mainAddrress": {
+    "state": "Chhattisgarh",
+    "address": [
+      "cariar foundation sonar prar ward no.-33 digvijay college near",
+      "collage road",
+      "rajnandgaon",
+      "Rajnandgaon",
+      "Chhattisgarh",
+      "491441"
+    ]
+  }
+}

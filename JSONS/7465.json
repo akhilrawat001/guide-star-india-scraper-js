@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Mr.Jiwan S. Danu Iresh",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7465",
+  "name": "SRISHTI JAN KALYAN SAMITI",
+  "primaryEmail": "sjksukngo@rediffmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919758099227"
+  ],
+  "mainAddrress": {
+    "state": "Uttarakhand",
+    "address": [
+      "Bankhola,",
+      "Jeet Nagar,Mandalsera",
+      "Bageshwar",
+      "Uttarakhand",
+      "263642"
+    ]
+  }
+}

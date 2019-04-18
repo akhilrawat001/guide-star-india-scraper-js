@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Mr. Gajraj Sharma",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5197",
+  "name": "AKHIL BHARTIYA SMT. LEELAWATI MAHILA BAL JAGRUKTA SAMAJ KALYAN SAMITI",
+  "primaryEmail": "smtleelawatisks2010@gmail.com",
+  "website": "smtleelawatisks.com",
+  "organisationType": [
+    "Grant-making",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919312345111"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "House_No-34,Ward_No-1 Flat No-C-14,Top-Floor, Mehrauli",
+      "New Delhi",
+      "South Delhi",
+      "Delhi",
+      "110030"
+    ]
+  }
+}

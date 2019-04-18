@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "M Alwas",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "271576"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7181",
+  "name": "VICTORIA ARMSTRONG EDUCATIONAL TRUST",
+  "primaryEmail": "vaetktg@gmail.com",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "914266271576",
+    "914266271576"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "Fair Glenn Annexe",
+      "Kota hall road",
+      "Kotagiri",
+      "The Nilgiris",
+      "Tamil Nadu",
+      "643217"
+    ]
+  }
+}

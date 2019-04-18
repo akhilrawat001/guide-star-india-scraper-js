@@ -1,0 +1,37 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9306",
+  "name": "NEW DELHI CHILDREN'S HOSPITAL & RESEARCH CENTRE",
+  "primaryEmail": "pratyush@ndchrc.org",
+  "website": "www.ndchrc.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919599824600"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "# 36, Shopping Complex",
+      "Sector D 3 & 4",
+      "Vasant Kunj, New Delhi",
+      "South West Delhi",
+      "Delhi",
+      "110070"
+    ]
+  },
+  "briefDescription": "New Delhi Children’s Hospital & Research Centre (NDCHRC) is a not-for-profit organization dedicated to provide high quality, ethical and affordable health care services to children. Established in 2016, the organization is run by 200 passionate volunteers.The organization, the only one of its kinds, aims to become the best Children’s Hospital in India and among the best in the world. The NDCHRC team is involved in creating awareness about child healthcare issues. Team also intends to provide health care services at home, online consulting to the needy parents, best possible discounts or benefits from healthcare products and service providers.",
+  "yearOfEstablishment": "2016",
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "Flat No. 4029, Sector D 4",
+      "Vasant Kunj",
+      "New Delhi",
+      "South West Delhi",
+      "Delhi",
+      "110070"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5405",
+  "name": "RAJ EDUCATIONS AND SKILL DEVELOPMENT TRUST",
+  "primaryEmail": "rajedu.sd@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919991222231",
+    "911712633128"
+  ],
+  "mainAddrress": {
+    "state": "Haryana",
+    "address": [
+      "2nd Floor, Anand Complex,",
+      "Opp. Jain Girls School, Rai Market,",
+      "Ambala Cantt",
+      "Ambala",
+      "Haryana",
+      "133001"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Haryana",
+    "address": [
+      "H.No. - 6353/31,",
+      "PUNJABI MOHALLLA,",
+      "AMBALA CANTT",
+      "Ambala",
+      "Haryana",
+      "133001"
+    ]
+  }
+}

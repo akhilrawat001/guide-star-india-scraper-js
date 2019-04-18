@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Panjabrao V. Gawai",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9063",
+  "name": "Parivartan Sheel Sanstha",
+  "primaryEmail": "parivartansheelsanstha@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "917738589212"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "24/Akruli Karuna Society, MHADA Road no. 2, Lokhandwala, Kandivali (E)",
+      "Kandivali",
+      "Mumbai",
+      "Maharashtra",
+      "400101"
+    ]
+  }
+}

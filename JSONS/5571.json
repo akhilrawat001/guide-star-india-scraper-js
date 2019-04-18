@@ -1,0 +1,34 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5571",
+  "name": "Dr. Anand Amrut Patil Foundation",
+  "primaryEmail": "rellino@hotmail.com",
+  "website": "www.sahaarafoundation.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919561783304"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Plot no.43, Shri Niketan, Saubhagya Nagar, Lam Road, Nashik Road",
+      "Nashik",
+      "Maharashtra",
+      "422101"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "6, Prathibha Retreat, Asher Estates, Nashik-Pune Road",
+      "Upnagar. Opp. St. .Xaviers School",
+      "Nashik",
+      "Maharashtra",
+      "422101"
+    ]
+  }
+}

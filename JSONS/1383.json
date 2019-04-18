@@ -1,0 +1,26 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1383",
+  "name": "Blind Persons' Association ( Erstwhile Blind Men's Association)",
+  "primaryEmail": "1947.bpa@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "912223758680",
+    "918097694085"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Rustom Alpaiwalla Complex,124/127,",
+      "Cotton Depot, Near Reay Road Rly.Station ( E)",
+      "Cottongreen",
+      "Mumbai",
+      "Maharashtra",
+      "400033"
+    ]
+  }
+}

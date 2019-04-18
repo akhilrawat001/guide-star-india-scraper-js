@@ -1,0 +1,40 @@
+{
+  "contacts": [
+    {
+      "name": "Deepak Tyagi",
+      "email": "sankatmochanfoundation2004@gmail.com",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6810",
+  "name": "SANKATMOCHAN FOUNDATION",
+  "primaryEmail": "sankatmochanfoundation2004@gmail.com",
+  "website": "NA",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919911180909"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "10, Ashok Mohalla",
+      "Maujpur",
+      "Delhi",
+      "North East Delhi",
+      "110053"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "T-9",
+      "Green park",
+      "Delhi",
+      "New Delhi",
+      "110016"
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "SUSANTA MOHANTY",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8257",
+  "name": "SAHAYA",
+  "primaryEmail": "sahaya.nongovtorganisation@gmail.com",
+  "website": "no",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919658654462"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "Main road",
+      "Kabisurya nagar",
+      "Ganjam",
+      "Odisha",
+      "761104"
+    ]
+  }
+}

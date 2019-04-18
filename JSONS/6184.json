@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "MR MAYUR JAMBHALE",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6184",
+  "name": "Vivekanand Vaidyak Pratishthan",
+  "primaryEmail": "vivekanand.pratisthan@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "912332346701",
+    "912332346701"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "SHATAYU HOSPITAL AP :BAMNOLI",
+      "TAL:MIRAJ",
+      "SANGLI",
+      "Sangli",
+      "Maharashtra",
+      "416436"
+    ]
+  }
+}

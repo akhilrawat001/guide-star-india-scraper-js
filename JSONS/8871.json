@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "Shobha Lavande",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8871",
+  "name": "JANJAGRUTI VIKAS SANSTHA",
+  "primaryEmail": "janjagrutivikassanstha@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919637547694"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "At Post: Jakadevi (Khalgaon), At: Agarnal, Post: Deud",
+      "Ratnagiri",
+      "Maharashtra",
+      "415620"
+    ]
+  }
+}

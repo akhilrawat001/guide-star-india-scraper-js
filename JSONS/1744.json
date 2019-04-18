@@ -1,0 +1,36 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1744",
+  "name": "The Sun Society",
+  "primaryEmail": "thesun_ngo@yahoo.co.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Intermediary",
+    "Support"
+  ],
+  "telephone": [
+    "918864243666",
+    "918864200200",
+    "919491251999"
+  ],
+  "mainAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "Ranmpachodvaram",
+      "East Godavari",
+      "Andhra Pradesh",
+      "533288"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "5-400",
+      "Near BusStation,",
+      "West Godavari",
+      "Andhra Pradesh",
+      "534315"
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5378",
+  "name": "Rashtriya Seva Samithi (RASS)",
+  "primaryEmail": "rassprojects@gmail.com",
+  "website": "www.rassngo.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "918772242404",
+    "918772242404"
+  ],
+  "mainAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "RASS, Annamaiah Marg,",
+      "AIR BYPASS ROAD",
+      "Tirupati",
+      "Chittoor",
+      "Andhra Pradesh",
+      "517501"
+    ]
+  }
+}

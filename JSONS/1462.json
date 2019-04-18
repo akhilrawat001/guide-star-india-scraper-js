@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "name": "Binafer Jesia",
+      "email": "binaifer@manavfoundation.org.in",
+      "designation": "Director",
+      "mobile": [
+        "91-22-24368984"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1462",
+  "name": "MANAV Foundation",
+  "primaryEmail": "foundation.manav@gmail.com",
+  "website": "www.manavfoundation.org.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "912224368984"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "109, Swarajya CHS, Bldg # 3, 1st Floor,",
+      "Senapati Bapat Marg",
+      "Dadar (West)",
+      "Mumbai",
+      "Maharashtra",
+      "400013"
+    ]
+  },
+  "briefDescription": "Under the umbrella of the MANAV Foundation, is the Manav Rehabilitation Centre, a day care therapeutic set up for the psychosocial rehabilitation of adults suffering from mental illnesses and emotional disorders. This facility is accessible by any adult individual, who due to a mental condition or illness, personality and/or emotional disorder has not been able to successfully function within mainstream society, and is in need of prerequisite and enabling care.",
+  "yearOfEstablishment": "2004"
+}

@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "name": "Swetha Rao",
+      "email": "swetha@yuvaglobal.com",
+      "designation": "Secretary",
+      "mobile": [
+        "91-9845313000"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1702",
+  "name": "Yuva Bengaluru",
+  "primaryEmail": "contact@yuvaglobal.com",
+  "website": "http://yuvaglobal.com/",
+  "organisationType": [
+    "Direct Service",
+    "Grant-making",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "918861262531"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "No. 775/1",
+      "4th Main, A Block, II Stage, Rajajinagar,",
+      "Bangalore",
+      "Bengaluru (Bangalore) Rural",
+      "Karnataka",
+      "560010"
+    ]
+  },
+  "briefDescription": "Working to create peaceful, prosperous and progressive Society by igniting the young minds towards the Righteous path by uniting and inspiring today’s youth to take action for what they believe in, and empower them to take a stand on those issues.",
+  "yearOfEstablishment": "2010"
+}

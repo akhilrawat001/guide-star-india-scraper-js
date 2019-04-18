@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Pratibha Borgaonkar",
+      "email": "sgspml@rediffmail.com",
+      "designation": "Executive Officer",
+      "mobile": [
+        "91-2382-220550"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1367",
+  "name": "Shri Ganesh Shikshan Prasarak Mandal, Latur",
+  "primaryEmail": "sgspmltr_maharasthra@yahoo.co.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "912382220560",
+    "919823212111"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Priydarshani Chowk",
+      "Khadgaon Road, ,",
+      "Latur",
+      "Maharashtra",
+      "413512"
+    ]
+  }
+}

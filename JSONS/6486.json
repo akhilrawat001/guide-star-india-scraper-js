@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Mamta Singh",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6486",
+  "name": "HUMSAFAR",
+  "primaryEmail": "humsafar25nov@gmail.com",
+  "website": "www.humsafarindia.org",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "915222205215",
+    "915222205215"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "27, New Berry Road",
+      "Near The Times of India",
+      "Lucknow",
+      "Uttar Pradesh",
+      "226001"
+    ]
+  }
+}

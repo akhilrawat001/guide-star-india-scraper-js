@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Meenakshi Naik",
+      "email": "",
+      "designation": "Superintendent",
+      "mobile": []
+    },
+    {
+      "name": "Meenakshi Naik",
+      "email": "",
+      "designation": "Superintendent",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=255",
+  "name": "The Society for the Protection of Children in Western India",
+  "primaryEmail": "ho@spentamultimedia.com",
+  "telephone": [
+    "912224011197",
+    "912224011197"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "The Byramjee Jeejeebhoy Home for Children, Opp Shankar Matham",
+      "Shraddanand Road, Matunga (E)",
+      "Mumbai",
+      "Maharashtra",
+      "400019"
+    ]
+  }
+}

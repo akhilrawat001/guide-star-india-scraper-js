@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Dr.Dharmraj Sathe",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6236",
+  "name": "SAHYADRI MEDICAL AND EDUCATION FOUNDATION",
+  "primaryEmail": "smefpune@gmail.com",
+  "website": "www.smefpune.org",
+  "organisationType": [
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919763797199"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "mauli nivas s. No 23 vitthalwadi hingne khurd",
+      "sinhgad road",
+      "Pune",
+      "Maharashtra",
+      "411051"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Mr.Dattatrya  Siddappa Patil",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7073",
+  "name": "Somling Gram Vikas Mandal",
+  "primaryEmail": "itcgunjegaon@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919860960510",
+    "919860960511"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "At & Post Gunjegaon",
+      "Tal-Mangalvedhe",
+      "Solapur",
+      "Maharashtra",
+      "413319"
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "SUBHASH PAHARI",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7728",
+  "name": "Bara Urma Samaj Kalyan Samity",
+  "primaryEmail": "pahariurma@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919933593791"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "BARA URMA SAMAJ KALYAN SAMITY VILL.",
+      "P.O. BARA URMA",
+      "Purulia",
+      "West Bengal",
+      "723153"
+    ]
+  }
+}

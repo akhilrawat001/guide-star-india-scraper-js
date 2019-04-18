@@ -1,0 +1,48 @@
+{
+  "contacts": [
+    {
+      "name": "Loknath Char",
+      "email": "loknath@shareyourcare.com",
+      "designation": "Manager - Projects (Monitoring & Evaluation)",
+      "mobile": [
+        "91-9821399600"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1188",
+  "name": "Sri Chaitanya Seva Trust",
+  "primaryEmail": "info@shareyourcare.com",
+  "website": "www.shareyourcare.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "912228454565",
+    "912229452400"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Bhaktivedanta Hospital, Sshrishti Complex,",
+      "Sector - 1, Mira Road (E)",
+      "Thane",
+      "Maharashtra",
+      "401107"
+    ]
+  },
+  "briefDescription": "Sri Chaitanya Seva Trust runs the Bhaktivedanta Hospital which is a 130 bed general hospital serving over 20 lakhs around the Thane district where there is no medical facility of this type available.",
+  "yearOfEstablishment": "1990",
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "7 K.M. Munshi Marg,",
+      "Girgaim Chowpatty",
+      "Mumbai",
+      "Maharashtra",
+      "400007",
+      "AP_TelBill_1092.PDF"
+    ]
+  }
+}

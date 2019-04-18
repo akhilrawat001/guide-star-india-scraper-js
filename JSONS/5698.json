@@ -1,0 +1,46 @@
+{
+  "contacts": [
+    {
+      "name": "Shyamal Ray Chowdhury",
+      "email": "barasatanweshan@rediffmail.com",
+      "designation": "Secretary",
+      "mobile": [
+        "91-33-25426137"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5698",
+  "name": "BARASAT ANWESHAN",
+  "primaryEmail": "barasatanweshan@rediffmail.com",
+  "website": "www.anweshan.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "913333254261"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Harpara, P.O- Beraberia , Madhavpur, Kolkata - 700121. West Bengal, India",
+      "Rabindranagar, P.O - Noapara, Barasat, Kolkata -700125, West Bengal , India",
+      "Barasat",
+      "North 24 Parganas",
+      "West Bengal",
+      "700121"
+    ]
+  },
+  "briefDescription": "Orphanage, Schools (Residential), Microfinance, Vocational Training Programme, Old Age Home, Fishery, Awareness Camp on various issues, Adalt Education,Library,Free Coaching,  Medical Health Care, Environment,Dairy, Agriculture Etc",
+  "yearOfEstablishment": "2003",
+  "regiseredAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Harpara, P.o- Beraberia, Kolkata -700121",
+      "Moyna to Madhavpur Road",
+      "Barasat , Kolkata 700121",
+      "North 24 Parganas",
+      "West Bengal",
+      "700121"
+    ]
+  }
+}

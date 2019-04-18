@@ -1,0 +1,40 @@
+{
+  "contacts": [
+    {
+      "name": "Shruti Bisht",
+      "email": "shruti@shine.org.in",
+      "designation": "Assistant Manager-Resource Mobilization",
+      "mobile": []
+    },
+    {
+      "name": "Shruti Bisht",
+      "email": "shruti@shine.org.in",
+      "designation": "Assistant Manager-Resource Mobilization",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4453",
+  "name": "Shine Foundation",
+  "primaryEmail": "info@shine.org.in",
+  "website": "http://www.shine.org.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "911729542989",
+    "911729542989"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "B - 90, Panchsheel Vihar,  Sheikh Sarai – I, New Delhi – 110017",
+      "Near Triveni Complex",
+      "New Delhi",
+      "South Delhi",
+      "Delhi",
+      "110017"
+    ]
+  },
+  "briefDescription": "Shine Foundation was initiated in June 2006, with the commitment and passion to contribute towards development of marginalized urban slum communities of Delhi and NCR. Our aim is to make community people socially responsible and economically self-reliant where all members are given an opportunity for education and employment.Began with 70 children in alternative education program, at present Shine catering to the needs of 1000 direct beneficiaries through integrated community development programs.",
+  "yearOfEstablishment": "2008"
+}

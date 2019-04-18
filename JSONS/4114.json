@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "Dr.Veena Sarin",
+      "email": "akhilwelfaretrust@gmail.com",
+      "designation": "Trustee",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4114",
+  "name": "AKHIL WELFARE TRUST (SHARIRIK APANGASATI)",
+  "primaryEmail": "akhilwelfaretrust@gmail.com",
+  "telephone": [
+    "912264528137",
+    "912228061527",
+    "918898929015"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "B-2/6, Hari Om Apartment,",
+      "S.V.Road, Borivli (west)",
+      "Mumbai",
+      "Maharashtra",
+      "400092"
+    ]
+  }
+}

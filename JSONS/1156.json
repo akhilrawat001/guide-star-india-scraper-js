@@ -1,0 +1,35 @@
+{
+  "contacts": [
+    {
+      "name": "Jagveer Singh",
+      "email": "",
+      "designation": "Senior Programme Coordinator",
+      "mobile": []
+    },
+    {
+      "name": "Jagveer Singh",
+      "email": "",
+      "designation": "Senior Programme Coordinator",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1156",
+  "name": "Gram Vikas Navyuvak Mandal Laporiya",
+  "primaryEmail": "gvnml@gvnml.org",
+  "website": "www.gvnml.org",
+  "telephone": [
+    "911428218142",
+    "911437296011",
+    "911428218142"
+  ],
+  "mainAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "Village - Laporiya,",
+      "Block - Dudu",
+      "Jaipur",
+      "Rajasthan",
+      "302018"
+    ]
+  }
+}

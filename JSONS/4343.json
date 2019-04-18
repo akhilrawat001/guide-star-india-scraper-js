@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Sandesh Bansal",
+      "email": "sankalpsansthagwl@gmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4343",
+  "name": "Sankalp Samaj Sevi Sanstha",
+  "primaryEmail": "sankalpsansthagwl@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "917512350200",
+    "917512350200"
+  ],
+  "mainAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "H.No. 51, Ground Floor, Ravi Nagar,",
+      "GDA Road",
+      "Gwalior",
+      "Madhya Pradesh",
+      "474002"
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "contacts": [
+    {
+      "name": "Shalina Mamtani",
+      "email": "shalinaa@hotmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    },
+    {
+      "name": "Shalina Mamtani",
+      "email": "shalinaa@hotmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    },
+    {
+      "name": "Shalina Mamtani",
+      "email": "shalinaa@hotmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    },
+    {
+      "name": "Shalina Mamtani",
+      "email": "shalinaa@hotmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4985",
+  "name": "SAVE OUR STRAYS (SOS)",
+  "primaryEmail": "saveourstraysmum@gmail.com",
+  "website": "http://www.saveourstraysmumbai.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919820141310",
+    "919820141134"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "26/101, Garden View, Opp.Deep Towers",
+      "Off New Link Road, Oshiwara. Andheri (west)",
+      "Mumbai",
+      "Maharashtra",
+      "400053"
+    ]
+  },
+  "briefDescription": "SOS is a registered Animal welfare NGO, founded in November 2003 by Shirley Menon in her immediate neighborhood of Andheri (west). Today our area of operation has expanded from Bandra to Dahisar in the western/eastern  surburbs. Our main focus is to keep the population of Dogs & Cats under control and keep the city litter free.Aims:1.Sterilization - Our main focus is to keep the population of dogs and cats under control.2.Vaccinations and Rabies Eradication - We work to safeguard the health of animals in the city.3.Animal Health Care - With the support of our ambulance and our volunteers.4.Adoptions - We do our best to find to find homes for stray & abandoned animals.",
+  "yearOfEstablishment": "2005"
+}

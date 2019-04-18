@@ -1,0 +1,35 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2771",
+  "name": "Rural Development Foundation",
+  "primaryEmail": "rudefngo@yahoo.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "918806470777"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "55, Sulochana Nagar",
+      "Shirpur",
+      "Dhule",
+      "Maharashtra",
+      "425405"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "55",
+      "Sulochana Nagar",
+      "Shirpur",
+      "Dhule",
+      "Maharashtra",
+      "425405"
+    ]
+  }
+}

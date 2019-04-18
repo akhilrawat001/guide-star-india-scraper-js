@@ -1,0 +1,43 @@
+{
+  "contacts": [
+    {
+      "name": "Mintu Chakrabarti",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3324",
+  "name": "Nawamita - The Society for Underpriviledged Upliftment",
+  "primaryEmail": "nawamita_11@rediffmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network"
+  ],
+  "telephone": [
+    "919748910506"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "56/1, Picnic Garden Road",
+      "Area- Picnic Garden, Near Bondel Gate Bridge, P.O. & P.S- Tiljala Kolkata- 700 039",
+      "Kolkata",
+      "West Bengal",
+      "700039"
+    ]
+  },
+  "briefDescription": "Our organization Nawamita- the Society for Underprivileged Upliftment, popularly known as Nawamita has emerged out of a friendly alliance of a group of committed social activists with the vision to serve human society with a noble outlook. Ever since its inception the organization is working towards socio-economic upliftment of the pro-poor and marginalized sections of population both in urban as well as in the rural areas. Awareness raising, community healthcare, educational & cultural development among the underprivileged, women empowerment, livelihood assistance, income generation through vocational training are some of the major thrust areas of the organisation activities",
+  "yearOfEstablishment": "2007",
+  "regiseredAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "14/107, Golf Club Road",
+      "P.O.- Tollyjunge",
+      "Kolkata",
+      "West Bengal",
+      "700033"
+    ]
+  }
+}

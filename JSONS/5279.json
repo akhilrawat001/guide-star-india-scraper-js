@@ -1,0 +1,46 @@
+{
+  "contacts": [
+    {
+      "name": "Mr. Pramod Kulkarni",
+      "email": "pramodvkulkarni@gmail.com",
+      "designation": "Trustee",
+      "mobile": [
+        "91-9869029492"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5279",
+  "name": "Shubhlahari Pratishthan",
+  "primaryEmail": "pramodvkulkarni@gmail.com",
+  "website": "www.shubhlahari.org",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919869029492"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "3rd Floor. Shree Datta Prasad, Opp New English School,",
+      "Ram Maruti Road,",
+      "Thane",
+      "Maharashtra",
+      "400601"
+    ]
+  },
+  "briefDescription": "Shubhlahari Pratishthan (SLP) is an all-encompassing charitable organization one of its kind established with an objective to Educate and make aware such that it Empowers positively to initiate a self belief which will further Enlighten path that leads to a proactive sustainable Life. We aim at imparting knowledge of peace, non-discrimination, equality, justice, non-violence, tolerance & respect for human dignity to create global social change.",
+  "yearOfEstablishment": "2010",
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "B-301,Sandipani CHSL,",
+      "ESIS Rd, Ramchandra nagar no.1,",
+      "Thane-west",
+      "Thane",
+      "Maharashtra",
+      "400604"
+    ]
+  }
+}

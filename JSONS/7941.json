@@ -1,0 +1,35 @@
+{
+  "contacts": [
+    {
+      "name": "Mrs. Sheela Kakde",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "26608606"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7941",
+  "name": "ALL INDIA WOMEN'S CONFERENCE BOMBAY BRANCH",
+  "primaryEmail": "mumbaibranch.aiwc@gmail.com",
+  "website": "www.aiwcmumbai.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "912226206154",
+    "912226608606"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Smt Kesarbai Bhimani Working Women's Hostel",
+      "Savitri Sadan, N S 12th Road, JVPD Scheme",
+      "Juhu, Mumbai",
+      "Mumbai",
+      "Maharashtra",
+      "400049"
+    ]
+  }
+}

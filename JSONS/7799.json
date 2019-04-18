@@ -1,0 +1,48 @@
+{
+  "contacts": [
+    {
+      "name": "Sharat M. Airani",
+      "email": "info@yuvapravartan.org",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7799",
+  "name": "YUVA PRAVARTANA",
+  "primaryEmail": "info@yuvapravartan.org",
+  "website": "http://www.yuvapravartan.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "918698721199"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Rh-57, Midc G Block",
+      "Sambhaji Nagar",
+      "Chinchwad, Pune",
+      "Pune",
+      "Maharashtra",
+      "411019"
+    ]
+  },
+  "briefDescription": "Vision   :To unlock the Indian Youth's untapped potential.Mission :We don't believe in charity. We believe in solidarity. Charity is vertical, so it's humiliating. It goes from the top to the bottom. Solidarity is horizontal. It respects the other and learns from the other. We have a lot to learn from other people.",
+  "yearOfEstablishment": "2015",
+  "regiseredAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "C/O Uma M. Airani \"Smruti\"\"",
+      "Uma Shankar Nagar",
+      "Ranebennur",
+      "Haveri",
+      "Karnataka",
+      "581115"
+    ]
+  }
+}

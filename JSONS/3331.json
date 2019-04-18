@@ -1,0 +1,23 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3331",
+  "name": "Navi Mumbai Football Club",
+  "primaryEmail": "navimumbaifootballclub@gmail.com",
+  "website": "http://navimumbaifootballclub.com",
+  "telephone": [
+    "912222966166",
+    "912227695261",
+    "919323186304"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "6 Someshwer Bldg Plot No 5",
+      "Sector 8 Airoli",
+      "Navi Mumbai",
+      "Thane",
+      "Maharashtra",
+      "400708"
+    ]
+  }
+}

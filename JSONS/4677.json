@@ -1,0 +1,40 @@
+{
+  "contacts": [
+    {
+      "name": "SULOCHANA R M",
+      "email": "smgasjkd@gmail.com",
+      "designation": "President",
+      "mobile": []
+    },
+    {
+      "name": "SULOCHANA R M",
+      "email": "smgasjkd@gmail.com",
+      "designation": "President",
+      "mobile": []
+    },
+    {
+      "name": "SULOCHANA R M",
+      "email": "smgasjkd@gmail.com",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4677",
+  "name": "Sarvodaya Mahila and Grameena Abhivriddhi Samsthe",
+  "primaryEmail": "smgasjkd@gmail.com",
+  "telephone": [
+    "918353220935",
+    "919449768470"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "Madiwalar Building",
+      "Maigur Road",
+      "AMAKANDI",
+      "Bagalkot",
+      "Karnataka",
+      "587301"
+    ]
+  }
+}

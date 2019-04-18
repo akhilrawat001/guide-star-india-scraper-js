@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Mr.Jondhale Manish Balasaheb",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7900",
+  "name": "VISHWAJEET SAMRAT ASHOKA CHARITABLE TRUST",
+  "primaryEmail": "vishwajeetsamratashokacharitabletrust@hotmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919920472245",
+    "918856901957"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Dynamic CHS,",
+      "Old Hanuman Nagar ,",
+      "Goregaon (West)",
+      "Mumbai",
+      "Maharashtra",
+      "400090"
+    ]
+  }
+}

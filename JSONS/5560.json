@@ -1,0 +1,46 @@
+{
+  "contacts": [
+    {
+      "name": "Rituporna Nath",
+      "email": "seed.naktala@gmail.com",
+      "designation": "Communication Manager",
+      "mobile": [
+        "91-9831389425"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5560",
+  "name": "SEED",
+  "primaryEmail": "seed.naktala@gmail.com",
+  "website": "www.seedin.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919831389425"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "17 A, Naktala Road, Kolkata- 700047",
+      "Naktala Road",
+      "Kolkata",
+      "West Bengal",
+      "700047"
+    ]
+  },
+  "briefDescription": "SEED is working in various parts of West Bengal since last two decades with four focus areas Education, Equality, Empowerment and Envioronment. We have been associated with various vulnerable communities for their livelihood development which is incomplete without education. So, we have been Non-formal schools in Sagar, Jharkhali and Diamond Harbour for the vulnerable community children.Our present concern is the Global Climate affects in West Bengal specifically Sundarbans region of India. Hence, we are mobilizing the SHGs of the vulnerable communities who are mostly affected by Climate Change. We are providing capacity building training to these women so that they can support their families as their partners usually migrate to cities in search of work. We are presently associated with more than 500 SHGs of Sundarban's Sagar, Kultali, Canning and Diamond Harbour block.",
+  "yearOfEstablishment": "1996",
+  "regiseredAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "8, Naktala Road, Kolkata- 700047",
+      "Naktala Road",
+      "Kolkata",
+      "West Bengal",
+      "700047"
+    ]
+  }
+}

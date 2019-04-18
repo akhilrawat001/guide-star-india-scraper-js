@@ -1,0 +1,34 @@
+{
+  "contacts": [
+    {
+      "name": "Neta Ram Bhati",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3325",
+  "name": "Mayur Gramin Vikas Sansthan",
+  "primaryEmail": "mrdsbam@gmail.com",
+  "website": "http://www.mrdsbarmer.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "912982230374",
+    "912982230374"
+  ],
+  "mainAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "RAI COLONIY MAIN ROAD",
+      "NEAR RAMDEV ELECTRONICS",
+      "BARMER",
+      "Barmer",
+      "Rajasthan",
+      "344001"
+    ]
+  },
+  "briefDescription": "Mayur Gramin Vikas Sansthan",
+  "yearOfEstablishment": "2008"
+}

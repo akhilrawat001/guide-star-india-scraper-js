@@ -1,0 +1,26 @@
+{
+  "contacts": [
+    {
+      "name": "Chandan Ghosh",
+      "email": "ghoshchandan2005@yahoo.co.in",
+      "designation": "Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4632",
+  "name": "Medinipore Colonelgola Knowledge Development Society",
+  "primaryEmail": "mckdsociety@gmail.com",
+  "telephone": [
+    "919531765598"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "COLONELGOLA,",
+      "NEAR MATANGINI HAZRA'S STATUE, MIDNAPORE",
+      "West Medinipur",
+      "West Bengal",
+      "721101"
+    ]
+  }
+}

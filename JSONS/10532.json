@@ -1,0 +1,38 @@
+{
+  "contacts": [
+    {
+      "name": "Ajay Bandlamudi",
+      "email": "",
+      "designation": "CEO",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10532",
+  "name": "Ajay Foundation",
+  "primaryEmail": "AJAY@AJAY.CO",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "918885555569"
+  ],
+  "mainAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "Guntur",
+      "Andhra Pradesh",
+      "522006"
+    ]
+  },
+  "briefDescription": "We are Educational Foundation",
+  "yearOfEstablishment": "2013",
+  "regiseredAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "3-30-14/1/A, Nalanda Nagar",
+      "Guntur",
+      "Andhra Pradesh",
+      "522006"
+    ]
+  }
+}

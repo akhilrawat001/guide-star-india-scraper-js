@@ -1,0 +1,43 @@
+{
+  "contacts": [
+    {
+      "name": "Parshuram Kulkarni",
+      "email": "niwas2007@gmail.com",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4733",
+  "name": "NATURE INSTITUTE FOR WELFARE OF SOCIETY",
+  "primaryEmail": "niwas2007@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919604745876"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Parshuram Kulkarni, Radha Kunj, Datt Nagar",
+      "Back Side of SMDM College",
+      "Taluka-Kallamb, Dist.-Osmanabad",
+      "Beed",
+      "Maharashtra",
+      "413507"
+    ]
+  },
+  "briefDescription": "NATURE INSTITUTE FOR WELFARE OF SOCIETY is duly registered under Society and Trust Act.",
+  "yearOfEstablishment": "2010",
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "C/O Parshuram Kulkarni, Radha Kunj, Datt Nagar",
+      "Back Side of SMDM College",
+      "Taluka-Kallamb, Dist.-Osmanabad",
+      "Beed",
+      "Maharashtra",
+      "413507"
+    ]
+  }
+}

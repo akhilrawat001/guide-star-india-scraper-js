@@ -1,0 +1,57 @@
+{
+  "contacts": [
+    {
+      "name": "Jugender Singh",
+      "email": "jugendersingh@childhelpfoundationindia.org",
+      "designation": "Trustee",
+      "mobile": [
+        "91-8424994602"
+      ]
+    },
+    {
+      "name": "Jugender Singh",
+      "email": "jugendersingh@childhelpfoundationindia.org",
+      "designation": "Trustee",
+      "mobile": [
+        "91-8424994602"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1535",
+  "name": "Child Help Foundation",
+  "primaryEmail": "projects@childhelpfoundationindia.org",
+  "website": "www.childhelpfoundation.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919702929267",
+    "918424994602"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "403/404, 4th Floor",
+      "Sai Arpan, Shanti Vihar",
+      "Mira Road  (east)",
+      "Thane",
+      "Maharashtra",
+      "401107"
+    ]
+  },
+  "briefDescription": "Child Help Foundation (CHF) is a national non-profit organization dedicated to help needy and neglected children. Child Help Foundation approach focuses on basic education, development, intervention, treatment, care and lot more.",
+  "yearOfEstablishment": "2010",
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "J/101",
+      "New Golden Nest, Phase -11A,",
+      "Bhayandar (east)",
+      "Thane",
+      "Maharashtra",
+      "401105"
+    ]
+  }
+}

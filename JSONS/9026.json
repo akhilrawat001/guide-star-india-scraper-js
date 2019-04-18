@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Mr.Bira Narayan Das",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9026",
+  "name": "Netaji Rural Welfare Organisation",
+  "primaryEmail": "nrwo.bpaldhusuri@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "917873334576"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "Head Office: Samaraipur,Maninagar",
+      "Aradi Chhaka",
+      "Bhadrak, Madhabnagar",
+      "Bhadrak",
+      "Odisha",
+      "756181"
+    ]
+  }
+}

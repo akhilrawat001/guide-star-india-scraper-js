@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "Sachin Desai",
+      "email": "",
+      "designation": "Chairman",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2967",
+  "name": "Syamantak",
+  "primaryEmail": "admin@syamantak.org",
+  "website": "http://www.syamantak.org",
+  "telephone": [
+    "912365255620",
+    "919404164945"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "163",
+      "At post Dhamapur, Tal. Malvan,",
+      "Sindhudurg",
+      "Maharashtra",
+      "416605"
+    ]
+  }
+}

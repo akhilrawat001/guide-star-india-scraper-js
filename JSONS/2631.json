@@ -1,0 +1,40 @@
+{
+  "contacts": [
+    {
+      "name": "Vikas Meena",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2631",
+  "name": "BHOPAL PEOPLES EXCELLENCE SOCIETY",
+  "primaryEmail": "bpe_ngo@rediffmail.com",
+  "organisationType": [
+    "Grant-making",
+    "Support"
+  ],
+  "telephone": [
+    "919826378199"
+  ],
+  "mainAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "Bhopal Peoples Excellence Society 7, Bharti Estate,",
+      "New Jail Road",
+      "Bhopal",
+      "Madhya Pradesh",
+      "462038"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "Bhopal Peoples Excellence Society 7, Bharti Estate,",
+      "New Jail Road Karond",
+      "Bhopal",
+      "Madhya Pradesh",
+      "462038"
+    ]
+  }
+}

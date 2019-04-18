@@ -1,0 +1,24 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2767",
+  "name": "satchandi jankalyan samiti",
+  "primaryEmail": "satchandisamiti2006@gmail.com",
+  "website": "www.satchandi.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919911822570"
+  ],
+  "mainAddrress": {
+    "state": "Uttarakhand",
+    "address": [
+      "village-Maithana,po-chaura",
+      "patti-dhaijuli",
+      "Distt.-pauri garhwal",
+      "Pauri Garhwal",
+      "Uttarakhand",
+      "246178"
+    ]
+  }
+}

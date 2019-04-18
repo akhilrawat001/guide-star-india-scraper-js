@@ -1,0 +1,51 @@
+{
+  "contacts": [
+    {
+      "name": "V P Singh (Retd; Capt)",
+      "email": "",
+      "designation": "CEO",
+      "mobile": []
+    },
+    {
+      "name": "V P Singh (Retd; Capt)",
+      "email": "",
+      "designation": "CEO",
+      "mobile": []
+    },
+    {
+      "name": "V P Singh (Retd; Capt)",
+      "email": "",
+      "designation": "CEO",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=749",
+  "name": "Sahara Manch",
+  "primaryEmail": "saharamanch@rediffmail.com",
+  "website": "www.saharamanch.org",
+  "telephone": [
+    "917554058566",
+    "917552418498",
+    "917554058566"
+  ],
+  "mainAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "B-79, A-Sector",
+      "Vidhya Nagar",
+      "Bhopal",
+      "Madhya Pradesh",
+      "462043"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "Plot - 5, Zone - 1",
+      "M.P. Nagar",
+      "Bhopal",
+      "Madhya Pradesh",
+      "462043"
+    ]
+  }
+}

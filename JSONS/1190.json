@@ -1,0 +1,48 @@
+{
+  "contacts": [
+    {
+      "name": "Aditi Parikh",
+      "email": "aditi@salaambombay.org",
+      "designation": "Resource Mobilization and Communication",
+      "mobile": [
+        "91-22-61491934"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1190",
+  "name": "Salaam Bombay Foundation",
+  "primaryEmail": "aditi@salaambombay.org",
+  "website": "www.salaambombay.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "912261491900"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "1st Floor, Nirmal Building",
+      "Nariman Point.",
+      "Mumbai",
+      "Maharashtra",
+      "400021"
+    ]
+  },
+  "briefDescription": "Salaam Bombay Foundation (SBF) believes that “A child in school has a future”, and it is with this mission that the Foundation began its operations in 2002. Salaam Bombay initiates and commits to empower India’s most vulnerable children to stay in school and make the right choices for health, education and livelihood. Since its inception, Salaam Bombay Foundation has reached more than 530,000 children aged 11 to 17 years in 262 public schools across Mumbai, out of which more than 250,000 girls have been impacted through our programs as on April 2017.",
+  "yearOfEstablishment": "2002",
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "706, Dalamal Tower, B-wing,",
+      "Nariman Point",
+      "Mumbai",
+      "Maharashtra",
+      "400021",
+      "Bill.PDF"
+    ]
+  }
+}

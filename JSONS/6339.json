@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Mangle Sanjay Tomake",
+      "email": "onkart1996@gmail.com",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6339",
+  "name": "Laxmi Mahila Mandal",
+  "primaryEmail": "onkart1996@gmail.com",
+  "website": "no",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919527158509"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Dhanvade park,ingli road ,pattan kodoli",
+      "Hatkanangale",
+      "Kolhapur",
+      "Maharashtra",
+      "416202"
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Balendra Vaghela",
+      "email": "balendra.vaghela@gmail.com",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4974",
+  "name": "SWARODAY",
+  "primaryEmail": "balendra.vaghela@gmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919998230303"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "Jaybee apt., 1, Collegewadi,",
+      "Nr. Kotak School,",
+      "Rajkot",
+      "Gujarat",
+      "360001"
+    ]
+  },
+  "briefDescription": "SWARODAY is located at Rajkot.",
+  "yearOfEstablishment": "2004"
+}

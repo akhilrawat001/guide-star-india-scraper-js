@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "name": "A.K.Gautam",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5233",
+  "name": "Alternatively Very New Ideology Society (AVNI)",
+  "primaryEmail": "directoravni@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "911772831049",
+    "911772831049"
+  ],
+  "mainAddrress": {
+    "state": "Himachal Pradesh",
+    "address": [
+      "A.K.Gautam, B.N.Gupta Niwas, H.No.27/1, Boileauganj",
+      "Shimla",
+      "Himachal Pradesh",
+      "171005"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Himachal Pradesh",
+    "address": [
+      "A.K.Gautam, B.N.Gupta Niwas, H.No.27/1, Boileauganj",
+      "..",
+      "Shimla",
+      "Himachal Pradesh",
+      "171005"
+    ]
+  }
+}

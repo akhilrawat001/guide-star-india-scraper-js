@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "S. Padma",
+      "email": "vps_padma@yahoo.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1371",
+  "name": "Vasantham Pengal Sangam VPS",
+  "primaryEmail": "vps_padma@yahoo.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919842342494"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "Abarna Complex",
+      "1st Floor, Edumalai Road, Mannachanallur",
+      "Tiruchirappalli",
+      "Tamil Nadu",
+      "621005"
+    ]
+  }
+}

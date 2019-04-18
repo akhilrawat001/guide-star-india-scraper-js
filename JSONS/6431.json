@@ -1,0 +1,38 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6431",
+  "name": "DEV GOVIND GRAMIN VIKAS SANSTHAN",
+  "primaryEmail": "dggvs2001@gmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Intermediary",
+    "Support"
+  ],
+  "telephone": [
+    "916123210387",
+    "919334777194"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "A/10 ANAND VIHAR",
+      "BEHIND ICICI BANK ANISABAD",
+      "PATNA",
+      "Patna",
+      "Bihar",
+      "800002"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Bihar",
+    "address": [
+      "B-44 Police colony road no-03",
+      "Anisabad",
+      "PATNA",
+      "Patna",
+      "Bihar",
+      "800002"
+    ]
+  }
+}

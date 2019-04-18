@@ -1,0 +1,35 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10472",
+  "name": "MANZIL MYSTICS",
+  "primaryEmail": "manzilmystics@gmail.com",
+  "website": "http://www.manzilmystics.org/",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "911141006403",
+    "919891592707"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "736, Bhagwan Gali, Kotla Mubarakpur",
+      "Near Lal Mandir, Gurudwara Road",
+      "New Delhi",
+      "South Delhi",
+      "Delhi",
+      "110003"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "736, Bhagwan Gali, Kotla, Mubarakpur",
+      "New Delhi",
+      "South Delhi",
+      "Delhi",
+      "110003"
+    ]
+  }
+}

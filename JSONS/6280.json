@@ -1,0 +1,19 @@
+{
+  "contacts": [
+    {
+      "name": "Ajay Kumar Singh",
+      "email": "madhyanchal.2013@gmail.com",
+      "designation": "Secretary",
+      "mobile": [
+        "91-7822-250023",
+        "91-9755663354"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6280",
+  "name": "Madhyanchal Utkarsh Bahuuddeshiya Vikas Samiti",
+  "primaryEmail": "madhyanchal.2013@gmail.com",
+  "mainAddrress": {
+    "address": []
+  }
+}

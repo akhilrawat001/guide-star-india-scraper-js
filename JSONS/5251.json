@@ -1,0 +1,46 @@
+{
+  "contacts": [
+    {
+      "name": "Jayant Jhanb",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5251",
+  "name": "Svackshee Sansthan",
+  "primaryEmail": "jayant@svackshee.org",
+  "website": "www.svackshee.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919414902214",
+    "919818176209"
+  ],
+  "mainAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "Svackshee Sansthan, Care of Y. Joshi, House No. 423,",
+      "Sheesh Ram, 2/50, Kala Kuan, Housing Board, Aravali Vihar,",
+      "Alwar",
+      "Rajasthan",
+      "301001"
+    ]
+  },
+  "briefDescription": "Svackshee is working with rural communities to help promote voluntary action and community based knowledge in improving their own lives. We run 3 experimental schools for deprived communities and reached out to 350 children.Svackshee Experimental School is unique in many aspects –•\tWe provide freedom of pace of Learning to children.•\tTo ensure quality education teacher student ratio is kept 1:25•\tCurriculum inculcates and emphasizes on using local knowledge and environment for learning•\tDrawing, drama, songs, games and other creative skills are an integral part of the curriculum.•\tSchool has no place for forced discipline and punishment.•\tChildren including girls feel safe and secure•\tToilets are provided for boys and girls",
+  "yearOfEstablishment": "2010",
+  "regiseredAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "Svackshee Sansthan, c/o Y. Joshi, House No. 423",
+      "Sheesh Ram, 2/50, Kala Kuan, Housing Board, Aravali Vihar,",
+      "Alwar",
+      "Rajasthan",
+      "301001"
+    ]
+  }
+}

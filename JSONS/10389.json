@@ -1,0 +1,37 @@
+{
+  "contacts": [
+    {
+      "name": "Dr Sabu Milton Simon",
+      "email": "director@arogyaagam.org",
+      "designation": "Director",
+      "mobile": [
+        "91-4546-242306",
+        "91-9842142306"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10389",
+  "name": "AROGYA AGAM",
+  "primaryEmail": "director@arogyaagam.org",
+  "website": "www.arogyaagam.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919842142306"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "Balacombai Road, Aundipatti",
+      "Aundipatti",
+      "Theni",
+      "Tamil Nadu",
+      "625512"
+    ]
+  },
+  "briefDescription": "Our vision is to help build a just society and our mission to secure rights, health and development for marginalized people.We work with the most disadvantaged people, giving priority to women and children - people living with HIV, tuberculosis and leprosy; Dalits and the most discriminated among them; Tribals (indigenous people), women in prostitution, transgendered people, sexual minorities (LGBT), children at risk and people with disability.Our strategy is to mainstream gender, child rights, disability and the needs of the most disadvantaged people of the area. We provide direct services to fill gaps in existing facilities where necessary. But the main strategy is to encourage and support community volunteers and community based organizations to advocate for their rights and entitlements.",
+  "yearOfEstablishment": "1982"
+}

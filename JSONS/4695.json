@@ -1,0 +1,27 @@
+{
+  "contacts": [
+    {
+      "name": "wapan Kr Sarma",
+      "email": "gvc70@yahoo.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4695",
+  "name": "Gauripur Vivekananda Club",
+  "primaryEmail": "gvc70@yahoo.com",
+  "website": "http://www.gvcngo.in/",
+  "telephone": [
+    "913662281544",
+    "919864847810"
+  ],
+  "mainAddrress": {
+    "state": "Assam",
+    "address": [
+      "Ward No.4, P.O. Gauripur",
+      "Dhubri",
+      "Assam",
+      "783331"
+    ]
+  }
+}

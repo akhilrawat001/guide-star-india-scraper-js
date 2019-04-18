@@ -1,0 +1,42 @@
+{
+  "contacts": [
+    {
+      "name": "Shradha Pevekar",
+      "email": "shradha.uif@gmail.com",
+      "designation": "Admin Co-ordinator",
+      "mobile": [
+        "91-22-40000392"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3378",
+  "name": "Udaan India Foundation",
+  "primaryEmail": "udaanindia1@gmail.com",
+  "website": "http://www.udaanindiafoundation.org",
+  "telephone": [
+    "912240000392",
+    "912240000392"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "2202 Odyssey,",
+      "Ii Hiranandani Gardens Powai",
+      "Mumbai",
+      "Maharashtra",
+      "400076"
+    ]
+  },
+  "briefDescription": "Udaan India Foundation (Udaan) is a Mumbai based not-for-profit organization working with children from low-income communities in the field of education. Our primary aim is to ensure that every child of school going age is gaining a strong and holistic educational foundation to become a responsible, compassionate and confident citizen of tomorrow. Most Udaan children are from families where there has been little or no formal education, where education is not a priority and it is a common place for children to drop out of school in order to contribute to the family income. Believing in the power of education to change lives, a child’s journey at Udaan starts at the Kindergarten level, continues through school years and supports them until they become employable. The focus is always in making learning a continuous, joyous and voluntary experience that will help the children discover and achieve their true potential and take on the future with confidence.",
+  "yearOfEstablishment": "2009",
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "B-65, 2nd floor,",
+      "East of kailash,",
+      "New Delhi",
+      "Delhi",
+      "110065"
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1245",
+  "name": "Society for Integrated Land and Water Management (SOFILWM)",
+  "primaryEmail": "info@sofilwm.org",
+  "website": "www.sofilwm.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "912742255609"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "23, Shantiniketan Society,",
+      "Agola Road",
+      "Palanpur",
+      "Banaskantha",
+      "Gujarat",
+      "385001",
+      "AP_TelBill_1149.PDF"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "20, Karmcharinagar,",
+      "Agola Road",
+      "Palanpur",
+      "Banaskantha",
+      "Gujarat",
+      "385001",
+      "AP_TelBill_1149.PDF"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Sri Radhika Dasi",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8839",
+  "name": "Food for Life Vrindaban Society",
+  "primaryEmail": "info@fflvrindavan.org",
+  "website": "http://www.fflvrindavan.org",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "917895002907"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "Sandipani Muni School, Chaitanya Vihar",
+      "Burja Road",
+      "Vrindavan",
+      "Mathura",
+      "Uttar Pradesh",
+      "281121"
+    ]
+  }
+}

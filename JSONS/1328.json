@@ -1,0 +1,35 @@
+{
+  "contacts": [
+    {
+      "name": "Suneetha",
+      "email": "sucharithachadalwada@yahoo.co.in",
+      "designation": "P.A.",
+      "mobile": [
+        "91-877-6451118"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1328",
+  "name": "C.V.S Krishna Murthy Teja Charities",
+  "primaryEmail": "csucharitha9@gmail.com",
+  "website": "www.krishnatheaj",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918776451118",
+    "918776451115",
+    "919849171809"
+  ],
+  "mainAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "14/182, Padmavathi Puram,",
+      "Tiruchanur Road,",
+      "Tirupathi",
+      "Chittoor",
+      "Andhra Pradesh",
+      "517506"
+    ]
+  }
+}

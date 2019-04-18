@@ -1,0 +1,42 @@
+{
+  "contacts": [
+    {
+      "name": "SARITA CHAUBEY",
+      "email": "nirman71@gmail.com",
+      "designation": "SECRETARY",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8291",
+  "name": "PURODHA",
+  "primaryEmail": "nirman71@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "911204100045",
+    "911204100045"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "66 A,",
+      "Sector-2B Sadhana ,",
+      "Vaishali Ghaziabad",
+      "Ghaziabad",
+      "Uttar Pradesh",
+      "201010"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "E-212-C",
+      "Gali No 7",
+      "East Vinod Nagar",
+      "New Delhi",
+      "Delhi",
+      "110091"
+    ]
+  }
+}

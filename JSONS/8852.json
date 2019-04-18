@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "Prashant Dahane",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8852",
+  "name": "VIDHYARTHI VIKAS SHIKSHAN SANSTHA",
+  "primaryEmail": "vidhyarthivikas@gmail.com",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "919922775226"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Adgaon, Tq Morshi",
+      "Amravati",
+      "Maharashtra",
+      "444901"
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "contacts": [
+    {
+      "name": "P. Arockia Raymond",
+      "email": "",
+      "designation": "Social worker/Treasurer",
+      "mobile": [
+        "91-4172-275728"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1202",
+  "name": "Thendral Movement",
+  "primaryEmail": "vthendralmovement@gmail.com",
+  "website": "http://www.thendralmovement.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "914172275728",
+    "914172275728"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "No. 7, Anna Salai",
+      "Bharathi Nagar",
+      "Ranipet",
+      "Vellore",
+      "Tamil Nadu",
+      "632403"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "No. 99/B, Mosque Street,",
+      "Karai",
+      "Ranipet",
+      "Vellore",
+      "Tamil Nadu",
+      "632403"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=767",
+  "name": "All India Council For Mass Education and Development",
+  "primaryEmail": "aicmed_org@yahoo.com",
+  "website": "www.aicmedindia .org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "913322191657",
+    "913322411778",
+    "919433050805"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "60, Potuatola Lane",
+      "Kolkata",
+      "West Bengal",
+      "700009"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6733",
+  "name": "Vishwa Seva Educational Trust",
+  "primaryEmail": "india@vset.org",
+  "website": "www.vset.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919349125024"
+  ],
+  "mainAddrress": {
+    "state": "Kerala",
+    "address": [
+      "VSET Campus",
+      "Onivayal Road",
+      "Kalpetta",
+      "Wayanad",
+      "Kerala",
+      "673121"
+    ]
+  }
+}

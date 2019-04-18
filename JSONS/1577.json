@@ -1,0 +1,38 @@
+{
+  "contacts": [
+    {
+      "name": "Raghav Jha",
+      "email": "rupesh.roshan@gmail.com",
+      "designation": "EX MEMBER",
+      "mobile": [
+        "91-9931234808"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1577",
+  "name": "Ujjawal Vridha Ashram Kalayan Samity",
+  "primaryEmail": "rupesh.roshan@gmail.com",
+  "website": "www.uvaksa.webs.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919931234808"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "WARD NO-10",
+      "KHARAIYA BASTI, NEAR GIRLS HIGH SCHOOL,",
+      "ARARIA (BIHAR)",
+      "Araria",
+      "Bihar",
+      "854311"
+    ]
+  }
+}

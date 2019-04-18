@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Nilesh Maruti Gujar",
+      "email": "nilesh_gujar7@rediffmail.com",
+      "designation": "Project Coordinator",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4910",
+  "name": "Surbhee Social Development Organisation",
+  "primaryEmail": "nilesh_gujar7@rediffmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919552323436"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "RAMWADI",
+      "PANCHGANI",
+      "SATARA",
+      "Satara",
+      "Maharashtra",
+      "415514"
+    ]
+  }
+}

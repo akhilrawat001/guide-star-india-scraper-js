@@ -1,0 +1,35 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=557",
+  "name": "Rural Alliance for Sanitation, Technology, Health and Environment",
+  "primaryEmail": "rasthe@ymail.com",
+  "website": "http://www.rasthe.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "911123973494",
+    "911123973494"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "2/4 Court Lane, Court Road",
+      "Civil Lines",
+      "New Delhi",
+      "Delhi",
+      "110054"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "47/1857, Shri Krishan Dass Road",
+      "Karol Bagh",
+      "New Delhi",
+      "Delhi",
+      "110005",
+      "AP_BankStat_471.PDF"
+    ]
+  }
+}

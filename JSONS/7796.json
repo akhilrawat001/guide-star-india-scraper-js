@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Rajeshwar Potdar",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7796",
+  "name": "Shree Samarth Vishwa Prabata bahuudeshiya Sewabhavi Sanstha",
+  "primaryEmail": "shree.samarthvishprabata@gmail.com",
+  "organisationType": [
+    "Intermediary",
+    "Support"
+  ],
+  "telephone": [
+    "912465218141",
+    "912465218141"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "1158 Pitra Chaya Niwas Vasant Nagar Naigaon Bazar",
+      "Tq.Naigaon kh Dist. Nanded",
+      "Naigaon Tq.Naigaon",
+      "Nanded",
+      "Maharashtra",
+      "431709",
+      "Bank account details.PDF"
+    ]
+  }
+}

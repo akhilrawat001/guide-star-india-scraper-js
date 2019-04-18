@@ -1,0 +1,43 @@
+{
+  "contacts": [
+    {
+      "name": "Deepak Mohanty",
+      "email": "",
+      "designation": "General Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7676",
+  "name": "Voluntary Action for Rural and Social Activities ( VARSA )",
+  "primaryEmail": "varsa.bhubaneswar@yahoo.in",
+  "website": "NA",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919861282100"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "259/A, Saheed Nagar,",
+      "Near Vanivihar Rly Station, Saheed Nagar.",
+      "BHUBANESWAR",
+      "Khordha",
+      "Odisha",
+      "751007"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Odisha",
+    "address": [
+      "SPA, Complex,",
+      "Police Line Square,",
+      "Balasore",
+      "Baleswar",
+      "Odisha",
+      "756001"
+    ]
+  }
+}

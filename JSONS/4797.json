@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Mr P.S Nitanware",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4797",
+  "name": "Community Development Society",
+  "primaryEmail": "comdesoc_ngp@sancharnet.in",
+  "website": "http://cdsindia.co.in/",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "917122584660",
+    "917122584660"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Community Development Society, Vikas Bhavan, Koradi Road, Mankapur",
+      "Nagpur",
+      "Maharashtra",
+      "440030"
+    ]
+  }
+}

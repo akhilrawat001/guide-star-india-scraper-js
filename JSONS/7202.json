@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "MR.TAPAN KR. NATH",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7202",
+  "name": "Manickpur Chaitali Sangha",
+  "primaryEmail": "mcsharinavi@gmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Support"
+  ],
+  "telephone": [
+    "918513000295",
+    "919830793276",
+    "918513000295"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "MANICKPUR CHAITALI SANGHA (NGO)",
+      "VILL: MANICKPUR, P.O: HARINAVI, P.S: SONAPUR",
+      "MANICKPUR",
+      "South 24 Parganas",
+      "West Bengal",
+      "700148"
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "contacts": [
+    {
+      "name": "Sriram",
+      "email": "dedication.ngo@gmail.com",
+      "designation": "Adviser",
+      "mobile": [
+        "91-9701066993"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10227",
+  "name": "DEDICATION SOCIAL SERVICE SOCIETY",
+  "primaryEmail": "dedication.ngo@gmail.com",
+  "website": "http://dedicationngo.org/",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919701066993"
+  ],
+  "mainAddrress": {
+    "state": "Telangana",
+    "address": [
+      "Kakaravai Post & Village",
+      "Via: Sublaid SO",
+      "Tirumalaya Palem Mandal",
+      "Khammam",
+      "Telangana",
+      "507161"
+    ]
+  },
+  "briefDescription": "Dedication Social Service Society (DSSS), a registered non-government organization working in tribal and backward locations. Last two decades it has been working in the areas of sustainable development and implemented various natural resources management (NRM) programs and projects in backward and tribal areas of Khammam district, Telangana state.",
+  "yearOfEstablishment": "1995"
+}

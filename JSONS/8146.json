@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Pradeep Nagda",
+      "email": "info@visvesvaraya.org",
+      "designation": "Managing Trsutee",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8146",
+  "name": "VISVESVARAYA FOUNDATION",
+  "primaryEmail": "info@visvesvaraya.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919829242332"
+  ],
+  "mainAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "Tulsi Niketan Hiran Magri,",
+      "Sector No 4",
+      "Main Road,Udaipur,",
+      "Udaipur",
+      "Rajasthan",
+      "313002"
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "contacts": [
+    {
+      "name": "S.K. Agarwal",
+      "email": "p_s_bawa@yahoo.co.in",
+      "designation": "Vice Chairman",
+      "mobile": [
+        "91-11-26460826"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1219",
+  "name": "Transparency International India",
+  "primaryEmail": "tiindia.newdelhi@gmail.com",
+  "website": "www.transparencyindia.org",
+  "organisationType": [
+    "Advocacy & Campaigning"
+  ],
+  "telephone": [
+    "911126460826",
+    "911126460826"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "Qr.No 4, Lajpat Bhawan,",
+      "Lajpat Nagar - IV",
+      "New Delhi",
+      "Delhi",
+      "110024",
+      "AP_TelBill_1123.PDF"
+    ]
+  }
+}

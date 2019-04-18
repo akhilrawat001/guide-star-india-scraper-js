@@ -1,0 +1,34 @@
+{
+  "contacts": [
+    {
+      "name": "Amrita Chengappa",
+      "email": "sosorganicsfoundation@gmail.com",
+      "designation": "Trustee",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3389",
+  "name": "SOS Organics Foundation",
+  "primaryEmail": "sosorganicsfoundation@gmail.com",
+  "website": "www.sosorganics.in",
+  "organisationType": [
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919411349894",
+    "919412092138"
+  ],
+  "mainAddrress": {
+    "state": "Uttarakhand",
+    "address": [
+      "Chitai, Pant Village",
+      "Almora",
+      "Uttarakhand",
+      "263601"
+    ]
+  },
+  "briefDescription": "To enhance the economical welfare of the rural population, to empower the rural population to achieve economical independence. To impart training in skills, crafts, agricultural activities which allow the rural population to earn their livelihood in a dignified manner supporting the environment. To provide technologies, expertise, facilities to support the viability and sustainability of their economical activities. To support the establishment of meaningful processing and production units and to establish a rational marketing network for their produce in a fair trade manner.",
+  "yearOfEstablishment": "2010"
+}

@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Nandkumar.Dhanwate",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3595",
+  "name": "PRIYADARSHINI MAHILA TANTRA SHIKASHAN MANDAL",
+  "primaryEmail": "ndhanwate@yahoo.co.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "9822203166"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Sai prasad Bldg",
+      "Ward no.1 College Road,opp New Court",
+      "Shrirampur",
+      "Ahmednagar",
+      "Maharashtra",
+      "413709"
+    ]
+  }
+}

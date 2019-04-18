@@ -1,0 +1,34 @@
+{
+  "contacts": [
+    {
+      "name": "Dr. Maithili Jog",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "24392933"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5781",
+  "name": "APT Research Foundation",
+  "primaryEmail": "aptresearch@gmail.com",
+  "website": "www.ntc-apt.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Network"
+  ],
+  "telephone": [
+    "912024392933",
+    "912024392933"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Survey No. 36/1/1, M. N. 199, Vadgaon Khurd,",
+      "Sinhagad Road",
+      "Pune",
+      "Maharashtra",
+      "411041"
+    ]
+  }
+}

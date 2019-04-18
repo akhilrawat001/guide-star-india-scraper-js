@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "RS Kumar",
+      "email": "samatha@ssps.in",
+      "designation": "CEO",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10902",
+  "name": "Samatha Society for Rural Education and Development",
+  "primaryEmail": "samatha@ssps.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919989779028"
+  ],
+  "mainAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "Gollapalli",
+      "Anantapur",
+      "Andhra Pradesh",
+      "515164"
+    ]
+  },
+  "briefDescription": "Samatha Society for Rural Education and Development is located in Anantapur,  Andhra Pradesh.",
+  "yearOfEstablishment": "1987"
+}

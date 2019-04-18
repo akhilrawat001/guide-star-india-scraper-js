@@ -1,0 +1,37 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6059",
+  "name": "SAMPURN SAHYOG SANSTHAN",
+  "primaryEmail": "sss_lko777@rediffmail.com",
+  "website": "www.sampurnsahyogsansthan.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service"
+  ],
+  "telephone": [
+    "919838744805"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "4th, floor new janpath complex",
+      "In front of Income tax office 9A-Ashok Marg Hazratganj",
+      "LUCKNOW",
+      "Lucknow",
+      "Uttar Pradesh",
+      "226001"
+    ]
+  },
+  "briefDescription": "Sampurn Sahyog Sansthan is located in Uttar Pradesh.",
+  "yearOfEstablishment": "1992",
+  "regiseredAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "3/97 vikrant khand",
+      "Gomti Nagar",
+      "Lucknow",
+      "Uttar Pradesh",
+      "226001"
+    ]
+  }
+}

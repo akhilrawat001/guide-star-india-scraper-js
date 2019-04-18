@@ -1,0 +1,25 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1721",
+  "name": "Machhuara Yuva Manch",
+  "primaryEmail": "machhuara@yahoo.co.in",
+  "website": "www.mymanch.webs.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Intermediary",
+    "Network"
+  ],
+  "telephone": [
+    "919431738854"
+  ],
+  "mainAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "School Balidih",
+      "Bokaro",
+      "Jharkhand",
+      "827014"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "contacts": [
+    {
+      "name": "Dr Ruma Chatterjee",
+      "email": "Ruma1@rocketmail.com",
+      "designation": "Vice President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3523",
+  "name": "Society for the Visually Handicapped",
+  "primaryEmail": "ruma1@rocketmail.com",
+  "telephone": [
+    "913324078625",
+    "919433113733"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Apt #1 B, 12",
+      "Dover Road",
+      "Kolkata",
+      "West Bengal",
+      "700019"
+    ]
+  }
+}

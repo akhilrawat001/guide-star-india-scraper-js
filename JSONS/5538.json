@@ -1,0 +1,35 @@
+{
+  "contacts": [
+    {
+      "name": "Mr.K.K.Jain",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "9869419692"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5538",
+  "name": "JHALAWAR FOUNDATION",
+  "primaryEmail": "jhalawar.foundation@gmail.com",
+  "website": "www.sardarpulverizers.co.in",
+  "organisationType": [
+    "Direct Service",
+    "Grant-making",
+    "Network"
+  ],
+  "telephone": [
+    "919869419692"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "46/388,unnat nagar-2,",
+      "opp-mahendra garden/patkar collage",
+      "mumbai",
+      "Mumbai",
+      "Maharashtra",
+      "400102"
+    ]
+  }
+}

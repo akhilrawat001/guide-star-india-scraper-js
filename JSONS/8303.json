@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Rajeeb Kumar Nayak",
+      "email": "ahwanboudh@yahoo.co.in",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8303",
+  "name": "AHWAN",
+  "primaryEmail": "ahwanboudh@yahoo.co.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919437571831"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "AT/P.o- PADARPADA",
+      "Via- MANAMUNDA",
+      "BOUDH",
+      "Boudh",
+      "Odisha",
+      "762016"
+    ]
+  }
+}

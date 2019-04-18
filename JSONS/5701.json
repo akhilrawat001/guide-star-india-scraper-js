@@ -1,0 +1,35 @@
+{
+  "contacts": [
+    {
+      "name": "Basavaraj S K",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "9663332654"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5701",
+  "name": "Innovative Foundation",
+  "primaryEmail": "innovatefoundation@gmail.com",
+  "website": "www.innovativefoundation.net",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making"
+  ],
+  "telephone": [
+    "919663332654"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "S S Kabbur Building",
+      "RajaRajeshwari Nagar 4th Cross",
+      "Ranebennur",
+      "Haveri",
+      "Karnataka",
+      "581115"
+    ]
+  }
+}

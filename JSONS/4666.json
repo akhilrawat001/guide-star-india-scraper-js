@@ -1,0 +1,38 @@
+{
+  "contacts": [
+    {
+      "name": "Ananthi Newman",
+      "email": "wisetrust2010@yahoo.com",
+      "designation": "Director",
+      "mobile": []
+    },
+    {
+      "name": "Ananthi Newman",
+      "email": "wisetrust2010@yahoo.com",
+      "designation": "Director",
+      "mobile": []
+    },
+    {
+      "name": "Ananthi Newman",
+      "email": "wisetrust2010@yahoo.com",
+      "designation": "Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4666",
+  "name": "Work for Integrated Social Empowerment (WISE)",
+  "primaryEmail": "wisetrust2010@yahoo.com",
+  "telephone": [
+    "919444487229"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "New 192/Old 175, Salem",
+      "Main Road Thottiyam Post",
+      "Tiruchirappalli",
+      "Tamil Nadu",
+      "621215"
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Dr Ku Mrunali M Mohod",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8815",
+  "name": "DAYASAGAR BAHUUDDESHIYA SANSTHA DARWHA",
+  "primaryEmail": "mrunalimohod001@gmail.com",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "919689800221"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Dr Mrunali M Mohod Main Line Weekly Market Tal Darwha",
+      "Darwha",
+      "Yavatmal",
+      "Maharashtra",
+      "445202"
+    ]
+  }
+}

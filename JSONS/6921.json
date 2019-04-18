@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "FR. JOE D'GAMA",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6921",
+  "name": "AASARA",
+  "primaryEmail": "aasarathane1@gmail.com",
+  "website": "www.aasaratrust.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919820176644"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "19/10-11, Aasara Office, Near Praful Nakawa Chawl, Chendani Koliwada.",
+      "Mith Bandar Road, CIDCO SUBWAY",
+      "THANE (E)",
+      "Thane",
+      "Maharashtra",
+      "400603"
+    ]
+  }
+}

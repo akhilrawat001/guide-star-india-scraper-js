@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "SAURABH TIWARI",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4721",
+  "name": "PARIMAL PRAYAS SANSTHAN",
+  "primaryEmail": "parimal.prayas@gmail.com",
+  "website": "www.parimalprayas.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919406307990"
+  ],
+  "mainAddrress": {
+    "state": "Chhattisgarh",
+    "address": [
+      "FD-22",
+      "FOREST COLONY",
+      "PENDRA ROAD",
+      "Bilaspur",
+      "Chhattisgarh",
+      "495117"
+    ]
+  }
+}

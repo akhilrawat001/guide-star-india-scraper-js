@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Lindsay Barnes",
+      "email": "janchetnamanch@rediffmail.com",
+      "designation": "Director-Admin and Projects",
+      "mobile": []
+    },
+    {
+      "name": "Lindsay Barnes",
+      "email": "janchetnamanch@rediffmail.com",
+      "designation": "Director-Admin and Projects",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1713",
+  "name": "Jan Chetna Manch",
+  "primaryEmail": "janchetnamanch@rediffmail.com",
+  "telephone": [
+    "919204060241"
+  ],
+  "mainAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "Chamrabad",
+      "Chandra, Chandankiari",
+      "Bokaro",
+      "Jharkhand",
+      "828134"
+    ]
+  }
+}

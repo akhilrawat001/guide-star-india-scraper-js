@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Adv.P.J Mathew",
+      "email": "pjmathew1980@yahoo.com",
+      "designation": "Chairman",
+      "mobile": [
+        "91-9495240909"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8574",
+  "name": "Forum for Rural Environment and Economic Development (FREED)",
+  "primaryEmail": "alpfreed@gmail.com",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "919495240909"
+  ],
+  "mainAddrress": {
+    "state": "Kerala",
+    "address": [
+      "Vayalar Sukumaran Building",
+      "Near Vazhichery Bridge, New Bazar,",
+      "Alappuzha",
+      "Kerala",
+      "688001"
+    ]
+  }
+}

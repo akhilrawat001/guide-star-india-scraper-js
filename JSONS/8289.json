@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Jadhav Digambar Anandhrao",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8289",
+  "name": "OMKAR BAHUUDDESHIYA SEVABHAVI SANSTHA",
+  "primaryEmail": "omkarlatur@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "917350335966",
+    "918149738012"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "At Post Savangira",
+      "Tq Nilanga Dist Latur",
+      "Latur",
+      "Maharashtra",
+      "413519"
+    ]
+  }
+}

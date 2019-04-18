@@ -1,0 +1,43 @@
+{
+  "contacts": [
+    {
+      "name": "Debendra Samal",
+      "email": "lifevisionkld@gmail.com",
+      "designation": "General Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6689",
+  "name": "LIFE VISION",
+  "primaryEmail": "lifevisionkld@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919438651642"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "PO Medinipur",
+      "House no-92(1), B.N.72(2)",
+      "Bhawanipatna",
+      "Kalahandi",
+      "Odisha",
+      "766001"
+    ]
+  },
+  "briefDescription": "Life vision is located in Orissa. The activities include1. HEALTH(ORGAN DONATION AWARENESS)2. ENVIRONMENT 3. AGRICULTURE 4.GENDER issue 5. FOREST PROTECTION AWARENESS 6. WOMEN EMPOWERMENT 7. DOMESTIC VIOLENCE 8. SWACHHA BHARAT ABHIYAAN 9. BETI BACHAO BETI PADHO",
+  "yearOfEstablishment": "2009",
+  "regiseredAddrress": {
+    "state": "Odisha",
+    "address": [
+      "Manoharpur",
+      "Medinipur",
+      "Bhawanipatna",
+      "Kalahandi",
+      "Odisha",
+      "766001"
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Shashikant Sharma",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3603",
+  "name": "Ashwamegh Gramin Vikas Trust",
+  "primaryEmail": "ashwameghf@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919421530799"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "'Nalini Kunj' At. / Post - Fagane",
+      "Tal. & Dist. - Dhule",
+      "Dhule",
+      "Maharashtra",
+      "424301"
+    ]
+  }
+}

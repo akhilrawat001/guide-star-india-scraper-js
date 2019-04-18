@@ -1,0 +1,34 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=924",
+  "name": "Social Action for Rural Community",
+  "primaryEmail": "sarc6607@rediffmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "916632411196",
+    "916632412263",
+    "919937455878"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "At: Sairam Nivas, Behind Nariseva Sadan",
+      "Sambalpur",
+      "Odisha",
+      "768001"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Odisha",
+    "address": [
+      "At: Budulapali, Po: Puunapani, Via: Kuchinda",
+      "Sambalpur",
+      "Odisha",
+      "768222",
+      "AP_TelBill_838.PDF"
+    ]
+  }
+}

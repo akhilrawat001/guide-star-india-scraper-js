@@ -1,0 +1,35 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9264",
+  "name": "PYXERA GLOBAL",
+  "primaryEmail": "ksherman@pyxeraglobal.org",
+  "website": "pyxeraglobal.org/india",
+  "organisationType": [
+    "Direct Service",
+    "Intermediary"
+  ],
+  "telephone": [
+    "919820292002"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "26 St Dominic Rd",
+      "Plot #49, Bandra (W)",
+      "Mumbai",
+      "Maharashtra",
+      "400050"
+    ]
+  },
+  "yearOfEstablishment": "2014",
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "2 New Pushpa Milan",
+      "Worli Hills",
+      "Mumbai",
+      "Maharashtra",
+      "400018"
+    ]
+  }
+}

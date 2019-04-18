@@ -1,0 +1,27 @@
+{
+  "contacts": [
+    {
+      "name": "Rajendra Singh Bisht",
+      "email": "",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=687",
+  "name": "Swati Gramodhyog Sansthan",
+  "primaryEmail": "swati_sansthan@yahoo.co.in",
+  "telephone": [
+    "915964224098",
+    "919412095668",
+    "915964224098"
+  ],
+  "mainAddrress": {
+    "state": "Uttarakhand",
+    "address": [
+      "Dharchula Road, Kailashpuri",
+      "Pithoragarh",
+      "Uttarakhand",
+      "262501"
+    ]
+  }
+}

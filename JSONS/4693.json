@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "name": "GOUTAM CHANDRA SARMA",
+      "email": "multifarious_ngo@rediffmail.com",
+      "designation": "Director",
+      "mobile": []
+    },
+    {
+      "name": "GOUTAM CHANDRA SARMA",
+      "email": "multifarious_ngo@rediffmail.com",
+      "designation": "Director",
+      "mobile": []
+    },
+    {
+      "name": "GOUTAM CHANDRA SARMA",
+      "email": "multifarious_ngo@rediffmail.com",
+      "designation": "Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4693",
+  "name": "Multifarious",
+  "primaryEmail": "multifarious_ngo@rediffmail.com",
+  "telephone": [
+    "913612465442",
+    "919864852330"
+  ],
+  "mainAddrress": {
+    "state": "Assam",
+    "address": [
+      "Udayachal Path, Christian Basti",
+      "DISPUR",
+      "Kamrup",
+      "Assam",
+      "781005"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6395",
+  "name": "E&H Foundation",
+  "primaryEmail": "eandhfoundation@gmail.com",
+  "website": "www.enhfoundation.in",
+  "organisationType": [
+    "Grant-making",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "911140634830",
+    "911140634830"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "1D, 1st Floor, Shahpur Jat",
+      "Near Govindam Sweets",
+      "New Delhi",
+      "South Delhi",
+      "Delhi",
+      "110049"
+    ]
+  },
+  "briefDescription": "E&H Foundation was established in 2012 with the vision to provide quality education and health-care services to the underprivileged in UP. Our aim is to effectively channelize the sincere efforts of a large number of dedicated individuals and organizations in reaching scale without compromising on quality. We identify and support existing successful, scalable models to set up operations in UP. After doing in depth research, E&H Foundation started its journey from Farrukhabad district  of UP. We have identified two such existing models in primary education within India, and have replicated these models. Within two years we have reached out to 3,000 children.",
+  "yearOfEstablishment": "2012",
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "62-A, Ground Floor, DDA Flats Pocket IV",
+      "Mayur Vihar Phase 1",
+      "New Delhi",
+      "East Delhi",
+      "Delhi",
+      "110091"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "contacts": [
+    {
+      "name": "Rajesh Sharad Khandelwal",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8682",
+  "name": "Expert Bahuuddeshiya Sevabhavi Sanstha",
+  "primaryEmail": "expertlasur@gmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "918421951476"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "House No 1135 Dr Baburao Chowk",
+      "Near Bhaji Mandi",
+      "At Post Lasur Station Tq Gangapur",
+      "Aurangabad",
+      "Maharashtra",
+      "423702"
+    ]
+  }
+}

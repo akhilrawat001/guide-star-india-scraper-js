@@ -1,0 +1,46 @@
+{
+  "contacts": [
+    {
+      "name": "Vijay Kaul",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3003",
+  "name": "SOCIETY FOR HEMOPHILIA CARE",
+  "primaryEmail": "admin@shcindia.org",
+  "website": "www.shcindia.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service"
+  ],
+  "telephone": [
+    "911128042121",
+    "911128042121"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "129, Amberhai Village, Opp. Church",
+      "Sector-19,",
+      "Dwarka",
+      "South West Delhi",
+      "Delhi",
+      "110075"
+    ]
+  },
+  "briefDescription": "SHC India works on making hemophilia treatment affordable. Hemophilia is a bleeding disorder & children get disabled or sometimes die untimely  due to lack of awareness,diagnosis & treatment which is very expensive. SHC conducts regular Awarenss camps, trainings for medical professionals and proactively advocates for policy changes for providing free hemophilia care in the country.",
+  "yearOfEstablishment": "2005",
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "308,Elephanta Heights",
+      "Plot 41, Sector 10,",
+      "Dwarka",
+      "South West Delhi",
+      "Delhi",
+      "110075"
+    ]
+  }
+}

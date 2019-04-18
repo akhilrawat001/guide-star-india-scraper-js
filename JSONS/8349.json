@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Mukesh Gupta",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8349",
+  "name": "Sampurn Manav Vikas Sansthan",
+  "primaryEmail": "smvs1@yahoo.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919934421240"
+  ],
+  "mainAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "Malti Niwas",
+      "Kisor Ganj",
+      "Ranchi",
+      "Jharkhand",
+      "834001"
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Rajesh Gupta",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "9425144992"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2789",
+  "name": "DARSHANA MAHILA KALYAN SAMITI",
+  "primaryEmail": "darshna_chp@yahoo.com",
+  "website": "http://www.ngodarshana.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919425144992"
+  ],
+  "mainAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "awasthi bilding",
+      "near icici bank & circuit hose gate jawahar road",
+      "chhatarpur",
+      "Chhatarpur",
+      "Madhya Pradesh",
+      "471001"
+    ]
+  }
+}

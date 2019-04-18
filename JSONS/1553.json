@@ -1,0 +1,27 @@
+{
+  "contacts": [
+    {
+      "name": "Vinita Ahuja",
+      "email": "",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1553",
+  "name": "Jubin Spastic Home & Charitable Trust",
+  "primaryEmail": "jubintrust_seva@yahoo.com",
+  "telephone": [
+    "911542476070",
+    "919414048908"
+  ],
+  "mainAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "195-196,",
+      "Surkharia Shopping Centre",
+      "Sri Ganganagar",
+      "Rajasthan",
+      "335001"
+    ]
+  }
+}

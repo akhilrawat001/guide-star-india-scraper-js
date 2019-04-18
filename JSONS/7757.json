@@ -1,0 +1,35 @@
+{
+  "contacts": [
+    {
+      "name": "MR.ASIM KHAN",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7757",
+  "name": "UNIQUEE FOUNDATION",
+  "primaryEmail": "uniquee.foundation@gmail.com",
+  "website": "uniqueefoundation.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919890227354"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Flat No. 2, Aman Society",
+      "648, Guruwar Peth, Opp Pushpam Jewellers,",
+      "Pune",
+      "Maharashtra",
+      "411042"
+    ]
+  }
+}

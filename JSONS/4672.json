@@ -1,0 +1,26 @@
+{
+  "contacts": [
+    {
+      "name": "Satyajit Pathak",
+      "email": "dgird@rediffmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4672",
+  "name": "Dubrajpur Gandhi Institute for Rural Development",
+  "primaryEmail": "dgird@rediffmail.com",
+  "telephone": [
+    "919831498455"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Vill-Purulia",
+      "P.O.-Ahanda",
+      "Bankura",
+      "West Bengal",
+      "722173"
+    ]
+  }
+}

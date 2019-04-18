@@ -1,0 +1,38 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10998",
+  "name": "Integrated Development of Rural & Urban Society",
+  "primaryEmail": "sharadvss@gmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919421666945",
+    "919730577099"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Nagpur-Mumbai Highway, Near Sai Mandir",
+      "At post Shivrai, Tq- Vaijapur,",
+      "Aurangabad",
+      "Maharashtra",
+      "423703"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Nagpur-Mumbai Highway, Near Sai Mandir",
+      "At post Shivrai, Tq- Vaijapur",
+      "Aurangabad",
+      "Maharashtra",
+      "423703"
+    ]
+  }
+}

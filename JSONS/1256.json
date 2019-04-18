@@ -1,0 +1,39 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1256",
+  "name": "Akruthi(A School for Differently Abled Children)",
+  "primaryEmail": "pramohan26@gmail.com",
+  "website": "www.akruthi.org",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "914064588167",
+    "914064588167"
+  ],
+  "mainAddrress": {
+    "state": "Telangana",
+    "address": [
+      "Plot No 56, Raghavendra Hills",
+      "Sainikpuri",
+      "Secunderabad",
+      "Hyderabad",
+      "Telangana",
+      "500094",
+      "AP_BankStat_1160.PDF"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Telangana",
+    "address": [
+      "Plot No 6/13,Shiva Arun Colony,",
+      "West-Marredpally",
+      "Secunderabad",
+      "Hyderabad",
+      "Telangana",
+      "500026",
+      "AP_BankStat_1160.PDF"
+    ]
+  }
+}

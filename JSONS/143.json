@@ -1,0 +1,29 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=143",
+  "name": "Sankara Eye Hospital",
+  "primaryEmail": "info@kannoli.net",
+  "website": "www.kannoli.net",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "914422483750",
+    "919444380697",
+    "914422483750",
+    "919444380698"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "No.1, Third Cross Street",
+      "Sri Sankara Nagar, Pammal",
+      "Chennai",
+      "Kancheepuram",
+      "Tamil Nadu",
+      "600075"
+    ]
+  },
+  "briefDescription": "Sankara Eye Hospital is an ISO certified, non-profit charitable organisation, caters mainly to the needs of rural poor & needy.  Since April 1999, this hospital has performed more than ONE LAKH THIRTY FIVE THOUSAND free cataract surgeries covering more than TEN MILLION populations.",
+  "yearOfEstablishment": "2004"
+}

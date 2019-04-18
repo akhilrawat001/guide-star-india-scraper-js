@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Lourd Vijay",
+      "email": "lourdvijay@isptd.org",
+      "designation": "Trustee",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4297",
+  "name": "The Indian Society For Performers and Teachers of Dance",
+  "primaryEmail": "admin@isptd.org",
+  "website": "http://isptd.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918023315566",
+    "918023315566"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "#4, 1st Main Road,",
+      "Chakravathy Layout, Off Palace Cross Road",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560020"
+    ]
+  }
+}

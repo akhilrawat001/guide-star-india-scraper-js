@@ -1,0 +1,34 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1887",
+  "name": "Appex Guide Line",
+  "primaryEmail": "appex29@yahoo.co.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "916802220669",
+    "919861086564"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "Nilakantha Nagar-I",
+      "Bijipur,",
+      "Berhampur",
+      "Ganjam",
+      "Odisha",
+      "760003"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Odisha",
+    "address": [
+      "At /Po: Jharipadar",
+      "Via: Padmanavpur,",
+      "Ganjam",
+      "Odisha",
+      "761007"
+    ]
+  }
+}

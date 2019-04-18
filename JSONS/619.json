@@ -1,0 +1,26 @@
+{
+  "contacts": [
+    {
+      "name": "Jawahar Singh",
+      "email": "",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=619",
+  "name": "Delhi Jhuggi Jhopri Ekta Manch",
+  "primaryEmail": "jjektamanch@yahoo.co.in",
+  "telephone": [
+    "919211661830"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "C-125, Pocked - 4",
+      "Bindapur",
+      "New Delhi",
+      "Delhi",
+      "110059"
+    ]
+  }
+}

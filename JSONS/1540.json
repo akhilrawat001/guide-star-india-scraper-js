@@ -1,0 +1,35 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1540",
+  "name": "Siddeshwar Shikshan Sanstha",
+  "primaryEmail": "contact@dnyanankur.com",
+  "website": "http://www.dnyanankur.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "912025457429",
+    "919730077669"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "78/1/2",
+      "B4-21, Elite Empire, Balewadi",
+      "Pune",
+      "Maharashtra",
+      "411045"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "73-1-2, Flat - 15, Sai Dham,",
+      "Bharati Vidya Peith",
+      "Pune",
+      "Maharashtra",
+      "411046"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=399",
+  "name": "Make-A-Wish Foundation of India",
+  "primaryEmail": "ceo@makeawishindia.org",
+  "website": "http://www.makeawishindia.org",
+  "organisationType": [
+    "Direct Service",
+    "Network"
+  ],
+  "telephone": [
+    "912224919139",
+    "912224919140"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "111, Vasan Udyog Bhavan,Sun Mill Compound",
+      "Opp. High Street Phoenix Mall, Senapati Bapat Marg, Lower Parel",
+      "Mumbai",
+      "Maharashtra",
+      "400013"
+    ]
+  },
+  "briefDescription": "The Foundation is dedicated to granting the most cherished wish of children from socio-economically deprived families, in the age of 3 to 18 years, living with life-threatening illnesses, mostly Cancer, to enrich the human experience with hope, joy & strength. In the past 20 years the foundation in India has granted over 39,500 wishes. It grants more than 5000 wishes / year. The Head office is located at Mumbai with 10 division offices in 8 states across India, namely Mumbai, Chennai, Hyderabad, Ahmedabad, Coimbatore, Jaipur, Pune, Bangalore, New Delhi and Kolkata.",
+  "yearOfEstablishment": "1995",
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "B-2/12, Samruddhi Society,",
+      "B. Parulekar Marg, Dadar (W)",
+      "Mumbai",
+      "Maharashtra",
+      "400028"
+    ]
+  }
+}

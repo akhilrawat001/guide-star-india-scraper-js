@@ -1,0 +1,49 @@
+{
+  "contacts": [
+    {
+      "name": "Suneela GA",
+      "email": "anniesuneela@yahoo.com",
+      "designation": "Executive Member",
+      "mobile": [
+        "91-7799666999"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10889",
+  "name": "BEST FOUNDATION",
+  "primaryEmail": "bestfoundation@yahoo.com",
+  "website": "www.askjesusnow.net",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "+917799666999",
+    "918818244099"
+  ],
+  "mainAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "3-34-12, Aakruthi,  Church Road,, Subbaraopet,",
+      "Vayu Krupa Marg, Near Bhashyam School",
+      "Tadepalligudem",
+      "West Godavari",
+      "Andhra Pradesh",
+      "534101"
+    ]
+  },
+  "briefDescription": "We the BEST FOUNDATION are involved in Social Service in the region of West Godavari district of Andhra Pradesh, we  give Scholorships to the Dalit and backward classs Teacher Trainee students (B.Ed & D.Ed courses), and minority students of all courses. We serve the orphans and Aged people. Our services in the areas of Fire accidents and Natural calamities are commanded by the district authorities many a times. We conduct Awareness and literacy camps through our dedicated and trained staff. We have conducted many medical camps throughout the district with the support of Ashram Medical college, Eluru and the dedicated Doctors team. We can say more than 10K people are benefited through our organization directly during the past 18 years.",
+  "yearOfEstablishment": "2001",
+  "regiseredAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "3-34-12, Aakruthi,  Church Road,, Subbaraopet,",
+      "Vayu Krupa Marg,Near Bhashyam School",
+      "Tadepalligudem",
+      "West Godavari",
+      "Andhra Pradesh",
+      "534101"
+    ]
+  }
+}

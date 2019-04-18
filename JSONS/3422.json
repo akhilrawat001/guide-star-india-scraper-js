@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "DR. ANGELI QWATRA",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3422",
+  "name": "PHILANTHROPE",
+  "primaryEmail": "info@philanthrope.in",
+  "website": "http://www.philanthrope.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919811110403"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "6, COMMUNITY CENTRE",
+      "EAST OF KAILASH",
+      "NEW DELHI",
+      "South Delhi",
+      "Delhi",
+      "110065"
+    ]
+  }
+}

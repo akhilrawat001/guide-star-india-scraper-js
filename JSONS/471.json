@@ -1,0 +1,34 @@
+{
+  "contacts": [
+    {
+      "name": "Sangeeta Agrawal (Dr)",
+      "email": "vvshubham@sancharnet.in",
+      "designation": "General Secretary",
+      "mobile": [
+        "91-621-2248178"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=471",
+  "name": "Shubham",
+  "primaryEmail": "vvshubham@sancharnet.in",
+  "website": "http://www.shubhamindia.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "916212250331",
+    "916212248178",
+    "916212250331"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "Ist Floor, Agrawal Bhawan",
+      "Jawahar Lal Road",
+      "Muzaffarpur",
+      "Bihar",
+      "842001"
+    ]
+  }
+}

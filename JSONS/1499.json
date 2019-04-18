@@ -1,0 +1,27 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1499",
+  "name": "Hope & Faith Foundation (NGO)",
+  "primaryEmail": "hope.afaith@gmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919650914160"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "1308",
+      "Gali - Guliyan, Dharampura,",
+      "Chandani Chowk",
+      "Central Delhi",
+      "Delhi",
+      "110006"
+    ]
+  }
+}

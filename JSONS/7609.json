@@ -1,0 +1,33 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7609",
+  "name": "NITYA SKILL & RURAL DEVELOPMENT COUNCIL",
+  "primaryEmail": "NSRDCI@GMAIL.COM",
+  "website": "www.nsrdc.org",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "+919818885691"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "101,H-28,Om Complex,Laxmi Nagar Delhi",
+      "1/50 Tirlok puri",
+      "Delhi",
+      "East Delhi",
+      "110092"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "101, H-28,Om Cpmplex/Laxmi nagar",
+      "Delhi",
+      "East Delhi",
+      "110092"
+    ]
+  }
+}

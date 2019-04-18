@@ -1,0 +1,27 @@
+{
+  "contacts": [
+    {
+      "name": "HA NAGAVENAMMA",
+      "email": "han.saissvs@gmail.com",
+      "designation": "GENERAL SECRETARY",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5754",
+  "name": "Sri Shathashrunga Vidya Samsthe",
+  "primaryEmail": "han.saissvs@gmail.com",
+  "telephone": [
+    "918497041714"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "Central Office: Sai Mandir Premises,",
+      "Behind Kamakshialya Police Station,Magadi Main Road",
+      "Bangalore Urban",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560058"
+    ]
+  }
+}

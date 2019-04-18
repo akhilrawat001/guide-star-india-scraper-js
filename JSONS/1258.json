@@ -1,0 +1,36 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1258",
+  "name": "Rural Health Care Foundation",
+  "primaryEmail": "rhcf2009@gmail.com",
+  "website": "http://www.ruralhealthcarefoundation.com/",
+  "organisationType": [
+    "Direct Service",
+    "Network"
+  ],
+  "telephone": [
+    "913340082981"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "34 Alexendra Court,",
+      "63 Chowringhee Road",
+      "Kolkata",
+      "West Bengal",
+      "700020"
+    ]
+  },
+  "briefDescription": "Rural Health Care Foundation(RHCF) is an NGO providing primary health care services to the underprivileged community residing in the densely populated remotest areas of rural India.  RHCF operates through a chain of primary health care unit spread across 4 districts of West Bengal, India Viz Nadia, Bardhaman, South 24 Parganas and North 24 Parganas.",
+  "yearOfEstablishment": "2009",
+  "regiseredAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "8B",
+      "Lindsey Street",
+      "Kolkata",
+      "West Bengal",
+      "700020"
+    ]
+  }
+}

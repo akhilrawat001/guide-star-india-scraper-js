@@ -1,0 +1,35 @@
+{
+  "contacts": [
+    {
+      "name": "Anita Aher",
+      "email": "priyadarshanig64@gmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    },
+    {
+      "name": "Anita Aher",
+      "email": "priyadarshanig64@gmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2746",
+  "name": "Priyadarshani Gramin and Adivasi Sevabhavi Sanstha",
+  "primaryEmail": "priyadarshanig64@gmail.com",
+  "telephone": [
+    "912425228007",
+    "912425229807",
+    "912425228007"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Deepraj Complex",
+      "New Nagar Road",
+      "Sangamner",
+      "Ahmednagar",
+      "Maharashtra",
+      "422605"
+    ]
+  }
+}

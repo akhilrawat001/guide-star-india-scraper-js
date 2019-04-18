@@ -1,0 +1,40 @@
+{
+  "contacts": [
+    {
+      "name": "Divya S Sarathy",
+      "email": "born2winsocialtrust2013@gmail.com",
+      "designation": "Chief Operations Officer",
+      "mobile": []
+    },
+    {
+      "name": "Divya S Sarathy",
+      "email": "born2winsocialtrust2013@gmail.com",
+      "designation": "Chief Operations Officer",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8655",
+  "name": "Born 2 Win (Social Welfare Trust)",
+  "primaryEmail": "born2winsocialtrust2013@gmail.com",
+  "website": "http://www.borntwowin.in/",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Intermediary",
+    "Support"
+  ],
+  "telephone": [
+    "919941887862",
+    "919444705250"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "#16/1A, Ground Floor, Venkateswara Apartments",
+      "Tank Square Street, Saidapet",
+      "Chennai",
+      "Tamil Nadu",
+      "600015"
+    ]
+  }
+}

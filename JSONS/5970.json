@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Rafique Ansari",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5970",
+  "name": "Rahee Foundation",
+  "primaryEmail": "rafique@raheefoundation.org",
+  "website": "www.raheefoundation.org",
+  "organisationType": [
+    "Direct Service",
+    "Intermediary"
+  ],
+  "telephone": [
+    "919773731709"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Room no:4, Plot no:8, Gate no:7, NCC, Malvani Malad (West)",
+      "NCC, malvani, Malad (West)",
+      "Malad (West) Mumbai",
+      "Mumbai",
+      "Maharashtra",
+      "400095"
+    ]
+  }
+}

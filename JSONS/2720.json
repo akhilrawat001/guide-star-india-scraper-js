@@ -1,0 +1,26 @@
+{
+  "contacts": [
+    {
+      "name": "Bholanath Mahato",
+      "email": "mfcapuru@gmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2720",
+  "name": "MANBHUM FARMER'S CLUB ASSOCIATION",
+  "primaryEmail": "mfcapuru@gmail.com",
+  "telephone": [
+    "919233979802"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Surya Sen Palli",
+      "West Lake Road",
+      "Purulia",
+      "West Bengal",
+      "723101"
+    ]
+  }
+}

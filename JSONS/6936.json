@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Mr.Ch. Srinivas",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6936",
+  "name": "OPEN ARMS CIVIL SOCIETY Join hands to help poor & physically challenged",
+  "primaryEmail": "openarms.civilsociety@mail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919700488399"
+  ],
+  "mainAddrress": {
+    "state": "Telangana",
+    "address": [
+      "7-2-1087/a/158",
+      "Raja Rajeshwari Nagar B. K. Guda",
+      "Hyderabad",
+      "Telangana",
+      "500038"
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Mercy Bhengraj",
+      "email": "mercy.bhengraj@yahoo.com",
+      "designation": "Authorized Managing trustee",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1590",
+  "name": "Dayasagar Foundation",
+  "primaryEmail": "mercy.bhengraj@yahoo.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919386801865"
+  ],
+  "mainAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "TORPA ROAD",
+      "KHUNTI",
+      "Ranchi",
+      "Jharkhand",
+      "835210"
+    ]
+  }
+}

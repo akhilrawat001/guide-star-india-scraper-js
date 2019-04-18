@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Ajay Kumar",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8679",
+  "name": "Sarvodya Kalyan Sansthan",
+  "primaryEmail": "ajay_bok@yahoo.co.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919431735408"
+  ],
+  "mainAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "Co-operative Colony Plot No.-413,",
+      "PO-Siwandih",
+      "Bokaro",
+      "Jharkhand",
+      "827012"
+    ]
+  }
+}

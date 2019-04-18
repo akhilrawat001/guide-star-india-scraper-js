@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Mr. Mohammed Vaseem",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6934",
+  "name": "PRATINIDHI VIKAS SEVA SANSTHAN",
+  "primaryEmail": "pratinidhivss@gmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making"
+  ],
+  "telephone": [
+    "919414732306"
+  ],
+  "mainAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "Infront Of Dargah,Near LIC Office",
+      "Near Lic Office",
+      "Kapasan",
+      "Chittorgarh",
+      "Rajasthan",
+      "312202"
+    ]
+  }
+}

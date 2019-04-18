@@ -1,0 +1,38 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8343",
+  "name": "SPACE Foundation (SPACE means extension in all direction)",
+  "primaryEmail": "spacefoundation2003@gmail.com",
+  "website": "www.karmayog.org/ngo/SPACE",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "918603564494"
+  ],
+  "mainAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "B-11/7, Navjeevan Complex",
+      "Near Vijaya Garden",
+      "Jamshedpur",
+      "East Singhbhum",
+      "Jharkhand",
+      "831017"
+    ]
+  },
+  "briefDescription": "Space Foundation is Located in Jamshedpur, Jharkhand.",
+  "yearOfEstablishment": "2003",
+  "regiseredAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "Village - Turi, P.O. Gitilata",
+      "Via -Sundernagar",
+      "Turi",
+      "East Singhbhum",
+      "Jharkhand",
+      "832107"
+    ]
+  }
+}

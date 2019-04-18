@@ -1,0 +1,36 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7963",
+  "name": "The Rising Star Charitable Trust",
+  "primaryEmail": "risingstartrust@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919923241118",
+    "919323484290"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "N A Damania,",
+      "6-C-11, Saptarshi, CHS, Opp.Divekar Hospital, Viva College,",
+      "Virar-West",
+      "Thane",
+      "Maharashtra",
+      "401303"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "C/O N A Damania,",
+      "6-C-11, Saptarshi, CHS, Opp.Divekar Hospital, Viva College,",
+      "Virar-West",
+      "Thane",
+      "Maharashtra",
+      "401303"
+    ]
+  }
+}

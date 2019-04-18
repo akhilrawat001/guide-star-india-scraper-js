@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Mr. Vijay Pandey",
+      "email": "bmclko@gmail.com",
+      "designation": "Managing Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4807",
+  "name": "Bhartiya Micro Credit",
+  "primaryEmail": "bmclko@gmail.com",
+  "website": "www.bmcindia.net.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "915222730975",
+    "915222730975"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "645A/57,Plot No.15,",
+      "Sector- I, Jankivihar, Jankipuram,",
+      "Lucknow",
+      "Uttar Pradesh",
+      "226021"
+    ]
+  }
+}

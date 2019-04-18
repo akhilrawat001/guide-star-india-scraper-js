@@ -1,0 +1,34 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=465",
+  "name": "SETU Charitable Trust",
+  "primaryEmail": "setutrust2012@gmaail.com",
+  "website": "http://www.giveindia.org/GetOrganisationProfile.aspx?ngoid=104",
+  "organisationType": [
+    "Grant-making"
+  ],
+  "telephone": [
+    "912222837215",
+    "912222852147"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "7/23, Grand Building",
+      "Arthur Bunder Road, Colaba",
+      "Mumbai",
+      "Maharashtra",
+      "400005"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "250, S S Bengali Municipal School Building",
+      "2nd Floor, Dr Babasaheb Jayakar Marg, (Thakurdwar Road), Girgaum,",
+      "Mumbai",
+      "Maharashtra",
+      "400002"
+    ]
+  }
+}

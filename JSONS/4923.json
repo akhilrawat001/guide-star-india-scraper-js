@@ -1,0 +1,24 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4923",
+  "name": "The Timbaktu Collective",
+  "primaryEmail": "timbaktu.info@gmail.com",
+  "website": "http://tc-ckp.blogspot.in/",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918559240335",
+    "919440686837"
+  ],
+  "mainAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "Chennekothapalli Village (post)",
+      "CK Palli",
+      "Anantapur",
+      "Andhra Pradesh",
+      "515101"
+    ]
+  }
+}

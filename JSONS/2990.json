@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Jeney Samuel",
+      "email": "nlpf_indiaministries@yahoo.co.in",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2990",
+  "name": "The New Life Pentecostal Fellowship (Bharat)",
+  "primaryEmail": "nlpf_indiaministries@yahoo.co.in",
+  "website": "www.nlpfministries.blogspot.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919987378170"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "D/18/35 Digala, L.T. Nagar",
+      "Dharavi Cross Road",
+      "Mumbai",
+      "Maharashtra",
+      "400017",
+      "AR P-3 (2010-2011).bmp"
+    ]
+  }
+}

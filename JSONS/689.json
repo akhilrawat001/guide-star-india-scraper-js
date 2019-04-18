@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "Munna Lal Rao",
+      "email": "",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=689",
+  "name": "Samuhik Vikas Sansthan",
+  "primaryEmail": "samuhikvikas@gmail.com",
+  "telephone": [
+    "911438224393",
+    "919413601148"
+  ],
+  "mainAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "Patel Road, Newai",
+      "Tonk",
+      "Rajasthan",
+      "304021"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "11, Durga Vihar",
+      "Durgapura",
+      "Jaipur",
+      "Rajasthan",
+      "302018"
+    ]
+  }
+}

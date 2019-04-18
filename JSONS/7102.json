@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "T. Ramakrishna",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7102",
+  "name": "NAVAJYOTHI YOUTH ASSOCIATION",
+  "primaryEmail": "navajyothi999@gmail.com",
+  "website": "navjyothingo.org",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919701725195"
+  ],
+  "mainAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "D.No. 2/76, Kalugotla Village",
+      "Veldurthy Mandal",
+      "Kurnool",
+      "Andhra Pradesh",
+      "518217"
+    ]
+  }
+}

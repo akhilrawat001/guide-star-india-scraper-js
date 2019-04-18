@@ -1,0 +1,46 @@
+{
+  "contacts": [
+    {
+      "name": "Dr. Rhuta Ashish",
+      "email": "rhuta.ashish@gmail.com",
+      "designation": "Volunteer",
+      "mobile": [
+        "91-9920085246"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6662",
+  "name": "PUBLIC HEALTH JUSTICE",
+  "primaryEmail": "NAMRATA@PUBLICHEALTHJUSTICE.COM",
+  "website": "WWW.PUBLICHEALTHJUSTICE.COM",
+  "organisationType": [
+    "Direct Service",
+    "Intermediary",
+    "Support"
+  ],
+  "telephone": [
+    "919821839887"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "A-306, RAMJI HOUSE, JAMBULWADI, DHOBITALAO",
+      "MUMBAI",
+      "Mumbai",
+      "Maharashtra",
+      "400002"
+    ]
+  },
+  "briefDescription": "About UsPublic Heath Justice is 12 A and 80 G certified NGO, registered as a Public Charitable Trust in 2012. The NGO was the brain child of mom and daughter duo, Uma and Namrata Bagaria. Mrs. Uma Bagaria, a lawyers with sociology in child development as her undergrad training and her daughter Dr. Namrata Bagaria, as medical daughter, with Master in Public Health from Harvard School of Public Health in Mother and Child Health, started this NGO and within a span of three years they have branches all over South Mumbai and Western Suburbs of Mumbai. Currently the trust does the following activities to serve the community: 1. Run a Step 1 Balwadi (preschool nursery) - this serves children from 3- 6 years old and focuses on education, nutrition and sanitation programs to have a healthy and happy early childhood. Currently, we run a Balwadis in New Dhobighat area of Colaba and Nargis Dutt Nagar, Bandra Reclamation. Our vision to have 100 Balwadis in Mumbai by 2025. 2. Train young girls as Balwadi assistants and hire them - Community participation is at the heart of making any program successful. This program not only helps in community participation but also in women empowerment through training and livelihood generation.3. Provide micronutrient supplements - This program is for pregnant mothers upto adolescent girls. The focus is to ensure a healthy child from birth and focus on the first 1000 days of child’s life. We provide micronutrient powder to be sprinkled and mixed in food along with normal meals. All children and their family members get this supplement.4. Conduct health camps - In order to provide health check-ups and increase awareness, we hold health camps such as eye check up, height and weight monitoring, blood pressure awareness camp from time to time to engage all age groups at the centre. 5. Sweepathon -  Annual Swachh Bharat Abhiyan (Clean India) campaign. We sweep the main road with the help of community workers and the aim is to create awareness within the community on sanitation, nutrition and education.",
+  "yearOfEstablishment": "2012",
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "31/33, DR MB VELKAR STREET, BAGARIA HOUSE, 3RD FLOOR",
+      "MUMBAI",
+      "Mumbai",
+      "Maharashtra",
+      "400002"
+    ]
+  }
+}

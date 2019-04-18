@@ -1,0 +1,27 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1302",
+  "name": "Boond A drop of help",
+  "primaryEmail": "boond_onhelp04@yahoo.co.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Intermediary",
+    "Network"
+  ],
+  "telephone": [
+    "916224266341",
+    "919386720909"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "House no 43",
+      "Road no 3,Shahi colony,",
+      "Hajipur",
+      "Vaishali",
+      "Bihar",
+      "844101"
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Susanta Kumar Sabata",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8119",
+  "name": "MAHAN SANGHA",
+  "primaryEmail": "mahansangh@gmail.com",
+  "website": "www.mahansangha.org",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919337669018"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "Hilpatana",
+      "2nd lane",
+      "Bramhapur",
+      "Ganjam",
+      "Odisha",
+      "760005"
+    ]
+  }
+}

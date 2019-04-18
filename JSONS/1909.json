@@ -1,0 +1,46 @@
+{
+  "contacts": [
+    {
+      "name": "Yashna Anand Singh",
+      "email": "yashna.singh@educategirls.ngo",
+      "designation": "Development Associate",
+      "mobile": [
+        "91-22-26303555"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1909",
+  "name": "Foundation to Educate Girls Globally",
+  "primaryEmail": "info.in@educategirls.ngo",
+  "website": "http://www.educategirls.ngo/",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "912226303555",
+    "912226303555"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Suite No. 201, Durolite House, New Link Road",
+      "Opp. Citi Mall, Andheri West",
+      "Mumbai",
+      "Maharashtra",
+      "400053"
+    ]
+  },
+  "briefDescription": "Established in 2007, Educate Girls (EG) is a non-governmental organization under Section 8 of the Indian Companies Act, 2013.EGs' program is focused on improving the Enrolment – Retention – Learning cycle of every child in the educationally backward districts in which it operates. Presently, as of FY 2018-19, we are present across 16 educationally backward districts of Rajasthan and Madhya Pradesh. Since inception in 2007, we have enrolled over 3.4 lac unique out-of-school girls, improved learning outcomes of 8.7 lac children in numeracy and literacy. We have reached out to over 67 lac beneficiaries since 2007.",
+  "yearOfEstablishment": "2007",
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "50/8, First Floor, Tolstoy Lane",
+      "Janpath",
+      "New Delhi",
+      "Delhi",
+      "110001",
+      "Educate Girls_FCRA - Renewal.PDF"
+    ]
+  }
+}

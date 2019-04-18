@@ -1,0 +1,24 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6631",
+  "name": "Peoples Education Society, Buldana",
+  "primaryEmail": "pesbuldana@rediffmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Intermediary"
+  ],
+  "telephone": [
+    "9404869909"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Shri Shivaji Vidyalaya Road",
+      "Near Nav Jeevan Hospital, Suwarn Nagar",
+      "Buldana",
+      "Amravati",
+      "Maharashtra",
+      "443001"
+    ]
+  }
+}

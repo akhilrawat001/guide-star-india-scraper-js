@@ -1,0 +1,35 @@
+{
+  "contacts": [
+    {
+      "name": "Dr Amit Thadhani",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "9820304802"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8960",
+  "name": "PRIME EDUCATION HEALTH LEARNING SERVICES",
+  "primaryEmail": "anjana@pehl.co.in",
+  "website": "http://pehlindia.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919820304802"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "B28/1 Maitri Park,",
+      "Sion Trombay Road, Chembur",
+      "Mumbai",
+      "Mumbai Suburban",
+      "Maharashtra",
+      "400071"
+    ]
+  },
+  "briefDescription": "We implement Educational, Vocational and Counselling Programs for children in special circumstances and/or with special needs. Beneficiaries 300 children in state-run shelter homes.We do Child Abuse Awareness and Prevention workshops in Schools and shelter homes. Beneficiaries - 3000 children, 200 teachers in 2015-16.We do Medical Relief in calamities and have worked in Uttarakhand, Nepal and Chennai during natural calamities in these areas. Beneficiaries 10,000+.",
+  "yearOfEstablishment": "2011"
+}

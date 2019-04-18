@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "K.Ramarao",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5166",
+  "name": "Training for Rural Economic and Education(TREE)",
+  "primaryEmail": "tree.ramarao@gmail.com",
+  "website": "www",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919010273189"
+  ],
+  "mainAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "42-1-199/17, Goginenivari street, Daravarikunta, Eastkammapalem",
+      "Daravarikunta",
+      "Ongole",
+      "Prakasam",
+      "Andhra Pradesh",
+      "523001"
+    ]
+  }
+}

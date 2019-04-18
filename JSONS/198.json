@@ -1,0 +1,45 @@
+{
+  "contacts": [
+    {
+      "name": "D Chandra Sekhar",
+      "email": "",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=198",
+  "name": "Madras Dyslexia Association",
+  "primaryEmail": "deecee.d@gmail.com",
+  "website": "www.mdachennai.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "914428158735",
+    "914428157908",
+    "919444088437",
+    "914428158264"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "No 1, Ist Street",
+      "Opp.Anjumon School, Vijayaraghava Chari Road, T.Nagar",
+      "Chennai",
+      "Tamil Nadu",
+      "600017"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "No 15, Samba Sivam Street",
+      "T. Nagar",
+      "Chennai",
+      "Tamil Nadu",
+      "600017",
+      "AP_BankStat_98.PDF"
+    ]
+  }
+}

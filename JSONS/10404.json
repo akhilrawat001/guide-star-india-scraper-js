@@ -1,0 +1,34 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10404",
+  "name": "GOOD UNIVERSE",
+  "primaryEmail": "contact.gooduniverse@gmail.com",
+  "website": "http://www.gooduniverse.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919861123242",
+    "918341180851"
+  ],
+  "mainAddrress": {
+    "state": "Telangana",
+    "address": [
+      "1-69, Maseedbanda, Serilingampally",
+      "Near Siva temple",
+      "Hyderabad",
+      "Telangana",
+      "500084"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Telangana",
+    "address": [
+      "1-69, Maseedbanda, Serilingampally",
+      "Rangareddy",
+      "Hyderabad",
+      "Telangana",
+      "500084"
+    ]
+  }
+}

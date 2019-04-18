@@ -1,0 +1,50 @@
+{
+  "contacts": [
+    {
+      "name": "Suchita Pradhan",
+      "email": "vinodkpradhan@gmail.com",
+      "designation": "Manager",
+      "mobile": [
+        "91-542-2507217"
+      ]
+    },
+    {
+      "name": "Suchita Pradhan",
+      "email": "vinodkpradhan@gmail.com",
+      "designation": "Manager",
+      "mobile": [
+        "91-542-2507217"
+      ]
+    },
+    {
+      "name": "Suchita Pradhan",
+      "email": "vinodkpradhan@gmail.com",
+      "designation": "Manager",
+      "mobile": [
+        "91-542-2507217"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1934",
+  "name": "Jan Sashaktikaran Samajik Sanchar Samiti",
+  "primaryEmail": "jssss.vns@gmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "915422507217",
+    "918687785431"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "H.N. S5/48 M-1 Tagore Colony,",
+      "Orderly Bazar",
+      "Varanasi",
+      "Uttar Pradesh",
+      "221002"
+    ]
+  }
+}

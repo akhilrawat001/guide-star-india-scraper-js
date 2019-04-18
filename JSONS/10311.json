@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Jaya Mahesh Prathipati",
+      "email": "",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10311",
+  "name": "WISDOM GLOBAL FOUNDATION",
+  "primaryEmail": "wisdomglobal9@gmail.com",
+  "website": "http://www.wisdomgf.com",
+  "telephone": [
+    "917207717718",
+    "919542710527"
+  ],
+  "mainAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "5-46",
+      "Mukkapatinagar",
+      "Nandigama",
+      "Krishna",
+      "Andhra Pradesh",
+      "521185"
+    ]
+  },
+  "briefDescription": "Our mission is to save lives, defeat poverty and achieve social justice.",
+  "yearOfEstablishment": "2018"
+}

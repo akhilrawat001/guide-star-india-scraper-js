@@ -1,0 +1,48 @@
+{
+  "contacts": [
+    {
+      "name": "v Lingesh kumar",
+      "email": "linkumarvenkat@gmail.com",
+      "designation": "Secretary",
+      "mobile": [
+        "91-9042752715"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6991",
+  "name": "MOTTO CHILDREN'S NEW WAY (NO MORE CHILD LABOURS AND BEGGARS FOREVER)",
+  "primaryEmail": "mottochild@gmail.com",
+  "website": "mottochilds.org",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919042752715",
+    "918667369138",
+    "918015573334"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "No:1,Motto Childrens Home,Sri Chelliamman Nagar,",
+      "Anupampattu,",
+      "Ponneri taluk",
+      "Tiruvallur",
+      "Tamil Nadu",
+      "601203"
+    ]
+  },
+  "briefDescription": "MOTTO Children's New Way is an orphanage located in Thiruvalur District, Ponneri taluk. As a registered charity, it was established for the care of the begging and street children.We mainly focus on violence against street children and how can we stop and reduce it. In this project the children from the age group of 0 to 18 years are picked from the street and they are protected in the home.Founded in 2008, and registered under Indian Trust Act 1982, MOTTO Children's New Way is a non-profit, children organization providing a specialized service to the needs of children in our nation. We are working for the begging and street children..",
+  "yearOfEstablishment": "2008",
+  "regiseredAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "No-12/34,Bharathi Puram,",
+      "6th Cross Street,Shenoy Nagar",
+      "Chennai",
+      "Tamil Nadu",
+      "600030"
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "ZAFAR ALAM",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "9058207770"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6206",
+  "name": "Chiragh Society",
+  "primaryEmail": "chiragesociety@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919058207770"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "Near Nagla Bari chouraha,sheetal khan road,Firozabad",
+      "Firozabad",
+      "Uttar Pradesh",
+      "283203"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1846",
+  "name": "Coodu Trust",
+  "primaryEmail": "coodutrustindia@gmail.com",
+  "website": "coodutrust.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network"
+  ],
+  "telephone": [
+    "914512461362",
+    "919443061123"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "H.83",
+      "R.M,Colony",
+      "Dindigul",
+      "Tamil Nadu",
+      "624001"
+    ]
+  }
+}

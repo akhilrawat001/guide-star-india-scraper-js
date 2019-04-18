@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Gautam Gauri",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "9204056412"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3442",
+  "name": "Alok Charitable Trust",
+  "primaryEmail": "gautamgauri@alokcharitabletrust.org",
+  "website": "www.alokcharitabletrust.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919204056412",
+    "919810159919"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "B-7/1A, Vasant Vihar",
+      "New Delhi",
+      "South Delhi",
+      "Delhi",
+      "110057"
+    ]
+  }
+}

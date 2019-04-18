@@ -1,0 +1,27 @@
+{
+  "contacts": [
+    {
+      "name": "Kotraiah Tkm",
+      "email": "",
+      "designation": "Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2973",
+  "name": "Sri Sudharana Rural Development Organisation",
+  "primaryEmail": "ssrdo@rediffmail.com",
+  "telephone": [
+    "918026671669"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "Care of Niketan Consultants # 583/A/37",
+      "3rd Cross 10th Main Banashankari",
+      "Stage II Block Srinivas Nagar",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "500050"
+    ]
+  }
+}

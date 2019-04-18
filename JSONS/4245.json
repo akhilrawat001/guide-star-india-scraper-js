@@ -1,0 +1,40 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4245",
+  "name": "International Center for Research on Women",
+  "primaryEmail": "rkumar@icrw.org",
+  "website": "www.icrw.org",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "911146643333",
+    "911124654216",
+    "911124654217",
+    "911146643333"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "C – 59, South Ext, Part II New Delhi,",
+      "New Delhi",
+      "South Delhi",
+      "Delhi",
+      "110049"
+    ]
+  },
+  "briefDescription": "ICRW's mission is to empower women, advance gender equality and fight poverty in the developing world. To accomplish this, ICRW works with partners to conduct empirical research, build capacity and advocate for evidence-based, practical ways to change policies and programs. At ICRW, Asia Regional Office (ARO) under the leadership of Regional Director Dr. Ravi Verma, over 33 staff are currently implementing or have recently completed projects in 11 states of India and in Bangladesh, Cambodia, Vietnam, Indonesia, China, Nepal, Sri Lanka and Thailand. ARO staff includes public health specialists, demographers, agricultural economists, policy analysts, anthropologists, monitoring and evaluation (M&E) specialists, and other subject matter expert",
+  "yearOfEstablishment": "2002",
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "C-139",
+      "Defence Colony",
+      "New Delhi",
+      "South Delhi",
+      "Delhi",
+      "110024"
+    ]
+  }
+}

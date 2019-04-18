@@ -1,0 +1,36 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10433",
+  "name": "INDIGENOUS AND FRONTIER TECHNOLOGY RESEARCH CENTRE (IFTR)",
+  "primaryEmail": "info@iftr.in",
+  "website": "www.iftr.in",
+  "organisationType": [
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919840656575"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "G1, Shah Flats,",
+      "5, 1st street, Thillai Ganga Nagar, Nanganallur",
+      "chennai",
+      "Chennai",
+      "Tamil Nadu",
+      "600062"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "G1, Shah Flats,",
+      "5, 1st street, Thillai Ganga Nagar, Nanganallur",
+      "Chennai",
+      "Tamil Nadu",
+      "600062"
+    ]
+  }
+}

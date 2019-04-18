@@ -1,0 +1,37 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5424",
+  "name": "BALA SUNDARI FOUNDATION",
+  "primaryEmail": "balasundarifoundation@gmail.com",
+  "website": "www.balasundarifoundation.com",
+  "organisationType": [
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "0919891171856"
+  ],
+  "mainAddrress": {
+    "state": "Uttarakhand",
+    "address": [
+      "Village: Koat, Patti: Hindaw,",
+      "P.O.: Bazialgaon, Tehshil & Block: Ghanshali",
+      "Tehri Garhwal",
+      "Uttarakhand",
+      "249155"
+    ]
+  },
+  "briefDescription": "SOCIAL SERVICES",
+  "yearOfEstablishment": "2013",
+  "regiseredAddrress": {
+    "state": "Uttarakhand",
+    "address": [
+      "VILLAGE: KOT, PATTI: HINDAW",
+      "P.O.: BAZIALGAON, TEHSHIL & BLOCK: GHANSHALI",
+      "TEHRI GARHWAL",
+      "Tehri Garhwal",
+      "Uttarakhand",
+      "249155"
+    ]
+  }
+}

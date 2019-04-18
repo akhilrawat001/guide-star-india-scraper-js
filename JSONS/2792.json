@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Lt. Col. B. B. Sharan (Retd.)",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2792",
+  "name": "NYAYA BHOOMI",
+  "primaryEmail": "info@nyayabhoomi.org.in",
+  "website": "nyayabhoomi.org.in",
+  "organisationType": [
+    "Advocacy & Campaigning"
+  ],
+  "telephone": [
+    "9101126034237",
+    "9101126034237"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "288, Narmada Apartment",
+      "Alaknanda",
+      "New Delhi",
+      "South Delhi",
+      "Delhi",
+      "110019"
+    ]
+  }
+}

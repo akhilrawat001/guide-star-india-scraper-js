@@ -1,0 +1,50 @@
+{
+  "contacts": [
+    {
+      "name": "Mr. Nitin Ronghang",
+      "email": "ronghangnitin@gmail.com",
+      "designation": "Asst. Secretary",
+      "mobile": [
+        "91-9706619886"
+      ]
+    },
+    {
+      "name": "Mr. Nitin Ronghang",
+      "email": "ronghangnitin@gmail.com",
+      "designation": "Asst. Secretary",
+      "mobile": [
+        "91-9706619886"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6253",
+  "name": "Integrated Tribal Shining Society (ITSS)",
+  "primaryEmail": "itss.org@gmail.com",
+  "website": "http://www.itssngo.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "918133038996",
+    "918638217356"
+  ],
+  "mainAddrress": {
+    "state": "Assam",
+    "address": [
+      "Dhenudhara Pather (Chotrong Guri), Near Opposite Gohpur Petrol Pump",
+      "Gohpur Town",
+      "P.O.Gohpur",
+      "Sonitpur",
+      "Assam",
+      "784168",
+      "Regd_Certificate.PDF"
+    ]
+  },
+  "briefDescription": "ITSS, NGO has been established to work for the upliftment of the people in general and with a due attention towards the weaker section including Scheduled Caste, Scheduled Tribes, Backward Classes, other Underprivileged sections of the society and the like in particular irrespective of their age, religion, caste, creed, place of birth etc. Since inception, the organization has been dedicating all its effort for the welfare of the people in the field of Education, Health, Culture, Re-habilitation works, Vocational Training, Welfare service for the aged restitutes. We appreciated the efforts of the members and volunteers of the organization and expressed satisfaction over the progress to the organization.",
+  "yearOfEstablishment": "2009"
+}

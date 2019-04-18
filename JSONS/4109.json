@@ -1,0 +1,27 @@
+{
+  "contacts": [
+    {
+      "name": "Prashant G Babhulkar",
+      "email": "nayang01@gmail.com",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4109",
+  "name": "Karmayogi Bahuddeshiya Sanstha",
+  "primaryEmail": "nayang01@gmail.com",
+  "telephone": [
+    "917229234365",
+    "919922649474"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Care of Prashant G Babulkar",
+      "Nearby Purushottam Maharaj Mandir Road, Bhatpura, Katol",
+      "Nagpur",
+      "Maharashtra",
+      "441302"
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "contacts": [
+    {
+      "name": "Rachana Shah",
+      "email": "rachana@mahilahsg.org",
+      "designation": "Consultant",
+      "mobile": [
+        "91-79-26560536"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6735",
+  "name": "GUJARAT MAHILA HOUSING SEWA TRUST",
+  "primaryEmail": "bijalb@mahilahsg.org",
+  "website": "www.mahilahousingtrust.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "917965446208"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "701-702, Sakar IV,",
+      "Nr. Sanyas Ashram, Opp. M.J. Library, Elis bridge,",
+      "AHMEDABAD",
+      "Ahmedabad",
+      "Gujarat",
+      "380006"
+    ]
+  },
+  "briefDescription": "Mahila Housing SEWA Trust (MHT) is an autonomous organization promoted by the Self Employed Women's Association (SEWA) in 1994 with the vision to realize the right to shelter and dignity for all.Founded with the mission of building sound housing and living environments for poor women in the informal sector, MHT's programs address basic civic and housing infrastructure needs, including water, sanitation, drainage, solid waste management, roads, electricity/energy, low-income housing and secured land tenure. MHT also facilitates access to information and financial, legal and technical services in housing, water and sanitation, energy, housing finance, climate change, urban planning and construction related livelihood sectors.",
+  "yearOfEstablishment": "1994",
+  "regiseredAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "401-402, Akashganga Complex",
+      "Gujarat College Road",
+      "Ahmedabad",
+      "Gujarat",
+      "380006"
+    ]
+  }
+}

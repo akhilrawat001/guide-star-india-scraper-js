@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Yashwant Naval Patil",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8370",
+  "name": "Deopur Vidhayak Samiti",
+  "primaryEmail": "ncaabapatil@rediffmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919422776547"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "2, Shri Gurudatta Nagar,",
+      "Near Panchayat Samiti, Wadibhokar Road, Deopur,",
+      "Dhule",
+      "Maharashtra",
+      "424002"
+    ]
+  }
+}

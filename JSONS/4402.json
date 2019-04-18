@@ -1,0 +1,34 @@
+{
+  "contacts": [
+    {
+      "name": "Dr. Hitt Sharma",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "26850538",
+        "7507519128"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4402",
+  "name": "Help Life",
+  "primaryEmail": "educatepune@gmail.com",
+  "website": "www.helplifeinternational.org",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "912026850538",
+    "912026850538"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "108, sunshree flower appt, NIBM road, Kondhwa, Pune-48",
+      "Landmark-RIMS international school",
+      "Pune",
+      "Maharashtra",
+      "411048"
+    ]
+  }
+}

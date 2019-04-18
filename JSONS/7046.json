@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Ms. Savita Devi",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7046",
+  "name": "Sarvahara Seva Sansthan",
+  "primaryEmail": "sssbihar10@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919431670833"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "Jagdeo Nagar",
+      "Jagdeo Path,Lane no. - 2",
+      "Anaith Ara",
+      "Bhojpur",
+      "Bihar",
+      "802302"
+    ]
+  }
+}

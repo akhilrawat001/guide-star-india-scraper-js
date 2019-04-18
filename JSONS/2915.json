@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Shastri Swami Narayancharandas",
+      "email": "Vrajbhoomi@msn.com",
+      "designation": "Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2915",
+  "name": "Shri Vrujbhoomi Foundation",
+  "primaryEmail": "Vrajbhoomi@msn.com",
+  "website": "http://www.vrajbhoomi.org",
+  "telephone": [
+    "912692650530",
+    "912692651731"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "Care of Vrajbhoomi Ashram",
+      "NH- 8, Mogar",
+      "Mogar",
+      "Anand",
+      "Gujarat",
+      "388340"
+    ]
+  }
+}

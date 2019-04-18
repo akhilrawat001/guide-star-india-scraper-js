@@ -1,0 +1,24 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7512",
+  "name": "MAHAN SEVA SANSTHAN",
+  "primaryEmail": "mahanseva@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "918003094455",
+    "912942434736"
+  ],
+  "mainAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "A-1 Krishna Complex,",
+      "Hotel Trident Road, Malla Talai Chouraha",
+      "Udaipur",
+      "Rajasthan",
+      "313001"
+    ]
+  }
+}

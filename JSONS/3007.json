@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Dr.Subathra Muthukumaran",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "25322684"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3007",
+  "name": "LAKSHMI PAIN AND PALLIATIVE CARE TRUST",
+  "primaryEmail": "lakshmipaincare@gmail.com",
+  "website": "http://www.lakshmitrust.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "914425322684",
+    "914425322684"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "'Koko House', No.9",
+      "Harleys Road, Kilpauk",
+      "Chennai",
+      "Tamil Nadu",
+      "600010"
+    ]
+  }
+}

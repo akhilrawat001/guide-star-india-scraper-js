@@ -1,0 +1,34 @@
+{
+  "contacts": [
+    {
+      "name": "Uma Shanker Menaria",
+      "email": "Sahyog_udr@sancharnet.in",
+      "designation": "Accountant Cum Office incharge",
+      "mobile": [
+        "91-294-2451802"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=443",
+  "name": "Sahyog Sansthan",
+  "primaryEmail": "sahyog_udr@sancharnet.in",
+  "website": "http://www.giveindia.org/GetOrganisationProfile.aspx?ngoid=52",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "912942451802",
+    "912942451802",
+    "912942451802"
+  ],
+  "mainAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "54-A, Old Fatehpura",
+      "Near Mangal Shree Garden, Bedla Road",
+      "Udaipur",
+      "Rajasthan",
+      "313004"
+    ]
+  }
+}

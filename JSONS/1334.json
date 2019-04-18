@@ -1,0 +1,38 @@
+{
+  "contacts": [
+    {
+      "name": "Amujao",
+      "email": "secytwirds@gmail.com",
+      "designation": "President",
+      "mobile": []
+    },
+    {
+      "name": "Amujao",
+      "email": "secytwirds@gmail.com",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1334",
+  "name": "Type Writing Institution and Rural Development Service",
+  "primaryEmail": "secytwirds@gmail.com",
+  "website": "www.twirds.co.nr",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Support"
+  ],
+  "telephone": [
+    "919436021215"
+  ],
+  "mainAddrress": {
+    "state": "Manipur",
+    "address": [
+      "Thoubal Bazar",
+      "Thoubal",
+      "Manipur",
+      "795138"
+    ]
+  }
+}

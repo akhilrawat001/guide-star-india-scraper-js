@@ -1,0 +1,40 @@
+{
+  "contacts": [
+    {
+      "name": "Vijayakumar R",
+      "email": "vijayjones@gmail.com",
+      "designation": "COO",
+      "mobile": []
+    },
+    {
+      "name": "Vijayakumar R",
+      "email": "vijayjones@gmail.com",
+      "designation": "COO",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6544",
+  "name": "AGNI FOUNDATION",
+  "primaryEmail": "foundationagni@gmail.com",
+  "website": "www.agnifoundation.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "914424333414",
+    "919445024409",
+    "919445024084"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "No.24/46,Third Floor,Agni Business Center",
+      "K.B.Dasan Road, Alwarpet",
+      "Chennai",
+      "Tamil Nadu",
+      "600018"
+    ]
+  },
+  "briefDescription": "Agni Foundation is a non-profit and non-religious organization that has been established with a single motive to serve those who are truly in dire straits and bridge the gaps between them, and the help that they rightly deserve. In today’s world there are charitable organizations such as orphanages, homes for the aged, schools for special children etc., that have, due to lack of resources, not been able to keep up with the times. The Agni Foundation has been set up to help fix this problem. Our aim is to identify these needy organizations and literally update them by creating a digital presence for them such as a website with integrated social media.",
+  "yearOfEstablishment": "2014"
+}

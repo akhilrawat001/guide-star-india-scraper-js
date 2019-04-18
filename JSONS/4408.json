@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "MOHAMMEDUL HAQUE",
+      "email": "ckbs115@gmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4408",
+  "name": "CHILARAI KRISHI BIKASH SAMITY",
+  "primaryEmail": "ckbs115@gmail.com",
+  "website": "http://www.chilaraisamity.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service"
+  ],
+  "telephone": [
+    "913662234007",
+    "913662234007"
+  ],
+  "mainAddrress": {
+    "state": "Assam",
+    "address": [
+      "WARD NO-2",
+      "OPP TO LICI OFFICE",
+      "DHUBRI",
+      "Dhubri",
+      "Assam",
+      "783301"
+    ]
+  }
+}

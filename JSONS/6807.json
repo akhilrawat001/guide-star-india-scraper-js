@@ -1,0 +1,26 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6807",
+  "name": "Health Education and Development Society",
+  "primaryEmail": "headsrs@gmail.com",
+  "website": "www.headsindia.org.in",
+  "organisationType": [
+    "Direct Service",
+    "Intermediary",
+    "Support"
+  ],
+  "telephone": [
+    "919443564986"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "Nallur, Nallur - Post",
+      "Nangavaram - Via",
+      "Kulithalai. Tk",
+      "Karur",
+      "Tamil Nadu",
+      "639110"
+    ]
+  }
+}

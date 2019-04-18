@@ -1,0 +1,49 @@
+{
+  "contacts": [
+    {
+      "name": "mohit kumar",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "20322655",
+        "9869686350"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5299",
+  "name": "GURUJI VIJ RAJESH TRUST",
+  "primaryEmail": "gurujivijrajeshtrust@gmail.com",
+  "website": "www.guruji.tel",
+  "organisationType": [
+    "Direct Service",
+    "Grant-making",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919869686350",
+    "912220322655",
+    "912228553095"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "2O4 shreeraj mandir chs, tirupati balaji temple rd, sai petrol pump",
+      "bfr gita ngr ph2, Mira road East,",
+      "Thane",
+      "Maharashtra",
+      "401107"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "SHOP 7, A , GAUMUKHDHAM CHS, SHIVAR GARDEN",
+      "MIRA BHAYANDER ROAD , MIRA ROAD EAST",
+      "MIRA BHAYANDER",
+      "Thane",
+      "Maharashtra",
+      "401107"
+    ]
+  }
+}

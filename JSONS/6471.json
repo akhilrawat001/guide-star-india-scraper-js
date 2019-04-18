@@ -1,0 +1,38 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6471",
+  "name": "SHIKSHA",
+  "primaryEmail": "shiksha@shikshatrust.org",
+  "website": "http://www.shikshatrust.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919650730860",
+    "911244225698"
+  ],
+  "mainAddrress": {
+    "state": "Haryana",
+    "address": [
+      "124 Mohyal Colony",
+      "Sector 40",
+      "Gurgaon",
+      "Gurugram",
+      "Haryana",
+      "122002"
+    ]
+  },
+  "briefDescription": "SHIKSHA was founded on October 31, 2002, and provides free education and vocational training to underprivileged children and youth in Delhi NCR. We train our students in the skills required to put them on the right track for employment and provide an enabling environment to bring out the best in them. We receive no aid from the Central/State Government.SHIKSHA operates three Educatsional Centres that follow the CBSE curriculum and cater to over 1,000 students, besides conducting Adult Literacy and conversational English courses in Delhi NCR. In addition to a completely free education we provide our students with free uniforms, books, reading materials, and a mid-day meal.",
+  "yearOfEstablishment": "2002",
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "C-503 Som Vihar",
+      "RK Puram",
+      "New Delhi",
+      "South West Delhi",
+      "Delhi",
+      "110022"
+    ]
+  }
+}

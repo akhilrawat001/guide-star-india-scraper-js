@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Ghule Balasaheb Mahadev",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7965",
+  "name": "Shri Adinath Sevabhavi Va Vikas Sanstha",
+  "primaryEmail": "bmghule@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "917588097910"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Vilege- Shekate Tal. Pathardi, Dist Ahamednagar",
+      "Tal. Pathardi, Dist Ahamednagar",
+      "Shekate",
+      "Ahmednagar",
+      "Maharashtra",
+      "414113"
+    ]
+  }
+}

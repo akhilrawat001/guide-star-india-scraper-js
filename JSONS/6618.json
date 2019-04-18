@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Gaurav Panwar",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6618",
+  "name": "Cancer Care Trust",
+  "primaryEmail": "help@cancaretrust.org",
+  "website": "http://www.cancaretrust.org",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "911206888171",
+    "911206888171"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "E-37,1st Floor, New Ashok Nagar, New Delhi-110096",
+      "Opp.Dashmesh Public School",
+      "New Delhi",
+      "East Delhi",
+      "Delhi",
+      "110096"
+    ]
+  }
+}

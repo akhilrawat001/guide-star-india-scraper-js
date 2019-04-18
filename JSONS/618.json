@@ -1,0 +1,37 @@
+{
+  "contacts": [
+    {
+      "name": "C Ravikumar (Dr)",
+      "email": "",
+      "designation": "Executive Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=618",
+  "name": "Outreach",
+  "primaryEmail": "ed.outreachindia@gmail.com",
+  "website": "www.outreachindia.org",
+  "telephone": [
+    "918025545365",
+    "918025307532",
+    "918025307533",
+    "918025545365"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "No 109, Coles Road",
+      "Frazer Town",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560005"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "Karnataka"
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "name": "Prabhakar S. Shinde",
+      "email": "dnyandevedu@yahoo.co.in",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4986",
+  "name": "Dnyandev Shikshan Prasarak Mandal",
+  "primaryEmail": "dnyandevedu@yahoo.co.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919503566155"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "At.Po. Hader, Ta. Omerga,",
+      "Osmanabad",
+      "Maharashtra",
+      "413606"
+    ]
+  },
+  "briefDescription": "Dnyandev Shikshan Prasarak Mandal is located at Osmanabad, in Maharashtra.",
+  "yearOfEstablishment": "1997",
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "At.Po. Kader, Ta. Omerga,",
+      "Osmanabad",
+      "Maharashtra",
+      "413606"
+    ]
+  }
+}

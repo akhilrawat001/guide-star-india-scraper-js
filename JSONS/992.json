@@ -1,0 +1,38 @@
+{
+  "contacts": [
+    {
+      "name": "Suresh Gohil",
+      "email": "harirajamreli@gmail.com",
+      "designation": "Secretory",
+      "mobile": [
+        "91-2792-223525"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=992",
+  "name": "Hariraj Charitable Trust",
+  "primaryEmail": "harirajamreli@gmail.com",
+  "website": "http://hariraj.org/",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service"
+  ],
+  "telephone": [
+    "912792223525",
+    "912792240703",
+    "912792223525",
+    "919427280028"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "26-Omnagar(3), Behind GIDC",
+      "Hanumanpara road",
+      "Amreli",
+      "Gujarat",
+      "365601"
+    ]
+  },
+  "briefDescription": "Hariraj Charitable Trust was founded in 1993 by Nayanbhai Gandhi. Hariraj Charitable Trust is a registered charitable trust under the Bombay public trust act 1950 (Registration No: E/638/Amreli). Trust deed and audit report of the trust are available in any time on demand.",
+  "yearOfEstablishment": "1993"
+}

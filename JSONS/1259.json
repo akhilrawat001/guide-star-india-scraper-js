@@ -1,0 +1,55 @@
+{
+  "contacts": [
+    {
+      "name": "G.Kalaiselvi",
+      "email": "",
+      "designation": "Joint secretary",
+      "mobile": []
+    },
+    {
+      "name": "G.Kalaiselvi",
+      "email": "",
+      "designation": "Joint secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1259",
+  "name": "Society for People Education and Economic Development (SPEED)",
+  "primaryEmail": "speedindia_org@yahoo.co.in",
+  "website": "www.speedindia.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "914142258146",
+    "914142258132",
+    "914142258146"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "15 S.K.S. Nagar,",
+      "Kurinjipadi",
+      "Cuddalore",
+      "Tamil Nadu",
+      "607302",
+      "AP_TelBill_1163.PDF"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "72, Pottaveli, Adoor",
+      "Agaram Post",
+      "Adoor Agaram",
+      "Cuddalore",
+      "Tamil Nadu",
+      "607302",
+      "AP_TelBill_1163.PDF"
+    ]
+  }
+}

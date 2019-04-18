@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "M J Joseph",
+      "email": "udavum@vsnl.com",
+      "designation": "Development Coordinator",
+      "mobile": [
+        "91-44-26216321",
+        "91-9940188011"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=676",
+  "name": "Udavum Karangal",
+  "primaryEmail": "udavum@vsnl.com",
+  "website": "www.udavumkarangal.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "914426260818",
+    "914426222161",
+    "914426267624",
+    "914426260818"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "460, NSK Nagar",
+      "Arumbakkam",
+      "Chennai",
+      "Tamil Nadu",
+      "600106"
+    ]
+  }
+}

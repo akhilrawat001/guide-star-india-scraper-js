@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Yeshwant Pawar",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8233",
+  "name": "JAI KALI SANSKRUTIK MANDAL KANNAD",
+  "primaryEmail": "yeshwant.pawar906@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919326222122"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Sethi Complex ,",
+      "Hiwerkheda Road,Kannad, Tal.Kannad.",
+      "Kannad",
+      "Aurangabad",
+      "Maharashtra",
+      "431103"
+    ]
+  }
+}

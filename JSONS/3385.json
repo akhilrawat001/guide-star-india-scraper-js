@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "AMBADAS.WAMANRAO.SHELKE",
+      "email": "ajinkyaedu@yahoo.in",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3385",
+  "name": "AJINKYA SHIKSHAN SANSTHA",
+  "primaryEmail": "ajinkyaedu@yahoo.in",
+  "website": "www.ajinkyngo.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "917217212579085",
+    "917217212579085"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "20,netaji colony,ram mohan nagar,v.m.v,amravati",
+      "pathyapustakalaya,amravati",
+      "Amravati",
+      "Maharashtra",
+      "444604"
+    ]
+  }
+}

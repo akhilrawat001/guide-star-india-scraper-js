@@ -1,0 +1,45 @@
+{
+  "contacts": [
+    {
+      "name": "Tina Dabhi",
+      "email": "tdabhi@pipaltreeventures.com",
+      "designation": "Group Manager (Finanance)",
+      "mobile": [
+        "91-9870061071"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4376",
+  "name": "PIPAL TREE FOUNDATION",
+  "primaryEmail": "sparulekar@pipaltreeventures.com",
+  "website": "http://www.pipaltreefoundation.com/",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "912226868400"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Office No - 701/702/703, Seventh Floor, Corporate Annexe, Next to Udhyog Bhawan, Sonawala Road, Goregaon East, Mumbai - 400063",
+      "Sonawala Road, Goregaon East, Mumbai - 400063.",
+      "Mumbai",
+      "Maharashtra",
+      "400063"
+    ]
+  },
+  "briefDescription": "Pipal Tree Foundation a registered non  for profit development organization work at  a national level currently benefiting more than 10,000 underprivileged youth from Hyderabad, Bihar, Odisha, Rajasthan, Uttar Pradesh and west Bengal, through our initiatives in vocational education, healthcare ,sustainable livelihood, women empowerment in these  states of India. Our mission is to make a difference in the lives of the underprivileged youth and community.We are partnered with National Skill Development Corporation (NSDC) to train and create gainful employment for 100,000 youths over next 10 years. The NSDC was set up as part of a national skill development mission to fulfill the growing need in India for skilled manpower across sectors and narrow the existing gap between the demand and supply of skills.We believes in the life-force of partnership and participation with community, organization, civic bodies, corporate, educational and development institutions as well as government to strengthen its cause  and  upgrade  the  situation  of  underprivileged youths  in  India.  The entire management and operations of Foundation is in agreement with its set norms of sustainability, scalability, accountability, transparency, credibility and effectively.",
+  "yearOfEstablishment": "2011",
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "A/202,Radium Apartment, Aarey Road, Goregaon East Mumbai 400 063",
+      "Aarey Road, Goregaon East",
+      "Goregaon East",
+      "Mumbai Suburban",
+      "Maharashtra",
+      "400063"
+    ]
+  }
+}

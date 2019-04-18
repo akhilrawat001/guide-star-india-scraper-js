@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "V.Gangi Reddy",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6799",
+  "name": "Rural Reconstruction and Development Society",
+  "primaryEmail": "rrds111@gmail.com",
+  "website": "www.rrds.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service"
+  ],
+  "telephone": [
+    "918624222589",
+    "918624222589"
+  ],
+  "mainAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "Marutinagar,Nellatur,Gudur rural, Nelllore dist,Andhra Pradesh",
+      "Same as above",
+      "Nellatur Post, Gudur",
+      "Sri Potti Sriramulu Nellore",
+      "Andhra Pradesh",
+      "524102"
+    ]
+  }
+}

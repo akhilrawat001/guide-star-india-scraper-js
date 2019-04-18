@@ -1,0 +1,43 @@
+{
+  "contacts": [
+    {
+      "name": "G A Swamy",
+      "email": "sardsorg@gmail.com",
+      "designation": "Additional Project Director",
+      "mobile": [
+        "91-9912340222"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=476",
+  "name": "Social Activities for Rural Development Society",
+  "primaryEmail": "sardsorg@gmail.com",
+  "website": "http://www.sards.org/about_us.html",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918592242867",
+    "918592242867"
+  ],
+  "mainAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "Jana Chaitanya Nilayam, Tangutur",
+      "Tangutur",
+      "Prakasam",
+      "Andhra Pradesh",
+      "523274"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "Janachaitanya Nilayam, Kondepi Road",
+      "Tangutur",
+      "Prakasam",
+      "Andhra Pradesh",
+      "523274"
+    ]
+  }
+}

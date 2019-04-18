@@ -1,0 +1,39 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2676",
+  "name": "CAREWELL FOUNDATION",
+  "primaryEmail": "carewellfoundation@gmail.com",
+  "website": "www.facebook.com/carewellfoundationtrustvellore",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "91417194872272",
+    "919487227224"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "# 4/147, Kumaran Complex, Melmoil Road",
+      "KV Kuppam",
+      "Katpadi Taluk",
+      "Vellore",
+      "Tamil Nadu",
+      "632201"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "4/147, Kumaran Complex, Melmoil Road,",
+      "KV Kuppam",
+      "Katpadi Taluk",
+      "Vellore",
+      "Tamil Nadu",
+      "632201"
+    ]
+  }
+}

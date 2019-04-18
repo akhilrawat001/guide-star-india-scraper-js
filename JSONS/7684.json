@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Mr.Sumer Chand",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7684",
+  "name": "INDO VIRTU",
+  "primaryEmail": "sumer.natya21@gmail.com",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "India",
+    "9996947005"
+  ],
+  "mainAddrress": {
+    "state": "Haryana",
+    "address": [
+      "Vill.P.O. Udana,",
+      "Village Udana",
+      "Karnal",
+      "Haryana",
+      "132117"
+    ]
+  }
+}

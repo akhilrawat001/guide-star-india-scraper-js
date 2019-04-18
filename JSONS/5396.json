@@ -1,0 +1,38 @@
+{
+  "contacts": [
+    {
+      "name": "Habibullah Khan",
+      "email": "contact@jansewango.org",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5396",
+  "name": "Jansewa Avam Sanskritik Vikas Sansthan",
+  "primaryEmail": "contact@jansewango.org",
+  "website": "http://www.jansewango.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919889017172"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "1708,FF,Lekhraj Dollar,Indira Nagar,Lucknow-226016",
+      "Lucknow",
+      "Uttar Pradesh",
+      "226016"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "not provided",
+      "Lucknow",
+      "Uttar Pradesh",
+      "226016"
+    ]
+  }
+}

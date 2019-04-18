@@ -1,0 +1,38 @@
+{
+  "contacts": [
+    {
+      "name": "Ms.Malliga",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "8489000127"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6124",
+  "name": "Rural Education and Environment Development Service",
+  "primaryEmail": "jreeds9@hotmail.com",
+  "website": "Dharapuram Community College,Pollachi Main Road, Panjapatty, Thalavaipattinam, Post",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "+918489000127"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "18/160,Dharapuram Community College building",
+      "Pollachi Main Road, Panjapatty,",
+      "Dharapuram",
+      "Erode",
+      "Tamil Nadu",
+      "638672"
+    ]
+  }
+}

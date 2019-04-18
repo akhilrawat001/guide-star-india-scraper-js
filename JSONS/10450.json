@@ -1,0 +1,47 @@
+{
+  "contacts": [
+    {
+      "name": "Viren Arora",
+      "email": "viren.arora@merakifoundation.in",
+      "designation": "Product Manager - Business Development",
+      "mobile": [
+        "91-9910017663"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10450",
+  "name": "FEDERATION OF DEMOCRATIC VOICES",
+  "primaryEmail": "hello@merakifoundation.in",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919910017663",
+    "919811200310"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "Flat no. C 203, DPS Housing Society",
+      "Plot A 100/2, Sector 51",
+      "Noida",
+      "Gautam Buddha Nagar",
+      "Uttar Pradesh",
+      "201307"
+    ]
+  },
+  "briefDescription": "Meraki is addressing India's education crisis through a radical lens. We believe that educating children starts with parents. India has over 74m parents from low income households who are not equipped to support their children in their education needs. We work on building the long-term capacity of such parents to enable them to fulfill their child's potential. Through our unique content and technology-enabled intervention structure, we help parents to take tangible steps towards the developmental needs of their children. We believe that such an intervention is a big step towards the children having a better chance of success adjusting in formal schools and improved education outcomes.",
+  "yearOfEstablishment": "2017",
+  "regiseredAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "Flat No.  C 203, DPS Housing Society",
+      "Plot A 100/2,  Sector 51",
+      "Noida",
+      "Gautam Buddha Nagar",
+      "Uttar Pradesh",
+      "201307"
+    ]
+  }
+}

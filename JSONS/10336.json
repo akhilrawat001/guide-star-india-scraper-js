@@ -1,0 +1,36 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10336",
+  "name": "AMAN HORIZON",
+  "primaryEmail": "bmathilda@rediffmail.com",
+  "website": "no website yet",
+  "organisationType": [
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "918447318647"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "750/25, ground floor",
+      "DDA flats, Madangir",
+      "New Delhi",
+      "Delhi",
+      "110062"
+    ]
+  },
+  "briefDescription": "Aman Horizon is located in New Delhi ,India.",
+  "yearOfEstablishment": "2010",
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "67 B, First floor, Bharat Nagar",
+      "New Delhi",
+      "Delhi",
+      "110075"
+    ]
+  }
+}

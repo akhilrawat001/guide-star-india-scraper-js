@@ -1,0 +1,35 @@
+{
+  "contacts": [
+    {
+      "name": "Gautam Pandey",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "9820960007"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4871",
+  "name": "ARYA JAN KALYAN SHIKSHA SAMITI",
+  "primaryEmail": "gautampandey@hotmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919820960007"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "58, Old Tambaku Bldg.,3rd Floor, Room no-34,",
+      "Khadilkar road",
+      "mumbai",
+      "Mumbai",
+      "Maharashtra",
+      "400004"
+    ]
+  },
+  "briefDescription": "Arya Jan Kalyan Shiksha Samiti is engaged in educating the rural children in the remote area of Uttar Pradesh(Barna Village). The organization's main focus was to educate the girl child but due to absence of any school in that area and on the request of the parents we started admitting boys in school. Currently we have 510 students coming from around 15 villages and it can be increased if provided with conveyance facilities. The villages in that area is lacking in all the basic facilities like schools, colleges, transportation, medical facilities etc. Please come up to make the basic facilities available to the villagers and the young generation.",
+  "yearOfEstablishment": "2003"
+}

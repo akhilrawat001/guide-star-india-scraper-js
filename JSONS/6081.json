@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Mandar Dattatray Taru",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6081",
+  "name": "Lata Education Society",
+  "primaryEmail": "kppatilarvind@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919448890450"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "Lata Education society , near ice factory NH 9, Shivnagar colony",
+      "Humnabad",
+      "Bidar",
+      "Karnataka",
+      "585330"
+    ]
+  }
+}

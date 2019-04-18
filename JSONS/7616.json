@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Akata Singh",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7616",
+  "name": "People's Action for Rural Advancement and Sustainability",
+  "primaryEmail": "parasfoundation@gmail.com",
+  "website": "www.parasfoundation.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919415969551"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "Jaiprabha gram, Bhawaniyapur, Block- Sohawal,",
+      "Post- Pirkhauli,",
+      "Bhawaniyapur",
+      "Faizabad",
+      "Uttar Pradesh",
+      "224126"
+    ]
+  },
+  "briefDescription": "We are working for Development of farmers livelihood by introducing new technologies and helping in water conservation. Formed 10 Narisangh and acknowledging thrm to government schemes. Educating 30 drop out gitls and providing quality education.",
+  "yearOfEstablishment": "2005"
+}

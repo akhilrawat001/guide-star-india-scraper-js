@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Subarna Chakraborty",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8379",
+  "name": "Berhampore Dr. Shyama Prasad Mookherjee Seba Sangha",
+  "primaryEmail": "bjpsubarna@gmail.com",
+  "organisationType": [
+    "Intermediary",
+    "Support"
+  ],
+  "telephone": [
+    "919732606950"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "9no Manindranagar Cossimbazar",
+      "Lalsarakmore Cossimbazar",
+      "Berhampore",
+      "Murshidabad",
+      "West Bengal",
+      "742102"
+    ]
+  },
+  "briefDescription": "Berhampore Dr. Shyama Prasad Mookherjee Seba Sangha is Located in Berhampore, West Bengal.",
+  "yearOfEstablishment": "2015"
+}

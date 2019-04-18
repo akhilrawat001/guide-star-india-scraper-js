@@ -1,0 +1,27 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=156",
+  "name": "Cross Blood Foundation",
+  "primaryEmail": "crossbloodfoundation@gmail.com",
+  "website": "www.crossbloodfoundation.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919790833330"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "5/23 Thaima Nagar, Thathankuppam",
+      "Villivakkam",
+      "Chennai",
+      "Tamil Nadu",
+      "600049"
+    ]
+  }
+}

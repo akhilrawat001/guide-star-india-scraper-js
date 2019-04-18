@@ -1,0 +1,40 @@
+{
+  "contacts": [
+    {
+      "name": "Aparna Ramchander",
+      "email": "aparna@specialsources.com",
+      "designation": "Senior Manager - Marketing and Projects",
+      "mobile": []
+    },
+    {
+      "name": "Aparna Ramchander",
+      "email": "aparna@specialsources.com",
+      "designation": "Senior Manager - Marketing and Projects",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10339",
+  "name": "SPECIAL SOURCES FOUNDATION",
+  "primaryEmail": "rashmi@specialsources.com",
+  "website": "https://www.specialsources.com",
+  "organisationType": [
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "917397555123"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "Old no 48 New no 17",
+      "R Block 15th Street, Anna Nagar",
+      "Chennai",
+      "Tamil Nadu",
+      "600040"
+    ]
+  },
+  "briefDescription": "If you live with special needs or have a loved-one who does, you know the frustration of trying to find contact information for the specialists and resources you require. Special Sources is an online platform developed by the Special Sources Foundation and is designed to connect people living with special needs (and their guardians) to resources that aim to improve the quality of their lives. The purpose of the platform is to help parents/ guardians make informed decisions on care options best suited to their location, unique requirement and circumstances.",
+  "yearOfEstablishment": "2016"
+}

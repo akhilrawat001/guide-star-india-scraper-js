@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Sidikbhai H Chavda",
+      "email": "",
+      "designation": "Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2909",
+  "name": "Jeewandeep Health Education and Charitable Trust",
+  "primaryEmail": "jeevandeep_trust@rediffmail.com",
+  "telephone": [
+    "912795210407",
+    "912795221535",
+    "912795210407"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "At. Kodinar,",
+      "2/12, Rajnagar Society, Chorwadi Mandir Road, Nr.By Pass",
+      "Kodinar",
+      "Junagadh",
+      "Gujarat",
+      "362720"
+    ]
+  }
+}

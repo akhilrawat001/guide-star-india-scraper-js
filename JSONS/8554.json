@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Sunil Prasad",
+      "email": "parhit_sewa@yahoo.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8554",
+  "name": "Parhit Sewa",
+  "primaryEmail": "parhit_sewa@yahoo.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919431443201"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "AT+PO- SARHABADA",
+      "PS- KIZARSARAI",
+      "Gaya",
+      "Bihar",
+      "824239"
+    ]
+  }
+}

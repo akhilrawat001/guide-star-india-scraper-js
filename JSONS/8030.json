@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Kazi Sadiqoddin",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8030",
+  "name": "MASTER WELFARE ASSOCIATION RAJURA",
+  "primaryEmail": "ngorajura@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919960405690"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "177, jawahar nagar,",
+      "tq-rajura,",
+      "distt-chandrapur,",
+      "Chandrapur",
+      "Maharashtra",
+      "442905"
+    ]
+  }
+}

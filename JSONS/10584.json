@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Anoop Gupta",
+      "email": "",
+      "designation": "Chairman",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10584",
+  "name": "Shyama Memorial Welfare Society",
+  "primaryEmail": "contact@icareindia.org",
+  "website": "www.icareindia.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "915224000490"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "3/445, Vivek Khand, Gomti Nagar",
+      "Lucknow",
+      "Uttar Pradesh",
+      "226010"
+    ]
+  },
+  "briefDescription": "icareindia a social non-government organization of repute has been running a programme ANKURAM in Uttar Pradesh, aimed at transforming government primary schools by involving local community and youth with active support from local district administration. State of affairs at these schools is well known and has been a matter of concern.Since 1992, a campus is delivery quality convent education upto grade-7 to children from dis-advantaged section at very nominal fee. In year 2014, starting with just one Government Primary School (inter-generational learning centre) it has now taken the shape of a mission within a short span of time scaling up to more than 100 such learning centres, benefiting more than ten thousand disadvantaged children.",
+  "yearOfEstablishment": "1992"
+}

@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "D.Roshan Kumar",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6863",
+  "name": "Social Educational and Economic Development Society (SEEDS)",
+  "primaryEmail": "seedsorg@yahoo.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919848090642"
+  ],
+  "mainAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "Door no. : 4-16-25/3, Bandlamudi Complex, Near Andhra Bank (Srinagar Colony Branch),",
+      "Amaravathi Road",
+      "Guntur",
+      "Andhra Pradesh",
+      "522002"
+    ]
+  }
+}

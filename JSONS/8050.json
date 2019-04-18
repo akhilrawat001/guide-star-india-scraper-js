@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "H.K.Sawant",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8050",
+  "name": "Shri Gayatridevi Shaikshanik Bahuuddeshiy Sanstha",
+  "primaryEmail": "sgsbs.dhule@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "9730001069"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "16, Sundaram, Professor Colony, Deopur, Dhule",
+      "Professor Colony",
+      "Deopur",
+      "Dhule",
+      "Maharashtra",
+      "424002"
+    ]
+  }
+}

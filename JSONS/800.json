@@ -1,0 +1,51 @@
+{
+  "contacts": [
+    {
+      "name": "Rumi Malik",
+      "email": "bigtech@nasscomfoundation.org",
+      "designation": "Vice President",
+      "mobile": []
+    },
+    {
+      "name": "Rumi Malik",
+      "email": "bigtech@nasscomfoundation.org",
+      "designation": "Vice President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=800",
+  "name": "NASSCOM Foundation",
+  "primaryEmail": "info@nasscomfoundation.org",
+  "website": "www.nasscomfoundation.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Grant-making",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "912228328535",
+    "911164782655"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Ground Floor, Office # 14-15",
+      "Samruddhi Venture Park, Central MIDC Road, Andheri East",
+      "Mumbai",
+      "Maharashtra",
+      "400093"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "A1 -125 Third Floor",
+      "Safdarjung Enclave Opposite Ambience Public School",
+      "New Delhi",
+      "Delhi",
+      "110029"
+    ]
+  }
+}

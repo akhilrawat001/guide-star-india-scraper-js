@@ -1,0 +1,29 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8430",
+  "name": "MIMAANSA",
+  "primaryEmail": "poojaa@mimaansa.org",
+  "website": "http://www.mimaansa.org",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919819697933",
+    "912221713061",
+    "919920372489"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "2A/601, Siddhachal phase 1,",
+      "Nr. Vasant Vihar High School, Pokhran Road 2,",
+      "Thane West",
+      "Thane",
+      "Maharashtra",
+      "400610"
+    ]
+  },
+  "briefDescription": "Mimaansa works for children with Learning Disabilities studying in the under resourced municipal schools enabling them learn. Mimaansa works towards capacity building of municipal schools to better accommodate students with 'Learning Disabilities' in the mainstream classroom.",
+  "yearOfEstablishment": "2012"
+}

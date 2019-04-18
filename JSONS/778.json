@@ -1,0 +1,38 @@
+{
+  "contacts": [
+    {
+      "name": "Charu Bahri",
+      "email": "",
+      "designation": "Manager – Projects & Information Systems",
+      "mobile": []
+    },
+    {
+      "name": "Charu Bahri",
+      "email": "",
+      "designation": "Manager – Projects & Information Systems",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=778",
+  "name": "Global Hospital & Research Centre",
+  "primaryEmail": "ghrcabu@gmail.com",
+  "website": "http://www.ghrc-abu.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "912974238347",
+    "912974238570",
+    "912974238347"
+  ],
+  "mainAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "Delwara Road",
+      "Mount Abu",
+      "Sirohi",
+      "Rajasthan",
+      "307501"
+    ]
+  }
+}

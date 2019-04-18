@@ -1,0 +1,42 @@
+{
+  "contacts": [
+    {
+      "name": "SUSANTA KUMAR PANDA",
+      "email": "",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5272",
+  "name": "SOCIETY FOR HEALTHY ENVIRONMENT AND HEALTH CARE",
+  "primaryEmail": "susantapanda.pkd@gmail.com",
+  "organisationType": [
+    "Grant-making",
+    "Network"
+  ],
+  "telephone": [
+    "916815223253",
+    "916815223253"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "INDIRA NAGAR, PARALAKHEMUNDI",
+      "PARALAKHEMUNDI",
+      "Gajapati",
+      "Odisha",
+      "761200"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Odisha",
+    "address": [
+      "INDIRA NAGAR, PARALAKHEMUNDI",
+      "near juice fectory",
+      "PARALAKHEMUNDI",
+      "Gajapati",
+      "Odisha",
+      "761200"
+    ]
+  }
+}

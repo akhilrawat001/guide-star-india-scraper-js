@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "PANKAJ BAGHEL",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5541",
+  "name": "NAVODAYA COMPUTER SAKSHARTA MISSION TRUST",
+  "primaryEmail": "contact@ncsm.in",
+  "website": "www.navodayaindia.in , www.ncsm.in",
+  "organisationType": [
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "0919462967201",
+    "919828130143"
+  ],
+  "mainAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "3 kha 4 sector 3",
+      "VIGYAN NAGAR",
+      "KOTA",
+      "Kota",
+      "Rajasthan",
+      "324005"
+    ]
+  },
+  "briefDescription": "Navodaya Computer Saksharta Mission (NCSM) IT Education is mission to provide vocational computer education to each and every Indian, who is above 10 years of age and at last 10th pass. The main aim of the NCSM is to Promote IT. IT Education is to promote interactive learning and creativity in science and information technology through imaginative and enjoyable experience and to contribute the mission to entire area development computer literacy programme. Lots of people of different age's groups were benefited by getting the basis and advanced computer knowledge at NCSM IT Education.NCSM IT Education society is providing free computer education to individuals, schools, colleges, computer coaching centers and Regd. Organizations",
+  "yearOfEstablishment": "2011"
+}

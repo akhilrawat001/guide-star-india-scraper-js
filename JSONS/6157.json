@@ -1,0 +1,45 @@
+{
+  "contacts": [
+    {
+      "name": "Pranab Kumar Chakraborty",
+      "email": "zonalwelfarecouncil@gmail.com",
+      "designation": "Secretary",
+      "mobile": [
+        "91-9831878241"
+      ]
+    },
+    {
+      "name": "Pranab Kumar Chakraborty",
+      "email": "zonalwelfarecouncil@gmail.com",
+      "designation": "Secretary",
+      "mobile": [
+        "91-9831878241"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6157",
+  "name": "Zonal Welfare Council",
+  "primaryEmail": "zonalwelfarecouncil@gmail.com",
+  "website": "www.zonalwelfarecouncil.org.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service"
+  ],
+  "telephone": [
+    "919831878241",
+    "919748650034"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Amtala,Singhirmore (Dakshin-Kanyanagar) PO:Kanyanagar -ND ROAD",
+      "PS:Bishnupur, Dist:South24Parganas WestBengal,In ,743398",
+      "Amtala,Singhirmore",
+      "South 24 Parganas",
+      "West Bengal",
+      "743398"
+    ]
+  },
+  "briefDescription": "In 1990, the formation of ZWC was initiated by a band of dedicated youth on the basis of their social commitments wanted to play an organised role in sharing peoples development. This led to establishment of an office in a cottage in Joyrampur village of Bishnupur Block - I&II. They started working with the people of 20 villages of Diamond Harbour Block-II and Kanganberia in the district 24 Parganas (South) of West Bengal.Mission - To Help Poor & Needy people of India",
+  "yearOfEstablishment": "1990"
+}

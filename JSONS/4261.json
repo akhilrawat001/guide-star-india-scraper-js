@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "HASAN MOHD",
+      "email": "utopianschool.nios@rediffmail.com",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4261",
+  "name": "MEWAT EDUCATIONAL ORGANISATION",
+  "primaryEmail": "utopianschool.nios@rediffmail.com",
+  "website": "www.utopianschool.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919991114500"
+  ],
+  "mainAddrress": {
+    "state": "Haryana",
+    "address": [
+      "BISRU ROAD PUNHANA DISTT MEWAT NUH",
+      "PUNHANA",
+      "Mewat",
+      "Haryana",
+      "122508"
+    ]
+  }
+}

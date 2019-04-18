@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Mayank Bapna",
+      "email": "",
+      "designation": "Managing Trustee",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=693",
+  "name": "Dreams",
+  "primaryEmail": "dreamsmails@gmail.com",
+  "website": "www.dreamssite.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Intermediary"
+  ],
+  "telephone": [
+    "919099021343"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "14, Kashyap Flats",
+      "Behind Jain Temple, Near Nehru Nagar Cross Roads",
+      "Amabawadi",
+      "Ahmedabad",
+      "Gujarat",
+      "380015"
+    ]
+  }
+}

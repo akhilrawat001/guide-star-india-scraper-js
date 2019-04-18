@@ -1,0 +1,50 @@
+{
+  "contacts": [
+    {
+      "name": "Mayur Pateria",
+      "email": "mayur@hi5youthfoundation.com",
+      "designation": "Manager - CSR & Partner Programs",
+      "mobile": []
+    },
+    {
+      "name": "Mayur Pateria",
+      "email": "mayur@hi5youthfoundation.com",
+      "designation": "Manager - CSR & Partner Programs",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10720",
+  "name": "Hi5 Youth Foundation",
+  "primaryEmail": "info@hi5youthfoundation.com",
+  "website": "https://hi5youthfoundation.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "912228575711"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Wing B2 - Unit 204, Kanakia Boomerang",
+      "Chandivali Farm Road, Andheri (E)",
+      "Mumbai",
+      "Mumbai Suburban",
+      "Maharashtra",
+      "400072"
+    ]
+  },
+  "briefDescription": "Hi5 Youth Foundation [Hi 5] runs a high quality, four-year, multi-level basketball coaching program for underprivileged children called “Hope thru Hoops” – providing children an alternate pathway to succeeding in life. We provide children from marginalized section an opportunity to strive for excellence and develop character, confidence & courage, 90% of our children have experienced winning moments and developed instinct to make their lives better. Currently, Hi5 coaches over 1400 children, half of them being girls, at 14 centres in Mumbai (10 BMC schools, 2 slum area centres and 2 residential tribal/orphanage school) - making it one of the largest year-round grassroots basketball development program run by a single NGO.",
+  "yearOfEstablishment": "2015",
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Flat No. 1301, Tower I, Odyssey",
+      "Heranadani Gardens, Powai",
+      "Mumbai",
+      "Mumbai Suburban",
+      "Maharashtra",
+      "400076"
+    ]
+  }
+}

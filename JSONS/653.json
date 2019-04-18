@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "A N Meenakshee",
+      "email": "",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=653",
+  "name": "Imayam Social Welfare Association",
+  "primaryEmail": "imayamcovai@gmail.com",
+  "website": "www.imayamcoimbatore.org",
+  "telephone": [
+    "914222531621",
+    "914222537637"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "No-3, Anna Nagar",
+      "1st Street",
+      "Ganapathy",
+      "Coimbatore",
+      "Tamil Nadu",
+      "641006"
+    ]
+  }
+}

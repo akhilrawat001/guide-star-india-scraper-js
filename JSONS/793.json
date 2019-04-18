@@ -1,0 +1,24 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=793",
+  "name": "Bharat Integrated Social Welfare Agency (BISWA)",
+  "primaryEmail": "swacha@gmail.com",
+  "website": "www.biswa.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "916636451237",
+    "919437056453",
+    "916632533597"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "At: Danipali, Po : Budharaja",
+      "Sambalpur",
+      "Odisha",
+      "768004"
+    ]
+  }
+}

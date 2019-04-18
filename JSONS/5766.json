@@ -1,0 +1,26 @@
+{
+  "contacts": [
+    {
+      "name": "Ayyapparaj",
+      "email": "mindraja@gmail.com",
+      "designation": "Chairman",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5766",
+  "name": "The Mind Research Foundation",
+  "primaryEmail": "mindraja@gmail.com",
+  "telephone": [
+    "914274043995",
+    "914274043995"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "289, Vasantham Nagar",
+      "Salem",
+      "Tamil Nadu",
+      "636004"
+    ]
+  }
+}

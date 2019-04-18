@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Dr.R. K. Pandey",
+      "email": "arogya.pandey@gmail.com",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6634",
+  "name": "Arogya Educational & Health Foundation",
+  "primaryEmail": "arogya.pandey@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919431320547"
+  ],
+  "mainAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "\"Shivani Sadan , Rampujan Nagar ,",
+      "Katrasbaz",
+      "Dhanbad",
+      "Jharkhand",
+      "828114"
+    ]
+  }
+}

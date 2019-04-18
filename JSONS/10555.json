@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Rajabhau Sopan Chintare",
+      "email": "",
+      "designation": "Chairman",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10555",
+  "name": "DR BABASAHEB AMBEDKAR BAHUUDDESHIYA ASSOCIATION",
+  "primaryEmail": "babango358@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "917720985820"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "At Rajapur Post Basmath",
+      "Tal Basmath",
+      "Hingoli",
+      "Maharashtra",
+      "431512"
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Chitranshu Tewari",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4355",
+  "name": "Green Brigade",
+  "primaryEmail": "chitranshutewari@greenbrigade.net",
+  "website": "www.greenbrigade.net",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919910920493"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "# 39/2",
+      "Shakti Nagar",
+      "New Delhi",
+      "North Delhi",
+      "Delhi",
+      "110007"
+    ]
+  }
+}

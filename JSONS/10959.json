@@ -1,0 +1,23 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10959",
+  "name": "Manav Vikas Bahuudeshiya Gramin Sewa Sanstha",
+  "primaryEmail": "manav.vikas@yahoo.com",
+  "website": "http://www.manavvikasfoundation.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919960388888"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Care of Shri Nityanand Dairy, Shop.No.2, Pawade Complex,Duttawadi,",
+      "Duttawadi, Amravati Road",
+      "Nagpur",
+      "Maharashtra",
+      "440023"
+    ]
+  }
+}

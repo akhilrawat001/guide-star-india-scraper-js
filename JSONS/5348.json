@@ -1,0 +1,38 @@
+{
+  "contacts": [
+    {
+      "name": "Dr.M.Palit",
+      "email": "drmp.tatazoo@rediffmail.com",
+      "designation": "Deputy Director",
+      "mobile": [
+        "91-657-6508011",
+        "91-9279041666"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5348",
+  "name": "Tata Steel Zoological Society",
+  "primaryEmail": "tatasteelzoo-cza@nic.in",
+  "website": "http://www.tatazoo.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "916576508011",
+    "916572234600",
+    "916576508011"
+  ],
+  "mainAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "Tata Steel Zoological Park",
+      "Jubilee Park",
+      "Jamshedpur",
+      "East Singhbhum",
+      "Jharkhand",
+      "831001"
+    ]
+  },
+  "briefDescription": "Tata Steel Limited as its corporate responsibility towards preservation of environment, forests and wildlife in the steel city of Jamshedpur and to provide awareness to the citizens here on both endemic and exotic faunal diversity established the Tata Steel Zoological Society in 1991. The Society is registered under Societies Registration Act, 21 of 1860 in the state of Jharkhand. The society has also been declared as a ‘Charitable Institution’ under section 12A/AA of the Income Tax Act, 1961. The principal aim of the society is to manage, run, and maintain the Zoological Park called Tata Steel Zoological Park (Jamshedpur Zoo) which would be a place for awareness & education of the inhabitants of Jamshedpur and surrounding areas; research;",
+  "yearOfEstablishment": "1991"
+}

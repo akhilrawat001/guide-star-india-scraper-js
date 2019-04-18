@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Ananda Narayan Dunde",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8620",
+  "name": "ASHOKA BAHUUDDESHIYA SEWABHAVI SANSTHA",
+  "primaryEmail": "ashokabss2010@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919823502798"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "At Kiroda Post Golegaon Pk Tq Loha",
+      "Bhayyasaheb Smrak Near Bhimgad Kandhar Tq Kandhar",
+      "Loha",
+      "Nanded",
+      "Maharashtra",
+      "431708"
+    ]
+  }
+}

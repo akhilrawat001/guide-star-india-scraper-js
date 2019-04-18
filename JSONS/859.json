@@ -1,0 +1,37 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=859",
+  "name": "R. G.  Social Welfare Trust",
+  "primaryEmail": "rgswt@hotmail.com",
+  "website": "www.rgswt.in",
+  "organisationType": [
+    "Direct Service",
+    "Grant-making",
+    "Support"
+  ],
+  "telephone": [
+    "916122206200",
+    "916122210763",
+    "916122206200",
+    "919431074202"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "Behind Punjab and Sindh Bank, Dakbungkow Crossing Near Narayan Palace",
+      "Fraser Road",
+      "Patna",
+      "Bihar",
+      "800001"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Bihar",
+    "address": [
+      "House  No. 17, Near Old Kali Temple, Gumti No. 12",
+      "Bhagalpur",
+      "Bihar",
+      "812001"
+    ]
+  }
+}

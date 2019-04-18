@@ -1,0 +1,32 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7386",
+  "name": "RAMDEEN ASHRAM",
+  "primaryEmail": "ramdinashramngo@gmail.com",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "919155309204"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "SHYAM VINAY KR.SINGH",
+      "AT PARSONI GOPI",
+      "Sheohar",
+      "Bihar",
+      "843334"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Bihar",
+    "address": [
+      "C/O SHYAM VINAY KR.SINGH",
+      "AT PARSONI GOPI",
+      "Sheohar",
+      "Bihar",
+      "843334"
+    ]
+  }
+}

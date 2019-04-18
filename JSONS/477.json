@@ -1,0 +1,35 @@
+{
+  "contacts": [
+    {
+      "name": "M Anbu",
+      "email": "seedtrust_1985@yahoo.co.in",
+      "designation": "Managing Trustee",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=477",
+  "name": "Social Education and Economic Development Trust (SEED TRUST)",
+  "primaryEmail": "seedtrust_1985@yahoo.co.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "914179329939",
+    "914179329939"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "Pachal village, Post. Tirupattur",
+      "Vellore",
+      "Tamil Nadu",
+      "635601"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "Tamil Nadu"
+    ]
+  }
+}

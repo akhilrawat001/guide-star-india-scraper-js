@@ -1,0 +1,27 @@
+{
+  "contacts": [
+    {
+      "name": "Joseph K Antony",
+      "email": "joseantonyncs@yahoo.co.in",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2670",
+  "name": "Ability AIDS India International",
+  "primaryEmail": "aaii1992@yahoo.com",
+  "telephone": [
+    "914712431805",
+    "919633313673"
+  ],
+  "mainAddrress": {
+    "state": "Kerala",
+    "address": [
+      "8B, Windsor Mansions,",
+      "Kuravankonam, Kowdiar P.O",
+      "Thiruvananthapuram",
+      "Kerala",
+      "695003"
+    ]
+  }
+}

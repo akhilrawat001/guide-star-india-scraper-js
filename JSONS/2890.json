@@ -1,0 +1,27 @@
+{
+  "contacts": [
+    {
+      "name": "Kalpana Trivedi",
+      "email": "shakati_mahila@yahoo.com",
+      "designation": "Chairman",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2890",
+  "name": "Shakti Mahila Jagruti Trust",
+  "primaryEmail": "shakati_mahila@yahoo.com",
+  "telephone": [
+    "912762250817",
+    "912762250817"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "MAHESANA Kacho Madh",
+      "Pilaji Ganj, Nr. Natraj Hotel",
+      "Mehsana",
+      "Gujarat",
+      "384001"
+    ]
+  }
+}

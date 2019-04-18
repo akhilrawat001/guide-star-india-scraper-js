@@ -1,0 +1,24 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7250",
+  "name": "PRAGATI EDUCATIONAL ACADEMY",
+  "primaryEmail": "pragatieduacademy@rediffmail.com",
+  "website": "www.peajharkhand.org.in",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "919470166671"
+  ],
+  "mainAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "Vill- Jhinjhri(Pokhar Toli),",
+      "Po.-Korambi, Via- Itki,",
+      "Mandar",
+      "Ranchi",
+      "Jharkhand",
+      "835301"
+    ]
+  }
+}

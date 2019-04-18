@@ -1,0 +1,25 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6131",
+  "name": "Santipur Educational Cultural And Health Organisation",
+  "primaryEmail": "santipur.echo@rediffmail.com",
+  "website": "www.santipurecho.org",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "918348046057"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "3, Nirmalendu Lahiri Street",
+      "9/1, Kalla Para Lane",
+      "Santipur",
+      "Nadia",
+      "West Bengal",
+      "741404"
+    ]
+  }
+}

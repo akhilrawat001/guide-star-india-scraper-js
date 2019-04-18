@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Subhash Fakira Dhuldhule",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8166",
+  "name": "Peoples Bahuuddeshiya Gramvikas Seva Pratisthan Pedgaon",
+  "primaryEmail": "subhash_dhuldhule@rediffmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919923509279"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Peopels Bahuuddeshiya Gram Vikas Seva Pratisthan Pedgaon",
+      "Post.Pedgaon Tq.",
+      "Hingoli",
+      "Maharashtra",
+      "431513"
+    ]
+  }
+}

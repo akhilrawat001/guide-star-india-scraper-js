@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "PETER PRADEEP",
+      "email": "peter_pradeep@ymail.com",
+      "designation": "Chairman",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4300",
+  "name": "Human Empowerment & Livelihood Promotion Foundation (HELP FOUNDATION)",
+  "primaryEmail": "help.foundation@rocketmail.com",
+  "website": "http://www.helpfoundation.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "914742556414",
+    "914742556414"
+  ],
+  "mainAddrress": {
+    "state": "Kerala",
+    "address": [
+      "Poovarangu",
+      "Umayanallor P.O",
+      "Kollam",
+      "Kerala",
+      "691589"
+    ]
+  },
+  "briefDescription": "Free Dialysis Assistance,Mangrove Afforestation,Wetland Protection,Environment protection litigation,Biodiversity Conservation,Ambulance Service,24 hr Call Centre,Empowering elected officials of Panchayats & Local Administration.",
+  "yearOfEstablishment": "2011"
+}

@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "Dr. Navneet Arora",
+      "email": "navneetroorkee@gmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    },
+    {
+      "name": "Dr. Navneet Arora",
+      "email": "navneetroorkee@gmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5832",
+  "name": "SATYA DHARAM BODH MISSION",
+  "primaryEmail": "Shubhho.rke@gmail.com",
+  "website": "www.shubhho.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "9412307242"
+  ],
+  "mainAddrress": {
+    "state": "Uttarakhand",
+    "address": [
+      "236/1, 22 Civil Lines",
+      "Roorkee",
+      "Haridwar",
+      "Uttarakhand",
+      "247667"
+    ]
+  }
+}

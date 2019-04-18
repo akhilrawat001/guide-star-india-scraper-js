@@ -1,0 +1,47 @@
+{
+  "contacts": [
+    {
+      "name": "Janardhan Choudhary",
+      "email": "sugamjagriti.org@gmail.com",
+      "designation": "Project Coordinator",
+      "mobile": [
+        "91-8877670270"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=486",
+  "name": "Sugam Jagriti",
+  "primaryEmail": "sugam_org@yahoo.co.in",
+  "website": "http://www.sugamjagriti.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "916122672426",
+    "919430891956"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "At.+P.O.- Barai,",
+      "Via- Islampur",
+      "Islampur",
+      "Nalanda",
+      "Bihar",
+      "801303"
+    ]
+  },
+  "briefDescription": "Sugam Jagriti is a Registered voluntary organization dedicated to promoting overall development of communities and improving quality of life of people. It seeks to accomplish this by Education, Skill development,  raising awareness, mobilizing and organizing community, implementing development programmes, enhancing skills at local level, and protecting rights of vulnerable groups and ensuring social justice. It aims to initiate catalytic intervention or ensuring partner community need based socio economic self-reliance for the deprived and poverty stricken rural masses.",
+  "yearOfEstablishment": "2001",
+  "regiseredAddrress": {
+    "state": "Bihar",
+    "address": [
+      "At. + P.O.- Barai",
+      "via- Islampur",
+      "Islampur",
+      "Nalanda",
+      "Bihar",
+      "801303"
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1843",
+  "name": "Anveshan Society",
+  "primaryEmail": "anveshancharitablesociety@gmail.com",
+  "website": "www.anveshancharitablesociety.hpage.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "915223012298",
+    "919452128493"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "F-2",
+      "Homawazir Chamber,34, Lalbagh, Hazratganj,",
+      "Lucknow",
+      "Uttar Pradesh",
+      "226001"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "Mandir Marg",
+      "Near Maharishi Vidya Mandir, Sitapur Road",
+      "Lucknow",
+      "Uttar Pradesh",
+      "226022"
+    ]
+  }
+}

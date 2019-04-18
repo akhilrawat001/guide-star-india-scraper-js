@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Col Karaminder Singh Retd",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5052",
+  "name": "Society for Welfare of The Handicapped",
+  "primaryEmail": "patiala-deafblind-school@hotmail.com",
+  "website": "amar ashram Lower Mall",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919870043892"
+  ],
+  "mainAddrress": {
+    "state": "Punjab",
+    "address": [
+      "Amar Ashrma Lower Mall Patiala 147001",
+      "Village Saifdipur , Behind Punjabi University, Patiala 147002",
+      "Patiala",
+      "Punjab",
+      "147001"
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "contacts": [
+    {
+      "name": "Srusti",
+      "email": "srustia@ymail.com",
+      "designation": "Co ordinator",
+      "mobile": [
+        "91-9879642052"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1320",
+  "name": "Yogi Kelvani Mandal",
+  "primaryEmail": "yogikelvanimandal_mehsana@yahoo.in",
+  "website": "www.yogingo.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Network"
+  ],
+  "telephone": [
+    "919879642052"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "Block 5 Shreenath Row House",
+      "B/h Pavansut society, T. B. Road,",
+      "Mehsana",
+      "Gujarat",
+      "384002"
+    ]
+  },
+  "briefDescription": "The Organization has served more than 2200 Students in the rural area particularly in the field of computer by organising seminars and woekshopsThe organization has served more than 1200 students in the field of spoken English - Hobby Center, Housewives etc.The organization had arranged medical camps particularly in slums and public schoolskill development activites particularly in soft and language skills to get employment to 500 students.",
+  "yearOfEstablishment": "1997",
+  "regiseredAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "5 - Shreenath Rowhouses,",
+      "B/H - Pavansut Society, TB Hospital Road",
+      "Mehsana",
+      "Gujarat",
+      "384002"
+    ]
+  }
+}

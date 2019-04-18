@@ -1,0 +1,38 @@
+{
+  "contacts": [
+    {
+      "name": "Abhay Anand",
+      "email": "samanwaysansthan@yahoo.co.in",
+      "designation": "Program Officer",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5260",
+  "name": "Samanway Sansthan",
+  "primaryEmail": "samanwaysansthan@yahoo.co.in",
+  "website": "www.ngossansthan.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918987596938"
+  ],
+  "mainAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "Mariyampur",
+      "Koderma",
+      "Jharkhand",
+      "825410"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "not provided",
+      "Koderma",
+      "Jharkhand",
+      "825410"
+    ]
+  }
+}

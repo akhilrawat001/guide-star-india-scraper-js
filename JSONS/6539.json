@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Monika Patel",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6539",
+  "name": "Valsad Sports Association",
+  "primaryEmail": "satyeny12m12@rediffmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919924108038"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "D-1, opposite Jain Derasar, Haria Hospital Road,",
+      "GIDC, Vapi,",
+      "Vapi",
+      "Valsad",
+      "Gujarat",
+      "396191"
+    ]
+  }
+}

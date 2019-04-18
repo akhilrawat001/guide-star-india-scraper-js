@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "T. Y. Das",
+      "email": "tydasrtcdm@yahoo.com",
+      "designation": "Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4805",
+  "name": "Good Lamp Organisation for the Depressed Communities",
+  "primaryEmail": "tydasrtcdm@yahoo.com",
+  "website": "www.goodlamp.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service"
+  ],
+  "telephone": [
+    "919440382784"
+  ],
+  "mainAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "Dno: 27-1-29/4",
+      "Ameenapeta",
+      "Eluru",
+      "West Godavari",
+      "Andhra Pradesh",
+      "534006"
+    ]
+  }
+}

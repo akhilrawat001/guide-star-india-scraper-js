@@ -1,0 +1,40 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4415",
+  "name": "RAAH Foundation",
+  "primaryEmail": "sarika@raahfoundation.org",
+  "website": "www.raahfoundation.org",
+  "organisationType": [
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919869440237",
+    "912224448082"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "1, Moti Sagar",
+      "377, Keluskar Road South",
+      "Shivaji Park, Mumbai",
+      "Mumbai",
+      "Maharashtra",
+      "400028"
+    ]
+  },
+  "briefDescription": "Young, dynamic; Raah Foundation since 2011 has dedicate itself to creating a healthy and happy world for the tribals. The different programs include Water shed development (building check dams, wells etc. to create additional sources of water), Agriculture Development (training in farming techniques, seeds & sapling distribution, support in drip irrigation, forming marketing linkages), Livelihoods (women micro businesses - grocery shops, dry fish selling, vegetable vending, food stalls etc.), Traditional Art businesses (patchwork and warli art) and Health (focus on malnourished children)",
+  "yearOfEstablishment": "2011",
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "701, Saket",
+      "104, Dr. M. B. Raut Road",
+      "Shivaji Park, Mumbai",
+      "Mumbai",
+      "Maharashtra",
+      "400028"
+    ]
+  }
+}

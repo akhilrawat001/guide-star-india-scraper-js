@@ -1,0 +1,48 @@
+{
+  "contacts": [
+    {
+      "name": "Arunima Kulavi",
+      "email": "astitva.runa@gmail.com",
+      "designation": "Director of Administration and Finance",
+      "mobile": [
+        "91-8979601018"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6384",
+  "name": "Astitva",
+  "primaryEmail": "astitvaforwomen@gmail.com",
+  "website": "www.astitvaonline.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "911356510549",
+    "919411112255"
+  ],
+  "mainAddrress": {
+    "state": "Uttarakhand",
+    "address": [
+      "C-208, Sector 3",
+      "Defence Colony",
+      "Dehradun",
+      "Uttarakhand",
+      "248001"
+    ]
+  },
+  "briefDescription": "Astitva means identity in Hindi. Astitva is a community based organization that was established in May 2008 in South East Dehradun. Astitva strives to bring about gender equality and end gender based violence in its community. This is done by empowering women and youth through workshops, education, vocational skills trainings, job placements, assistance in starting businesses, rights advocacy and support services such as childcare and health services.",
+  "yearOfEstablishment": "2008",
+  "regiseredAddrress": {
+    "state": "Uttarakhand",
+    "address": [
+      "D-45 Sector 4",
+      "Defence Colony",
+      "Dehradun",
+      "Uttarakhand",
+      "248001"
+    ]
+  }
+}

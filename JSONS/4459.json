@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Dr P. Cheena Chawla",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4459",
+  "name": "World Healthal Trust",
+  "primaryEmail": "info@worldhealthaltrust.org",
+  "website": "http://www.worldhealthaltrust.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making"
+  ],
+  "telephone": [
+    "919818921035"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "34, Knowledge Park-1",
+      "Gautam Budh Nagar, Greater Noida",
+      "Greater Noida",
+      "Gautam Buddha Nagar",
+      "Uttar Pradesh",
+      "201310"
+    ]
+  }
+}

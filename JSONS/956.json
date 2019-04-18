@@ -1,0 +1,34 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=956",
+  "name": "Dr B R Ambedkar Harijan Kalyan Parishad",
+  "primaryEmail": "ambd_arun@yahoo.co.in",
+  "website": "www.drbrambedkar.org",
+  "organisationType": [
+    "Intermediary"
+  ],
+  "telephone": [
+    "916122540168",
+    "919939254141"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "A. K. Singh,",
+      "Patna",
+      "Bihar",
+      "800001"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Bihar",
+    "address": [
+      "A. K. SinghSecretaryDr. B. R. Ambedkar Harijan Kalyan Parishad,",
+      "LF/38, S. K. Puri,Boring Road",
+      "Patna",
+      "Bihar",
+      "800001",
+      "AP_BankStat_871.PDF"
+    ]
+  }
+}

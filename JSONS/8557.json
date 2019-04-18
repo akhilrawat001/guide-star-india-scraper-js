@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "PRABIR KISHORE MISHRA",
+      "email": "pkmishraabhinav@rediffmail.com",
+      "designation": "SECRETARY",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8557",
+  "name": "ABHINAV ORISSA",
+  "primaryEmail": "pkmishraabhinav@rediffmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919437195498"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "F-573",
+      "SECTOR-6 CDA",
+      "CUTTACK",
+      "Cuttack",
+      "Odisha",
+      "753014"
+    ]
+  }
+}

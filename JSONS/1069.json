@@ -1,0 +1,32 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1069",
+  "name": "Voluntary Action for Rehabilitation and Development",
+  "primaryEmail": "varhad_amt@rediffmail.com",
+  "website": "www.varhad.org",
+  "telephone": [
+    "917212541851",
+    "917212541851",
+    "917212541851"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Yashoda Nagar No. 1  Post. Rukhmini Nagar",
+      "Nr Teachers Colony",
+      "Amravati",
+      "Maharashtra",
+      "444606"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Teachers Colony,",
+      "Post. Rukhmini Nagar",
+      "Amravati",
+      "Maharashtra",
+      "444606"
+    ]
+  }
+}

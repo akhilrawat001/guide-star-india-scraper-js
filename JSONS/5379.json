@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "ASHA LALCHAND KALUNKE",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5379",
+  "name": "Dnyanrekha Mahila Ekta Vikas Mandal",
+  "primaryEmail": "dnyanrekhamandal@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "912402370262",
+    "912402370262"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "A 3/8 tirupati garden tapadiya nagar",
+      "shanoorwadi",
+      "aurangabad",
+      "Aurangabad",
+      "Maharashtra",
+      "431005"
+    ]
+  }
+}

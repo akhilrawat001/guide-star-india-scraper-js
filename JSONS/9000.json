@@ -1,0 +1,25 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9000",
+  "name": "MAHARSHI UTTAM SWAMI JANKALYAN SAMITI",
+  "primaryEmail": "musjankalyansamiti@gmail.com",
+  "website": "www.musjks.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "917342550602",
+    "917342550602"
+  ],
+  "mainAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "6 Kshir Sagar Colony",
+      "40, Sudama Nagar Colony",
+      "Ujjain",
+      "Madhya Pradesh",
+      "456001"
+    ]
+  }
+}

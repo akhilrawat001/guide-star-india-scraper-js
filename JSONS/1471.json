@@ -1,0 +1,25 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1471",
+  "name": "Institute for Social Awareness and Rural Development",
+  "primaryEmail": "insardindia@gmail.com",
+  "website": "www.insardindia.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "914562279471",
+    "914566225595",
+    "919894336471"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "76",
+      "Manmalai Medu,K.Pudur,",
+      "Madurai",
+      "Tamil Nadu",
+      "625007"
+    ]
+  }
+}

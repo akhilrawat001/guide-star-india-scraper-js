@@ -1,0 +1,56 @@
+{
+  "contacts": [
+    {
+      "name": "Dr. Vilas Shende",
+      "email": "nirajninad@yahoo.com",
+      "designation": "Director",
+      "mobile": [
+        "91-712-2522370",
+        "91-9423078330"
+      ]
+    },
+    {
+      "name": "Dr. Vilas Shende",
+      "email": "nirajninad@yahoo.com",
+      "designation": "Director",
+      "mobile": [
+        "91-712-2522370",
+        "91-9423078330"
+      ]
+    },
+    {
+      "name": "Dr. Vilas Shende",
+      "email": "nirajninad@yahoo.com",
+      "designation": "Director",
+      "mobile": [
+        "91-712-2522370",
+        "91-9423078330"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=721",
+  "name": "Nagpur Medical Board of Western Regional Board of Health Services",
+  "primaryEmail": "murehospi@yahoo.com",
+  "website": "www.murememorialhospital.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "917122535317",
+    "917122522370",
+    "919423078330",
+    "917122524874"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Maharajbagh Road, Amravati Road",
+      "Sitabardi",
+      "Nagpur",
+      "Maharashtra",
+      "400001"
+    ]
+  },
+  "briefDescription": "\"Mure Memorial Multi-Specialty Hospital\" (MMH) a community-based center, founded by Dr. Agnes Henderson from Scotland. She established this hospital in 1986 with motto \"Sever the needy with love\". It is a 125 bedded Hospital. We are providing holistic health, including the physical, social and economic, especially to HIV/AIDS affected persons. poor sick people, senior persons, Leprosy patients, Mother & Child care. With these services it is expected that, it will be possible to have positive effect on the well being of the community in the central India.",
+  "yearOfEstablishment": "1896"
+}

@@ -1,0 +1,35 @@
+{
+  "contacts": [
+    {
+      "name": "Ahila",
+      "email": "anithavino1@gmail.com",
+      "designation": "Joint Director",
+      "mobile": [
+        "91-9842093143"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2696",
+  "name": "Rural Organization for Social Education",
+  "primaryEmail": "rosepdkt@gmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Network"
+  ],
+  "telephone": [
+    "919965593143",
+    "914322244076"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "ROSE Pasumai Kudil",
+      "21, Selva Nagar, Sipcot Post",
+      "Pudukkottai",
+      "Tamil Nadu",
+      "622002"
+    ]
+  },
+  "briefDescription": "ROSEA Grassroots NGO founded and managed by A team of downtrodden village volunteers team of margin communities.They belong to one of the most backward districts Pudukkottai, Tamil Nadu state, South India. Persistent drought conditions, lack of resources, abject economic poverty, social discrimination, and lack of access to education and health were the crushing challenges.Ensuring social and political space for the communities towards rebuilding dignity and fighting poverty from bottom up is the vision and conviction of the team.Through  Preserving traditional knowledge Enhancing Community Capacities Facilitating model creation Initiating Participatory Action ResearchCarrying out campaign and lobbying for policy changes",
+  "yearOfEstablishment": "1993"
+}

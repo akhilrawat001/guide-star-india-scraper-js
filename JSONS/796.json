@@ -1,0 +1,48 @@
+{
+  "contacts": [
+    {
+      "name": "Ranjish Kattady",
+      "email": "rkattady@sightsavers.org",
+      "designation": "Regional Information & Liaison Officer",
+      "mobile": [
+        "91-22-28820808"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=796",
+  "name": "Royal Commonwealth Society for the Blind",
+  "primaryEmail": "India@sightsavers.org",
+  "website": "www.sightsavers.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Grant-making",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "912228820808",
+    "912228821919",
+    "912228826363",
+    "912228820808"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "A-3 Shivdham, New Link Road Kanchpada",
+      "Malad (West)",
+      "Mumbai",
+      "Maharashtra",
+      "400064"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "81-A, Jaldarshan",
+      "L. Jagmohandas Mart, Napeansea Road",
+      "Mumbai",
+      "Maharashtra",
+      "400036"
+    ]
+  }
+}

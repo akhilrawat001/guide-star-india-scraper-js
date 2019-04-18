@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Virendra Sahai Verma",
+      "email": "virendrasahai@gmail.com",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4978",
+  "name": "KULSHRESTHA KALYAN SAMITI",
+  "primaryEmail": "virendrasahai@gmail.com",
+  "website": "www.kulshresthakalyansamiti.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919810231823",
+    "919871599741"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "75, Sector - 29,",
+      "Noida",
+      "Gautam Buddha Nagar",
+      "Uttar Pradesh",
+      "201303"
+    ]
+  },
+  "briefDescription": "Kulshrestha Kalyan Samiti is a philanthropic non profitable organization which involves in uplifting and welfare of deprived and under-privileged member."
+}

@@ -1,0 +1,27 @@
+{
+  "contacts": [
+    {
+      "name": "Bhanwar Singh Chadana",
+      "email": "astha39@gmail.com",
+      "designation": "Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3249",
+  "name": "Astha Sansthan",
+  "primaryEmail": "astha39@sancharnet.in",
+  "telephone": [
+    "912492451348",
+    "912492451348"
+  ],
+  "mainAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "39 Kharol Colony",
+      "Fatehpur",
+      "Udaipur",
+      "Rajasthan",
+      "313001"
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1896",
+  "name": "Ojus Medical Institute",
+  "primaryEmail": "info@omi.org.in",
+  "website": "http://omi.org.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "912226149777"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "The Tulip Star, Juhu Tara Road, Juhu",
+      "Mumbai",
+      "Mumbai Suburban",
+      "Maharashtra",
+      "400049"
+    ]
+  },
+  "briefDescription": "Ojus, a Sanskrit word has its root in the Sanskrit word, signifying universal light. In congruence with this spirit, Ojus Medical Institute started its work in the year 1999 when Dr. Asavari Herwadkar received a fellowship from The John D and Catherine T MacArthur Foundation. In 2002 Ojus Medical Institute was registered as a trust with the Mumbai Charitable Trust, Mumbai, India.Integration of medical care, education, research and development in the projects undertaken by OMI has helped us move in the direction of a more holistic approach towards empowering the lesser privileged and marginalized sections of the society.We endeavor to work with all the major stakeholders direct or indirect who are capable of making our efforts more Sustainab",
+  "yearOfEstablishment": "1999",
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Ojus Medical Institute",
+      "4, Vidarbha Samrat CHS Ltd, 93 CVP Road, Ville Parle west",
+      "Mumbai",
+      "Mumbai Suburban",
+      "Maharashtra",
+      "400056"
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "contacts": [
+    {
+      "name": "Mr. S.M. Thahir",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "9441782151"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7071",
+  "name": "MAHABOOB HUSSAIN VALI CHARITABLE TRUST",
+  "primaryEmail": "shaikmasthanbasha50@gmail.com",
+  "website": "shaikmasthanbasha50@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "+919441782151"
+  ],
+  "mainAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "8/211-5-1 Bismillah Nagar Almaspet kadapa",
+      "Almaspet",
+      "City",
+      "YSR District, Kadapa (Cuddapah)",
+      "Andhra Pradesh",
+      "516001"
+    ]
+  }
+}

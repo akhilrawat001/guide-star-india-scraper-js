@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Mr.Lalit Kumar Sinha",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "9194312079"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7257",
+  "name": "PRERNA RURAL DEVELOPMENT SOCIETY",
+  "primaryEmail": "sahdeoprdsngo@gmail.com",
+  "organisationType": [
+    "Grant-making"
+  ],
+  "telephone": [
+    "919194312079"
+  ],
+  "mainAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "Yashwant Nagar, Road No-3, Behind Hanuman Mandir, Barkagaon Road,",
+      "At+Po- Harli, Ps- Barkagaon, Hazaribag,Jharkhand",
+      "HAZARIBAG",
+      "Hazaribag",
+      "Jharkhand",
+      "825301"
+    ]
+  }
+}

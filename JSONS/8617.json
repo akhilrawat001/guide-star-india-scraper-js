@@ -1,0 +1,34 @@
+{
+  "contacts": [
+    {
+      "name": "Debasree Bhattacharya",
+      "email": "contact.dand@gmail.com",
+      "designation": "Secretary",
+      "mobile": [
+        "91-8697105299"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8617",
+  "name": "Discover A New Dawn (D.A.N.D)",
+  "primaryEmail": "contact.dand@gmail.com",
+  "website": "https://www.dandability.org/",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "918697105299"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "8/5 Nepal Bhattacharya Street,",
+      "Kolkata",
+      "West Bengal",
+      "700026"
+    ]
+  },
+  "briefDescription": "Discover A New Dawn (D.A.N.D) is a social welfare organization, located in Kolkata, West Bengal. It is working for the purpose of development and rehabilitation of people with disabilities and undertakes various charitable activities for the benefit of the differently abled community as a whole.",
+  "yearOfEstablishment": "2014"
+}

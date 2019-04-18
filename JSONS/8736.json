@@ -1,0 +1,33 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8736",
+  "name": "Sahara Foundation Digraswani",
+  "primaryEmail": "saharafdigras@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "+919420154754"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "10/02, Gulmohar Colony, Opp. DGP Nagar 2,",
+      "Ambad Nashik",
+      "Nashik",
+      "Maharashtra",
+      "422010"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Bodhi Niwas, Digras (Wani),",
+      "Post. Sirsam (Bk),",
+      "Hingoli",
+      "Maharashtra",
+      "431513"
+    ]
+  }
+}

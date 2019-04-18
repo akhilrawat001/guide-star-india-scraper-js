@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Rajendra Kumar Singh",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6094",
+  "name": "Naveen Jan Kalyan Samiti",
+  "primaryEmail": "precon2004@yahoo.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "91-9919671184"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "Dulama Pur,",
+      "Phoolpur,",
+      "Allahabad,",
+      "Allahabad",
+      "Uttar Pradesh",
+      "212402"
+    ]
+  }
+}

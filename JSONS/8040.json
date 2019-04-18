@@ -1,0 +1,61 @@
+{
+  "contacts": [
+    {
+      "name": "Sr.Michealamma SDS",
+      "email": "michealsds@gmail.com",
+      "designation": "Project Officer",
+      "mobile": [
+        "9487688033"
+      ]
+    },
+    {
+      "name": "Sr.Michealamma SDS",
+      "email": "michealsds@gmail.com",
+      "designation": "Project Officer",
+      "mobile": [
+        "9487688033"
+      ]
+    },
+    {
+      "name": "Sr.Michealamma SDS",
+      "email": "michealsds@gmail.com",
+      "designation": "Project Officer",
+      "mobile": [
+        "9487688033"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8040",
+  "name": "Kuzhithurai Integral Development Social Services Trust",
+  "primaryEmail": "kidss_kuzhithurai@yahoo.com",
+  "organisationType": [
+    "Network"
+  ],
+  "telephone": [
+    "919487688033"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "10/8-46C,Thedal Building",
+      "Bridge Ward,Near Fire Station",
+      "Kuzhithurai",
+      "Kanyakumari",
+      "Tamil Nadu",
+      "629163"
+    ]
+  },
+  "briefDescription": "Kuzhithurai Integral Development Social Services (KIDSS) took its inception as a charitable organization in September 2002, with the specific aim and objective of helping the downtrodden and economically backward people of the society, irrespective of caste, religion, race, creed and colour for their total development.",
+  "yearOfEstablishment": "2002",
+  "regiseredAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "Good News Centre",
+      "Unnamalaikadai",
+      "Marthandam",
+      "Kanyakumari",
+      "Tamil Nadu",
+      "629179"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "contacts": [
+    {
+      "name": "Murugan G",
+      "email": "murugan.sukrupa@gmail.com",
+      "designation": "Director - Operations",
+      "mobile": [
+        "91-9043975304"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=680",
+  "name": "SUKRUPA",
+  "primaryEmail": "sukrupa@gmail.com",
+  "website": "www.sukrupa.org",
+  "telephone": [
+    "919845261892",
+    "919043975304"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "15, G. R. Layout",
+      "R. T. Nagar Post, Near. Rajiv Gandhi Dental Collage",
+      "Cholanayakanahalli",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560094"
+    ]
+  },
+  "briefDescription": "The journey of SUKRUPA started with passion and purpose to create opportunities through education, for the underprivileged children from the slums of Bangalore. It has grown into stories of hope and success for many children who otherwise wouldn’t have had the means to pursue education.With over 500 children in the regular school program, SUKRUPA is creating opportunities for the underprivileged children to fulfil their dreams by nurturing their talents through academics, creativity, sports and life skills.Mission:Our mission is to enable every child to have access to good education, Capacitate with life skills, bridge the crucial gap between schooling and college, and empower women socially and economically through entrepreneurship.Objective:•\tSupport underprivileged communities with the educational requirement of all children and young people and to narrow the gap between all children, including those from low income and disadvantaged backgrounds•\tDistribute resources in line with relative need, recognizing the different costs of educating groups of pupils and providing education in different areas",
+  "yearOfEstablishment": "2004",
+  "regiseredAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "Shalom, No 7",
+      "AECS III Stage",
+      "Sanjaynagar",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560094"
+    ]
+  }
+}

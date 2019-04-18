@@ -1,0 +1,40 @@
+{
+  "contacts": [
+    {
+      "name": "Robert D Souza",
+      "email": "robert@adcindia.org",
+      "designation": "Project Officer",
+      "mobile": [
+        "91-431-2403986"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=674",
+  "name": "Andheri Trust",
+  "primaryEmail": "andheritrust@adcindia.org",
+  "website": "www.adcindia.org",
+  "telephone": [
+    "914312403965",
+    "914312403965"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "Centre for Development Cooperation, 105-B",
+      "Inniyanoor Road, Piratiyur",
+      "Tiruchirappalli",
+      "Tamil Nadu",
+      "620009"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "105-B, Inniyanoor Rood",
+      "Pratiyur",
+      "Tiruchirappalli",
+      "Tamil Nadu",
+      "620001"
+    ]
+  }
+}

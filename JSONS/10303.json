@@ -1,0 +1,36 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10303",
+  "name": "BHARAT LOK SHIKSHA PARISHAD",
+  "primaryEmail": "info@blspindia.org",
+  "website": "http://www.blspindia.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919999399063",
+    "918448386444"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "GI-17, G.T. Karnal Road, Industrial Area,",
+      "Azadpur",
+      "North Delhi",
+      "Delhi",
+      "110033"
+    ]
+  },
+  "briefDescription": "Bharat Lok Shiksha Parishad (BLSP) is providing primary education to under-privileged people living in forest, remote and under developed areas of India.",
+  "yearOfEstablishment": "2000",
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "A-131/3, Group Industrial Area,",
+      "Wazirpur",
+      "North Delhi",
+      "Delhi",
+      "110052"
+    ]
+  }
+}

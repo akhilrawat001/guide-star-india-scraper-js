@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "MR.BISHNUDEO PASWAN",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7261",
+  "name": "DALIT SANGAM SAMITI",
+  "primaryEmail": "dalitsangam.samiti@gmail.com",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "919708314440"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "VILLAGE-ANTI,",
+      "PO-KADIRGANJ,",
+      "NAWADA",
+      "Nawada",
+      "Bihar",
+      "805104"
+    ]
+  }
+}

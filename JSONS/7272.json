@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Mrs. V. Nagarani",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7272",
+  "name": "HOPE PUBLIC CHARITABLE TRUST(A unit of Social and Educational welfare trust)",
+  "primaryEmail": "info@hopechennai.com",
+  "website": "www.hopechennai.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919841330330"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "At 6-B, 26,",
+      "Sarangapani Street, Krishnapuram, Ambattur O.T.",
+      "Chennai",
+      "Tiruvallur",
+      "Tamil Nadu",
+      "600053"
+    ]
+  }
+}

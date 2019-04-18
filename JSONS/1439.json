@@ -1,0 +1,27 @@
+{
+  "contacts": [
+    {
+      "name": "M. Venkatesu",
+      "email": "",
+      "designation": "General Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1439",
+  "name": "Prema Paricharyalu Gospel Society",
+  "primaryEmail": "maddela.venkatesu@gmail.com",
+  "telephone": [
+    "919704518410"
+  ],
+  "mainAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "4/1387",
+      "Y.S.nagar-II, ,",
+      "Cuddapah",
+      "YSR District, Kadapa (Cuddapah)",
+      "Andhra Pradesh",
+      "516004"
+    ]
+  }
+}

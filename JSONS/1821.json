@@ -1,0 +1,38 @@
+{
+  "contacts": [
+    {
+      "name": "John Thansanga",
+      "email": "jthansanga@yahoo.com",
+      "designation": "Secretary",
+      "mobile": []
+    },
+    {
+      "name": "John Thansanga",
+      "email": "jthansanga@yahoo.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1821",
+  "name": "Samaritan Society Of Mizoram",
+  "primaryEmail": "samaritanmz@yahoo.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "913892305074",
+    "913892306095",
+    "919436159599"
+  ],
+  "mainAddrress": {
+    "state": "Mizoram",
+    "address": [
+      "A-46",
+      "Rosiama Bldg, Chanmari",
+      "Aizawl",
+      "Mizoram",
+      "796007"
+    ]
+  }
+}

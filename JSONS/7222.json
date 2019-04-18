@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Mr.Mohammad Nooruddin Amin",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7222",
+  "name": "ADHIKAR",
+  "primaryEmail": "adhikarsociety@gmail.com",
+  "website": "www.adhikarindia.org",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "917894446097"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "ADHIKAR, Plot No. 77/180/970,",
+      "Subudhipur, Tomando, Bhubaneswar,",
+      "Bhubaneswar",
+      "Khordha",
+      "Odisha",
+      "752054"
+    ]
+  }
+}

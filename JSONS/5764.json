@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "Mr. Rajesh Kantilal  Ishi",
+      "email": "rajeshishi@gmail.com",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5764",
+  "name": "Jansahyog Pratishthan",
+  "primaryEmail": "jansahyog_dondaicha@yahoo.co.in",
+  "telephone": [
+    "912563259230",
+    "919422551488"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Near Bhatwal Talkies,",
+      "A/P Dondaicha Tal. Shindkheda",
+      "Dondaicha",
+      "Dhule",
+      "Maharashtra",
+      "425408"
+    ]
+  }
+}

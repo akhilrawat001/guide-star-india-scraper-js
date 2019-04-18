@@ -1,0 +1,43 @@
+{
+  "contacts": [
+    {
+      "name": "Santosh Bhansali",
+      "email": "",
+      "designation": "Manager",
+      "mobile": []
+    },
+    {
+      "name": "Santosh Bhansali",
+      "email": "",
+      "designation": "Manager",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2044",
+  "name": "Tej Gyan Foundation",
+  "primaryEmail": "mail@tejgyan.com",
+  "telephone": [
+    "912027411240",
+    "912027411240"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "M T C Sandesh Classes II nd Floor",
+      "Tapovan Mandir Road, Vikrant Complex, Pimpripun",
+      "Pune",
+      "Maharashtra",
+      "571493"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Happy Thought Building",
+      "Vikrant Complex Tapovan Mandir Road",
+      "Pune",
+      "Maharashtra",
+      "411017"
+    ]
+  }
+}

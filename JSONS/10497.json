@@ -1,0 +1,32 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10497",
+  "name": "HARMAN INSTITUTE OF COMPUTER EDUCATION SOCIETY",
+  "primaryEmail": "HICESPTA@GMAIL.COM",
+  "website": "WWW.HICES.ORG.IN",
+  "organisationType": [
+    "Grant-making"
+  ],
+  "telephone": [
+    "911755083829",
+    "919878536670"
+  ],
+  "mainAddrress": {
+    "state": "Punjab",
+    "address": [
+      "555-F.Ranjit Nagar, Seona Road,",
+      "Patiala",
+      "Punjab",
+      "147001"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Punjab",
+    "address": [
+      "555-F.Ranjit Nagar, Seona Road, Patiala",
+      "Patiala",
+      "Punjab",
+      "147001"
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=863",
+  "name": "Indian Institute of Rural Development",
+  "primaryEmail": "iird_uns@rediffmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "916324212567",
+    "919431831593"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "Sita Sadan, Ram Nagar",
+      "Nawada",
+      "Bihar",
+      "805110"
+    ]
+  }
+}

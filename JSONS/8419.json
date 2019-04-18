@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Mr Bhaskar Munde",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8419",
+  "name": "SHREE WADMAVLI LOK VIKAS MANCH",
+  "primaryEmail": "wadmavlikaij.org@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919011352544"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "AT POST DAHIPHAL (WAD)",
+      "TAL KAIJ",
+      "BEED",
+      "Beed",
+      "Maharashtra",
+      "431122"
+    ]
+  }
+}

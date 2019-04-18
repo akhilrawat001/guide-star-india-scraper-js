@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Pratibha Satish Gaikwad",
+      "email": "pratibha.s.gaikwad2476@gmail.com",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1749",
+  "name": "Network By People Living With HIV/AIDS in Mumbai",
+  "primaryEmail": "npmmumbai@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "912226505408",
+    "919702274537"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Khot Chawl",
+      "Takia ward,",
+      "Kurla",
+      "Mumbai",
+      "Maharashtra",
+      "400070"
+    ]
+  }
+}

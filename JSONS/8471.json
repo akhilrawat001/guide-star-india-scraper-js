@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Pramodini Panda",
+      "email": "",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8471",
+  "name": "AMRUT DHARA",
+  "primaryEmail": "pradeepkumarbasantia9797@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919861889797"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "At/Po-Statebank Road",
+      "Opp Municipal Gymansium",
+      "Berhampur",
+      "Ganjam",
+      "Odisha",
+      "760001"
+    ]
+  }
+}

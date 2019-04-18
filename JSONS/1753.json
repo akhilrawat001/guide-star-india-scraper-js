@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Sonali Kadam",
+      "email": "sonalikadam.k@rediffmail.com",
+      "designation": "Director/Trustee",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1753",
+  "name": "SWAYAM CHARITABLE TRUST",
+  "primaryEmail": "sonalikadam.k@rediffmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "912227693463",
+    "919869022323"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "2010",
+      "Ground floor, Om- Pranav apartments, Sector- 1",
+      "Airoli",
+      "Mumbai",
+      "Maharashtra",
+      "400708"
+    ]
+  }
+}

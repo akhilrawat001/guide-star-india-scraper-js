@@ -1,0 +1,45 @@
+{
+  "contacts": [
+    {
+      "name": "Mr.Shiv Kumar",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7445",
+  "name": "BHARTIYA SAMAJIK SANSTHAN",
+  "primaryEmail": "bssbanda@gmail.com",
+  "website": "www.bssbanda.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Support"
+  ],
+  "telephone": [
+    "915191290128",
+    "915191290128"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "In Side Jan Shikshan Evam Prashikshan Samiti",
+      "Atri Nagar, Banda Road",
+      "Atarra",
+      "Banda",
+      "Uttar Pradesh",
+      "210201"
+    ]
+  },
+  "briefDescription": "To Established a self depend and reliance society.",
+  "yearOfEstablishment": "1997",
+  "regiseredAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "Aryavart Kung",
+      "Bajrang colony",
+      "Banda",
+      "Uttar Pradesh",
+      "210001"
+    ]
+  }
+}

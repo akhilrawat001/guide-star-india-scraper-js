@@ -1,0 +1,54 @@
+{
+  "contacts": [
+    {
+      "name": "Shreya Talwar",
+      "email": "shreya@smallchange.ngo",
+      "designation": "NGO Relations",
+      "mobile": [
+        "91-80-67500934"
+      ]
+    },
+    {
+      "name": "Shreya Talwar",
+      "email": "shreya@smallchange.ngo",
+      "designation": "NGO Relations",
+      "mobile": [
+        "91-80-67500934"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6447",
+  "name": "SMALL CHANGE",
+  "primaryEmail": "contact@smallchange.ngo",
+  "website": "https://www.smallchange.ngo/",
+  "organisationType": [
+    "Intermediary",
+    "Support"
+  ],
+  "telephone": [
+    "919830116950"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "Social Alpha, 1st Floor",
+      "#3, 14th Main, Sector 5, HSR Layout",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560102"
+    ]
+  },
+  "briefDescription": "Small Change was conceived to help non-profits in India communicate better and facilitate their fundraising – the idea being: If people don’t know what an NGO does or how well they do it, why would anyone give their time, money or skills to support them.On our old website, the tagline was “Communications for funda-raising” – a wordplay to convey our services will not only help to raise funds, but also awareness of a non-profit’s “funda”. India would be a lesser place if it weren’t for NGOs filling the social and development gap that the government simply can’t. Small Change’s mission is to support NGOs and the critical work they do. Our web portal smallchange.ngo showcases GuideStar India accredited non-profits, helps them fundraise and engages a new generation of givers in their causes.",
+  "yearOfEstablishment": "2013",
+  "regiseredAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Fort Lake, 4th Floor",
+      "39A Lake Avenue",
+      "Kolkata",
+      "West Bengal",
+      "700026"
+    ]
+  }
+}

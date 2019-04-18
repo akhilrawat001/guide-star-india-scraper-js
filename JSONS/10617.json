@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "Shuma Talukdar",
+      "email": "",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10617",
+  "name": "Society for Social Regeneration and Equity",
+  "primaryEmail": "social.regeneration.and.equity@gmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919999681867"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "B-129",
+      "Rajeev Nagar, Kanchan Bihari Marg, Kalyanpur",
+      "Lucknow",
+      "Uttar Pradesh",
+      "226022"
+    ]
+  },
+  "briefDescription": "SSRE works for human rights, with particular focus on women & child, minorities and the marginalized, excluded and underprivileged sections of society, and for the promotion of interfaith amity & cross-cultural understanding. Other objectives of the organization are, promoting art and culture, protecting the environment and providing training for self-employment (entrepreneurship) and rural development. In its past 4 years of operation the organization served around 3000 individuals in various aspects of life.",
+  "yearOfEstablishment": "2013"
+}

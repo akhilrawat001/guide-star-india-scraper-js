@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Nagaraj Desai",
+      "email": "",
+      "designation": "Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1365",
+  "name": "Sarvodaya I R D S",
+  "primaryEmail": "sirds1994@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918539699101",
+    "919448263019"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "B.S.N.L. Colony",
+      "Opp.Teacher’s Colony, Kinnal Road,",
+      "Koppal",
+      "Karnataka",
+      "583231"
+    ]
+  }
+}

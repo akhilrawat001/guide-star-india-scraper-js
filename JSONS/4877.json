@@ -1,0 +1,41 @@
+{
+  "contacts": [
+    {
+      "name": "Vipin Singh Chauhan",
+      "email": "sradha95@gmail.com",
+      "designation": "Secratary/Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4877",
+  "name": "Society for Rural Awareness and Development in Himalayan Area",
+  "primaryEmail": "sradha95@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "911373223222",
+    "911373223222"
+  ],
+  "mainAddrress": {
+    "state": "Uttarakhand",
+    "address": [
+      "HN 38 Nehru Nagar, Mandir Marg, Purola,",
+      "Purola",
+      "Uttarkashi",
+      "Uttarakhand",
+      "249185"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Uttarakhand",
+    "address": [
+      "HN 28 Nehru Nagar, Mandir Marg, Purola,",
+      "Nehru Nagar, Mandir Marg, Purola,",
+      "Purola",
+      "Uttarkashi",
+      "Uttarakhand",
+      "249185"
+    ]
+  }
+}

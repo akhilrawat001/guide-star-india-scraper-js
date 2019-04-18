@@ -1,0 +1,25 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8771",
+  "name": "PANCHATATVA SEVA SANSTHA",
+  "primaryEmail": "panchatatvaseva@gmail.com",
+  "website": "http://panchtatvsevasanstha.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919890330051",
+    "919604523666"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Darshana Compound, Awat Nagar, Boisar, Dist-Palghar.",
+      "Navapur Road",
+      "Boisar",
+      "Thane",
+      "Maharashtra",
+      "401501"
+    ]
+  }
+}

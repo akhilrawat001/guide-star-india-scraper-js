@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "Deepakbhai Vyas",
+      "email": "parsuram_parsuram@yahoo.com",
+      "designation": "Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2895",
+  "name": "Shri Jay Parsuram Rachanatmak Seva Samiti",
+  "primaryEmail": "parsuram_parsuram@yahoo.com",
+  "telephone": [
+    "912823226491",
+    "912823226491"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "VANSH NEAR GOPAWADI BRIDGE,",
+      "BAVAVALA PARA",
+      "Jetpur",
+      "Rajkot",
+      "Gujarat",
+      "360370"
+    ]
+  }
+}

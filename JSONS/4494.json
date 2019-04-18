@@ -1,0 +1,43 @@
+{
+  "contacts": [
+    {
+      "name": "Kiran Ziparu Pawar",
+      "email": "",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4494",
+  "name": "MATA ADISHAKTI SAMAJIK PRATISHTHAN",
+  "primaryEmail": "aadishaktingo555@gmail.com",
+  "website": "no",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919422264504"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "AT - KURUSWADI,POST - DHANER",
+      "TAL-SAKRI,",
+      "Dhule",
+      "Maharashtra",
+      "424304",
+      "Scan10021.PDF"
+    ]
+  },
+  "briefDescription": "MATA ADISHAKTI SAMAJIK PRATISHTHAN is located at Maharashtra.",
+  "yearOfEstablishment": "2009",
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "AT - KURUSWADI,POST - DHANER",
+      "pipmalaner",
+      "Dhule",
+      "Maharashtra",
+      "424304"
+    ]
+  }
+}

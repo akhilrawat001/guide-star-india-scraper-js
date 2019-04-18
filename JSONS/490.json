@@ -1,0 +1,40 @@
+{
+  "contacts": [
+    {
+      "name": "Fathima",
+      "email": "tanker1993@gmail.com",
+      "designation": "Field Officer",
+      "mobile": [
+        "91-44-28273407"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=490",
+  "name": "Tamilnad Kidney Reseach Foundation",
+  "primaryEmail": "tanker1993@gmail.com",
+  "website": "http://www.tankerfoundation.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "914428273407",
+    "914428241635",
+    "914428273407"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "17, Wheatcrofts Road",
+      "Nungambakkam",
+      "Chennai",
+      "Tamil Nadu",
+      "600034"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "Tamil Nadu"
+    ]
+  }
+}

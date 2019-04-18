@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Sugnaben Patel",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "9909223826"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9027",
+  "name": "DIVYAJYOTI FOUNDATION",
+  "primaryEmail": "divyajyotifoundation2003@gmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning"
+  ],
+  "telephone": [
+    "919909223826"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "43.Samrudhhi Deep Near Town Hall Balasinor",
+      "A-7,Falguni Appartment,Chandranagar,Paldi,Ahmedabad",
+      "Balasinor",
+      "Kheda",
+      "Gujarat",
+      "388255"
+    ]
+  }
+}

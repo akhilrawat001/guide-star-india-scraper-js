@@ -1,0 +1,41 @@
+{
+  "contacts": [
+    {
+      "name": "SATISH CHAND YADAV",
+      "email": "mkss.mzp@gmail.com",
+      "designation": "Manager",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4863",
+  "name": "MANYAVAR KANSHIRAM SHIKSHAN SANSTHAN",
+  "primaryEmail": "mkss.mzp@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919696052975"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "MANYWAR KANSHIRAM SIKCHARN SANSTHAN",
+      "VILLAGE - PAGAR, POST - LAHANGPUR (HARDI GULALPUR)",
+      "MIRZAPUR",
+      "Mirzapur",
+      "Uttar Pradesh",
+      "231001"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "MANYAVAR KANSHIRAM SHIKSHAN SANSTHAN",
+      "VILLAGE - PAGAR, POST - LAHANGPUR (HARDI GULALPUR)",
+      "MIRZAPUR",
+      "Mirzapur",
+      "Uttar Pradesh",
+      "231001"
+    ]
+  }
+}

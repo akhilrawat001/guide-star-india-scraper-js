@@ -1,0 +1,67 @@
+{
+  "contacts": [
+    {
+      "name": "Nalini Tudu",
+      "email": "nalinitudu@gmail.com",
+      "designation": "Board Member",
+      "mobile": [
+        "91-9153025818"
+      ]
+    },
+    {
+      "name": "Nalini Tudu",
+      "email": "nalinitudu@gmail.com",
+      "designation": "Board Member",
+      "mobile": [
+        "91-9153025818"
+      ]
+    },
+    {
+      "name": "Nalini Tudu",
+      "email": "nalinitudu@gmail.com",
+      "designation": "Board Member",
+      "mobile": [
+        "91-9153025818"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5835",
+  "name": "Kamala Gramya Bikash Samity",
+  "primaryEmail": "kgbsociety@gmail.com",
+  "website": "www.kgbsociety.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919153120386",
+    "913463275080",
+    "913463255246"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Prantik",
+      "Post  Santiniketan",
+      "Bolpursantiniketan",
+      "Birbhum",
+      "West Bengal",
+      "731235"
+    ]
+  },
+  "briefDescription": "Kamala Gramya Bikash samity is a social development organization, and its operating.Areas are whole Birbhum district. The main objects of this organization are to run, aid,Maintain, managed, technical Education, Library, Hospitals, and other Philanthropic.Program.",
+  "yearOfEstablishment": "2000",
+  "regiseredAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Prantik(opposite Guest Garden)",
+      "Post  Santiniketan",
+      "Bolpursantiniketan",
+      "Birbhum",
+      "West Bengal",
+      "731235"
+    ]
+  }
+}

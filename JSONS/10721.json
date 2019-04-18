@@ -1,0 +1,32 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10721",
+  "name": "Happy Feet Home Foundation",
+  "primaryEmail": "shah.mansi24@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919870220888"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "C/511, Lok Aangan,",
+      "Mulund Colony, Mulund (West)",
+      "Mumbai",
+      "Maharashtra",
+      "400082"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "C-511, Lok Aangan, Mulund colony ,",
+      "Mulund Colony, Mulund (West)",
+      "Mumbai",
+      "Maharashtra",
+      "400082"
+    ]
+  }
+}

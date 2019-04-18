@@ -1,0 +1,46 @@
+{
+  "contacts": [
+    {
+      "name": "Rajendra",
+      "email": "sitadevifoundation@yahoo.co.in",
+      "designation": "Founder & Head",
+      "mobile": [
+        "91-11-26712883",
+        "91-9873548975"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=838",
+  "name": "Sita Devi Foundation",
+  "primaryEmail": "sitadevifoundation@yahoo.co.in",
+  "website": "http://www.sitadevifoundation.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "911126712883",
+    "918750704556"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "44A/1 , Top Floor",
+      "Arjun Nagar , Safdarjung Enclave",
+      "New Delhi",
+      "South West Delhi",
+      "Delhi",
+      "110029"
+    ]
+  },
+  "briefDescription": "MISSION-We will promote financial literacy amongst financially challenged population of urban areas in India through focused initiatives, innovative product design to financially empower them.VISION-‘To be an admired organization for the promotion of financial inclusion growth in India by contributing to the key enablers that aims to empower financially challenged urban poor how to manage their finances enabling them to lead a ‘better & quality life’.OUR VALUES-1.\tCare           2.\tIntegrity           3.\tTransparency           4.\tLearning by Doing           5.\tPassion for people           6.\tAmbition to serve and share           7.\tSocial ResponsibilityOUR DNA-Imagination , action, sincerity ,non-discriminatory approach & promote excellenceVALUE-PROPOSITION-Beneficiary caring & responsive,Trust,Longterm relationship with beneficiariesSTRATEGY STATEMENT-SDF aims to achieve its vision by focusing on different segments of urban poor through high quality and effective delivery mechanism.  SDF would follow the strategy of area penetration for increasing outreach and would expand to new geographies with well tested programmes (existing and modified); the thrust of the overall strategy over time will be to adopt the latest technology .",
+  "yearOfEstablishment": "2002",
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "Sector - B, Pocket - 5 & 6, Flat No. 4507, Vasant Kunj",
+      "New Delhi",
+      "Delhi",
+      "110070"
+    ]
+  }
+}

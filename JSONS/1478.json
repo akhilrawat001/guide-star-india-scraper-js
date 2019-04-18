@@ -1,0 +1,35 @@
+{
+  "contacts": [
+    {
+      "name": "N.Soundrapandiyan",
+      "email": "",
+      "designation": "Program Director",
+      "mobile": []
+    },
+    {
+      "name": "N.Soundrapandiyan",
+      "email": "",
+      "designation": "Program Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1478",
+  "name": "Vinayaga Perarasar Trust",
+  "primaryEmail": "vinayagarperarasartrust@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919443666152"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "2/79, Sabanayagar street,",
+      "M.Udaiyur&post, Lalpet(via), Kattumannarkoil Tk",
+      "Cuddalore",
+      "Tamil Nadu",
+      "608303"
+    ]
+  }
+}

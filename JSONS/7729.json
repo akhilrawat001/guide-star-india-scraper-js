@@ -1,0 +1,35 @@
+{
+  "contacts": [
+    {
+      "name": "Niranjan Raju",
+      "email": "surabhitrust@gmail.com",
+      "designation": "Donor Co-ordinator",
+      "mobile": [
+        "91-9844415458"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7729",
+  "name": "SURABHI FOUNDATION TRUST",
+  "primaryEmail": "surabhitrust@gmail.com",
+  "website": "www.surabhifoundation.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919844415458"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "No 22, 1st cross, Siddappa Layout, Gubbalala,",
+      "Kanakapura Main road,",
+      "Subramayapura post,",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560061"
+    ]
+  },
+  "briefDescription": "Surabhi Foundation Trust is an NGO established in August 2005, under Societies Act; for Capacity  Building among the rural population aiming at Empowering the development of children and women in rural areas.Vision: To provide  qualitative  Education,  Health care , Women Empowerment,  Environment",
+  "yearOfEstablishment": "2005"
+}

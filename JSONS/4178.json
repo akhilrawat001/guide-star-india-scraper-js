@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "Sonai Muthu",
+      "email": "saadows@yahoo.co.in",
+      "designation": "Executive Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4178",
+  "name": "Social Awareness and Development Organisation for Women",
+  "primaryEmail": "saadows@yahoo.co.in",
+  "telephone": [
+    "914544245111",
+    "914544245111"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "1/275,",
+      "Behind Centeal Park",
+      "Natham Taluk",
+      "Dindigul",
+      "Tamil Nadu",
+      "624401"
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "contacts": [
+    {
+      "name": "Shyam Shinde",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "41284283"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4880",
+  "name": "The Rashtriya Life Saving Society",
+  "primaryEmail": "shyam.shinde@lifesavingindia.org",
+  "website": "www.lifesavingindia.org",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "912041284283",
+    "912041284283"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Gulmohar Cottages, 8/103, Viman Nagar,",
+      "Pune",
+      "Maharashtra",
+      "411014",
+      "RLSS 12 - 13.PDF"
+    ]
+  }
+}

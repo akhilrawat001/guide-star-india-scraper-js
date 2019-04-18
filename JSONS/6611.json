@@ -1,0 +1,36 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6611",
+  "name": "Cardiac Research And Education Foundation",
+  "primaryEmail": "INFO@CAREFOUNDATION.ORG.IN",
+  "website": "WWW.CAREFOUNDATION.ORG.IN",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service"
+  ],
+  "telephone": [
+    "914039116125"
+  ],
+  "mainAddrress": {
+    "state": "Telangana",
+    "address": [
+      "8-2-595/2/B, CARE CONVERGENCE CENTRE",
+      "ROAD NO 10, BANJARA HILLS",
+      "HYDERABAD",
+      "Hyderabad",
+      "Telangana",
+      "500034"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Telangana",
+    "address": [
+      "8-2-595/2/B, CARE CONVERGENCE CENTRE",
+      "ROAD NO 10, BANJARA HILLS",
+      "HYDERABAD",
+      "Hyderabad",
+      "Telangana",
+      "500034"
+    ]
+  }
+}

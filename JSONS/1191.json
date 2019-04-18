@@ -1,0 +1,26 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1191",
+  "name": "Lead Foundation",
+  "primaryEmail": "info@lead-foundation.org",
+  "website": "http://www.lead-foundation.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service"
+  ],
+  "mainAddrress": {
+    "address": []
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "606, Neha Apt, Plot-7,",
+      "Sec-20C, Airoli",
+      "Navi-Mumbai",
+      "Thane",
+      "Maharashtra",
+      "400708",
+      "AP_TelBill_1095.PDF"
+    ]
+  }
+}

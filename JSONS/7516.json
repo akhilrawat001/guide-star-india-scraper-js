@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Dr. Prakash Chavda",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7516",
+  "name": "JAN AROGYA SIKSHAN SANSTHAN",
+  "primaryEmail": "prakashchavda01511@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919824601511"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "9, Vijaynagar Society",
+      "Bhavnagar Road",
+      "Rajkot",
+      "Gujarat",
+      "360003"
+    ]
+  }
+}

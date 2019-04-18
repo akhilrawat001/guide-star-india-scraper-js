@@ -1,0 +1,40 @@
+{
+  "contacts": [
+    {
+      "name": "santosh bhausaheb shinde",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6020",
+  "name": "RAJMATA JIJAU BAHUUDDESHIYA SAMAJIK AND SHAIKSHANIK SANSTHA",
+  "primaryEmail": "rjbsss09@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "917588165777"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "at;shahapur,post;ghodegawon.ta;gangapur,dist;aurangabas,state;maharastra",
+      "Ta;gangapur,",
+      "Aurangabad",
+      "Maharashtra",
+      "423702"
+    ]
+  },
+  "briefDescription": "RAJMATA JIJAU BAHUUDDESHIYA SAMAJIK AND SHAIKSHANIK SANSTHA is a registered organization from Shahapur, Maharashtra",
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "at;shahapur,post;ghodegawon",
+      "Ta;gangapur,",
+      "Aurangabad",
+      "Maharashtra",
+      "423702"
+    ]
+  }
+}

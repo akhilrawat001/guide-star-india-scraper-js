@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Fayaz Ahmad",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6802",
+  "name": "BANDIPORA COLLEGE OF INFORMATION TECHNOLOGY",
+  "primaryEmail": "bcitbpr@yahoo.com",
+  "website": "www.bcit-edu.net",
+  "organisationType": [
+    "Direct Service",
+    "Grant-making"
+  ],
+  "telephone": [
+    "919797025629"
+  ],
+  "mainAddrress": {
+    "state": "Jammu and Kashmir",
+    "address": [
+      "Bandipora College of Information Technology",
+      "Opposite Handloonm Department,",
+      "Main Road Bandipora Kashmir",
+      "Baramulla",
+      "Jammu and Kashmir",
+      "193502"
+    ]
+  }
+}

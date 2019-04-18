@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "Karri Manmadha Rao",
+      "email": "",
+      "designation": "Executive Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=744",
+  "name": "Chaitanya Bharathi",
+  "primaryEmail": "cbvzm91@rediffmail.com",
+  "telephone": [
+    "918922237676",
+    "918922237676"
+  ],
+  "mainAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "Plot No 70, C.B.Colony",
+      "Po- Contonment",
+      "Vizianagaram",
+      "Andhra Pradesh",
+      "535003"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "Sainagar, Thotapalem",
+      "Vizianagaram",
+      "Andhra Pradesh",
+      "535003"
+    ]
+  }
+}

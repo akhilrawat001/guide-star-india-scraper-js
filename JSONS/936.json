@@ -1,0 +1,35 @@
+{
+  "contacts": [
+    {
+      "name": "Harendra Pandey",
+      "email": "",
+      "designation": "secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=936",
+  "name": "Antyaj Seva Samiti",
+  "primaryEmail": "info@antyajsewasamiti.org",
+  "website": "www.antyajsewasamiti.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "916155265463",
+    "919431062639"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "VILL+PO- RASHULPUR,",
+      "Patna",
+      "Bihar",
+      "800001"
+    ]
+  }
+}

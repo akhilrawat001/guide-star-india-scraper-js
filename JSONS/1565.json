@@ -1,0 +1,27 @@
+{
+  "contacts": [
+    {
+      "name": "RomeoYuhlung",
+      "email": "",
+      "designation": "Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1565",
+  "name": "United Tribal Development Project",
+  "primaryEmail": "romeochothe@rediffmail.com",
+  "telephone": [
+    "919436085824"
+  ],
+  "mainAddrress": {
+    "state": "Manipur",
+    "address": [
+      "Chandonpokki",
+      "phaipi, PO- Pallel,",
+      "Chandonpokpi Chandel",
+      "Chandel",
+      "Manipur",
+      "795127"
+    ]
+  }
+}

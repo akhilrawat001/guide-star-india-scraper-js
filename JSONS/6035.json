@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Jitesh Sadashiv Polke",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "9763966554"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6035",
+  "name": "GRAMVIKAS MANDAL",
+  "primaryEmail": "gramvikas.1140@rediffmail.com",
+  "website": "www.gramvikasngo.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919763966554"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Behind Old Prakash Stores, Malkapur Road, Old Town, Buldana",
+      "Old Town, Buldana",
+      "Buldana",
+      "Buldhana",
+      "Maharashtra",
+      "443001"
+    ]
+  }
+}

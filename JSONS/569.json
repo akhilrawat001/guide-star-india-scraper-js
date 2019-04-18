@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "name": "A Arokiasamy",
+      "email": "",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=569",
+  "name": "People’s Multipurpose Development Society",
+  "primaryEmail": "pmd_samy@rediffmail.com",
+  "telephone": [
+    "914153267261",
+    "914146224050"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "PMD-Fraternity Center, Mangalapuram",
+      "Kakkanur.B.O",
+      "Kedar",
+      "Viluppuram",
+      "Tamil Nadu",
+      "605402"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "Fraternity Center, Mangalapuram",
+      "Kakkanur.B.O",
+      "Kedar",
+      "Viluppuram",
+      "Tamil Nadu",
+      "605402"
+    ]
+  }
+}

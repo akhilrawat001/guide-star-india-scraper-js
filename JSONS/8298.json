@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Satyabhama Rath",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8298",
+  "name": "SOCIETY FOR WOMEN EMPOWERMENT THROUGH DEVELOPMENTAL ACTION (SWETDA)",
+  "primaryEmail": "satyaswetda@yahoo.co.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919778026124"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "At-Rupas, P.O.-Garhrupas,Via-Gop",
+      "Konark",
+      "Puri",
+      "Odisha",
+      "752110"
+    ]
+  }
+}

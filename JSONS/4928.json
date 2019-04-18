@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Gopiselvi M",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4928",
+  "name": "MATHI FOUNDATION",
+  "primaryEmail": "mathifoundation06@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919789697801"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "10-1-5,",
+      "Annanagar Mainroad,",
+      "Pattiveeranpatti,Nilakottai taluka,",
+      "Dindigul",
+      "Tamil Nadu",
+      "624211"
+    ]
+  }
+}

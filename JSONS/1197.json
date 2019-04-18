@@ -1,0 +1,49 @@
+{
+  "contacts": [
+    {
+      "name": "Payal Patel",
+      "email": "dsp@vncindia.org",
+      "designation": "Trustee",
+      "mobile": [
+        "91-9662042170"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1197",
+  "name": "Vidyanagar Nature Club",
+  "primaryEmail": "info@vncindia.org",
+  "website": "https://www.vncindia.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service"
+  ],
+  "telephone": [
+    "912692230143",
+    "919898142170",
+    "919662042170"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "Shriji Niwas, 101 - Radha Darshan",
+      "Behind Union Bank",
+      "Vallabh Vidyanagar",
+      "Anand",
+      "Gujarat",
+      "388120"
+    ]
+  },
+  "briefDescription": "VNC strives to create an environmentally sensitive society which says 'I Care for Nature'.It has been our mission to educate the masses and to spread awareness about the crucial need for environmental protection. The organization has evolved with changing times, creating novel ways to communicate with society, thereby, shifting the attitude of thousands of people by environmentally sensitizing them.",
+  "yearOfEstablishment": "2003",
+  "regiseredAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "Shriji Niwas,",
+      "Behind Union Bank",
+      "Vallabh Vidyanagar",
+      "Anand",
+      "Gujarat",
+      "388120"
+    ]
+  }
+}

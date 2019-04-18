@@ -1,0 +1,49 @@
+{
+  "contacts": [
+    {
+      "name": "Hiren Shah",
+      "email": "charity@srloveandcare.org",
+      "designation": "Secretary Trustee",
+      "mobile": [
+        "91-9821096964"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1519",
+  "name": "Shrimad Rajchandra Educational Trust",
+  "primaryEmail": "loveandcare@shrimadrajchandramission.org",
+  "website": "http://www.shrimadrajchandramission.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Support"
+  ],
+  "telephone": [
+    "912223511352",
+    "919820032616",
+    "919819951135"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Patel Chambers, Third Floor, Plot - 13,",
+      "Padmakar L Khandke Marg,Opera House, Mathew Road,",
+      "Mumbai",
+      "Maharashtra",
+      "400004"
+    ]
+  },
+  "briefDescription": "An initiative to offer service and bring joy to the lives of the underprivileged sections of our society.  Included in this programme are 10 Cares related to mankind, animals and the environment:1. Health Care2. Educational Care3. Child Care4. Woman Care5. Tribal Care6. Community Care7. Humanitarian Care8. Emergency Relief Care9. Animal Care10.Environmental Care",
+  "yearOfEstablishment": "2004",
+  "regiseredAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "Shrimad Rajchandra Guruku,Kanjveri Road, Karanjvri,",
+      "Dharampur",
+      "Valsad",
+      "Gujarat",
+      "396051"
+    ]
+  }
+}

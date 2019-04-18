@@ -1,0 +1,34 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10496",
+  "name": "BASIC HEALTH CARE SERVICES",
+  "primaryEmail": "basichealthcaretrust@gmail.com",
+  "website": "http://www.bhs.org.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "912942451062"
+  ],
+  "mainAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "39",
+      "Krishna Colony Bedla Road",
+      "Udaipur",
+      "Rajasthan",
+      "313001"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "L-141",
+      "Sarita Vihar",
+      "New Delhi",
+      "South East Delhi",
+      "Delhi",
+      "110017"
+    ]
+  }
+}

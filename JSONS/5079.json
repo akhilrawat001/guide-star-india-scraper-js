@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Debajyoti Adhikary",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5079",
+  "name": "JIAGANJ COMMUNITY BASED ACTION WELFARE SOCIETY",
+  "primaryEmail": "jcbaws.ngo@gmail.com",
+  "website": "NA",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "913483256406",
+    "913483256406"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "VILL-RASH PARA, PO-JIAGANJ, DIST-MURSHIDABAD,STATE-WEST BENGAL",
+      "Rashpara",
+      "Murshidabad",
+      "West Bengal",
+      "742123"
+    ]
+  }
+}

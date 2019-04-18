@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Arun Khandagale",
+      "email": "",
+      "designation": "Manager",
+      "mobile": [
+        "91-233-2671318"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1176",
+  "name": "Yerala Projects Society",
+  "primaryEmail": "san_ypssli@sancharnet.in",
+  "telephone": [
+    "912332671318",
+    "912332675918"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Yerala Bhavan, Near Guest House",
+      "Sangli-Miraj Road,Vishrambag",
+      "Sangli",
+      "Maharashtra",
+      "416415",
+      "AP_Other_1079.PDF"
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "Harish V",
+      "email": "harish@rhythmofnation.org",
+      "designation": "Chief Human Resources",
+      "mobile": [
+        "91-7751889711"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5143",
+  "name": "RHYTHM OF NATION FOUNDATION",
+  "primaryEmail": "hello@rhythmofnation.org",
+  "website": "www.rhythmofnation.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network"
+  ],
+  "telephone": [
+    "919995114741"
+  ],
+  "mainAddrress": {
+    "state": "Kerala",
+    "address": [
+      "RON Foundation, D-1, 517/XIV,Kulangara Valappil (H)",
+      "P.O. Madakkathara",
+      "Thrissur",
+      "Kerala",
+      "680651"
+    ]
+  },
+  "briefDescription": "In life, many thoughts are born in the course of a moment, an hour, a day. Some are dreams, some visions. Often, we are unable to distinguish between them. To some, they are the same; however, not all dreams are visions. Rhythm Of Nation (RON) is a vision turned dream. A vision that aims at inspiring the youth of our nation to embark a journey of responsibility.We focus on computer education for the underprivilaged & various youth activities.",
+  "yearOfEstablishment": "2011"
+}

@@ -1,0 +1,25 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8015",
+  "name": "Divyashakti Yogpith (Akhada)",
+  "primaryEmail": "divyashaktiyog@gmail.com",
+  "website": "http://maheshwariakhada.blogspot.in/",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919405826464",
+    "912442227073"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Shri Gajanan,",
+      "Shri Mahesh Chowk,",
+      "Beed",
+      "Maharashtra",
+      "431122"
+    ]
+  }
+}

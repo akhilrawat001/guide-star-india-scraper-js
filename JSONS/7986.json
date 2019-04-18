@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Suresh Wadkar",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7986",
+  "name": "Mahila Vikas Va Shishu Sanskar Kendra",
+  "primaryEmail": "mvassk2000@yahoo.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "912223777040",
+    "912223777040"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "208, Vardhaman Chambers, Kalyan Street,",
+      "Dana Bunder, Maszid Bunder,",
+      "Mumbai",
+      "Maharashtra",
+      "400009"
+    ]
+  }
+}

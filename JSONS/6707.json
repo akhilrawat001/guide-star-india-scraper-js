@@ -1,0 +1,35 @@
+{
+  "contacts": [
+    {
+      "name": "Jeyanthi",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "9486703344"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6707",
+  "name": "AMBIHA CHARITABLE TRUST",
+  "primaryEmail": "k_samy12@yahoo.co.in",
+  "website": "nil",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network"
+  ],
+  "telephone": [
+    "919486703344"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "34,i",
+      "west  street",
+      "Sellapatti,Thiruvengadam,Sankarankovil[taluka]",
+      "Tirunelveli",
+      "Tamil Nadu",
+      "627719"
+    ]
+  }
+}

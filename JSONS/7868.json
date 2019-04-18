@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Mr.Sagar  Shimpi",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7868",
+  "name": "SWAMI VIVEKANANDA LALIT KALA VA KRIDA MANDAL",
+  "primaryEmail": "svlalitkala2014@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919175937700"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Arunoday Colony, Plot No 8A",
+      "At Post Tal- Chopda",
+      "Jalgaon",
+      "Maharashtra",
+      "425107"
+    ]
+  }
+}

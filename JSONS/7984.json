@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Saad Najmuddin Kazi",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7984",
+  "name": "ASRA FOUNDATION",
+  "primaryEmail": "saadk@email.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919892176841"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Asra Foundation'S Kalsekar English School,",
+      "Abdul Qadir Fakih Compound, Govindwadi,",
+      "Kalyan (West)",
+      "Thane",
+      "Maharashtra",
+      "421301"
+    ]
+  }
+}

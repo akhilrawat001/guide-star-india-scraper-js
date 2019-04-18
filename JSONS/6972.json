@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "Mr.P.N.Sakhare",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6972",
+  "name": "Anjali Magasvargiya Mahila Vikas Bahuuddeshiya Sanstha Murumtola",
+  "primaryEmail": "nanjaliarts@gmail.com",
+  "website": "nanjaliarts.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919421716018",
+    "919826450992"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Murumtola(Salekasa),",
+      "Taluka-Salekasa",
+      "Gondia",
+      "Maharashtra",
+      "441916"
+    ]
+  },
+  "briefDescription": "Produces and Exporters of Indian handcrafts made of cane and bamboo,clay,coir,cotton,glass,jute,paper,wood,fashion designing"
+}

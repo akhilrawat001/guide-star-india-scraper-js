@@ -1,0 +1,34 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5616",
+  "name": "NalandaWay Foundation",
+  "primaryEmail": "sriram@nalandaway.org",
+  "website": "http://www.nalandaway.org/",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919884499196",
+    "914443500127"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "AH-123, 4th Street, Anna Nagar",
+      "Chennai",
+      "Tamil Nadu",
+      "600040"
+    ]
+  },
+  "briefDescription": "NalandaWay Foundation is a non-profit that works with children from the poorest districts in India, helping them raise their voices and issues through theatre, visual arts, music, dance, radio and films. Over 44,000 children in Tamil Nadu, Andhra Pradesh, Delhi, Bihar and Jammu & Kashmir have benefited from our programmes. Our interventions have helped them become creative, learn life-skills and build self-confidence to create the lives that they truly want to lead.",
+  "yearOfEstablishment": "2003",
+  "regiseredAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "Flat 1/C, B S Apartments, No. 12, 1st Main road, Sayee Nagar, Virugambakkam,",
+      "Chennai",
+      "Tamil Nadu",
+      "600092"
+    ]
+  }
+}

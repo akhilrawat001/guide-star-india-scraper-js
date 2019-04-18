@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Subhajit Sengupta",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8565",
+  "name": "Behala14 No Welfare Society",
+  "primaryEmail": "behalafortin@gmail.com",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "918334842999",
+    "918600786637"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "26/2,",
+      "S N Chatterjee Road, Behala",
+      "Kolkata",
+      "West Bengal",
+      "700038"
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "contacts": [
+    {
+      "name": "Girija Sudheendran",
+      "email": "",
+      "designation": "Trustee",
+      "mobile": []
+    },
+    {
+      "name": "Girija Sudheendran",
+      "email": "",
+      "designation": "Trustee",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=233",
+  "name": "Sahaayika",
+  "primaryEmail": "sahaayikachennai@yahoo.co.in",
+  "telephone": [
+    "914426212126",
+    "914442171217",
+    "919840066637"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "AH 60, New 32",
+      "5th Street, Anna Nagar",
+      "Chennai",
+      "Tamil Nadu",
+      "600040"
+    ]
+  }
+}

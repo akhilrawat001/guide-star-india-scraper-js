@@ -1,0 +1,43 @@
+{
+  "contacts": [
+    {
+      "name": "Mohammad Riyaz Siddiqui",
+      "email": "shakirasiddiquisewasansthan@gmail.com",
+      "designation": "President",
+      "mobile": []
+    },
+    {
+      "name": "Mohammad Riyaz Siddiqui",
+      "email": "shakirasiddiquisewasansthan@gmail.com",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6019",
+  "name": "SHAKIRA SIDDIQUI SEWA SANSTHAN",
+  "primaryEmail": "riyazsiddiqui15@yahoo.com",
+  "website": "www.sssewasansthan.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919598068438"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "D-21, Safipur, Unnao",
+      "Vill & Post-Unwan, Teh- Safipur",
+      "Unnao,",
+      "Unnao",
+      "Uttar Pradesh",
+      "209871"
+    ]
+  },
+  "briefDescription": "SHAKIRA SIDDIQUI SEWA SANSTHAN is a registered organization from Unnao,Uttar Pradesh.",
+  "yearOfEstablishment": "2011"
+}

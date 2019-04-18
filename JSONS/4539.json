@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Mohan Salekar",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4539",
+  "name": "SANSKRUTI SAMVARDHAN PRATISHTHAN, MUMBAI",
+  "primaryEmail": "sanskrutisamvardhan@gmail.com",
+  "website": "http://www.sanskrutisamvardhan.org.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "912224302083",
+    "912224302083"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "ROOM NO.6, 1ST FLOOR, BEDEKAR SADAN NO.7, MOGUL LANE, MAHIM WEST",
+      "OPP.TENDULKAR HALL, MAHIM WEST",
+      "MUMBAI",
+      "Mumbai",
+      "Maharashtra",
+      "400016"
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1427",
+  "name": "AKHIL BHARTIYA GRAMODYOG SEVA SANSTHAN",
+  "primaryEmail": "abgss@rediffmail.com",
+  "website": "http://www.abgss.org",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "919415054432",
+    "915252235432"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "VILL-HEMARIA",
+      "PO-TENDWABASANTPUR,SHANTINAGAR,LUCKNOW ROAD",
+      "BAHRAICH",
+      "Bahraich",
+      "Uttar Pradesh",
+      "271801"
+    ]
+  }
+}

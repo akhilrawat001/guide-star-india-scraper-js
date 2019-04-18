@@ -1,0 +1,41 @@
+{
+  "contacts": [
+    {
+      "name": "D S Rawat",
+      "email": "rawatceo@gmail.com",
+      "designation": "President/CEO",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8125",
+  "name": "Rural Association for Womens Alligatory Tribute",
+  "primaryEmail": "rawatorg@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "911125382526"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "RZ-222,",
+      "Shiv Block",
+      "Raghu Nagar,",
+      "South West Delhi",
+      "Delhi",
+      "110045"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "RZ/S2 NANDA BLOCK",
+      "MAHAVIR ENCLAVE PALAM",
+      "NEW DELHI",
+      "New Delhi",
+      "Delhi",
+      "110009"
+    ]
+  }
+}

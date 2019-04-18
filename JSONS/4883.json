@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Jeremiah Hial",
+      "email": "miraclecharities@gmail.com",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4883",
+  "name": "Miracle Charitable Society",
+  "primaryEmail": "miraclecharities@gmail.com",
+  "website": "mcsindia.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "+911294131596",
+    "911294131596"
+  ],
+  "mainAddrress": {
+    "state": "Haryana",
+    "address": [
+      "256 I.P.Colony",
+      "Sector 30-33",
+      "Faridabad",
+      "Haryana",
+      "121003"
+    ]
+  }
+}

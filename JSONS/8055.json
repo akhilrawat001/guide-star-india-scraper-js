@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Rashmi",
+      "email": "mdifindia@gmail.com",
+      "designation": "Member",
+      "mobile": []
+    },
+    {
+      "name": "Rashmi",
+      "email": "mdifindia@gmail.com",
+      "designation": "Member",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8055",
+  "name": "DEVELOPMENT INNOVATION FOUNDATION",
+  "primaryEmail": "mdifindia@gmail.com",
+  "website": "www.girls2schools.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "mainAddrress": {
+    "address": []
+  },
+  "briefDescription": "Development Innovation Foundation (DIF) India is an initiative to strengthen and nurture innovation in the development sector across as cause neutral organization in order to build sustainable communities across boundaries. We nurture change through innovation and facilitating aid support. DIF was started by a few young professionals from the development sector who wanted to create not just a new model for an NGO, but also to introduce an innovative and transparent system of working with communities.",
+  "yearOfEstablishment": "2015"
+}

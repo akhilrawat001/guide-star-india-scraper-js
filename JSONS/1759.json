@@ -1,0 +1,33 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1759",
+  "name": "DAYA (Destitute, Aged Young Association)",
+  "primaryEmail": "daya@dayaindia.org",
+  "website": "www.dayaindia.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919438339180"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "Plot 1",
+      "Ghatikia,",
+      "Khandagiri",
+      "Khordha",
+      "Odisha",
+      "751030"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Odisha",
+    "address": [
+      "Nayaraini Road",
+      "Kandhamal",
+      "Odisha",
+      "762001"
+    ]
+  }
+}

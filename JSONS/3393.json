@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "sakshi sharma",
+      "email": "sakshi@pscindia.org",
+      "designation": "Company Secretary",
+      "mobile": [
+        "2297864",
+        "9785400270"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3393",
+  "name": "Planned Social Concern",
+  "primaryEmail": "sakshi@pscindia.org",
+  "website": "http://www.pscindia.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "911412441214",
+    "919649918857"
+  ],
+  "mainAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "41, ARPIT NAGAR",
+      "GANDHI PATH, VAISHALI NAGAR",
+      "Jaipur",
+      "Rajasthan",
+      "302021"
+    ]
+  },
+  "briefDescription": "Planned Social Concern (PSC) is providing micro credit to rural women entrepreneurs in villages of Jaipur District, Rajasthan, India. PSC focuses on quality services to its customers through dedicated financial literacy and livelihood advises. PSC is a not for profit entity working with business attitude. Presently PSC is serving more then 6,000 customers in 300 villages in Jaipur District. PSC has its corporate office in Delhi and operates from Regional Office, Jaipur",
+  "yearOfEstablishment": "2006"
+}

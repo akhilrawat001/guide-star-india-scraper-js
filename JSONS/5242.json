@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Ambalika Mukherjee",
+      "email": "planetbluefoundation@gmail.com",
+      "designation": "Secretary",
+      "mobile": [
+        "91-9874845278"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5242",
+  "name": "Planet Blue Foundation",
+  "primaryEmail": "planetbluefoundation@gmail.com",
+  "website": "http://planetbluefoundation.in/",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service"
+  ],
+  "telephone": [
+    "919830016306"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "26",
+      "Russa Road East First Lane",
+      "Kolkata",
+      "West Bengal",
+      "700033"
+    ]
+  }
+}

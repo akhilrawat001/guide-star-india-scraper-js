@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "R.MANOHARAN",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5003",
+  "name": "TAMILNADU ADIDRAVIDAR HOUSING DEVELOPMENT FOUNDATION (TAHDFO)",
+  "primaryEmail": "Like_mano@yahoo.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919095388467"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "No 3, Marthi Nagar,",
+      "Gundur, Burma Colony,",
+      "Trichy - 7",
+      "Tiruchirappalli",
+      "Tamil Nadu",
+      "620007"
+    ]
+  }
+}

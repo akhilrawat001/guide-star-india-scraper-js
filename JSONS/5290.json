@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "P.RUBAN",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "9491310821"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5290",
+  "name": "RURAL EDUCATIONAL MEDICAL AND ECONOMICAL DEVELOPMENT SOCIETY",
+  "primaryEmail": "remeds_india@yahoo.co.in",
+  "website": "GABRIEL SCHOOL COMPUND ,70 KOTTAPALLI, IRRUVARAM POST, VIA NEW RTO OFFICE ROAD CHITTOOR, A.P, INDIA.",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "9491310821"
+  ],
+  "mainAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "p.no 50 old prasanth nagar",
+      "Gabriel School Compound",
+      "Iruvaram Post, Chittoor District",
+      "Chittoor",
+      "Andhra Pradesh",
+      "517128"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "contacts": [
+    {
+      "name": "Child Awareness Project",
+      "email": "info@thecapro.org",
+      "designation": "General Inquiries",
+      "mobile": []
+    },
+    {
+      "name": "Child Awareness Project",
+      "email": "info@thecapro.org",
+      "designation": "General Inquiries",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10895",
+  "name": "CHILD AWARENESS PROJECT",
+  "primaryEmail": "info@thecapro.org",
+  "website": "http://thecapro.org",
+  "organisationType": [
+    "Advocacy & Campaigning"
+  ],
+  "telephone": [
+    "919500094949"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "2nd Floor, 11, Cenatoph 1st Street",
+      "Chennai",
+      "Tamil Nadu",
+      "600018"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "11, Cenatoph 1st Street",
+      "Chennai",
+      "Tamil Nadu",
+      "600018"
+    ]
+  }
+}

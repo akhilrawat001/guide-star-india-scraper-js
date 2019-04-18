@@ -1,0 +1,26 @@
+{
+  "contacts": [
+    {
+      "name": "Faiyaz Basha",
+      "email": "faiz_knl@yahoo.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2927",
+  "name": "Chand Minority Welfare Organisation",
+  "primaryEmail": "faiz_knl@yahoo.com",
+  "telephone": [
+    "919441612957"
+  ],
+  "mainAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "H.No.41-419A,",
+      "Kotha Peta,",
+      "Kurnool",
+      "Andhra Pradesh",
+      "518002"
+    ]
+  }
+}

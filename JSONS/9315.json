@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Rajeev Ranjan",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9315",
+  "name": "GANGA DEVI MEMORIAL TRUST",
+  "primaryEmail": "gdmtrust@gmail.com",
+  "website": "http://www.gdmtgroup.org/",
+  "organisationType": [
+    "Direct Service",
+    "Grant-making"
+  ],
+  "telephone": [
+    "919798998514",
+    "919060898261"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "GDMT,  Devendra Nath Dikshit, Prbhunath Nagar",
+      "Saran",
+      "Bihar",
+      "841301"
+    ]
+  },
+  "briefDescription": "Ganga Devi Memorial Trust is located in Saran, Bihar.",
+  "yearOfEstablishment": "2013"
+}

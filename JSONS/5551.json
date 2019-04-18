@@ -1,0 +1,39 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5551",
+  "name": "Voluntary Medicare Society",
+  "primaryEmail": "shafaqatspecialschool@gmail.com",
+  "website": "www.voluntarymedicare.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "01942494080",
+    "911942494080"
+  ],
+  "mainAddrress": {
+    "state": "Jammu and Kashmir",
+    "address": [
+      "voluntary medicare society, adjacent to hajj house bemina byepass",
+      "national highway",
+      "srinagar",
+      "Srinagar",
+      "Jammu and Kashmir",
+      "190019"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Jammu and Kashmir",
+    "address": [
+      "voluntary medicare society, adjacent to hajj house bemina byepass",
+      "national highway",
+      "srinagar",
+      "Srinagar",
+      "Jammu and Kashmir",
+      "190018"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "contacts": [
+    {
+      "name": "JOGINDER SINGH",
+      "email": "joginderjsingh@yahoo.com",
+      "designation": "DIRECTOR-TRAINING",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5749",
+  "name": "DALJIT MEMORIAL SOCIETY",
+  "primaryEmail": "joginderjsingh@yahoo.com",
+  "telephone": [
+    "919810398461"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "E-18 , PRASHANT VIHAR",
+      "NEW DELHI",
+      "New Delhi",
+      "Delhi",
+      "110085"
+    ]
+  }
+}

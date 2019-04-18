@@ -1,0 +1,35 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7580",
+  "name": "GRAM SATHI",
+  "primaryEmail": "gramsathi@gmail.com",
+  "website": "www.gramsathi.org",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "918809597125"
+  ],
+  "mainAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "T.K Ghosh Campus Kumudani Ghosh Road,",
+      "Barmasia",
+      "Deoghar",
+      "Jharkhand",
+      "814112"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Bihar",
+    "address": [
+      "Village & PO.-Uper Chak Marhiya,",
+      "Katiyari",
+      "Katoria",
+      "Banka",
+      "Bihar",
+      "813106"
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Dr.Sechan Yadav",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7491",
+  "name": "SAMAJ KALYAN KRISHI PASHUPALAN VA TECHNIKI SHIKSHA KENDRA",
+  "primaryEmail": "ssyadavgzp09@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919450724711"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "CHAINPUR",
+      "SADAT",
+      "Ghazipur",
+      "Uttar Pradesh",
+      "255204"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Dr Lalit Gupta",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2798",
+  "name": "Medicare, Educare & Social Welfare Services Society",
+  "primaryEmail": "contact@mess.org.in",
+  "website": "www.mess.org.in",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919868120173"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "C 144/4",
+      "Street No. 5 Bhajanpura",
+      "Delhi",
+      "North East Delhi",
+      "110053"
+    ]
+  }
+}

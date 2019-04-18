@@ -1,0 +1,38 @@
+{
+  "contacts": [
+    {
+      "name": "Uma",
+      "email": "",
+      "designation": "Administrative Asst",
+      "mobile": []
+    },
+    {
+      "name": "Uma",
+      "email": "",
+      "designation": "Administrative Asst",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=390",
+  "name": "Kutumba",
+  "primaryEmail": "info@kutumba.org",
+  "website": "http://www.kutumba.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918025452749",
+    "918025452749"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "40324, Heerachand Lay out",
+      "Cox Town",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560005"
+    ]
+  }
+}

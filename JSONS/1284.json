@@ -1,0 +1,28 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1284",
+  "name": "Agewell Foundation",
+  "primaryEmail": "agewellfoundation@gmail.com",
+  "website": "www.agewellfoundation.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "911129836486",
+    "911129840484",
+    "911129836486"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "M-8A, Lajpat Nagar - II",
+      "New Delhi",
+      "Delhi",
+      "110024",
+      "AP_TelBill_2007.PDF"
+    ]
+  }
+}

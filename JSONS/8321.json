@@ -1,0 +1,24 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8321",
+  "name": "THE HELP",
+  "primaryEmail": "thehelpindia@gmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service"
+  ],
+  "telephone": [
+    "9937123237"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "At/Po - Langaleswar",
+      "Langaleswar",
+      "Dist - Baleswar",
+      "Baleswar",
+      "Odisha",
+      "756024"
+    ]
+  }
+}

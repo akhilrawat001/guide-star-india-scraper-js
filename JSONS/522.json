@@ -1,0 +1,36 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=522",
+  "name": "Antodaya",
+  "primaryEmail": "chairman@antodaya.org.in",
+  "website": "www.antodaya.org.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "916670232038",
+    "916670234012",
+    "919437070038",
+    "916670234012"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "Bahadur Bagicha Pada",
+      "Bhawanipatna",
+      "Kalahandi",
+      "Odisha",
+      "766001"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Odisha",
+    "address": [
+      "Kaniguma, Thuamul Rampur",
+      "Kalahandi",
+      "Odisha",
+      "766037",
+      "AP_TelBill_426.PDF"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1392",
+  "name": "The Armaan Foundation",
+  "primaryEmail": "mail@armaanfoundation.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "911615099097",
+    "917874002001"
+  ],
+  "mainAddrress": {
+    "state": "Punjab",
+    "address": [
+      "7571/4",
+      "Street No.3,New Amar Nagar,Backside A.T.I.",
+      "Ludhiana",
+      "Punjab",
+      "141003"
+    ]
+  }
+}

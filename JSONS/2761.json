@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "K.Dillibabu",
+      "email": "saranalayaindia@gmail.com",
+      "designation": "Treasurer",
+      "mobile": [
+        "91-9710316393"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2761",
+  "name": "The Megha Foundation",
+  "primaryEmail": "saranalayaindia@gmail.com",
+  "telephone": [
+    "919176780580"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "4/73, Kelma Nagar",
+      "83, Thadalam (Kovur)",
+      "Kancheepuram",
+      "Tamil Nadu",
+      "600122"
+    ]
+  }
+}

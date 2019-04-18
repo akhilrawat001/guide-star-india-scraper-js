@@ -1,0 +1,38 @@
+{
+  "contacts": [
+    {
+      "name": "C Govindakrishnan",
+      "email": "nethrodaya@gmail.com",
+      "designation": "Managing Trustee",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=416",
+  "name": "Nethrodaya",
+  "primaryEmail": "nethrodaya@yahoo.com",
+  "website": "http://www.nethrodaya.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service"
+  ],
+  "telephone": [
+    "914426565012",
+    "914426565012"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "No. 8, Spartan Nagar",
+      "Mogappair",
+      "Chennai",
+      "Tamil Nadu",
+      "600037"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "Tamil Nadu"
+    ]
+  }
+}

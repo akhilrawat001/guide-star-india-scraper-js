@@ -1,0 +1,48 @@
+{
+  "contacts": [
+    {
+      "name": "Peter Lakra",
+      "email": "communications@sshrishti.org",
+      "designation": "Executive - Communications",
+      "mobile": [
+        "91-9313748115"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=737",
+  "name": "SSHIRSTI",
+  "primaryEmail": "communications@sshrishti.org",
+  "website": "https://sshrishti.org/",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919313748115",
+    "919810203491"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "Flat No. 203, 1st Floor, Kabir Apartment",
+      "76/9 Kishangarh, Vasant Kunj",
+      "New Delhi",
+      "South Delhi",
+      "Delhi",
+      "110070"
+    ]
+  },
+  "briefDescription": "Sshrishti is an acclaimed Delhi-based NGO which has received considerable recognition for its work in the fields of education, digital literacy and women’s empowerment. We currently operate eight learning centres that reach out to almost 2,000 underprivileged children daily, offering them quality education and nutrition, as well as bridge-learning facilities. Sshrishti also provides digital literacy training to the youth giving them the opportunity for a better future, and works towards improving the lives of women through our programmes for digital literacy, skill development, livelihood generation and gender justice. Over the last 15 years, Sshrishti has impacted the lives of over 6.25 lakh individuals belonging to marginalised communities across several states, including NCR, Haryana, Uttar Pradesh and Uttarakhand.",
+  "yearOfEstablishment": "2003",
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "2270, Sector B-2,",
+      "Vasant Kunj",
+      "New Delhi",
+      "South Delhi",
+      "Delhi",
+      "110070",
+      "Trust deed for web.docx"
+    ]
+  }
+}

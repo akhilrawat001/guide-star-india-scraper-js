@@ -1,0 +1,23 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5400",
+  "name": "THE SOCIAL INSTITUTE OF ANTI CORRUPTION",
+  "primaryEmail": "thesiac@rediffmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service"
+  ],
+  "telephone": [
+    "8001491929"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Vill.:KRISHNAPUR, P.S.:NALHATI,Dist.: BIRBHUM, West Bengal, pin-731237",
+      "RAMPURHAT",
+      "Birbhum",
+      "West Bengal",
+      "731237"
+    ]
+  }
+}

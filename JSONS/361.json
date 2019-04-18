@@ -1,0 +1,25 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=361",
+  "name": "Good Shepherd Organization",
+  "primaryEmail": "gosonngo@yahoo.com",
+  "website": "http://www.goodshepherdfoundation.org/",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "914175233444",
+    "914175233444",
+    "914175233444"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "Sundara Maaligai, 711A",
+      "5th Street, Min Nagar, Vengikkal",
+      "Tiruvannamalai",
+      "Tamil Nadu",
+      "606604"
+    ]
+  }
+}

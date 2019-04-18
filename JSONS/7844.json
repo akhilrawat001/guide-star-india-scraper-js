@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "B T Hanumanthya",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7844",
+  "name": "AASARE SAMAJ SEVA SANSTH?A",
+  "primaryEmail": "aasare_shimoga@yahoo.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918095337418"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "AASARE HIG 57 HUDCO",
+      "NEAR KARRENNA BUILDING, 100 FT ROAD,VINOB NAGAR",
+      "SHIMOGA",
+      "Shivamogga (Shimoga)",
+      "Karnataka",
+      "577204"
+    ]
+  }
+}

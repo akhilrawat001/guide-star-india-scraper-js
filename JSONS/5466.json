@@ -1,0 +1,38 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5466",
+  "name": "SUGRAMA - Grama Panchayat Chunayitha Mahila Prathinidhigala Sangha - Karnataka",
+  "primaryEmail": "padananth.sugrama@gmail.com",
+  "website": "www.sugrama.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Intermediary",
+    "Network"
+  ],
+  "telephone": [
+    "918022224779",
+    "919845317795"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "C/o The Hunger Project, No. 4, 2nd Floor, Berlie Street Cross",
+      "Langford Town, Shantinagar",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560025"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "No. 2, 3rd Cross, Kodihalli",
+      "Ulsoor Post",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560008"
+    ]
+  }
+}

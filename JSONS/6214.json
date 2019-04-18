@@ -1,0 +1,38 @@
+{
+  "contacts": [
+    {
+      "name": "Matt Wennersten",
+      "email": "vanavil@wennersten.org",
+      "designation": "Board Member",
+      "mobile": []
+    },
+    {
+      "name": "Matt Wennersten",
+      "email": "vanavil@wennersten.org",
+      "designation": "Board Member",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6214",
+  "name": "Vanavil Trust",
+  "primaryEmail": "vanavil@wennersten.org",
+  "website": "http://vanavil.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service"
+  ],
+  "telephone": [
+    "914365245417",
+    "919500035312"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "Keezhakarayiruppu Village,",
+      "Sikkal Post",
+      "Nagapattinam",
+      "Tamil Nadu",
+      "611008"
+    ]
+  }
+}

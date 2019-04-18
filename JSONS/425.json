@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "name": "V.gnana Priya",
+      "email": "pkftrust@gmail.com",
+      "designation": "cordinator",
+      "mobile": []
+    },
+    {
+      "name": "V.gnana Priya",
+      "email": "pkftrust@gmail.com",
+      "designation": "cordinator",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=425",
+  "name": "Pondicherry Kidney Foundation",
+  "primaryEmail": "drnana@gmail.com",
+  "website": "http://www.pondicherrykidneyfoundation.org",
+  "organisationType": [
+    "Direct Service",
+    "Grant-making",
+    "Network"
+  ],
+  "telephone": [
+    "918754038971"
+  ],
+  "mainAddrress": {
+    "state": "Puducherry",
+    "address": [
+      "#1 Velayuthham Pillai Street, Manjini Nagar",
+      "Muthialpet",
+      "Puducherry",
+      "605003"
+    ]
+  },
+  "briefDescription": "Dr. K. Narayanan, MD.,DM.,DNB (Nephro), Senior Consultant Nephrologist inspired by the wok of his mentor Dr. H. L. Trivedi, along with his like minded supporters has launched the Pondicherry Kidney Foundation, a Public Charitable organization working towards the prevention and treatment of kidney disease in Pondicherry on September 12, 2003, providing Health care, medical treatment and financial assistance by subsidizing the cost of dialysis.  The Trust's aim is to reach out to as many kidney failure patients as possible.  The trust intends to help the kidney failure patients by providing financial assistance for their medical treatment.",
+  "yearOfEstablishment": "2003"
+}

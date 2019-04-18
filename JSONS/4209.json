@@ -1,0 +1,35 @@
+{
+  "contacts": [
+    {
+      "name": "V.S.Reddy",
+      "email": "vsreddympl@gmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4209",
+  "name": "Progressive Action for Community Emancipation",
+  "primaryEmail": "vsreddympl@gmail.com",
+  "website": "www.pacengo.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919849484143"
+  ],
+  "mainAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "#15/50 Sreeramulu Street",
+      "Burmah Road",
+      "Madanapalle",
+      "Chittoor",
+      "Andhra Pradesh",
+      "517325"
+    ]
+  },
+  "briefDescription": "Progressive Action for Community Emancipation (PACE)  is a grassroots non-governmental organization founded in 2001 by Mr. V.S.Reddy and his service minded and dedicated friends of Madanapalle area of Chittoor District in the state of Andhra Pradesh. Limited social and economic development prompted a team to start this organization to address unmet needs in the community. PACE is a well known voluntary organization in Chittoor District, working on development of the rural and urban poor using strategies of awareness generation, community mobilization through self-help groups, economic empowerment, education, Environment, health, skills development, and vocational training. PACE firmly believes and is actively involved in promoting dignity and gender equity through poor people's social, economic, political and human capacity building.",
+  "yearOfEstablishment": "2001"
+}

@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "Lallan Yadav",
+      "email": "president@divyadrishtifoundation.org",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5748",
+  "name": "Divya Drishti Foundation",
+  "primaryEmail": "dd.foundation2010@gmail.com",
+  "telephone": [
+    "919560113866"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "Flat No.1245,3RD Floor ,Jay Ambey Apartment ,",
+      "DDA Flat,New Kondli",
+      "East Delhi",
+      "Delhi",
+      "110096"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "Flat No.1245,3RD Floor ,Jay Ambey Apartment ,",
+      "DDA Flat,New Kondli",
+      "East Delhi",
+      "Delhi",
+      "110096"
+    ]
+  }
+}

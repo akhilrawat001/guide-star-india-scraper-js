@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "SOORADA NOOKARAJU",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7108",
+  "name": "RURAL YOUTH DEVELOPMENT SOCIETY",
+  "primaryEmail": "rydsrambilli@gmail.com",
+  "website": "www.ryds",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918499911409"
+  ],
+  "mainAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "Vadanarasapuram",
+      "Rambilli",
+      "Visakhapatnam",
+      "Andhra Pradesh",
+      "531035"
+    ]
+  }
+}

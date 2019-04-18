@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Amritesh Kushwaha",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8458",
+  "name": "BABU NAGENDRA SINGH SEWA SANSTHAN",
+  "primaryEmail": "amriteshkushwaha777@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919628672390"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "Vill.- Dhanni Patti",
+      "Post - Dilipnagar Tahsil- Kasia Distt.- Kushinagar",
+      "Kushinagar",
+      "Uttar Pradesh",
+      "274402"
+    ]
+  }
+}

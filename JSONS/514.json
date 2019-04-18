@@ -1,0 +1,41 @@
+{
+  "contacts": [
+    {
+      "name": "N M Nagaraj",
+      "email": "icreateindia@gmail.com",
+      "designation": "Administration Manager",
+      "mobile": [
+        "91-80-25550210"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=514",
+  "name": "Vishwas",
+  "primaryEmail": "icreateindia@gmail.com",
+  "website": "www.icreateinc.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918025550210",
+    "918025596365",
+    "918025550210"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "G-9, Ramanashree Chambers",
+      "37, lady Curzon Road",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560001"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "Karnataka"
+    ]
+  }
+}

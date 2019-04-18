@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Bangsidhari Patra",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8157",
+  "name": "Trilochanpur Association For Development In Social Welfare",
+  "primaryEmail": "adsw.org@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919433329109"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Vill: Chakkripan",
+      "PO: Chakpurusottam",
+      "PS: Debra",
+      "West Medinipur",
+      "West Bengal",
+      "721211"
+    ]
+  }
+}

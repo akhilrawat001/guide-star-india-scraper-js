@@ -1,0 +1,31 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1866",
+  "name": "MAA Laxmi Foundation Trust",
+  "primaryEmail": "dr.ashokaggarwal777@gmail.com",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "919417512077"
+  ],
+  "mainAddrress": {
+    "state": "Haryana",
+    "address": [
+      "SCO No. 23 (FF)",
+      "Sector - 11,",
+      "Panchkula",
+      "Haryana",
+      "134112"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Haryana",
+    "address": [
+      "H No 855 Sector-12-A",
+      "Panchkula",
+      "Haryana",
+      "134115"
+    ]
+  }
+}

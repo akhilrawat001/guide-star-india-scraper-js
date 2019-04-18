@@ -1,0 +1,27 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=945",
+  "name": "Maanav Sewa Sangathan",
+  "primaryEmail": "maanavsewa.sangathan@rediffmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Intermediary",
+    "Support"
+  ],
+  "telephone": [
+    "916115253909",
+    "916115252399",
+    "919234356176"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "SANKAT MOCHAN SHILA SADAN, SHIV SHAKTI NAGAR",
+      "BIHTA",
+      "Patna",
+      "Bihar",
+      "801103"
+    ]
+  }
+}

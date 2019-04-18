@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "MD IQUBAL",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4470",
+  "name": "YOUTH CONCEPT",
+  "primaryEmail": "youthconceptorg@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919304608340"
+  ],
+  "mainAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "NEAR - SADHAN KUTIR, KATRAS MORE",
+      "P.O. JHARIA",
+      "DHANBAD",
+      "Dhanbad",
+      "Jharkhand",
+      "828111"
+    ]
+  }
+}

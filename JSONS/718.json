@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Manjula Chaudhary",
+      "email": "choudhary.manjula@gmail.com",
+      "designation": "Secretary",
+      "mobile": [
+        "91-9979017079"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=718",
+  "name": "Animal Help Foundation",
+  "primaryEmail": "contact@ahf.org.in",
+  "website": "www.ahf.org.in",
+  "telephone": [
+    "919979017079"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "B/8, Jadhav Chambers",
+      "3rd Floor, Above sales India, Ashram Road",
+      "Ahmedabad",
+      "Gujarat",
+      "380006"
+    ]
+  }
+}

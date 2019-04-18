@@ -1,0 +1,26 @@
+{
+  "contacts": [
+    {
+      "name": "Reeta Kaushik",
+      "email": "ritaamar2013@gmail.com",
+      "designation": "Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5768",
+  "name": "Samudaik Kalyan Evam Vikas Sansthan",
+  "primaryEmail": "ritaamar2013@gmail.com",
+  "telephone": [
+    "919838593884"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "Village and Post Ahirauli Bazar (Thana),",
+      "Via Bodarwar",
+      "Kushinagar",
+      "Uttar Pradesh",
+      "274149"
+    ]
+  }
+}

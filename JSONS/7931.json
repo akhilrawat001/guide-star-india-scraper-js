@@ -1,0 +1,33 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7931",
+  "name": "Jan Shikshan Sansthan",
+  "primaryEmail": "aurangabadjss@gmail.com",
+  "website": "www.vkcsw.org",
+  "organisationType": [
+    "Grant-making"
+  ],
+  "telephone": [
+    "919422714616"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Opp Samajik Naya Bhavan,",
+      "Banjara Colony,Khokadpura",
+      "Aurangabad",
+      "Maharashtra",
+      "431001"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Opp Samajik Naya Bhavan",
+      "Banjara Colony,Khokadpura",
+      "Aurangabad",
+      "Maharashtra",
+      "431001"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10440",
+  "name": "PRASAD CHIKITSA",
+  "primaryEmail": "prasad@prasadchikitsa.org",
+  "website": "www.prasadchikitsa.org",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "+912522261424"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "At & Post Ganeshpuri",
+      "Opp.Ganeshpuri ST Bus Depot",
+      "Ganeshpuri Village Bhiwandi Taluka",
+      "Thane",
+      "Maharashtra",
+      "401206"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "402 4th Floor Gazdar House",
+      "629 A Jaganth Shankar Sheth Marg",
+      "Mumbai",
+      "Maharashtra",
+      "400002"
+    ]
+  }
+}

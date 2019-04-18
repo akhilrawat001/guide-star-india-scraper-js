@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Purva Bhatt",
+      "email": "aitc44@yahoo.co.in",
+      "designation": "Centre Head",
+      "mobile": [
+        "91-9016736064"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1775",
+  "name": "Rural Development Foundation",
+  "primaryEmail": "aitc44@yahoo.co.in",
+  "telephone": [
+    "912692240330",
+    "912692240330"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "AITC",
+      "2nd Floor, Narayan Complex, Near Shubhlaxmi Shopping Center,Station Road,",
+      "Anand",
+      "Gujarat",
+      "388001"
+    ]
+  }
+}

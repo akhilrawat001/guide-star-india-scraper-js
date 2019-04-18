@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "Pushpak Kumar Meher",
+      "email": "",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8623",
+  "name": "RASHMI",
+  "primaryEmail": "rashmingo10@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919938629542"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "Salebhata",
+      "Balangir",
+      "Odisha",
+      "767021"
+    ]
+  }
+}

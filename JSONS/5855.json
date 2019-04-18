@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Ajit Kumar Singh",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5855",
+  "name": "chandrika samajik uthan evam gramin vikas sansthan",
+  "primaryEmail": "csuegvs@rediffmail.com",
+  "website": "www.csuegvs.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "916186285341",
+    "916186285341"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "chandrika smriti bhawan  near hospital",
+      "jamhor",
+      "aurangabad",
+      "Aurangabad",
+      "Bihar",
+      "824121"
+    ]
+  }
+}

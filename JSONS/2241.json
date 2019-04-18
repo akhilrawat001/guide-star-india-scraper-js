@@ -1,0 +1,29 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2241",
+  "name": "SHRI KARNI NAGAR VIKAS SAMITI",
+  "primaryEmail": "sknvsk@sify.com",
+  "website": "www.sknvsk.com",
+  "telephone": [
+    "917442433841",
+    "917442433841"
+  ],
+  "mainAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "\"ASHRAYA\" 26,Jhalawar Road Kota-324005(Rajasthan) India",
+      "Kota",
+      "Rajasthan",
+      "324005"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "ASHRAYA 26,Jhalawar Road Kota-324005(Rajasthan) India",
+      "Kota",
+      "Rajasthan",
+      "324005"
+    ]
+  }
+}

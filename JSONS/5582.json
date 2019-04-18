@@ -1,0 +1,45 @@
+{
+  "contacts": [
+    {
+      "name": "Sohini Gupta",
+      "email": "sohini@chintan-india.org",
+      "designation": "Manager-Resource Mobilizer",
+      "mobile": [
+        "91-11-46574171"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5582",
+  "name": "CHINTAN ENVIRONMENTAL RESEARCH AND ACTION GROUP",
+  "primaryEmail": "info@chintan-india.org",
+  "website": "http://www.chintan-india.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service"
+  ],
+  "telephone": [
+    "India",
+    "1146574172"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "C 14, Second Floor",
+      "Lajpat Nagar 3",
+      "New Delhi",
+      "Delhi",
+      "110024"
+    ]
+  },
+  "briefDescription": "Chintan works for environmental justice in partnership with people and groups from diverse sections of society. Our focus is on ensuring equitable and sustainable production and consumption of materials, and improved disposal of waste. An important part of this is ensuring green jobs, security and dignity for the urban poor, many of whom earn a living as waste recyclers.Our initiatives include research, campaigns, policy interventions, building capacity among those engaged in recycling, and creating awareness about the need for reduced consumption and better waste management among the middle and upper classes.",
+  "yearOfEstablishment": "1999",
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "238, Siddhartha Enclave",
+      "New Delhi",
+      "Delhi",
+      "110014"
+    ]
+  }
+}

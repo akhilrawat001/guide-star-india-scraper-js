@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "P. Ravindran",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6721",
+  "name": "Pavithratha Charitable Trust",
+  "primaryEmail": "pavithrathaoah@yahoo.com",
+  "website": "www.pavithratha.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "914923244506",
+    "914923244506"
+  ],
+  "mainAddrress": {
+    "state": "Kerala",
+    "address": [
+      "Door No:V/674 Balaji building, Near Nellikulangara Temple,",
+      "Nemmara (P.O),",
+      "Palakkad (Dist)",
+      "Palakkad",
+      "Kerala",
+      "678508"
+    ]
+  }
+}

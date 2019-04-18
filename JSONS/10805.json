@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Jeremy Goody",
+      "email": "",
+      "designation": "Chair person",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10805",
+  "name": "NAGARJUN TRAINING INSTITUTE NAGPUR",
+  "primaryEmail": "info@nagaloka.org",
+  "website": "http://www.nagaloka.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "917122646699"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Nagaloka, Near Akashwani Relay Station, Bhilgaon,",
+      "Kamptee Road",
+      "Nagpur",
+      "Maharashtra",
+      "440026"
+    ]
+  }
+}

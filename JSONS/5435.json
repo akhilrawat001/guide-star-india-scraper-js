@@ -1,0 +1,23 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5435",
+  "name": "All Assam Jana Jagaran Society (AAJJS)",
+  "primaryEmail": "ngo.aajjs@yahoo.com",
+  "website": "http://www.aajjsassam.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919435105339"
+  ],
+  "mainAddrress": {
+    "state": "Assam",
+    "address": [
+      "S.S. Road, Lakhtokia",
+      "Guwahati",
+      "Kamrup Metropolitan",
+      "Assam",
+      "781001"
+    ]
+  }
+}

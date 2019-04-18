@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "Jay Prakash Shah",
+      "email": "mkssk1000@gmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5413",
+  "name": "Mahila Kala Shiksha aur Seva Kendra",
+  "primaryEmail": "mkssk1000@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919331275717"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "13/H/1, Mayur Bhanj Road",
+      "Kolkata",
+      "West Bengal",
+      "700023"
+    ]
+  }
+}

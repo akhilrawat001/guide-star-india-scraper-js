@@ -1,0 +1,38 @@
+{
+  "contacts": [
+    {
+      "name": "T Chinnaraj Joseph Jaikumar (Dr)",
+      "email": "",
+      "designation": "Managing Trustee",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=690",
+  "name": "Centre for Education, Development Action and Research (CEDAR)",
+  "primaryEmail": "cbpngos@satyam.net.in",
+  "website": "www.cedar.org.in",
+  "telephone": [
+    "914522680701",
+    "914522680701"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "23, Old Natham Road",
+      "Opposite to Sevashram",
+      "Madurai",
+      "Tamil Nadu",
+      "625003"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "No.1, Fund Office Colony",
+      "Alagappan Nagar",
+      "Madurai",
+      "Tamil Nadu",
+      "625003"
+    ]
+  }
+}

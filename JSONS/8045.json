@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Devendra Singh Bhadauria",
+      "email": "contact@idaf.org.in",
+      "designation": "Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8045",
+  "name": "INDIA DEVELOPMENT ALTERNATIVES FOUNDATION (IDAF)",
+  "primaryEmail": "contact@idaf.org.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919044904904"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "434B, PKT-II",
+      "Mayur Vihar, Phase - I",
+      "East Delhi",
+      "Delhi",
+      "110091"
+    ]
+  }
+}

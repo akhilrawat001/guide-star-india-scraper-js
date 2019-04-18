@@ -1,0 +1,23 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1889",
+  "name": "Kashmir Humanity Foundation",
+  "primaryEmail": "khfrc@yahoo.com",
+  "website": "www.khflive.org",
+  "organisationType": [
+    "Direct Service",
+    "Network"
+  ],
+  "telephone": [
+    "919419555667"
+  ],
+  "mainAddrress": {
+    "state": "Jammu and Kashmir",
+    "address": [
+      "National Highway 1 A. Gantamulla Colony",
+      "Baramulla",
+      "Jammu and Kashmir",
+      "193101"
+    ]
+  }
+}

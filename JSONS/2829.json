@@ -1,0 +1,23 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2829",
+  "name": "Tapasya",
+  "primaryEmail": "tapasyaindia@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919437055226"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "6B, Pocket- A",
+      "SFS Flat, Mayur Enclave",
+      "Mayur Vihar Phase III",
+      "New Delhi",
+      "Delhi",
+      "110096"
+    ]
+  }
+}

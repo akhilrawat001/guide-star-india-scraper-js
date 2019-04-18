@@ -1,0 +1,33 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1050",
+  "name": "Concerns Universe Foundation",
+  "primaryEmail": "cufbangalore@gmail.com",
+  "website": "www.concernsuniversefoundation.org",
+  "telephone": [
+    "918028444905",
+    "918028444905"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "4  Patel Hanumantah Rayappa Layout",
+      "Byrathi Cross",
+      "Doddagubbi",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "562149"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "7, IIA  Apartment,#",
+      "50 Banaswadi Road",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560033"
+    ]
+  }
+}

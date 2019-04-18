@@ -1,0 +1,35 @@
+{
+  "contacts": [
+    {
+      "name": "Chinu Gogoi",
+      "email": "gogoi.chinu@gmail.com",
+      "designation": "Secretary",
+      "mobile": [
+        "91-9706711858"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6423",
+  "name": "BALLSY GROUP",
+  "primaryEmail": "ballsygroup@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919706711858",
+    "913762398004",
+    "919435097973"
+  ],
+  "mainAddrress": {
+    "state": "Assam",
+    "address": [
+      "Charigaon Kathoniakuri , Near Charigaon MV School",
+      "PO Pub Charigaon",
+      "Jorhat",
+      "Assam",
+      "785010"
+    ]
+  },
+  "briefDescription": "Ballsy Group is located in Assam",
+  "yearOfEstablishment": "2015"
+}

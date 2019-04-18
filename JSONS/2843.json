@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "Atanu Sinha",
+      "email": "sycaatanu@rediffmail.com",
+      "designation": "Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2843",
+  "name": "Sagar Youth Cultural Association",
+  "primaryEmail": "sycaatanu@rediffmail.com",
+  "telephone": [
+    "913210242608",
+    "919933308876"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "VILL-KRISHNANAGAR",
+      "PO-SAGAR",
+      "KOLKATA",
+      "South 24 Parganas",
+      "West Bengal",
+      "743373"
+    ]
+  }
+}

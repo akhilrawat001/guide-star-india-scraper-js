@@ -1,0 +1,32 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2024",
+  "name": "APANG MAITREE",
+  "primaryEmail": "chairmanapangmaitree@gmail.com",
+  "telephone": [
+    "912225328288",
+    "912225328288"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "2/21 DEVENDU SOCIETY",
+      "MITH BUNDER ROAD",
+      "THANE",
+      "Thane",
+      "Maharashtra",
+      "400021"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "B-3/1 GOVT QUARTERS",
+      "12TH WORLI ROAD WORLI",
+      "MUMBAI",
+      "Mumbai",
+      "Maharashtra",
+      "400018"
+    ]
+  }
+}

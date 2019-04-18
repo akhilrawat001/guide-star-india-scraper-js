@@ -1,0 +1,37 @@
+{
+  "contacts": [
+    {
+      "name": "coordinatorpune@asha-kiran.org.es",
+      "email": "coordinatorpune@asha-kiran.org.es",
+      "designation": "Executive Director",
+      "mobile": [
+        "91-9226104518"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1335",
+  "name": "Asha-Kiran Shelters Foundation",
+  "primaryEmail": "foundation@asha-kiran.org.es",
+  "website": "www.asha-kiran.org.es",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network"
+  ],
+  "telephone": [
+    "919226104518",
+    "912026151600"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Flat No.1, Rajaram Apts, South Main Rd",
+      "Near Poona Medicals, Koregaon Park",
+      "Pune",
+      "Maharashtra",
+      "411001"
+    ]
+  },
+  "briefDescription": "Asha-Kiran Shelters Foundation works for the welfare of the Underpriviliged people in the District of Pune, with children being our concern area. With more then 2000 benefeciaries covering various areas like Education, Health, capacity building, women empowerment etc. Our Projects being Shelter Home, Community Development,Creche/School for children of Construction labours. Child Labour rehabilitation program and Advocacy.",
+  "yearOfEstablishment": "2007"
+}

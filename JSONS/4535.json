@@ -1,0 +1,40 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4535",
+  "name": "Resources Centre for Sustainable Development",
+  "primaryEmail": "mailbox@rcsdin.org",
+  "website": "http://www.rcsdin.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919864059980",
+    "919859425565"
+  ],
+  "mainAddrress": {
+    "state": "Assam",
+    "address": [
+      "# 20, Bye lane-12 (West)",
+      "Rajgarh Road",
+      "Guwahati",
+      "Kamrup Metropolitan",
+      "Assam",
+      "781007"
+    ]
+  },
+  "briefDescription": "RCSD helps improve better access to clean water & sanitation, improve food security-rural energy & ecosystem services, whilst securing livelihood amongst the poor.",
+  "yearOfEstablishment": "2004",
+  "regiseredAddrress": {
+    "state": "Assam",
+    "address": [
+      "House no.20, Bye lane-12 (West)",
+      "Rajgarh Road, Kundilnagar",
+      "Guwahati",
+      "Kamrup Metropolitan",
+      "Assam",
+      "781007"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10313",
+  "name": "SUSHAM RURAL DEVELOPMENT SOCIETY",
+  "primaryEmail": "suresh_6262@rediffmail.com",
+  "website": "www.susham rural development society",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919404737901",
+    "919890620917"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "At Post- Kharde BK",
+      "Near Grampanchayat",
+      "Shinkheda",
+      "Dhule",
+      "Maharashtra",
+      "425408"
+    ]
+  },
+  "briefDescription": "Our NGO runs an old age home and works for sustainable agriculture and environment program, other than cultural program in rural area.",
+  "yearOfEstablishment": "2001",
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Kharde BK",
+      "Shinkheda",
+      "Dhule",
+      "Maharashtra",
+      "425408"
+    ]
+  }
+}

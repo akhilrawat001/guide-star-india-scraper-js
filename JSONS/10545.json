@@ -1,0 +1,32 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10545",
+  "name": "GOVINDA PRADHAN SMRUTI SANSADA",
+  "primaryEmail": "gpss12345@rediffmail.com",
+  "website": "www.gpssodisha.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919776293001",
+    "916802220150"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "Bank Colony 1st lane, Gate Bazaar, Berhampur,Ganjam,",
+      "Ganjam",
+      "Odisha",
+      "760001"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Odisha",
+    "address": [
+      "At/Po-Bhismagiri,",
+      "Ganjam",
+      "Odisha",
+      "761055"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Nandini Krishna",
+      "email": "ArtFeat@gmail.com",
+      "designation": "Founder-Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4344",
+  "name": "ArtFeat Charitable Trust",
+  "primaryEmail": "ArtFeat@gmail.com",
+  "website": "www.ArtFeat.webs.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919819841384"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "55 Patrakar Kalanagar Bandra East Mumbai 400 051",
+      "Mumbai",
+      "Maharashtra",
+      "400051"
+    ]
+  },
+  "briefDescription": "ArtFeat is committed to the promotion of arts and artists who have surmounted odds to keep their art alive. ArtFeat is presently promoting unique foot artist N. Ramakrishnan, who paints with his foot the only part over which he has some motor control.ArtFeat is also promoting a uniquely designed workshop 'Nritya Uphaar- The Gift of Dance, to enable the community at large, to have a unique learning experience of Indian classical dance through a composite format in a condensed time frame.",
+  "yearOfEstablishment": "2010"
+}

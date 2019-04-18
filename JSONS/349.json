@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "Biju T K",
+      "email": "devashrayam@rediffmail.com",
+      "designation": "Manager/Committee Member in charge",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=349",
+  "name": "Devasrayam",
+  "primaryEmail": "devashrayam@rediffmail.com",
+  "website": "http://www.devashrayam.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "914912106206",
+    "914912106206"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "Thekkethara, Marutharode",
+      "Palakkad",
+      "Tamil Nadu",
+      "678007"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "Tamil Nadu"
+    ]
+  }
+}

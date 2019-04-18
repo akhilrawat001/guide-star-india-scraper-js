@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Mukesh Nimavat",
+      "email": "mukeshnimavat@yahoo.in",
+      "designation": "Chairman",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2899",
+  "name": "Shivganga Education Trust",
+  "primaryEmail": "mukeshnimavat@yahoo.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "912751220567",
+    "912752221194",
+    "912751220567"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "Gharshala",
+      "Wadhavan-Joravarnagar Road",
+      "Wadhavan city",
+      "Surendranagar",
+      "Gujarat",
+      "363440"
+    ]
+  }
+}

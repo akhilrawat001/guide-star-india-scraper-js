@@ -1,0 +1,29 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1725",
+  "name": "Azad Hind Welfare Society",
+  "primaryEmail": "azadhindwelfaresociety@yahoo.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "917209369687",
+    "919955128718"
+  ],
+  "mainAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "Road No. 18 (West)",
+      "Old Purulia Road, Zakir Nagar, Mango",
+      "Jamshedpur",
+      "East Singhbhum",
+      "Jharkhand",
+      "832110"
+    ]
+  }
+}

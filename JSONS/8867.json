@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Ramesh Chandra Singh",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8867",
+  "name": "NASHAMUKTI JAN JAGRAN ABHIYAN SAMITI",
+  "primaryEmail": "rameshchandrasingh2233@gmail.com",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "919161624652",
+    "917459909196"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "Village Shivpuri Post Khakhreru",
+      "Shivpuri",
+      "Fatehpur",
+      "Uttar Pradesh",
+      "212656"
+    ]
+  }
+}

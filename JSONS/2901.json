@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Shilpa Parikh",
+      "email": "",
+      "designation": "Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2901",
+  "name": "Sambandh",
+  "primaryEmail": "sambandh4development@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "917927419185",
+    "917927419185"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "101/1, C.P Nagar Society",
+      "Nr.Central Bank of India, Bhuyangdev Char Rasta, Sola Road, Ghatlodiya",
+      "Ahemdabad",
+      "Ahmedabad",
+      "Gujarat",
+      "380061"
+    ]
+  }
+}

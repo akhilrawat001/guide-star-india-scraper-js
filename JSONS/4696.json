@@ -1,0 +1,27 @@
+{
+  "contacts": [
+    {
+      "name": "Gajibur Rahman",
+      "email": "mrgajiburrahman131@gmail.com",
+      "designation": "Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4696",
+  "name": "Grammya Yuba Jagrata Samity",
+  "primaryEmail": "mrgajiburrahman131@gmail.com",
+  "telephone": [
+    "913672222185",
+    "919508426485"
+  ],
+  "mainAddrress": {
+    "state": "Assam",
+    "address": [
+      "SSD Road, Near Christjyoti High School",
+      "Premnagar, P.O- Haibargaon",
+      "Nagaon",
+      "Assam",
+      "782002"
+    ]
+  }
+}

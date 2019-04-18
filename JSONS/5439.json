@@ -1,0 +1,45 @@
+{
+  "contacts": [
+    {
+      "name": "sadek ali",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "9932861453"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5439",
+  "name": "Mahammed Bazar Backward Classes Development Society",
+  "primaryEmail": "mbbcds@gmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919932861453"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "vii+ Po- Ducha , Ps Md Bazar , Dist Birbhum, West Bengal.",
+      "Deucha",
+      "Birbhum",
+      "West Bengal",
+      "731253"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "vii+ Po- Ducha , Ps Md Bazar , Dist Birbhum, West Bengal.",
+      "DO",
+      "Deucha",
+      "Birbhum",
+      "West Bengal",
+      "731253"
+    ]
+  }
+}

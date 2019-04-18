@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Mochiram Nayak",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6086",
+  "name": "Organisation for Socio-Techno Agriculture & Rural Development (OSTARD)",
+  "primaryEmail": "ostardodisha@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919938417246"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "JRGPUR PALUR GANJAM",
+      "SARADHABALI, PO-ENGG SCHOOL",
+      "BERHAMPUR",
+      "Ganjam",
+      "Odisha",
+      "760010"
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "name": "Lopamudra",
+      "email": "lopa@trishul-ngo.org",
+      "designation": "President",
+      "mobile": [
+        "91-9821694994"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4779",
+  "name": "TRISHUL",
+  "primaryEmail": "asif@trishul-ngo.org",
+  "website": "http://www.trishul-ngo.org/",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919619182010",
+    "919821694994"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "602 Gods Gift Tower, Yari Road, Versova",
+      "Andheri West",
+      "Mumbai",
+      "Mumbai Suburban",
+      "Maharashtra",
+      "400061"
+    ]
+  },
+  "briefDescription": "Trishul  Trishul is a charitable public trust registered under (Mumbai Public Trust Act 1860 and 1950), working towards building self-sustainable communities in slums, urban and economically backward rural villages. Trishul’s focus is in the areas of education for slum kids, women empowerment, environment, women entrepreneurship, disaster management, health and hygiene.1.1 VisionTo excel as an NGO facilitating self-sustainable communities in slums, urban and economically backward rural villages1.2 MissionTrishul supports and works with economically weaker sections of the society and its mission is to:–\tEducate less-privileged children with the aim of imparting life skills.–\tFacilitate livelihood generation for women from slums and rural villages.–\tHelp women artists by assisting them in generating business opportunities.–\tFacilitate waste recycle and up-cycle.–\tInculcate healthy and hygienic habits among slum, urban and rural communities.–\tGuide and empower youth.–\tCreate awareness on and prepare citizens for disaster management. –\tBuild self-sustainable communities (model village).",
+  "yearOfEstablishment": "1996"
+}

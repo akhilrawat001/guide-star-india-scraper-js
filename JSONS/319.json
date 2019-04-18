@@ -1,0 +1,35 @@
+{
+  "contacts": [
+    {
+      "name": "Anusha",
+      "email": "anusha.m@ashrayakruti.org",
+      "designation": "Project Associate",
+      "mobile": [
+        "91-40-40042250"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=319",
+  "name": "Ashray-Akruti",
+  "primaryEmail": "ashrayakruti@yahoo.com",
+  "website": "http://www.ashrayakruti.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "914040042250",
+    "914040042250"
+  ],
+  "mainAddrress": {
+    "state": "Telangana",
+    "address": [
+      "8-3-1027/A2, Lane opp.to Indian Bank",
+      "Sri Nagar Colony",
+      "Hyderabad",
+      "Telangana",
+      "500073"
+    ]
+  },
+  "briefDescription": "Ashray Akruti is a registered non-profit, non-religious organization; working since 1996, to improve the lives of people with disability and marginalized sections of society.",
+  "yearOfEstablishment": "1996"
+}

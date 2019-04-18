@@ -1,0 +1,30 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1029",
+  "name": "Praja Pragathi Trust",
+  "primaryEmail": "ppt_srinu@rediffmail.com",
+  "website": "pptindia.org",
+  "telephone": [
+    "918772245244",
+    "918772244392",
+    "918772244392"
+  ],
+  "mainAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "13 – 42  L B Nagar",
+      "Chittoor",
+      "Andhra Pradesh",
+      "517502"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "13 ï¿½ 42  L B Nagar",
+      "Chittoor",
+      "Andhra Pradesh",
+      "517502"
+    ]
+  }
+}

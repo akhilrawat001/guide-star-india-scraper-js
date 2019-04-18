@@ -1,0 +1,36 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10511",
+  "name": "Fragile X Society",
+  "primaryEmail": "shalini@fragilex.in",
+  "website": "www.fragilex.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919820199092"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "252, Krishna Bhawan, Walkeshwar road",
+      "Mumbai",
+      "Maharashtra",
+      "400006"
+    ]
+  },
+  "briefDescription": "Creating awareness for Fragile X related disorders. Fragile X is the leading cause of intellectual disability amongst children and the only known single gene cause of Autism.We support affected families and have helped over 650 families in the past 15 years",
+  "yearOfEstablishment": "2007",
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "252, Krishna Bhawan",
+      "Waleshwar road",
+      "Mumbai",
+      "Maharashtra",
+      "400006"
+    ]
+  }
+}

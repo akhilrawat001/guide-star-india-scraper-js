@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "name": "Radheyshyam chaudhart",
+      "email": "vnlssb@gmail.com",
+      "designation": "secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6622",
+  "name": "VIVEKANAND LOK VIKAS SANSTHAN",
+  "primaryEmail": "vnlssb@gmail.com",
+  "website": "http://vlvsindia.ngo/",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919451037995"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "vill- Amrauli shumali Post Teliyadeeh District Basti",
+      "chiraiyadarn",
+      "Basti",
+      "Uttar Pradesh",
+      "272190"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "Vill Amraulishumali, chiraiyadarn, post Teliyadeeh District Basti",
+      "Basti",
+      "Uttar Pradesh",
+      "272190"
+    ]
+  }
+}

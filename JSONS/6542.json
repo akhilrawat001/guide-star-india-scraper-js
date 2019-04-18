@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "BIDYUT PAL",
+      "email": "tccjanai@gmail.com",
+      "designation": "PRINCIPAL",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6542",
+  "name": "LOUIS BRAILLE MEMORIAL SCHOOL FOR THE SIGHTLESS",
+  "primaryEmail": "tccjanai@gmail.com",
+  "website": "www.lbms.org",
+  "organisationType": [
+    "Direct Service",
+    "Intermediary"
+  ],
+  "telephone": [
+    "0983045491"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "BIRLA ROAD,MAKHLA, HOOGHLY",
+      "UTTARPARA",
+      "Hooghly",
+      "West Bengal",
+      "712245"
+    ]
+  }
+}

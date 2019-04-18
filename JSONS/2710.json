@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Yasin Yusuf Nagani",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2710",
+  "name": "YOUNG MEMON WELFARE SOCIETY",
+  "primaryEmail": "YNAGANI@REDIFFMAIL.COM",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "917234266862",
+    "917234266862"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "-ROYAL BOOT HOUSE",
+      "MAIN ROAD",
+      "ARNI",
+      "Yavatmal",
+      "Maharashtra",
+      "445103"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "contacts": [
+    {
+      "name": "Sunil Shankar Kadam",
+      "email": "dotssanstha@yahoo.co.in",
+      "designation": "Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2945",
+  "name": "Dots Samajik Sanstha",
+  "primaryEmail": "dotssanstha@yahoo.co.in",
+  "telephone": [
+    "912532376590",
+    "912532376590"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Green residency No.1",
+      "Sadicha Nagar, near Indira Nager",
+      "Nashik",
+      "Maharashtra",
+      "422009"
+    ]
+  }
+}

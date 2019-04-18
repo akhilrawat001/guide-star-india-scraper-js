@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Ravi Shankar Tripathi",
+      "email": "secy-nfch-mha@nic.in",
+      "designation": "Programmer",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4726",
+  "name": "National Foundation for Communal Harmony",
+  "primaryEmail": "secy-nfch-mha@nic.in",
+  "website": "http://ww.nfch.nic.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "911124633968",
+    "911124633968"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "9th Floor, C-Wing, Lok Nayak Bhavan",
+      "Khan Market",
+      "New Delhi",
+      "Delhi",
+      "110003"
+    ]
+  }
+}

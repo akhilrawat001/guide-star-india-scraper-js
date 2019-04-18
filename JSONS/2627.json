@@ -1,0 +1,40 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2627",
+  "name": "RANGDE.ORG",
+  "primaryEmail": "info@rangde.org",
+  "website": "http://www.rangde.org",
+  "organisationType": [
+    "Direct Service",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "918041650037"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "Survey No. 29/3 & 32/2, Raj Alkaa Park,",
+      "Bannerghatta road, Kalena Agrahara, Begur hobli,",
+      "Bengaluru",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560076"
+    ]
+  },
+  "briefDescription": "Rang De is a Bangalore based not for profit organisation that harnesses the power of internet technology to address the age old problem of poverty in India. Started in 2008 by Ramakrishna NK and Smita Ram, Rang De focuses on improving access to affordable credit for low-income families and students. Through a network of carefully selected partner organizations, Rang De aspires to reach out to the truly under served communities in India and is presently working in 18 states in the country including Maharashtra, Bihar, Telangana Madhya Pradesh, Orissa, Rajasthan and Manipur. Through its online platform www.rangde.org the organization empowers not only low-income borrowers (by giving them access to credit) but also social investors (individuals and corporations) who can choose individuals or micro enterprises they would like to lend to. Each social investor can login into their Rang De account to see how borrowers they have supported are faring, track repayments and use the repayments that the borrowers make to support more individuals. For its pioneering work, Rang De has been recognised and supported by ICICI Foundation, Tata Trusts, World Bank Development Marketplace, Millennium Alliance (FICCI and USAID). Rang De’s co-founder Ramakrishna NK was elected to the Ashoka Fellowship in the year 2012.",
+  "yearOfEstablishment": "2008",
+  "regiseredAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "No. 42, 3rd Main, Puttenahalli,",
+      "J.P. Nagar, 7th Phase,",
+      "Bengaluru",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560078"
+    ]
+  }
+}

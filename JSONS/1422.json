@@ -1,0 +1,48 @@
+{
+  "contacts": [
+    {
+      "name": "Ashok Pawar",
+      "email": "pawar888@gmail.com",
+      "designation": "Founder Director",
+      "mobile": [
+        "91-2452-240854",
+        "91-9970606335"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1422",
+  "name": "Social Empowerment and Voluntary Association",
+  "primaryEmail": "sevapbn@gmail.com",
+  "website": "www.sevapbn.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service"
+  ],
+  "telephone": [
+    "912452240854",
+    "919970606335",
+    "+919766742001"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Care of. Gurukrupa Niwas, Plot No. 745, Beside Shabri Hotel, Misar Nagar,  Jintur Road, Parbhani District-  Parbhani PIN- 431401.  Maharashtra INDIA",
+      "Parbhani",
+      "Maharashtra",
+      "431401"
+    ]
+  },
+  "briefDescription": "Social Empowerment & Voluntary Association is non profit organization to work on issues of youth and there rights. Org. Given platform to youth to fulfill there potential through trainings, workshops, visit exposures, internship programs etc",
+  "yearOfEstablishment": "2008",
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "SEVA",
+      "Mayur CHS, A3, Plot No. 24,Opp Oriental Bank, Seawood Railway Station Road,  Nerul (west) Sector -42, Seawood, Navi Mumabi. Pin code- 400706.",
+      "Navi Mumbai",
+      "Thane",
+      "Maharashtra",
+      "400706"
+    ]
+  }
+}

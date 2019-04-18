@@ -1,0 +1,44 @@
+{
+  "contacts": [
+    {
+      "name": "Ravi Kiran Tenali",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2702",
+  "name": "Sports Management Centre",
+  "primaryEmail": "tennisfoundation@gmail.com",
+  "website": "www.TennisFoundation.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919246528884"
+  ],
+  "mainAddrress": {
+    "state": "Telangana",
+    "address": [
+      "70-A, Cosy Cottage, Sri Krishna Nagar",
+      "Opposite Yousufguda Indoor Stadium",
+      "Hyderabad",
+      "Telangana",
+      "500045"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Telangana",
+    "address": [
+      "70-A, Cosy Cottage, Sri Krishna Nagar",
+      "Opposite Yousufguda Indoor Stadium",
+      "Hyderabad",
+      "Telangana",
+      "500045"
+    ]
+  }
+}

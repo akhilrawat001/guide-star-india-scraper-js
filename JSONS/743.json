@@ -1,0 +1,40 @@
+{
+  "contacts": [
+    {
+      "name": "A Jagannadha Raju",
+      "email": "",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=743",
+  "name": "Centre for Community Development",
+  "primaryEmail": "ccdevraju@rediffmail.com",
+  "website": "www.ccdindia.org",
+  "telephone": [
+    "916815222516",
+    "916815222515",
+    "916815222516",
+    "916815222516"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "Near Check Post, Pathapatnam Rd",
+      "Paralakhemundi",
+      "Gajapati",
+      "Odisha",
+      "761200"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Odisha",
+    "address": [
+      "Sanmukharao Colony",
+      "Paralakhemundi",
+      "Gajapati",
+      "Odisha",
+      "761200"
+    ]
+  }
+}

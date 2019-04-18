@@ -1,0 +1,37 @@
+{
+  "contacts": [
+    {
+      "name": "S Devibala",
+      "email": "",
+      "designation": "Treasurer",
+      "mobile": []
+    },
+    {
+      "name": "S Devibala",
+      "email": "",
+      "designation": "Treasurer",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=503",
+  "name": "Vairam Telesis Education Centre",
+  "primaryEmail": "vairam_like@yahoo.co.in",
+  "website": "http://www.giveindia.org/GetOrganisationProfile.aspx?ngoid=894",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "914369220345",
+    "914369220345"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "32, Kannu Thoppu Street",
+      "Thiruthuraipoondi",
+      "Thanjavur",
+      "Tamil Nadu",
+      "614713"
+    ]
+  }
+}

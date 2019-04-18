@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Naresh Chandra Jena",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8091",
+  "name": "GANDHIAN ACTION FOR RURAL DEVELOPMENT (GARD)",
+  "primaryEmail": "gardorissa@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "916725283191",
+    "916725283191"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "At/Po - Jaraka,",
+      "Via- Dharmasala,",
+      "Dist - Jajpur,",
+      "Jajpur",
+      "Odisha",
+      "755050"
+    ]
+  }
+}

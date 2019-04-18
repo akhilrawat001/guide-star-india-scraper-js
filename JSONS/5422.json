@@ -1,0 +1,34 @@
+{
+  "contacts": [
+    {
+      "name": "Mr. Vishwa Nath Mishra",
+      "email": "mvarahika@gmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5422",
+  "name": "Mahila Vikas Ashram",
+  "primaryEmail": "mvarahika@gmail.com",
+  "website": "NA",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919934205898"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "At-Rahika, Po-Dayakharwar, Via-Jhanjhapur (RS),  Dist-Madhubani, (Bihar), Pin- 847403",
+      "Mr. Vishwa Nath Mishra,  At - Rahika,  PO- Dayakharwari,  Via-Jhanjharpur (R.S)  Dist-Madhubani, (Bihar). Pin Code -847403 Mob.-09934205898 Email- vnmishramva@gmail.com",
+      "Jhanjhar Pur. R.s Madhubani",
+      "Madhubani",
+      "Bihar",
+      "847403"
+    ]
+  }
+}

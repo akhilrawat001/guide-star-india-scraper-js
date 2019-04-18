@@ -1,0 +1,46 @@
+{
+  "contacts": [
+    {
+      "name": "Ravinder Kaur",
+      "email": "m10010@gmail.com",
+      "designation": "Coordinator",
+      "mobile": [
+        "91-175-2380061",
+        "91-9814310010"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1498",
+  "name": "Health Awareness & Suvidha Society",
+  "primaryEmail": "005hass@gmail.com",
+  "website": "www.hassonline.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "911752380061",
+    "919914310010"
+  ],
+  "mainAddrress": {
+    "state": "Punjab",
+    "address": [
+      "# 204",
+      "Seal Road Bahadur Garh,Opp Fedral Mougal ltd.,",
+      "Patiala",
+      "Punjab",
+      "147002"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Punjab",
+    "address": [
+      "# 510/9, Prem Nagar,",
+      "Bhadson Road ,Patiala",
+      "Patiala",
+      "Punjab",
+      "147001"
+    ]
+  }
+}

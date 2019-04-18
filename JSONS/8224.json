@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Dadasaheb P Yadav",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8224",
+  "name": "Pruthvi Sangram Gram Vikas Sanstha",
+  "primaryEmail": "prutvisangram@rediffmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "912347241341",
+    "912347241341"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "At- post Kadepur Tal- Kadegon",
+      "Kadepur",
+      "Sangli",
+      "Maharashtra",
+      "415305"
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "contacts": [
+    {
+      "name": "Amit Deshpande",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "7738379177"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5564",
+  "name": "HRIDAYA - NEST OF FAMILY HARMONY",
+  "primaryEmail": "amitndeshpande@gmail.com",
+  "website": "www.saveindianfamily.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "917738379177",
+    "919830151555"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "26/5B, Ballygunge Circular Road,",
+      "Kolkata",
+      "West Bengal",
+      "700019"
+    ]
+  }
+}

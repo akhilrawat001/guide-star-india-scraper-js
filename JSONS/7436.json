@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Mr.Ziyauddin Ahmad",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7436",
+  "name": "Association of Human Support and Sustainability",
+  "primaryEmail": "ahsas86@gmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning"
+  ],
+  "telephone": [
+    "919415807669"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "Near-Paschim Railway Crossing Nandganj",
+      "Paschim,",
+      "Villand Post Paharpur Saidpur",
+      "Ghazipur",
+      "Uttar Pradesh",
+      "233306"
+    ]
+  },
+  "briefDescription": "Association of Human Support and Sustainability located in Saidpur, Uttar Pradesh.",
+  "yearOfEstablishment": "1996"
+}

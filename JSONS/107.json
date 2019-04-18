@@ -1,0 +1,50 @@
+{
+  "contacts": [
+    {
+      "name": "Manju Pedanekar",
+      "email": "",
+      "designation": "Coordinator",
+      "mobile": []
+    },
+    {
+      "name": "Manju Pedanekar",
+      "email": "",
+      "designation": "Coordinator",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=107",
+  "name": "K J Somaiya Medical Trust",
+  "primaryEmail": "sahasforlife03@gmail.com",
+  "website": "www.sahasforlife.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "912224076692",
+    "912224020933",
+    "919833255886",
+    "912224091855"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "K. J. Somaiya Hospital and Research Centre, Ayurvihar",
+      "Behind Everad Nagar, Sion-East",
+      "Mumbai",
+      "Maharashtra",
+      "400022"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "245/247",
+      "M.G. Road, Fort",
+      "Mumbai",
+      "Maharashtra",
+      "400001",
+      "AP_TelBill_7.PDF"
+    ]
+  }
+}

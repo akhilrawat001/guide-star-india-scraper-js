@@ -1,0 +1,41 @@
+{
+  "contacts": [
+    {
+      "name": "K. BALAKRISHNA MOORTHY",
+      "email": "kovuribala@yahoo.com",
+      "designation": "GENERAL SECRETARY",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5288",
+  "name": "PEOPLES ACTION FOR SOCIAL SERVICE",
+  "primaryEmail": "kovuribala@yahoo.com",
+  "website": "www.passindia.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919848131901"
+  ],
+  "mainAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "N.N.NILAY, PLOT NO.190, NEW BALAJI COLONY, SVU POST",
+      "AIR BYPASS ROAD, NEAR ANDHRA BANK",
+      "TIRUPATI",
+      "Chittoor",
+      "Andhra Pradesh",
+      "517502"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "not provided",
+      "TIRUPATI",
+      "Chittoor",
+      "Andhra Pradesh",
+      "517502"
+    ]
+  }
+}

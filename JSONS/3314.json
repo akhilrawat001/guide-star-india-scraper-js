@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Ms. Smruti Rekha Ray",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3314",
+  "name": "RURAL WOMEN DEVELOPMENT SERVICE CENTRE",
+  "primaryEmail": "womenc11@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "916742559931",
+    "916742559931"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "RWDSC, AT/PO- Khalari, Dist- Angul, Odisha",
+      "plot no-N/5-112, I.R.C Village, Nayapalli, Bhubaneswar, Odisha",
+      "Angul",
+      "Odisha",
+      "759132"
+    ]
+  }
+}

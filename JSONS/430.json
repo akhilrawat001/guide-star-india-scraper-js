@@ -1,0 +1,38 @@
+{
+  "contacts": [
+    {
+      "name": "K M Paliwal",
+      "email": "pesociety.1982@gmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=430",
+  "name": "Psycho Educational Society",
+  "primaryEmail": "pesociety.1982@gmail.com",
+  "website": "http://www.psychoeducationalsociety.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "911127479009",
+    "911127472415",
+    "919811202013"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "B/P-139 (west), Shalimar Bagh",
+      "Delhi",
+      "New Delhi",
+      "110088"
+    ]
+  },
+  "yearOfEstablishment": "1982",
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "Delhi"
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Mukesh Sharma",
+      "email": "gvssansthan@gmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3577",
+  "name": "Gramin Vikash Swasthya Siksha Avam Samajik Shodh Sansthan",
+  "primaryEmail": "gvssansthan@gmail.com",
+  "website": "www.sriradhe.webs.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "910992880309"
+  ],
+  "mainAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "1275,rawato ki haweli,gangapol,jaipur",
+      "rawal ji ka bazar",
+      "jaipur",
+      "Jaipur",
+      "Rajasthan",
+      "302002"
+    ]
+  }
+}

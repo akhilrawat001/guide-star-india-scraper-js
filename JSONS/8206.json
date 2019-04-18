@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Ashok Prabhu Chavan",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8206",
+  "name": "Shri Ganesh Bahuuddeshiy Sevabhavi Sanstha",
+  "primaryEmail": "chavanashok139@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919420870662"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Ashok Prabhu Chavan At.Post.Katgaon Tanda.Tq.&Dist.Latur",
+      "Post:Katgaon. Tq&Dist:Latur",
+      "Latur",
+      "Maharashtra",
+      "413512"
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8241",
+  "name": "SAMAJIK KRANTI BAHUDDESHIYA SANSTHA",
+  "primaryEmail": "skbssm707@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919763854422"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Gajanan Ramdas Chaure",
+      "Dhad Road Sagwan",
+      "Buldhana",
+      "Maharashtra",
+      "443001"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "C/O Gajanan Ramdas Chaure",
+      "Dhad Road Sagwan",
+      "Buldhana",
+      "Maharashtra",
+      "443001"
+    ]
+  }
+}

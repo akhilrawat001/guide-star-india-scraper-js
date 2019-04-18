@@ -1,0 +1,37 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5312",
+  "name": "Gyan Prakash Foundation",
+  "primaryEmail": "finance@gyanprakash.org",
+  "website": "http://gyanprakash.org/",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "912065292808",
+    "919850982290",
+    "919689949916"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Suite 302 (Third Floor), “Orchard\", Nachiket Park",
+      "Dr. Pai Marg, Baner",
+      "Pune",
+      "Maharashtra",
+      "411045"
+    ]
+  },
+  "briefDescription": "Gyan Prakash Foundation (GPF) is a social change organization working in the field of education in Maharashtra. It started out with the core idea – to work in primary education and serve the needs of disadvantaged children. Gyan Prakash Foundation aim to strengthen existing government structures and mechanisms in education through onsite and off-site support to teachers, Kendra Pramukhs (KPs or Cluster Coordinators), School Management Committees, block/ district officials, and DIECPDs as part of our program operations and advocate for policy changes through engagement with Maharashtra Academic Authority (MAA) and Education Department of Government of Maharashtra.Established in 2011, Gyan Prakash Foundation has grown from a 14-schools pilot project in Khed Shivapur to now serving 264 schools directly benefitting over 18,000+ children in some of Maharashtra’s most educationally backward regions",
+  "yearOfEstablishment": "2011",
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "232, Supreme Enclave, Mayur Vihar",
+      "Phase 1, Delhi",
+      "Delhi",
+      "New Delhi",
+      "110091"
+    ]
+  }
+}

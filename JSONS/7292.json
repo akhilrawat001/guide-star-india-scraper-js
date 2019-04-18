@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "S.KARTHIKEYAN",
+      "email": "surajeducationaltrust@gmail.com",
+      "designation": "MANAGING TRUSTEE",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7292",
+  "name": "SURAJ EDUCATIONAL TRUST",
+  "primaryEmail": "surajeducationaltrust@gmail.com",
+  "website": "WWW.SURAJEDUCATIONALTRUST.COM",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919655455336"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "281-A,S.N.PURAM ROAD,THIRUTHANGAL",
+      "S.N.PURAM ROAD,THIRUTHANGAL",
+      "THIRUTHANGAL",
+      "Virudhunagar",
+      "Tamil Nadu",
+      "626130"
+    ]
+  }
+}

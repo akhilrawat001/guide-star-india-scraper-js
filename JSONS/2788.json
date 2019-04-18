@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "RITU PANDEY",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2788",
+  "name": "Sugam Organisation",
+  "primaryEmail": "sugamorganisation2003@gmail.com",
+  "website": "www.sugamorganisation.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service"
+  ],
+  "telephone": [
+    "9101164508999",
+    "9101164508999"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "c-19,sewak park",
+      "near dwarka more metro station",
+      "new delhi",
+      "South West Delhi",
+      "Delhi",
+      "110059"
+    ]
+  }
+}

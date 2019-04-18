@@ -1,0 +1,34 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1939",
+  "name": "Rural Social Service Centre",
+  "primaryEmail": "selvanathanrssc@rediffmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Network"
+  ],
+  "telephone": [
+    "919444767277"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "27 G.S.T.Road",
+      "Gandhi Nagar, Acharapakkam,",
+      "Madurantakam Taluk",
+      "Kancheepuram",
+      "Tamil Nadu",
+      "603301"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "Pallipettai",
+      "Acharapakkam",
+      "Kancheepuram",
+      "Tamil Nadu",
+      "603301"
+    ]
+  }
+}

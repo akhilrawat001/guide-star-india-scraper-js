@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Santanu Chatterjee",
+      "email": "carehome@rediffmail.com",
+      "designation": "Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3564",
+  "name": "Care - Home",
+  "primaryEmail": "carehome@rediffmail.com",
+  "website": "nil",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919831439768"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "43, Lelin Sarani, Kolkata -  700 013",
+      "Kolkta",
+      "Kolkata",
+      "West Bengal",
+      "700013"
+    ]
+  }
+}

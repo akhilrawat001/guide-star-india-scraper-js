@@ -1,0 +1,41 @@
+{
+  "contacts": [
+    {
+      "name": "PRASADAN",
+      "email": "talentsitm@gmail.com",
+      "designation": "PRSIDENT",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6728",
+  "name": "TALENTS EDUCATIONAL AND CULTURAL CHARITABLE SOCIETY",
+  "primaryEmail": "talentsitm@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "914872556395",
+    "914872556395"
+  ],
+  "mainAddrress": {
+    "state": "Kerala",
+    "address": [
+      "SOLAR BUILDING, CHAVAKKAD ROAD, WEST NADA, GURUVAYUR",
+      "GURUVAYUR",
+      "Thrissur",
+      "Kerala",
+      "680101"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Kerala",
+    "address": [
+      "SOLAR BUILDING,",
+      "CHAVAKKAD ROAD,",
+      "WEST NADA, GURUVAYUR",
+      "Thrissur",
+      "Kerala",
+      "680101"
+    ]
+  }
+}

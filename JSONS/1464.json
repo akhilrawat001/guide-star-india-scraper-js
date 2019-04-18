@@ -1,0 +1,42 @@
+{
+  "contacts": [
+    {
+      "name": "Shravan Deore",
+      "email": "",
+      "designation": "District Co ordinator",
+      "mobile": []
+    },
+    {
+      "name": "Shravan Deore",
+      "email": "",
+      "designation": "District Co ordinator",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1464",
+  "name": "Mahila Aani Sarvangin Utkarsh Mandal",
+  "primaryEmail": "masumnashik@rediffmail.com",
+  "telephone": [
+    "919403071000"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "5, Sankalp Co-op- Housing Society,",
+      "Janta Raja Colony,Near Madhuban Colony, Makhmalabad Road, Panchvati",
+      "Nashik",
+      "Maharashtra",
+      "422003"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "17,Karwa no. 2, Thatte Nagar,",
+      "Collage Road",
+      "Nashik",
+      "Maharashtra",
+      "422005"
+    ]
+  }
+}

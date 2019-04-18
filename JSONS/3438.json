@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "G.Tirupathi",
+      "email": "jayamngo@rediffmail.com",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3438",
+  "name": "JAYAM VOLUNTARY ORGANISATION",
+  "primaryEmail": "jayamngo@rediffmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919490667540"
+  ],
+  "mainAddrress": {
+    "state": "Telangana",
+    "address": [
+      "Nizampet",
+      "Main road",
+      "Ramayampet",
+      "Medak",
+      "Telangana",
+      "502102"
+    ]
+  }
+}

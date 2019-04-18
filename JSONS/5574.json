@@ -1,0 +1,36 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5574",
+  "name": "CURE International India Trust",
+  "primaryEmail": "sgeorge@cure.org",
+  "website": "www.cureinternationalindia.org",
+  "organisationType": [
+    "Direct Service",
+    "Intermediary",
+    "Network"
+  ],
+  "telephone": [
+    "919868993746"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "B1/603A, 2nd Floor, Janakpuri, New Delhi",
+      "Janakpuri, New delhi",
+      "New delhi",
+      "New Delhi",
+      "Delhi",
+      "110058"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "12,D",
+      "Second Floor Panchsheel Enclave",
+      "New Delhi",
+      "Delhi",
+      "110017"
+    ]
+  }
+}

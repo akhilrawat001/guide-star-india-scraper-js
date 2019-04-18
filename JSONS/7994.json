@@ -1,0 +1,47 @@
+{
+  "contacts": [
+    {
+      "name": "MST Chandrasekaram",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7994",
+  "name": "Trust for Hope",
+  "primaryEmail": "winhope22@gmail.com",
+  "website": "http://www.trustforhope.org/index.html",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service"
+  ],
+  "telephone": [
+    "914312432026",
+    "914312432026"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "64, Akila Nagar, Ganapathy Nagar Extension",
+      "Near Cauvery River",
+      "Trichirappally",
+      "Tiruchirappalli",
+      "Tamil Nadu",
+      "620005",
+      "Bank_Statement.PDF"
+    ]
+  },
+  "briefDescription": "Trust for Hope is a registered organisation working among children, adolescent girls, persons with disabilities, youth, rural artisans, women, landless agricultural labourers and small and marginal farmers ever since its inception in 1997. Its key intervention sectors are women empowerment, child development, disability, sustainable livelihood promotion, integrated environmental conservation, capacity building, education, health and nutrition, water, sanitation and hygiene and micro credit. Its areas of involvement include remote villages in 6 Tamilnadu in India. It worked in partnership with international organisations like Terre des Home and UNICEF.",
+  "yearOfEstablishment": "1997",
+  "regiseredAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "64",
+      "Akila Nagar, Ganapathi Nagar Extension",
+      "Trichirappally",
+      "Tiruchirappalli",
+      "Tamil Nadu",
+      "620005"
+    ]
+  }
+}

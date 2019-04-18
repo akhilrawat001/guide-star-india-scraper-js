@@ -1,0 +1,27 @@
+{
+  "contacts": [
+    {
+      "name": "Awinash Kumar",
+      "email": "awinash.jha@in.com",
+      "designation": "Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2960",
+  "name": "Akhand Samaj Vikas Kendra",
+  "primaryEmail": "awinash.jha@in.com",
+  "telephone": [
+    "916122346098",
+    "916122346098"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "213 Defence Colony",
+      "Kankarbagh",
+      "Patna",
+      "Bihar",
+      "800020"
+    ]
+  }
+}

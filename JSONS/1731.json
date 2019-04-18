@@ -1,0 +1,25 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1731",
+  "name": "Diyaa (NGO)",
+  "primaryEmail": "info@diyaa.org",
+  "website": "http://www.diyaa.org",
+  "organisationType": [
+    "Direct Service",
+    "Grant-making",
+    "Support"
+  ],
+  "telephone": [
+    "919540260542"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "75B Bharat Nagar",
+      "New Friends Colony,",
+      "New Delhi",
+      "Delhi",
+      "110065"
+    ]
+  }
+}

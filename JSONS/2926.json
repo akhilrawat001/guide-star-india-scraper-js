@@ -1,0 +1,27 @@
+{
+  "contacts": [
+    {
+      "name": "G D Singh",
+      "email": "gdsingh@gmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2926",
+  "name": "Confederation of Indian Healthcare Foundation",
+  "primaryEmail": "info@cihf.co.in",
+  "telephone": [
+    "917940242527",
+    "917940242527"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "402 A/B,",
+      "Om Complex, Above Zinzuwadia Jwellers, Swastik cross road, C.G Road,",
+      "Ahmedabad",
+      "Gujarat",
+      "380009"
+    ]
+  }
+}

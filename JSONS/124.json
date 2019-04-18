@@ -1,0 +1,40 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=124",
+  "name": "Able Disabled All People Together (ADAPT) - formerly The Spastics Society of India",
+  "primaryEmail": "contact@adaptssi.org",
+  "website": "www.adaptssi.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "912226443666",
+    "912722150555",
+    "912222185338",
+    "912226443666"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "A-791, K. C. Marg",
+      "Bandra Reclamation, Bandra (W)",
+      "Mumbai",
+      "Maharashtra",
+      "400050",
+      "AP_ElecBill_24.PDF"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Upper Colaba Road, Opp. Afghan Church",
+      "Colaba",
+      "Mumbai",
+      "Maharashtra",
+      "400005",
+      "AP_ElecBill_24.PDF"
+    ]
+  }
+}

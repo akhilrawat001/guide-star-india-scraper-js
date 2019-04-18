@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "George Kunnath( Fr)",
+      "email": "",
+      "designation": "Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=627",
+  "name": "Kutch Vikas Trust",
+  "primaryEmail": "kvt1@rediffmail.com",
+  "website": "www.kutchvikastrust.org",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "912832274230",
+    "912832274280",
+    "912832274230"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "Raidhanpar Village, Nagor P.O.",
+      "Bhuj",
+      "Kachchh",
+      "Gujarat",
+      "370001"
+    ]
+  }
+}

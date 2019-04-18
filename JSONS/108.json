@@ -1,0 +1,48 @@
+{
+  "contacts": [
+    {
+      "name": "Sangita Singh",
+      "email": "fundraisingmanager@masoomeducation.org",
+      "designation": "Fundraising Manager",
+      "mobile": [
+        "91-9191675771"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=108",
+  "name": "Masoom",
+  "primaryEmail": "nikita@masoomeducation.org",
+  "website": "www.masoomforu.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919191675771",
+    "919930076267"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Care of Nikita V Ketkar, B-402",
+      "Emgee Greens, India Steel Gate, S M Road, Wadala East",
+      "Mumbai",
+      "Maharashtra",
+      "400037"
+    ]
+  },
+  "briefDescription": "Masoom in a non-profit organisation working for providing quality education for Night School students. Masoom is currently working in 69 schools in Mumbai & Pune region.  We run holistic program in night schools where we provide infrastructure material and arrange capacity building training for night school stakeholders.",
+  "yearOfEstablishment": "2008",
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "C/o Nikita V Ketkar, B-402",
+      "Emgee Greens, India Steel Gate, S M Road, Wadala East",
+      "Mumbai",
+      "Maharashtra",
+      "400037",
+      "AP_ElecBill_8.PDF"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=177",
+  "name": "Sarada Foundations",
+  "primaryEmail": "reach@theinterface.in",
+  "website": "www.theinterface.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "914442012069",
+    "919840228008"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "# 5 Sudarsana Apartments, 32 I Main Road",
+      "R.A.Puram",
+      "Chennai",
+      "Tamil Nadu",
+      "600028"
+    ]
+  }
+}

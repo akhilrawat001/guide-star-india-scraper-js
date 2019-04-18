@@ -1,0 +1,23 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6025",
+  "name": "Sarathi Trust",
+  "primaryEmail": "sarathitrust_2005@yahoo.co.in",
+  "organisationType": [
+    "Direct Service",
+    "Intermediary"
+  ],
+  "telephone": [
+    "919325632795"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "140, YMCA premises, Latamangeshkar Hospital,",
+      "Opp. Eternity Mall, Civil lines",
+      "Nagpur",
+      "Maharashtra",
+      "440001"
+    ]
+  }
+}

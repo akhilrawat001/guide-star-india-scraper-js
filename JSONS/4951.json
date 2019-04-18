@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Girjesh Mishra",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4951",
+  "name": "Serva Sukhai Ujjawal Gamodyog  Sewa Sansthan",
+  "primaryEmail": "sansartarak@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919999065665"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "1562, Avas Vikas, Gandhi Nagar District- Basti (U.P.)",
+      "Basti",
+      "Uttar Pradesh",
+      "272001"
+    ]
+  },
+  "briefDescription": "CARING OLD AGE \"SHELTERLESS\" PEOPLE TO PROVIDE THEM FOOD, MEDICINE, ASYLUM, AS LONG THEY WANT TO STAY.",
+  "yearOfEstablishment": "1996"
+}

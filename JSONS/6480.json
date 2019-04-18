@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "name": "Mr Pranab Kr Ghosh",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6480",
+  "name": "DEEPALAYA",
+  "primaryEmail": "deepalaya_wb_ngo@yahoo.co.in",
+  "website": "www.wbdeepalaya.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919903278064"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "556, Dr. A.K. Paul road, Kolkata-700034",
+      "Kolkata",
+      "West Bengal",
+      "700034"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "556, Dr. A.K. Paul road, Kolkata-700034",
+      "Dr. A.K. Paul road,",
+      "Kolkata",
+      "West Bengal",
+      "700034"
+    ]
+  }
+}

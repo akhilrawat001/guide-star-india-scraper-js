@@ -1,0 +1,40 @@
+{
+  "contacts": [
+    {
+      "name": "Bijaya Kumar Kabi",
+      "email": "apowa1999@gmail.com",
+      "designation": "Director",
+      "mobile": []
+    },
+    {
+      "name": "Bijaya Kumar Kabi",
+      "email": "apowa1999@gmail.com",
+      "designation": "Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7203",
+  "name": "Action for Protection of Wild Animals(APOWA)",
+  "primaryEmail": "apowa1999@yahoo.co.in",
+  "website": "www.apowa.org",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "918455913820"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "At-Hatapatana,",
+      "PO-Kadaliban,Via-Choudakulat",
+      "Hatapatana",
+      "Kendrapara",
+      "Odisha",
+      "754222"
+    ]
+  },
+  "briefDescription": "We are focusing on direct action on the ground to protecting endangered species and their habitats, restoring and conserving degraded mangroves forests, strengthening and helping vulnerable communities become more resilient to the impacts of natural disasters and climate change.",
+  "yearOfEstablishment": "1999"
+}

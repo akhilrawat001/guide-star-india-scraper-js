@@ -1,0 +1,43 @@
+{
+  "contacts": [
+    {
+      "name": "Vineet Nayyar",
+      "email": "vineetnayyar@diyafoundation.org",
+      "designation": "Treasurer",
+      "mobile": [
+        "45531136",
+        "7838946471"
+      ]
+    },
+    {
+      "name": "Vineet Nayyar",
+      "email": "vineetnayyar@diyafoundation.org",
+      "designation": "Treasurer",
+      "mobile": [
+        "45531136",
+        "7838946471"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2868",
+  "name": "Diya Foundation",
+  "primaryEmail": "diya@diyafoundation.org",
+  "website": "www.diyafoundation.org",
+  "telephone": [
+    "911145531136",
+    "917838946471"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "612, 6th Floor,",
+      "Ansal Majestic Towers, G Block,",
+      "Vikaspuri",
+      "New Delhi",
+      "Delhi",
+      "110018"
+    ]
+  },
+  "briefDescription": "DIYA Foundation runs schools for slum children where slum children are provided basic education, free midday meals, regular medical check-ups and support and imparting of moral values in order to build a solid foundation to help them grow up into responsible citizens. The aim is to have a string of such schools all over India in order to provide maximum opportunity for underprivileged children to have proper education and a healthy and happy childhood.The activities of DIYA Foundation are multi prolonged involving aid to old age homes, undertaking AIDS awareness programmes, de addiction drives, organizing health camps in slum areas but above all providing Love, Care and Education to children in slum areas.Please visit our web-site for more detailed information about projects we run at DIYA foundation: www.diyafoundation.org",
+  "yearOfEstablishment": "2003"
+}

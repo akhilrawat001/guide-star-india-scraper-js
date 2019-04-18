@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Bhupesh Kumar Bhupak",
+      "email": "bkbhupak2009@gmail.com",
+      "designation": "Programme Manager",
+      "mobile": [
+        "91-3582-250581",
+        "91-9474513574"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1505",
+  "name": "Coochbehar Khagrabari Relief Service",
+  "primaryEmail": "krs.social@gmail.com",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "913582250581",
+    "919547053837"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Vill-Khagrabari",
+      "Taaltala",
+      "Cooch Behar",
+      "West Bengal",
+      "736101"
+    ]
+  }
+}

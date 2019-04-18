@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Renu Bharat",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8449",
+  "name": "Batika",
+  "primaryEmail": "batika.socialorg@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919931803970"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "Batika Near Naka Number 06",
+      "Laheriasarai",
+      "Darbhanga",
+      "Bihar",
+      "847121"
+    ]
+  }
+}

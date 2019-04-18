@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Joseph Mathew",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6248",
+  "name": "Corrections India",
+  "primaryEmail": "correctionsindia@hotmail.com",
+  "website": "http.//www.aswasabhavan.org",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "914812507012",
+    "914812507012"
+  ],
+  "mainAddrress": {
+    "state": "Kerala",
+    "address": [
+      "Aswasabhavan junction  Theny highway",
+      "Pampady Kottayam",
+      "Pampady",
+      "Kottayam",
+      "Kerala",
+      "686502"
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "Veerbhan Singh",
+      "email": "veerbhansinghabjkss@gmail.com",
+      "designation": "Chairman",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4122",
+  "name": "AKHIL BHARTIYA JAN KALYAN AND SEVA SANGH",
+  "primaryEmail": "abjkss2012@gmail.com",
+  "telephone": [
+    "915656539061",
+    "919219657210"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "D-21,CHANDRAPURI",
+      "NARAHAULI",
+      "MATHURA",
+      "Mathura",
+      "Uttar Pradesh",
+      "281001"
+    ]
+  }
+}

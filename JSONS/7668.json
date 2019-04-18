@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "SHAILENDRA PRATAP SINGH RAJAWAT",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7668",
+  "name": "CHAUDHARI BANSGOPAL SINGH EDUCATIONAL AND WELFARE SOCIETY",
+  "primaryEmail": "rajawat444@ymail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919039123466"
+  ],
+  "mainAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "RAJAWAT BHAWAN NEAR TRIVENI DHARMSHALLA",
+      "VANKHANDI ROAD GOPALPURA",
+      "MORENA",
+      "Morena",
+      "Madhya Pradesh",
+      "476001"
+    ]
+  }
+}

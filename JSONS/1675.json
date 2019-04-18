@@ -1,0 +1,46 @@
+{
+  "contacts": [
+    {
+      "name": "Mr.Aninda Das",
+      "email": "anindad@infinityitpark.com",
+      "designation": "manager – corporate communication (Infinity)",
+      "mobile": [
+        "91-33-40050410",
+        "91-9051483879"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1675",
+  "name": "Anant Education Initiative",
+  "primaryEmail": "info@ananteducation.org",
+  "website": "http://www.ananteducation.org",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "9103340050410",
+    "919007030313"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Infinity Think Tank,Tower II,13th floor,Plot A3,Block GP",
+      "Sector V, Salt Lake",
+      "Kolkata",
+      "West Bengal",
+      "700091"
+    ]
+  },
+  "briefDescription": "Launched in March 2011 as a CSR effort of the Infinity Group, Anant Education Initiative (AEI) is the brainchild of Mr. Ravindra Chamaria, the group chairman. Anant’s mission is to offer meritorious students from the economically weaker sections of society scholarships for further studies and to help them find gainful employment by providing them with job-oriented skills and critical inputs. Students securing 70 per cent or above in the Class X or Class XII boards and having a monthly family income of less than Rs. 5,000, can apply. Started in 2011 with 252 students, the Anant family has swelled to 5000-plus scholarship students in just two years. Anant’s goal is to scale it up to 100,000 students by 2020.",
+  "yearOfEstablishment": "2011",
+  "regiseredAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Infinity Business Centre, 18th Floor, Infinity Benchmark Building, Block EP & GP, Plot G1",
+      "Sector V, Salt Lake",
+      "Kolkata",
+      "West Bengal",
+      "700091"
+    ]
+  }
+}

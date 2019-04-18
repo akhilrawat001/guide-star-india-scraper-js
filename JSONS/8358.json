@@ -1,0 +1,50 @@
+{
+  "contacts": [
+    {
+      "name": "Samiksha Rane",
+      "email": "samikshar@gtllimited.com",
+      "designation": "CSR Executive",
+      "mobile": []
+    },
+    {
+      "name": "Samiksha Rane",
+      "email": "samikshar@gtllimited.com",
+      "designation": "CSR Executive",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8358",
+  "name": "Global Foundation",
+  "primaryEmail": "csr@gtllimited.com",
+  "website": "http://globalfoundation.in/",
+  "organisationType": [
+    "Direct Service",
+    "Intermediary",
+    "Support"
+  ],
+  "telephone": [
+    "912227612929"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Global Vision, Electronic Sadan No 2,",
+      "TTC Industrial Area, Mahape",
+      "Navi Mumbai",
+      "Mumbai Suburban",
+      "Maharashtra",
+      "400701"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "A-2,Kailash Industrial Complex,",
+      "Park Site Road, Phase II, Vikhroli West,",
+      "Mumbai",
+      "Mumbai Suburban",
+      "Maharashtra",
+      "400079"
+    ]
+  }
+}

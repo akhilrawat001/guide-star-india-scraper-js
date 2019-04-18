@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "J AKILA",
+      "email": "animalcaretrust_india@hotmail.com",
+      "designation": "Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5250",
+  "name": "ANIMAL CARE TRUST",
+  "primaryEmail": "animalcaretrust_india@hotmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Intermediary"
+  ],
+  "telephone": [
+    "914512441132",
+    "914512441132"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "87 SPENCER COMPOUND",
+      "DINDIGUL",
+      "Dindigul",
+      "Tamil Nadu",
+      "624003"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "contacts": [
+    {
+      "name": "Reetha Inasu",
+      "email": "",
+      "designation": "Sr Administration In-Charge",
+      "mobile": [
+        "91-11-41640929"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=648",
+  "name": "Dalit Foundation",
+  "primaryEmail": "ed@dalitfoundation.org",
+  "website": "http://www.dalitfoundation.org",
+  "organisationType": [
+    "Grant-making",
+    "Support"
+  ],
+  "telephone": [
+    "911124625072"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "J-6, 2nd Floor",
+      "South Extension - I",
+      "New Delhi",
+      "Delhi",
+      "110049"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "C-5, Royal Chinmay",
+      "Next to Simadhar Tower, Opp. Juges' Bungalow, Bodakdev,",
+      "Vastrapur",
+      "Ahmedabad",
+      "Gujarat",
+      "380054"
+    ]
+  }
+}

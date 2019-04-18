@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Mr.Sundeep C Srivastav",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7058",
+  "name": "Centre For Media Studies",
+  "primaryEmail": "info@cmsindia.org",
+  "website": "cmsvatavaran.org",
+  "organisationType": [
+    "Grant-making",
+    "Support"
+  ],
+  "telephone": [
+    "919899979169"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "CMS, Research House,",
+      "Saket Community Center,",
+      "Delhi",
+      "South Delhi",
+      "110017"
+    ]
+  }
+}

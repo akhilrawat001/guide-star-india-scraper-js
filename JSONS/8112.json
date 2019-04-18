@@ -1,0 +1,35 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8112",
+  "name": "Shaheed Education Centre Samiti",
+  "primaryEmail": "shaheed_education@rediffmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919554625892"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "Raja Rampur Mei Post Ukhara",
+      "New Basti Mohnpur Kamalganj",
+      "Village Raja Rampur Mei",
+      "Farrukhabad",
+      "Uttar Pradesh",
+      "207501"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "new basti mohnpur kamalganj",
+      "no",
+      "mohnpur",
+      "Farrukhabad",
+      "Uttar Pradesh",
+      "209724"
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8371",
+  "name": "Jammu and Kashmir Peace Foundation",
+  "primaryEmail": "jkp.nic.in@gmail.com",
+  "website": "www.jkpf.org.in",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919419000844",
+    "919622222480"
+  ],
+  "mainAddrress": {
+    "state": "Jammu and Kashmir",
+    "address": [
+      "Near New General Bus stand Annantnag Jammu and Kashmir",
+      "Annantnag",
+      "Anantnag",
+      "Jammu and Kashmir",
+      "192101"
+    ]
+  }
+}

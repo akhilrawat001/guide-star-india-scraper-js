@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Ravi Prabhuappa Kadwade",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8891",
+  "name": "YUVA BHARATI BAHUDDESHIYA SAMAJIK SEVABHAVI SANSTHA",
+  "primaryEmail": "yuvabharatisanstha2011@gmail.com",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "919923525551",
+    "917841942881"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Kadwade Niwas,Behind Balaji Mandir, Marwadi Galli,",
+      "Ahmedpur",
+      "Latur",
+      "Maharashtra",
+      "413515"
+    ]
+  }
+}

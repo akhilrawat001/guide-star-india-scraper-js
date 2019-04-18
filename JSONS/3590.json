@@ -1,0 +1,34 @@
+{
+  "contacts": [
+    {
+      "name": "Prabir Basu",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3590",
+  "name": "(SPAN) SOCIETY FOR PEOPLES AWARENESS",
+  "primaryEmail": "info@spanvoice.org",
+  "website": "www.spanvoice.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919331992897"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "66/2, Sarat Chandra Dhar Road, Kolkata - 700090",
+      "127, Gorui Paschimpara, PO Rabindranagar, Kolkata - 700065",
+      "Kolkata",
+      "North 24 Parganas",
+      "West Bengal",
+      "700090"
+    ]
+  }
+}

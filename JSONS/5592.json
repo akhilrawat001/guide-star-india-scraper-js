@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Qudsia Anjum",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5592",
+  "name": "Jagrook Mahila Sanstha Parcham",
+  "primaryEmail": "parchamorg@gmail.com",
+  "website": "http// www.parchamorg",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service"
+  ],
+  "telephone": [
+    "919837378699"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "11/70 Pakka Bagh,Saharanpur U.P",
+      "Yahiya Shah",
+      "Saharanpur",
+      "Uttar Pradesh",
+      "247001"
+    ]
+  },
+  "briefDescription": "Jagrook Mahila Sanstha Parcham is Located in Saharanpur, Uttar Pradesh.It works for women empowerment,child literacy,vocational training programme,communal harmony ,environment awareness programme.",
+  "yearOfEstablishment": "1999"
+}

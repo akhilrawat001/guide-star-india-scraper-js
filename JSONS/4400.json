@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Kahkashan Tabassum",
+      "email": "greenglobetrust@yahoo.in",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4400",
+  "name": "Green Globe Trust",
+  "primaryEmail": "greenglobetrust@yahoo.in",
+  "website": "No",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "917352513784"
+  ],
+  "mainAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "Green globe Trust",
+      "At- Matwari Kumhar Toli, Ward No. 27",
+      "Hazari bagh",
+      "Hazaribag",
+      "Jharkhand",
+      "825301"
+    ]
+  }
+}

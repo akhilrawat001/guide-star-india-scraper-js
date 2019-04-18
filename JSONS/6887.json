@@ -1,0 +1,27 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6887",
+  "name": "Church's Auxiliary for Social Action",
+  "primaryEmail": "sushant@casa-india.org",
+  "website": "http://casa-india.org",
+  "organisationType": [
+    "Direct Service",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "911125730611"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "Rachna building, 4th floor",
+      "2 Rajendra Place, Pusa Road",
+      "New Delhi",
+      "West Delhi",
+      "Delhi",
+      "110008"
+    ]
+  }
+}

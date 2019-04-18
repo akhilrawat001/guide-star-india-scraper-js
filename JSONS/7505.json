@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Mr.Rakesh Dubey",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7505",
+  "name": "Swami Vivekanand Samajik Shaikshik Sansthan",
+  "primaryEmail": "swaviswas05@gmail.com",
+  "website": "www.swaviswas.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Intermediary",
+    "Support"
+  ],
+  "telephone": [
+    "919918909192"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "Village Bhawanigarh Post teria",
+      "Ambedkar Nagar",
+      "Uttar Pradesh",
+      "224205"
+    ]
+  }
+}

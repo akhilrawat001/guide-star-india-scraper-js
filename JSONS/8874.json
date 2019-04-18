@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Bhimrao Zade",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8874",
+  "name": "BHIMRAO ZADE SHIKSHAN SANSTHA",
+  "primaryEmail": "bzssinstitutions@gmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919422913490"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Jay Bhawani Nagar, Near BAMCEF Office,",
+      "Bay Pass Road, Babupeth,",
+      "Chandrapur",
+      "Maharashtra",
+      "442403"
+    ]
+  }
+}

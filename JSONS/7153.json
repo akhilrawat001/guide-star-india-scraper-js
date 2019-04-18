@@ -1,0 +1,43 @@
+{
+  "contacts": [
+    {
+      "name": "MANJUSREE GHOSH",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7153",
+  "name": "Sodepur Samarpan",
+  "primaryEmail": "manjushree0120@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919190519324"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Raja Road,",
+      "P.O.Sukchar",
+      "Kokota",
+      "Kolkata",
+      "West Bengal",
+      "700115"
+    ]
+  },
+  "briefDescription": "The organisation is located in Kolkota for training and rehabilitation etc.",
+  "yearOfEstablishment": "2012",
+  "regiseredAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Raja Road, (near Dr. S.N Ghosh's house)",
+      "P.O.Sukchar",
+      "Kokota",
+      "Kolkata",
+      "West Bengal",
+      "700115"
+    ]
+  }
+}

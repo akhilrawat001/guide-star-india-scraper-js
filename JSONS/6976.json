@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "Mr. Manoj Thacker",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6976",
+  "name": "SARAL",
+  "primaryEmail": "saral@ramanagroup.org",
+  "website": "www.saralindia.org",
+  "organisationType": [
+    "Direct Service",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "917940050711",
+    "917940050711"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "Fifth Floor, Ratnaraj Spring,",
+      "Beside Navnirman Bank, Navrangpura,",
+      "Ahmedabad",
+      "Gujarat",
+      "380009"
+    ]
+  },
+  "briefDescription": "Saral is a non-profit organization founded in 2003 and promoted by Ramana Group.Saral’s mission is to bridge gaps between vision, ideas, stakeholders and implementation practices thorough holistic approachesNetworking and Alliance Building with intergovernmental, government, non-government, academic and technical institutions for the above.",
+  "yearOfEstablishment": "2003"
+}

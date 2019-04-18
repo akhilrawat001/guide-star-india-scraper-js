@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Mr Dipankar Mitra",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8944",
+  "name": "KALISHANKAR FOUNDATION",
+  "primaryEmail": "kalisankarf@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919339126219"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Mallickpara, Rail Gate-9-North. Dankuni,",
+      "Hooghly",
+      "West Bengal",
+      "712311"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Suryaprakash",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8575",
+  "name": "Kalpana Rashmi Kalaloka",
+  "primaryEmail": "kalpanarashmikalaloka98@gmail.com",
+  "website": "http://www.kalaloka.com",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "919448105291"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "Dileep Complex 2 Floor",
+      "Opposite Siddhivinayka Tempal Main Road",
+      "Karwar",
+      "Uttara Kannada",
+      "Karnataka",
+      "581301"
+    ]
+  }
+}

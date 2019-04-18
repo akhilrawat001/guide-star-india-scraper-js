@@ -1,0 +1,37 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4290",
+  "name": "Vibha India (Trust)",
+  "primaryEmail": "zankhana@vibha.org",
+  "website": "http://india.vibha.org",
+  "organisationType": [
+    "Grant-making",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "912228406781",
+    "912228406781"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "301/5, Noopur, Amritvan Complex, Goregaon (East)",
+      "Mumbai",
+      "Mumbai Suburban",
+      "Maharashtra",
+      "400063"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "Vibha India, 365 29th Main, 10th Cross,HSR Layout - Sector 1, Bangalore 560034",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560034"
+    ]
+  }
+}

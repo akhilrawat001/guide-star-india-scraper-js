@@ -1,0 +1,31 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10534",
+  "name": "Life- Livelihood Initiatives for Empowerment, Shantiniketan",
+  "primaryEmail": "life.santiniketan.india@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919143187121",
+    "913326638523"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "326,BBD Road, Bhadrakali, Hooghly",
+      "Hooghly",
+      "West Bengal",
+      "712232"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Mukulika” Simantapally, Shantiniketan",
+      "Birbhum",
+      "West Bengal",
+      "731235"
+    ]
+  }
+}

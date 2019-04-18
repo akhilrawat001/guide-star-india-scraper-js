@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "IDRISHBHAI",
+      "email": "statusvavoob@yahoo.com",
+      "designation": "PRO",
+      "mobile": [
+        "91-9824765256"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1850",
+  "name": "BANAS EDUCATION & CHARITABLE TRUST",
+  "primaryEmail": "banasngo@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "912749272600",
+    "919428984745"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "OLD DAIRY BUILDING",
+      "AT&PO:NAVAVAS,",
+      "NAVAVAS",
+      "Banaskantha",
+      "Gujarat",
+      "385120"
+    ]
+  }
+}

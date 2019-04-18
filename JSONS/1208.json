@@ -1,0 +1,39 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1208",
+  "name": "Shri Vishwanath Raghunath Rao Deshpande Memorial Trust",
+  "primaryEmail": "vrdmtrust@gmail.com",
+  "website": "www.vrdmtrust.org",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "918284221300",
+    "918284220846"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "Udyog Vidyanagar",
+      "Dandell Road",
+      "Haliyal",
+      "Uttara Kannada",
+      "Karnataka",
+      "581329",
+      "AP_TelBill_1112.PDF"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "Nilay', No 372,",
+      "R.T.Nagar, Main Road",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560032",
+      "AP_TelBill_1112.PDF"
+    ]
+  }
+}

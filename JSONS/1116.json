@@ -1,0 +1,24 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1116",
+  "name": "Swadhaar FinAccess",
+  "primaryEmail": "info@swadhaar.org",
+  "website": "http://www.swadhaar.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "912225216929",
+    "919224523598"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "101  Jolitha Complex",
+      "Plot No.639  Ghatla Village Road  N.B. Patil Marg  Chembur (East)",
+      "Mumbai",
+      "Maharashtra",
+      "400071"
+    ]
+  }
+}

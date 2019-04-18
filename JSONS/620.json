@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "Alok Kumar Bhuwan (Dr)",
+      "email": "",
+      "designation": "Managing Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=620",
+  "name": "Manovikas Charitable Society",
+  "primaryEmail": "manovikasy2k@yahoo.com",
+  "website": "www.manovikas.co.in",
+  "telephone": [
+    "911122377771",
+    "911122376468",
+    "911122377771"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "A-267, Surajmal Vihar",
+      "East Delhi",
+      "Delhi",
+      "110092"
+    ]
+  }
+}

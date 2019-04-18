@@ -1,0 +1,37 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6396",
+  "name": "SHRI AKTA GRAMVIKAS TRUST",
+  "primaryEmail": "shriaktagramvikastrust@gmail.com",
+  "website": "Under Construstion",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "912834286429",
+    "912834286429"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "160",
+      "Ambli Chowk,",
+      "Vill. SABHARAI, Tal.: MANDVI-Kutch Pin: 370450",
+      "Kachchh",
+      "Gujarat",
+      "370450"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "160",
+      "Ambli Chowk",
+      "Vill. Sabhrai Tal. Mandvi-Kutch",
+      "Kachchh",
+      "Gujarat",
+      "370450"
+    ]
+  }
+}

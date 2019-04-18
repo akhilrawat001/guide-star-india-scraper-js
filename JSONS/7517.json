@@ -1,0 +1,34 @@
+{
+  "contacts": [
+    {
+      "name": "Mr.Roy Thomas",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7517",
+  "name": "Jan Vikas Society",
+  "primaryEmail": "janvikaspalda@hotmail.com",
+  "website": "http://www.janvikassociety.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "917312862229",
+    "917312862229"
+  ],
+  "mainAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "Janvikas Society, Ashram Campus, Palda",
+      "P.B. No. 103",
+      "Indore",
+      "Madhya Pradesh",
+      "452001"
+    ]
+  },
+  "briefDescription": "Janvikas works for the integral development of the underprivileged and marginalized people, who are deprived of their right to live as dignified and responsible citizens.  Janvikas pays special attention to the welfare of the unorganized labourers namely waste picking women (rag pickers) and children and unemployed youth. Major areas of focus are Women Empowerment, Education of drop-out and working children, Vocational Training of Youth etc.",
+  "yearOfEstablishment": "2001"
+}

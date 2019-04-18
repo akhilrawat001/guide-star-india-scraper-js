@@ -1,0 +1,27 @@
+{
+  "contacts": [
+    {
+      "name": "Pankaj Kumar Kandpal",
+      "email": "",
+      "designation": "Chairperson",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=533",
+  "name": "Parvatiya Aranya Sewa Evam Vikas Sansthan",
+  "primaryEmail": "pass.pth@gmail.com",
+  "telephone": [
+    "915964227985",
+    "915964228887",
+    "915964227985"
+  ],
+  "mainAddrress": {
+    "state": "Uttarakhand",
+    "address": [
+      "Police line Road-Kumour",
+      "Pithoragarh",
+      "Uttarakhand",
+      "262501"
+    ]
+  }
+}

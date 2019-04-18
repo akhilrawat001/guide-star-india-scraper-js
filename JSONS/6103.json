@@ -1,0 +1,45 @@
+{
+  "contacts": [
+    {
+      "name": "Arvinder Kaur",
+      "email": "arvinder@nsnobletrust.org",
+      "designation": "Public Relation Manager",
+      "mobile": [
+        "91-161-2425002",
+        "91-9915238488"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6103",
+  "name": "Nikhil Singal Noble Trust",
+  "primaryEmail": "info@nsnobletrust.org",
+  "website": "http://www.nsnobletrust.org/",
+  "organisationType": [
+    "Network"
+  ],
+  "telephone": [
+    "919915238488"
+  ],
+  "mainAddrress": {
+    "state": "Punjab",
+    "address": [
+      "SCO 15, Second Floor,",
+      "Nr. Nehru Sidhant Kendra, Pakhowal Road",
+      "Ludhiana",
+      "Punjab",
+      "141001"
+    ]
+  },
+  "briefDescription": "Nikhil Singal Noble Trust (Regd.,is working towards the Education of Children in a participatory approach. They are given a chance to develop some understanding of their situation, their rights and opportunities and focus on their education to build a strong future for themselves. The trust provide education, counselling, recreational activities, and a framework to get organized. The Trust is working for various social causes also in a constructive manner to bring cheers in the lives of thousands of helpless families, which are downtrodden and lead miserable lives. The Trust is dedicated to provide medical aid to those who can’t afford proper treatment when in need & education to the deserving poor children.",
+  "yearOfEstablishment": "2010",
+  "regiseredAddrress": {
+    "state": "Punjab",
+    "address": [
+      "C/o M/s Eastman impex, Sua Road",
+      "Industrial area - C, Dhandari Kalan,",
+      "Ludhiana",
+      "Punjab",
+      "141003"
+    ]
+  }
+}

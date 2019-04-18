@@ -1,0 +1,25 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6946",
+  "name": "Mico Employees Forum",
+  "primaryEmail": "micoforum@rediffmail.com",
+  "website": "www.boschforum.org.in",
+  "organisationType": [
+    "Direct Service",
+    "Intermediary",
+    "Support"
+  ],
+  "telephone": [
+    "919923551517"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Manav Seva Kendra, Near Shabaji Stadium",
+      "Sinhansth Nagar Cidco New Nashik",
+      "Nashik",
+      "Maharashtra",
+      "422009"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Mr Ashutoosh Bajpai",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7357",
+  "name": "MAYUR CREATION SANSKRITIK SAHITYIK SAMAJIK SANSTHAN",
+  "primaryEmail": "MAYURCREATIONORG@GMAIL.COM",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919335478958",
+    "919608016893"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "145B/ 5 Chandpur Salori",
+      "Katju Bagh Colony Post Teliyearganj",
+      "Allahabad",
+      "Uttar Pradesh",
+      "211004"
+    ]
+  }
+}

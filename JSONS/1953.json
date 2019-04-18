@@ -1,0 +1,49 @@
+{
+  "contacts": [
+    {
+      "name": "Snigdha Verma",
+      "email": "ivfcommunications@gmail.com",
+      "designation": "Communication Manager",
+      "mobile": [
+        "91-11-47100705",
+        "91-8805984084"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1953",
+  "name": "India Vision Foundation",
+  "primaryEmail": "ivfindia@gmail.com",
+  "website": "www.indiavisionfoundation.org",
+  "organisationType": [
+    "Direct Service",
+    "Intermediary",
+    "Support"
+  ],
+  "telephone": [
+    "911147100700",
+    "911147100705",
+    "919958009520",
+    "918805984084"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "56, Uday Park, New Delhi",
+      "New Delhi",
+      "Delhi",
+      "110049"
+    ]
+  },
+  "briefDescription": "India Vision Foundation(IVF) is a voluntary non-profit, non-government organization registered as a Trust in India vide No. 4595 dated August 1, 1994. Foundation was born out of the Ramon Magsaysay Award (equivalent to Asian Nobel Prize). The award was conferred to Dr. Kiran Bedi, the first lady IPS (Indian Police Services) of India, for forging ‘positive relationships’ between people and police through creative leadership. IVF seeks to carry forward its service in all those areas which were the basis of the award; namely Police and Prison Reforms; Women Empowerment with a mission statement to ‘Save the next victim’. Presently, the foundation through its “Inside Prison Project ” is working in prisons of 3 states - New Delhi, Haryana, Uttar Pradesh. Foundation’s reformation activities in every prison are based on 3S Model of reformation that is: Sanskar (Value Education), Shiksha (Education) and Skill (Training & Development). The organization is also committed to rebuild the lives of children of prisoners from Cradles to Careers through our “Education for Children of inmates” Project: a) Crèche (Below six years) – Children below the age of 6 years are allowed to stay with their mothers inside the prison. Foundation provides a day-care facility for them inside prisons where they are provided with care & education with help of dedicated staff. b) Children of Vulnerable Families Project (Over six years) - The primary aim and mission of this project is to mainstream & educate the children of incarcerated families via three broad interventions:\tResidential School Programme\tHome Support Programme\tCommunity Empowerment Programme More than 500 children between the age group of 5 -16 years have benefitted till date through the program. The foundation also has a strong network of Alumni who are now working professionals.In order to sensitize prison administration a path breaking step was taken in 2015 – 2016 to spread reformation activities in different prisons Training programme for prison officials was introduced. Today, IVF is touching more than 3000 lives every day and is striving to give a new hope in the lives of prison inmates and their children. IVF with its team is trying to bring about a progressive change through positive reinforcement, education and values that not only help them to become responsible and conscientious citizens but empower them enough to become an asset to the society. The foundation has successfully reached out to more than 1, 50,000 beneficiaries under its Prison Reforms and Rural Development project.",
+  "yearOfEstablishment": "1994",
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "56, Uday Park, New Delhi",
+      "Sarai Rohilla Building",
+      "New Delhi",
+      "Delhi",
+      "110049"
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "contacts": [
+    {
+      "name": "Mohanakumar E",
+      "email": "",
+      "designation": "Director",
+      "mobile": []
+    },
+    {
+      "name": "Mohanakumar E",
+      "email": "",
+      "designation": "Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=626",
+  "name": "Centre for Action, Development, Research and Education in India",
+  "primaryEmail": "cadreindia@gmail.com",
+  "website": "www.cadreindia.org.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "914651261211",
+    "919442636211",
+    "914651261211"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "Kurumathoor",
+      "Kuzhithurai",
+      "Kanyakumari",
+      "Tamil Nadu",
+      "629163"
+    ]
+  }
+}

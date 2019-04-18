@@ -1,0 +1,53 @@
+{
+  "contacts": [
+    {
+      "name": "Dr. Ranjit Chakrabarty",
+      "email": "orchi2003@gmail.com",
+      "designation": "President",
+      "mobile": [
+        "91-9830188531"
+      ]
+    },
+    {
+      "name": "Dr. Ranjit Chakrabarty",
+      "email": "orchi2003@gmail.com",
+      "designation": "President",
+      "mobile": [
+        "91-9830188531"
+      ]
+    },
+    {
+      "name": "Dr. Ranjit Chakrabarty",
+      "email": "orchi2003@gmail.com",
+      "designation": "President",
+      "mobile": [
+        "91-9830188531"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4738",
+  "name": "ORCHI",
+  "primaryEmail": "orchi2003@gmail.com",
+  "website": "http://www.orchi.in/",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919830975125",
+    "919830188531"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "L/A-11, Kustia Housing Estate",
+      "Kolkata",
+      "West Bengal",
+      "700039",
+      "Bank statement Orchi_May2013.PDF"
+    ]
+  },
+  "briefDescription": "ORCHI was formed in 2003 by a group of dedicated people with the mission to provide sustainable development to underprivileged, vulnerable population of the society and people living in difficult circumstances by acting as a facilitator through community development. ORCHI has the philosophy of walking together with underprivileged persons- street dwellers, slum dwellers and people at the bottom of the society by helping them through education,awareness programme,  counseling, vocational training, values and facilities to their lives, being their partner in distress by helping as an when needed irrespective of age, sex, and religion.",
+  "yearOfEstablishment": "2003"
+}

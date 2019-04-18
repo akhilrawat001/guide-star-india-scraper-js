@@ -1,0 +1,26 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7130",
+  "name": "Seva Kendra Calcutta",
+  "primaryEmail": "sk.calcutta@gmail.com",
+  "website": "www.sevakendra.in",
+  "organisationType": [
+    "Direct Service",
+    "Intermediary",
+    "Support"
+  ],
+  "telephone": [
+    "913323290381",
+    "913323290381"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "52B",
+      "Radhanath Chowdhury Road",
+      "Kolkata",
+      "West Bengal",
+      "700015"
+    ]
+  }
+}

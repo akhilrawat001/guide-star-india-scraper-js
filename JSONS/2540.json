@@ -1,0 +1,46 @@
+{
+  "contacts": [
+    {
+      "name": "B Pramod Gopal Nair",
+      "email": "pramod@comit.co.in",
+      "designation": "Exe Council Member",
+      "mobile": []
+    },
+    {
+      "name": "B Pramod Gopal Nair",
+      "email": "pramod@comit.co.in",
+      "designation": "Exe Council Member",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2540",
+  "name": "Abayam",
+  "primaryEmail": "info@abhayam.in",
+  "website": "www.abhayam.in",
+  "telephone": [
+    "914842778980",
+    "919846229898"
+  ],
+  "mainAddrress": {
+    "state": "Kerala",
+    "address": [
+      "Abhayam Building, S N Junction,",
+      "Main Road",
+      "Kochi/Tripunithura",
+      "Ernakulam",
+      "Kerala",
+      "682301"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Kerala",
+    "address": [
+      "XV 324 C",
+      "Abhayam Building,",
+      "Kochi/Tripunithura",
+      "Ernakulam",
+      "Kerala",
+      "682301"
+    ]
+  }
+}

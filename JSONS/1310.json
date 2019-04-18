@@ -1,0 +1,27 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1310",
+  "name": "Saksham",
+  "primaryEmail": "info@saksham.org",
+  "website": "www.saksham.org",
+  "organisationType": [
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "911142411015",
+    "911145793601",
+    "919810043626"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "Flat 9",
+      "Dakshineshwar Building, 10 Hailey Road,",
+      "New Delhi",
+      "Delhi",
+      "110001"
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Shakti Singh",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5845",
+  "name": "Shree Laljee Prashikshan Kendra",
+  "primaryEmail": "slpkmailme@gmail.com",
+  "website": "www.slpk.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "9431189599"
+  ],
+  "mainAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "At. Putkee Bazar",
+      "Near Shiv Mandir",
+      "Dhanbad",
+      "Jharkhand",
+      "828116"
+    ]
+  },
+  "briefDescription": "“Shree Laljee Prashikshan Kendra” is set in 1985 by a group of educational and social worker for uplifting the socio-economic status of the rural and urban people. It is a nonprofit making, secular voluntary organization working for the cause of down trodden and suppressed section of the society from its very inception. It is run and managed by highly qualified professional since 1985 .",
+  "yearOfEstablishment": "1985"
+}

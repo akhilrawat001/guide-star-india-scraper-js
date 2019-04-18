@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Biswajit Mahakur",
+      "email": "jgvksundarban@gmail.com",
+      "designation": "Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2836",
+  "name": "Jaygopalpur Gram Vikash Kendra",
+  "primaryEmail": "jgvksundarban@gmail.com",
+  "website": "www.jgvksundarban.org",
+  "telephone": [
+    "913218203020",
+    "919732522848"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Joygopalpur Village",
+      "PO - J.N.Hat,",
+      "P.S.- Basanti",
+      "South 24 Parganas",
+      "West Bengal",
+      "743312"
+    ]
+  }
+}

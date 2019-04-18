@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "Pundalik Lokare",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "9702209977"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9049",
+  "name": "AABHAR FOUNDATION",
+  "primaryEmail": "aabharfoundation@gmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919702209977"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "254 / 20 A, SHINDE BUILDING COMPOUND, SENAPATI BAPAT MARG, LOWER PAREL (WEST)",
+      "LOWE PAREL (W)",
+      "MUMBAI",
+      "Mumbai",
+      "Maharashtra",
+      "400013"
+    ]
+  },
+  "briefDescription": "Aabhar Foundation work for Organ Donation Awareness as well as Implementation. we are also doing Funeral Service for unclaimed body with dignity & respectful.",
+  "yearOfEstablishment": "2015"
+}

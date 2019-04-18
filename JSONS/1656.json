@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "Swati Bandal",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "40639191"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1656",
+  "name": "HELPING HAND FOUNDATION",
+  "primaryEmail": "info@helpinghandindia.org",
+  "website": "http://www.helpinghandindia.org",
+  "organisationType": [
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "912240639191",
+    "912240639191"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "10A, THACKER INDUSTRIAL ESTATE,",
+      "N.M. JOSHI MARG, LOWER PAREL(E),",
+      "MUMBAI",
+      "Mumbai",
+      "Maharashtra",
+      "400011"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=187",
+  "name": "Sadguru Sri Gnanananda Seva Trust",
+  "primaryEmail": "vivekanandacc@gmail.com",
+  "website": "www.vivekanandacommunitycollege.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "914132655192",
+    "914132655193",
+    "919487855192"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "Keezhputhupattu P.O., Opp.Pondicherry Institute of Medical Sciences",
+      "Near Kanaga Chetty Kulam, Via. East Coast Road",
+      "Pondicherry",
+      "Viluppuram",
+      "Tamil Nadu",
+      "605014"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "Sadguru Sri Gnanananda Seva Trust, B-3",
+      "Ramanalaya, 21, 1st Crescent Park Road, Gandhi Nagar, Adyar, Sadguru Sri Gnanananda Seva Trust, B-3",
+      "Chennai",
+      "Tamil Nadu",
+      "600020",
+      "AP_TelBill_87.PDF"
+    ]
+  }
+}

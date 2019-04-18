@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Anoop Pandey",
+      "email": "ngo_vigosports@yahoo.com",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6641",
+  "name": "Vigo Sports and Youth Development Organisation",
+  "primaryEmail": "ngo_vigosports@yahoo.com",
+  "website": "www.vigosports.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919424503028"
+  ],
+  "mainAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "Vyapar kiran ,",
+      "J.R.Birla Road,",
+      "Kolgawan",
+      "Satna",
+      "Madhya Pradesh",
+      "485001"
+    ]
+  }
+}

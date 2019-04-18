@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "J Mohanraamkumar",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4386",
+  "name": "Yuvasakthi",
+  "primaryEmail": "yuvasakthi_1146@yahoo.co.in",
+  "website": "http //www.yuvasakthi.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919933290269"
+  ],
+  "mainAddrress": {
+    "state": "Andaman and Nicobar Islands",
+    "address": [
+      "Toor Niwas, II Floor, RGT Road,Port Blair, Andaman Nicobar Islands.",
+      "RGT road",
+      "Port Blair",
+      "South Andaman",
+      "Andaman and Nicobar Islands",
+      "744101"
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "Joseph Stalin",
+      "email": "j.stalin.msw@gmail.com",
+      "designation": "Project Manager",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2752",
+  "name": "Rural Development Council",
+  "primaryEmail": "rdctribal@gmail.com",
+  "telephone": [
+    "914347235290",
+    "919865770131"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "No 51",
+      "By Pass Road",
+      "Denknilottai",
+      "Krishnagiri",
+      "Tamil Nadu",
+      "635107"
+    ]
+  }
+}

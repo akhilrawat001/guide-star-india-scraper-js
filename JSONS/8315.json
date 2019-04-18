@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "TULSI RAO",
+      "email": "krishna_arc9@yahoo.com",
+      "designation": "SECRETARY",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8315",
+  "name": "AMMA RESEARCH CENTER",
+  "primaryEmail": "krishna_arc9@yahoo.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919234755883"
+  ],
+  "mainAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "H.No.321, Road no.7,",
+      "Sonary West New Layout,",
+      "Jamshedpur",
+      "East Singhbhum",
+      "Jharkhand",
+      "831011"
+    ]
+  }
+}

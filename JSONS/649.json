@@ -1,0 +1,28 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=649",
+  "name": "Arun Institute of Rural Affairs (AIRA)",
+  "primaryEmail": "aira_dkl@yahoo.co.in",
+  "website": "www.airaorissa.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "916762289668",
+    "916762289809",
+    "916762289668"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "At Aswakhoga, PO Karamul",
+      "Via Mahimagadi, PS Gondia",
+      "Dhenkanal",
+      "Odisha",
+      "759014"
+    ]
+  }
+}

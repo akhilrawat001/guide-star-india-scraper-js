@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "Sabiha Naaz",
+      "email": "",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=566",
+  "name": "Mahila Sewak Samaj",
+  "primaryEmail": "mahilasewaksamaj@yahoo.com",
+  "telephone": [
+    "916112231071",
+    "916112231071"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "Alam Manzil Moh., Sherpur",
+      "Bihar Sharif",
+      "Nalanda",
+      "Bihar",
+      "803101"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Bihar",
+    "address": [
+      "Jamalpur Bighapar",
+      "Sheikhpura",
+      "Bihar",
+      "811105"
+    ]
+  }
+}

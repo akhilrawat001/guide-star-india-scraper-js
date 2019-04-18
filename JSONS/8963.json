@@ -1,0 +1,24 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8963",
+  "name": "Samaritansï¿½ Assembly",
+  "primaryEmail": "samaritansassembly@gmail.com",
+  "website": "www.samaritans-kolkata.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919830226318",
+    "913324491085",
+    "919477878973"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "37A, Hossain Shah Road, (Mominpore),",
+      "Kolkata",
+      "West Bengal",
+      "700023"
+    ]
+  }
+}

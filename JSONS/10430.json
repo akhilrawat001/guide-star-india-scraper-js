@@ -1,0 +1,34 @@
+{
+  "contacts": [
+    {
+      "name": "Sahana Bhowmick",
+      "email": "director@ditoindia.org",
+      "designation": "Director",
+      "mobile": [
+        "91-9748685026"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10430",
+  "name": "DITO SOCIAL WELFARE ASSOCIATION",
+  "primaryEmail": "director@ditoindia.org",
+  "website": "www.ditoindia.org",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919748685026"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "41E/1A Palm Avenue",
+      "Kolkata",
+      "West Bengal",
+      "700019"
+    ]
+  },
+  "briefDescription": "DITO Social Welfare Association, India is a part of DITO Foundation, Netherlands, that has it’s presence in India, Nepal, Thailand, Senegal, Cambodia and Tibet. Founded in 1996, DITO is nonsectarian, impartial and nongovernmental. DITO stands for “ Drop In The Ocean” and dedicates itself to Girls education and women’s empowerment, medical care, water & sanitation and Social Impact ventures. In 2016 we are registered in India as DITO Social Welfare Association. We are governed by an Independent Board of directors.",
+  "yearOfEstablishment": "2016"
+}

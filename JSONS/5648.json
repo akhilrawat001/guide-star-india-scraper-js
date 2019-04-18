@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "ROHIT ASTHANA",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5648",
+  "name": "DEVELOPMENT CENTRE FOR ALTERNATIVE POLICIES",
+  "primaryEmail": "devcentreap@gmail.com",
+  "website": "http://www.dcapindia.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919868215574"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "5, Babar Road, New Delhi",
+      "New Delhi",
+      "Delhi",
+      "110001"
+    ]
+  },
+  "briefDescription": "DCAP’s mission is to actively participate in the sustenance of pluralism and diversity in all spheres of life - environmental, social, cultural, economic and political - for achieving peaceful co-existence within human society and with nature.DCAP’s Activities Revolve Around The Following Thematic AreasLaw and GovernanceWater Resources Conservation and DevelopmentEnvironmentally Sustainable Agriculture.S & T Application for Local Governance"
+}

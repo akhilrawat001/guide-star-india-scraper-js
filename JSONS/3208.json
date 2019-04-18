@@ -1,0 +1,26 @@
+{
+  "contacts": [
+    {
+      "name": "B.K Gupta",
+      "email": "",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3208",
+  "name": "Alert Sansthan",
+  "primaryEmail": "alert_sansthan@rediffmail.com",
+  "telephone": [
+    "912942420940",
+    "912942420940"
+  ],
+  "mainAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "2-D, Bhupalpura",
+      "Udaipur",
+      "Rajasthan",
+      "313001"
+    ]
+  }
+}

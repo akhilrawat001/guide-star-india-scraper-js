@@ -1,0 +1,27 @@
+{
+  "contacts": [
+    {
+      "name": "Shidram Shivraj Dogore",
+      "email": "graminvikasngo@gmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4172",
+  "name": "GRAMIN VIKAS BAHUUDDESHIYA SEVABHAVI SANSTHA",
+  "primaryEmail": "graminvikasngo@gmail.com",
+  "telephone": [
+    "918055457572"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "A/+, DONGREWADI",
+      "P. VNALE, TAL-DEVANI",
+      "LATUR",
+      "Latur",
+      "Maharashtra",
+      "413512"
+    ]
+  }
+}

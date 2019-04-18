@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Shoshit Kumar Naik",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8425",
+  "name": "Aim Of Our Regional Development (ROAD)",
+  "primaryEmail": "road06@rediffmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919937549417"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "At/Po- RENGALI",
+      "Dist- SAMBALPUR",
+      "Sambalpur",
+      "Odisha",
+      "768212"
+    ]
+  }
+}

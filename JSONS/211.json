@@ -1,0 +1,35 @@
+{
+  "contacts": [
+    {
+      "name": "Mathew John",
+      "email": "vbr@smfhospital.org",
+      "designation": "Medical Social Worker",
+      "mobile": [
+        "91-44-26268844"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=211",
+  "name": "Sundaram Medical Foundation",
+  "primaryEmail": "canstop@smfhospital.org",
+  "website": "www.canstop.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "914426284256",
+    "914426284256",
+    "919941007688",
+    "914426284257"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "Dr. Rangarajan Memorial Hospital, IV Avenue",
+      "Shanthi Colony, Anna Nagar",
+      "Chennai",
+      "Tamil Nadu",
+      "600040"
+    ]
+  }
+}

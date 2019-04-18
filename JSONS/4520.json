@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Miss. Nikita Mhetre",
+      "email": "lullakishor@gmail.com",
+      "designation": "Clerk",
+      "mobile": [
+        "91-233-2375374"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4520",
+  "name": "LULLA CHARITABLE TRUST",
+  "primaryEmail": "lullakishor@gmail.com",
+  "website": "http://www.lullacharity.in",
+  "organisationType": [
+    "Network"
+  ],
+  "telephone": [
+    "919422407979"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "30A, Abhyankar Complex",
+      "Amrai Road",
+      "Sangli",
+      "Maharashtra",
+      "416416"
+    ]
+  }
+}

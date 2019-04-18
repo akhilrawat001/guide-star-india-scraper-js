@@ -1,0 +1,27 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=830",
+  "name": "Arpan Gramin Vikas Samiti",
+  "primaryEmail": "arpanbihar@rediffmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Intermediary",
+    "Network"
+  ],
+  "telephone": [
+    "916123252607",
+    "919835256391"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "Saguna More, Kharanja Road",
+      "New Mainpur",
+      "Danapur",
+      "Patna",
+      "Bihar",
+      "801503"
+    ]
+  }
+}

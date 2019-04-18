@@ -1,0 +1,35 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1172",
+  "name": "Indian Management and Technical Society",
+  "primaryEmail": "imtsbbsr@yahoo.co.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "916742721228",
+    "916795234049"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "Plot No. G.A-215, Niladri Vihar",
+      "Opp. Budha Park, P.O-Chandrasekharpur",
+      "Bhubaneswar",
+      "Khordha",
+      "Odisha",
+      "751016"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Odisha",
+    "address": [
+      "N/3/66, I.R.C Village,",
+      "Nayapalli",
+      "Bhubaneswar",
+      "Khordha",
+      "Odisha",
+      "751015"
+    ]
+  }
+}

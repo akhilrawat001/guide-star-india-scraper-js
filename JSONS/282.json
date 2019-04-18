@@ -1,0 +1,38 @@
+{
+  "contacts": [
+    {
+      "name": "Bharati Gandhi",
+      "email": "bharati_gandhi@yahoo.com",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=282",
+  "name": "Kshitij",
+  "primaryEmail": "bharati_gandhi@yahoo.com",
+  "website": "www.kshitij_mumbai.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "912223821126",
+    "912265289958",
+    "919820224890"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "2, Patel Chambers",
+      "1st Floor, Above Vaishya Bank, Sandhurst Bridge",
+      "Mumbai",
+      "Maharashtra",
+      "400007"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Maharashtra"
+    ]
+  }
+}

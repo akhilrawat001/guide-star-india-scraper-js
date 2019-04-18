@@ -1,0 +1,30 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1428",
+  "name": "Aparajitha Foundations",
+  "primaryEmail": "bharathks@aparajitha.com",
+  "telephone": [
+    "914524375252",
+    "914524375252"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "No 10",
+      "Venkatraman Road, Kamala II Street, Chinna Chokkikulam",
+      "Madurai",
+      "Tamil Nadu",
+      "625002"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "No 5, Jawahar Road,",
+      "Chokkikulam",
+      "Madurai",
+      "Tamil Nadu",
+      "625002"
+    ]
+  }
+}

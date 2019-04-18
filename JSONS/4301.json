@@ -1,0 +1,27 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4301",
+  "name": "Climus Global Foundation",
+  "primaryEmail": "climusglobal@gmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919868879736"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "16B/9, First Floor",
+      "D.B. Gupta Road",
+      "Dev Nagar, Karol Bagh",
+      "Central Delhi",
+      "Delhi",
+      "110005"
+    ]
+  }
+}

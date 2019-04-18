@@ -1,0 +1,38 @@
+{
+  "contacts": [
+    {
+      "name": "Vasanthi Krishnan (Dr)",
+      "email": "",
+      "designation": "Chief Executive Officer (CEO)",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=844",
+  "name": "Hindustan Latex Family Planning Promotion Trust",
+  "primaryEmail": "rshivi@hlfppt.com",
+  "website": "www.hlfppt.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "911204231065",
+    "911204673673",
+    "911204231060",
+    "911204673673"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "B-14A, Second Floor",
+      "Sector 62,",
+      "Noida",
+      "Gautam Buddha Nagar",
+      "Uttar Pradesh",
+      "201301"
+    ]
+  }
+}

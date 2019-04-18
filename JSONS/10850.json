@@ -1,0 +1,44 @@
+{
+  "contacts": [
+    {
+      "name": "Summaiya",
+      "email": "summaiyaafreen5@gmail.com",
+      "designation": "Director",
+      "mobile": [
+        "91-11-47094017"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10850",
+  "name": "LAKSHYA JEEVAN JAGRITI NGO",
+  "primaryEmail": "infohr06@gmail.com",
+  "website": "https://meralakshya.org/",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918377833458"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "10972/5, 5A Sat Nagar",
+      "Karol Bagh",
+      "Delhi",
+      "North Delhi",
+      "110005"
+    ]
+  },
+  "briefDescription": "Lakshya Jeevan Jagriti is a social enterprise working for women and youth empowerment by providing them education and IT skills. We are passionate to build workforce who can sustain their lives and contribute to the family income. With unique methodology, we have trained more than 10,000 beneficiaries from 2009 to date. With national and international awards, Lakshya is transforming the lives of people.",
+  "yearOfEstablishment": "2009",
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "1435 Chatta Nawab Sahib",
+      "Farash Khana",
+      "Delhi",
+      "Central Delhi",
+      "110006"
+    ]
+  }
+}

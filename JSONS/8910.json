@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "B.S.Sayed",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8910",
+  "name": "SAHARA YUVA KRIDA VA SANSKRUTIK MANDAL",
+  "primaryEmail": "bsmllsayed77@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919767485139"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "7, Chandai Thombri Vaya Rajur So",
+      "Chandai Thombri",
+      "Jalna",
+      "Maharashtra",
+      "431215"
+    ]
+  }
+}

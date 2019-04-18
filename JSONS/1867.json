@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "B S Chowdary (Sasi)",
+      "email": "",
+      "designation": "Project Coordinator",
+      "mobile": [
+        "91-9440080608"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1867",
+  "name": "Jana Chetana",
+  "primaryEmail": "janachetana@rediffmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "918941220436",
+    "918941210905",
+    "919440080608"
+  ],
+  "mainAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "Rajam Road",
+      "Palakonda,",
+      "Srikakulam",
+      "Andhra Pradesh",
+      "532440"
+    ]
+  }
+}

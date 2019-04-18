@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Prabhat Ranjan",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5365",
+  "name": "Samagra Anusuchit Jaati Anusuchit Janjaati Mahasangh",
+  "primaryEmail": "sajajjm@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919122820605"
+  ],
+  "mainAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "Indraprash colony,Mandir marg,Jora talab,Bariatu,Ranchi,Jharkhand,India",
+      "Bariatu,Ranchi,Jharkhand,India",
+      "Ranchi",
+      "Jharkhand",
+      "834009"
+    ]
+  }
+}

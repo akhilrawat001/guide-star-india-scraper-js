@@ -1,0 +1,35 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3243",
+  "name": "Citizen's Foundation for Identification",
+  "primaryEmail": "citizensfoundation@rediffmail.com",
+  "organisationType": [
+    "Intermediary"
+  ],
+  "telephone": [
+    "911126052179",
+    "911126052179"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "C-II /45,",
+      "2Nd Floor,Madangir",
+      "New Delhi",
+      "Delhi",
+      "110062"
+    ]
+  },
+  "yearOfEstablishment": "1998",
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "E-II /59, Madangir,",
+      "Dr.Ambedkar Nagar",
+      "New Delhi",
+      "South Delhi",
+      "Delhi",
+      "110062"
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "Keshav Prasad Chatterjee",
+      "email": "prabhat@prabhatedu.org",
+      "designation": "Director & Managing Trustee",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=426",
+  "name": "Prabhat Education Foundation",
+  "primaryEmail": "prabhat@prabhatedu.org",
+  "website": "http://www.prabhatedu.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "917926922662",
+    "917926922662"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "B1002, Rushin Tower Opp. Star Bazaar Satellite Road",
+      "Ahmedabad",
+      "Gujarat",
+      "380015"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "Gujarat"
+    ]
+  }
+}

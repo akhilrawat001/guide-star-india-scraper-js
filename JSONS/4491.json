@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Mr. Nilesh Arvind Walimbe",
+      "email": "gurukool.academy@gmail.com",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4491",
+  "name": "Gurukul Sports Academy",
+  "primaryEmail": "gurukool.academy@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919764200123"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Brahman Lane",
+      "Near Shriram Mandir",
+      "Shirwal Tal - Khandala",
+      "Satara",
+      "Maharashtra",
+      "412801"
+    ]
+  }
+}

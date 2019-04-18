@@ -1,0 +1,26 @@
+{
+  "contacts": [
+    {
+      "name": "Ram Ratan Singh Kushwaha",
+      "email": "",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1558",
+  "name": "Rama School for the blind and Physically Handicapped Children Dispensary Society",
+  "primaryEmail": "school.rama@gmail.com",
+  "telephone": [
+    "915191251557",
+    "919450170624"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "P.O. + vill. Bisenda",
+      "Banda",
+      "Uttar Pradesh",
+      "210203"
+    ]
+  }
+}

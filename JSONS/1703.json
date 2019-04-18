@@ -1,0 +1,50 @@
+{
+  "contacts": [
+    {
+      "name": "Feros Khan",
+      "email": "feros@hcgoncology.com",
+      "designation": "Manager Foundation",
+      "mobile": []
+    },
+    {
+      "name": "Feros Khan",
+      "email": "feros@hcgoncology.com",
+      "designation": "Manager Foundation",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1703",
+  "name": "HCG Foundation",
+  "primaryEmail": "info@hcgfoundation.org",
+  "website": "www.hcgfoundation.org",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "918046607760",
+    "919986929057"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "Health Care Global Enterprise Ltd. NO 8",
+      "HCG Towers, 8 P.Kalinga Rao Road, Sampangi Ram Nagar",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560027"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "18, 1st Floor,St.Gregorios Orthodox",
+      "Cathedral Complex,Hosur Road",
+      "Bangalore Urban",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560025"
+    ]
+  }
+}

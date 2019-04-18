@@ -1,0 +1,38 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5454",
+  "name": "BLESSED WORLD FOUNDATION TRUST",
+  "primaryEmail": "trustbwf@gmail.com",
+  "website": "bwft.webs.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Intermediary",
+    "Support"
+  ],
+  "telephone": [
+    "919845261977"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "no 9",
+      "2nd floor, 6th main, vasanthnagar",
+      "bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560051"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "NO.9",
+      "2ND FLOOR 6TH MAIN , VASANTHNAGAR",
+      "BANGALORE",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560052"
+    ]
+  }
+}

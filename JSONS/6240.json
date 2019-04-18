@@ -1,0 +1,34 @@
+{
+  "contacts": [
+    {
+      "name": "Prameela Barre",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6240",
+  "name": "SOCIETY FOR ACTION WITH RURAL POOR",
+  "primaryEmail": "sarporganization@gmail.com",
+  "website": "-",
+  "organisationType": [
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "918922271220",
+    "918922271220"
+  ],
+  "mainAddrress": {
+    "state": "Telangana",
+    "address": [
+      "H.NO.LIG-I-14,APHB COLONY,BHONGIR",
+      "TTD KALIYANAMANDAPAM BACKSIDE",
+      "BHONGIR",
+      "Yadadri Bhuvanagiri",
+      "Telangana",
+      "508116"
+    ]
+  }
+}

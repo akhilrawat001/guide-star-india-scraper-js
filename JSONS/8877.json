@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "Prashant Janardan Patil",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8877",
+  "name": "Janardhan Namdeo Ahire Smruti Pratishthan",
+  "primaryEmail": "kisanmohatmal92@gmail.com",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "919922626972"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Vimal Hospital, Uday Nagar, Behind Amrut Dham, Panchavati,",
+      "Nashik",
+      "Maharashtra",
+      "422003"
+    ]
+  }
+}

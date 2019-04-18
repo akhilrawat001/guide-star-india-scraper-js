@@ -1,0 +1,26 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1645",
+  "name": "Satya Special School",
+  "primaryEmail": "admin@satyaspecialschool.org",
+  "website": "http://www.satyaspecialschool.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "914132263592",
+    "919345454449",
+    "914132334937"
+  ],
+  "mainAddrress": {
+    "state": "Puducherry",
+    "address": [
+      "6,7 & 8",
+      "ECR Road, Near Shivaji Statue, Karuvadikuppam",
+      "Puducherry",
+      "605008"
+    ]
+  },
+  "briefDescription": "The objective of Satya is to change the current fragmented rehabilitation system into an integrated holistic rehabilitation system through Special Eductaion, Early Intervention, Theraputic intervention , Vocational training etcdedicated at improving the lives of intellectually disabled children through individual specialized training there by making social inclusion a reality.We cater to 250 urban & 475 rural children covering all disabilities",
+  "yearOfEstablishment": "2003"
+}

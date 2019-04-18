@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Pratibha Bhatewara",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8250",
+  "name": "Gramin Mahila Audyogik Vikas Ani Bal Kalyan Pratishthan",
+  "primaryEmail": "graminmahila1991@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "917755974556"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Cozy Manson",
+      "Flat No 1 Gidny Park",
+      "Salisbury Park",
+      "Pune",
+      "Maharashtra",
+      "411407"
+    ]
+  }
+}

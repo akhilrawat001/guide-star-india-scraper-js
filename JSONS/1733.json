@@ -1,0 +1,27 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1733",
+  "name": "Global Development Organisation (GDO)",
+  "primaryEmail": "gdngo001@gmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "916212245800",
+    "916212265953",
+    "919334907529"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "Chaturbhuj Thakur Marg",
+      "Gannipur, Kalambag Road",
+      "Muzaffarpur",
+      "Bihar",
+      "842002"
+    ]
+  }
+}

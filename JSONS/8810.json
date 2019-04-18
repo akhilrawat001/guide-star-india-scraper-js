@@ -1,0 +1,33 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8810",
+  "name": "BRIGHT BAHUUDDESHIY SANSTHA",
+  "primaryEmail": "patiljitendra803@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "917972374796"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Care of Jitendra Patil 505, Vitve Tal Raver",
+      "Vitve Rave",
+      "Jalgaon",
+      "Maharashtra",
+      "0"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "C/O Jitendra Patil 505, Vitve Tal Raver",
+      "Vitve Rave",
+      "Jalgaon",
+      "Maharashtra",
+      "425508"
+    ]
+  }
+}

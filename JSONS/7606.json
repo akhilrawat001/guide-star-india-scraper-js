@@ -1,0 +1,35 @@
+{
+  "contacts": [
+    {
+      "name": "Ms. Sindhu Ravi",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7606",
+  "name": "Niveda Foundation (Trust)",
+  "primaryEmail": "nivedafoundation@yahoo.in",
+  "website": "http://www.nivedafoundation.org",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "911204351669",
+    "911204351669"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "N- 585, SECTOR-25,",
+      "JALVAYU VIHAR,",
+      "NOIDA",
+      "Gautam Buddha Nagar",
+      "Uttar Pradesh",
+      "201301"
+    ]
+  },
+  "briefDescription": "Mission-EDUCATE AND EMPOWER THE UNSERVED WITH THEIR WORTH, FOR A BETTER TOMORROW.Niveda Foundation is a registered Charitable Trust, started in May 2014. Niveda started its journey with the Non Formal Schooling centre in Harola, a rural village in Noida, Niveda is mainly into Education and Skilling of Women and Youth.Niveda is also into Health initiatives.",
+  "yearOfEstablishment": "2014"
+}

@@ -1,0 +1,54 @@
+{
+  "contacts": [
+    {
+      "name": "Nemala. Sundari",
+      "email": "sundarisurakasula@gmail.com",
+      "designation": "Treasurer",
+      "mobile": [
+        "236679",
+        "8121356710"
+      ]
+    },
+    {
+      "name": "Nemala. Sundari",
+      "email": "sundarisurakasula@gmail.com",
+      "designation": "Treasurer",
+      "mobile": [
+        "236679",
+        "8121356710"
+      ]
+    },
+    {
+      "name": "Nemala. Sundari",
+      "email": "sundarisurakasula@gmail.com",
+      "designation": "Treasurer",
+      "mobile": [
+        "236679",
+        "8121356710"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6789",
+  "name": "AGAPE COMMUNITIES INTERIOR DEVELOPMENT AND CARE ASSOCIATION",
+  "primaryEmail": "theagapeindia@gmail.com",
+  "website": "www.theagape.in",
+  "organisationType": [
+    "Direct Service",
+    "Intermediary"
+  ],
+  "telephone": [
+    "918868236679",
+    "918868236679"
+  ],
+  "mainAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "Sankhavaram Mandal,",
+      "Pantham Padmanabha Street",
+      "Kathipudi -post ,Sankhavaram Mandal,",
+      "East Godavari",
+      "Andhra Pradesh",
+      "533444"
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Sowmya Simhan",
+      "email": "sukritifoundation@gmail.com",
+      "designation": "Founder Trustee",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1369",
+  "name": "Sukriti Social Foundation",
+  "primaryEmail": "getintouch@sukriti.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919444798474"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "New No: 183/ 10",
+      "Old no: 146/10, Breeze Apts, Poonamalee High Road",
+      "Kilpauk",
+      "Chennai",
+      "Tamil Nadu",
+      "600010"
+    ]
+  }
+}

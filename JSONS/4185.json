@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Sanjay Vasantrao Shinde",
+      "email": "shivtejpratishthan5555@gmail.com",
+      "designation": "Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4185",
+  "name": "Shivtej Pratishthan",
+  "primaryEmail": "shivtejpratisthtan5555@gmail.com",
+  "telephone": [
+    "912302397121",
+    "919823397121",
+    "917387097121",
+    "912302397121"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Po Manpale",
+      "Hatkndgale",
+      "Kolhapur",
+      "Maharashtra",
+      "416112"
+    ]
+  }
+}

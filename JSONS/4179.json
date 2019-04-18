@@ -1,0 +1,27 @@
+{
+  "contacts": [
+    {
+      "name": "T.J.Paul",
+      "email": "tjpaulscd@rediffmail.com",
+      "designation": "Executive President & Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4179",
+  "name": "SOCIETY FOR COMMUNITY DEVELOPMENT",
+  "primaryEmail": "scdap2000@yahoo.com",
+  "telephone": [
+    "919440414721"
+  ],
+  "mainAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "SEETHAMPETA ROAD,",
+      "PALAKONDA,",
+      "SRIKAKULAM",
+      "Srikakulam",
+      "Andhra Pradesh",
+      "532001"
+    ]
+  }
+}

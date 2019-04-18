@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "Dr. Manish Singh Tomar",
+      "email": "arpan.india@rediffmail.com",
+      "designation": "Secretary",
+      "mobile": [
+        "91-9407655966"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2064",
+  "name": "ARPAN: SAMAJ UTTHAN SAMITI",
+  "primaryEmail": "arpan.india@rediffmail.com",
+  "website": "http://www.arpanindia.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919407655966",
+    "917697789405"
+  ],
+  "mainAddrress": {
+    "state": "Chhattisgarh",
+    "address": [
+      "ARPAN samaj utthan samiti",
+      "At- Kunjara",
+      "Block- Lailunga",
+      "Raigarh",
+      "Chhattisgarh",
+      "496113"
+    ]
+  },
+  "briefDescription": "1. Vivekanand Rural Education Mission, running Vivekanand School in Jhagarpur villages (Block-Lailunga), Dt.-Raigarh: To serve free education to poor village children2. Arogyam Rural Health Mission: Running Arogya Rath- mobile clinic: 356 patients benefited Ayurvedic treatment3. Project- Grihlakshmi: training women for self employment and income generation: 52 women trained4. Project Prithvi: Encouraging alternative agricultural practice5. AIDS awareness programs: 175 volunteers participated6. Free Yoga & Health camps in rural areas of Lailunga block.",
+  "yearOfEstablishment": "2009"
+}

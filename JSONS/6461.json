@@ -1,0 +1,27 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6461",
+  "name": "Centre for Civil Society",
+  "primaryEmail": "shreya.ralli@ccs.in",
+  "website": "http://www.ccs.in",
+  "organisationType": [
+    "Advocacy & Campaigning"
+  ],
+  "telephone": [
+    "911126537456",
+    "+919717739123"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "A69 Hauz Khas",
+      "Hauz Khas",
+      "New Delhi",
+      "South Delhi",
+      "Delhi",
+      "110016"
+    ]
+  },
+  "briefDescription": "Centre for Civil Society advances social change through public policy. Our work in education, livelihood, and policy training promotes choice and accountability across private and public sectors. To translate policy into practice, we engage with policy and opinion leaders through research, pilot projects and advocacy. We are a market liberal think tank ranked 81 worldwide by the annual study conducted by the Think Tanks and Civil Society Program at the University of Pennsylvania.",
+  "yearOfEstablishment": "1997"
+}

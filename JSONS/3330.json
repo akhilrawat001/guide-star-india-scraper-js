@@ -1,0 +1,21 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3330",
+  "name": "Doctors For You",
+  "primaryEmail": "info@doctorsforyou.org",
+  "website": "http://doctorsforyou.org",
+  "telephone": [
+    "912230409676",
+    "919324334359"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Flat No. 101,Building 31",
+      "Natvar Parikh Compound Near Indian Oil Nagar, Govandi",
+      "Mumbai",
+      "Maharashtra",
+      "400043"
+    ]
+  }
+}

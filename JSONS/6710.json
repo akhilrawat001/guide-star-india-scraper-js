@@ -1,0 +1,33 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6710",
+  "name": "B P S MEMORIAL TRUST",
+  "primaryEmail": "bpsmemorialtrust@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919910056339"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "264 Second Floor Hari Nagar Ashram Mathura Road",
+      "New Delhi",
+      "South Delhi",
+      "Delhi",
+      "110014"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "C-249 F.F. PANDAV NAGAR",
+      "OPP.MOTHER DAIRY",
+      "DELHI",
+      "East Delhi",
+      "Delhi",
+      "110092"
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "L.R. Veerapan",
+      "email": "ngopowertrust@gmail.com",
+      "designation": "Founder",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4766",
+  "name": "POWER SOCIAL CHARITABLE TRUST",
+  "primaryEmail": "ngopowertrust@gmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919442979603"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "14/224, Idappadi Main Road, Seerangan Valavu,",
+      "Iruppali Post",
+      "Idappadi",
+      "Salem",
+      "Tamil Nadu",
+      "637101"
+    ]
+  }
+}

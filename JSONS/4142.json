@@ -1,0 +1,27 @@
+{
+  "contacts": [
+    {
+      "name": "Khanderao Raghunath Rathod",
+      "email": "khanderao_r@yahoo.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4142",
+  "name": "JAI SEVALAL GRAMIN VIKAS BAHUUDDESHIYA SEVABHAVI SANSTHA",
+  "primaryEmail": "khanderao_r@yahoo.com",
+  "telephone": [
+    "919637627603"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "KURAN TANDA",
+      "TQ. MAJALGAON",
+      "BEED",
+      "Beed",
+      "Maharashtra",
+      "411129"
+    ]
+  }
+}

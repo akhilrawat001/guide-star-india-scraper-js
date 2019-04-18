@@ -1,0 +1,46 @@
+{
+  "contacts": [
+    {
+      "name": "Mandeep Singh",
+      "email": "mandeep@hrhelpdesk.org",
+      "designation": "Programme Manager",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10322",
+  "name": "HRhelpdesk Trust",
+  "primaryEmail": "mandeep@hrhelpdesk.org",
+  "website": "http://www.hrhelpdesk.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919811120347"
+  ],
+  "mainAddrress": {
+    "state": "Haryana",
+    "address": [
+      "G-16/13",
+      "DLF Phase-1",
+      "Gurgaon",
+      "Gurugram",
+      "Haryana",
+      "122002"
+    ]
+  },
+  "briefDescription": "We provide support to women to stay in the workforce by ensuring that they are trained, and provided support to continue working in a dignified environment. We protect women against sexual harassment, bullying and discrimination at their workplace both by education and providing financial and legal support.",
+  "yearOfEstablishment": "2018",
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "J-21",
+      "Lajpat Nagar-3",
+      "New Delhi",
+      "South Delhi",
+      "Delhi",
+      "110024"
+    ]
+  }
+}

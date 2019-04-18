@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Mr. Subedar Singh",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8198",
+  "name": "Atodar Gramodyog Sewa Mandal",
+  "primaryEmail": "agsm_brh@yahoo.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "915251224319",
+    "915251224319"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "Near Petrol Pump Lucknow Road, ,Post-Fakharpur,",
+      "Bahraich",
+      "Uttar Pradesh",
+      "271801"
+    ]
+  }
+}

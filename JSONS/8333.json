@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Surendra Prasad Sony",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8333",
+  "name": "Anal Shikha",
+  "primaryEmail": "sujata_prasad@rediffmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "916512500651",
+    "916512500651"
+  ],
+  "mainAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "Vill : Dumerdaga",
+      "Behind K.V. Dipatoli",
+      "P.O.: Sugnu Via :Tatisilwai,",
+      "Ranchi",
+      "Jharkhand",
+      "835103"
+    ]
+  }
+}

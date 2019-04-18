@@ -1,0 +1,40 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7710",
+  "name": "Gowthami Foundation",
+  "primaryEmail": "gowthamifoundation@gmail.com",
+  "website": "www.gowthamifoundation.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Intermediary",
+    "Support"
+  ],
+  "telephone": [
+    "919440265620",
+    "918592236899"
+  ],
+  "mainAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "Gowthami Foundation, D.No 6-139 (1)",
+      "Srinagar Colony 1st Lane, Kurnool Road",
+      "Ongole",
+      "Prakasam",
+      "Andhra Pradesh",
+      "523002"
+    ]
+  },
+  "briefDescription": "Gowthami Foundation formerly known as Gowthami Educational Society established by like-minded academic professionals in 1989. Since inception it has focused on grassroot development by addressing issues faced by the vulnerable, unreached, disadvantaged population including children, women, and adolescent girls from varied socio-economic background including Schedule Caste, Schedule Tribe, Minorities and Fishermen.",
+  "yearOfEstablishment": "1989",
+  "regiseredAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "Tangutur Town & Mandal",
+      "Tangutur",
+      "Prakasam",
+      "Andhra Pradesh",
+      "523274"
+    ]
+  }
+}

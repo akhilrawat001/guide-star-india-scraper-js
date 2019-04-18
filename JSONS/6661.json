@@ -1,0 +1,40 @@
+{
+  "contacts": [
+    {
+      "name": "GOURAB MAJUMDAR",
+      "email": "mozoomderfoundation@gmail.com",
+      "designation": "President",
+      "mobile": []
+    },
+    {
+      "name": "GOURAB MAJUMDAR",
+      "email": "mozoomderfoundation@gmail.com",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6661",
+  "name": "KOLKATA  MOZOOMDER FOUNDATION",
+  "primaryEmail": "mozoomderfoundation@gmail.com",
+  "website": "www.mozoomderfoundation.org",
+  "organisationType": [
+    "Direct Service",
+    "Grant-making",
+    "Intermediary",
+    "Network"
+  ],
+  "telephone": [
+    "918335006979"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "155/2B ACHARAYA  PRAFULLA  CHANDARA  ROAD.1ST FLOOR",
+      "DO",
+      "kolkata",
+      "Kolkata",
+      "West Bengal",
+      "700006"
+    ]
+  }
+}

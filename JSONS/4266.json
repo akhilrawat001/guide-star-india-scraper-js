@@ -1,0 +1,47 @@
+{
+  "contacts": [
+    {
+      "name": "Shreyas Kamat",
+      "email": "contactus@sangath.com",
+      "designation": "Senior Administrator",
+      "mobile": [
+        "91-832-2417914"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4266",
+  "name": "Sangath",
+  "primaryEmail": "contactus@sangath.com",
+  "website": "www.sangath.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918322414916",
+    "918322414916"
+  ],
+  "mainAddrress": {
+    "state": "Goa",
+    "address": [
+      "841/1",
+      "Near Electricity Department",
+      "Porvorim",
+      "North Goa",
+      "Goa",
+      "403521"
+    ]
+  },
+  "briefDescription": "Sangath is a non-governmental, not-for-profit organisation committed to improving health across the lifespan by empowering existing community resources to provide appropriate physical, psychological and social therapies. Its primary focus areas include child development, adolescent and youth health, mental health and chronic disease.Apart from research and training, we empower lay health workers to deliver evidence-based mental healthcare in the community with appropriate instruction and supervision. With teams in Bhopal,Nagpur, Tezpur, Pune, Bangalore and Goa, we organize  workshops for school managements, teachers, parents, students, health workers and professionals. From January 2009-December 2012, we have reached nearly 5000 students, 600 teachers and 2300 parents through 157 workshops.",
+  "yearOfEstablishment": "1996",
+  "regiseredAddrress": {
+    "state": "Goa",
+    "address": [
+      "H No 1272/A",
+      "Santemol, Sonarwado, Raia",
+      "Salcette",
+      "South Goa",
+      "Goa",
+      "403720"
+    ]
+  }
+}

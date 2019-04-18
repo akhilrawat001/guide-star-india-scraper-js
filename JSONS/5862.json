@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Sunil Satpute",
+      "email": "",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5862",
+  "name": "Gharkul Public Charitable Trust",
+  "primaryEmail": "ssatpute980@gmail.com",
+  "website": "www.gharkul.org",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919833736200"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Prabhat colony Municipal School,Santacruz East",
+      "Mumbai",
+      "Maharashtra",
+      "400055",
+      "F.Y. 2010-11.docx"
+    ]
+  },
+  "briefDescription": "Gharkul, a voluntary organisation and school for Special Children -underprivileged, mentally challenged child.The aim is to provide a nurturing, supportive environment to enable these children with special needs to learn relevant life skills, become confident and self reliant.Presently we are catering to 42 children - girls and boys.",
+  "yearOfEstablishment": "1997"
+}

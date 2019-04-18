@@ -1,0 +1,25 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8312",
+  "name": "BHARTIYA GRAMEEN VIKAS SANSTHAN",
+  "primaryEmail": "bgvs.amroha@gmail.com",
+  "website": "www.bgvsngo.org",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919412474665"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "House No.445 Vlagee Hamidpuradistt  Amroha",
+      "Vlagee & Post Patai Khalsha Distt Amroha",
+      "Amroha",
+      "Moradabad",
+      "Uttar Pradesh",
+      "244421"
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "contacts": [
+    {
+      "name": "Rajesh Srinivas",
+      "email": "rajesh@sangama.org",
+      "designation": "Executive Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10425",
+  "name": "SANGAMA",
+  "primaryEmail": "sangama@sangama.org",
+  "website": "www.sangama.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Support"
+  ],
+  "telephone": [
+    "919972903460"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "No 05, 4th Cross,Teachers Colony, Boopasandra Road,RMV 2nd Stage",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560094"
+    ]
+  },
+  "briefDescription": "Sangama is a human rights organisation that works primarily with sexuality minorities,sex workers  and People Living with HIV.",
+  "yearOfEstablishment": "2001",
+  "regiseredAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "No 5 and 6, Manjunatha Layout , Next to BDA Layout , BTM 4 Stage",
+      "Phase 1, Billekhalli Post , Bannerghatta Road",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560076"
+    ]
+  }
+}

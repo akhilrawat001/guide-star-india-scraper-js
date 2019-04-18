@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Smita Shah",
+      "email": "",
+      "designation": "Founder Trustee",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6678",
+  "name": "Powers of 10",
+  "primaryEmail": "info.powersof10@gmail.com",
+  "website": "www.powersof10.org",
+  "organisationType": [
+    "Intermediary"
+  ],
+  "telephone": [
+    "919886768340"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "No 4 Sudhama Residency",
+      "1st Main Road, Defence Colony, Indiranagar",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560038"
+    ]
+  }
+}

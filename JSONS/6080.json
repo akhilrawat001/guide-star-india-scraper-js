@@ -1,0 +1,46 @@
+{
+  "contacts": [
+    {
+      "name": "Nida Shaikh Sutariya",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "9099923530"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6080",
+  "name": "Samvedana Trust",
+  "primaryEmail": "info@samvedana.org.in",
+  "website": "www.samvedana.org.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919099923530",
+    "919825067892",
+    "918980004468"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "3rd, Swami Vivekanand Institute, Bh. Shivam Apartments,",
+      "Nr. Akhbarnagar Circle, Akhbarnagar",
+      "Ahmedabad",
+      "Gujarat",
+      "380013"
+    ]
+  },
+  "briefDescription": "Samvedana since 2003, has been committed to giving meaning and purpose to the lives of underprivileged children by providing them with quality education (formal/vocational) through the schools and rural centers run by us.Currently Samvedana through its 7 different initiatives touches the lives of over 4500 children annually. Along with academics, we have initiated steps for grooming the life of these children; eventually working towards modifying lives.",
+  "yearOfEstablishment": "2003",
+  "regiseredAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "B/H IDGAH POLICE CHOWKI,",
+      "MANEKCHOWK MILL COMPOUND, BESIDE GIRDHARNAGAR FLYOVER",
+      "Ahmedabad",
+      "Gujarat",
+      "380010"
+    ]
+  }
+}

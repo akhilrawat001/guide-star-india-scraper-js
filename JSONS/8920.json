@@ -1,0 +1,31 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8920",
+  "name": "Ramprosad Welfare Mission",
+  "primaryEmail": "ramprosadwelfaremission@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919874479250"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "56/C, Niranjan Samajpati Sarani, Halishar",
+      "Halishar",
+      "North 24 Parganas",
+      "West Bengal",
+      "743134"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Kadambogachi,Barasat",
+      "North 24 Parganas",
+      "West Bengal",
+      "700128"
+    ]
+  }
+}

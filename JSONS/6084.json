@@ -1,0 +1,38 @@
+{
+  "contacts": [
+    {
+      "name": "Priya Bharti",
+      "email": "lokmitra.priya@gmail.com",
+      "designation": "Program Director",
+      "mobile": [
+        "91-9415071246"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6084",
+  "name": "LOK MITRA",
+  "primaryEmail": "lokmitra.rajesh@gmail.com",
+  "website": "http://www.lokmitra.org.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919415071246",
+    "919984710411"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "B-62, Anand Nagar",
+      "Raebareli",
+      "RaeBareli",
+      "Uttar Pradesh",
+      "229001"
+    ]
+  },
+  "briefDescription": "Lokmitra is working in Uttar Pradesh, dedicated to ensuring elementary education of children from disadvantaged section. Lokmitra envisions that all children grow to their fullest potential through effective school education system. LOKMITRA supports state government schools, inspiring teachers to become reflective practitioners, inculcating the culture of peer learning and democratic management, motivating parents and children to participate in school education and its governance to target learning outcomes. Lokmitra provides supports to children to ensure completion of their school education by providing supplementary learning through residential and non-residential Learning Centers, Seasonal Hostels for seasonally migrating children.",
+  "yearOfEstablishment": "1998"
+}

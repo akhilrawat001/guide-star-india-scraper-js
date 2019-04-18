@@ -1,0 +1,46 @@
+{
+  "contacts": [
+    {
+      "name": "Tanvi Negi",
+      "email": "tanvi@chirag.org",
+      "designation": "Research and Documentation",
+      "mobile": [
+        "91-5942-285738",
+        "91-9412085732"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=930",
+  "name": "Central Himalayan Rural Action Group",
+  "primaryEmail": "info@chirag.org",
+  "website": "http://chirag.org",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "915942285738",
+    "919412085732"
+  ],
+  "mainAddrress": {
+    "state": "Uttarakhand",
+    "address": [
+      "Village Simayal,",
+      "Village Simayal",
+      "Nainital",
+      "Uttarakhand",
+      "263158"
+    ]
+  },
+  "briefDescription": "Chirag is a rural development organisation based in the Kumaun region of Uttarakhand in India. Since 1987, we have worked closely with communities on issues relating to forestry, soil and water conservation, agriculture, animal husbandry, drinking water, health care, education and skill and knowledge development of young people.",
+  "yearOfEstablishment": "1986",
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "Central Himalayan Rural Action Group, C/57 Friends Colony",
+      "Delhi",
+      "New Delhi",
+      "110005"
+    ]
+  }
+}

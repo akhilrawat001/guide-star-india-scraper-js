@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Selvarani",
+      "email": "selva1118@gmail.com",
+      "designation": "Coordinator",
+      "mobile": [
+        "91-9380815042"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1994",
+  "name": "South North Development Foundation (SNDF)",
+  "primaryEmail": "sndfindia@yahoo.co.in",
+  "website": "http://greenpeople.in",
+  "organisationType": [
+    "Network"
+  ],
+  "telephone": [
+    "914424338523",
+    "919380815042"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "18 Police Quarters Road",
+      "T. Nagar",
+      "Chennai",
+      "Tamil Nadu",
+      "637001"
+    ]
+  }
+}

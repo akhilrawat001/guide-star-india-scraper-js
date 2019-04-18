@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Dr. M. A Muzid",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7196",
+  "name": "Matia Humanity Association of Nation",
+  "primaryEmail": "mhan221@gmail.com",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "9153286149"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "SAMAD BHAWAN` Matia Bazar",
+      "Matia",
+      "North 24 Parganas",
+      "West Bengal",
+      "743437"
+    ]
+  }
+}

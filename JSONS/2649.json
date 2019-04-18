@@ -1,0 +1,40 @@
+{
+  "contacts": [
+    {
+      "name": "Prema Sagar",
+      "email": "prema.sagar@genesis-foundation.net",
+      "designation": "Founder &Principal",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2649",
+  "name": "Genesis Foundation",
+  "primaryEmail": "prema.sagar@genesis-foundation.net",
+  "website": "www.genesis-foundation.net",
+  "telephone": [
+    "911244081528",
+    "911245088999"
+  ],
+  "mainAddrress": {
+    "state": "Haryana",
+    "address": [
+      "Care of K&S Partners,",
+      "109,Sector 44,",
+      "Gurgaon",
+      "Gurugram",
+      "Haryana",
+      "122003"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Haryana",
+    "address": [
+      "C/O K&S Partners,",
+      "109,Sector 44,",
+      "Gurgaon",
+      "Gurugram",
+      "Haryana",
+      "122003"
+    ]
+  }
+}

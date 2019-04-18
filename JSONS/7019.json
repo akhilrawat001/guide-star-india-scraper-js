@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Anshul Garg",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7019",
+  "name": "Mokshda Paryavaran Evam Van Suraksha Samiti",
+  "primaryEmail": "mokshda@hotmail.com",
+  "website": "http://www.mokshda.org.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919811672937"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "12 Saini Enclave",
+      "Karkardooma",
+      "New Delhi",
+      "East Delhi",
+      "Delhi",
+      "110092"
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5194",
+  "name": "Zav Foundation",
+  "primaryEmail": "aman@zavfoundation.org",
+  "website": "www.zavfoundation.org",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919686766577"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "C1101, Gopalan Residency,",
+      "Kempapura Agrahara, Bhuvaneshwarinagar,",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560023"
+    ]
+  }
+}

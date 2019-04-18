@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Mr.Kasbe Parmeshwar Jadhav",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7493",
+  "name": "NALANDA BAHUUDDESHIYA SEVABHAVI SANSTHA",
+  "primaryEmail": "nalandasanstha@rediffmail.com",
+  "website": "www.nalandasanstha.ngo",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "919552366224"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "At Post Moha",
+      "Tq.Kallam",
+      "Kalamb",
+      "Osmanabad",
+      "Maharashtra",
+      "413507"
+    ]
+  }
+}

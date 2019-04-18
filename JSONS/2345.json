@@ -1,0 +1,26 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2345",
+  "name": "LAKSHMI NIRMAL PRATISHTHAN",
+  "primaryEmail": "milindlpatil@gmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "912402482725",
+    "912402482725"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Plot no. 299, Sector N-3 ,",
+      "CIDCO Opp. Hotel Ramgiri,",
+      "Jalna Road,",
+      "Aurangabad",
+      "Maharashtra",
+      "431003"
+    ]
+  }
+}

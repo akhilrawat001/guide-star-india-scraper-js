@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "ARIJIT MITRA",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4348",
+  "name": "Kalyan Kumar Mitra Education & Research Society",
+  "primaryEmail": "kkmers.research@gmail.com",
+  "website": "www.kkmers.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "913324604536",
+    "913324604536"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Mitrasree",
+      "3B Peary Row",
+      "Kolkata",
+      "West Bengal",
+      "700006"
+    ]
+  }
+}

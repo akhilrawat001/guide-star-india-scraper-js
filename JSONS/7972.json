@@ -1,0 +1,24 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7972",
+  "name": "Jyot Bahuudeshya Samajik Sanstha",
+  "primaryEmail": "bsarjerao1@gmail.com",
+  "website": "www.jyot-ngo.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919321801981"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Jai Mata Di Niwas",
+      "Bhim Nagar",
+      "Ulhas Nagar",
+      "Thane",
+      "Maharashtra",
+      "400605"
+    ]
+  }
+}

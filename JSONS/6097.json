@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "satish shinde",
+      "email": "verdsblk2010@gmail.com",
+      "designation": "secratary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6097",
+  "name": "VIMAL EDUCATION AND RURAL DEVELOPMENT SOCIETY",
+  "primaryEmail": "verdsblk2010@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919740708696"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "36,near bus stop",
+      "Belkoni (bho)",
+      "Tq. Aurad",
+      "Bidar",
+      "Karnataka",
+      "585443"
+    ]
+  }
+}

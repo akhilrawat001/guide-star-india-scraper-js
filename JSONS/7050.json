@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Dr Rakesh Mittal",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7050",
+  "name": "Social Association for Welfare,Education & Rural Awareness",
+  "primaryEmail": "rakeshmittalsawera@gmail.com",
+  "website": "sawerango.org",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "918800774001"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "A-298 LGF Prashant Vihar ,",
+      "Rohini sector-14",
+      "New Delhi",
+      "North West Delhi",
+      "Delhi",
+      "110085"
+    ]
+  }
+}

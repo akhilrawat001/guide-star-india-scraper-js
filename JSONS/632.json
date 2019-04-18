@@ -1,0 +1,43 @@
+{
+  "contacts": [
+    {
+      "name": "Parinita Kanitkar",
+      "email": "",
+      "designation": "Chief Executive",
+      "mobile": [
+        "91-20-26687900"
+      ]
+    },
+    {
+      "name": "Parinita Kanitkar",
+      "email": "",
+      "designation": "Chief Executive",
+      "mobile": [
+        "91-20-26687900"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=632",
+  "name": "SOSVA Training and Promotion Institute",
+  "primaryEmail": "stapipune@gmail.com",
+  "website": "www.stapi.org",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "912026687900",
+    "912026696212",
+    "919422007470",
+    "912026695646"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "MHADA Commercial Complex, 1st Floor",
+      "Housing Board Colony, Yerawada",
+      "Pune",
+      "Maharashtra",
+      "411006"
+    ]
+  }
+}

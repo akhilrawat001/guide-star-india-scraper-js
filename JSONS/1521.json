@@ -1,0 +1,26 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1521",
+  "name": "Triratna Prerana  Mandal",
+  "primaryEmail": "tpm_1402@rediffmail.com",
+  "website": "www.triratnaindia.org",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "912226123195",
+    "919322844054"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Triratna Bhavan",
+      "3rd Rd, TPS6, Near Municipal Garden, Khotwadi",
+      "Santacruz (West)",
+      "Mumbai Suburban",
+      "Maharashtra",
+      "400054"
+    ]
+  }
+}

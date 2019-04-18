@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Santosh Madhukar Patil",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8786",
+  "name": "AADIVASI UTKARSHA SAMAJIK SANSTHA",
+  "primaryEmail": "smpatil2004@gmail.com",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "919637053134"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Mokhada Post Suryamal Tehsil.Mokhada",
+      "Village Suryamal",
+      "Thane",
+      "Maharashtra",
+      "401603"
+    ]
+  }
+}

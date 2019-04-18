@@ -1,0 +1,30 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=735",
+  "name": "Late Bhikajirao Alias Dada Jagtap Pratishthan",
+  "primaryEmail": "saisneh@gmail.com",
+  "website": "www.saisneh.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "912024384555",
+    "912026959906",
+    "912024384555"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Khed Shivapur Baug, Pune - Banglore Highway",
+      "Pune",
+      "Maharashtra",
+      "411046"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Maharashtra"
+    ]
+  }
+}

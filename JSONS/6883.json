@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "N.D.Wahane",
+      "email": "n.d.wahane@gmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6883",
+  "name": "BODHISATWA DR. BABASAHEB AMBEDKAR SANSKRUTIK MANDAL, NAVIN SUBHEDAR NAGAR, NAGPUR",
+  "primaryEmail": "n.d.wahane@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "917122743552",
+    "917122743552"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "80(A) & 80(1)",
+      "New Subhedar Nagar",
+      "Nagpur",
+      "Maharashtra",
+      "440024"
+    ]
+  }
+}

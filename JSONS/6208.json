@@ -1,0 +1,23 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6208",
+  "name": "Shri Gyan Gangotri Vikas Sanstha",
+  "primaryEmail": "shrigyangangotrisanstha@gmail.com",
+  "website": "http://www.shrigyangangotri.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919868430219"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "B-70 Madhu Vihar",
+      "Uttam Nagar",
+      "New Delhi",
+      "Delhi",
+      "110059"
+    ]
+  }
+}

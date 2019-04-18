@@ -1,0 +1,35 @@
+{
+  "contacts": [
+    {
+      "name": "Dr. T.G. Sagar",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "24910754"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3549",
+  "name": "The Cancer Institute",
+  "primaryEmail": "chairman@cancerinstitutewia.org",
+  "website": "http://www.cancerinstitutewia.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "914424910754",
+    "914424910754"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "Gandhi Nagar Canal Bank Road",
+      "Adyar",
+      "Chennai",
+      "Tamil Nadu",
+      "600020"
+    ]
+  },
+  "briefDescription": "The Cancer Institute (WIA) is a vol. charitable institution committed to cancer care, cure and control over the last 58 yrs.  The ethos is service to all without any social or economic divideWe register over 12000 new patients drawn from all over the country & follow up cases no.120000 p.a.  60% of these belong to the lower socio economic group and are treated either totally free/at a highly subsidized costThe 1st INCTR award for cancer control in an environment with ltd. resources was conferred on the Institute in 2000The Lancet Oncology referred to the Inst. as a model for resource poor countries  2004The patient focused care provided by the Institute was recognized internationally with the conferment of the Magsaysay Award 2005",
+  "yearOfEstablishment": "1954"
+}

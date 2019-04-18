@@ -1,0 +1,33 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=342",
+  "name": "Community Action for Rural Development",
+  "primaryEmail": "cardpdk@gmail.com",
+  "website": "http://www.cardtn.org.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "914322267491",
+    "919442339669"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "Samathuvapuram, Pulivalam",
+      "Thirumayam Taluk",
+      "Pudukkottai",
+      "Tamil Nadu",
+      "622507"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "Samathuvapuram, Pulivalam",
+      "Pudukkottai",
+      "Tamil Nadu",
+      "622507"
+    ]
+  }
+}

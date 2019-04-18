@@ -1,0 +1,27 @@
+{
+  "contacts": [
+    {
+      "name": "NEHRU AK",
+      "email": "cscnehru@satyam.net.in",
+      "designation": "Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4691",
+  "name": "Community Seva Centre",
+  "primaryEmail": "csc4alll@gmail.com",
+  "telephone": [
+    "914292293207",
+    "919443157759"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "Seva Illam, Thalvenniyur",
+      "Kottaputhur Post, SANKARAPURAM T.K. KALVARAYANHILLS",
+      "Viluppuram",
+      "Tamil Nadu",
+      "606207"
+    ]
+  }
+}

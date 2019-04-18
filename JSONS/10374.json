@@ -1,0 +1,38 @@
+{
+  "contacts": [
+    {
+      "name": "Prathmesh Pandey",
+      "email": "pandeyprathmesh24@gmail.com",
+      "designation": "Media Director",
+      "mobile": [
+        "91-9769254189"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10374",
+  "name": "Mahila va Apang Balvikas Sanstha",
+  "primaryEmail": "mahilavaapangbalvikassanstha@gmail.com",
+  "website": "http://mahilavaapangbalvikassanstha.org/",
+  "organisationType": [
+    "Direct Service",
+    "Grant-making",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919769254189"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "304, Kedarnath Apt,",
+      "Wasundri Road, Mauli Dham",
+      "Titwala, thane",
+      "Thane",
+      "Maharashtra",
+      "421605"
+    ]
+  },
+  "briefDescription": "Mahila va apang bal vikas sanstha is a charity organisation working since 2009 for the handicapped and disabled children and helping them in their living and education. The principle aim of trust is to provide a nourishing environment to children and women for their proper development in the society. There are many events and camps which are organised by trust at regular interval to help those who are economicaly weak in there respective areas.Also we work in every aspect to improve social conditions of society.",
+  "yearOfEstablishment": "2010"
+}

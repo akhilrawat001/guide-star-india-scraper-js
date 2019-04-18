@@ -1,0 +1,38 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2636",
+  "name": "GRAMODHAYA SOCIAL SERVICE SOCIETY",
+  "primaryEmail": "gramodhayasss@gmail.com",
+  "website": "http://www.gramodhaya.org.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network"
+  ],
+  "telephone": [
+    "914622582079",
+    "919842163210"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "41/1 North High Ground Road,",
+      "Adj Nagar Maharaja Nagar Post",
+      "Tirunelveli",
+      "Tamil Nadu",
+      "627011"
+    ]
+  },
+  "briefDescription": "Gramodhaya works among the poor and the marginalised people living in the rural areas and slums in Tirunelveli and Tuticorin Districts. About 180,000 people benefit from our services in the following sectors:Women and Children Development, Education, Health, Water-Sanitation-Hygiene, HIV/AIDS, Agriculture-organic farming, Vocational Skill Trainings, Livelihoods, Emergency and Disaster Relief and Rehabilitation.",
+  "yearOfEstablishment": "1992",
+  "regiseredAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "295B Tiruchendur Road, Krishnapuram Post",
+      "Near Geo Physics Research Centre,Krishnapuram",
+      "Tirunelveli",
+      "Tamil Nadu",
+      "627011"
+    ]
+  }
+}

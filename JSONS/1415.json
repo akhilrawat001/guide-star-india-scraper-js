@@ -1,0 +1,34 @@
+{
+  "contacts": [
+    {
+      "name": "Mahammadsuail lodi",
+      "email": "mangala_blh@indiatimes.com",
+      "designation": "Coordinator",
+      "mobile": [
+        "91-8288-236237"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1415",
+  "name": "KIDS Bailhongal(Karnataka Integrated Development Society )",
+  "primaryEmail": "kidsbailhongal@gmail.com",
+  "website": "http://:www.kidsbailhongal.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918288236237",
+    "919448372411"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "The president Karnataka Integrated Development Society 439",
+      "Bharat Cotton Mill Compound Belgaum Road ,",
+      "Bailhongal",
+      "Belagavi (Belgaum)",
+      "Karnataka",
+      "591102"
+    ]
+  }
+}

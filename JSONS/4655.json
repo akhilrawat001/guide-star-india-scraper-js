@@ -1,0 +1,27 @@
+{
+  "contacts": [
+    {
+      "name": "Shanker Rawani",
+      "email": "shankarrawani7@gmail.com",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4655",
+  "name": "Jharkhand Gramin Bikas Trust",
+  "primaryEmail": "jgvt_dhn1@yahoo.co.in",
+  "telephone": [
+    "913262182009",
+    "919835134842"
+  ],
+  "mainAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "Kacharra",
+      "Mahuda Bhatdih",
+      "Dhanbad",
+      "Jharkhand",
+      "828308"
+    ]
+  }
+}

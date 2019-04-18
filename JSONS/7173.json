@@ -1,0 +1,33 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7173",
+  "name": "SOCIETY FOR EDUCATION AND WELFARE AWARENESS (SEWA)",
+  "primaryEmail": "rahim4u@hotmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Support"
+  ],
+  "telephone": [
+    "919428886334"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "NCEP Computer Centre,",
+      "National Trade Centre, Panchbatti,",
+      "Bharuch",
+      "Gujarat",
+      "392001"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "E-3399, Alibhatwad",
+      "Mota Dabhoiyawad",
+      "Bharuch",
+      "Gujarat",
+      "392001"
+    ]
+  }
+}

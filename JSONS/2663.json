@@ -1,0 +1,34 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2663",
+  "name": "Asra Samajik Lok Kalyan Samiti",
+  "primaryEmail": "asra@asrango.org",
+  "website": "www.asrango.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Intermediary",
+    "Network"
+  ],
+  "telephone": [
+    "917272251724"
+  ],
+  "mainAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "Badhri Dham Nagar",
+      "Dewas",
+      "Madhya Pradesh",
+      "455001"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "21/3 Moti Banglow Colony",
+      "Dewas",
+      "Madhya Pradesh",
+      "455001"
+    ]
+  }
+}

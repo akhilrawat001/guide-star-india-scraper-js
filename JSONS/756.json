@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Laxmikant B Suryawanshi",
+      "email": "bhaiyasaheb12476@rediffmail.com",
+      "designation": "Project Director",
+      "mobile": [
+        "91-9689207019"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=756",
+  "name": "Bhaiyyasaheb Ambedkar Seva Bhavi Sanstha",
+  "primaryEmail": "bhaiyasaheb12476@rediffmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919689207019"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "AT. Shastri Nagar, Fule Nagar",
+      "Dharmabad",
+      "Nanded",
+      "Maharashtra",
+      "431809"
+    ]
+  }
+}

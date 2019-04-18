@@ -1,0 +1,41 @@
+{
+  "contacts": [
+    {
+      "name": "RAMESH DALAI",
+      "email": "rcd.ngo1968@gmail.com",
+      "designation": "CHIEF FUNCTIONARY",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8145",
+  "name": "Chhachanpur Adibasi Mahila Vikash Samity",
+  "primaryEmail": "rcd.ngo1968@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919800000397"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "AT.GHOLA",
+      ",P.O-GERIA,PS-EGRA",
+      "DIST. -PURBAMEDINIPUR,",
+      "East Medinipur",
+      "West Bengal",
+      "721448"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "AT.CHHACHANPUR[BANDAGAL]",
+      "PO-BHALAIDIHA",
+      "DIST. BANKURA",
+      "Bankura",
+      "West Bengal",
+      "722139"
+    ]
+  }
+}

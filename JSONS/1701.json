@@ -1,0 +1,39 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1701",
+  "name": "Centre for Youth Development and Activities",
+  "primaryEmail": "cyda.rmu@gmail.com",
+  "website": "www.cydaindia.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "912025533168",
+    "912025533168"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Flat No 4",
+      "Vasanttara, Above Udyam Vikas Sahakari Bank, Near Mahtma Phule Museum, Off Ghole Rd, Deccan",
+      "Pune",
+      "Maharashtra",
+      "411004"
+    ]
+  },
+  "briefDescription": "CYDA looks into the holistic development of young people by addressing the issues of health, livelihood and Education. In 2010-11 we successfully reached out to 15 lakh youth across India. Our work is majorly concentrated in Pune, Sangli in Maharashtra and Bilaspur, Jahangirchapa and Raipur in Chhatisgarh.",
+  "yearOfEstablishment": "1999",
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "D5,  Ganaraj Heights",
+      "Sainikwadi,  Vadgaonsheri,",
+      "Pune",
+      "Maharashtra",
+      "411014"
+    ]
+  }
+}

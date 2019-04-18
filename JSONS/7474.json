@@ -1,0 +1,48 @@
+{
+  "contacts": [
+    {
+      "name": "Manoj R Panda",
+      "email": "sr.manager-fundraising@cedpngo.org",
+      "designation": "Sr. Manager - Fundraising",
+      "mobile": [
+        "91-8291763166"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7474",
+  "name": "Centre for Education and Development Programmes Trust",
+  "primaryEmail": "cedptrust@gmail.com",
+  "website": "www.cedpngo.org",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "+919320378866",
+    "+918291763166"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "CEDP Trust, 501/502, 5th Floor, People Education Society,",
+      "New English School, Near to Talao Pali",
+      "Ram Maruti Road, Thane  West",
+      "Mumbai Suburban",
+      "Maharashtra",
+      "400602"
+    ]
+  },
+  "briefDescription": "Council of Education and Development Program (CEDP) Skill Institute was formed in the year 2010, with a sole objective of providing improved quality of life to individuals and groups through apt training and education. Since then, the organization has strived to provide the most relevant training solutions to not only the metro and the mini-metro cities of the country, but to the most remote geographies so that the student communities at large can benefit from the knowledge gained from the education provided and enhance their employ-ability and therefore, employment opportunities.Currently CEDP has 147 training and education centers across the country. The CEDP Trust brings the same expertise and commitment to quality as the parent company CEDP Skill Institute and seeks to provide the underprivileged youth with skills enabling them to tackle ever-emerging economic challenges. We believe in empowering the marginalized by presenting them with economic opportunities through vocational skill training, promoting entrepreneurship and development of micro enterprises. Besides equipping men and woman with essential skills and up-grading existing skill-sets, they are provided appropriate placement support, in tune with current market needs and demands. \tThe Trust has been working since 2013 as a not-for-profit organization with a firm commitment of working with students from the marginalized sections of the society and helping them lead a dignified and quality life. In the training and education space, CEDP trust provides training in the areas of Paramedical, Automotive, Hotel Management, Industrial Safety, Financial Accounting & Management, Civil Engineering and Management. Almost all of these programs are either associated with guaranteed internship and/or placement assistance. And most of these programs are mapped to certificate, diploma and degree level awards and recognition.",
+  "yearOfEstablishment": "2013",
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "304/05 , 3rd floor , Koteshwar Plaza",
+      "JN Road Mulund West",
+      "Mulund West , Mumbai",
+      "Mumbai Suburban",
+      "Maharashtra",
+      "400080"
+    ]
+  }
+}

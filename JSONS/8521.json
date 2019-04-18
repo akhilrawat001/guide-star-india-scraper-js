@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Phalguni Dash",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "9921514169"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8521",
+  "name": "GYAAN NIKETAN FOUNDATION",
+  "primaryEmail": "gyaanniketanfoundation@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919921514169",
+    "918983379084"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Flat No. C 203, Laxmi Nagar Housing Society, Dhanori Rd.",
+      "Near Old Marathi School, Vishrantwadi",
+      "Pune",
+      "Maharashtra",
+      "411015"
+    ]
+  }
+}

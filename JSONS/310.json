@@ -1,0 +1,29 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=310",
+  "name": "Ahmedabad Womens Action Group",
+  "primaryEmail": "info@awagindia.org",
+  "website": "http://awagindia.org/",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "917926441214",
+    "917926442466"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "AWAG Kunj, 506, Bhudarpura",
+      "near Nishant Apartments, Ambawadi",
+      "Ahmedabad",
+      "Gujarat",
+      "380015"
+    ]
+  },
+  "briefDescription": "AWAG strives to assert individuality of woman and support her in her struggle for survival, to get social justice, and to assert equality. We currently work for urban and rural Gujarat.",
+  "yearOfEstablishment": "1983"
+}

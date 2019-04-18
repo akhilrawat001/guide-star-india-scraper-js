@@ -1,0 +1,38 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6941",
+  "name": "Drishti Human Resource Centre",
+  "primaryEmail": "drishtihrc@gmail.com",
+  "website": "www.drishtionline.org",
+  "organisationType": [
+    "Direct Service",
+    "Intermediary",
+    "Support"
+  ],
+  "telephone": [
+    "919323496704",
+    "919870139821"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Care of, 5/3A, Satnam Society",
+      "Sion West",
+      "Mumbai",
+      "Maharashtra",
+      "400022"
+    ]
+  },
+  "briefDescription": "We connect donors and NGOs and do capacity building training for the NGOs. It is located in Sion West, Mumbai",
+  "yearOfEstablishment": "1993",
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "C/o, 5/3A, Satnam Society",
+      "Sion West",
+      "Mumbai",
+      "Maharashtra",
+      "400022"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "contacts": [
+    {
+      "name": "M.Ajoykumar",
+      "email": "candlesociety@yahoo.com",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7099",
+  "name": "CREATIVE ACTION FOR NECESSITOUS DEVELOPMENT FROM LIVING ENVIRONMENTS (CANDLE)",
+  "primaryEmail": "candlesociety@yahoo.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919959008810"
+  ],
+  "mainAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "2/147-3 Balajinagar",
+      "Kadapa",
+      "Muncipal Corporation",
+      "YSR District, Kadapa (Cuddapah)",
+      "Andhra Pradesh",
+      "516003"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "2/147-3,",
+      "Balajinagar",
+      "Kadapa",
+      "YSR District, Kadapa (Cuddapah)",
+      "Andhra Pradesh",
+      "516003"
+    ]
+  }
+}

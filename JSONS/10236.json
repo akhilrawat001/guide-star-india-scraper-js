@@ -1,0 +1,59 @@
+{
+  "contacts": [
+    {
+      "name": "Bhrigu Prashar",
+      "email": "bhrigup@gmail.com",
+      "designation": "Advisor",
+      "mobile": [
+        "91-9314266969"
+      ]
+    },
+    {
+      "name": "Bhrigu Prashar",
+      "email": "bhrigup@gmail.com",
+      "designation": "Advisor",
+      "mobile": [
+        "91-9314266969"
+      ]
+    },
+    {
+      "name": "Bhrigu Prashar",
+      "email": "bhrigup@gmail.com",
+      "designation": "Advisor",
+      "mobile": [
+        "91-9314266969"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10236",
+  "name": "NIRVANAVAN FOUNDATION",
+  "primaryEmail": "bhrigup@gmail.com",
+  "website": "http://www.nirvanavanfoundation.org.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919314266969",
+    "+16469430444"
+  ],
+  "mainAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "Advaita Garden Children's Village",
+      "VPO. Hajipur- Dadikar",
+      "Alwar",
+      "Rajasthan",
+      "301001"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "D 14 Defence Colony",
+      "New Delhi",
+      "South Delhi",
+      "Delhi",
+      "110024"
+    ]
+  }
+}

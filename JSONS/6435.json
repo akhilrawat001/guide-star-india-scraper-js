@@ -1,0 +1,44 @@
+{
+  "contacts": [
+    {
+      "name": "marc morais",
+      "email": "marc.morais@yahoo.com",
+      "designation": "assistant",
+      "mobile": [
+        "91-251-2206292"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6435",
+  "name": "Prem Seva Mahila Mandal",
+  "primaryEmail": "premseva001@gmail.com",
+  "website": "http://www.premseva.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919324414632"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Ammu arcade,ammu nagar,syndicate",
+      "ammu nagar,syndicate",
+      "kalyan",
+      "Thane",
+      "Maharashtra",
+      "421301"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Ammu arcade",
+      "ammu nagar,syndicate",
+      "kalyan west",
+      "Thane",
+      "Maharashtra",
+      "421301"
+    ]
+  }
+}

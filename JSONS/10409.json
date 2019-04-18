@@ -1,0 +1,32 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10409",
+  "name": "SAHAYOGINI PALAK SANSTHA",
+  "primaryEmail": "sahayoginipalaksanstha@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919757167800"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Sahayogini Palak Sanstha, Citilight Cooperative Housing Society Ltd. Shop No:4/15, Plot No 25, Sector 1, Nr. Terna Orchid International School, Koparkhairane,",
+      "Navi Mumbai",
+      "Thane",
+      "Maharashtra",
+      "400709"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "B/101, Tulip Cooperative Housing Society Ltd. Sector 6, Ghansoli,",
+      "Navi Mumbai.",
+      "Thane",
+      "Maharashtra",
+      "400701"
+    ]
+  }
+}

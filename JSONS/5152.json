@@ -1,0 +1,45 @@
+{
+  "contacts": [
+    {
+      "name": "Ravi Mishra",
+      "email": "rmishra@urmul.org",
+      "designation": "Coordinator",
+      "mobile": [
+        "91-151-2523093"
+      ]
+    },
+    {
+      "name": "Ravi Mishra",
+      "email": "rmishra@urmul.org",
+      "designation": "Coordinator",
+      "mobile": [
+        "91-151-2523093"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5152",
+  "name": "Urmul Rural Health Research and Development Trust",
+  "primaryEmail": "mail@urmul.org",
+  "website": "www.urmul.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service"
+  ],
+  "telephone": [
+    "911512523093",
+    "919414137093",
+    "911512545097"
+  ],
+  "mainAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "Urmul Trust, Urmul Bhawan",
+      "Near Roadways Bus stand",
+      "Bikaner",
+      "Rajasthan",
+      "334001"
+    ]
+  },
+  "briefDescription": "Urmul has been extensively working on health issues. It has pioneered in organising, training and coordinating thousands of Community Health Workers in this desert region facing extreme adversities in health service delivery. Urmul is also a mother NGO appointed by Ministry of Health and Family Welfare. In partnership with Sight Savers International, it also runs the most advanced eye hospital in the entire region, trusted for its quality of service delivery. Urmul Rural Health Research and Development Trust is located in Rajasthan.",
+  "yearOfEstablishment": "1987"
+}

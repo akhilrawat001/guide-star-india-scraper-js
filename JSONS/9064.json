@@ -1,0 +1,50 @@
+{
+  "contacts": [
+    {
+      "name": "Mamta Matani",
+      "email": "mamta@pointofview.org",
+      "designation": "Finance Director",
+      "mobile": []
+    },
+    {
+      "name": "Mamta Matani",
+      "email": "mamta@pointofview.org",
+      "designation": "Finance Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9064",
+  "name": "Point of View",
+  "primaryEmail": "info@pointofview.org",
+  "website": "www.pointofview.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919920340476",
+    "919833237280"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "201, Samira Villa, 10- Pali Village, Bandra West,",
+      "Bandra West,",
+      "Mumbai",
+      "Maharashtra",
+      "400050"
+    ]
+  },
+  "briefDescription": "Point of View is located in Mumbai, Maharashtra.In a democracy, all citizens should have an equal say in the decisions that affect their lives: men, women and trans people.‘Having a voice’ equals being heard, being considered, being counted, being part of, being able to influence. Being. Being human. Many women’s voices still remain silent, silenced, marginal, unheard, discounted, or illegitimate. Many women’s lips still remain zipped, their lives and realities unspoken. Our work challenges and changes this.",
+  "yearOfEstablishment": "1996",
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "2, New Pushpa Milan",
+      "Worli Hills",
+      "Worli",
+      "Mumbai",
+      "Maharashtra",
+      "400018"
+    ]
+  }
+}

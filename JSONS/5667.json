@@ -1,0 +1,25 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5667",
+  "name": "Aashraya Seva Trust",
+  "primaryEmail": "sevatrust.aashraya@gmail.com",
+  "website": "www.ashrayasevatrust.org",
+  "organisationType": [
+    "Direct Service",
+    "Network"
+  ],
+  "telephone": [
+    "918904168918"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "@135, 1st K block, Dr.Rajkumar road,",
+      "Rajajinagar - 2nd stage,",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560010"
+    ]
+  }
+}

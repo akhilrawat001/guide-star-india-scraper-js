@@ -1,0 +1,23 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=741",
+  "name": "Sri Aurobindo Society",
+  "primaryEmail": "vijay@sriaurobindosociety.org.in",
+  "website": "www.sriaurobindosociey.org.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "914132336396",
+    "914132334447",
+    "914132336396"
+  ],
+  "mainAddrress": {
+    "state": "Puducherry",
+    "address": [
+      "No.1, Rangapillai Street",
+      "Puducherry",
+      "605001"
+    ]
+  }
+}

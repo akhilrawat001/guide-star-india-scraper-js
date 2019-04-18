@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Langanagond",
+      "email": "",
+      "designation": "President",
+      "mobile": []
+    },
+    {
+      "name": "Langanagond",
+      "email": "",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3199",
+  "name": "Shri D. Devraj Urs Memorial Education Society",
+  "primaryEmail": "d.devarajurs.m.e.s@gmail.com",
+  "telephone": [
+    "919880064755"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "LIG 12",
+      "Anand Nagar, Rajapur Nagar",
+      "Gulbarga",
+      "Kalaburagi (Gulbarga)",
+      "Karnataka",
+      "585321"
+    ]
+  }
+}

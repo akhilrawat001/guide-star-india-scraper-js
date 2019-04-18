@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Palwinder Singh Sandhu",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3295",
+  "name": "Sandhu Association Social Welfare Society",
+  "primaryEmail": "sandhu@newhopeindia.com",
+  "website": "www.newhopeindia.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919878630007"
+  ],
+  "mainAddrress": {
+    "state": "Punjab",
+    "address": [
+      "Plot no-3,Opp.Fauji Karyana Store,Kot Mit singh",
+      "Bhai Manjh Road ,Tarn Taran Road,",
+      "Amritsar",
+      "Punjab",
+      "143001"
+    ]
+  }
+}

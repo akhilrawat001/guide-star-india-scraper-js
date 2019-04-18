@@ -1,0 +1,34 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7494",
+  "name": "KRITI SHODH SANSTHAN",
+  "primaryEmail": "kssmba@gmail.com",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "919452931415",
+    "917398800666"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "Behind SBI",
+      "Bypass Road",
+      "MAHOBA",
+      "Mahoba",
+      "Uttar Pradesh",
+      "210427"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "Behind SBI",
+      "Near parmannd Chowk,Gandhi nagar,",
+      "Mahoba",
+      "Uttar Pradesh",
+      "210427"
+    ]
+  }
+}

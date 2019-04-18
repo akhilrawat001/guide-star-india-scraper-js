@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "name": "Hiren Kalita",
+      "email": "ajagarsocialcircle@yahoo.co.in",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5392",
+  "name": "Ajagar Social Circle",
+  "primaryEmail": "ajagarsocialcircle@yahoo.co.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "913663285078",
+    "913663285078"
+  ],
+  "mainAddrress": {
+    "state": "Assam",
+    "address": [
+      "Agia",
+      "Goalpara",
+      "Assam",
+      "783120"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Assam",
+    "address": [
+      "not provided",
+      "Agia",
+      "Goalpara",
+      "Assam",
+      "783120"
+    ]
+  }
+}

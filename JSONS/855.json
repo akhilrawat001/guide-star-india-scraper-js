@@ -1,0 +1,38 @@
+{
+  "contacts": [
+    {
+      "name": "Bakhtavar Tarapore",
+      "email": "",
+      "designation": "Executive Secretary",
+      "mobile": []
+    },
+    {
+      "name": "Bakhtavar Tarapore",
+      "email": "",
+      "designation": "Executive Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=855",
+  "name": "Maharashtra State Womenï¿½s Council",
+  "primaryEmail": "mswcouncil@gmail.com",
+  "website": "www.mswcindia.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "912222662013",
+    "912222662013",
+    "912222664834",
+    "912222662013"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Town Hall, Shahid Bhagat Singh Road",
+      "Mumbai",
+      "Maharashtra",
+      "400001"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "contacts": [
+    {
+      "name": "Bijaylal Mohanta",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6003",
+  "name": "Centre for Regional Education, Forest and Tourism Development Agency",
+  "primaryEmail": "creftdajashipur@gmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning"
+  ],
+  "telephone": [
+    "919437656033"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "At/Po- Jashipur",
+      "Dhobadiha",
+      "Jashipur",
+      "Mayurbhanj",
+      "Odisha",
+      "757091"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Odisha",
+    "address": [
+      "At/Po- Jashipur",
+      "Dhobadiha",
+      "Jashipur",
+      "Mayurbhanj",
+      "Odisha",
+      "757034"
+    ]
+  }
+}

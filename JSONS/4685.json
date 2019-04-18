@@ -1,0 +1,27 @@
+{
+  "contacts": [
+    {
+      "name": "Pranjal Baruah",
+      "email": "mdfassam@gmail.com",
+      "designation": "General Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4685",
+  "name": "Mushroom Development Foundation",
+  "primaryEmail": "mdfassam@gmail.com",
+  "telephone": [
+    "913612543967",
+    "919854003003"
+  ],
+  "mainAddrress": {
+    "state": "Assam",
+    "address": [
+      "32, Lamb Road",
+      "Ambari",
+      "Kamrup",
+      "Assam",
+      "781001"
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Shakti Badgujar",
+      "email": "krida.sanjeevani@yahoo.com",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8148",
+  "name": "KRIDA SANJEEVANI",
+  "primaryEmail": "krida.sanjeevani@yahoo.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919860484877"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Sr No 94",
+      "Sarvoday Colony, Mundhwa",
+      "Pune",
+      "Maharashtra",
+      "411036"
+    ]
+  }
+}

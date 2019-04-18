@@ -1,0 +1,44 @@
+{
+  "contacts": [
+    {
+      "name": "D Venkatesha Murthy",
+      "email": "vivekeyecare@gmail.com",
+      "designation": "CEO",
+      "mobile": [
+        "91-9900326556"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=651",
+  "name": "Sri Vivekananda Sevashrama",
+  "primaryEmail": "viveka@vsnl.net",
+  "website": "www.vivekeyecare.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918026766996",
+    "918026766996",
+    "918026766996"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "8th 'B' Main BSK II Stage",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560070"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "90, Dr DVG Road Basavangudi",
+      "Bangalore Urban",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560004"
+    ]
+  }
+}

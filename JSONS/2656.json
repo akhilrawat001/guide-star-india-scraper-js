@@ -1,0 +1,39 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2656",
+  "name": "SAMABHAVANA",
+  "primaryEmail": "samabhavanasociety@gmail.com",
+  "website": "http://www.samabhavanasociety.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "912223080592",
+    "912223080593"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "4Th Floor, S.S.Phule Municipal High School, Meherpada Compound",
+      "N.M.Joshi Marg, Byculla (West)",
+      "Mumbai",
+      "Mumbai Suburban",
+      "Maharashtra",
+      "400708"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "6, Sumangal Co Op Hsg Society, Sector 2,",
+      "Navi Mumbai",
+      "Mumbai Suburban",
+      "Maharashtra",
+      "400708"
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Jagraj Deopa",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8982",
+  "name": "GAREEB SEWA SOCIETY",
+  "primaryEmail": "gareebsewa1@gmail.com",
+  "website": "http://www.gareebsewa.org",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "919350985566"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "21A, Adarsh Arya Apartment, Plot No.39A, Sector -6, Dwarka",
+      "New Delhi",
+      "Delhi",
+      "110075"
+    ]
+  }
+}

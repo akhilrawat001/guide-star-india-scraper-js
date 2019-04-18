@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "name": "W. David Williams",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "202794",
+        "9840255028"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7582",
+  "name": "VICTORY YOUTH ASSOCIATION",
+  "primaryEmail": "president@vicyaindia.org",
+  "website": "www.vicyaindia.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "914177202794",
+    "914177202794"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "Plot No.28, House No.113 A, 2nd Street, Sri Ram Nagar",
+      "Puliamangalam Village Post",
+      "Arakkonam",
+      "Vellore",
+      "Tamil Nadu",
+      "631004"
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "name": "Ravi shukla",
+      "email": "dostsewasansthan@gmail.com",
+      "designation": "Prseident",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5515",
+  "name": "DOST SEWA SANSTHAN",
+  "primaryEmail": "dostsewasansthan@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919369203347"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "117/Q/94 LIC society sharda nagar Kanpur UP",
+      "kanpur",
+      "Kanpur Nagar",
+      "Uttar Pradesh",
+      "208024"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "not provided",
+      "kanpur",
+      "Kanpur Nagar",
+      "Uttar Pradesh",
+      "208024"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5443",
+  "name": "Nagaland Centre for Human Development & Information Technology",
+  "primaryEmail": "nchd2000@yahoo.com",
+  "website": "http://nchd2000.blogspot.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network"
+  ],
+  "telephone": [
+    "913862248504",
+    "913862248504"
+  ],
+  "mainAddrress": {
+    "state": "Nagaland",
+    "address": [
+      "LABAM KI, House No. 422",
+      "Near State Bank of India, Rangapahar Branch, Duncan Basti",
+      "Dimapur Town",
+      "Dimapur",
+      "Nagaland",
+      "797112"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Nagaland",
+    "address": [
+      "Post Box - 20",
+      "Medziphema town",
+      "Dimapur",
+      "Nagaland",
+      "797106"
+    ]
+  }
+}

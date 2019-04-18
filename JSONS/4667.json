@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "name": "Basamlum Bellai",
+      "email": "amikmatai@gmail.com",
+      "designation": "Chief Functionary",
+      "mobile": []
+    },
+    {
+      "name": "Basamlum Bellai",
+      "email": "amikmatai@gmail.com",
+      "designation": "Chief Functionary",
+      "mobile": []
+    },
+    {
+      "name": "Basamlum Bellai",
+      "email": "amikmatai@gmail.com",
+      "designation": "Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4667",
+  "name": "Amik Matai Society",
+  "primaryEmail": "amikmatai@gmail.com",
+  "telephone": [
+    "913804222878",
+    "919436226987"
+  ],
+  "mainAddrress": {
+    "state": "Arunachal Pradesh",
+    "address": [
+      "Post Box No 8 Rockland Tezu",
+      "Po Tezu",
+      "Lohit",
+      "Arunachal Pradesh",
+      "792001"
+    ]
+  }
+}

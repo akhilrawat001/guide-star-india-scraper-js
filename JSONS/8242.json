@@ -1,0 +1,24 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8242",
+  "name": "Kohinoor Mahila Mandal",
+  "primaryEmail": "naiemzahid@rediffmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919923535750",
+    "912442230007"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Naiem Zahid House 294/2 (Post Box 41) Rajori Ves,",
+      "Bashir Gunj",
+      "Beed",
+      "Maharashtra",
+      "431122"
+    ]
+  }
+}

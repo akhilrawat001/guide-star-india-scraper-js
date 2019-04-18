@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Dr Shrishail Bagewadi",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5629",
+  "name": "TAPASYA MEDICAL FOUNDATION",
+  "primaryEmail": "drshrishailan@gmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service"
+  ],
+  "telephone": [
+    "918105727683"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "CTS 3487, SWASTHYA Health Care & Rehabilitation Center",
+      "Near Ram Temple, RAMPUR",
+      "Banhatti",
+      "Bagalkot",
+      "Karnataka",
+      "587314"
+    ]
+  }
+}

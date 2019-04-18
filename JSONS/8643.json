@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Govind Dash",
+      "email": "gramutthanngo@rediffmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8643",
+  "name": "Gram Utthan",
+  "primaryEmail": "gramutthanngo@rediffmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919437076225"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "At/Po-Pimpuri,",
+      "Via-Rajkanika,",
+      "Kendrapara",
+      "Odisha",
+      "754220"
+    ]
+  }
+}

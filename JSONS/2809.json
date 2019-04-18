@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "M.Dhanalakshmi",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2809",
+  "name": "COMMUNITY DEVELOPMENT SOCIETY (CDS)",
+  "primaryEmail": "cdcdhanam@yahoo.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "9943947512"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "adhyaman kotti",
+      "nallampalli (via)",
+      "dharmapuri",
+      "Dharmapuri",
+      "Tamil Nadu",
+      "636807"
+    ]
+  }
+}

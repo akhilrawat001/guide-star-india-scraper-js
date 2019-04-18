@@ -1,0 +1,31 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2517",
+  "name": "SOCIETY FOR AID IN DEVELOPMENT",
+  "primaryEmail": "dag.upemail@gmail.com",
+  "telephone": [
+    "915222693893",
+    "915222693936",
+    "915222693893"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "Postal Address : Society for Aid in Development Flat No. 301.",
+      "Plot No. 13 Sukrit Enclave Old R.T.O. Compound Latouche Road",
+      "Lucknow",
+      "Uttar Pradesh",
+      "226004"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "308/2kh.",
+      "Opp. D-1290 Indira Nagar",
+      "Lucknow",
+      "Uttar Pradesh",
+      "226016"
+    ]
+  }
+}

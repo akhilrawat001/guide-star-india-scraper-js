@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "N P SINGH TOMAR",
+      "email": "shikhar.asocialwelfaresociety@gmail.com",
+      "designation": "CHAIRMEN",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4675",
+  "name": "Shikhar a Social Welfare Society",
+  "primaryEmail": "shikhar.asocialwelfaresociety@gmail.com",
+  "telephone": [
+    "915832265043",
+    "919627132710"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "Care of Virendra Agrawal",
+      "Opp. Agrawal Dharamshala Bazar Kala   Ujhani",
+      "BUDAUN",
+      "Budaun",
+      "Uttar Pradesh",
+      "243639"
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Joy Deb Adhikari",
+      "email": "joy.06@gmail.com",
+      "designation": "Chairman",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1101",
+  "name": "Deb Adhikari Educational & Charitable Trust",
+  "primaryEmail": "debadhikaricharity@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "913564257232",
+    "919932383206",
+    "919019474473"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Girls Mission Road",
+      "Alipurduar",
+      "Jalpaiguri",
+      "West Bengal",
+      "736123"
+    ]
+  },
+  "yearOfEstablishment": "2008"
+}

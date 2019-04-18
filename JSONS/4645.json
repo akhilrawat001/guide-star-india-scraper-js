@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "Sasanka Maity",
+      "email": "maity_sasanka@yahoo.in",
+      "designation": "Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4645",
+  "name": "Moyna Ramkrishnayan Association",
+  "primaryEmail": "maity_sasanka@yahoo.in",
+  "telephone": [
+    "913228260371",
+    "919732565568"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Moyna Ramkrishnayan Association Vill.-Harkuli Bhanderchak",
+      "P.O.+P.S.-Moyna, Dist.- Purba Medinipur",
+      "KOLKATA",
+      "Kolkata",
+      "West Bengal",
+      "721629"
+    ]
+  }
+}

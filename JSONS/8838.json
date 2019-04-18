@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Rajeev Singh",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "9768378777"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8838",
+  "name": "Gaurav Memorial Trust",
+  "primaryEmail": "gauravmemorialtrust@gmail.com",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "919768378777"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "C/103 Navoday Chs Near Jondhale Engg. College",
+      "Dombivli East",
+      "Thane",
+      "Maharashtra",
+      "421203"
+    ]
+  }
+}

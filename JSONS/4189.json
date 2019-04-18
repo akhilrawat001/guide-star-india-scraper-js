@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Snehlata",
+      "email": "sanginicenter@rediffmail.com",
+      "designation": "Chairman",
+      "mobile": []
+    },
+    {
+      "name": "Snehlata",
+      "email": "sanginicenter@rediffmail.com",
+      "designation": "Chairman",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4189",
+  "name": "Sangini Mahila Kalyan Samiti",
+  "primaryEmail": "sanginicenter@rediffmail.com",
+  "telephone": [
+    "917554276158",
+    "917554276158"
+  ],
+  "mainAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "G-3/385",
+      "Gulmoher Colony",
+      "Bhopal",
+      "Madhya Pradesh",
+      "204616"
+    ]
+  }
+}

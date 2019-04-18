@@ -1,0 +1,39 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=801",
+  "name": "Rural Intergrated Centre for Agriculture and Educational Trust",
+  "primaryEmail": "ricaetrust@yahoo.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "914562259543",
+    "919443868260"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "174/1998, 2/44",
+      "East Street, Irukkankudi",
+      "Sattur",
+      "Virudhunagar",
+      "Tamil Nadu",
+      "626203"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "Irukkankudi",
+      "Sattur",
+      "Virudhunagar",
+      "Tamil Nadu",
+      "626203",
+      "AP_BankStat_716.PDF"
+    ]
+  }
+}

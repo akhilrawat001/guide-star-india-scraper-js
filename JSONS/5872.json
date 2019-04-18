@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Chandrakumar N.G",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5872",
+  "name": "SWAMY VIVEKANANDA GRAMEENABHIVRUDHI SAMSTHE",
+  "primaryEmail": "svgsamsthe@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919902855986"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "DOOR No: 111, Neerulli Road,",
+      "Shyagale Post, Davangere Taluk",
+      "Davangere Dist",
+      "Davangere",
+      "Karnataka",
+      "577002"
+    ]
+  }
+}

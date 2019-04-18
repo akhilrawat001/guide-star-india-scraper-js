@@ -1,0 +1,35 @@
+{
+  "contacts": [
+    {
+      "name": "M.R.Ananth Kumar",
+      "email": "divyadeepa.trust@gmail.com",
+      "designation": "Managing Trustee",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4826",
+  "name": "DIVYA DEEPA CHARITABLE TRUST",
+  "primaryEmail": "divyadeepa.trust@gmail.com",
+  "website": "http://www.divyadeepatrust.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918213202249",
+    "918212900034",
+    "918213202249"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "Kenchalagudu Village",
+      "Manandavadi Road, Rayanakere Post, Jayapura Hobli",
+      "Mysore",
+      "Mysuru (Mysore)",
+      "Karnataka",
+      "570008"
+    ]
+  },
+  "briefDescription": "Divya Deepa Charitable Trust is located on the outskirts of Mysore in a land of about 3 acres. We are running a free children home for opportunity deprived children and a free alternative school through which grassroots level research is going on.",
+  "yearOfEstablishment": "1999"
+}

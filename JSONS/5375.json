@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Mr Joraram Khoja",
+      "email": "jrkhoja@gmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5375",
+  "name": "JAGRITI SANSTHAN",
+  "primaryEmail": "jrkhoja@gmail.com",
+  "website": "www.jagritisansthan.org",
+  "organisationType": [
+    "Advocacy & Campaigning"
+  ],
+  "telephone": [
+    "919414494759"
+  ],
+  "mainAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "58/1, laxmi nagur,",
+      "banar road,",
+      "nandri",
+      "Jodhpur",
+      "Rajasthan",
+      "342015"
+    ]
+  }
+}

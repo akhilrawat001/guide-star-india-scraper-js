@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "Raju B Mapari",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8820",
+  "name": "CHHATRAPATI SHIVAJI MAHARAJ BAHUUDDESHIYA SANSTHA",
+  "primaryEmail": "drghayal47@gmail.com",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "917588846347"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Dnyaneshwar Ghayal Pimpalkhuta Ta Lonar",
+      "Buldhana",
+      "Maharashtra",
+      "443320"
+    ]
+  }
+}

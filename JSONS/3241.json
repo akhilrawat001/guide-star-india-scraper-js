@@ -1,0 +1,27 @@
+{
+  "contacts": [
+    {
+      "name": "Jaishree Bansod Danane",
+      "email": "",
+      "designation": "Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3241",
+  "name": "Aryatara Mahila Trust",
+  "primaryEmail": "atmtrust@gmail.com",
+  "telephone": [
+    "912065249960",
+    "912065249960"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Aan Residency,",
+      "Vidya Nagar Survey No 32, Road No 14, Tinger Nagar",
+      "Pune",
+      "Maharashtra",
+      "411015"
+    ]
+  }
+}

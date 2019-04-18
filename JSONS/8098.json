@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Mr. Mahendera Khare",
+      "email": "jamasmp@yahoo.co.in",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8098",
+  "name": "Janmangal Sansthan M P",
+  "primaryEmail": "jamasmp@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "917162226005",
+    "917162226005"
+  ],
+  "mainAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "Ekta Colony,",
+      "Nagpur Road,",
+      ",Chandangaon,",
+      "Chhindwara",
+      "Madhya Pradesh",
+      "480001"
+    ]
+  }
+}

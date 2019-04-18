@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "name": "JAYANDRA R SHAH",
+      "email": "jarashaa@gmail.com",
+      "designation": "Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4697",
+  "name": "Jeevan Vikaas Abhiyaan",
+  "primaryEmail": "jarashaa@gmail.com",
+  "telephone": [
+    "912792664198",
+    "919427953069"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "10, Vishvband’Hu Society",
+      "Bhaththaa, Paaladee",
+      "AHMEDABAD",
+      "Ahmedabad",
+      "Gujarat",
+      "380007"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "10, Vishvbandï¿½Hu Society",
+      "Bhaththaa, Paaladee",
+      "AHMEDABAD",
+      "Ahmedabad",
+      "Gujarat",
+      "380007"
+    ]
+  }
+}

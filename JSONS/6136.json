@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Sabyasachi Pathak",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6136",
+  "name": "Asansol Muktir Alo Welfare Society",
+  "primaryEmail": "asansolmuktiralo@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "913412344832",
+    "913412344832"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Vill-+ PO-Ratibati, Via-Kalipahari,",
+      "Asansol, PS-Raniganj, Dist-Burdwan, PIN-713339, WB",
+      "Asansol",
+      "Bardhaman",
+      "West Bengal",
+      "713339"
+    ]
+  },
+  "briefDescription": "To establish, run school, institutions for vocational training, libraries, adult education, crèches, balwadi, orphanages. To help needy students of all communities for the prosecution of studies especially to SC/ST/OBC.",
+  "yearOfEstablishment": "2011"
+}

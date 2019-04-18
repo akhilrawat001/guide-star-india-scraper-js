@@ -1,0 +1,41 @@
+{
+  "contacts": [
+    {
+      "name": "Shivani",
+      "email": "deeprekhasamaziksanstha@gmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6685",
+  "name": "Deeprekha Samajik Sanstha Samiti",
+  "primaryEmail": "deeprekhasamaziksanstha@gmail.com",
+  "website": "NA",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919425459110"
+  ],
+  "mainAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "193 Kanya kubj Nagar",
+      "Aerodrome Road,In fornt of BSF, Indore",
+      "Indore",
+      "Madhya Pradesh",
+      "452005"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "30 hUJUR GANJ",
+      "NAYAPURA,AERODROME ROAD",
+      "INDORE",
+      "Indore",
+      "Madhya Pradesh",
+      "452005"
+    ]
+  }
+}

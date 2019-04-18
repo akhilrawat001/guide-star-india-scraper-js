@@ -1,0 +1,28 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8713",
+  "name": "The National Council of Young Men's Christian Association of India",
+  "primaryEmail": "ngsymcaindia@gmail.com",
+  "website": "www.ymcaindia.org",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "911123346193",
+    "911123360769",
+    "911123364309",
+    "911123346193"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "Gate No:5, Bharat Yuvak Bhavan, 4th Floor, K.T.Paul Memorial Block, 1 Jai Singh Road,",
+      "1 Jai Singh Road, New Delhi",
+      "New Delhi",
+      "Central Delhi",
+      "Delhi",
+      "110001"
+    ]
+  }
+}

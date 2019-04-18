@@ -1,0 +1,33 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=713",
+  "name": "Thirumangai Charitable Trust",
+  "primaryEmail": "tctrust63@yahoo.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "914151227799",
+    "919047981673"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "58C/2, Katcherry Road",
+      "Kallakurichi",
+      "Viluppuram",
+      "Tamil Nadu",
+      "606202"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "No. 1 New Amman Koil Street, Kaduvanoor Village & Post",
+      "Sankarapuram",
+      "Viluppuram",
+      "Tamil Nadu",
+      "605801"
+    ]
+  }
+}

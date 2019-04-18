@@ -1,0 +1,49 @@
+{
+  "contacts": [
+    {
+      "name": "Shaila  Thakur",
+      "email": "shaila.t@yuvaindia.org",
+      "designation": "Senior Advisor - Communication & Resource Mobilisation",
+      "mobile": [
+        "91-9322223449"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5325",
+  "name": "Youth for Unity and Voluntary Action (YUVA)",
+  "primaryEmail": "info@yuvaindia.org",
+  "website": "www.yuvaindia.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "912227740980"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "YUVA CENTRE",
+      "PLOT NO 23 , SECTOR 7, KHARGHAR",
+      "NAVI MUMBAI",
+      "Raigad",
+      "Maharashtra",
+      "410210"
+    ]
+  },
+  "briefDescription": "Youth for Unity and Voluntary Action (YUVA), founded in the year 1984, is a non-governmental organization working with the most vulnerable sections of the urban poor in Maharashtra and at the national level. YUVA’s activities have focused on enabling the urban poor to achieve their social and economic entitlements including housing, basic amenities, livelihood, social security, education, protection from violence and participation in governance and decision making.",
+  "yearOfEstablishment": "1984",
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "YUVA CENTRE",
+      "PLOT NO 23 , SECTOR 7, KHARGHAR",
+      "NAVI MUMBAI",
+      "Mumbai",
+      "Maharashtra",
+      "410210"
+    ]
+  }
+}

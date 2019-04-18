@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "B Hima Bindu",
+      "email": "rwcs.ngo14@gmail.com",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6602",
+  "name": "Rural Women and Child Welfare Society",
+  "primaryEmail": "rwcs.ngo14@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919885383022"
+  ],
+  "mainAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "7/6,Near pachayati office, Simhadripuram, Kadapa",
+      "Simhadripuram",
+      "YSR District, Kadapa (Cuddapah)",
+      "Andhra Pradesh",
+      "516454"
+    ]
+  }
+}

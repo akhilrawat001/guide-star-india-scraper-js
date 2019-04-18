@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "name": "pasupathy",
+      "email": "pasupathy69@gmail.com",
+      "designation": "founder",
+      "mobile": [
+        "91-9840279759"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=878",
+  "name": "Parikshan Charitable Trust",
+  "primaryEmail": "pasupathy69@gmail.com",
+  "website": "www.parikshancharitabletrust.org",
+  "telephone": [
+    "919840279759"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "No.2/old no.18, Kamakshipuram First street",
+      "Postalcolony First street extn, West Mambalam",
+      "Chennai",
+      "Tamil Nadu",
+      "600033"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "no.2/old no.18, kamakshipuram first street,postalcolony first street extn, west mambalam",
+      "Chennai",
+      "Tamil Nadu",
+      "600033",
+      "AP_TelBill_791.PDF"
+    ]
+  }
+}

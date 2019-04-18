@@ -1,0 +1,46 @@
+{
+  "contacts": [
+    {
+      "name": "Srivyal Vuyyuri",
+      "email": "",
+      "designation": "Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=887",
+  "name": "Sphoorti Foundation",
+  "primaryEmail": "srivyal@sphoorti.org",
+  "website": "http://www.sphoorti.org",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919490120168",
+    "919959559022"
+  ],
+  "mainAddrress": {
+    "state": "Telangana",
+    "address": [
+      "Sphoorti Foundation,",
+      "484, EC Nagar, HCL Post, Hyderabad",
+      "Hyderabad",
+      "Rangareddy",
+      "Telangana",
+      "500051"
+    ]
+  },
+  "briefDescription": "About SphoortiSPHOORTI FOUNDATION is a not-for-profit organization registered under the AP Registrations Act as a Charitable Trust (NGO). Sphoorti is based in Hyderabad, Andhra Pradesh. In July 2006, SPHOORTI established a Children's Home near Cherlapally, Hyderabad with three children and two caretakers. We currently support 200 children – 109 boys and 91 girls in the age group 5-18. Out of these, we have 160 children in our campus in Dundigal and the rest of the children are in various residential colleges in Hyderabad.  In addition, we sponsor school fees of 200 more children who live in the vicinity and whose parents cannot afford education for their children. We make the fee payment directly to schools these children attend.We currently employ 10 people to take care of cooking, grooming and security of our premises.",
+  "yearOfEstablishment": "2005",
+  "regiseredAddrress": {
+    "state": "Telangana",
+    "address": [
+      "Sphoorti Foundation,484",
+      "EC Nagar, HCL Post, Hyderabad",
+      "Hyderabad",
+      "Rangareddy",
+      "Telangana",
+      "500051"
+    ]
+  }
+}

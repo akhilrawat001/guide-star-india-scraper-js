@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Mr. Mitta Nagamani",
+      "email": "mathamahilamandali@gmail.com",
+      "designation": "SECRETARY",
+      "mobile": [
+        "91-8790321287"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7101",
+  "name": "MATHA MAHILA MANDALI",
+  "primaryEmail": "mathamahilamandali@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919949249448"
+  ],
+  "mainAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "D.No. 1/1952, Parnapalli Road",
+      "Pulivendula",
+      "Kadapa",
+      "YSR District, Kadapa (Cuddapah)",
+      "Andhra Pradesh",
+      "516390"
+    ]
+  }
+}

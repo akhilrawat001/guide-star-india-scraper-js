@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Devendra Patil",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4449",
+  "name": "Bhartiya kashtakari ryat sewa sanstha",
+  "primaryEmail": "bhakar93@gmail.com",
+  "website": "no link",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "917507795321"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Bhakar, A/P- Kondye, taluka- lanja",
+      "Taluka- lanja",
+      "District - Ratnagiri",
+      "Ratnagiri",
+      "Maharashtra",
+      "416701"
+    ]
+  }
+}

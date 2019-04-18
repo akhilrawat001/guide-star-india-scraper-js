@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Baiju Shankar Giri",
+      "email": "seva.bihar@gmail.com",
+      "designation": "Co-ordinater",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4777",
+  "name": "SEVA (SOCIAL EDUCATIONAL VOLUNTARY ASSOCIATION)",
+  "primaryEmail": "seva.bihar@gmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service"
+  ],
+  "telephone": [
+    "919931937122"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "At -vidyapatinagar",
+      "Near Vidyapatinagar Railway Station",
+      "Vidyapatinagar",
+      "Samastipur",
+      "Bihar",
+      "848503"
+    ]
+  }
+}

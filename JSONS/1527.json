@@ -1,0 +1,46 @@
+{
+  "contacts": [
+    {
+      "name": "Kalpana Dubey",
+      "email": "kalpanardubey@gmail.com",
+      "designation": "Finance Minister",
+      "mobile": [
+        "91-522-2746100",
+        "91-9415546903"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1527",
+  "name": "Madhur Kalpana Vikas Society",
+  "primaryEmail": "mkvsociety@gmail.com",
+  "website": "www.mkvsociety.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network"
+  ],
+  "telephone": [
+    "915222746100",
+    "919415546903"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "B-12",
+      "Sector H,Aliganj,",
+      "Lucknow",
+      "Uttar Pradesh",
+      "226024"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "15-B,Hamilton Road",
+      "George town",
+      "Allahabad",
+      "Uttar Pradesh",
+      "211002"
+    ]
+  }
+}

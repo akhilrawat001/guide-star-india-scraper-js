@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "Arun Shah",
+      "email": "bhoolkabhavan@yahoo.co.in",
+      "designation": "Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2852",
+  "name": "Bhoolka Bhavan",
+  "primaryEmail": "bhoolkabhavan@yahoo.co.in",
+  "telephone": [
+    "912652462781",
+    "912652462781"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "OPP. SUNDERVAN SOCIETY",
+      "NEAR DIPIKA GARDEN, HARNI ROAD",
+      "VADODARA",
+      "Vadodara",
+      "Gujarat",
+      "391110"
+    ]
+  }
+}

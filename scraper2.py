@@ -30,5 +30,5 @@ def function(fileName):
             print('changes made')
             writeJsonFile('data/urls.json',data)
         print("DONE" ,fileName)
-for i in range(100,11000):
+for i in range(9020,9021):
     function(i)

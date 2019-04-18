@@ -1,0 +1,40 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4710",
+  "name": "The Catholic Health Association Of India",
+  "primaryEmail": "directorgeneral@chai-india.org",
+  "website": "http://www.chai-india.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "914027848293",
+    "914027848457",
+    "914027848293"
+  ],
+  "mainAddrress": {
+    "state": "Telangana",
+    "address": [
+      "157/6, Staff Road,",
+      "Gunrock Enclave",
+      "Hyderabad",
+      "Telangana",
+      "500009"
+    ]
+  },
+  "briefDescription": "Founded in 1943 by Sr. Dr Mary Glowrey, an Australian Nun, CHAI is one of the world's largest not-for-profit healthcare networks with a membership base of 3522 Member Institutions (MIs) as on date – 80% serve in the medically underserved areas. CHAI MIs extend medical care to over 21 million persons in a year, mostly the marginalized - with a team of 1000 Sister-Doctors; 25,000 Sister-Nurses; 10,000 plus Sister-paraprofessionals and around 5,000 Sister Social Workers, along with a huge number of lay employees. CHAI MIs are engaged in maternal and child health; prevention and control of communicable and NCDs, such as, HIV/AIDS, TB, malaria, diabetes, etc.; positive health promotion; holistic care for PLHIVs, terminally ill and elderly, etc.​",
+  "yearOfEstablishment": "1961",
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "4435-36, Makhanlal Street",
+      "7Ansari Road, Daryaganj",
+      "Delhi",
+      "Central Delhi",
+      "110002"
+    ]
+  }
+}

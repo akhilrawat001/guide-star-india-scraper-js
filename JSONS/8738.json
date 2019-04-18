@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "Sachin Prakash Yadav",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8738",
+  "name": "Prerna Foundation",
+  "primaryEmail": "prernafoundation09@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919595914116"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Yedenipani, Tal- Walwa",
+      "Sangli",
+      "Maharashtra",
+      "415403"
+    ]
+  }
+}

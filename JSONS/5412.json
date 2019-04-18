@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "P P I DAS",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5412",
+  "name": "Prakambanam Kala Sahithya Vedi - Prakambanam Educational Charitable Trust",
+  "primaryEmail": "prakambanamcharitabletrust@yahoo.com",
+  "website": "www.prakambanamcharitabletrust.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919895369539"
+  ],
+  "mainAddrress": {
+    "state": "Kerala",
+    "address": [
+      "Podikkundu,",
+      "P. O. Pallikunnu",
+      "Kannur - 4",
+      "Kannur",
+      "Kerala",
+      "670004"
+    ]
+  }
+}

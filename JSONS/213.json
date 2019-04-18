@@ -1,0 +1,47 @@
+{
+  "contacts": [
+    {
+      "name": "Latha Subramaniam/K C Lazar",
+      "email": "bhoomikaindia@yahoo.co.in",
+      "designation": "Program Manager",
+      "mobile": [
+        "91-44-24981967",
+        "91-9444451268"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=213",
+  "name": "Bhoomika Trust",
+  "primaryEmail": "bhoomikaindia@yahoo.co.in",
+  "website": "www.bhoomikaindia.org",
+  "organisationType": [
+    "Direct Service",
+    "Grant-making",
+    "Support"
+  ],
+  "telephone": [
+    "914424981967",
+    "919444451268",
+    "914424660562"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "Apt 3A, Jeyamkondar Building",
+      "New No 40, Murrays gate road, Alwarpet",
+      "Chennai",
+      "Tamil Nadu",
+      "600018"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "No 32, Karpagam Avenue 1st Street",
+      "Chennai",
+      "Tamil Nadu",
+      "600028",
+      "AP_TelBill_113.PDF"
+    ]
+  }
+}

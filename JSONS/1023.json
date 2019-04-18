@@ -1,0 +1,35 @@
+{
+  "contacts": [
+    {
+      "name": "ShivaPrashad",
+      "email": "",
+      "designation": "Prsident",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1023",
+  "name": "Wise Men Civic Welfare Association",
+  "primaryEmail": "contact@wisemenngo.in",
+  "website": "http://www.wisemenngo.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919000994894"
+  ],
+  "mainAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "31-1/2, Kothaveedhi",
+      "Narsipatnam,",
+      "Visakhapatnam",
+      "Andhra Pradesh",
+      "531116"
+    ]
+  },
+  "briefDescription": "Mission: To bring the revolution in poor and needy people for bringing them to main stream society by providing Health, Education, training and basic needs especially for the development of children.",
+  "yearOfEstablishment": "2002"
+}

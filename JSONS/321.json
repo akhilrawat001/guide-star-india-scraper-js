@@ -1,0 +1,26 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=321",
+  "name": "Assist",
+  "primaryEmail": "assistranga@gmail.com",
+  "website": "http://www.assist.org.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918647253971",
+    "918647254934",
+    "918647254815",
+    "918647253971"
+  ],
+  "mainAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "ASSIST, G.T. Road",
+      "Chilakaluripet",
+      "Guntur",
+      "Andhra Pradesh",
+      "522616"
+    ]
+  }
+}

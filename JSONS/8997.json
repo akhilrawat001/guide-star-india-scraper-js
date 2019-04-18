@@ -1,0 +1,41 @@
+{
+  "contacts": [
+    {
+      "name": "Deepak Kumar Joshi",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8997",
+  "name": "HARI OM SEVA SANSTHAN",
+  "primaryEmail": "hariomsevasansthan@yahoo.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "910823311133"
+  ],
+  "mainAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "Opposite Panchyatsamiti ,Talwara",
+      "Talwara",
+      "Banswara",
+      "Rajasthan",
+      "327025"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "Opposite Panchyatsamiti ,Talwara",
+      "Hariom complex",
+      "Talwara",
+      "Banswara",
+      "Rajasthan",
+      "327025"
+    ]
+  }
+}

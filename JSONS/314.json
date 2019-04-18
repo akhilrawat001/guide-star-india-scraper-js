@@ -1,0 +1,45 @@
+{
+  "contacts": [
+    {
+      "name": "Rajeshwaran R",
+      "email": "mail@amarseva.org",
+      "designation": "MIS Incharge",
+      "mobile": [
+        "91-4633-249161"
+      ]
+    },
+    {
+      "name": "Rajeshwaran R",
+      "email": "mail@amarseva.org",
+      "designation": "MIS Incharge",
+      "mobile": [
+        "91-4633-249161"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=314",
+  "name": "Amar Seva Sangam",
+  "primaryEmail": "mail@amarseva.org",
+  "website": "http://www.amarseva.org",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "914633249170",
+    "914633249180"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "10-2-163, Sulochana Gardens,",
+      "Tenkasi Road, Post Box No. 001",
+      "Ayikudy",
+      "Tirunelveli",
+      "Tamil Nadu",
+      "627852"
+    ]
+  },
+  "briefDescription": "Amar Seva Sangam is an organization working in the disability sector. It is founded and run by persons with disabilities. Sri S. Ramakrishnan who became a paraplegic due to a mishap when he was 21 years old while studying in an engineering college in Coimbatore established Amar Seva Sangam in the year 1981 in his native village Ayikudy about 5 Kms away from Tenkasi, in southern most part of Tamil Nadu. Sri.S.Sankara Raman a Chartered Accountant and a wheel chair user, affected by muscular dystrophy, joined him in 1992 and we both with the blessings of God and people like you, strive towards the attainment of our dream, to build a Valley for the physically challenged. Amar Seva Sangam is catering to more than 13000 persons with disabilities in more than 800 villages in Tirunelveli District of Tamilnadu. We have established major facilities in the village of Ayikudy where several state- of- the- art- technology programmes are provided for all the rehabilitation requirements of persons with disabilities from basic schooling to higher education including computer education, vocational rehabilitation, special education for mentally challenged, hostel for disabled children and youth, rehabilitation centre for Spinal Injured Patients and a medical testing / therapy unit. We have won several awards and recognitions across the country and internationally.",
+  "yearOfEstablishment": "1981"
+}

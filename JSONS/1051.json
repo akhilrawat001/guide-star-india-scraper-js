@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Premchand Mahto",
+      "email": "",
+      "designation": "Secretary",
+      "mobile": []
+    },
+    {
+      "name": "Premchand Mahto",
+      "email": "",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1051",
+  "name": "Adarsh Gram Vikas Sewa Samiti",
+  "primaryEmail": "agvss2008_bs@rediffmail.com",
+  "telephone": [
+    "916549291024",
+    "916549291024"
+  ],
+  "mainAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "At & Po - Nawadih",
+      "Nawadih",
+      "Bokaro",
+      "Jharkhand",
+      "829144"
+    ]
+  }
+}

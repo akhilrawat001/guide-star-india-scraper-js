@@ -1,0 +1,35 @@
+{
+  "contacts": [
+    {
+      "name": "Pooja Arora",
+      "email": "arunim2008@gmail.com",
+      "designation": "Program Manager",
+      "mobile": [
+        "91-7838778868"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1528",
+  "name": "Association for Rehabilitation under National Trust Initiative of Marketing (ARUNIM)",
+  "primaryEmail": "arunim2008@gmail.com",
+  "website": "www.arunim.in",
+  "organisationType": [
+    "Intermediary"
+  ],
+  "telephone": [
+    "919968502182",
+    "911127915662"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "16 B",
+      "Bada Bazar Road, Old Rajinder Nagar,",
+      "New Delhi",
+      "Delhi",
+      "110060"
+    ]
+  },
+  "briefDescription": "ARUNIM (Association for Rehabilitation Under National Trust Initiative of Marketing) is a path-breaking initiative of the National Trust, a statutory body under the Ministry of Social Justice and Empowerment. At ARUNIM we strive towards creating livelihood opportunities for people with moderate to severe disabilities, where none exist.",
+  "yearOfEstablishment": "2008"
+}

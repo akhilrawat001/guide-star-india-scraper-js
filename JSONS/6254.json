@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Jayaraju Pureti",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6254",
+  "name": "Shree Anjaiah Pureti Educational Society",
+  "primaryEmail": "anjaiahwelfaresociety@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919391364337"
+  ],
+  "mainAddrress": {
+    "state": "Telangana",
+    "address": [
+      "1-13,Laxminarayana puram vemsoor  (m.d), Venkata puram  (Vill), Vemsoor   (Mdl),",
+      "vissannapet main road, south lline",
+      "sathupally",
+      "Khammam",
+      "Telangana",
+      "507164"
+    ]
+  }
+}

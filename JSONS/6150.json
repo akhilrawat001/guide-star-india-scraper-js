@@ -1,0 +1,44 @@
+{
+  "contacts": [
+    {
+      "name": "Himanshu Vashishta",
+      "email": "him16121989@gmail.com",
+      "designation": "Treasurer",
+      "mobile": [
+        "91-9811330214"
+      ]
+    },
+    {
+      "name": "Himanshu Vashishta",
+      "email": "him16121989@gmail.com",
+      "designation": "Treasurer",
+      "mobile": [
+        "91-9811330214"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6150",
+  "name": "Being Green",
+  "primaryEmail": "beinggreens@gmail.com",
+  "website": "http://beinggreens.org/",
+  "organisationType": [
+    "Advocacy & Campaigning"
+  ],
+  "telephone": [
+    "919810452068",
+    "919818254606"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "D-1/1, Kunwar Singh Nagar, Rao Marg",
+      "Nilothi Mod",
+      "Nangloi",
+      "New Delhi",
+      "Delhi",
+      "110041"
+    ]
+  },
+  "briefDescription": "Being Green is a NGO registered under society act which is started in 2014 and is run by like-minded people who think, care,  love,  feel for nature and understand the need for the presence of trees on the face of this earth. Green is our vision, symbol, identity, an attribute with which we feel connected to mother earth, our environment. Green doesn't mean tree only, Green is also related to Food, Raw Material, Clothes, Medicine & Religion also.",
+  "yearOfEstablishment": "2014"
+}

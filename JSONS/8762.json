@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Lakhikanta Hira",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "9530939097"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8762",
+  "name": "NIRMAL TAKHAT BABA BUDHA SAHIB CHARITABLE TRUST,JALANDHAR",
+  "primaryEmail": "ntbbsctrust@gmail.com",
+  "website": "ntbbsct.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919530939097",
+    "919815006111"
+  ],
+  "mainAddrress": {
+    "state": "Punjab",
+    "address": [
+      "Nirmal Takhat, Dakoha, Jalandhar, Punjab",
+      "Nr Jalandhar Cant Railway Station",
+      "Jalandhar",
+      "Punjab",
+      "144023"
+    ]
+  }
+}

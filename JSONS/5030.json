@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Sham Lal Gupta",
+      "email": "chairmananticrimeteam@gmail.com",
+      "designation": "Chairman",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5030",
+  "name": "Third Eye Anti Crime Team",
+  "primaryEmail": "chairmananticrimeteam@gmail.com",
+  "website": "www.thirdeyeanticrimeteam.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network"
+  ],
+  "telephone": [
+    "919419115621"
+  ],
+  "mainAddrress": {
+    "state": "Punjab",
+    "address": [
+      "Street no.1, Old Dhariwal",
+      "Gurdaspur",
+      "Punjab",
+      "143519"
+    ]
+  }
+}

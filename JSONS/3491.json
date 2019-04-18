@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Dr.Madhav Sathe",
+      "email": "drmadhav@hotmail.com",
+      "designation": "Joint Honorary Secretary",
+      "mobile": [
+        "91-9821141618"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3491",
+  "name": "The Bombay Mothers and Children Welfare Society",
+  "primaryEmail": "drmadhav@hotmail.com",
+  "telephone": [
+    "912223085794",
+    "912223085794"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "21-30,B.D.D Chawl no.10,N.M.Joshi Marg",
+      "Near N.M. Joshi marg police station,Lower Parel",
+      "Mumbai",
+      "Maharashtra",
+      "400013"
+    ]
+  }
+}

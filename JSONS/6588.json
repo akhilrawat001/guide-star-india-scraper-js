@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Amita Sharma",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6588",
+  "name": "KNOWLEDGE AND OPPORTUNITY FOR DEVELOPMENT AND EMPOWERMENT FOUNDATION",
+  "primaryEmail": "info@kodefoundation.org",
+  "website": "http://kodefoundation.org",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919810600513"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "R-218,Sector-21",
+      "Jalvayu Vihar",
+      "Noida",
+      "Gautam Buddha Nagar",
+      "Uttar Pradesh",
+      "201301"
+    ]
+  }
+}

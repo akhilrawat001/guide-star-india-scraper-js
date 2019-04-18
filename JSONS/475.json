@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Vinayak Daithankar",
+      "email": "vasudeosaad@dataone.in",
+      "designation": "Coordinator",
+      "mobile": [
+        "91-20-24345243"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=475",
+  "name": "Social Action for Association and Development",
+  "primaryEmail": "mangala@vsnl.net",
+  "website": "http://www.giveindia.org/GetOrganisationProfile.aspx?ngoid=126",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "912024345243",
+    "912024345243"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "A 4 Shanti Garden, Anand Nagar",
+      "Sinhagad Road",
+      "Pune",
+      "Maharashtra",
+      "411051"
+    ]
+  }
+}

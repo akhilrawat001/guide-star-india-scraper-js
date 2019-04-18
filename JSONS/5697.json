@@ -1,0 +1,41 @@
+{
+  "contacts": [
+    {
+      "name": "Mr. Mohankumar",
+      "email": "mohankumar@tiss.edu",
+      "designation": "Registrar, TISS",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5697",
+  "name": "Tata Institute of Social Sciences",
+  "primaryEmail": "mohankumar@tiss.edu",
+  "website": "http://www.tiss.edu",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "912225525000",
+    "912225525000"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "V.N. Purav Marg, Deonar",
+      "Mumbai",
+      "Mumbai Suburban",
+      "Maharashtra",
+      "400088"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "not provided",
+      "Mumbai",
+      "Mumbai Suburban",
+      "Maharashtra",
+      "400088"
+    ]
+  }
+}

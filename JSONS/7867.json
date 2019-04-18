@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Suresh Shimpi",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7867",
+  "name": "Swami Vivekananda Sarvajanik Vachanalaya Va Granthalay",
+  "primaryEmail": "Svsgranthalaya2015@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "918087074891"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Arounday Colony Plot No. 8/A Chopda",
+      "Chopda",
+      "Jalgaon",
+      "Maharashtra",
+      "425107"
+    ]
+  }
+}

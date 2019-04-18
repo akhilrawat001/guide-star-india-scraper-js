@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "DR DHARM SINGH",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5997",
+  "name": "DIKSHA AROGYA NIDAN SEWA SAMITI",
+  "primaryEmail": "dikshaarogyanidankendra@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "915472320194",
+    "915472320194"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "diksha arogya nidan kendra road ways muhmmdabad gohna mau",
+      "Muhmmdabad gohna ,Maunath bhanjan ,Uttar pradesh",
+      "Mau",
+      "Uttar Pradesh",
+      "246403"
+    ]
+  }
+}

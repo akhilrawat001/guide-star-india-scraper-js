@@ -1,0 +1,24 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4333",
+  "name": "SHANTI HASTAKALA TRUST",
+  "primaryEmail": "shantihastkala@gmail.com",
+  "website": "http://www.shantihastkala.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919819704508"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "C/o Shanti Mandir, Mahafalia,",
+      "Post Atul",
+      "Magod",
+      "Valsad",
+      "Gujarat",
+      "396020"
+    ]
+  }
+}

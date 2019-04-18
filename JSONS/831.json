@@ -1,0 +1,27 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=831",
+  "name": "R. K. Foundation",
+  "primaryEmail": "info@rkfoundation.org",
+  "website": "www.rkfoundation.org",
+  "organisationType": [
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "918065594809",
+    "919845453403"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "# 2 & 3 New Raja Building, 2nd Floor",
+      "N. R. Road",
+      "Bangalore Urban",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560002"
+    ]
+  }
+}

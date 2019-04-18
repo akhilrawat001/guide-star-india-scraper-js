@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Vyshnavi",
+      "email": "matramcharity@gmail.com",
+      "designation": "Founder",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4983",
+  "name": "Matram Public Charitable Trust",
+  "primaryEmail": "matramcharity@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "917200271120"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "Shop No 3&4, 2nd Floor, Sridevi Complex",
+      "Madambakkam Main Road (opp to KV2 school)",
+      "Rajakilpakkam, chennai/Tamil nadu",
+      "Kancheepuram",
+      "Tamil Nadu",
+      "600073"
+    ]
+  }
+}

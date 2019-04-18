@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Dr Partha Pratim Jana",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8416",
+  "name": "RAHIMPUR RUPAYAN",
+  "primaryEmail": "rupayan09@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919051853877"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "DR PARTHA PRATIM JANA",
+      "VIL + PO- RAHIMPUR",
+      "DIST- HOOGHLY",
+      "Hooghly",
+      "West Bengal",
+      "712408"
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Ganesh Awantkar",
+      "email": "ganeshawantkar@gmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7974",
+  "name": "Pragati Sevabhavi Sanstha Padli",
+  "primaryEmail": "ganeshawantkar@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919881348692"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Sant Namdev Nagar",
+      "Dhonora road",
+      "Beed",
+      "Maharashtra",
+      "455112"
+    ]
+  }
+}

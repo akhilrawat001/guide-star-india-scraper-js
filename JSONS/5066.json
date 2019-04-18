@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Asim Kumar Datta",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5066",
+  "name": "TURNING POINT EDUCATIONAL ACADEMY",
+  "primaryEmail": "tptpltd@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "913472258458",
+    "913472258458"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Bhumishree Building, 1st Floor",
+      "11/A M. M. Ghosh Street",
+      "Krishnagar",
+      "Nadia",
+      "West Bengal",
+      "741101"
+    ]
+  }
+}

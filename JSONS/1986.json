@@ -1,0 +1,28 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1986",
+  "name": "GILGAL CHARITABLE TRUST",
+  "primaryEmail": "gilgaltrust@yahoo.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "918023332205",
+    "918064545515",
+    "919449544144"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "N0 213",
+      "6TH D MAIN, HMT LAYOUT,R.T.NAGAR",
+      "R.T.NAGAR,BANGALORE",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "171001"
+    ]
+  }
+}

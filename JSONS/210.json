@@ -1,0 +1,37 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=210",
+  "name": "Navkshitij",
+  "primaryEmail": "navkshitij@rediffmail.com",
+  "website": "www.navkshitij.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919552547456",
+    "918870457512",
+    "919822110043"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "At Post Marunji , Irrigation Colony,",
+      "Next to Z.P.School Marunji, near Hinjewadi",
+      "Pune",
+      "Maharashtra",
+      "411057"
+    ]
+  },
+  "briefDescription": "What the organisation does:• Offers residential hostel for mentally challenged adults, with the aim of a providing them a productive, happy, secure and dignified life.• Rehabilitating them back to society.Number of people served: 45",
+  "yearOfEstablishment": "2003",
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "At post Marunji",
+      "Next to Z.P.School, Marunji , Near Hinjewadi",
+      "Pune",
+      "Maharashtra",
+      "411057"
+    ]
+  }
+}

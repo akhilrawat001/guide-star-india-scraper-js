@@ -1,0 +1,47 @@
+{
+  "contacts": [
+    {
+      "name": "Sutapa Bose",
+      "email": "sutapabose2@gmail.com",
+      "designation": "Finance Diector",
+      "mobile": [
+        "91-9874355648"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7432",
+  "name": "CINEMATIC FOUNDATION OF INDIA (CFI)",
+  "primaryEmail": "2014cfi@gmail.com",
+  "website": "http://www.cinefoundationindia.org",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919748054634",
+    "919007805299",
+    "913340605964"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "15, Crooked Lane, 1st Floor,",
+      "Great Eastern Hotel",
+      "Kolkata",
+      "West Bengal",
+      "700069"
+    ]
+  },
+  "briefDescription": "Cinematic Foundation Of India is Located in Kolkata, West BengalTo provide sustainable development for under privilege section of the society with special focus on children and women living in difficult circumstances by providing proper education, health care service, awareness, nutrition, voluntary training, emergency relief, capacity building through socio-economic, cultural development regarded of sex, religion, race to achieve the goal.",
+  "yearOfEstablishment": "2014",
+  "regiseredAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "94, Pathak Para Road,",
+      "Behala, P.S.Parnasree, P.O - Parnasree",
+      "Kolkata",
+      "West Bengal",
+      "700060"
+    ]
+  }
+}

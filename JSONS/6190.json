@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "SUBHASIS CHAUDHURI",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6190",
+  "name": "PIROJPUR NOBODAY WELFARE SOCIETY",
+  "primaryEmail": "nabadoy@gmail.com",
+  "website": "www.noboday.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "913512223226",
+    "913512223226"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "KEYBOARD CYBER CAFE",
+      "OPP. NBSTC BUS STAND, K. J. SANYAL ROAD",
+      "MALDA",
+      "Malda",
+      "West Bengal",
+      "732101"
+    ]
+  }
+}

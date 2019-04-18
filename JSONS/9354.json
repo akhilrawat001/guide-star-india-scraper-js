@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Anupama Kumari",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9354",
+  "name": "NARI NIDHI",
+  "primaryEmail": "narinidhi.muz@gmail.com",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "918651183313"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "Laxmi Niwas Plot No 11 Behind Science Collage Near State Boring Panchvati Colony Majhouli Khetal",
+      "Muzaffarpur",
+      "Bihar",
+      "843146"
+    ]
+  },
+  "yearOfEstablishment": "1993"
+}

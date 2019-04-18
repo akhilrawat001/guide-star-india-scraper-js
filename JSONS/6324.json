@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "S Solomon Raju",
+      "email": "bread_tuni@yahoo.in",
+      "designation": "Chairman",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6324",
+  "name": "Bethesda Rural Economical Association for Development",
+  "primaryEmail": "bread_tuni@yahoo.in",
+  "website": "NA",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919985655258"
+  ],
+  "mainAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "3-5-15, Praksam Road",
+      "4-6-3,old SBI Street",
+      "TUNI",
+      "East Godavari",
+      "Andhra Pradesh",
+      "533401"
+    ]
+  }
+}

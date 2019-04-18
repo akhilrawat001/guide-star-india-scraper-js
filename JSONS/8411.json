@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "PRADIP KUMAR",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8411",
+  "name": "Lok Deep",
+  "primaryEmail": "lokdeeporg@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "916438224738",
+    "916438224738"
+  ],
+  "mainAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "College Road",
+      "At _Madhupur,",
+      "Deoghar",
+      "Jharkhand",
+      "815353"
+    ]
+  }
+}

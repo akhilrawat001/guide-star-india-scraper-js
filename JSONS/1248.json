@@ -1,0 +1,34 @@
+{
+  "contacts": [
+    {
+      "name": "Srimat Nemai Chaitannya Brahmachari",
+      "email": "",
+      "designation": "Secretary",
+      "mobile": [
+        "91-3454-256975"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1248",
+  "name": "Japat Para Sri Sri Nigamananda Saraswata Sevashram Society",
+  "primaryEmail": "nsss1@yahoo.co.in",
+  "website": "http://kjns.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "913454256975",
+    "913454256975"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Japatpara",
+      "Kalna",
+      "Bardhaman",
+      "West Bengal",
+      "713409",
+      "AP_BankStat_1152.PDF"
+    ]
+  }
+}

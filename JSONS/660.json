@@ -1,0 +1,27 @@
+{
+  "contacts": [
+    {
+      "name": "R Chandra Sekaran",
+      "email": "",
+      "designation": "Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=660",
+  "name": "HILLS-Human Integrated Life and Learning's",
+  "primaryEmail": "hillssurya@yahoo.co.in",
+  "telephone": [
+    "914295220351",
+    "914295220351"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "106/27 Thimmayan Pudur Rangasamudram Po",
+      "Sathyamdangalam",
+      "Erode",
+      "Tamil Nadu",
+      "638402"
+    ]
+  }
+}

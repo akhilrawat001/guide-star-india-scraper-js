@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Dr. Mohan Singh",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6164",
+  "name": "Daliyon Ka Dagriya",
+  "primaryEmail": "mohanpanwar310@yahoo.in",
+  "website": "http://daliyonkadagriya.pirengo.org/contact-us/",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "911346257053",
+    "911346257053"
+  ],
+  "mainAddrress": {
+    "state": "Uttarakhand",
+    "address": [
+      "P.O Box-44, Dagriya bhawan",
+      "Amrakunj Sri Nagar",
+      "Garhwal",
+      "Pauri Garhwal",
+      "Uttarakhand",
+      "246174"
+    ]
+  }
+}

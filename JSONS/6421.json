@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "OMKAR SWAMI",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "8097809704"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6421",
+  "name": "KOSHISH- A DIVINE HAND FOUNDATION",
+  "primaryEmail": "bewithkoshish@gmail.com",
+  "website": "www.koshishfoundationindia.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918097809704"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "PUSHP BUNGLOWS,House NO. 6",
+      "Near police chowki",
+      "Vichumbe,Panvel",
+      "Raigad",
+      "Maharashtra",
+      "410206"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "contacts": [
+    {
+      "name": "Subhashini Potluri",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6073",
+  "name": "Rural Development Foundation",
+  "primaryEmail": "development@rdfindia.org",
+  "website": "www.rdfindia.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "914042627502",
+    "914042627502"
+  ],
+  "mainAddrress": {
+    "state": "Telangana",
+    "address": [
+      "H. No 6-2-962/1,",
+      "Khairatabad,",
+      "Hyderabad",
+      "Telangana",
+      "500004"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Telangana",
+    "address": [
+      "H. No 6-2-962/1,",
+      "Khairatabad,",
+      "Hyderabad",
+      "Telangana",
+      "500004"
+    ]
+  }
+}

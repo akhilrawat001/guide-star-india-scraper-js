@@ -1,0 +1,43 @@
+{
+  "contacts": [
+    {
+      "name": "Dr. Mamatha Raghuveer",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5216",
+  "name": "TARUNI",
+  "primaryEmail": "mamatha@tharuni.org",
+  "website": "www.tharuni.org",
+  "organisationType": [
+    "Direct Service",
+    "Intermediary",
+    "Support"
+  ],
+  "telephone": [
+    "914024072038",
+    "914024072038"
+  ],
+  "mainAddrress": {
+    "state": "Telangana",
+    "address": [
+      "No 27, Nagarjuna Colony, Vyshalinagar Post,",
+      "Nagarjuna Sagar Road, Champapet,",
+      "Hyderabad",
+      "Telangana",
+      "500079"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Telangana",
+    "address": [
+      "No 27, Nagarjuna Colony, Vyshalinagar Post,",
+      "Nagarjuna Sagar Road, Champapet,",
+      "Hyderabad",
+      "Telangana",
+      "500079"
+    ]
+  }
+}

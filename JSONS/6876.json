@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Mrs.Uma Dutta",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6876",
+  "name": "SOCIAL ORGANIZATION FOR COMMUNITY HELP",
+  "primaryEmail": "soch2004@gmail.com",
+  "website": "hptt://www.sochorganization.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Intermediary"
+  ],
+  "telephone": [
+    "919891941675"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "SOCH-170, DUTTA FARM,",
+      "METRO PILLAR NO.29, M.G.ROAD",
+      "SULTANPUR",
+      "South Delhi",
+      "Delhi",
+      "110030"
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "ANJANEY REDDY",
+      "email": "rsctrust@gmail.com",
+      "designation": "Executive Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5751",
+  "name": "Resource Service Centre Trust",
+  "primaryEmail": "rsctrust@gmail.com",
+  "telephone": [
+    "918154255941",
+    "918154255941"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "2ND MAIN, NEAR KALIKAMBA TEMPLE,",
+      "N.R.EXTENSIONCHINTAMANI",
+      "Chikballapur",
+      "Chikkaballapura",
+      "Karnataka",
+      "563125"
+    ]
+  }
+}

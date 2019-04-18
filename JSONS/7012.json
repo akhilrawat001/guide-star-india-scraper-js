@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Ms.Sabrina Cooper",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7012",
+  "name": "Child World Foundation",
+  "primaryEmail": "contact@childworldfoundation.com",
+  "website": "www.childworldfoundation.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919860811851"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "1st Floor, No. 13, Best View Building",
+      "Raghavji Road, Cumballa Hill",
+      "Mumbai",
+      "Maharashtra",
+      "400036"
+    ]
+  }
+}

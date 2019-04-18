@@ -1,0 +1,38 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1082",
+  "name": "Nirvana Foundation",
+  "primaryEmail": "secretary@nirvanafoundation.in",
+  "website": "http://www.nirvanafoundation.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919717393604",
+    "919811046079"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "264",
+      "BHEL Society  Vinayak Appartments  Sector-62",
+      "Noida",
+      "Ghaziabad",
+      "Uttar Pradesh",
+      "201301"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "F.No. D-25, P.No.14, Sector 15,",
+      "Tulsi Apartments, Rohini",
+      "New Delhi",
+      "Delhi",
+      "110085",
+      "AP_BankStat_1008.PDF"
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4905",
+  "name": "SOCIETY FOR EDUCATION AND ECONOMIC DEVELOPMENT",
+  "primaryEmail": "seed92.ngo@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "914175252263",
+    "914175252263"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "Melpadur village",
+      "Melpadur post",
+      "Chengam Taluk",
+      "Tiruvannamalai",
+      "Tamil Nadu",
+      "606702"
+    ]
+  },
+  "briefDescription": "SOCIETY FOR EDUCATION AND ECONOMIC DEVELOPMENT IS LOCATED AT THIRUVANNAMALAI, TAMIL NADU.",
+  "regiseredAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "MELPADUR VILLAGE",
+      "MELPADUR POST",
+      "CHEGAM TALUK",
+      "Tiruvannamalai",
+      "Tamil Nadu",
+      "606702"
+    ]
+  }
+}

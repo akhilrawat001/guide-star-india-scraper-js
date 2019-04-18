@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Surjan Bishnoi",
+      "email": "",
+      "designation": "Chairman",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1957",
+  "name": "Nav Yuva Nirman Vikas Sansthan",
+  "primaryEmail": "nynvsansthan@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Grant-making",
+    "Intermediary",
+    "Network"
+  ],
+  "telephone": [
+    "919460277608"
+  ],
+  "mainAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "Village Post - Ranasar Kalla",
+      "Vai- Dhorimana",
+      "Barmer",
+      "Rajasthan",
+      "344704"
+    ]
+  }
+}

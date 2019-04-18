@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Vikash Kumar",
+      "email": "satyamsri2009@gmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3397",
+  "name": "SATYAM SRI",
+  "primaryEmail": "satyamsri2009@gmail.com",
+  "website": "www.satyamsri.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919304143814"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "Satyam Sri,Mo-New Atwarpur,Po-kurthoul,Dist-patna,pin-804453",
+      "Near-Ram Janki Temple form east",
+      "patna",
+      "Patna",
+      "Bihar",
+      "804453"
+    ]
+  },
+  "briefDescription": "Satyam Sri",
+  "yearOfEstablishment": "2003"
+}

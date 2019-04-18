@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Vittal Hayyal",
+      "email": "shrividyacomputers@gmail.com",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6901",
+  "name": "SHRI VIDYA WELFARE AND RURAL DEVELOPMENT EDUCATION TRUST",
+  "primaryEmail": "shrividyacomputers@gmail.com",
+  "website": "shrividyacomputers.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918531260190",
+    "918531260190"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "6-3-6, Gandhi Chowk",
+      "Main Road",
+      "Devadurga",
+      "Raichur",
+      "Karnataka",
+      "584111"
+    ]
+  }
+}

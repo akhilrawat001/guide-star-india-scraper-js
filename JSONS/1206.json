@@ -1,0 +1,52 @@
+{
+  "contacts": [
+    {
+      "name": "Smriti Rekha Das",
+      "email": "smriti@fstindia.org",
+      "designation": "Finance & Admn Manager",
+      "mobile": [
+        "91-361-2733696"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1206",
+  "name": "The Foundation For Social Transformation Enabling North East India",
+  "primaryEmail": "fstnortheast@gmail.com",
+  "website": "http://www.fstindia.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Grant-making",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "913612733696",
+    "919435553373",
+    "917086019753"
+  ],
+  "mainAddrress": {
+    "state": "Assam",
+    "address": [
+      "H.No. 1, J.N.Borooah Lane",
+      "Jorpukhri",
+      "Guwahati",
+      "Kamrup Metropolitan",
+      "Assam",
+      "781001"
+    ]
+  },
+  "briefDescription": "FST is an indigenous philanthropic organisation, conceived, led and managed by people from the region, to support forward looking initiatives in NE India.",
+  "yearOfEstablishment": "2005",
+  "regiseredAddrress": {
+    "state": "Assam",
+    "address": [
+      "A-2, Seuji Apartment,",
+      "Chandmari",
+      "Guwahati",
+      "Kamrup",
+      "Assam",
+      "781003"
+    ]
+  }
+}

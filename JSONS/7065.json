@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Vinay Choudhary",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "8275045097"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7065",
+  "name": "UNDER PRIVILEGED ADVANCEMENT BY YOUTH SOCIETY BHANDARA",
+  "primaryEmail": "info@upay.org.in",
+  "website": "http://www.upay.org.in",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "918275045097"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "571, Hiwari Layout",
+      "Wardhman Nagar",
+      "Nagpur",
+      "Maharashtra",
+      "440008"
+    ]
+  }
+}

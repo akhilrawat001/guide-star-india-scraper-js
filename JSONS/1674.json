@@ -1,0 +1,38 @@
+{
+  "contacts": [
+    {
+      "name": "SUSHIL KUMAR MISHRA",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "8009222300"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1674",
+  "name": "SAMAGRA JANKALYAN SAMITI",
+  "primaryEmail": "ngosjks@gmail.com",
+  "website": "www.facebook.com/ngosjks",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "918009222300"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "JAWAHAR NAGAR, ENGLISHIA LINE, CANTT,VARANSI",
+      "MISHRAINPATTI , BALWARGANJ ,JAUNPUR",
+      "VARANASI",
+      "Varanasi",
+      "Uttar Pradesh",
+      "221002"
+    ]
+  }
+}

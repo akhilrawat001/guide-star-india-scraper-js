@@ -1,0 +1,27 @@
+{
+  "contacts": [
+    {
+      "name": "U.Prudvi Raj",
+      "email": "",
+      "designation": "Secretary-Cum-Correspondent",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1765",
+  "name": "Priyadarsini Educational And Rural Development Society",
+  "primaryEmail": "Kadapa@yahoo.com",
+  "telephone": [
+    "919704520519"
+  ],
+  "mainAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "1/565",
+      "Ashok Nagar, Chinnachowk",
+      "Chinnachowk",
+      "YSR District, Kadapa (Cuddapah)",
+      "Andhra Pradesh",
+      "516001"
+    ]
+  }
+}

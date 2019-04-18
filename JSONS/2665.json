@@ -1,0 +1,41 @@
+{
+  "contacts": [
+    {
+      "name": "Arun Prakash A.",
+      "email": "trustmety@gmail.com",
+      "designation": "Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2665",
+  "name": "TRUSTME - Training and Rehabilitation for the Underprivileged Society Through Mutual Enlightenment",
+  "primaryEmail": "trustmety@gmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Intermediary"
+  ],
+  "telephone": [
+    "919789452009"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "No.7/2, Second Floor",
+      "Om Sakthi Complex",
+      "Tiruchirappalli",
+      "Tamil Nadu",
+      "620002"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "No.:1309,",
+      "Amirtha Nagar",
+      "Tiruchirappalli",
+      "Tamil Nadu",
+      "620002"
+    ]
+  }
+}

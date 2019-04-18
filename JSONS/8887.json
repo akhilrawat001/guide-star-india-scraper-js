@@ -1,0 +1,50 @@
+{
+  "contacts": [
+    {
+      "name": "SHASHI BALA",
+      "email": "SBALA@STIREDUCATION.ORG",
+      "designation": "ASSOCIATE HEAD FINANCE",
+      "mobile": []
+    },
+    {
+      "name": "SHASHI BALA",
+      "email": "SBALA@STIREDUCATION.ORG",
+      "designation": "ASSOCIATE HEAD FINANCE",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8887",
+  "name": "Schools and Teachers Innovating for Results (India)",
+  "primaryEmail": "asrivastava@stireducation.org",
+  "website": "http://www.stireducation.org",
+  "organisationType": [
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "911142721100"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "S-333, Ground Floor, Panchsheel Park",
+      "Panchsheel Park",
+      "Delhi",
+      "South Delhi",
+      "110017"
+    ]
+  },
+  "briefDescription": "We are building a movement of motivated, professional teachers who are committed to improving children's learning and to restoring the noble status of their profession. 25,000 teachers have joined our movement, teaching and impacting over 1 million children in India and Uganda.",
+  "yearOfEstablishment": "2012",
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "140 Nariman Apartments",
+      "Mayur Vihar Phase - I Extn.",
+      "Delhi",
+      "New Delhi",
+      "110091"
+    ]
+  }
+}

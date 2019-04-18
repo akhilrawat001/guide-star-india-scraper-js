@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "dr.BHARAT JAGNNATH GAIKWAD",
+      "email": "drbharatgaikwad@yahoo.co.in",
+      "designation": "Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5761",
+  "name": "THE BARSHI TALUKA HARIJAN SEVAK SANGH",
+  "primaryEmail": "drbharatgaikwad@yahoo.co.in",
+  "telephone": [
+    "912184227409",
+    "919420354246"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Gandhi chhataralaya,3880,",
+      "solapur road,Barshi",
+      "SOLAPUR",
+      "Solapur",
+      "Maharashtra",
+      "413401"
+    ]
+  }
+}

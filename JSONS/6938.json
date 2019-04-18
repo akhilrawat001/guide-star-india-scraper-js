@@ -1,0 +1,58 @@
+{
+  "contacts": [
+    {
+      "name": "Mr. Hemant Sharma",
+      "email": "hemant.a.sharma@esakal.com",
+      "designation": "Deputy Chief Manager",
+      "mobile": [
+        "91-22-66843740"
+      ]
+    },
+    {
+      "name": "Mr. Hemant Sharma",
+      "email": "hemant.a.sharma@esakal.com",
+      "designation": "Deputy Chief Manager",
+      "mobile": [
+        "91-22-66843740"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6938",
+  "name": "Sakal Social Foundation",
+  "primaryEmail": "contactus@sakalsocialfoundation.org",
+  "website": "http://www.sakalsocialfoundation.org/",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "912024405500",
+    "912024405500"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Sakal Bhavan, 2nd Floor, Plot No. 42-B,",
+      "Sector-11, C.B.D. Belapur,",
+      "Navi Mumbai.",
+      "Mumbai",
+      "Maharashtra",
+      "400614"
+    ]
+  },
+  "briefDescription": "Sakal Social Foundation was founded on the platform of being ‘a mediumof social change’, the contribution and championing of social causeshas become ingrained into the ethos of the Sakal Media Group, and hasbecome central to the identity of the group itself. While the seeds ofthis spirit were planted by the founder of Sakal, Dr. N. B. Parulekar,it has been nurtured by the Chairman Pratap Pawar and ManagingDirector Abhijit Pawar.",
+  "yearOfEstablishment": "2010",
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "595,",
+      "Budhwar Peth,",
+      "Pune",
+      "Maharashtra",
+      "411002"
+    ]
+  }
+}

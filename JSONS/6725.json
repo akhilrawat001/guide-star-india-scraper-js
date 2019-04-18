@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Dr. Bhanu Pratap Singh",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6725",
+  "name": "Shri Siyaram Sewa Sansthan",
+  "primaryEmail": "drbpsingh1@hotmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "917712445620",
+    "917712445620"
+  ],
+  "mainAddrress": {
+    "state": "Chhattisgarh",
+    "address": [
+      "Dr. Bhanu Pratap Street",
+      "Durga Mandir Road, Katora Talab",
+      "Raipur",
+      "Chhattisgarh",
+      "492001"
+    ]
+  }
+}

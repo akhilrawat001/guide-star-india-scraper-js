@@ -1,0 +1,46 @@
+{
+  "contacts": [
+    {
+      "name": "Bhageerathy Ramamoorthy",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6113",
+  "name": "Anandam",
+  "primaryEmail": "anandamtrust@yahoo.co.in",
+  "website": "www.anandamoldagehome.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service"
+  ],
+  "telephone": [
+    "919841819889",
+    "919176583468"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "Anna Street,",
+      "Gangai Nagar,",
+      "Kallikuppam, Ambattur,",
+      "Chennai",
+      "Tamil Nadu",
+      "600053"
+    ]
+  },
+  "briefDescription": "Anandam was created to afford a helping hand to senior citizens. Anandam provides accommodation for these seniors with comforts like cots, mattresses, fans, solar water heaters, refrigerators, colour television, wet grinder and much more. All these item were donated by good Samaritans who believe in our cause.Vicissitudes of life have contributed to the misery of elders with no one to depend on, no means of income, no emotional security making them destitute with a big question mark over their head about how to carry on with their lives and their only asset is their will to survive.Care and affection also is a large part of Anandam’s philosophy.",
+  "yearOfEstablishment": "1995",
+  "regiseredAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "No. 2, (Old No.8)",
+      "Sarangapani Street,",
+      "Krishnapuram, Ambattur,",
+      "Chennai",
+      "Tamil Nadu",
+      "600053"
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "contacts": [
+    {
+      "name": "Panda Manoj R",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "9945906721"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5692",
+  "name": "Kalkeri Sangeet Vidyalaya",
+  "primaryEmail": "manoj@ksv.org.in",
+  "website": "www.ksv.org.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919945906721"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "Kalkeri Sangeet Vidyalaya,  Kalkeri Village,",
+      "Dharwad District,          Karnataka 580007,",
+      "Dharwad",
+      "Karnataka",
+      "580007"
+    ]
+  },
+  "briefDescription": "The Kalkeri Sangeet Vidyalaya (KSV) provides education in academics and the performing arts to children from socially and economically disadvantaged backgrounds. In addition, food, accommodation and health care are also provided, and everything is free. There are no fees at all.",
+  "yearOfEstablishment": "2005"
+}

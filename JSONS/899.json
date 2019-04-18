@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Venkatasubramanian",
+      "email": "aaiwwa_arcot@yahoo.com",
+      "designation": "Project Officer",
+      "mobile": [
+        "91-4172-233889"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=899",
+  "name": "Arcot Annai Indira Women'S Welfare Association",
+  "primaryEmail": "aaiwwa_arcot@yahoo.com",
+  "website": "http://arcotannaiindiraango.com",
+  "telephone": [
+    "912224175858",
+    "914172233889",
+    "919047432362"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "222/34 D, Vellore Main Road",
+      "Opp to Govt Girls High School",
+      "ARCOT",
+      "Vellore",
+      "Tamil Nadu",
+      "632503"
+    ]
+  }
+}

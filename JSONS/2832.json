@@ -1,0 +1,34 @@
+{
+  "contacts": [
+    {
+      "name": "S.K KENDRE",
+      "email": "n.v.gutte@gmail.com",
+      "designation": "PRESIDENT",
+      "mobile": []
+    },
+    {
+      "name": "S.K KENDRE",
+      "email": "n.v.gutte@gmail.com",
+      "designation": "PRESIDENT",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2832",
+  "name": "Jyotiba Phule Sewa Trust",
+  "primaryEmail": "jpst875@gmail.com",
+  "telephone": [
+    "912462237778",
+    "919527799264"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "7, LAXMINARAYAN APARTMENT",
+      "VADIA FACTORY AREA",
+      "SHIVAJI NAGAR",
+      "Nanded",
+      "Maharashtra",
+      "431602"
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "Dipak chakraborty",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6636",
+  "name": "CHANCHAL JANA KALYAN SAMITY",
+  "primaryEmail": "cjks.2006@rediffmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919434355550"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "College Road,",
+      "Malda",
+      "West Bengal",
+      "732123"
+    ]
+  }
+}

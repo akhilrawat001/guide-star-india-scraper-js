@@ -1,0 +1,33 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1071",
+  "name": "Vraksha Prem Seva Trust",
+  "primaryEmail": "info@vrukshaprem.org",
+  "website": "www.vrukshaprem.org",
+  "telephone": [
+    "912826220130",
+    "919426269924"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "102  Krishna Palace",
+      "Ganga Jalia Park  Timbawadi",
+      "Timbawadi",
+      "Junagadh",
+      "Gujarat",
+      "362015"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "Fullara Mill Godown, Furniture Galli,",
+      "Raj Marg",
+      "Upleta",
+      "Rajkot",
+      "Gujarat",
+      "360490"
+    ]
+  }
+}

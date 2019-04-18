@@ -1,0 +1,35 @@
+{
+  "contacts": [
+    {
+      "name": "Srinivas",
+      "email": "",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4317",
+  "name": "jagruthi foundation",
+  "primaryEmail": "jagruthifoundationindia@gmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "918686733199"
+  ],
+  "mainAddrress": {
+    "state": "Telangana",
+    "address": [
+      "12-7-133/102/5/G, Sai Teja Enclave,",
+      "sri hari nagar,moosapet",
+      "HYDERABAD",
+      "Hyderabad",
+      "Telangana",
+      "500018",
+      "bank ing.doc"
+    ]
+  }
+}

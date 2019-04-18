@@ -1,0 +1,35 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8363",
+  "name": "CDRT (Centre for Development Research and Training)",
+  "primaryEmail": "cdrtkoraput@gmail.com",
+  "website": "www.cdrtkoraput.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919437182086"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "Mig-Ii-23 & 24",
+      "Dnk Housing Board Colony Dhh Road",
+      "Koraput",
+      "Odisha",
+      "764020"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Odisha",
+    "address": [
+      "MIG-23",
+      "Dnk Housing Board Colony",
+      "Koraput",
+      "Odisha",
+      "764020"
+    ]
+  }
+}

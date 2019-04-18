@@ -1,0 +1,35 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3002",
+  "name": "Indranarayanpur Nazrul Smriti Sangha",
+  "primaryEmail": "inssindia@gmail.com",
+  "website": "www.inssindia.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919830185170"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "50 Aurobinda Nagar,Naktala Road,Kolkata",
+      "25 Brahmapur,Nathpara,Kolkara",
+      "Kolkata",
+      "South 24 Parganas",
+      "West Bengal",
+      "700047"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "50 Aurobinda Nagar,Naktala Road,",
+      "25 Brahmapur,Nathpara,",
+      "Kolkata",
+      "South 24 Parganas",
+      "West Bengal",
+      "700047"
+    ]
+  }
+}

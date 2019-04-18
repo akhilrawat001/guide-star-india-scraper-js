@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Mr. Bhola Prasad Yadev",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6170",
+  "name": "Veer Jharkhand Vikas Seva Manch",
+  "primaryEmail": "vjvsm2002@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919939709415"
+  ],
+  "mainAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "Gram Lochanpur",
+      "Post: Palasthana",
+      "Dist: Koderma",
+      "Koderma",
+      "Jharkhand",
+      "825410"
+    ]
+  }
+}

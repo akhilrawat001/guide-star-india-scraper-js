@@ -1,0 +1,27 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1487",
+  "name": "Society for Community Action Network ( SCAN)",
+  "primaryEmail": "scanknl_service@yahoo.co.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "918518270601",
+    "919966370168"
+  ],
+  "mainAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "87/627",
+      "Gaffoor Nagar,",
+      "Kurnool",
+      "Andhra Pradesh",
+      "518002"
+    ]
+  }
+}

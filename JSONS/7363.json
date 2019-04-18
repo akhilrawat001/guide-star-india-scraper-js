@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Baranda Shaileshkumar Narsinh",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7363",
+  "name": "SHRIJI BAPA TRUST",
+  "primaryEmail": "mahesh_patel525@yahoo.in",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "9979131733"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "Malpur Road Meghraj Di-Aravlli",
+      "Meghraj",
+      "Sabarkantha",
+      "Gujarat",
+      "383350"
+    ]
+  }
+}

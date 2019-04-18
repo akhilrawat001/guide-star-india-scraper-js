@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "MR.GOLAP KALITA",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7331",
+  "name": "UTTAR BETNA SAMAJ SANGSKARAK BAHINI",
+  "primaryEmail": "ubss1987@gmail.com",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "919859086738"
+  ],
+  "mainAddrress": {
+    "state": "Assam",
+    "address": [
+      "VILL & P.O.MAHARIPARA",
+      "P.S-GARESWAR",
+      "GARESWAR",
+      "Baksa",
+      "Assam",
+      "781364"
+    ]
+  }
+}

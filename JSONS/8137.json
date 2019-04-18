@@ -1,0 +1,49 @@
+{
+  "contacts": [
+    {
+      "name": "Kavita Dive",
+      "email": "kavita.dive@gmail.com",
+      "designation": "Manager",
+      "mobile": [
+        "91-7817-222254"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8137",
+  "name": "KALP SAMAJSEVI SANSTHA",
+  "primaryEmail": "Sansthakalp@gmail.com",
+  "website": "http://www.kalpindia.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919770160847"
+  ],
+  "mainAddrress": {
+    "state": "Chhattisgarh",
+    "address": [
+      "Link Road",
+      "Opposite Metro Cinema",
+      "Janjgir",
+      "Janjgir-Champa",
+      "Chhattisgarh",
+      "495668"
+    ]
+  },
+  "briefDescription": "Kalp Samaj Sevi Sanstha is a non-government organization based in Chhattisgarh, India. Since its inception, Kalp has been working with the marginalized sections of the society, particularly, the scheduled castes, scheduled tribes and women. It strives for the overall development of people through interventions in education, health, livelihood and environment sectors.",
+  "yearOfEstablishment": "1997",
+  "regiseredAddrress": {
+    "state": "Chhattisgarh",
+    "address": [
+      "Sukul Para",
+      "Kharod",
+      "Janjgir-Champa",
+      "Chhattisgarh",
+      "495556"
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Mrs. S. Latha",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6848",
+  "name": "VOC RURAL DEVELOPMENT CENTRE",
+  "primaryEmail": "vocrdc@yahoo.com",
+  "website": "www.vocrdc.org",
+  "organisationType": [
+    "Direct Service",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "914543254564",
+    "914543254564"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "M. P. Nagar, Vadipatty",
+      "Madurai",
+      "Tamil Nadu",
+      "625218"
+    ]
+  }
+}

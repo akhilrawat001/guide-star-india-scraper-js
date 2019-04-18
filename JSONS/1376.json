@@ -1,0 +1,41 @@
+{
+  "contacts": [
+    {
+      "name": "Kumud C Poinkar",
+      "email": "global_crp@rediffmail.com",
+      "designation": "Project Incharge",
+      "mobile": [
+        "91-9850320768"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1376",
+  "name": "Gramin Manav Sansadhan Va Yuva Vikas Sanstha",
+  "primaryEmail": "global_crp@rediffmail.com",
+  "website": "www.graminngo.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "917175266987",
+    "919850320768"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Tribhavan' Amne Building",
+      "Santaji Nagar, Main Road,",
+      "Bhadrawati",
+      "Chandrapur",
+      "Maharashtra",
+      "442902"
+    ]
+  },
+  "briefDescription": "Our organisation works for Educational Awarness program for unorganised workers in rural area simultaneously we are working for deprived youths and giving them Vocational Training at our VTC. Participating in environmental programs as well as forming SHG's.",
+  "yearOfEstablishment": "1997"
+}

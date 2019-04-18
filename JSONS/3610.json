@@ -1,0 +1,38 @@
+{
+  "contacts": [
+    {
+      "name": "Meetu Desai",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "23635555",
+        "9742176894"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3610",
+  "name": "Ashoka Trust for Research in Ecology and the Environment (ATREE)",
+  "primaryEmail": "director@atree.org",
+  "website": "http://www.atree.org",
+  "organisationType": [
+    "Grant-making",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "918023635555",
+    "918023635555"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "Royal Enclave, Srirampura",
+      "Jakkur Post",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560064"
+    ]
+  }
+}

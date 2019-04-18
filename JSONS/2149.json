@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Lakshmi Ramakrishnan",
+      "email": "kalanjiyam@gmail.com",
+      "designation": "Managing Trustee",
+      "mobile": [
+        "91-9444028070"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2149",
+  "name": "KALANJIYAM TRUST",
+  "primaryEmail": "kalanjiyam@gmail.com",
+  "website": "www.kalanjiyam.org",
+  "telephone": [
+    "914443042414"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "No 11 Avatar Apartments 27 Balakrishnan Road,",
+      "Valmikinagar Thiruvanmiyur,",
+      "Chennai",
+      "Tamil Nadu",
+      "600041"
+    ]
+  },
+  "briefDescription": "Kalanjiyam serves rural and urban communities in Tamil Nadu, focusing on strengthening education, health and skill development of young people.  Our efforts reach 30,000+ population including school students, women, youth and families in Kancheepuram and Virudhunagar districts in Tamil Nadu.",
+  "yearOfEstablishment": "2006"
+}

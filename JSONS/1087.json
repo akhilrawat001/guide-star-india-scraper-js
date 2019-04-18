@@ -1,0 +1,49 @@
+{
+  "contacts": [
+    {
+      "name": "Sangita Sharma",
+      "email": "info@parivartnam.org",
+      "designation": "Co-ordinator",
+      "mobile": [
+        "91-11-25086952"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1087",
+  "name": "Parivartnam Seva Samiti",
+  "primaryEmail": "parivartnam@gmail.com",
+  "website": "www.parivartnam.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "911125086952",
+    "919891997991"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "B-287  Palam Extension Part -1",
+      "Sector-7  Dwarka",
+      "New Delhi",
+      "South West Delhi",
+      "Delhi",
+      "110077"
+    ]
+  },
+  "briefDescription": "kindly visit www.parivartnam.org",
+  "yearOfEstablishment": "2009",
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "J-50, Pocket-2, Sector-7",
+      "Dwarka",
+      "New Delhi",
+      "Delhi",
+      "110077",
+      "AP_TelBill_1013.PDF"
+    ]
+  }
+}

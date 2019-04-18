@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "Bhanu Suresh Babu",
+      "email": "",
+      "designation": "Project Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=986",
+  "name": "CONCERN",
+  "primaryEmail": "concernrehab@gmail.com",
+  "telephone": [
+    "914424682493",
+    "914424862910",
+    "919840800816"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "120, Sridevi Kuppam Road",
+      "Radha Avenue, Valsaravakam",
+      "Chennai",
+      "Tamil Nadu",
+      "600087"
+    ]
+  }
+}

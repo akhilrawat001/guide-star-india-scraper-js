@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Subhas Rao Saheb Pokharkar",
+      "email": "prabodhiniorg@gmail.com",
+      "designation": "Vice-President",
+      "mobile": []
+    },
+    {
+      "name": "Subhas Rao Saheb Pokharkar",
+      "email": "prabodhiniorg@gmail.com",
+      "designation": "Vice-President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2845",
+  "name": "Prabodhini",
+  "primaryEmail": "prabodhini@gmail.com",
+  "telephone": [
+    "919420801133"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Takali Dhokeshwar",
+      "Tal.Parner",
+      "Ahmednagar",
+      "Maharashtra",
+      "414304"
+    ]
+  }
+}

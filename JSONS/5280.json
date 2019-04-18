@@ -1,0 +1,35 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5280",
+  "name": "Grameenmall Foundation",
+  "primaryEmail": "sitaram@grameenmall.in",
+  "organisationType": [
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "914065159555"
+  ],
+  "mainAddrress": {
+    "state": "Telangana",
+    "address": [
+      "plot no.108,3rd floor,kakaguda,jyothi colony,west maredpally,Secunderabad",
+      "Secunderabad",
+      "Hyderabad",
+      "Telangana",
+      "500015"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Telangana",
+    "address": [
+      "Plot no.108,",
+      "3rd Floor,Kakaguda,Jyothi Colony",
+      "West Maredpally,",
+      "Hyderabad",
+      "Telangana",
+      "500015"
+    ]
+  }
+}

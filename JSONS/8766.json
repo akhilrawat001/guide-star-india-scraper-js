@@ -1,0 +1,35 @@
+{
+  "contacts": [
+    {
+      "name": "Alim Habibsab Shaikh",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8766",
+  "name": "PRATHAM AADHAR FOUNDATION LATUR",
+  "primaryEmail": "prathamadhar777@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "917028489442",
+    "917028190822",
+    "919923990001",
+    "917028489447"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "H. B. Shaikh, Behind Opera Function Garden,",
+      "D Block Amir Ali Road, Khori Galli,",
+      "Latur",
+      "Maharashtra",
+      "413512"
+    ]
+  },
+  "briefDescription": "Pratham Aadhar Foundation is Located in Latur, Maharashtra.",
+  "yearOfEstablishment": "2014"
+}

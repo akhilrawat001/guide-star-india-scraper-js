@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "PRABIR KOLEY",
+      "email": "pk21255@gmail.com",
+      "designation": "SECRATERY",
+      "mobile": [
+        "91-9830770530"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8550",
+  "name": "PANCHLA NABA JAGARAN WELFARE SOCIETY",
+  "primaryEmail": "ngo.pnws@gmail.com",
+  "website": "www.ngopnws.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919836254190"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Samanti - 2 , P.O- Banharishpur",
+      "Amta Road , Panchla Police Station",
+      "Samanti - 2",
+      "Howrah",
+      "West Bengal",
+      "711322"
+    ]
+  }
+}

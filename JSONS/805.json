@@ -1,0 +1,32 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=805",
+  "name": "Utkal Sevak Samaj",
+  "primaryEmail": "ussngo2014@gmail.com",
+  "organisationType": [
+    "Intermediary"
+  ],
+  "telephone": [
+    "916712444984",
+    "916712443821"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "191, Mahanadivihar",
+      "Nayabazar",
+      "Cuttack",
+      "Odisha",
+      "753004"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Odisha",
+    "address": [
+      "At/Po : Bhagatpur. Via: Kotasahi",
+      "Cuttack",
+      "Odisha",
+      "754022"
+    ]
+  }
+}

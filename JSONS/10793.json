@@ -1,0 +1,24 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10793",
+  "name": "Bangalore Baptist Hospital Society",
+  "primaryEmail": "normangift@gmail.com",
+  "website": "www.bbh.org.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919591761106"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "Bellary Road",
+      "Hebbal",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560024"
+    ]
+  }
+}

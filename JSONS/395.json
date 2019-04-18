@@ -1,0 +1,33 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=395",
+  "name": "Magadh Vikas Bharti",
+  "primaryEmail": "harendramvb@yahoo.com",
+  "organisationType": [
+    "Direct Service",
+    "Network"
+  ],
+  "telephone": [
+    "916326240123",
+    "916326240123"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "Sanyodhan Karyalaya, Village: Sobh",
+      "P.O. Bhadaya, Barachatti",
+      "Gaya",
+      "Bihar",
+      "824201"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Bihar",
+    "address": [
+      "AT & P.O. – Barachatti, Prakhnad – Barachtti",
+      "Gaya",
+      "Bihar",
+      "824201"
+    ]
+  }
+}

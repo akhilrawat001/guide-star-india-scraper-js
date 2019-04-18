@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Mr. P. Vinnarasimallika",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "9842506621"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7549",
+  "name": "DROPSS (Development for Rural Oppressed Peoples Service Society)",
+  "primaryEmail": "dropss_kkdi@rediffmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919842506621"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "23/1 Arulmalar Old Age Home",
+      "vinayagar street, Alagapapuram,",
+      "Karaikudi",
+      "Sivagangai",
+      "Tamil Nadu",
+      "630561"
+    ]
+  }
+}

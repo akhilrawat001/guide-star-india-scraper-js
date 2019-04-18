@@ -1,0 +1,37 @@
+{
+  "contacts": [
+    {
+      "name": "Vinita Nathani",
+      "email": "prerana.ngo@vsnl.com",
+      "designation": "Member Executive Board",
+      "mobile": [
+        "91-11-26941902"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1295",
+  "name": "Prerana",
+  "primaryEmail": "preranadelhi@gmail.com",
+  "website": "http://www.prerana.org",
+  "organisationType": [
+    "Direct Service",
+    "Intermediary",
+    "Support"
+  ],
+  "telephone": [
+    "911126941902",
+    "911126948876",
+    "911126941902"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "J- 332",
+      "Sarita Vihar,",
+      "New Delhi",
+      "South Delhi",
+      "Delhi",
+      "110076"
+    ]
+  }
+}

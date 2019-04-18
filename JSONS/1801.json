@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Brijesh B Dumasia",
+      "email": "",
+      "designation": "Secretary",
+      "mobile": [
+        "91-261-2409037"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1801",
+  "name": "Femi Foundation",
+  "primaryEmail": "femifoundation@yahoo.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "912612409037",
+    "919825564272"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "1/ R.K. Complex",
+      "Opp New Jalaram Mandir, Main Road, Amroli",
+      "Surat",
+      "Gujarat",
+      "394107"
+    ]
+  }
+}

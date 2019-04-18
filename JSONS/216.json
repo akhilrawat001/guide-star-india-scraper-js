@@ -1,0 +1,44 @@
+{
+  "contacts": [
+    {
+      "name": "Mamoon Akhtar",
+      "email": "mamoon@samaritanhelpmission.org",
+      "designation": "Secretary",
+      "mobile": [
+        "91-33-26381901",
+        "91-9836777600"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=216",
+  "name": "Samaritan Help Mission",
+  "primaryEmail": "mamoon@samaritanhelpmission.org",
+  "website": "www.samaritanhelpmission.org",
+  "telephone": [
+    "919836777600",
+    "913326374167",
+    "913326380234"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "127 Noor Mohammed Munshi Lane",
+      "Howrah",
+      "West Bengal",
+      "711101",
+      "ITR 17-18.PDF"
+    ]
+  },
+  "briefDescription": "Samaritan Help Mission (acronym SHM), a secular non-profit organization, is working in the slums of Tikiapara under Howrah MNC for last one decade against all the negative social aspects with the objective to build awareness and empower the underprivileged, especially children, girls and women, while generating employment opportunities through quality formal education, skill development trainings and proper healthcare services. SHM aims to provide long term solutions to improve the living standards within the underprivileged slums of Howrah city which includes education and healthcare, and skills necessary to transform them into responsible citizens. The approaches are centered on building in healthy and self-sufficient communities.",
+  "yearOfEstablishment": "2001",
+  "regiseredAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "127, Noor Md Munshi Lane",
+      "Howrah",
+      "West Bengal",
+      "711101",
+      "SHM ITR 2016-17.PDF"
+    ]
+  }
+}

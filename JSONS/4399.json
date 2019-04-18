@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Rasila Patel",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4399",
+  "name": "SHRI AVANI FOUNDATION, MEHSANA",
+  "primaryEmail": "shreeavanifoundation@gmail.com",
+  "website": "under consruction",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919924737905"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "Pragna Dyechem Pvt. Ltd.,Plot No.1210",
+      "B-H Post Office, G.I.D.C. Ankleshwar",
+      "Ankleshwar",
+      "Bharuch",
+      "Gujarat",
+      "393002"
+    ]
+  }
+}

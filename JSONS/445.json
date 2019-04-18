@@ -1,0 +1,34 @@
+{
+  "contacts": [
+    {
+      "name": "Shesadev Bhoi",
+      "email": "sponsorshipsbt@rediffmail.com",
+      "designation": "Sponsorship coordinator",
+      "mobile": [
+        "91-11-23589305"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=445",
+  "name": "SALAAM BAALAK TRUST- Delhi",
+  "primaryEmail": "salaambt@bol.net.in",
+  "website": "http://www.salaambaalaktrust.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "911123589305",
+    "911123584164",
+    "911123589305"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "Salaam Baalak Trust, 2nd Floor",
+      "DDA Community Centre, Chandiwali Gali, Paharganj",
+      "New Delhi",
+      "Delhi",
+      "110055"
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "contacts": [
+    {
+      "name": "Jayesh Chaudhari",
+      "email": "jayesh674@gmail.com",
+      "designation": "Chairman",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8569",
+  "name": "Nanubhai Educational Foundation",
+  "primaryEmail": "apply@nanubhai.org",
+  "website": "http://www.nanubhai.org",
+  "organisationType": [
+    "Direct Service",
+    "Grant-making",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "912622224677"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "101, Sai Villa Residency,",
+      "Swami Bag, Shastri Road, Bardoli, Taluka Bardoli",
+      "Bardoli",
+      "Surat",
+      "Gujarat",
+      "394601"
+    ]
+  },
+  "briefDescription": "Founded in 2004, N.E.F. is a registered Indian-American international nonprofit organization working in the education sector and dedicated to positively impacting the lives of rural girl students in India. We currently sponsor girls' university scholarships in Dangs, Tapi and Surat districts in Gujarat and Dungarpur,Udaipur and Rajsamand in Rajasthan.",
+  "yearOfEstablishment": "2015",
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "C-6/8 Back Portion Vasant Vihar-1",
+      "South West Delhi",
+      "Delhi",
+      "110057"
+    ]
+  }
+}

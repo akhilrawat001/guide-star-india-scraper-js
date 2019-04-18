@@ -1,0 +1,42 @@
+{
+  "contacts": [
+    {
+      "name": "SHAMANTH.V",
+      "email": "shamanth.ngo@gmail.com",
+      "designation": "SECRETARY",
+      "mobile": [
+        "91-9059970132"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5797",
+  "name": "RURAL DEVELOPMENT SERVICE SOCIETY",
+  "primaryEmail": "shamanth.ngo@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919059970132"
+  ],
+  "mainAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "house no:hig-4",
+      "sangamesh nagar",
+      "anantapur",
+      "Anantapur",
+      "Andhra Pradesh",
+      "515001"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "not provided",
+      "anantapur",
+      "Anantapur",
+      "Andhra Pradesh",
+      "515001"
+    ]
+  }
+}

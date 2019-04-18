@@ -1,0 +1,37 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9095",
+  "name": "DHARA SANSTHAN",
+  "primaryEmail": "dharasansthan@gmail.com",
+  "website": "dharasansthan.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919414271028",
+    "919636153333",
+    "912982221556",
+    "912982223384"
+  ],
+  "mainAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "Dharasansthan, 245, Shrikrishnanagar",
+      "Near Vishwakarma Circle, Rai colony",
+      "Barmer",
+      "Rajasthan",
+      "344001"
+    ]
+  },
+  "briefDescription": "Dhara Sansthan's Intervention area is located in Barmer & Jaisalmer, Rajasthan as well as in Tharad & Viramgam, Gujrat.",
+  "yearOfEstablishment": "1989",
+  "regiseredAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "Rai Colony Near Income Tax Office Barmer",
+      "Barmer",
+      "Rajasthan",
+      "344001"
+    ]
+  }
+}

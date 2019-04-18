@@ -1,0 +1,44 @@
+{
+  "contacts": [
+    {
+      "name": "JAGTAR SINGH",
+      "email": "sukhwantsprojects@yahoo.com",
+      "designation": "GEN. SECRETARY",
+      "mobile": [
+        "91-183-2258690"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5890",
+  "name": "21st CENTURY HUMAN RESOURCES DEVELOPMENT SOCIETY. AMRITSAR",
+  "primaryEmail": "21stcenturyhrd@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Network"
+  ],
+  "telephone": [
+    "919878405634"
+  ],
+  "mainAddrress": {
+    "state": "Punjab",
+    "address": [
+      "96, SANDHU AVENUE. A- BLOCK. CHHEHARTA AMRITSAR 143 105",
+      "NEAR OCM MILLS",
+      "AMRITSAR",
+      "Amritsar",
+      "Punjab",
+      "143105"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Punjab",
+    "address": [
+      "96, SANDHU AVENUE. A- BLOCK. CHHEHARTA",
+      "NEAR OCM MILLS",
+      "AMRITSAR",
+      "Amritsar",
+      "Punjab",
+      "143105"
+    ]
+  }
+}

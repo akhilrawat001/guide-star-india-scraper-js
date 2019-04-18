@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "PRADEEP.S.V",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3560",
+  "name": "'SHARDA' [Self Help and Rural Development Agency]",
+  "primaryEmail": "SUNDASUNDARESH@YAHOO.COM",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919731814578"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "DASHARATHAPPA BUILDING ROOM NO.4 WARD NO.5 BANNI NAGAR SIRA,TUMKUR(D)KARNATAKA.",
+      "SIRA",
+      "Tumakuru (Tumkur)",
+      "Karnataka",
+      "572137"
+    ]
+  }
+}

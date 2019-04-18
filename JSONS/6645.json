@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "N.Balasubramaian",
+      "email": "certhindia@gmail.com",
+      "designation": "Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6645",
+  "name": "Centre for Education Rehabilitation and Treatment of the Handicapped, India",
+  "primaryEmail": "certhindia@gmail.com",
+  "website": "http://www.certhindia.com/",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "914132224986"
+  ],
+  "mainAddrress": {
+    "state": "Puducherry",
+    "address": [
+      "#181, GINGEE SALAI, DUBRYAPET,",
+      "PONDICHERRY",
+      "Puducherry",
+      "605001"
+    ]
+  }
+}

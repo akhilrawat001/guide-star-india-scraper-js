@@ -1,0 +1,40 @@
+{
+  "contacts": [
+    {
+      "name": "L.Shankar",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "26501088",
+        "9500171877"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4987",
+  "name": "SAFE INDIA",
+  "primaryEmail": "safeindiachennai@gmail.com",
+  "website": "www.safeindia.me",
+  "organisationType": [
+    "Direct Service",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "914426501088",
+    "914426501088"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "No.21,",
+      "Annai Therasa Nagar, Near Donbosco Mat. Hr. Sec School",
+      "Villivakkam",
+      "Chennai",
+      "Tamil Nadu",
+      "600049"
+    ]
+  },
+  "briefDescription": "Safe India, running an orphanage for children those who below 18 years, doing community service for Gypsy development, conducting tuition centers for poor urban children, promoting and encouraging SHGs at various districts. Safe India Served 560(approximately)",
+  "yearOfEstablishment": "1994"
+}

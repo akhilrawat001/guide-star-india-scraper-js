@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Ayu.Rupesh E.Hate",
+      "email": "sbsvs1988@yahoo.com",
+      "designation": "Vice President",
+      "mobile": [
+        "91-9987122136"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8677",
+  "name": "BOUDHA VIKAS MANDAL",
+  "primaryEmail": "bvmk1988@yahoo.com",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "919987122136"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Nalanda Buddha vihar,",
+      "Infront of New Kalwa High School",
+      "Kalwa [West]",
+      "Thane",
+      "Maharashtra",
+      "400605"
+    ]
+  }
+}

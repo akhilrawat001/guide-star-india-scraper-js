@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Hansraj Saharan",
+      "email": "",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10710",
+  "name": "Vardhman Vidhya Mandir Samiti",
+  "primaryEmail": "Ummeedbikaner@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Grant-making",
+    "Support"
+  ],
+  "telephone": [
+    "918441039511"
+  ],
+  "mainAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "1823, Hanuman Mandir Ke Pass",
+      "Bikaner",
+      "Rajasthan",
+      "334004"
+    ]
+  }
+}

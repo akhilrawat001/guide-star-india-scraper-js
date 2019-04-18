@@ -1,0 +1,37 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1382",
+  "name": "Aashwasan Foundation",
+  "primaryEmail": "info@aashwasan.com",
+  "website": "www.aashwasan.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918025450895",
+    "918025450895"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "405 3 A Cross  HRBR Layout II Block  Bangalore",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560043"
+    ]
+  },
+  "briefDescription": "Aashwasan Foundation is a Registered Charitable Trust that offers Aashwasan ScienceTM as path breaking diagnostic and treatment services to address physiological, psychological, psychosomatic and spiritual issues to bring about complete well-being in an individual. Aashwasan ScienceTM is not only able to identify root cause analysis of the issues and problems. but it is able to bring about a transformatory solution. It is also able help individuals explore, experience and express their maximum potential to live a beautiful life.",
+  "yearOfEstablishment": "2006",
+  "regiseredAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "12",
+      "5th main, Grape Garden, Kammanahalli",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560084"
+    ]
+  }
+}

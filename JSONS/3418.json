@@ -1,0 +1,37 @@
+{
+  "contacts": [
+    {
+      "name": "Amruta Gore",
+      "email": "amrutagore15@gmail.com",
+      "designation": "Manager",
+      "mobile": [
+        "91-11-41621137",
+        "91-9911901948"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3418",
+  "name": "Foundation for Spastics and Mentally Handicapped Persons",
+  "primaryEmail": "amruta@udaan.org",
+  "website": "http://udaan.org/",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919582428429",
+    "919911901948"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "C-27, Dayanand Colony, Lajpatnagar-4, New Delhi-110024",
+      "Lajpatnagar-4",
+      "New Delhi",
+      "South Delhi",
+      "Delhi",
+      "110024"
+    ]
+  },
+  "briefDescription": "UDAAN is the main activity centre of a non profit trust: Foundation for Spastic and Mentally Handicapped Persons (FSMHP®). UDAAN is one of Delhi's foremost research based NPO for Training, Rehabilitation and Early Medical Intervention of moderate to severe physically and mentally challenged children to lead a better quality of life, and to help them return to their rightful place in society and gainful employment wherever possible. We also help and guide parents/guardians of these special children regarding diagnosis and evaluation of brain-related disabilities, home management and selection of special schools. UDAAN has helped 1500 + neurodevelopment delayed children  over time by providing intensive one-to-one rehabilitation which includes physiotherapy, occupational therapy, speech therapy, special education, hand functioning and activities of daily living training.",
+  "yearOfEstablishment": "1994"
+}

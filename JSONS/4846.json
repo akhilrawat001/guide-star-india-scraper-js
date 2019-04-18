@@ -1,0 +1,38 @@
+{
+  "contacts": [
+    {
+      "name": "Annie Vijaya",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "2378500"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4846",
+  "name": "DESHPANDE FOUNDATION",
+  "primaryEmail": "naveen@deshpandefoundation.org",
+  "website": "http://www.deshpandefoundation.org/",
+  "organisationType": [
+    "Direct Service",
+    "Grant-making",
+    "Support"
+  ],
+  "telephone": [
+    "918362378500",
+    "918362378500"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "DCSE Building",
+      "BVB College of Engineering & Technology Campus, Vidyanagar,",
+      "Hubli",
+      "Dharwad",
+      "Karnataka",
+      "580031"
+    ]
+  },
+  "briefDescription": "The Hubli Sandbox Ecosystem consists of five districts in Northwest Karnataka.The aim of the Sandbox is to create an environment where innovative approaches to addressing social challenges is encouraged. The Sandbox provides a place for the catalysts to test ideas, make changes and eventually develop truly scalable solutions. The ecosystem allows for sharing, networking, collaborating and deliberating ideas with other catalysts. The value of the Sandbox lies in its ability to identify synergies and explore potential collaboration among the catalyst network.Our success lies in our ability to execute as we not only provide financial resources to our partners, but also strategic support, challenging them to impact larger populations and wo",
+  "yearOfEstablishment": "2007"
+}

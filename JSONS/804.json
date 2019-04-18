@@ -1,0 +1,35 @@
+{
+  "contacts": [
+    {
+      "name": "Suresh Soni",
+      "email": "",
+      "designation": "Founder & Managing Trustee",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=804",
+  "name": "Sahyog Krushnayagna Trust",
+  "primaryEmail": "sahyogkushth@sancharnet.in",
+  "website": "www.sahyogtrust.org.in",
+  "telephone": [
+    "912772254337",
+    "912772254537",
+    "912772254337"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "Rajendranagar Crossing, Himatnagar - Shamlaji National Highway",
+      "Himatnagar",
+      "Sabarkantha",
+      "Gujarat",
+      "383276"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "Gujarat"
+    ]
+  }
+}

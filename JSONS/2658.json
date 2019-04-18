@@ -1,0 +1,45 @@
+{
+  "contacts": [
+    {
+      "name": "Shobhita Dube",
+      "email": "ambarvishal@gmail.com",
+      "designation": "Project Manager",
+      "mobile": [
+        "91-9897013551"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2658",
+  "name": "Social Association for Nurturing. Knitting and Linking People…(SANKALP)",
+  "primaryEmail": "ambarvishal@gmail.com",
+  "website": "www.sankalpindia.org.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Intermediary"
+  ],
+  "telephone": [
+    "919760034548"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "234-B",
+      "Space Green, Shastripuram-2",
+      "Agra",
+      "Uttar Pradesh",
+      "282007"
+    ]
+  },
+  "briefDescription": "S.A.N.K.A.L.P formed in 1997 an Indian registered Society by a youth group, who decided to implement and support real grassroots initiatives concern with environment protection, skill development, livelihoods improvement, health and education and taken a committed to open the door for a better world for the coming generations.",
+  "yearOfEstablishment": "1997",
+  "regiseredAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "GAYATRI NIWAS, INFRON OF SUBJIMANDI",
+      "KARHAL",
+      "Mainpuri",
+      "Uttar Pradesh",
+      "205264"
+    ]
+  }
+}

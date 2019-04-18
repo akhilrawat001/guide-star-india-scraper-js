@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Sanjay shah",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8158",
+  "name": "Navinbhai Shah Pratishthan",
+  "primaryEmail": "sanjaynavinbhaishah@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "912425224000",
+    "912425224000"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "679,Bazaarpeth Gandhi Chowk Sangamner",
+      "Gandhi chowk",
+      "Sangamner",
+      "Ahmednagar",
+      "Maharashtra",
+      "422605"
+    ]
+  }
+}

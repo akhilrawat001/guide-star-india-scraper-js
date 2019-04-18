@@ -1,0 +1,57 @@
+{
+  "contacts": [
+    {
+      "name": "Shiny Sunil",
+      "email": "shiny@digitalgreen.org",
+      "designation": "Finance Executive",
+      "mobile": [
+        "91-11-41881037"
+      ]
+    },
+    {
+      "name": "Shiny Sunil",
+      "email": "shiny@digitalgreen.org",
+      "designation": "Finance Executive",
+      "mobile": [
+        "91-11-41881037"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6353",
+  "name": "Digital Green Trust",
+  "primaryEmail": "neeta@digitalgreen.org",
+  "website": "http://www.digitalgreen.org/",
+  "organisationType": [
+    "Intermediary",
+    "Support"
+  ],
+  "telephone": [
+    "911141881037",
+    "911141881037"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "S-26 to 28, 3rd Floor,",
+      "Green Park Extension Market,",
+      "New Delhi",
+      "South Delhi",
+      "Delhi",
+      "110016",
+      "Bank statement - April 2015.docx"
+    ]
+  },
+  "briefDescription": "Digital Green is a global development organization that empowers smallholder farmers to lift themselves out of poverty by harnessing the collective power of technology and grassroots-level partnerships.We partner with local public, private and civil society organisations to share knowledge on improved agricultural practices, livelihoods, health, and nutrition, using locally produced videos disseminated using hand-held battery-operated projectors by local extension agents. The approach is found to be more cost-effective and uptake of new practices by viewers is higher compared to traditional extension services. We have reached over 1.5 million people through our work across Asia & sub-Saharan Africa. We're supported by Bill and Melinda Gates Foundation, DFID, Google, and Government of India.",
+  "yearOfEstablishment": "2008",
+  "regiseredAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "33T4, Swiss Complex, 4th Floor Race course road",
+      "Opposite to Race course",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560001"
+    ]
+  }
+}

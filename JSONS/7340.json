@@ -1,0 +1,32 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7340",
+  "name": "Abhiyan Sahibganj",
+  "primaryEmail": "abhiyansbg@gmail.com",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "919431517167"
+  ],
+  "mainAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "Habibpur",
+      "Pipe Road,Near Pull Cast",
+      "Sahibganj",
+      "Jharkhand",
+      "816109"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "Sakrogarh",
+      "Near Chaitee Durga Mandir",
+      "Sahibganj",
+      "Jharkhand",
+      "816109"
+    ]
+  }
+}

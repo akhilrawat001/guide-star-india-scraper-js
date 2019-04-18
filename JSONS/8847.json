@@ -1,0 +1,43 @@
+{
+  "contacts": [
+    {
+      "name": "M.L. Yadav",
+      "email": "mahilasanchetna@gmail.com",
+      "designation": "Director",
+      "mobile": [
+        "9826211130"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8847",
+  "name": "Mahila Sanchetna Development Action Women Society",
+  "primaryEmail": "mahilasanchetna@ymail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919826211130"
+  ],
+  "mainAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "170 Anuradha Nagar. By Pass Square, Indore",
+      "Indore",
+      "Madhya Pradesh",
+      "452020"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "Chandawad, Tehsil Dharmpuri District Dhar M.P.",
+      "Chandwad",
+      "Dhar",
+      "Madhya Pradesh",
+      "454449"
+    ]
+  }
+}

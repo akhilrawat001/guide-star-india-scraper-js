@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "Suresh C",
+      "email": "",
+      "designation": "Office Manager",
+      "mobile": []
+    },
+    {
+      "name": "Suresh C",
+      "email": "",
+      "designation": "Office Manager",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=775",
+  "name": "Anga Karunya Kendra",
+  "primaryEmail": "angakk@rediffmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918028524247",
+    "918028524247"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "No. 15, Vishweshwariah Industrial Area",
+      "Mahadevapura",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560048"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "contacts": [
+    {
+      "name": "Ms Bhavna Omar",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7711",
+  "name": "Indian Society For Youth Empowerment",
+  "primaryEmail": "isye3355@gmail.com",
+  "website": "www.isye.in",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "918447353355"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "B 107, 2nd Floor, DDA Sheds,",
+      "Okhla Phase 1",
+      "New Delhi",
+      "Delhi",
+      "110020"
+    ]
+  },
+  "briefDescription": "Mission - Engage and Educate to Empower – 3Es“Envision to strengthen the social fabric of the country towards a Vibrant and transform society\" – by opening up their minds and ensure active participation, creating new opportunities for the deprived masses.",
+  "yearOfEstablishment": "2013",
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "4/42, Basement, Geetanjali Shivalik Marg,",
+      "Malviya Nagar",
+      "New Delhi",
+      "Delhi",
+      "110017"
+    ]
+  }
+}

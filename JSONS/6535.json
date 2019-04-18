@@ -1,0 +1,44 @@
+{
+  "contacts": [
+    {
+      "name": "ROBIN THOMAS",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "9845540303"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6535",
+  "name": "DIVYA DOWN'S DEVELOPMENT TRUST",
+  "primaryEmail": "estherthom@gmail.com",
+  "website": "www.divyadowns.thengohub.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919845540303"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "no 232  janet building first floor",
+      "Adj  Bus stop  opp SBI  ATM  4th main",
+      "Viveknagar Bengaluru 560047  karnataka",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560047"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "No 232  Janet Building First Floor",
+      "Adj  Bus Stop  Opp SBI  ATM  4th main",
+      "Viveknagar Bengaluru 560047  Karnataka",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560047"
+    ]
+  }
+}

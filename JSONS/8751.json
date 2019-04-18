@@ -1,0 +1,38 @@
+{
+  "contacts": [
+    {
+      "name": "Chitra",
+      "email": "accounts@peopleforanimalsbangalore.org",
+      "designation": "Accounts Excecutive",
+      "mobile": [
+        "91-9741463232"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8751",
+  "name": "PEOPLE FOR ANIMALS BANGALORE",
+  "primaryEmail": "info@peopleforanimalsbangalore.org",
+  "website": "http://peopleforanimalsbangalore.org/",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918028611986",
+    "918028612767",
+    "919900025370",
+    "919980339880"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "SURVEY NO. 67,NEXT TO ABHIMAN STUDIO",
+      "UTTARAHALLI ROAD,",
+      "KENGERI,BANGALORE",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560060"
+    ]
+  },
+  "briefDescription": "PEOPLE FOR ANIMALS (PfA). BANGALORE is a nonprofit organisation focused on the rescue and rehabilitation of orphaned, injured or displaced urban wild animals. At our Wildlife Hospital and Rehabilitation Center located in Kengeri, the injured animals are treated and released back to the wild.PfA has sustained its operations for 19 years through contributions from the general public.Since 2000, PfA has rescued 18,106 animals. So Please join hands and help us Save the Wild for future generations.",
+  "yearOfEstablishment": "1996"
+}

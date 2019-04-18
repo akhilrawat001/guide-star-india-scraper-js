@@ -1,0 +1,49 @@
+{
+  "contacts": [
+    {
+      "name": "Ajay Mackwan",
+      "email": "",
+      "designation": "Accountant",
+      "mobile": [
+        "91-79-27542683"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1200",
+  "name": "GANATAR",
+  "primaryEmail": "ganatar@gmail.com",
+  "website": "http://www.ganatar.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "917927542681",
+    "917927542683"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "GANATAR, PRABHA COLONY, GR FLOOR, LAST TENAMENT, NEAR VIDHYANAGAR SCHOOL,",
+      "NEAR USMANPURA UNDER PASS, USMANPURA",
+      "Ahmedabad",
+      "Gujarat",
+      "380014",
+      "AP_TelBill_1104.PDF"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "G-11, PARUL FLATS, SETTALITE ROAD,",
+      "NEAR BIMA NAGAR",
+      "AHMEDABAD",
+      "Ahmedabad",
+      "Gujarat",
+      "380015",
+      "AP_TelBill_1104.PDF"
+    ]
+  }
+}

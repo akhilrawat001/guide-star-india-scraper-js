@@ -1,0 +1,33 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2773",
+  "name": "MAHESH FOUNDATION",
+  "primaryEmail": "maheshfoundationbgm@gmail.com",
+  "website": "www.maheshfoundation.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "+919241407811"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "Mahesh Foundation,\"AADHAR\" 792/1,Opp Kannada School,Siddeshwar Nagar,",
+      "Kanabargi,Belgaum",
+      "Belagavi (Belgaum)",
+      "Karnataka",
+      "590015"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "Main road,kangrali Kh,belgaumbb",
+      "Kanabargi ,Belgaum",
+      "Belagavi (Belgaum)",
+      "Karnataka",
+      "590015"
+    ]
+  }
+}

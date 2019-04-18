@@ -1,0 +1,50 @@
+{
+  "contacts": [
+    {
+      "name": "Dineshwari Thonse",
+      "email": "vachamail@gmail.com",
+      "designation": "Trustee",
+      "mobile": [
+        "91-22-26702559",
+        "91-9821447799"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4734",
+  "name": "Vacha Charitable Trust",
+  "primaryEmail": "vachamail@gmail.com",
+  "website": "http://www.vacha.org.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "912226702559"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "5,Bhavna Apartment",
+      "Opp.Golden Tobacco, 185, S.V.Road, Vile Parle (West)",
+      "Mumbai",
+      "Mumbai Suburban",
+      "Maharashtra",
+      "400056"
+    ]
+  },
+  "briefDescription": "Vacha was established in 1987 as library and cultural centre by a group of women and registered as public trust in 1990. Our mission is to focus on issues of women and girls through educational programs, resource creation, research, training, campaign and advocacy. It engages with Human, Women’s Rights Movements.It works with youth living in slums with focus on empowerment of girls and youth to participate in community life. Youth are trained in leadership and to work on issues affecting their lives through lessons in English, computers and life skills to promote their self expression. Vacha has produced several resources some of which are created by girls themselves. It has reached to 44690 people in 2015-16 in Mumbai and an adjoining district of Mumbai.",
+  "yearOfEstablishment": "1990",
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "5,Bhavna Apartment",
+      "Opp.Golden Tobacco, 185,S.V.Road, Vile Parle (West)",
+      "Mumbai",
+      "Mumbai Suburban",
+      "Maharashtra",
+      "400056"
+    ]
+  }
+}

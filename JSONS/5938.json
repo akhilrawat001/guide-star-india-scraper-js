@@ -1,0 +1,49 @@
+{
+  "contacts": [
+    {
+      "name": "Krupali Shah",
+      "email": "info@ahimsamumbai.org",
+      "designation": "Member",
+      "mobile": []
+    },
+    {
+      "name": "Krupali Shah",
+      "email": "info@ahimsamumbai.org",
+      "designation": "Member",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5938",
+  "name": "Ahimsa",
+  "primaryEmail": "info@ahimsamumbai.org",
+  "website": "www.ahimsamumbai.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "912228802614",
+    "912228802614"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "21 Shakti Nivas Extn Ramchamdra Lane",
+      "Marve Road Malad West",
+      "Mumbai",
+      "Maharashtra",
+      "400064"
+    ]
+  },
+  "briefDescription": "Ahimsa is a grass-root level, non-government, non-profit organization based in Mumbai, India. Ahimsa empathetically works with stray animals to create a healthier environment between animal and man in the urban society.Ahimsa has a two step approach for humane coexistence: Animal Birth Control Program and Medical Care. Learn More. (LINK).Since 1995 our doctors and staff have sterilized 26,000 stray lives and provided medical services to over 100,000 small animals and birds. Ahimsa is a registered charitable organization under the Bombay Public Trust Act 1960 and a member organization of the Animal Welfare Board of India.",
+  "yearOfEstablishment": "1995",
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "BMC Cattle Pound Evershine Nagar",
+      "Malad West",
+      "Mumbai",
+      "Maharashtra",
+      "400064"
+    ]
+  }
+}

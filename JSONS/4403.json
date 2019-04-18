@@ -1,0 +1,25 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4403",
+  "name": "Indian Squash Professionals",
+  "primaryEmail": "squashindia@yahoo.com",
+  "website": "www.ispsquash.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "912242382000",
+    "912242382000"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "705, Raylon Arcade, Next to Pidilite, Kondivita",
+      "Andheri East",
+      "Mumbai 400 059",
+      "Mumbai",
+      "Maharashtra",
+      "400059"
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "contacts": [
+    {
+      "name": "Ganapati",
+      "email": "",
+      "designation": "CEO",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=983",
+  "name": "Manuvikasa",
+  "primaryEmail": "manuvikasa@gmail.com",
+  "website": "www.manuvikasa.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918389249729",
+    "918389249729",
+    "919845982552"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "MANUVIKASA,",
+      "Suman Building, Agasebagil",
+      "Sirsi",
+      "Uttara Kannada",
+      "Karnataka",
+      "581401"
+    ]
+  },
+  "briefDescription": "1.\tMANUVIKASA has developed 600 small tanks and helped 2500 farmers 2.\tThis organization has supported 550 orphan children through basic materials and scholarships 3.\tPlanted 10000 saplings 4.\tPromoted 180 SHGs and covered more than 4400 women members5. Developed 45 Energy efficiant Choolas",
+  "yearOfEstablishment": "2003",
+  "regiseredAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "Karjagi",
+      "Siddapur",
+      "Uttara Kannada",
+      "Karnataka",
+      "581340"
+    ]
+  }
+}

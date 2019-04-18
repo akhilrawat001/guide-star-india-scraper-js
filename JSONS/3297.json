@@ -1,0 +1,35 @@
+{
+  "contacts": [
+    {
+      "name": "Ms.Radhika Modur",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "22447612"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3297",
+  "name": "Karuna Trust",
+  "primaryEmail": "drhsudarshan@gmail.com",
+  "website": "karuna.trust@vsnl.net",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service"
+  ],
+  "telephone": [
+    "918022447612",
+    "918022447612"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "No.686, 16th main, 39th cross",
+      "Jayanagar 4th 'T' block",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560041"
+    ]
+  }
+}

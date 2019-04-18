@@ -1,0 +1,48 @@
+{
+  "contacts": [
+    {
+      "name": "Narayan Sen",
+      "email": "info@adarshshikshango.org",
+      "designation": "Founder",
+      "mobile": [
+        "91-2906-201048",
+        "91-9784542243"
+      ]
+    },
+    {
+      "name": "Narayan Sen",
+      "email": "info@adarshshikshango.org",
+      "designation": "Founder",
+      "mobile": [
+        "91-2906-201048",
+        "91-9784542243"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6076",
+  "name": "Adarsh Shiksha Samiti",
+  "primaryEmail": "info@adarshshikshango.org",
+  "website": "www.adarshshikshango.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "912906201048",
+    "912906201048"
+  ],
+  "mainAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "Patelwada, Ward No-7,",
+      "Salumber",
+      "District-Udaipur,",
+      "Udaipur",
+      "Rajasthan",
+      "313027"
+    ]
+  },
+  "briefDescription": "Adarsh Shiksha Samiti Salumber (Adarsh) is a nonprofit and non government organization working towards women empowerment, education and livelihood promotion. Adarsh aspires to improve the living conditions of the poor and marginalized by adopting strategies through community initiative, participation and sensitization. Founded in 1989, the organization has worked among backward communities in the interior unreached pockets of tribal villages in southern Rajasthan, identified as one of the most under developed region in state. Women self help groups have been taken as the base for all interventions and livelihood activities enabling them to contribute towards mainstream development process.",
+  "yearOfEstablishment": "1989"
+}

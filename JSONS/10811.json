@@ -1,0 +1,28 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10811",
+  "name": "Your Turn Now Trust",
+  "primaryEmail": "rushabhkt@gmail.com",
+  "website": "www.yourturnnow.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919821366660"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "218/A, 1St Floor, Kirti Mahal",
+      "Sir Bhalchandra Road, Behind Podar College",
+      "Matunga",
+      "Mumbai",
+      "Maharashtra",
+      "400019"
+    ]
+  }
+}

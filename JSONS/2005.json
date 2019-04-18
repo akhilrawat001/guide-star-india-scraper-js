@@ -1,0 +1,27 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2005",
+  "name": "AROGYA FOUNDATION OF INDIA",
+  "primaryEmail": "himgirivikashsansthan.org@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Grant-making",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "911126465246",
+    "919555151121"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "C-317 Street No.- 04 /04",
+      "Govindpuri, Kalkaji,",
+      "Govindpuri",
+      "New Delhi",
+      "Delhi",
+      "570009"
+    ]
+  }
+}

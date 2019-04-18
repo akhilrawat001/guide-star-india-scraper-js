@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Mr. Vivek Kumar Kaushik",
+      "email": "vivek137@gmail.com",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7705",
+  "name": "Edwell Society",
+  "primaryEmail": "vivek137@gmail.com",
+  "website": "www.edwellsociety.in",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "918860652067"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "216, GH-4, Meera Apartments,",
+      "Paschim Vihar,",
+      "New Delhi",
+      "Delhi",
+      "110063"
+    ]
+  },
+  "briefDescription": "\"Edwell envisions a society, free from illiteracy & illness, people empowered with necessary skills, to be self sufficient towards economic self reliance by working on livelihood generation activities, for overall societal development.The mission of Edwell is to touch upon poor literacy & ill health state of underprivileged community of society by educating them directly and making them aware of educational & health programs run by government.\"",
+  "yearOfEstablishment": "2008"
+}

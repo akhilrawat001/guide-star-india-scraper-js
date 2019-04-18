@@ -1,0 +1,39 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2283",
+  "name": "THE CREDENCE",
+  "primaryEmail": "thecredence@gmail.com",
+  "website": "http;//thecredence.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "911126172644"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "1,BVK,EKTA VIHAR",
+      "SECTOR-6,R K PURAM",
+      "New Delhi",
+      "South West Delhi",
+      "Delhi",
+      "110022"
+    ]
+  },
+  "briefDescription": "‘The Credence’ registered in 2002 is an all India Character organization, dedicated to imparting knowledge, skills and awareness amongst the poorest strata of the society with emphasis on employment generation, looking after destitute, empowering women, water harvesting, preventing AIDS and other health hazards, drug de-addiction, witness protection and awareness about environment and hygiene.Training to the  farmer and commuted to the uplift of Rural,semi urban and tribal India.",
+  "yearOfEstablishment": "2002",
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "1,BVK,EKTA VIHAR",
+      "SECTOR-6.",
+      "R K PURAM",
+      "South West Delhi",
+      "Delhi",
+      "110022"
+    ]
+  }
+}

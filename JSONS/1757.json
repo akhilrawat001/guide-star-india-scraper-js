@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Shailesh Ghodke",
+      "email": "gshaileshfirstname@yahoo.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1757",
+  "name": "Sainath Bahuudeshesiya Gramin Vikas Sanstha",
+  "primaryEmail": "sainathbgv_org@in.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919822083680"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Saliwada",
+      "Paithan",
+      "Aurangabad",
+      "Maharashtra",
+      "431003"
+    ]
+  }
+}

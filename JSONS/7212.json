@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "SWATI SAXENA",
+      "email": "pukar2015ngo@gmail.com",
+      "designation": "SECRETARY",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7212",
+  "name": "PUKAR FOUNDATION",
+  "primaryEmail": "pukar2015ngo@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919713002446"
+  ],
+  "mainAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "850/4, SHAKTI NAGAR,",
+      "GUPTESHWAR, JABALPUR",
+      "JABALPUR",
+      "Jabalpur",
+      "Madhya Pradesh",
+      "482001"
+    ]
+  }
+}

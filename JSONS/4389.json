@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "R.Ravichandran",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4389",
+  "name": "Good Samaritan Trust",
+  "primaryEmail": "goodsamaritantrusttrichy@gmail.com",
+  "website": "www.goodsamaritantrust.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "914312774172",
+    "914312774172"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "93,Ahamed colony, Ramalinga nagar, Woraiyur",
+      "Trichirappalli",
+      "Tiruchirappalli",
+      "Tamil Nadu",
+      "620003"
+    ]
+  }
+}

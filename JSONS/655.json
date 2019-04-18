@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Madhukar N Gumble",
+      "email": "",
+      "designation": "Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=655",
+  "name": "Apeksha Homoeo Society",
+  "primaryEmail": "apekshasociety@gmail.com",
+  "telephone": [
+    "917225224240",
+    "917225224100",
+    "917225224240",
+    "917225224240"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Gurukunj - Mozari",
+      "Chandur Railway",
+      "Amravati",
+      "Maharashtra",
+      "444902"
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Ms Praggya Sharmaa",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "41318030"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6185",
+  "name": "AQUA FOUNDATION",
+  "primaryEmail": "info@aquafoundation.in",
+  "website": "www.aquafoundation.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "911141318030",
+    "911141318030"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "C - 24 Soami Nagar ( North)",
+      "Second Floor Panchsheel Enclave",
+      "New Delhi",
+      "Delhi",
+      "110017"
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "contacts": [
+    {
+      "name": "Mohamednazer",
+      "email": "",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=772",
+  "name": "Oasis foundation",
+  "primaryEmail": "infooasis2009@gmail.com",
+  "website": "www.oasisfoundationsociety.co.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "914553240021",
+    "919994242791",
+    "914553243718"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "1025 S, Society Colony",
+      "Oddanchatram",
+      "Dindigul",
+      "Tamil Nadu",
+      "624619"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "26085, Kattari House",
+      "Idyakottai, Oddanchatram",
+      "Dindigul",
+      "Tamil Nadu",
+      "624619"
+    ]
+  }
+}

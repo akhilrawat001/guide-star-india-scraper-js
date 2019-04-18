@@ -1,0 +1,37 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6762",
+  "name": "KASHI SAMAJ SHIKSHA VIKAS SANSTHAN",
+  "primaryEmail": "kashi.budaun@gmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "+919412427381",
+    "9410022858"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "A-42",
+      "Avas Vikas",
+      "Budaun",
+      "Uttar Pradesh",
+      "243601"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "ML 12",
+      "vikas pradhikaran bhavan",
+      "naria lanka",
+      "Varanasi",
+      "Uttar Pradesh",
+      "221002"
+    ]
+  }
+}

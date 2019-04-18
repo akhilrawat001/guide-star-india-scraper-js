@@ -1,0 +1,45 @@
+{
+  "contacts": [
+    {
+      "name": "Mr.Dola Mohapatra",
+      "email": "dmohapatra@riseagainsthungerindia.org",
+      "designation": "Executive Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7509",
+  "name": "Rise Against Hunger India",
+  "primaryEmail": "info@riseagainsthungerindia.org",
+  "website": "www.riseagainsthungerindia.org",
+  "organisationType": [
+    "Intermediary",
+    "Support"
+  ],
+  "telephone": [
+    "918025426948"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "302, 3rd Cross, 9H Main Road",
+      "HRBR Layout,1st Block, Kalyan Nagar Post",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560043"
+    ]
+  },
+  "briefDescription": "Rise Against Hunger India (formerly Stop Hunger Now India) envisions a world without hunger.  To achieve this mission, we coordinate distribution of food and other life-changing aids to food-insecure communities and groups. This is accomplished through a fun, engaging hands-on Meal Packaging Program and providing meals to vulnerable groups through local NGO partners, community groups, institutions, schools etc.  Our meal packaging program provides volunteers the opportunity to package dehydrated, high protein,  nutritious meals that are used in crisis situations and in school feeding programs for schools and orphanages.  In an effort to respond to emergency needs we also mobilize in-kind support from volunteers and donors.",
+  "yearOfEstablishment": "27102014",
+  "regiseredAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "302, 3rd Cross, 9H Main Road",
+      "HRBR Layout, 1st Block, Kalyan Nagar Post",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560043"
+    ]
+  }
+}

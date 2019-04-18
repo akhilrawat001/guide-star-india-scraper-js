@@ -1,0 +1,44 @@
+{
+  "contacts": [
+    {
+      "name": "Rita C Solomon",
+      "email": "adarsh_3894@yahoo.co.in",
+      "designation": "Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1045",
+  "name": "Adarsh Community Development Trust",
+  "primaryEmail": "adarsh_3894@yahoo.co.in",
+  "website": "http://www.adarshcommunitydevelopment.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "918554274492",
+    "918554240122",
+    "919440255557"
+  ],
+  "mainAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "6-4-504  Maruthi Nagar",
+      "Anantapur",
+      "Andhra Pradesh",
+      "515001"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "11-904,  Aravind Nagar",
+      "Anantapur",
+      "Andhra Pradesh",
+      "515001",
+      "AP_TelBill_954.PDF"
+    ]
+  }
+}

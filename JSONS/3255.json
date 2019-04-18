@@ -1,0 +1,25 @@
+{
+  "contacts": [
+    {
+      "name": "Tuna Maharana",
+      "email": "",
+      "designation": "Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3255",
+  "name": "Kamdhenu Seva Samiti",
+  "primaryEmail": "kssganjam@gmail.com",
+  "telephone": [
+    "919338587344"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "At/Po-Kalyanpur,",
+      "Ganjam",
+      "Odisha",
+      "761026"
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "name": "Bipin Kumar",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5189",
+  "name": "Anmol Educational & Social Welfare Society",
+  "primaryEmail": "aeasws10200709@gmail.com",
+  "website": "www.ngo-anmol.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919910756368"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "543,ASOLA  Fatehpurberi South Delhi",
+      "South Delhi",
+      "Delhi",
+      "110074"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "D-103,Khasra No-899, Kharak  Satbari   not provided",
+      "Near Big Mosque",
+      "South Delhi",
+      "Delhi",
+      "110074"
+    ]
+  }
+}

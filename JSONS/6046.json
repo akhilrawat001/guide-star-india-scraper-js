@@ -1,0 +1,35 @@
+{
+  "contacts": [
+    {
+      "name": "Rajkumar Munde",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6046",
+  "name": "SARSWATI PRAKASH SHIKSHAN PRASARAK, KRIDA VE BAHUUDDESHIYA SEVABHAVI SANSTHA",
+  "primaryEmail": "spspkbssm2007@gmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "918623095792"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "sarswati Prakash Shikshan prasarak Krida &Bahuuddeshiya sevabhavi Sanstha Sawargaon munde",
+      "c/o rajkumar Munde",
+      "Lonar",
+      "Buldhana",
+      "Maharashtra",
+      "443302"
+    ]
+  }
+}

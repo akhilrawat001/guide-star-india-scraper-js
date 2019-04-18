@@ -1,0 +1,45 @@
+{
+  "contacts": [
+    {
+      "name": "Dilzad Khariwalla",
+      "email": "dilzad@hopemonkey.com",
+      "designation": "Chief Liaison Officer",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4888",
+  "name": "HOPEMONKEY FOUNDATION FOR INDIA",
+  "primaryEmail": "dilzad@hopemonkey.com",
+  "website": "www.hopemonkey.org",
+  "organisationType": [
+    "Grant-making",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "912265015505"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "303, 3rd floor, ShreePrasad House",
+      "Linking Road, Bandra West",
+      "Mumbai",
+      "Maharashtra",
+      "400050"
+    ]
+  },
+  "briefDescription": "HopeMonkey builds bridges between your desire to do good and the people /projects that need your support. We imagine a better India for all of us, and we're here to gently remind you, dear reader, that you are both observer and protagonist.",
+  "yearOfEstablishment": "2013",
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "15/7, Ground Floor, Sarva Priya Vihar, Asiad Village,",
+      "New Delhi - 110016",
+      "New Delhi",
+      "Delhi",
+      "110016"
+    ]
+  }
+}

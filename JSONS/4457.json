@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Syed Shadab Monis",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4457",
+  "name": "ALBARI EDUCATIONAL MULTIPURPOSE TRUST",
+  "primaryEmail": "albarieducationaltrust@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919225158999"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "nagsen colony plot 44, sofiyan international school",
+      "roshan gate road opposite to amin hospital",
+      "aurangabad",
+      "Aurangabad",
+      "Maharashtra",
+      "431001"
+    ]
+  }
+}

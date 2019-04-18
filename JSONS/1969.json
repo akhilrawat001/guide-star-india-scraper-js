@@ -1,0 +1,33 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1969",
+  "name": "Proactive Rural Development Foundation",
+  "primaryEmail": "prdf.health@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919711601027"
+  ],
+  "mainAddrress": {
+    "state": "Haryana",
+    "address": [
+      "F-133",
+      "Palam Vihar Extn, Dharam Colony,",
+      "Gurgaon",
+      "Gurugram",
+      "Haryana",
+      "122001"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "RZ 17/5",
+      "Tuklakabad Extn",
+      "Delhi",
+      "New Delhi",
+      "122001"
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9338",
+  "name": "Trijya",
+  "primaryEmail": "trijya.delhi@gmail.com",
+  "website": "trijya.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Intermediary",
+    "Support"
+  ],
+  "telephone": [
+    "919582146989"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "209, 2B Punjabi Colony",
+      "Alopibagh, Allahabad",
+      "Allahabad",
+      "Uttar Pradesh",
+      "211006"
+    ]
+  },
+  "briefDescription": "Trijya is working for upliftment of juveniles through art practices.it's head office located in Allahabad, and working area is Delhi NCR and uttar pradesh .",
+  "yearOfEstablishment": "2004",
+  "regiseredAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "209/ 2B Punjabi Colony, Alopibagh, Allahabad",
+      "Alopibagh, Allahabad",
+      "Allahabad",
+      "Uttar Pradesh",
+      "211006"
+    ]
+  }
+}

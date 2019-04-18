@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "Bhupendra R Mahale",
+      "email": "raesamalner@gmail.com",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2874",
+  "name": "Rashtravikas Agro Education Sansthan",
+  "primaryEmail": "rashtravikas@yahoo.co.in",
+  "telephone": [
+    "912587222739",
+    "919422618407"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "10, Ramkunj, Shivparvati Colony",
+      "Near Surbhi Colony",
+      "Amalner",
+      "Jalgaon",
+      "Maharashtra",
+      "425401"
+    ]
+  }
+}

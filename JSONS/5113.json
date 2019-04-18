@@ -1,0 +1,40 @@
+{
+  "contacts": [
+    {
+      "name": "mukhil khatib",
+      "email": "rahebaredu@gmail.com",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5113",
+  "name": "Rahebar Education and Welfare Society",
+  "primaryEmail": "rahebaredu@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919423339671"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "A/P Shiradhon",
+      "Tq. kallam",
+      "Dist. Osmanabad",
+      "Osmanabad",
+      "Maharashtra",
+      "413501"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "not provided",
+      "Dist. Osmanabad",
+      "Osmanabad",
+      "Maharashtra",
+      "413528"
+    ]
+  }
+}

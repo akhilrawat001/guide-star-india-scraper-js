@@ -1,0 +1,26 @@
+{
+  "contacts": [
+    {
+      "name": "Sharanapp Barsi",
+      "email": "sbbarsi@gmail.com",
+      "designation": "Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4174",
+  "name": "SADHANA RAICHUR",
+  "primaryEmail": "sadhana_organ@yahoo.co.in",
+  "telephone": [
+    "918088012660"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "Vasavingar PWD Camp",
+      "SINDHANOOR",
+      "Raichur",
+      "Karnataka",
+      "584128"
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8300",
+  "name": "JAIN YUVA MANDAL",
+  "primaryEmail": "nathtaps@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "911882238029",
+    "911882238029"
+  ],
+  "mainAddrress": {
+    "state": "Punjab",
+    "address": [
+      "Divya Anand Book Bank",
+      "Sarafan Bazar",
+      "Hoshiarpur",
+      "Punjab",
+      "146001"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Punjab",
+    "address": [
+      "C/o Divya Anand Book Bank",
+      "Sarafan Bazar",
+      "Hoshiarpur",
+      "Punjab",
+      "146001"
+    ]
+  }
+}

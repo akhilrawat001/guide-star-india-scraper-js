@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "name": "ASHVANI SHARMA",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "8743054193"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6527",
+  "name": "ABHYUDYA",
+  "primaryEmail": "ABHYUDYA1@HOTMAIL.COM",
+  "website": "HTTP://WWW.ABHYUDYA.ORG",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "918743054193"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "502, A19",
+      "LANE NUMBER 3 GURU NANAK PURA",
+      "NIRMAN VIHAR",
+      "East Delhi",
+      "Delhi",
+      "110092",
+      "TRUST PAPER.docx"
+    ]
+  }
+}

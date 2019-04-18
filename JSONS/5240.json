@@ -1,0 +1,43 @@
+{
+  "contacts": [
+    {
+      "name": "chetan patil",
+      "email": "deep.chetanpatil@yahoo.com",
+      "designation": "president",
+      "mobile": [
+        "91-9923501521"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5240",
+  "name": "Deep Foundation",
+  "primaryEmail": "deep.chetanpatil@yahoo.com",
+  "website": "www.Deep Foundation,Nandurbar.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "+919923501521"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "196,Jayhind colony, Taloda Road,",
+      "Nandurbar",
+      "city,   Nandurbar",
+      "Maharashtra",
+      "425412"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "196,Jayhind colony,taloda road,",
+      "taloda road,",
+      "city,   Nandurbar",
+      "Nandurbar",
+      "Maharashtra",
+      "425412"
+    ]
+  }
+}

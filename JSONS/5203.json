@@ -1,0 +1,37 @@
+{
+  "contacts": [
+    {
+      "name": "Latha Gurubharathy",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "2586448",
+        "9629911348"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5203",
+  "name": "M.S.Chellamuthu Trust and Research Foundation",
+  "primaryEmail": "info@msctrust.org",
+  "website": "www.msctrust.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service"
+  ],
+  "telephone": [
+    "914522586448",
+    "919629911348"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "643",
+      "K.K.Nagar",
+      "Madurai",
+      "Tamil Nadu",
+      "625020"
+    ]
+  },
+  "briefDescription": "The Trust is providing treatment and rehabilitation services, Vocational Training & Placement to the Children and Persons with mental disabilities and to persons dependent on alcohol & Drugs; a resource and Research Centre for Mental Health. Covered more than 3000 persons in 224 villages in Madurai & nearby Districts in Tamilnadu",
+  "yearOfEstablishment": "1992"
+}

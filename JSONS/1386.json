@@ -1,0 +1,37 @@
+{
+  "contacts": [
+    {
+      "name": "Leonard Bilung",
+      "email": "ekkaremish@rediffmail.com",
+      "designation": "President",
+      "mobile": [
+        "91-6624-245118",
+        "91-9937875466"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1386",
+  "name": "Adivasi Navjeewan Gathan Navjyoti Agua",
+  "primaryEmail": "info@angnango.org",
+  "website": "www.angnango.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "916624245118",
+    "919937875466"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "At/P.O. Kutra",
+      "Kutra",
+      "Sundargarh",
+      "Odisha",
+      "770018"
+    ]
+  }
+}

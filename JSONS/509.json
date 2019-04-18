@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "D Baskaran",
+      "email": "",
+      "designation": "Chief Executive Officer",
+      "mobile": [
+        "91-80-22862622"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=509",
+  "name": "Vidyaranya Education and Development Society",
+  "primaryEmail": "vedsmandur@yahoo.co.in",
+  "website": "http://www.vidyaranya.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918022862622",
+    "919343207349",
+    "918022862622"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "Mandur, Virgonagar (Via)",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560049"
+    ]
+  },
+  "briefDescription": "Our organization is working for the development of different sections of people such as women, disabled, aged, dalits, tribals, landless people etc on different aspects like education, development, social, economic, cultural, local governance, environment etc. We have been serving 3000 people of these target groups",
+  "yearOfEstablishment": "1991"
+}

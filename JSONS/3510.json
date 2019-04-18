@@ -1,0 +1,30 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3510",
+  "name": "Lalit Vishva Shikshan Samiti",
+  "primaryEmail": "lvssnanded1@gmail.com",
+  "telephone": [
+    "912462236162",
+    "919822207524"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "‘Annapurna’, Near Dadara,",
+      "Shivajinagar Tal Nanded",
+      "Nanded",
+      "Maharashtra",
+      "431602"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "ï¿½Annapurnaï¿½, Near Dadara,",
+      "Shivajinagar Tal Nanded",
+      "Nanded",
+      "Maharashtra",
+      "431602"
+    ]
+  }
+}

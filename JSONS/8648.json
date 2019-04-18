@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Malaya Samal Kumar",
+      "email": "nalinikant123@gmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8648",
+  "name": "PANCHAJANYA WELFARE SOCIETY",
+  "primaryEmail": "nalinikant123@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919937751236"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "AT/PO- KENDUPADA",
+      "DHENKANAL",
+      "Dhenkanal",
+      "Odisha",
+      "759014"
+    ]
+  }
+}

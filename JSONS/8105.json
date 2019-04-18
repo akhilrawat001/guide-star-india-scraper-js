@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Vikash Kumar",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8105",
+  "name": "Jan Sahyog Sewa Kendra",
+  "primaryEmail": "jss.kendra@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919162177728"
+  ],
+  "mainAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "H No 33, Nawadih,",
+      "Po- Janta Jaridih",
+      "Dist- Giridih,",
+      "Giridih",
+      "Jharkhand",
+      "825324"
+    ]
+  }
+}

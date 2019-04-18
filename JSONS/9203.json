@@ -1,0 +1,37 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9203",
+  "name": "ASHANA TRUST",
+  "primaryEmail": "ashana.trust@gmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "912226477080",
+    "919833072690"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "4/38, Ground Floor, Sarvodaya Compund, New Amrut Nagar,",
+      "Kherwadi Road, Bandra (E)",
+      "Mumbai",
+      "Maharashtra",
+      "400051"
+    ]
+  },
+  "briefDescription": "Vocational Training Centre - 400 womenEducation, training and recreation activities for Children - 1000Child rights& child abuse trainings - 300Life Skills training - 5000 women Legal Aid Center - 1200 people",
+  "yearOfEstablishment": "2010",
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "C-301, 2nd Floor, Railwaymens Apna Ghar, D Group CHS",
+      "CTS no 345, Sivaji Nagar, Jogeshwari (E)",
+      "Mumbai",
+      "Maharashtra",
+      "400060"
+    ]
+  }
+}

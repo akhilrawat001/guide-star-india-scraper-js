@@ -1,0 +1,46 @@
+{
+  "contacts": [
+    {
+      "name": "Mrs Aparna S. Jadhav",
+      "email": "bmspm_sewa@yahoo.com",
+      "designation": "Secretary",
+      "mobile": [
+        "91-9867463688"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6358",
+  "name": "Baal & Mahila Shikshan Prasarak Mandal",
+  "primaryEmail": "bmspm_sewa@yahoo.com",
+  "website": "www.bmspmsewa.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919867463688"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "TATHAGAT, Shop No. 1,",
+      "Near BODHIVRUKSH, Block No. A-428/855, Dr Ambedkar Chowk,",
+      "Subhash Tekadi, ULHASNAGAR",
+      "Thane",
+      "Maharashtra",
+      "421004"
+    ]
+  },
+  "briefDescription": "Women empowerment, Child Education, Elimination of Child Labour, Vocational Education, Health (RNTCP of Ministry of Govt, in TB project), Entraprenurship Development, Community Development, etc.More than 5 thousand people are served.",
+  "yearOfEstablishment": "1993",
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Block No. A-427/854, Dr Babasaheb Ambedkar Chowk,",
+      "Subhash Tekadi,",
+      "Ulhasnagar",
+      "Thane",
+      "Maharashtra",
+      "421004"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "contacts": [
+    {
+      "name": "Ghansham Ozha",
+      "email": "indian.youth.secured.organisation@gmail.com",
+      "designation": "Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4101",
+  "name": "Indian Youth Secured Organisation",
+  "primaryEmail": "indian.youth.secured.organisation@gmail.com",
+  "telephone": [
+    "919885491221"
+  ],
+  "mainAddrress": {
+    "state": "Telangana",
+    "address": [
+      "H.No.1-5 - 276/288 (New)",
+      "Kaman to Rose Theatre road",
+      "Karimnagar",
+      "Telangana",
+      "505001"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "contacts": [
+    {
+      "name": "Mr. Javed Nagare",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8160",
+  "name": "SARATHI YOUTH DEVELOPMENT ORGANISATION, SOLAPUR",
+  "primaryEmail": "sarathiydo@gmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919011223048",
+    "919403061212"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "85, MotherIndia Nagar,",
+      "70 Feet road, Kumtha Naka,",
+      "Solapur",
+      "Maharashtra",
+      "413003"
+    ]
+  },
+  "briefDescription": "Sarathi is working on HIV/AIDS, STD awareness among school & College Students, Community youths etc. We are also providing Skill Development & Livelihood Training for rural youths. We have a De-addiction helpline in which we dealt with telephonic counselling about addiction.",
+  "yearOfEstablishment": "2010"
+}

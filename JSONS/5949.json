@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "name": "Mr. Jagdish shastri",
+      "email": "susheeleyeinstitute@gmail.com",
+      "designation": "OPERATION HEAD",
+      "mobile": [
+        "91-253-2315342",
+        "91-9822097821"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5949",
+  "name": "KALPATARU FOUNDATION SANSTHA",
+  "primaryEmail": "kalpatarufoundation2014@gmail.com",
+  "website": "http://www.kalpatarufoundation.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "912532315342",
+    "912532315342"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "25, Krushi Nagar, college road, nashik",
+      "College Rd.",
+      "Nashik",
+      "Maharashtra",
+      "422005"
+    ]
+  },
+  "briefDescription": "Kalpataru foundation is working in predominately tribal area of Nashik & dang district(Guj) since last 14 years. It has so far operated 10405 cataracts and eye care for 60,000 needy patients. It has access to tertiary eye care hospital at Nashik and has its own 2 Satellite hospital (at nashik Road & Shamghan at dist. Dang) and 6 Vision centers (i.e. at Dubewadi, panchavati, Yeola- in Nashik, Surgana, Kalibel and Galkund -in Dang district).",
+  "yearOfEstablishment": "1988"
+}

@@ -1,0 +1,35 @@
+{
+  "contacts": [
+    {
+      "name": "NARAYANA J",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5363",
+  "name": "SANJEEVINI SEVA SADAN",
+  "primaryEmail": "sanjeevinisevasadan@gmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919885883191"
+  ],
+  "mainAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "5/1772",
+      "SREERAM NAGAR",
+      "PRODDATUR",
+      "YSR District, Kadapa (Cuddapah)",
+      "Andhra Pradesh",
+      "516360"
+    ]
+  }
+}

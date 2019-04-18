@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Rajib Kumar MIshra",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4267",
+  "name": "Swadhin Ekta Sangathan",
+  "primaryEmail": "swadhinektasangathan@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "9178013115"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "Main Road S.H -10",
+      "Near Pnachayat Gate",
+      "Rengali",
+      "Sambalpur",
+      "Odisha",
+      "768212"
+    ]
+  },
+  "briefDescription": "Our NGO works for Rular Devolopment,Enviormental,Educational,Health Camp,Blood Donetion Camp, Awearness Camp, Road Safty,Ruler Employment and above 25000 people served.",
+  "yearOfEstablishment": "2010"
+}

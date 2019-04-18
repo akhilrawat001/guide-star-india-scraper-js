@@ -1,0 +1,45 @@
+{
+  "contacts": [
+    {
+      "name": "Rajesh Kumar",
+      "email": "",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9334",
+  "name": "Garv Foundation",
+  "primaryEmail": "garvfoundation.pb@gmail.com",
+  "website": "http://www.garvfoundation.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "911765510734",
+    "919501345800"
+  ],
+  "mainAddrress": {
+    "state": "Punjab",
+    "address": [
+      "Agar Nagar, Railway Road",
+      "Near Railway Station",
+      "Nabha",
+      "Patiala",
+      "Punjab",
+      "147201"
+    ]
+  },
+  "briefDescription": "We are working for the skill development, and women empowerment through Home based industry. Our motto is \"A step towards self-reliance\". Our mission is to make the self-reliant 100 families in the current year through Home based industries.",
+  "yearOfEstablishment": "2014",
+  "regiseredAddrress": {
+    "state": "Punjab",
+    "address": [
+      "#42, Ajit Nagar",
+      "Circular Road",
+      "Nabha",
+      "Patiala",
+      "Punjab",
+      "147201"
+    ]
+  }
+}

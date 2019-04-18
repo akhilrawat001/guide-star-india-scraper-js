@@ -1,0 +1,38 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1226",
+  "name": "Sabuj Sangha",
+  "primaryEmail": "director@sabujsangha.org",
+  "website": "http://www.sabujsangha.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "913324414357",
+    "913340723577"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "30/9 Rajdanga",
+      "Main Road (East)",
+      "Kolkata",
+      "West Bengal",
+      "700107"
+    ]
+  },
+  "briefDescription": "Sabuj Sangha is a non-profit, non-government development organisation committed to improving quality of life in West Bengal, India. Registered in 1975 under the West Bengal Societies Registration Act, Sabuj Sangha was originally established in the Sundarban region to organise cultural and sports events and generate a sense of community within the area. The organisation has grown significantly since, spreading north throughout South 24 Parganas and into Jalpaiguri. The organisation now implements a range of sustainable rural development programmes that provide healthcare, education and sanitation services, livelihood opportunities, and emergency response. \tAside from direct programme implementation, Sabuj Sangha builds partnerships and advocates with Government and a wide range of international NGOs and donors to help ensure people can create new livelihood opportunities for themselves and are empowered on their rights. With a clear, well-defined strategic roadmap, Sabuj Sangha tackles poverty head on through its five programmes: • Health and Nutrition• Water, Sanitation and Hygiene • Education and Child Protection • Livelihood and Women’s Empowerment • Environment and Disaster Response",
+  "yearOfEstablishment": "1975",
+  "regiseredAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Nandakumarpur",
+      "South 24 Parganas",
+      "West Bengal",
+      "743349"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "contacts": [
+    {
+      "name": "Chinnappa",
+      "email": "",
+      "designation": "Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3165",
+  "name": "Society For Upliftment Of Needy (Sun)",
+  "primaryEmail": "sunapind@rediffmail.com",
+  "telephone": [
+    "918742258595",
+    "918742258595"
+  ],
+  "mainAddrress": {
+    "state": "Telangana",
+    "address": [
+      "H. No 11-8-35, Lenin Nagar",
+      "Narasimha Swamy Temple Road",
+      "Khammam",
+      "Telangana",
+      "507001"
+    ]
+  }
+}

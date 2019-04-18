@@ -1,0 +1,49 @@
+{
+  "contacts": [
+    {
+      "name": "Sandhya Manoj",
+      "email": "sandhya@ffe.org",
+      "designation": "Chief Operating Officer",
+      "mobile": [
+        "91-80-25201925",
+        "91-9900613707"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=150",
+  "name": "Foundation for Excellence India Trust",
+  "primaryEmail": "sudha@ffe.org",
+  "website": "www.ffe.org",
+  "organisationType": [
+    "Direct Service",
+    "Network"
+  ],
+  "telephone": [
+    "919900613707",
+    "918025201925"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "Foundation For Excellence India Trust",
+      "# 840, MHT House, 1st Floor, 5th Main, Indiranagar 1st Stage",
+      "Bengaluru",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560038"
+    ]
+  },
+  "briefDescription": "Foundation for Excellence (FFE) is a registered non-profit, based in USA and was founded by the renowned serial entrepreneur, Dr. Prabhu Goel. The Foundation For Excellence India Trust (FFEIT) was registered in 2003 as a Public Charitable Trust in India to expand the scope of FFE’s support and works in association with FFE USA.The mission of FFE is to transform the lives of academically bright but financially needy students in India by awarding merit cum means scholarships. In the twenty four years since its inception in 1994, FFE has helped over 18,500 scholars across India. Over 52,027 scholarships worth over Rs.128 Crores have been awarded to students in 27 states in India. FFE has a huge network of over 500 volunteers called \"Facilitators\" who identify potential awardees after conducting a thorough due diligence to ensure only deserving students are awarded scholarships. (More information on www.ffe.org)",
+  "yearOfEstablishment": "2003",
+  "regiseredAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "302, Adarsh Court",
+      "480, 7th Cross, 7th Block, Jayanagar,",
+      "Bangalore",
+      "Bengaluru (Bangalore) Rural",
+      "Karnataka",
+      "560082"
+    ]
+  }
+}

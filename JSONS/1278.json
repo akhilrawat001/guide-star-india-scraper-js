@@ -1,0 +1,35 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1278",
+  "name": "JOHNS Daycare and Boarding for Senior Citizens Association",
+  "primaryEmail": "johns_betterworld@rediffmail.com",
+  "website": "www.johnsseniorcitizens.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "911126501513"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "Plot No. 106, G-Block,",
+      "Phase-6,Aya Nagar,",
+      "New Delhi",
+      "Delhi",
+      "110047",
+      "AP_TelBill_2001.PDF"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "C-5A/312-B",
+      ",Janakpuri,",
+      "Delhi",
+      "New Delhi",
+      "110058",
+      "AP_TelBill_2001.PDF"
+    ]
+  }
+}

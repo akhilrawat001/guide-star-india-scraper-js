@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Mr.Chittaranjan Hota",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8525",
+  "name": "MANAVA ADHIKAR SEVA SAMITI",
+  "primaryEmail": "massodisha@gmail.com",
+  "organisationType": [
+    "Intermediary",
+    "Support"
+  ],
+  "telephone": [
+    "916632532743",
+    "916632532743"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "-Girijasankar Mishra,L6/3",
+      "Jaganath Mandir Colony, Budharaja",
+      "Sambalpur",
+      "Odisha",
+      "768004"
+    ]
+  },
+  "briefDescription": "Manava Adhikar Seva Samiti is Located in Sambalpur, Odisha.",
+  "yearOfEstablishment": "1988"
+}

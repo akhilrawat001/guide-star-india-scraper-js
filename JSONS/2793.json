@@ -1,0 +1,36 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2793",
+  "name": "Society For Action Rural Tribal Habitant Of India (SARTHI)",
+  "primaryEmail": "sarthidelhi@gmail.com",
+  "website": "www.sarthingo.org",
+  "organisationType": [
+    "Grant-making"
+  ],
+  "telephone": [
+    "9107779",
+    "276282",
+    "919589856491"
+  ],
+  "mainAddrress": {
+    "state": "Chhattisgarh",
+    "address": [
+      "D-48,Kamlanagar,Delhi",
+      "ward No.15,Ramanujganj",
+      "Ramanujganj",
+      "Surguja",
+      "Chhattisgarh",
+      "497220"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "D - 48",
+      "Kamlanagar",
+      "Delhi",
+      "New Delhi",
+      "110007"
+    ]
+  }
+}

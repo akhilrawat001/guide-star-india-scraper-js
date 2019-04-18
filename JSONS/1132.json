@@ -1,0 +1,26 @@
+{
+  "contacts": [
+    {
+      "name": "Mammen Chandy",
+      "email": "",
+      "designation": "Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1132",
+  "name": "Tata Medical Centre Trust",
+  "primaryEmail": "mammen.chandy@tmckolkata.com",
+  "telephone": [
+    "913322810175",
+    "913322810175"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "1 Bishop Lefroy Road",
+      "Kolkata",
+      "West Bengal",
+      "700020"
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "P.Sounderarajan",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "9442538059"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6109",
+  "name": "Sidhdha Sakthi Arutchothi Vallalar Kalvi Nilayam",
+  "primaryEmail": "vknkrv1953@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919442538059",
+    "918012574393"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "Secretary, Vallalar Kalvi Nilayam,",
+      "Lingathadimedu, Kallankurichi",
+      "Ariyalur",
+      "Tamil Nadu",
+      "621705"
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Balaram Sethi",
+      "email": "udyamteamwork@yahoo.co.in",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8695",
+  "name": "UDYAM",
+  "primaryEmail": "udyamteamwork@yahoo.co.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919438579160"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "At- Oreisala,",
+      "Via- Erasama",
+      "PO - Kanipada,",
+      "Jagatsinghapur",
+      "Odisha",
+      "754139"
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Ajit Varwandkar",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3576",
+  "name": "FOUNDATION SOCIETY",
+  "primaryEmail": "info@fsindia.in",
+  "website": "www.aglakadam.org",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919826132972"
+  ],
+  "mainAddrress": {
+    "state": "Chhattisgarh",
+    "address": [
+      "FS HOUSE, MARUTI VIHAR, MAHIBABAZAR",
+      "GE ROAD, BEHIND SKY AUTOMOBILE",
+      "RAIPUR",
+      "Raipur",
+      "Chhattisgarh",
+      "492001"
+    ]
+  }
+}

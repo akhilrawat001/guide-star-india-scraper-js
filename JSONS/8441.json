@@ -1,0 +1,38 @@
+{
+  "contacts": [
+    {
+      "name": "Sudhanshu S Singh",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8441",
+  "name": "Humanitarian Aid International",
+  "primaryEmail": "info@humanitarianaidinternational.org",
+  "website": "http://www.humanitarianaidinternational.org/",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919953163572"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "113, Princess Park, Plot 33, Sector 6",
+      "Dwarka",
+      "New Delhi",
+      "South West Delhi",
+      "Delhi",
+      "110075"
+    ]
+  },
+  "briefDescription": "HAI is a newly established Indian organisation aspiring to work outside India, while also working in India on 1) humanitarian response, 2) disaster risk reduction, 3) climate change & adaptation, and 4) humanitarian advocacy. In India we are currently building up a platform, consisting of national NGOs, faith-based NGOs, corporate and media houses to respond to L2 and L* disasters with the objectives of; 1) reducing the response time to a disaster to save maximum lives, 2) reduce management cost so that maximum resources are utilised on programmes. The platform will work on other three thematic areas under a national programme to mitigate risk and vulnerability and strengthen resilience of most vulnerable communities across India.",
+  "yearOfEstablishment": "2016"
+}

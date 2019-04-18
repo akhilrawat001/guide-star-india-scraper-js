@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "John Kurian George",
+      "email": "",
+      "designation": "CEO/Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=672",
+  "name": "Swiss Emmaus Leprosy Relief Work - India (Swiss Emmaus - India)",
+  "primaryEmail": "vinitha@swissemmausindia.org",
+  "website": "www.glra-ales-india.org",
+  "telephone": [
+    "914426643184",
+    "914426646479",
+    "914426643184"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "Old No 4 & New No 94, Gajapathy Street",
+      "Shenoynagar",
+      "Chennai",
+      "Tamil Nadu",
+      "600030"
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "Pradeep Patra",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "24641864"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5708",
+  "name": "National Foundation for India",
+  "primaryEmail": "info@nfi.org.in",
+  "website": "http://www.nfi.org.in/",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Grant-making",
+    "Intermediary"
+  ],
+  "telephone": [
+    "911124641864",
+    "911124641864"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "Core 4A, India Habitat Center",
+      "Lodhi Road",
+      "New Delhi",
+      "South Delhi",
+      "Delhi",
+      "110003"
+    ]
+  }
+}

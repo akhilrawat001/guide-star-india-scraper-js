@@ -1,0 +1,58 @@
+{
+  "contacts": [
+    {
+      "name": "Benedict Damor",
+      "email": "acsssjha@hotmail.com",
+      "designation": "Secretary",
+      "mobile": [
+        "91-7392-245650",
+        "91-9425413600"
+      ]
+    },
+    {
+      "name": "Benedict Damor",
+      "email": "acsssjha@hotmail.com",
+      "designation": "Secretary",
+      "mobile": [
+        "91-7392-245650",
+        "91-9425413600"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3582",
+  "name": "Adivasi Chetna Shikshan Seva Samiti",
+  "primaryEmail": "acsssjha@hotmail.com",
+  "website": "www.adivasijhabua.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "917392245650",
+    "917392245650"
+  ],
+  "mainAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "Dilip Gate",
+      "Udaipuriya",
+      "Jhabua",
+      "Madhya Pradesh",
+      "457661"
+    ]
+  },
+  "briefDescription": "Our organisation is working in the Field of health, Education, and rural Development for tribal people . organisation also running a resydential school for the poor and tribal",
+  "yearOfEstablishment": "1992",
+  "regiseredAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "Near oldTelegraph office",
+      "Bus stand",
+      "Jhabua",
+      "Madhya Pradesh",
+      "457661"
+    ]
+  }
+}

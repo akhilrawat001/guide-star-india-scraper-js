@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Dr Anjana La",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4265",
+  "name": "Oodaan Good Shepherd Society",
+  "primaryEmail": "shilpagrawte@gmail.com",
+  "website": "gssociety.wix.com/1989",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919926122912"
+  ],
+  "mainAddrress": {
+    "state": "Chhattisgarh",
+    "address": [
+      "Good Shepherd Society, Ayodhaya Nagar, Tumgaon Road, Mahasamund. Chhattisgarh.",
+      "Tumgaon road , Mahasamund",
+      "Mahasamund",
+      "Chhattisgarh",
+      "493445"
+    ]
+  }
+}

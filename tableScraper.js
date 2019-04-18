@@ -6,9 +6,11 @@ const fs = require('fs');
 const { readJsonFile, writeJsonFile } = require('./utils.js');
 // getting the list of all urls
 var urlList = readJsonFile('data/urls.json')
+console.log(urlList.length)
 const STATES = ['Andaman and Nicobar Islands', 'Andhra Pradesh', 'Arunachal Pradesh', 'Assam', 'Bihar', 'Chandigarh', 'Chhattisgarh', 'Dadra and Nagar Haveli', 'Daman and Diu', 'Delhi', 'Goa', 'Gujarat', 'Haryana', 'Himachal Pradesh', 'Jammu and Kashmir', 'Jharkhand', 'Karnataka', 'Kerala', 'Lakshadweep', 'Madhya Pradesh', 'Maharashtra', 'Manipur', 'Meghalaya', 'Mizoram', 'Nagaland', 'Odisha', 'Puducherry', 'Punjab', 'Rajasthan', 'Sikkim', 'Tamil Nadu', 'Telangana', 'Tripura', 'Uttarakhand', 'Uttar Pradesh', 'West Bengal']
 // function which will get NGO data
 const getNGOdata = (fileName, url) => {
+    console.log('Done', fileName)
     // CSV dummy Data
     let dummyData = {
         "Name": null,
@@ -120,7 +122,7 @@ const getNGOdata = (fileName, url) => {
                 "email": "",
                 "designation": "",
                 "mobile": []
-        
+
             }
             $(element).find("div.CPBData").each((i, ele) => {
                 tempData.push($(ele).text().trim())
@@ -151,7 +153,7 @@ const getNGOdata = (fileName, url) => {
                     for (let x of tdata) {
                         if (x.includes("@")) {
                             contact.email = x.trim().trim('\t')
-                        } else if ((!x.includes("@")) && x.length > 1 && x.trim() != "" && (!x.includes("+")) && x.trim().trim('\t') != contact.name ) {
+                        } else if ((!x.includes("@")) && x.length > 1 && x.trim() != "" && (!x.includes("+")) && x.trim().trim('\t') != contact.name) {
                             contact.designation = x.trim().trim('\t')
                         }
                     }
@@ -167,7 +169,7 @@ const getNGOdata = (fileName, url) => {
                     // console.log(numbers)
                 }
                 else if (contact.hasOwnProperty("mobile") || contact.hasOwnProperty("name")) {
-                    console.log(contact)
+                    // console.log(contact)
                     dataObject.contacts.push(contact)
                 }//console.log(dataObject.contacts)
             })
@@ -194,7 +196,7 @@ const getNGOdata = (fileName, url) => {
     if (dataObject.hasOwnProperty("name")) { dummyData['Name'] = dataObject.name }
     if (dataObject.hasOwnProperty("website")) { dummyData['Website'] = dataObject.website }
     if (dataObject.hasOwnProperty("yearOfEstablishment")) { dummyData['Year of Establishment'] = dataObject.yearOfEstablishment }
-    if (dataObject.hasOwnProperty("email")) { dummyData['Primary eMail'] = dataObject.email }
+    if (dataObject.hasOwnProperty("primaryEmail")) { dummyData['Primary eMail'] = dataObject.primaryEmail }
     if (dataObject.hasOwnProperty("telephone")) { dummyData['Telephones'] = dataObject.telephone.join(',') }
     if (dataObject.hasOwnProperty("briefDescription")) { dummyData['Brief Information'] = dataObject.briefDescription }
     if (dataObject.hasOwnProperty("guideStarURL")) { dummyData['GuideStar Url'] = dataObject.guideStarURL }
@@ -202,8 +204,8 @@ const getNGOdata = (fileName, url) => {
     if (dataObject.hasOwnProperty("mainAddrress")) { dummyData['Main Address'] = dataObject.mainAddrress.address.join(","); dummyData['Main Address State'] = dataObject.mainAddrress.state; }
     if (dataObject.hasOwnProperty("organisationType")) {
         let OT = dataObject.organisationType
-        if (OT.length > 10) {
-            OT = OT.slice(0, 10)
+        if (OT.length > 6) {
+            OT = OT.slice(0, 6)
         }
         for (let x in OT) {
             dummyData["Org Type " + (parseInt(x) + 1)] = OT[x]
@@ -225,7 +227,7 @@ const getNGOdata = (fileName, url) => {
     // console.log(dataObject)
 }
 // calling the function in a loop to get the data
-for (let url of urlList.slice(0, 1000)) {
+for (let url of urlList) {
     var fileName = url.split("=")[1]
     getNGOdata(fileName, url)
 }

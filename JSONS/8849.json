@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Avinash Bhawar",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8849",
+  "name": "DWARKA PRATISHTHAN",
+  "primaryEmail": "dwarkapratishthan@gmail.com",
+  "website": "www.dwarkapratishthan.org.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918805284555"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Kerul Road",
+      "Little Birds Primary Education",
+      "Kada  Tal  Ashti",
+      "Beed",
+      "Maharashtra",
+      "414202"
+    ]
+  },
+  "briefDescription": "we will want to setup residential school for underprivileged children in beed district in maharashtra",
+  "yearOfEstablishment": "2000"
+}

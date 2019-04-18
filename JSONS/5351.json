@@ -1,0 +1,37 @@
+{
+  "contacts": [
+    {
+      "name": "Anne Munger",
+      "email": "anne@voice4girls.org",
+      "designation": "Marketing and Communications Associate",
+      "mobile": []
+    },
+    {
+      "name": "Anne Munger",
+      "email": "anne@voice4girls.org",
+      "designation": "Marketing and Communications Associate",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5351",
+  "name": "VOICE 4 Girls",
+  "primaryEmail": "voice@voice4girls.org",
+  "website": "http://www.voice4girls.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918790356741"
+  ],
+  "mainAddrress": {
+    "state": "Telangana",
+    "address": [
+      "6-1-68/2 G-1 Sai Nivas Apartments",
+      "Lutheran Church Lane",
+      "Saifabad, Hyderabad",
+      "Hyderabad",
+      "Telangana",
+      "500004"
+    ]
+  }
+}

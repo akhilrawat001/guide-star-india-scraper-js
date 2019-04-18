@@ -1,0 +1,35 @@
+{
+  "contacts": [
+    {
+      "name": "Tejas Kirtilal Jain",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "7588686361"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8382",
+  "name": "NORWEGIAN FREE EVANGELICAL MISSION",
+  "primaryEmail": "efilecatejas2009@gmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Intermediary",
+    "Support"
+  ],
+  "telephone": [
+    "917588686361"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "At Post Dhanora",
+      "Dhanora",
+      "Chopda",
+      "Jalgaon",
+      "Maharashtra",
+      "425107"
+    ]
+  }
+}

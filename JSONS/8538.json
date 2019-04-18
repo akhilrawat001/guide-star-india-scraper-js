@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Sarbeswar Moharana",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8538",
+  "name": "SOCIAL MISSION WORLD",
+  "primaryEmail": "careworld2009@yahoo.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919937530680",
+    "919439635362"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "At.-Gothada,Po.-Naugaon,Via.-Naugaon,Tha.-Naugaon",
+      "Gothada",
+      "Jagatsinghapur",
+      "Odisha",
+      "754113"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "contacts": [
+    {
+      "name": "S.V.Narayana Reddy",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4439",
+  "name": "SNEHA  SOCIETY",
+  "primaryEmail": "snehasyamala5@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "914023860019",
+    "914023860019"
+  ],
+  "mainAddrress": {
+    "state": "Telangana",
+    "address": [
+      "HIGH-123(new) , 1st floor, Bharathnagar colony,",
+      "Moosapet, Hyderabad",
+      "Hyderabad",
+      "Telangana",
+      "500018"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Telangana",
+    "address": [
+      "HIGH-123(new) , 1st floor, Bharathnagar colony,",
+      "Moosapet, Hyderabad",
+      "Hyderabad",
+      "Telangana",
+      "500018"
+    ]
+  }
+}

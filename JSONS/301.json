@@ -1,0 +1,38 @@
+{
+  "contacts": [
+    {
+      "name": "Pradeep Singh",
+      "email": "pradeep.singh@soscvindia.org",
+      "designation": "National Director",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=301",
+  "name": "SOS (Save Our Souls) Children's Villages (Kinderdorf) of India",
+  "primaryEmail": "soscvim@vsnl.net",
+  "website": "www.soscvindia.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "912266346578",
+    "912266541754",
+    "912266346578"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "4th Flr, Onlooker Building",
+      "14, Sir P.M.Rd, Fort",
+      "Mumbai",
+      "Maharashtra",
+      "400001"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Maharashtra"
+    ]
+  }
+}

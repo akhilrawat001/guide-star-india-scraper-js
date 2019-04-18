@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Tilak S Chauhan",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4414",
+  "name": "Community Development & Welfare Association",
+  "primaryEmail": "nireekshana_hyd@yahoo.co.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919849107449"
+  ],
+  "mainAddrress": {
+    "state": "Telangana",
+    "address": [
+      "F-216, Vaishali Garden Apts, Nagarjuna Nagar, Tarnaka, Secuderabad",
+      "3-5-170/1/5, 2nd floor, Adjacent to Shanthi Theatre, Narayanguda, Hyderabad",
+      "Hyderabad",
+      "Telangana",
+      "500017"
+    ]
+  }
+}

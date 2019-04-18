@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Ramesh Vaghela",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4458",
+  "name": "Sant Rohidas Education and Gramodhyog Trust",
+  "primaryEmail": "sregt_org2002@yahoo.in",
+  "website": "--",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918128687636"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "Bhaliyadary Bhagol-Gayno Tekro,",
+      "Nr. Primary School-6, Vaghelavas,",
+      "KALOL (N.G.)",
+      "Gandhinagar",
+      "Gujarat",
+      "382721"
+    ]
+  }
+}

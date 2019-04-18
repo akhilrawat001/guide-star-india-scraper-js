@@ -1,0 +1,48 @@
+{
+  "contacts": [
+    {
+      "name": "RUPA SINGH",
+      "email": "rupaji.singh@gmail.com",
+      "designation": "EXECUTIVE DIRECTOR",
+      "mobile": [
+        "91-11-65655233",
+        "91-9350004647"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7698",
+  "name": "CARE VILLAGE FOUNDATION (CVF)",
+  "primaryEmail": "carevillagetrust@gmail.com",
+  "website": "www.cvfindia.org",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919350004647"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "POKET -D/16 LOKNAYAKPURAM,BAKKARWALA,MUNDAKA-110041",
+      "NEAR JJ COLONY AND VILLAGE BAKKARWALA DDA FLATS",
+      "DELHI",
+      "West Delhi",
+      "Delhi",
+      "110041"
+    ]
+  },
+  "briefDescription": "CARE VILLAGE FOUNDATION is situated in Delhi.CARE VILLAGE FOUNDATION is a Social Welfare Organization working towards the total development of the society. It has gone much ahead in rendering services like counselling, development cum training services, awareness campaigns, self-employment projects along with other voluntary/Government agencies etc. to the under-privileged, unaware and depressed sections of the society. We have extended our services and the scope of development to cover the vast sections of people including middle class so that full",
+  "yearOfEstablishment": "2012",
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "J-1/40 B PHASE 1 BUDH VIHAR",
+      "NEAR AWANTIKA CHOWK ROHINI",
+      "DELHI",
+      "North West Delhi",
+      "Delhi",
+      "110085"
+    ]
+  }
+}

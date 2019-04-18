@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Sanyukta Narvekar",
+      "email": "icmh11@gmail.com",
+      "designation": "General Manager",
+      "mobile": [
+        "91-22-23855205"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=227",
+  "name": "The Indian Council for Mental Hygiene",
+  "primaryEmail": "icmh11@gmail.com",
+  "website": "www.icmh.org.in",
+  "telephone": [
+    "912223855205",
+    "912223861087",
+    "919821621847"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "1st Khetwadi Lane, UPM School Building",
+      "SVP Road, Girgaum",
+      "Mumbai",
+      "Maharashtra",
+      "400004"
+    ]
+  }
+}

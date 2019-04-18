@@ -1,0 +1,35 @@
+{
+  "contacts": [
+    {
+      "name": "Eklavya Sinha",
+      "email": "reacheklavya@yahoo.com",
+      "designation": "Chief Functionary",
+      "mobile": []
+    },
+    {
+      "name": "Eklavya Sinha",
+      "email": "reacheklavya@yahoo.com",
+      "designation": "Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1374",
+  "name": "India Foundation",
+  "primaryEmail": "suryakanthi@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919958828582"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "Flat No.29",
+      "DDA-SFS,",
+      "Delhi",
+      "New Delhi",
+      "110016"
+    ]
+  }
+}

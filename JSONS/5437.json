@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "name": "Sayyed Zahir Ali",
+      "email": "zahir.style@gmail.com",
+      "designation": "Secretory",
+      "mobile": [
+        "91-7879784516"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5437",
+  "name": "Go Forth Welfare Society",
+  "primaryEmail": "goforthngo@gmail.com",
+  "website": "www.goforthngo.blogspot.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "917879784516"
+  ],
+  "mainAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "33/1 Milki Pura Ujjain",
+      "Ujjain",
+      "Madhya Pradesh",
+      "456006"
+    ]
+  },
+  "briefDescription": "-Health & Education-Providing Professional Education In free of cost-Giving Seminars on career development -Organising Vocational education programmes-running our own project go forth education @  skills Mission",
+  "yearOfEstablishment": "2013"
+}

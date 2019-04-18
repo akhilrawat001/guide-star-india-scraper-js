@@ -1,0 +1,49 @@
+{
+  "contacts": [
+    {
+      "name": "Kunal Mehta",
+      "email": "kunal@riticonsultancy.in",
+      "designation": "treasurer",
+      "mobile": [
+        "91-79-40307484",
+        "91-9227699221"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8420",
+  "name": "HERVA FOUNDATION",
+  "primaryEmail": "hervafoundation@gmail.com",
+  "website": "http://hervafoundation.org",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "917926853931",
+    "917926853931"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "Care of P R Subramaniam",
+      "12, Satyam aprt, Bhaikakanagar",
+      "Thaltej,",
+      "Ahmedabad",
+      "Gujarat",
+      "380059"
+    ]
+  },
+  "briefDescription": "To adopt villages and provide 1.healthcare, treatment and also educate villagers on prevention of diseases2.Create awareness through the use of technology mainly telemedicine, internet technology and use of modern gadgets.3 make the village self–sufficient and economically sustaining.Our aim is to educate rural villages and make them aware of how to take proper care of their health. These programmes are focused towards addressing issues of personal health care, hygiene, and prevention of illness. Apart from emphasising on the general as well as personal cleanliness and its benefits, we have to focus on our awareness programs to the women and the adolescent in the village.",
+  "yearOfEstablishment": "2014",
+  "regiseredAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "C/o P R Subramaniam",
+      "12, Satyam aprt, Bhaikakanagar",
+      "Thaltej,",
+      "Ahmedabad",
+      "Gujarat",
+      "380059"
+    ]
+  }
+}

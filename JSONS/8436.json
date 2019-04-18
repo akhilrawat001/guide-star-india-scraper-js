@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Sanjay Kumar",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8436",
+  "name": "Navoday Gram",
+  "primaryEmail": "sanjaykmr65@yahoo.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919430466186"
+  ],
+  "mainAddrress": {
+    "state": "Bihar",
+    "address": [
+      "Village : Tarauni",
+      "Post Kukraun-2",
+      "Via Bhawanipur",
+      "Purnia",
+      "Bihar",
+      "850430"
+    ]
+  }
+}

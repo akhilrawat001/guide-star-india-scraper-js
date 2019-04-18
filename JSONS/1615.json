@@ -1,0 +1,44 @@
+{
+  "contacts": [
+    {
+      "name": "Josephin",
+      "email": "nobleexim@gmail.com",
+      "designation": "Secretary",
+      "mobile": [
+        "91-44-22265305"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1615",
+  "name": "Human Upliftment Trust",
+  "primaryEmail": "h_uplift@yahoo.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Network"
+  ],
+  "telephone": [
+    "914422265305",
+    "919841158075"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "No:19/48BagavathSinghStreet",
+      "WestTambaram",
+      "Chennai",
+      "Tamil Nadu",
+      "600045"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "88/14MathalangulaStreet,",
+      "PeriyarStatueBackSide,",
+      "Tiruvannamalai",
+      "Tamil Nadu",
+      "606601"
+    ]
+  }
+}

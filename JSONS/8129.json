@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Mukund Nikam",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8129",
+  "name": "VANVASI UTKARSH SAMITI",
+  "primaryEmail": "vanvasinvp@gmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919422795749"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Near New Police Line",
+      "Juna Sarkari Dawakhana road",
+      "Nandurbar",
+      "Maharashtra",
+      "425418"
+    ]
+  }
+}

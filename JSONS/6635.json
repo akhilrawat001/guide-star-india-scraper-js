@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Mr.Nishath Kirmani Ali",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6635",
+  "name": "Autism Society of India",
+  "primaryEmail": "kavitasharma.prayas@gmail.com",
+  "website": "http://www.autismsocietyofindia.org/",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919845953473"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "Autism Society of India, 60, Vittal Mallya Road,",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560001"
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Pranabesh Sardar",
+      "email": "pranabeshsardar@hotmail.com",
+      "designation": "Treasurer",
+      "mobile": [
+        "91-3174-222339"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1073",
+  "name": "Kalatala Sristhi Sathi Rural Development Society",
+  "primaryEmail": "sristhisathi@gmail.com",
+  "telephone": [
+    "913174222339",
+    "919733094302"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Vill + P.O. Kalatala Hat  P.S. Ramnagar",
+      "Falta SEZ",
+      "South 24 Parganas",
+      "West Bengal",
+      "743504"
+    ]
+  }
+}

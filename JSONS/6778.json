@@ -1,0 +1,31 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6778",
+  "name": "FACSIMILE ORISSA",
+  "primaryEmail": "facsimileorissa@rediffmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919437300014"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "Main Road",
+      "In front of NAC High School",
+      "Nayagarh",
+      "Odisha",
+      "752070"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Odisha",
+    "address": [
+      "At & Po Nayagarh",
+      "Puri",
+      "Odisha",
+      "752070"
+    ]
+  }
+}

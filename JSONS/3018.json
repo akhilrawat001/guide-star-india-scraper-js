@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Yezdi J. Batliwala",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3018",
+  "name": "Vyakti Vikas Kendra India",
+  "primaryEmail": "admin@vvki.net",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "918043413700",
+    "918043413700"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "#54, Jayanagar",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560046"
+    ]
+  }
+}

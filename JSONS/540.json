@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "V Jagannath (Dr)",
+      "email": "",
+      "designation": "Administrator",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=540",
+  "name": "Tata Steel Family Initiatives Foundation",
+  "primaryEmail": "cfi.cfi@tatasteel.com",
+  "telephone": [
+    "916572228680",
+    "916572228591",
+    "916572228680"
+  ],
+  "mainAddrress": {
+    "state": "Jharkhand",
+    "address": [
+      "Road No.3, BH Area Kadma",
+      "Jamshedpur",
+      "East Singhbhum",
+      "Jharkhand",
+      "831005"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Mridula Chandra",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5161",
+  "name": "Health & Social Development Research Centre",
+  "primaryEmail": "mridulachandra@rediffmail.com",
+  "website": "www.hsdrc.org",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "911412611615",
+    "911412611615"
+  ],
+  "mainAddrress": {
+    "state": "Rajasthan",
+    "address": [
+      "B 130,",
+      "Sethi COlony",
+      "Jaipur",
+      "Rajasthan",
+      "302004"
+    ]
+  }
+}

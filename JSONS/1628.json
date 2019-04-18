@@ -1,0 +1,27 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1628",
+  "name": "Nav Jeevan Arogya Sanstha",
+  "primaryEmail": "sharad.wani@gmail.com",
+  "organisationType": [
+    "Grant-making",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "912512580718",
+    "912512520280",
+    "919422677146"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "304",
+      "Om-Shiv-Dham Apartment, 3rd Floor,Maratha Section",
+      "Ulhasnagar",
+      "Thane",
+      "Maharashtra",
+      "421004"
+    ]
+  }
+}

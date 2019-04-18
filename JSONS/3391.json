@@ -1,0 +1,42 @@
+{
+  "contacts": [
+    {
+      "name": "R.RAMALINGAM",
+      "email": "goodwillhands@gmail.com",
+      "designation": "Hony. Secretary & Managing Trustee",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3391",
+  "name": "GOODWILL HANDS",
+  "primaryEmail": "goodwillhands@gmail.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service"
+  ],
+  "telephone": [
+    "914427429167",
+    "914427429167"
+  ],
+  "mainAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "1/38, Mukkanniamman Koil Street, Opp. Mukkanniamman Koil. Periyar Nagar, Tirusulam, Chennai - 600 043.",
+      "Chennai",
+      "Kancheepuram",
+      "Tamil Nadu",
+      "600043"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Tamil Nadu",
+    "address": [
+      "1/38, Mukkanniamman Koil Street, .",
+      "Opp. Mukkanniamman Koil. Periyar Nagar, Tirusulam,",
+      "Chennai",
+      "Kancheepuram",
+      "Tamil Nadu",
+      "600043"
+    ]
+  }
+}

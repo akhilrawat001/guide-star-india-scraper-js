@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "Naveen Murari",
+      "email": "",
+      "designation": "President",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=624",
+  "name": "Om Jan Vikas Samiti",
+  "primaryEmail": "pankajmurari07@gmail.com",
+  "telephone": [
+    "915965234435",
+    "915965234206",
+    "915965234435"
+  ],
+  "mainAddrress": {
+    "state": "Uttarakhand",
+    "address": [
+      "Pithoragarh Road",
+      "Lohaghat",
+      "Champawat",
+      "Uttarakhand",
+      "262526"
+    ]
+  }
+}

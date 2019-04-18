@@ -1,0 +1,27 @@
+{
+  "contacts": [
+    {
+      "name": "Harendra Nath Bera",
+      "email": "bsds.jhargram@gmail.com",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4669",
+  "name": "Bachurdoba Social Development Society",
+  "primaryEmail": "bsds.jhargram@gmail.com",
+  "telephone": [
+    "913221256104",
+    "919475197226"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Care of-Harendra Nath Bera At-Raghunathpur(Raj College Road)",
+      "P.O-Jhargram",
+      "West Medinipur",
+      "West Bengal",
+      "721507"
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1509",
+  "name": "Swami Vivekanand Samajik Sanstha",
+  "primaryEmail": "frsandy@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Intermediary"
+  ],
+  "telephone": [
+    "912222961150",
+    "919819359575"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "39/A Wing, 4Th Floor,Namrata Building,",
+      "Tendulkar Wadi, Off Aarey Road",
+      "Goregaon (East)",
+      "Mumbai Suburban",
+      "Maharashtra",
+      "400063"
+    ]
+  }
+}

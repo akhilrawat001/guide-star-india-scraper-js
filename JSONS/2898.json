@@ -1,0 +1,26 @@
+{
+  "contacts": [
+    {
+      "name": "Joseph Pius",
+      "email": "",
+      "designation": "Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2898",
+  "name": "Snehdeep",
+  "primaryEmail": "snehdeep_baroda@yahoo.co.in",
+  "telephone": [
+    "919879320298"
+  ],
+  "mainAddrress": {
+    "state": "Gujarat",
+    "address": [
+      "101 Pavan Park,",
+      "Navayard",
+      "Vadodara",
+      "Gujarat",
+      "390024"
+    ]
+  }
+}

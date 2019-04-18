@@ -1,0 +1,26 @@
+{
+  "contacts": [
+    {
+      "name": "Smt. Shaila Tiwari, Secretary",
+      "email": "anupamaeducationsociety@yahoo.co.in",
+      "designation": "Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5760",
+  "name": "Anupama Education Society",
+  "primaryEmail": "anupamaeducationsociety@yahoo.co.in",
+  "telephone": [
+    "917872228200",
+    "919425362071"
+  ],
+  "mainAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "Bharhut Nagar,",
+      "Satna",
+      "Madhya Pradesh",
+      "485001"
+    ]
+  }
+}

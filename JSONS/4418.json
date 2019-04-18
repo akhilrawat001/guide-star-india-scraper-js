@@ -1,0 +1,26 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4418",
+  "name": "Women Weave Charitable Trust",
+  "primaryEmail": "info@womenweave.org",
+  "website": "www.womenweave.org",
+  "organisationType": [
+    "Direct Service",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919993815345"
+  ],
+  "mainAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "Gudi Mudi",
+      "GadiKhana",
+      "Maheshwar",
+      "Khargone",
+      "Madhya Pradesh",
+      "451224"
+    ]
+  }
+}

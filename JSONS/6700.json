@@ -1,0 +1,46 @@
+{
+  "contacts": [
+    {
+      "name": "Amitasana Dasa",
+      "email": "ayyappa.dasika@iskconbangalore.org",
+      "designation": "Governing Body Commissioner",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6700",
+  "name": "International Society for Krishna Consciousness, Bangalore",
+  "primaryEmail": "ayyappa.dasika@iskconbangalore.org",
+  "website": "https://iskconbangalore.org",
+  "organisationType": [
+    "Direct Service",
+    "Grant-making",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "918023471956",
+    "919342312504"
+  ],
+  "mainAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "Hare Krishna Hill",
+      "WOC Road, Rajaji Nagar",
+      "Bangalore",
+      "Bengaluru (Bangalore) Urban",
+      "Karnataka",
+      "560010"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Karnataka",
+    "address": [
+      "Survey No.55",
+      "Vasanthapura Village, VIA Kanakaura Road",
+      "Bangalore",
+      "Bengaluru (Bangalore) Rural",
+      "Karnataka",
+      "560062"
+    ]
+  }
+}

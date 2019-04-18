@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Mr.Banshidhar Das",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7535",
+  "name": "MAA BATAMANGALA YUBAK SANGHA",
+  "primaryEmail": "mbys61@yahoo.co.in",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919437438766"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "Vill-Mathasahi",
+      "Po-Bilasuni",
+      "Block-Niali",
+      "Cuttack",
+      "Odisha",
+      "754004"
+    ]
+  }
+}

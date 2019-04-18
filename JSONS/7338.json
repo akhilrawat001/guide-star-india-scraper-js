@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "MR.SAMSON SIKHA",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7338",
+  "name": "Rock Solid Social Service Organisation Atchampet",
+  "primaryEmail": "rocksolidorganisation@gmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "918640246809",
+    "918640246809"
+  ],
+  "mainAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "Do-no-8-27,8th ward,",
+      "Old Sc Colony,Near Elementary School",
+      "Atchampet post",
+      "Guntur",
+      "Andhra Pradesh",
+      "522409"
+    ]
+  }
+}

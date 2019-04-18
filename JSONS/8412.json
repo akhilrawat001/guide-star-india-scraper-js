@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "SUBASH CHANDRA SURYA",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8412",
+  "name": "Utakal Vikas",
+  "primaryEmail": "subashsurya10@rediffmail.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "916856222760",
+    "916856222760"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "RANIGUDA FARM",
+      "DFO 2ND LANE",
+      "RAYAGADA",
+      "Rayagada",
+      "Odisha",
+      "765001"
+    ]
+  }
+}

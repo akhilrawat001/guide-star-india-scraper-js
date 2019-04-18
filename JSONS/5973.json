@@ -1,0 +1,49 @@
+{
+  "contacts": [
+    {
+      "name": "Sarika Desai",
+      "email": "sarikavijay@gmail.com",
+      "designation": "Director",
+      "mobile": [
+        "91-9821075442"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5973",
+  "name": "SPARSHA CHARITABLE TRUST",
+  "primaryEmail": "sparshatrust@hotmail.com",
+  "website": "www.sparshatrust.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "919223290796"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "C-1 , SHRAM SHAKTI ,",
+      "WADALA TRUCK TERMINAL NEXT TO TT POLICE STATION",
+      "WADALA , MUMBAI",
+      "Mumbai",
+      "Maharashtra",
+      "400037"
+    ]
+  },
+  "briefDescription": "The vision of ‘Sparsha Charitable Trust’ is “Creating an empowered future generation through education”.The Mission of ‘Sparsha Charitable Trust’ is to “Provide educational support to enable children to reach their optimum potential”It’s clearly stated in the above statements that we focus on the child’s overall development, midpoint being education. Along with children also works with the parents, since the parents are in charge of the childhood and education of their children. Sparsha runs the “Parents Counselling Programme” and “Community Outreach Programme” by counselling the parents to understand the importance of their children´s education and by supporting them to get the children enrolled in school.",
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "169/ 5534, KANNAMWAR NAGAR",
+      "VIKHROLI (E)",
+      "MUMBAI",
+      "Mumbai Suburban",
+      "Maharashtra",
+      "400083"
+    ]
+  }
+}

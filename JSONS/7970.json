@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Abdul Aziz Mulla",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7970",
+  "name": "ROGAY CHARITIES NO.1",
+  "primaryEmail": "rogaycharities@yahoo.com",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "912223462364",
+    "912223462364"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "123, Bapu Khote Street,",
+      "Jamni Mohalla,",
+      "Mumbai",
+      "Maharashtra",
+      "400003"
+    ]
+  }
+}

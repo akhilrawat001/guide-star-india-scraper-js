@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "name": "Raktim Dwary",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8692",
+  "name": "ANANDANAGAR KALIMATA KALYAN SAMITY",
+  "primaryEmail": "dwary.raktim@gmail.com",
+  "website": "www.akmks.org",
+  "organisationType": [
+    "Support"
+  ],
+  "telephone": [
+    "919804986200"
+  ],
+  "mainAddrress": {
+    "state": "West Bengal",
+    "address": [
+      "Vill. & P.O. - Anandanagar,P.S.- Nischinda(Bally),",
+      "Near Anandanagar Keler Math",
+      "Anandanagar",
+      "Howrah",
+      "West Bengal",
+      "711227"
+    ]
+  }
+}

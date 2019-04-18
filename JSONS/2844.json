@@ -1,0 +1,26 @@
+{
+  "contacts": [
+    {
+      "name": "Santosh Kumar Jayapati",
+      "email": "alok_ngo@sify.com",
+      "designation": "Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2844",
+  "name": "AGAMI LOKHA KALYAN SANGHA",
+  "primaryEmail": "alok_ngo@sify.com",
+  "telephone": [
+    "919438101209"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "AT/P.O-PANIGANDA",
+      "GAJAPATI",
+      "Gajapati",
+      "Odisha",
+      "761217"
+    ]
+  }
+}

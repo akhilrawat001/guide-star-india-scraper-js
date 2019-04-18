@@ -1,0 +1,28 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8064",
+  "name": "Score More Foundation",
+  "primaryEmail": "scoremorefoundation@gmail.com",
+  "website": "www.scoremorefoundation.com",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Intermediary"
+  ],
+  "telephone": [
+    "919848407654",
+    "918666583525",
+    "917702802426"
+  ],
+  "mainAddrress": {
+    "state": "Andhra Pradesh",
+    "address": [
+      "27-18-42, 2nd Floor, Congress Office Road,",
+      "Governor Pet",
+      "Vijayawada",
+      "Krishna",
+      "Andhra Pradesh",
+      "520002"
+    ]
+  }
+}

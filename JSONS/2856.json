@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "Munir Chand Mulla",
+      "email": "harit.kranti@rediffmail.com",
+      "designation": "Chief Functionary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2856",
+  "name": "Harit Kranti Pratishtan",
+  "primaryEmail": "harit.kranti@rediffmail.com",
+  "telephone": [
+    "912332212510",
+    "912332212510"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Opp.Dutta Petrol Pump,",
+      "Vasant Colony, Sangli-Miraj Road,",
+      "Kripamai",
+      "Sangli",
+      "Maharashtra",
+      "416410"
+    ]
+  }
+}

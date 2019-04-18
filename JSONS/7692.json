@@ -1,0 +1,24 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7692",
+  "name": "LOK SEWA SANSTHAN",
+  "primaryEmail": "lss_blp@rediffmail.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "5263235047",
+    "915263235047"
+  ],
+  "mainAddrress": {
+    "state": "Uttar Pradesh",
+    "address": [
+      "Civil lines",
+      "Near bus station",
+      "Balrampur",
+      "Uttar Pradesh",
+      "271201"
+    ]
+  }
+}

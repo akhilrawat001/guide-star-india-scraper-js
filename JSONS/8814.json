@@ -1,0 +1,40 @@
+{
+  "contacts": [
+    {
+      "name": "Mario Noronha",
+      "email": "mario@charkha.org",
+      "designation": "CEO",
+      "mobile": []
+    },
+    {
+      "name": "Mario Noronha",
+      "email": "mario@charkha.org",
+      "designation": "CEO",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8814",
+  "name": "Charkha",
+  "primaryEmail": "charkha@bol.net.in",
+  "website": "http://www.charkha.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Network"
+  ],
+  "telephone": [
+    "911126691135"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "Flat No. 12A, Vasant Apartments",
+      "Vasant Vihar, Behind Niryat Bhawan, Opp. R & R Hospital",
+      "New Delhi",
+      "South Delhi",
+      "Delhi",
+      "110057"
+    ]
+  },
+  "briefDescription": "Founded in 1994 by the visionary social activist, Sanjoy Ghose, Charkha Development Communication Network is an innovative non-profit organization that works towards the social and economic inclusion of rural marginalized communities through the creative use of media. Charkha works towards the social and economic inclusion of marginalized communities in remote and conflict areas through the creative use of media. Many of these areas are highly inaccessible and socially, economically and politically unstable. Charkha conducts five day skill building workshops for youth aiming to train participants to report and write on local issues while also building their capacity to become social and media advocates.",
+  "yearOfEstablishment": "1994"
+}

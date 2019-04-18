@@ -1,0 +1,36 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7564",
+  "name": "ASSAM INSTITUTE",
+  "primaryEmail": "assaminstitute@gmail.com",
+  "website": "www.assaminstitute.com",
+  "organisationType": [
+    "Direct Service",
+    "Support"
+  ],
+  "telephone": [
+    "919864935594"
+  ],
+  "mainAddrress": {
+    "state": "Assam",
+    "address": [
+      "Dhamdhama,",
+      "P.O Niz Dhamdhama,",
+      "P.s.: Ghograpar",
+      "Nalbari",
+      "Assam",
+      "781349"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Assam",
+    "address": [
+      "Jalukbari,",
+      "Guwahati-781014, (Assam) Corporate Office: Dhamdhama,",
+      "P.o.: Niz Dhamdhama",
+      "Nalbari",
+      "Assam",
+      "781349"
+    ]
+  }
+}

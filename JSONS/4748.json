@@ -1,0 +1,38 @@
+{
+  "contacts": [
+    {
+      "name": "PKM Swamy",
+      "email": "",
+      "designation": "",
+      "mobile": [
+        "25088227"
+      ]
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4748",
+  "name": "Chronic Care Foundation",
+  "primaryEmail": "ceo@chroniccareindia.org",
+  "website": "www.chroniccareindia.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Direct Service",
+    "Grant-making",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "911125088227",
+    "911125088227"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "E-520, 2nd Floor, Palam Extn. Near Ramphal Chowk, Sec-7",
+      "Dwarka, New Delhi",
+      "South West Delhi",
+      "Delhi",
+      "110075"
+    ]
+  },
+  "briefDescription": "CCF implements the National Program on prevention of Non Communicable Chronic Diseases(NPNCCD) through Awareness programs consisting of magic shows, street theatre, community health talk, and diagnostic tests in partnership with NGOs. CCF conducts several Continuing Medical Educational programs for health professionals. CCF does capacity building of NGOs in several states of in INDIA. Developed rich resource material on NCD. Is a national research organization on NCD besides high level advocacy. All our programs narrated above have catered to more than two million people and thousands of health care professionals and policy makers across the country."
+}

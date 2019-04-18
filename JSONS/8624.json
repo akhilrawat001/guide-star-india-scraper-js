@@ -1,0 +1,38 @@
+{
+  "contacts": [
+    {
+      "name": "Manoj Patel",
+      "email": "manojpatel_bgr@yahoo.co.in",
+      "designation": "Secretary",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8624",
+  "name": "Kruti",
+  "primaryEmail": "manojpatel_bgr@yahoo.co.in",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919938629542"
+  ],
+  "mainAddrress": {
+    "state": "Odisha",
+    "address": [
+      "Malpara Bose colony",
+      "Balangir",
+      "Odisha",
+      "767021"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Odisha",
+    "address": [
+      "At Pandarani",
+      "Po Kandajuri",
+      "Balangir",
+      "Odisha",
+      "767021"
+    ]
+  }
+}

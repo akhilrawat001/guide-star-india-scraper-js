@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "RAJENDRA SINGH CHAUHAN",
+      "email": "kailashfoundation@rediffmail.com",
+      "designation": "PRESIDENT",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5026",
+  "name": "KAILASH FOUNDATION FOR DEVELOPMENT",
+  "primaryEmail": "kailashfoundation@rediffmail.com",
+  "website": "www kailashfoundationfordevlopment.com",
+  "organisationType": [
+    "Direct Service"
+  ],
+  "telephone": [
+    "919926498171"
+  ],
+  "mainAddrress": {
+    "state": "Madhya Pradesh",
+    "address": [
+      "5, GAUSHALA ROAD, ALOTE",
+      "ALOTE",
+      "Ratlam",
+      "Madhya Pradesh",
+      "457114"
+    ]
+  }
+}

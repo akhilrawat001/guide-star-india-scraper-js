@@ -1,0 +1,38 @@
+{
+  "contacts": [],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1655",
+  "name": "Sampradaan Indian Centre for Philanthropy",
+  "primaryEmail": "ed@sampradaan.org",
+  "website": "www.sampradaan.org",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Intermediary",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "911146594572",
+    "911146594572"
+  ],
+  "mainAddrress": {
+    "state": "Delhi",
+    "address": [
+      "C8/8704, Vasant Kunj",
+      "C-8/8704, Vasant Kunj",
+      "New Delhi",
+      "South Delhi",
+      "Delhi",
+      "110019"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Delhi",
+    "address": [
+      "A-28, C R Park",
+      "CR Park",
+      "New Delhi",
+      "South Delhi",
+      "Delhi"
+    ]
+  }
+}

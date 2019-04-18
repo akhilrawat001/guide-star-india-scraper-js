@@ -1,0 +1,40 @@
+{
+  "contacts": [
+    {
+      "name": "Debi Goenka",
+      "email": "debi@cat.org.in",
+      "designation": "Exec. Trustee",
+      "mobile": []
+    }
+  ],
+  "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=268",
+  "name": "Conservation Action Trust",
+  "primaryEmail": "debi@cat.org.in",
+  "website": "www.cat.org.in",
+  "organisationType": [
+    "Advocacy & Campaigning",
+    "Network",
+    "Support"
+  ],
+  "telephone": [
+    "912222006114",
+    "919820086404",
+    "912222006115"
+  ],
+  "mainAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "0.6, Court Chambers",
+      "35 New Marine lines",
+      "Mumbai",
+      "Maharashtra",
+      "400020"
+    ]
+  },
+  "regiseredAddrress": {
+    "state": "Maharashtra",
+    "address": [
+      "Maharashtra"
+    ]
+  }
+}
