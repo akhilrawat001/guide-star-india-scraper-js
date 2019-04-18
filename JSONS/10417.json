@@ -1,16 +1,15 @@
 {
   "contacts": [
     {
-      "name": "M K Sharma",
+      "name": "Pulakit Sharma",
       "email": "upskillscouncil@gmail.com",
-      "designation": "COO",
+      "designation": "Director",
       "mobile": []
     },
     {
       "name": "M K Sharma",
-      "email": "upskillscouncil@gmail.com",
       "designation": "COO",
-      "mobile": []
+      "email": "upskillscouncil@gmail.com"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10417",

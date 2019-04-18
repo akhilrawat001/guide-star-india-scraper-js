@@ -1,12 +1,10 @@
 {
   "contacts": [
     {
-      "name": "Mahesh Menon",
-      "email": "mahesh@vkvapt.org",
-      "designation": "Office Incharge",
-      "mobile": [
-        "91-373-2324320"
-      ]
+      "name": "Pravin Dabholkar",
+      "email": "",
+      "designation": "Secretary",
+      "mobile": []
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6826",

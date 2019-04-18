@@ -1,12 +1,10 @@
 {
   "contacts": [
     {
-      "name": "Suresh Gohil",
+      "name": "D V Vagadia",
       "email": "harirajamreli@gmail.com",
-      "designation": "Secretory",
-      "mobile": [
-        "91-2792-223525"
-      ]
+      "designation": "Director",
+      "mobile": []
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=992",

@@ -1,28 +1,15 @@
 {
   "contacts": [
     {
-      "name": "Dr. Ranjit Chakrabarty",
+      "name": "Dolonchampa Chakrabarty",
       "email": "orchi2003@gmail.com",
-      "designation": "President",
-      "mobile": [
-        "91-9830188531"
-      ]
+      "designation": "Secretary",
+      "mobile": []
     },
     {
       "name": "Dr. Ranjit Chakrabarty",
-      "email": "orchi2003@gmail.com",
       "designation": "President",
-      "mobile": [
-        "91-9830188531"
-      ]
-    },
-    {
-      "name": "Dr. Ranjit Chakrabarty",
-      "email": "orchi2003@gmail.com",
-      "designation": "President",
-      "mobile": [
-        "91-9830188531"
-      ]
+      "email": "orchi2003@gmail.com"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4738",

@@ -1,12 +1,10 @@
 {
   "contacts": [
     {
-      "name": "Amrita De",
-      "email": "amrita@anubhutitrust.org",
-      "designation": "Trustee",
-      "mobile": [
-        "91-9820778330"
-      ]
+      "name": "Deepa Pawar",
+      "email": "deepa@anubhutitrust.org",
+      "designation": "President",
+      "mobile": []
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8645",

@@ -1,13 +1,10 @@
 {
   "contacts": [
     {
-      "name": "Pritesh",
-      "email": "priteshkumarsharma@gmail.com",
-      "designation": "Manager",
-      "mobile": [
-        "91-2744-231222",
-        "91-9714825111"
-      ]
+      "name": "Kishor",
+      "email": "",
+      "designation": "Managing Trustee",
+      "mobile": []
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1168",

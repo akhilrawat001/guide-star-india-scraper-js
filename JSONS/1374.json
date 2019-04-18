@@ -1,16 +1,14 @@
 {
   "contacts": [
     {
-      "name": "Eklavya Sinha",
-      "email": "reacheklavya@yahoo.com",
+      "name": "Suryakanthi Tripathi",
+      "email": "suryakanthi@gmail.com",
       "designation": "Chief Functionary",
       "mobile": []
     },
     {
       "name": "Eklavya Sinha",
-      "email": "reacheklavya@yahoo.com",
-      "designation": "Chief Functionary",
-      "mobile": []
+      "email": "reacheklavya@yahoo.com"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1374",

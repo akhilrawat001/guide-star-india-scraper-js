@@ -1,12 +1,10 @@
 {
   "contacts": [
     {
-      "name": "Ganesh Dubey",
-      "email": "gdubey@psi.org.in",
-      "designation": "Manager CP & RM",
-      "mobile": [
-        "91-9958159991"
-      ]
+      "name": "Sean Mayberry",
+      "email": "",
+      "designation": "Managing Director",
+      "mobile": []
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=153",

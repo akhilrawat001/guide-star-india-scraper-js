@@ -1,16 +1,15 @@
 {
   "contacts": [
     {
-      "name": "Jalaja",
-      "email": "jalajasp@yahoo.com",
-      "designation": "Programme Officer",
+      "name": "S.Susheela",
+      "email": "vidyanik@gmail.com",
+      "designation": "Director",
       "mobile": []
     },
     {
       "name": "Jalaja",
-      "email": "jalajasp@yahoo.com",
       "designation": "Programme Officer",
-      "mobile": []
+      "email": "jalajasp@yahoo.com"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1372",

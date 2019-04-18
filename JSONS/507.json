@@ -1,12 +1,10 @@
 {
   "contacts": [
     {
-      "name": "George Varghese",
+      "name": "Riaz Tehsin",
       "email": "vbsudr@yahoo.com",
-      "designation": "Manager",
-      "mobile": [
-        "91-294-2450911"
-      ]
+      "designation": "President",
+      "mobile": []
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=507",

@@ -1,13 +1,10 @@
 {
   "contacts": [
     {
-      "name": "Purnendu Singh",
-      "email": "secretariat@cyberpeace.net",
-      "designation": "Director - Operations",
-      "mobile": [
-        "91-651-2970355",
-        "91-9570000265"
-      ]
+      "name": "Vineet Kumar",
+      "email": "",
+      "designation": "Founder & President",
+      "mobile": []
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6089",

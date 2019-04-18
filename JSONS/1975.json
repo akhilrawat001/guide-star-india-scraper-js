@@ -1,16 +1,14 @@
 {
   "contacts": [
     {
-      "name": "Anagha Kunte",
+      "name": "Swati Oka",
       "email": "swatioka57@gmail.com",
-      "designation": "Ex President",
+      "designation": "President",
       "mobile": []
     },
     {
       "name": "Anagha Kunte",
-      "email": "swatioka57@gmail.com",
-      "designation": "Ex President",
-      "mobile": []
+      "designation": "Ex President"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1975",

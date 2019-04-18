@@ -1,16 +1,14 @@
 {
   "contacts": [
     {
-      "name": "Kasi viswanathan",
+      "name": "Sumathi",
       "email": "sumathircd@gmail.com",
-      "designation": "coordinator",
+      "designation": "Managing Trustee",
       "mobile": []
     },
     {
       "name": "Kasi viswanathan",
-      "email": "sumathircd@gmail.com",
-      "designation": "coordinator",
-      "mobile": []
+      "designation": "coordinator"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1999",

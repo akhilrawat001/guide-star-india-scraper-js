@@ -1,30 +1,24 @@
 {
   "contacts": [
     {
-      "name": "Kamal Damania",
-      "email": "kamal@lolt.in",
-      "designation": "Project Director",
-      "mobile": [
-        "91-22-30016615",
-        "91-9821054715"
-      ]
+      "name": "Villy Doctor",
+      "email": "",
+      "designation": "Chairperson",
+      "mobile": []
     },
     {
       "name": "Kamal Damania",
-      "email": "kamal@lolt.in",
       "designation": "Project Director",
+      "email": "kamal@lolt.in",
       "mobile": [
-        "91-22-30016615",
-        "91-9821054715"
+        "91-22-30016640",
+        "91-9821399002"
       ]
     },
     {
-      "name": "Kamal Damania",
-      "email": "kamal@lolt.in",
-      "designation": "Project Director",
       "mobile": [
-        "91-22-30016615",
-        "91-9821054715"
+        "91-22-30016660",
+        "91-9619096960"
       ]
     }
   ],

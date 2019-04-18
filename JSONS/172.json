@@ -1,16 +1,14 @@
 {
   "contacts": [
     {
-      "name": "S Sophia Shalom",
+      "name": "Prasanna",
       "email": "",
-      "designation": "Project Officer",
+      "designation": "Project Manager",
       "mobile": []
     },
     {
       "name": "S Sophia Shalom",
-      "email": "",
-      "designation": "Project Officer",
-      "mobile": []
+      "designation": "Project Officer"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=172",

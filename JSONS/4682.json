@@ -1,16 +1,15 @@
 {
   "contacts": [
     {
-      "name": "Radhika Arvindam",
-      "email": "sradhika25@yahoo.com",
-      "designation": "Trustee",
+      "name": "Sujata Mukherjee",
+      "email": "sujatamukherjee@yahoo.com",
+      "designation": "Managing Trustee",
       "mobile": []
     },
     {
       "name": "Radhika Arvindam",
-      "email": "sradhika25@yahoo.com",
       "designation": "Trustee",
-      "mobile": []
+      "email": "sradhika25@yahoo.com"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4682",

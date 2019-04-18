@@ -1,16 +1,15 @@
 {
   "contacts": [
     {
-      "name": "VINOD KUMAR BHARTI",
+      "name": "SAROJ KUMAR GIRI",
       "email": "gdarpan@rediffmail.com",
-      "designation": "PRESIDENT",
+      "designation": "Chief Functionary",
       "mobile": []
     },
     {
       "name": "VINOD KUMAR BHARTI",
-      "email": "gdarpan@rediffmail.com",
       "designation": "PRESIDENT",
-      "mobile": []
+      "email": "gdarpan@rediffmail.com"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4646",

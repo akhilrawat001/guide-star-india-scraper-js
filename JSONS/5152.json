@@ -1,19 +1,18 @@
 {
   "contacts": [
     {
-      "name": "Ravi Mishra",
-      "email": "rmishra@urmul.org",
-      "designation": "Coordinator",
-      "mobile": [
-        "91-151-2523093"
-      ]
+      "name": "Arvind Ojha",
+      "email": "mail@urmul.org",
+      "designation": "Secretary",
+      "mobile": []
     },
     {
       "name": "Ravi Mishra",
-      "email": "rmishra@urmul.org",
       "designation": "Coordinator",
+      "email": "rmishra@urmul.org",
       "mobile": [
-        "91-151-2523093"
+        "91-151-2523093",
+        "91-8875770939"
       ]
     }
   ],

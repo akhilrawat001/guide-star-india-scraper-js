@@ -1,12 +1,10 @@
 {
   "contacts": [
     {
-      "name": "Sushama Joshi",
-      "email": "caspheadoffice@gmail.com",
-      "designation": "Dy. Executive Director",
-      "mobile": [
-        "91-20-25862843"
-      ]
+      "name": "Girija Sapre",
+      "email": "girijasapre@yahoo.co.in",
+      "designation": "Executive Director",
+      "mobile": []
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=343",

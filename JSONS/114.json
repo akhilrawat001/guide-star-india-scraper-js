@@ -1,13 +1,10 @@
 {
   "contacts": [
     {
-      "name": "Tushita Dabir",
-      "email": "tushita@aanganindia.org",
-      "designation": "Head, Finance",
-      "mobile": [
-        "91-22-23525832",
-        "91-9820815684"
-      ]
+      "name": "Suparna Gupta",
+      "email": "suparna@aanganindia.org",
+      "designation": "Founder and Director",
+      "mobile": []
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=114",

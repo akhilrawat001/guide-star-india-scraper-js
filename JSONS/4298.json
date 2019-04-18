@@ -1,16 +1,15 @@
 {
   "contacts": [
     {
-      "name": "Akshay Jethi",
-      "email": "akshayjethi@gmail.com",
-      "designation": "Admin",
+      "name": "Hitesh Goswami",
+      "email": "hitesh@compucareindia.com",
+      "designation": "CEO",
       "mobile": []
     },
     {
       "name": "Akshay Jethi",
-      "email": "akshayjethi@gmail.com",
       "designation": "Admin",
-      "mobile": []
+      "email": "akshayjethi@gmail.com"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4298",

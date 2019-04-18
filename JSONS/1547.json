@@ -1,16 +1,15 @@
 {
   "contacts": [
     {
-      "name": "Radhika Ramnath",
-      "email": "radhika.ramnath@gmail.com",
-      "designation": "Member, DCCW",
+      "name": "Dr Sandhya Bhalla",
+      "email": "director.dccw@gmail.com",
+      "designation": "Director",
       "mobile": []
     },
     {
       "name": "Radhika Ramnath",
-      "email": "radhika.ramnath@gmail.com",
       "designation": "Member, DCCW",
-      "mobile": []
+      "email": "radhika.ramnath@gmail.com"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1547",

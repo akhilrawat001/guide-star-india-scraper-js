@@ -1,28 +1,15 @@
 {
   "contacts": [
     {
-      "name": "Avi Karan",
-      "email": "avikaran@dikshafoundation.org",
-      "designation": "Coordinator",
+      "name": "Gautam Gauri",
+      "email": "gautamgauri@dikshafoundation.org",
+      "designation": "President",
       "mobile": []
     },
     {
       "name": "Avi Karan",
-      "email": "avikaran@dikshafoundation.org",
       "designation": "Coordinator",
-      "mobile": []
-    },
-    {
-      "name": "Avi Karan",
-      "email": "avikaran@dikshafoundation.org",
-      "designation": "Coordinator",
-      "mobile": []
-    },
-    {
-      "name": "Avi Karan",
-      "email": "avikaran@dikshafoundation.org",
-      "designation": "Coordinator",
-      "mobile": []
+      "email": "avikaran@dikshafoundation.org"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5885",

@@ -2,26 +2,14 @@
   "contacts": [
     {
       "name": "Dr. Vilas Shende",
-      "email": "nirajninad@yahoo.com",
+      "email": "",
       "designation": "Director",
-      "mobile": [
-        "91-712-2522370",
-        "91-9423078330"
-      ]
+      "mobile": []
     },
     {
       "name": "Dr. Vilas Shende",
-      "email": "nirajninad@yahoo.com",
       "designation": "Director",
-      "mobile": [
-        "91-712-2522370",
-        "91-9423078330"
-      ]
-    },
-    {
-      "name": "Dr. Vilas Shende",
       "email": "nirajninad@yahoo.com",
-      "designation": "Director",
       "mobile": [
         "91-712-2522370",
         "91-9423078330"

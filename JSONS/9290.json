@@ -1,13 +1,10 @@
 {
   "contacts": [
     {
-      "name": "Jyotindra Kumar",
-      "email": "ijyotindra@gmail.com",
-      "designation": "Managing director",
-      "mobile": [
-        "91-6226-250878",
-        "91-9430651169"
-      ]
+      "name": "Yogendra Paswan",
+      "email": "",
+      "designation": "",
+      "mobile": []
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9290",

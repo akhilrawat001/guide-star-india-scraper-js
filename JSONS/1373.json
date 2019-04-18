@@ -1,16 +1,15 @@
 {
   "contacts": [
     {
-      "name": "P. Arul Doss",
-      "email": "weedsarul@gmail.com",
-      "designation": "Coordinator",
+      "name": "A. Helan Joyce",
+      "email": "weedsindia@gmail.com",
+      "designation": "Secretary",
       "mobile": []
     },
     {
       "name": "P. Arul Doss",
-      "email": "weedsarul@gmail.com",
       "designation": "Coordinator",
-      "mobile": []
+      "email": "weedsarul@gmail.com"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1373",

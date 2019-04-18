@@ -1,28 +1,15 @@
 {
   "contacts": [
     {
-      "name": "Shalina Mamtani",
-      "email": "shalinaa@hotmail.com",
-      "designation": "Secretary",
+      "name": "Rajinder Shirley Menon",
+      "email": "saveourstraysmum@gmail.com",
+      "designation": "President",
       "mobile": []
     },
     {
       "name": "Shalina Mamtani",
-      "email": "shalinaa@hotmail.com",
       "designation": "Secretary",
-      "mobile": []
-    },
-    {
-      "name": "Shalina Mamtani",
-      "email": "shalinaa@hotmail.com",
-      "designation": "Secretary",
-      "mobile": []
-    },
-    {
-      "name": "Shalina Mamtani",
-      "email": "shalinaa@hotmail.com",
-      "designation": "Secretary",
-      "mobile": []
+      "email": "shalinaa@hotmail.com"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4985",

@@ -1,12 +1,10 @@
 {
   "contacts": [
     {
-      "name": "Abhay Kumar",
-      "email": "dishai@bol.net.in",
-      "designation": "Manager",
-      "mobile": [
-        "91-9811071103"
-      ]
+      "name": "Shobhana Radhakrishna",
+      "email": "sr@dishaindia.org",
+      "designation": "Chief Executive",
+      "mobile": []
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=351",

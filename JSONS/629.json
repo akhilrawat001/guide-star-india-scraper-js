@@ -1,16 +1,14 @@
 {
   "contacts": [
     {
-      "name": "Ashok Patil",
+      "name": "Dhanraj Awasarmol",
       "email": "",
-      "designation": "Secretary",
+      "designation": "Founder President",
       "mobile": []
     },
     {
       "name": "Ashok Patil",
-      "email": "",
-      "designation": "Secretary",
-      "mobile": []
+      "designation": "Secretary"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=629",

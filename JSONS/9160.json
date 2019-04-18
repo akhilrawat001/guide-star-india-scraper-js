@@ -2,18 +2,17 @@
   "contacts": [
     {
       "name": "Dr.M.Shivakumar",
-      "email": "shivakumar@damienfoundation.in",
-      "designation": "Secretary",
-      "mobile": [
-        "28360496"
-      ]
+      "email": "",
+      "designation": "",
+      "mobile": []
     },
     {
       "name": "Dr.M.Shivakumar",
-      "email": "shivakumar@damienfoundation.in",
       "designation": "Secretary",
+      "email": "shivakumar@damienfoundation.in",
       "mobile": [
-        "28360496"
+        "91-44-28361910",
+        "91-9789964309"
       ]
     }
   ],

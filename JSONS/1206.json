@@ -1,12 +1,10 @@
 {
   "contacts": [
     {
-      "name": "Smriti Rekha Das",
-      "email": "smriti@fstindia.org",
-      "designation": "Finance & Admn Manager",
-      "mobile": [
-        "91-361-2733696"
-      ]
+      "name": "Ritupon Gogoi",
+      "email": "ed@fstindia.org",
+      "designation": "Executive Director",
+      "mobile": []
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1206",

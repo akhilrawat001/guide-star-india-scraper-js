@@ -1,16 +1,15 @@
 {
   "contacts": [
     {
-      "name": "R Vasudevan",
+      "name": "Chitra Vasudevan",
       "email": "yoke.society@gmail.com",
-      "designation": "Secretary",
+      "designation": "Chairperson",
       "mobile": []
     },
     {
       "name": "R Vasudevan",
-      "email": "yoke.society@gmail.com",
       "designation": "Secretary",
-      "mobile": []
+      "email": "yoke.society@gmail.com"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10633",

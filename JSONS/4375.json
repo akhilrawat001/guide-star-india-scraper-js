@@ -1,13 +1,10 @@
 {
   "contacts": [
     {
-      "name": "Deepak Nagwanshi",
-      "email": "deepak.nagwanshi@coroindia.org",
-      "designation": "Documentation Manager",
-      "mobile": [
-        "91-22-25295103",
-        "91-9920209384"
-      ]
+      "name": "Ms. Sujata Khandekar",
+      "email": "sujata.khandekar@coroindia.org",
+      "designation": "Secretary",
+      "mobile": []
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4375",

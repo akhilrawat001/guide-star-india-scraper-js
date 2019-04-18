@@ -1,16 +1,15 @@
 {
   "contacts": [
     {
-      "name": "Devi Prasad Mahapatra",
-      "email": "devimahapatra@dbtech.co.in",
-      "designation": "Head - Communications",
+      "name": "Fr. George Mathew, SDB",
+      "email": "",
+      "designation": "Executive Director",
       "mobile": []
     },
     {
       "name": "Devi Prasad Mahapatra",
-      "email": "devimahapatra@dbtech.co.in",
       "designation": "Head - Communications",
-      "mobile": []
+      "email": "devimahapatra@dbtech.co.in"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1665",

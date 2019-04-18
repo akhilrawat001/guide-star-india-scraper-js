@@ -1,16 +1,15 @@
 {
   "contacts": [
     {
-      "name": "Ambily Adithyan",
-      "email": "ambily@rnisargfoundation.com",
-      "designation": "Program Head",
+      "name": "Lata Ghanshamnani",
+      "email": "lata@rnisargfoundation.com",
+      "designation": "Founder & Trustee",
       "mobile": []
     },
     {
       "name": "Ambily Adithyan",
-      "email": "ambily@rnisargfoundation.com",
       "designation": "Program Head",
-      "mobile": []
+      "email": "ambily@rnisargfoundation.com"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10913",

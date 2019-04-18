@@ -1,16 +1,14 @@
 {
   "contacts": [
     {
-      "name": "Parul Sheth",
+      "name": "Falgun Sheth",
       "email": "",
-      "designation": "Executive Director",
+      "designation": "Managing Trustee",
       "mobile": []
     },
     {
       "name": "Parul Sheth",
-      "email": "",
-      "designation": "Executive Director",
-      "mobile": []
+      "designation": "Executive Director"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=298",

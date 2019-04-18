@@ -1,16 +1,14 @@
 {
   "contacts": [
     {
-      "name": "Ashish Bhatnagar",
+      "name": "Nemi Chand Jain",
       "email": "",
-      "designation": "Secretary",
+      "designation": "President",
       "mobile": []
     },
     {
       "name": "Ashish Bhatnagar",
-      "email": "",
-      "designation": "Secretary",
-      "mobile": []
+      "designation": "Secretary"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=746",

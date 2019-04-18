@@ -1,12 +1,10 @@
 {
   "contacts": [
     {
-      "name": "Prasanta Sarkar",
-      "email": "info@swskolkata.org",
-      "designation": "Manager",
-      "mobile": [
-        "91-7278781524"
-      ]
+      "name": "Sampa Sarkar",
+      "email": "",
+      "designation": "Secretary",
+      "mobile": []
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6880",

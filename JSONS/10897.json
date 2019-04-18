@@ -1,16 +1,15 @@
 {
   "contacts": [
     {
-      "name": "Ajitha Duvvuri",
-      "email": "ajitha.duvvuri@321-foundation.org",
-      "designation": "Senior Finance Manager",
+      "name": "Gaurav Singh",
+      "email": "",
+      "designation": "CEO",
       "mobile": []
     },
     {
       "name": "Ajitha Duvvuri",
-      "email": "ajitha.duvvuri@321-foundation.org",
       "designation": "Senior Finance Manager",
-      "mobile": []
+      "email": "ajitha.duvvuri@321-foundation.org"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10897",

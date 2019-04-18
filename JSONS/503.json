@@ -1,16 +1,14 @@
 {
   "contacts": [
     {
-      "name": "S Devibala",
+      "name": "K Vairakkannu",
       "email": "",
-      "designation": "Treasurer",
+      "designation": "President",
       "mobile": []
     },
     {
       "name": "S Devibala",
-      "email": "",
-      "designation": "Treasurer",
-      "mobile": []
+      "designation": "Treasurer"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=503",

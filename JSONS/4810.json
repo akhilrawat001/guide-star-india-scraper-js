@@ -1,35 +1,18 @@
 {
   "contacts": [
     {
-      "name": "Kishor Telang",
-      "email": "kishor.telang@wotr.org.in",
-      "designation": "Manager Business Development",
-      "mobile": [
-        "24226211"
-      ]
+      "name": "Dr. Marcella D'Souza",
+      "email": "info@wotr.org",
+      "designation": "Executive Director",
+      "mobile": []
     },
     {
       "name": "Kishor Telang",
-      "email": "kishor.telang@wotr.org.in",
       "designation": "Manager Business Development",
-      "mobile": [
-        "24226211"
-      ]
-    },
-    {
-      "name": "Kishor Telang",
       "email": "kishor.telang@wotr.org.in",
-      "designation": "Manager Business Development",
       "mobile": [
-        "24226211"
-      ]
-    },
-    {
-      "name": "Kishor Telang",
-      "email": "kishor.telang@wotr.org.in",
-      "designation": "Manager Business Development",
-      "mobile": [
-        "24226211"
+        "91-20-24226211",
+        "91-9422226414"
       ]
     }
   ],

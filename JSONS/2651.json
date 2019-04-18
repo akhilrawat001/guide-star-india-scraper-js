@@ -1,13 +1,10 @@
 {
   "contacts": [
     {
-      "name": "Mr.Pradeep Mahapatra",
+      "name": "Pradeep Mohapatra",
       "email": "udyama.pradeep@gmail.com",
-      "designation": "Secretary",
-      "mobile": [
-        "91-674-2475656",
-        "91-9437110892"
-      ]
+      "designation": "Chief Functionary",
+      "mobile": []
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2651",

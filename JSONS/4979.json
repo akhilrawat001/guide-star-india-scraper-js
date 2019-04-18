@@ -1,28 +1,10 @@
 {
   "contacts": [
     {
-      "name": "Mrs M. Susheela",
-      "email": "ruralhealthindia@gmail.org",
-      "designation": "Patient Administrator",
-      "mobile": [
-        "91-98-48535364"
-      ]
-    },
-    {
-      "name": "Mrs M. Susheela",
-      "email": "ruralhealthindia@gmail.org",
-      "designation": "Patient Administrator",
-      "mobile": [
-        "91-98-48535364"
-      ]
-    },
-    {
-      "name": "Mrs M. Susheela",
-      "email": "ruralhealthindia@gmail.org",
-      "designation": "Patient Administrator",
-      "mobile": [
-        "91-98-48535364"
-      ]
+      "name": "Dr Patricia D. Bidinger",
+      "email": "pdbidinger@ruralhealthindia.org",
+      "designation": "Director",
+      "mobile": []
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4979",

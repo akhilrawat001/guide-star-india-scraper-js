@@ -1,16 +1,15 @@
 {
   "contacts": [
     {
-      "name": "Ruchi Shah",
-      "email": "ruchi@vidyaandchild.org",
-      "designation": "Associate Director",
+      "name": "Supriya Akhaury",
+      "email": "supriya@vidyaandchild.org",
+      "designation": "Trustee & Director",
       "mobile": []
     },
     {
       "name": "Ruchi Shah",
-      "email": "ruchi@vidyaandchild.org",
       "designation": "Associate Director",
-      "mobile": []
+      "email": "ruchi@vidyaandchild.org"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=506",

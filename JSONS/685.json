@@ -1,16 +1,14 @@
 {
   "contacts": [
     {
-      "name": "Sanjay Pandey",
+      "name": "Shivendra Tripathi (Dr)",
       "email": "",
-      "designation": "Director",
+      "designation": "President",
       "mobile": []
     },
     {
       "name": "Sanjay Pandey",
-      "email": "",
-      "designation": "Director",
-      "mobile": []
+      "designation": "Director"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=685",

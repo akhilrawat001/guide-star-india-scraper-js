@@ -1,35 +1,30 @@
 {
   "contacts": [
     {
-      "name": "Mr.Himanshu Sekhar Mohanty",
-      "email": "info@mbrindia.org",
-      "designation": "President",
-      "mobile": [
-        "91-6792-255993"
-      ]
+      "name": "SAMIR KUMAR SAHU",
+      "email": "",
+      "designation": "",
+      "mobile": []
     },
     {
       "name": "Mr.Himanshu Sekhar Mohanty",
-      "email": "info@mbrindia.org",
       "designation": "President",
+      "email": "info@mbrindia.org",
       "mobile": [
-        "91-6792-255993"
+        "91-6792-255993",
+        "91-9438434938"
       ]
     },
     {
-      "name": "Mr.Himanshu Sekhar Mohanty",
-      "email": "info@mbrindia.org",
-      "designation": "President",
       "mobile": [
-        "91-6792-255993"
+        "91-6792-255993",
+        "91-9778432166"
       ]
     },
     {
-      "name": "Mr.Himanshu Sekhar Mohanty",
-      "email": "info@mbrindia.org",
-      "designation": "President",
       "mobile": [
-        "91-6792-255993"
+        "91-6792-255993",
+        "91-9861310378"
       ]
     }
   ],

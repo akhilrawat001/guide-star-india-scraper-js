@@ -1,12 +1,10 @@
 {
   "contacts": [
     {
-      "name": "Nitin Jagtap",
-      "email": "nitin.dres@gmail.com",
-      "designation": "Director",
-      "mobile": [
-        "91-9456597102"
-      ]
+      "name": "Sharad Sundriyal",
+      "email": "sharadsundriyal2010@gmail.com",
+      "designation": "CEO",
+      "mobile": []
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9952",

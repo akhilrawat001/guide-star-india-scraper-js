@@ -1,16 +1,15 @@
 {
   "contacts": [
     {
-      "name": "Mr. Santosh Pandey",
-      "email": "santosh@suvidha.org.in",
-      "designation": "Manager-HR",
+      "name": "Mr. Deepak Pandey",
+      "email": "",
+      "designation": "President",
       "mobile": []
     },
     {
       "name": "Mr. Santosh Pandey",
-      "email": "santosh@suvidha.org.in",
       "designation": "Manager-HR",
-      "mobile": []
+      "email": "santosh@suvidha.org.in"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5682",

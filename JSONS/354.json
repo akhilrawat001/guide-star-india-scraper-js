@@ -1,16 +1,15 @@
 {
   "contacts": [
     {
-      "name": "Kiran Mehta",
-      "email": "kiranmehta@sceh.net",
-      "designation": "Head Donor Relations",
+      "name": "Arun K Arora",
+      "email": "akarora@sceh.net",
+      "designation": "CEO",
       "mobile": []
     },
     {
       "name": "Kiran Mehta",
-      "email": "kiranmehta@sceh.net",
       "designation": "Head Donor Relations",
-      "mobile": []
+      "email": "kiranmehta@sceh.net"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=354",

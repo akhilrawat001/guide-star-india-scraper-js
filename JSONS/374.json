@@ -1,27 +1,15 @@
 {
   "contacts": [
     {
-      "name": "Mrinal Badawe",
-      "email": "contact@ideafoundation.org.in",
-      "designation": "Programme Manager",
-      "mobile": [
-        "91-20-25440615",
-        "91-9730261878"
-      ]
+      "name": "Usha Pillai (Dr)",
+      "email": "usha@ideafoundation.org.in",
+      "designation": "Director",
+      "mobile": []
     },
     {
       "name": "Mrinal Badawe",
-      "email": "contact@ideafoundation.org.in",
       "designation": "Programme Manager",
-      "mobile": [
-        "91-20-25440615",
-        "91-9730261878"
-      ]
-    },
-    {
-      "name": "Mrinal Badawe",
       "email": "contact@ideafoundation.org.in",
-      "designation": "Programme Manager",
       "mobile": [
         "91-20-25440615",
         "91-9730261878"

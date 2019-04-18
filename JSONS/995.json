@@ -1,13 +1,10 @@
 {
   "contacts": [
     {
-      "name": "Akhilesh Maindwal",
-      "email": "aakashmaindwalfoundation@gmail.com",
-      "designation": "Founder Member",
-      "mobile": [
-        "91-120-3229585",
-        "91-9871745011"
-      ]
+      "name": "Anupama",
+      "email": "aakashmaindwalfoundation@yahoo.com",
+      "designation": "President",
+      "mobile": []
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=995",

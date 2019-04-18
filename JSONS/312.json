@@ -1,25 +1,15 @@
 {
   "contacts": [
     {
-      "name": "Shuaiba Rahaman",
-      "email": "shuaiba@gmail.com",
-      "designation": "Consultant - Donor Relations",
-      "mobile": [
-        "91-9845156400"
-      ]
+      "name": "Ashok Kamath",
+      "email": "ashok@akshara.org.in",
+      "designation": "Chairperson",
+      "mobile": []
     },
     {
       "name": "Shuaiba Rahaman",
-      "email": "shuaiba@gmail.com",
       "designation": "Consultant - Donor Relations",
-      "mobile": [
-        "91-9845156400"
-      ]
-    },
-    {
-      "name": "Shuaiba Rahaman",
       "email": "shuaiba@gmail.com",
-      "designation": "Consultant - Donor Relations",
       "mobile": [
         "91-9845156400"
       ]

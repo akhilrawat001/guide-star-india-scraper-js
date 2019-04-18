@@ -1,16 +1,15 @@
 {
   "contacts": [
     {
-      "name": "ANIMESH",
+      "name": "Arun Kumar Sriwastava",
       "email": "jharkhand.swabhiman@yahoo.com",
-      "designation": "VOLUNTEER",
+      "designation": "Secretary",
       "mobile": []
     },
     {
       "name": "ANIMESH",
-      "email": "jharkhand.swabhiman@yahoo.com",
       "designation": "VOLUNTEER",
-      "mobile": []
+      "email": "jharkhand.swabhiman@yahoo.com"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8317",

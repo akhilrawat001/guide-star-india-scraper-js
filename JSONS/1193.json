@@ -1,16 +1,15 @@
 {
   "contacts": [
     {
-      "name": "Bindu Kashyap",
-      "email": "kashyapbindu@gmail.com",
-      "designation": "G.Secretary",
+      "name": "Lal Mani Kashyap",
+      "email": "",
+      "designation": "President",
       "mobile": []
     },
     {
       "name": "Bindu Kashyap",
-      "email": "kashyapbindu@gmail.com",
       "designation": "G.Secretary",
-      "mobile": []
+      "email": "kashyapbindu@gmail.com"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1193",

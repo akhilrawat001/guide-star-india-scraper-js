@@ -1,12 +1,10 @@
 {
   "contacts": [
     {
-      "name": "Shreyas Kamat",
-      "email": "contactus@sangath.com",
-      "designation": "Senior Administrator",
-      "mobile": [
-        "91-832-2417914"
-      ]
+      "name": "Dr Amit Dias",
+      "email": "",
+      "designation": "",
+      "mobile": []
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4266",

@@ -1,19 +1,17 @@
 {
   "contacts": [
     {
-      "name": "Rajeshwaran R",
-      "email": "mail@amarseva.org",
-      "designation": "MIS Incharge",
-      "mobile": [
-        "91-4633-249161"
-      ]
+      "name": "S Sankara Raman",
+      "email": "secretary.amar@amarseva.org",
+      "designation": "Honorary Secretary",
+      "mobile": []
     },
     {
       "name": "Rajeshwaran R",
-      "email": "mail@amarseva.org",
       "designation": "MIS Incharge",
+      "email": "mail@amarseva.org",
       "mobile": [
-        "91-4633-249161"
+        "91-4633-267170"
       ]
     }
   ],

@@ -1,16 +1,15 @@
 {
   "contacts": [
     {
-      "name": "Shabana Patel",
-      "email": "shabana786patel@gmail.com",
-      "designation": "General Secretary",
+      "name": "Sandeep Dilip Sonawane",
+      "email": "",
+      "designation": "President",
       "mobile": []
     },
     {
       "name": "Shabana Patel",
-      "email": "shabana786patel@gmail.com",
       "designation": "General Secretary",
-      "mobile": []
+      "email": "shabana786patel@gmail.com"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=964",

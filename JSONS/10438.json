@@ -1,12 +1,10 @@
 {
   "contacts": [
     {
-      "name": "Naresh Mali",
-      "email": "nnaresh335@gmail.com",
-      "designation": "Secretary",
-      "mobile": [
-        "91-7798495254"
-      ]
+      "name": "Vijay Honkalaskar",
+      "email": "honkalaskar@gmail.com",
+      "designation": "Chief Trustee",
+      "mobile": []
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10438",

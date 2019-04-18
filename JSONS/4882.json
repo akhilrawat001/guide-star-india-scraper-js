@@ -1,13 +1,10 @@
 {
   "contacts": [
     {
-      "name": "Dr Smitha Moorthy",
+      "name": "Dr Venkateswar Moorthy",
       "email": "",
       "designation": "",
-      "mobile": [
-        "28126999",
-        "9820399610"
-      ]
+      "mobile": []
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4882",

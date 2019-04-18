@@ -1,16 +1,15 @@
 {
   "contacts": [
     {
-      "name": "Parag Bhinge",
-      "email": "parag.bhinge@mcf.org.in",
-      "designation": "Cordinator",
+      "name": "Dr Madhu Oswal",
+      "email": "madhu.oswal@mcf.org.in",
+      "designation": "President",
       "mobile": []
     },
     {
       "name": "Parag Bhinge",
-      "email": "parag.bhinge@mcf.org.in",
       "designation": "Cordinator",
-      "mobile": []
+      "email": "parag.bhinge@mcf.org.in"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1529",

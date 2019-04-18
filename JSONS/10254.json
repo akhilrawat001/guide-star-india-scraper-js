@@ -1,12 +1,10 @@
 {
   "contacts": [
     {
-      "name": "Amal Mohan",
-      "email": "amal.mohan@riseschool.net.in",
-      "designation": "COO",
-      "mobile": [
-        "91-8129530737"
-      ]
+      "name": "V.S. Prasanna",
+      "email": "prasanna.vs@riseschool.net.in",
+      "designation": "CEO",
+      "mobile": []
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10254",

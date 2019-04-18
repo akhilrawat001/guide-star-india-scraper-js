@@ -1,13 +1,10 @@
 {
   "contacts": [
     {
-      "name": "Sanjay Srivastava",
-      "email": "pacelko2000@gmail.com",
-      "designation": "Administrator",
-      "mobile": [
-        "0522-4073227",
-        "91-9473584633"
-      ]
+      "name": "Thomson Thomas",
+      "email": "thomson.pace@gmail.com",
+      "designation": "Director",
+      "mobile": []
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=423",

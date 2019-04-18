@@ -1,16 +1,15 @@
 {
   "contacts": [
     {
-      "name": "Radhika Kohli",
-      "email": "radhakohli@gmail.com",
-      "designation": "Executive Secretary",
+      "name": "Vijay Nagpal",
+      "email": "vnagpal@surgrgurgaon.org",
+      "designation": "Chief Functionary",
       "mobile": []
     },
     {
       "name": "Radhika Kohli",
-      "email": "radhakohli@gmail.com",
       "designation": "Executive Secretary",
-      "mobile": []
+      "email": "radhakohli@gmail.com"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2875",

@@ -1,16 +1,14 @@
 {
   "contacts": [
     {
-      "name": "Pramod Kumar",
+      "name": "S.D. Uma Maheswari",
       "email": "",
-      "designation": "Manager",
+      "designation": "President",
       "mobile": []
     },
     {
       "name": "Pramod Kumar",
-      "email": "",
-      "designation": "Manager",
-      "mobile": []
+      "designation": "Manager"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1347",

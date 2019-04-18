@@ -1,28 +1,15 @@
 {
   "contacts": [
     {
-      "name": "Amrita Amodkar",
-      "email": "amrita.lanjekar@gmail.com",
-      "designation": "Volunteer",
+      "name": "Balasubramaniam C.",
+      "email": "anugraha8@rediffmail.com",
+      "designation": "General Secretary",
       "mobile": []
     },
     {
       "name": "Amrita Amodkar",
-      "email": "amrita.lanjekar@gmail.com",
       "designation": "Volunteer",
-      "mobile": []
-    },
-    {
-      "name": "Amrita Amodkar",
-      "email": "amrita.lanjekar@gmail.com",
-      "designation": "Volunteer",
-      "mobile": []
-    },
-    {
-      "name": "Amrita Amodkar",
-      "email": "amrita.lanjekar@gmail.com",
-      "designation": "Volunteer",
-      "mobile": []
+      "email": "amrita.lanjekar@gmail.com"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3612",

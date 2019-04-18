@@ -1,12 +1,10 @@
 {
   "contacts": [
     {
-      "name": "Shantha",
-      "email": "shanthaln@gmail.com",
-      "designation": "Project Co-ordinator & Administrator",
-      "mobile": [
-        "91-9448647881"
-      ]
+      "name": "K Jairaj",
+      "email": "kjairaj@gmail.com",
+      "designation": "President",
+      "mobile": []
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=324",

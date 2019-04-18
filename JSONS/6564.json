@@ -1,16 +1,15 @@
 {
   "contacts": [
     {
-      "name": "Archana Soundade",
-      "email": "sachinsoundade2007@rediffmail.com",
-      "designation": "Secteary",
+      "name": "Sachin",
+      "email": "aashafoundation@yahoo.com",
+      "designation": "President",
       "mobile": []
     },
     {
       "name": "Archana Soundade",
-      "email": "sachinsoundade2007@rediffmail.com",
       "designation": "Secteary",
-      "mobile": []
+      "email": "sachinsoundade2007@rediffmail.com"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6564",

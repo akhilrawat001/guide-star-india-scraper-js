@@ -1,12 +1,10 @@
 {
   "contacts": [
     {
-      "name": "chetan patil",
-      "email": "deep.chetanpatil@yahoo.com",
-      "designation": "president",
-      "mobile": [
-        "91-9923501521"
-      ]
+      "name": "Chetan Patil",
+      "email": "",
+      "designation": "",
+      "mobile": []
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5240",

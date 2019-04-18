@@ -1,21 +1,18 @@
 {
   "contacts": [
     {
-      "name": "Parvathy G",
-      "email": "atmafoundation@gmail.com",
-      "designation": "Project Coordinator",
-      "mobile": [
-        "2325232",
-        "9400995232"
-      ]
+      "name": "C K Suresh",
+      "email": "",
+      "designation": "Chairman",
+      "mobile": []
     },
     {
       "name": "Parvathy G",
-      "email": "atmafoundation@gmail.com",
       "designation": "Project Coordinator",
+      "email": "atmafoundation@gmail.com",
       "mobile": [
-        "2325232",
-        "9400995232"
+        "91-487-2325232",
+        "91-9400995232"
       ]
     }
   ],

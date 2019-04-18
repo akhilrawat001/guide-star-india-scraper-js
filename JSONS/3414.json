@@ -1,12 +1,10 @@
 {
   "contacts": [
     {
-      "name": "Manoj Kumar Verma",
+      "name": "Basu Dev Verma",
       "email": "kksansthan@gmail.com",
-      "designation": "Accountant",
-      "mobile": [
-        "91-9044520760"
-      ]
+      "designation": "President",
+      "mobile": []
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3414",

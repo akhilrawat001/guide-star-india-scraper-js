@@ -1,16 +1,15 @@
 {
   "contacts": [
     {
-      "name": "Dr. Navneet Arora",
-      "email": "navneetroorkee@gmail.com",
-      "designation": "Secretary",
+      "name": "Mr. Ashok Rochlani",
+      "email": "Shubhho.rke@gmail.com",
+      "designation": "President",
       "mobile": []
     },
     {
       "name": "Dr. Navneet Arora",
-      "email": "navneetroorkee@gmail.com",
       "designation": "Secretary",
-      "mobile": []
+      "email": "navneetroorkee@gmail.com"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5832",

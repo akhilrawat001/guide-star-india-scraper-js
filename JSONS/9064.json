@@ -1,16 +1,15 @@
 {
   "contacts": [
     {
-      "name": "Mamta Matani",
-      "email": "mamta@pointofview.org",
-      "designation": "Finance Director",
+      "name": "Bishakha Datta",
+      "email": "",
+      "designation": "Executive Director",
       "mobile": []
     },
     {
       "name": "Mamta Matani",
-      "email": "mamta@pointofview.org",
       "designation": "Finance Director",
-      "mobile": []
+      "email": "mamta@pointofview.org"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9064",

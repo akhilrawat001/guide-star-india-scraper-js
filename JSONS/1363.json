@@ -1,16 +1,14 @@
 {
   "contacts": [
     {
-      "name": "Sudha Samineni",
-      "email": "samineni.sudha@gmail.com",
+      "name": "Vijayalakshmi Venkatesh",
+      "email": "venkatesh.viji@gmail.com",
       "designation": "Managing trustee",
       "mobile": []
     },
     {
       "name": "Sudha Samineni",
-      "email": "samineni.sudha@gmail.com",
-      "designation": "Managing trustee",
-      "mobile": []
+      "email": "samineni.sudha@gmail.com"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1363",

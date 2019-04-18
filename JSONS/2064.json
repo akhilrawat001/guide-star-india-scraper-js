@@ -1,12 +1,10 @@
 {
   "contacts": [
     {
-      "name": "Dr. Manish Singh Tomar",
+      "name": "Dr. Vinod Bihari Nand",
       "email": "arpan.india@rediffmail.com",
-      "designation": "Secretary",
-      "mobile": [
-        "91-9407655966"
-      ]
+      "designation": "President",
+      "mobile": []
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2064",

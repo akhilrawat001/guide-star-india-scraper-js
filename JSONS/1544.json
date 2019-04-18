@@ -1,16 +1,15 @@
 {
   "contacts": [
     {
-      "name": "Athi",
-      "email": "yesanplz@gmail.com",
-      "designation": "Trustee",
+      "name": "Udhaya Kumar V",
+      "email": "",
+      "designation": "Managing Trustee",
       "mobile": []
     },
     {
       "name": "Athi",
-      "email": "yesanplz@gmail.com",
       "designation": "Trustee",
-      "mobile": []
+      "email": "yesanplz@gmail.com"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1544",

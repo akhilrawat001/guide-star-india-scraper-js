@@ -1,16 +1,14 @@
 {
   "contacts": [
     {
-      "name": "Jitendra Kuruwa",
+      "name": "Chaula Kuruwa",
       "email": "chaulakuruwa@gmail.com",
-      "designation": "Trustee",
+      "designation": "President",
       "mobile": []
     },
     {
       "name": "Jitendra Kuruwa",
-      "email": "chaulakuruwa@gmail.com",
-      "designation": "Trustee",
-      "mobile": []
+      "designation": "Trustee"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1352",

@@ -1,12 +1,10 @@
 {
   "contacts": [
     {
-      "name": "Shalini Kamath",
-      "email": "shalini.kamath@indiancancersociety.org",
-      "designation": "CEO",
-      "mobile": [
-        "91-22-24139445"
-      ]
+      "name": "Kewal Nohria",
+      "email": "",
+      "designation": "Chairman",
+      "mobile": []
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=104",

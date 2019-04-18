@@ -1,16 +1,15 @@
 {
   "contacts": [
     {
-      "name": "Asha Karande",
-      "email": "ashkarande@gmail.com",
-      "designation": "Tribe Builder",
+      "name": "Sonali Ojha",
+      "email": "",
+      "designation": "Founder, Director",
       "mobile": []
     },
     {
       "name": "Asha Karande",
-      "email": "ashkarande@gmail.com",
       "designation": "Tribe Builder",
-      "mobile": []
+      "email": "ashkarande@gmail.com"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5221",

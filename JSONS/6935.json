@@ -1,12 +1,10 @@
 {
   "contacts": [
     {
-      "name": "Mr. Atul Satija",
-      "email": "engage@thenudge.org",
+      "name": "Mr.Atul Satija",
+      "email": "",
       "designation": "CEO",
-      "mobile": [
-        "91-80-64510372"
-      ]
+      "mobile": []
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6935",

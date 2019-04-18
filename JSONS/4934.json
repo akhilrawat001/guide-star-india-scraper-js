@@ -1,25 +1,15 @@
 {
   "contacts": [
     {
-      "name": "Tony George",
-      "email": "tony@lovedalefoundation.org",
-      "designation": "Project Manager",
-      "mobile": [
-        "91-9886789565"
-      ]
+      "name": "Jayani",
+      "email": "",
+      "designation": "",
+      "mobile": []
     },
     {
       "name": "Tony George",
-      "email": "tony@lovedalefoundation.org",
       "designation": "Project Manager",
-      "mobile": [
-        "91-9886789565"
-      ]
-    },
-    {
-      "name": "Tony George",
       "email": "tony@lovedalefoundation.org",
-      "designation": "Project Manager",
       "mobile": [
         "91-9886789565"
       ]

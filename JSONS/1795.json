@@ -1,16 +1,15 @@
 {
   "contacts": [
     {
-      "name": "sujaya rai",
-      "email": "sujaya.rai@sujayafoundation.org",
-      "designation": "program director",
+      "name": "Neelambari Store Rao",
+      "email": "neelambari.rao@sujayafoundation.org",
+      "designation": "Managing Trustee",
       "mobile": []
     },
     {
       "name": "sujaya rai",
-      "email": "sujaya.rai@sujayafoundation.org",
       "designation": "program director",
-      "mobile": []
+      "email": "sujaya.rai@sujayafoundation.org"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1795",

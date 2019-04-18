@@ -1,16 +1,15 @@
 {
   "contacts": [
     {
-      "name": "Sandhya",
-      "email": "sandhyamsw@gmail.com",
-      "designation": "Assistant Program Officer",
+      "name": "Deepak Raj",
+      "email": "",
+      "designation": "Executive Director",
       "mobile": []
     },
     {
       "name": "Sandhya",
-      "email": "sandhyamsw@gmail.com",
       "designation": "Assistant Program Officer",
-      "mobile": []
+      "email": "sandhyamsw@gmail.com"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=913",

@@ -2,15 +2,14 @@
   "contacts": [
     {
       "name": "Basanta Kumar Mishra",
-      "email": "sndayporissa@gmail.com",
+      "email": "",
       "designation": "Secretary",
       "mobile": []
     },
     {
       "name": "Basanta Kumar Mishra",
-      "email": "sndayporissa@gmail.com",
       "designation": "Secretary",
-      "mobile": []
+      "email": "sndayporissa@gmail.com"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7667",

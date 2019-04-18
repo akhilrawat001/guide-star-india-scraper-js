@@ -1,16 +1,15 @@
 {
   "contacts": [
     {
-      "name": "K Kiranmai",
-      "email": "kiranmai@svechha.org",
-      "designation": "Chief-Coordinator",
+      "name": "Sridevi Potu",
+      "email": "sridevi@svechha.org",
+      "designation": "President",
       "mobile": []
     },
     {
       "name": "K Kiranmai",
-      "email": "kiranmai@svechha.org",
       "designation": "Chief-Coordinator",
-      "mobile": []
+      "email": "kiranmai@svechha.org"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=159",

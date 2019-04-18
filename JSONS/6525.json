@@ -1,16 +1,15 @@
 {
   "contacts": [
     {
-      "name": "Gulab Suryavanshi",
-      "email": "gulabsuryavanshi@gmail.com",
-      "designation": "Chief Officer",
+      "name": "Nirbhay Jain",
+      "email": "",
+      "designation": "",
       "mobile": []
     },
     {
       "name": "Gulab Suryavanshi",
-      "email": "gulabsuryavanshi@gmail.com",
       "designation": "Chief Officer",
-      "mobile": []
+      "email": "gulabsuryavanshi@gmail.com"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6525",

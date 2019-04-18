@@ -1,21 +1,18 @@
 {
   "contacts": [
     {
-      "name": "S. L. Winston",
-      "email": "slwinston@rediffmail.com",
-      "designation": "Advisor",
-      "mobile": [
-        "91-22-22873456",
-        "91-9820946904"
-      ]
+      "name": "Niranjan Hiranandani",
+      "email": "priyadarshniacademy@gmail.com",
+      "designation": "Chairman",
+      "mobile": []
     },
     {
       "name": "S. L. Winston",
-      "email": "slwinston@rediffmail.com",
       "designation": "Advisor",
+      "email": "slwinston@rediffmail.com",
       "mobile": [
         "91-22-22873456",
-        "91-9820946904"
+        "91-9869006644"
       ]
     }
   ],

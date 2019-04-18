@@ -1,12 +1,10 @@
 {
   "contacts": [
     {
-      "name": "Kushark Jaiswal",
-      "email": "kushark@gmail.com",
-      "designation": "Project Head",
-      "mobile": [
-        "91-9819320583"
-      ]
+      "name": "Anil Belorkar",
+      "email": "belorkaranil@gmail.com",
+      "designation": "Chairman",
+      "mobile": []
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6628",

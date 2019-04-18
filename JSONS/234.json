@@ -1,16 +1,14 @@
 {
   "contacts": [
     {
-      "name": "Suresh Kumar",
+      "name": "C K Ranganathan",
       "email": "",
-      "designation": "Manager - Taxation",
+      "designation": "Trustee",
       "mobile": []
     },
     {
       "name": "Suresh Kumar",
-      "email": "",
-      "designation": "Manager - Taxation",
-      "mobile": []
+      "designation": "Manager - Taxation"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=234",

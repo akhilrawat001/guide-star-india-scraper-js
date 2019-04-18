@@ -1,16 +1,15 @@
 {
   "contacts": [
     {
-      "name": "Krupali Shah",
-      "email": "info@ahimsamumbai.org",
-      "designation": "Member",
+      "name": "Praful Shah",
+      "email": "",
+      "designation": "President",
       "mobile": []
     },
     {
       "name": "Krupali Shah",
-      "email": "info@ahimsamumbai.org",
       "designation": "Member",
-      "mobile": []
+      "email": "info@ahimsamumbai.org"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5938",

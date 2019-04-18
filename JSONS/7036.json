@@ -1,12 +1,10 @@
 {
   "contacts": [
     {
-      "name": "Mr.KUMAR RANBIR",
-      "email": "kranbir@gmail.com",
-      "designation": "DIRECTOR",
-      "mobile": [
-        "91-9810555444"
-      ]
+      "name": "Mr.Birendra Kumar",
+      "email": "aidentsworg@gmail.com",
+      "designation": "General Secretary",
+      "mobile": []
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7036",

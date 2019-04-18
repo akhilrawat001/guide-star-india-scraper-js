@@ -1,19 +1,18 @@
 {
   "contacts": [
     {
-      "name": "Prateek Ahuja",
-      "email": "prateek.ahuja@opasha.org",
-      "designation": "Program Director",
-      "mobile": [
-        "91-9310005948"
-      ]
+      "name": "Sandeep Ahuja",
+      "email": "sandeep.ahuja@opasha.org",
+      "designation": "CEO",
+      "mobile": []
     },
     {
       "name": "Prateek Ahuja",
-      "email": "prateek.ahuja@opasha.org",
       "designation": "Program Director",
+      "email": "prateek.ahuja@opasha.org",
       "mobile": [
-        "91-9310005948"
+        "011-26444512",
+        "91-9310998004"
       ]
     }
   ],

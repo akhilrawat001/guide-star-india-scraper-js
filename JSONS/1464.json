@@ -1,16 +1,14 @@
 {
   "contacts": [
     {
-      "name": "Shravan Deore",
+      "name": "Savita Deore",
       "email": "",
-      "designation": "District Co ordinator",
+      "designation": "President",
       "mobile": []
     },
     {
       "name": "Shravan Deore",
-      "email": "",
-      "designation": "District Co ordinator",
-      "mobile": []
+      "designation": "District Co ordinator"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1464",

@@ -1,16 +1,15 @@
 {
   "contacts": [
     {
-      "name": "Sahithya Manoj",
-      "email": "preranabangalore@gmail.com",
-      "designation": "Programme Officer",
+      "name": "Pramod Kulkarni",
+      "email": "",
+      "designation": "Secretary",
       "mobile": []
     },
     {
       "name": "Sahithya Manoj",
-      "email": "preranabangalore@gmail.com",
       "designation": "Programme Officer",
-      "mobile": []
+      "email": "preranabangalore@gmail.com"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=123",

@@ -1,16 +1,15 @@
 {
   "contacts": [
     {
-      "name": "Mohammad Riyaz Siddiqui",
-      "email": "shakirasiddiquisewasansthan@gmail.com",
-      "designation": "President",
+      "name": "Mohd. Riyaz Siddiqui",
+      "email": "",
+      "designation": "",
       "mobile": []
     },
     {
       "name": "Mohammad Riyaz Siddiqui",
-      "email": "shakirasiddiquisewasansthan@gmail.com",
       "designation": "President",
-      "mobile": []
+      "email": "shakirasiddiquisewasansthan@gmail.com"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6019",

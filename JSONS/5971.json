@@ -1,21 +1,17 @@
 {
   "contacts": [
     {
-      "name": "Dr.Minnie Bodhanwala",
-      "email": "minnie.b@wadiagroup.com",
+      "name": "Dr. Minnie Bodhanwala",
+      "email": "",
       "designation": "CEO",
-      "mobile": [
-        "24187521",
-        "9833685328"
-      ]
+      "mobile": []
     },
     {
       "name": "Dr.Minnie Bodhanwala",
-      "email": "minnie.b@wadiagroup.com",
       "designation": "CEO",
+      "email": "minnie.b@wadiagroup.com",
       "mobile": [
-        "24187521",
-        "9833685328"
+        "91-22-24187521"
       ]
     }
   ],

@@ -1,16 +1,15 @@
 {
   "contacts": [
     {
-      "name": "Banshi Lal Meena",
+      "name": "Om Prakash Sharma",
       "email": "gck_1989@yahoo.com",
-      "designation": "Accountant",
+      "designation": "Secretary",
       "mobile": []
     },
     {
       "name": "Banshi Lal Meena",
-      "email": "gck_1989@yahoo.com",
       "designation": "Accountant",
-      "mobile": []
+      "email": "gck_1989@yahoo.com"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=363",

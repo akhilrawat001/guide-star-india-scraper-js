@@ -1,13 +1,10 @@
 {
   "contacts": [
     {
-      "name": "C V Poornima",
-      "email": "pathreya@gmail.com",
-      "designation": "CEO",
-      "mobile": [
-        "91-890-3746900",
-        "91-9940497979"
-      ]
+      "name": "K S Ramamurthy",
+      "email": "malathyramamurthy@yahoo.com",
+      "designation": "President",
+      "mobile": []
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1315",

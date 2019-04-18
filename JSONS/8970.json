@@ -1,12 +1,10 @@
 {
   "contacts": [
     {
-      "name": "Tamijul Haque",
-      "email": "tamijulhaque@gmail.com",
-      "designation": "Secretary",
-      "mobile": [
-        "91-9647752032"
-      ]
+      "name": "Md Faiyaz",
+      "email": "",
+      "designation": "President",
+      "mobile": []
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8970",

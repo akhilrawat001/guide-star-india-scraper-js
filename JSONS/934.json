@@ -1,16 +1,15 @@
 {
   "contacts": [
     {
-      "name": "Sreedhar K R",
-      "email": "shrirayaru@yahoo.com",
-      "designation": "Volunteer",
+      "name": "Sheshagiri",
+      "email": "shrirayaru@gmail.com",
+      "designation": "Secretary",
       "mobile": []
     },
     {
       "name": "Sreedhar K R",
-      "email": "shrirayaru@yahoo.com",
       "designation": "Volunteer",
-      "mobile": []
+      "email": "shrirayaru@yahoo.com"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=934",

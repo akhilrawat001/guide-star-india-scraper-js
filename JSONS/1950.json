@@ -1,16 +1,15 @@
 {
   "contacts": [
     {
-      "name": "Shyama Verma",
-      "email": "shyamaverma68@gmail.com",
-      "designation": "secratry",
+      "name": "N R Gurjar",
+      "email": "nrm1962@gmail.com",
+      "designation": "President",
       "mobile": []
     },
     {
       "name": "Shyama Verma",
-      "email": "shyamaverma68@gmail.com",
       "designation": "secratry",
-      "mobile": []
+      "email": "shyamaverma68@gmail.com"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1950",

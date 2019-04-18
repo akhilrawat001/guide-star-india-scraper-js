@@ -1,16 +1,15 @@
 {
   "contacts": [
     {
-      "name": "Kavita",
-      "email": "kavita.jkitm@gmail.com",
-      "designation": "Secretary",
+      "name": "Jagadish K M",
+      "email": "",
+      "designation": "President",
       "mobile": []
     },
     {
       "name": "Kavita",
-      "email": "kavita.jkitm@gmail.com",
       "designation": "Secretary",
-      "mobile": []
+      "email": "kavita.jkitm@gmail.com"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1945",

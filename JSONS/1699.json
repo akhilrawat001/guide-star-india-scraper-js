@@ -1,12 +1,10 @@
 {
   "contacts": [
     {
-      "name": "Meena",
+      "name": "Alexander",
       "email": "occurdales@rediffmail.com",
-      "designation": "Financial Truestee",
-      "mobile": [
-        "91-9245445736"
-      ]
+      "designation": "Managing Trustee",
+      "mobile": []
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1699",

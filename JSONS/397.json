@@ -1,16 +1,15 @@
 {
   "contacts": [
     {
-      "name": "S Suganya",
+      "name": "S Kasthuri",
       "email": "mahalakshmifoundation@yahoo.com",
-      "designation": "Project Co-ordinater",
+      "designation": "President",
       "mobile": []
     },
     {
       "name": "S Suganya",
-      "email": "mahalakshmifoundation@yahoo.com",
       "designation": "Project Co-ordinater",
-      "mobile": []
+      "email": "mahalakshmifoundation@yahoo.com"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=397",

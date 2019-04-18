@@ -1,16 +1,15 @@
 {
   "contacts": [
     {
-      "name": "K Anbarasan",
-      "email": "anbarasan.k94@gmail.com",
-      "designation": "Manager",
+      "name": "Dr P Perumal",
+      "email": "",
+      "designation": "Executive Director",
       "mobile": []
     },
     {
       "name": "K Anbarasan",
-      "email": "anbarasan.k94@gmail.com",
       "designation": "Manager",
-      "mobile": []
+      "email": "anbarasan.k94@gmail.com"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10848",

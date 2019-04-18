@@ -1,16 +1,15 @@
 {
   "contacts": [
     {
-      "name": "Mario Noronha",
-      "email": "mario@charkha.org",
-      "designation": "CEO",
+      "name": "Sumita Ghose",
+      "email": "",
+      "designation": "President",
       "mobile": []
     },
     {
       "name": "Mario Noronha",
-      "email": "mario@charkha.org",
       "designation": "CEO",
-      "mobile": []
+      "email": "mario@charkha.org"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8814",

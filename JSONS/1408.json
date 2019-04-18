@@ -1,16 +1,15 @@
 {
   "contacts": [
     {
-      "name": "Mohammed Rangari",
-      "email": "rangrej786@gmail.com",
-      "designation": "Data Entry Operator",
+      "name": "B O Thippeswamy",
+      "email": "",
+      "designation": "President",
       "mobile": []
     },
     {
       "name": "Mohammed Rangari",
-      "email": "rangrej786@gmail.com",
       "designation": "Data Entry Operator",
-      "mobile": []
+      "email": "rangrej786@gmail.com"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1408",

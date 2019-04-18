@@ -1,12 +1,10 @@
 {
   "contacts": [
     {
-      "name": "Dr. P.K.Jain",
+      "name": "Dr.P.K.Jain",
       "email": "jainhospitalvasundhara@yahoo.co.in",
-      "designation": "Secretary",
-      "mobile": [
-        "91-9810070637"
-      ]
+      "designation": "President",
+      "mobile": []
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7049",

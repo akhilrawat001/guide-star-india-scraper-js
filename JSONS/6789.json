@@ -1,31 +1,15 @@
 {
   "contacts": [
     {
-      "name": "Nemala. Sundari",
-      "email": "sundarisurakasula@gmail.com",
-      "designation": "Treasurer",
-      "mobile": [
-        "236679",
-        "8121356710"
-      ]
+      "name": "Mr.Israel Benarjee Babu Kanikella",
+      "email": "",
+      "designation": "",
+      "mobile": []
     },
     {
       "name": "Nemala. Sundari",
-      "email": "sundarisurakasula@gmail.com",
       "designation": "Treasurer",
-      "mobile": [
-        "236679",
-        "8121356710"
-      ]
-    },
-    {
-      "name": "Nemala. Sundari",
-      "email": "sundarisurakasula@gmail.com",
-      "designation": "Treasurer",
-      "mobile": [
-        "236679",
-        "8121356710"
-      ]
+      "email": "sundarisurakasula@gmail.com"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6789",

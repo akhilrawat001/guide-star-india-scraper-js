@@ -1,12 +1,10 @@
 {
   "contacts": [
     {
-      "name": "Mayank Jain",
-      "email": "mayank@microxfoundation.com",
-      "designation": "CEO",
-      "mobile": [
-        "91-9968300951"
-      ]
+      "name": "Prabhat Kumar",
+      "email": "prabhat@microxfoundation.com",
+      "designation": "President",
+      "mobile": []
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9003",

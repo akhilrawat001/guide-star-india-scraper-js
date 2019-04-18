@@ -1,16 +1,15 @@
 {
   "contacts": [
     {
-      "name": "Satz Moses",
-      "email": "foundation@heliosoutsourcing.com",
-      "designation": "Founder",
+      "name": "Cynthia Moses",
+      "email": "",
+      "designation": "Director",
       "mobile": []
     },
     {
       "name": "Satz Moses",
-      "email": "foundation@heliosoutsourcing.com",
       "designation": "Founder",
-      "mobile": []
+      "email": "foundation@heliosoutsourcing.com"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=243",

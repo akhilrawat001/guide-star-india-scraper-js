@@ -1,12 +1,10 @@
 {
   "contacts": [
     {
-      "name": "Sarosh Khan",
-      "email": "drsarosh@gmail.com",
-      "designation": "Vice President 1",
-      "mobile": [
-        "91-9419073324"
-      ]
+      "name": "Arajmand Makhdoomi",
+      "email": "ctf.pres@gmail.com",
+      "designation": "President",
+      "mobile": []
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1873",

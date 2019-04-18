@@ -1,12 +1,10 @@
 {
   "contacts": [
     {
-      "name": "AK Ganesh",
-      "email": "ganesh@yrgcare.org",
-      "designation": "Chief Program Officer",
-      "mobile": [
-        "91-9840079001"
-      ]
+      "name": "AK Srikrishnan",
+      "email": "",
+      "designation": "Chief Operating Officer",
+      "mobile": []
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=244",

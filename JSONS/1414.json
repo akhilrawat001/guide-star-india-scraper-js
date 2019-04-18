@@ -1,16 +1,14 @@
 {
   "contacts": [
     {
-      "name": "Sujit Kumar",
+      "name": "Kusum Devi",
       "email": "osdp_india@yahoo.in",
-      "designation": "Secretary",
+      "designation": "President",
       "mobile": []
     },
     {
       "name": "Sujit Kumar",
-      "email": "osdp_india@yahoo.in",
-      "designation": "Secretary",
-      "mobile": []
+      "designation": "Secretary"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1414",

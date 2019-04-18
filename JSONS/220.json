@@ -1,16 +1,14 @@
 {
   "contacts": [
     {
-      "name": "Kainaaz Mistry",
+      "name": "Shiamak Davar",
       "email": "",
-      "designation": "Manager",
+      "designation": "Founder & Director",
       "mobile": []
     },
     {
       "name": "Kainaaz Mistry",
-      "email": "",
-      "designation": "Manager",
-      "mobile": []
+      "designation": "Manager"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=220",

@@ -1,16 +1,15 @@
 {
   "contacts": [
     {
-      "name": "Beena George",
+      "name": "Rev. Itty Mathew",
       "email": "esafhq@esaf.in",
-      "designation": "AGM - Programs",
+      "designation": "Founder President",
       "mobile": []
     },
     {
       "name": "Beena George",
-      "email": "esafhq@esaf.in",
       "designation": "AGM - Programs",
-      "mobile": []
+      "email": "esafhq@esaf.in"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6343",

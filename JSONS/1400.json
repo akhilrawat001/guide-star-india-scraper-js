@@ -1,16 +1,14 @@
 {
   "contacts": [
     {
-      "name": "Rajesh Kakade",
+      "name": "E.P.S. Sundaram",
       "email": "",
-      "designation": "Does not have email id",
+      "designation": "Secretary",
       "mobile": []
     },
     {
       "name": "Rajesh Kakade",
-      "email": "",
-      "designation": "Does not have email id",
-      "mobile": []
+      "designation": "Does not have email id"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1400",

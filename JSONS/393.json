@@ -1,12 +1,10 @@
 {
   "contacts": [
     {
-      "name": "Makarand Kulkarni",
-      "email": "makarandk2008@rediffmail.com",
-      "designation": "Officer",
-      "mobile": [
-        "91-233-2311819"
-      ]
+      "name": "Arun Dandekar",
+      "email": "loknayaktrust@gmail.com",
+      "designation": "Vice President",
+      "mobile": []
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=393",

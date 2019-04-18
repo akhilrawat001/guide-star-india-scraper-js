@@ -1,12 +1,10 @@
 {
   "contacts": [
     {
-      "name": "Shabnam",
-      "email": "info@vishakhawe.org",
-      "designation": "Resource team member",
-      "mobile": [
-        "91-141-2703725"
-      ]
+      "name": "Bharat",
+      "email": "bharatvish@yahoo.com",
+      "designation": "Secretary",
+      "mobile": []
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=513",

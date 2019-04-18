@@ -1,28 +1,15 @@
 {
   "contacts": [
     {
-      "name": "Rekha Kumari",
-      "email": "k.rekha01@gmail.com",
-      "designation": "Trustee & Program Manager",
+      "name": "Kaushlendra",
+      "email": "",
+      "designation": "",
       "mobile": []
     },
     {
       "name": "Rekha Kumari",
-      "email": "k.rekha01@gmail.com",
       "designation": "Trustee & Program Manager",
-      "mobile": []
-    },
-    {
-      "name": "Rekha Kumari",
-      "email": "k.rekha01@gmail.com",
-      "designation": "Trustee & Program Manager",
-      "mobile": []
-    },
-    {
-      "name": "Rekha Kumari",
-      "email": "k.rekha01@gmail.com",
-      "designation": "Trustee & Program Manager",
-      "mobile": []
+      "email": "k.rekha01@gmail.com"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6514",

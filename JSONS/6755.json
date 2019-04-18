@@ -1,13 +1,10 @@
 {
   "contacts": [
     {
-      "name": "Sarana Akhtar",
-      "email": "mmbarajasthan@gmail.com",
-      "designation": "Secretary",
-      "mobile": [
-        "91-2982-221446",
-        "91-9414107446"
-      ]
+      "name": "Adil khan",
+      "email": "",
+      "designation": "",
+      "mobile": []
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6755",

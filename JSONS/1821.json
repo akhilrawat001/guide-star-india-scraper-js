@@ -1,16 +1,15 @@
 {
   "contacts": [
     {
-      "name": "John Thansanga",
-      "email": "jthansanga@yahoo.com",
-      "designation": "Secretary",
+      "name": "N. Pallai",
+      "email": "",
+      "designation": "President",
       "mobile": []
     },
     {
       "name": "John Thansanga",
-      "email": "jthansanga@yahoo.com",
       "designation": "Secretary",
-      "mobile": []
+      "email": "jthansanga@yahoo.com"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1821",

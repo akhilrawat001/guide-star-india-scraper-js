@@ -1,21 +1,18 @@
 {
   "contacts": [
     {
-      "name": "Ovias Siraj",
-      "email": "Ovias@burooj.org",
-      "designation": "CEO",
-      "mobile": [
-        "91-22-27715424",
-        "91-8108753370"
-      ]
+      "name": "Dawood Vaid",
+      "email": "dawood@burooj.org",
+      "designation": "Director",
+      "mobile": []
     },
     {
       "name": "Ovias Siraj",
-      "email": "Ovias@burooj.org",
       "designation": "CEO",
+      "email": "Ovias@burooj.org",
       "mobile": [
         "91-22-27715424",
-        "91-8108753370"
+        "91-9594373500"
       ]
     }
   ],

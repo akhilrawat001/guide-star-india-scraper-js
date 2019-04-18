@@ -1,16 +1,15 @@
 {
   "contacts": [
     {
-      "name": "Pradip Kumar Das",
-      "email": "pradipdr2@gmail.com",
-      "designation": "Secretary",
+      "name": "Biswanath Mitra",
+      "email": "",
+      "designation": "President",
       "mobile": []
     },
     {
       "name": "Pradip Kumar Das",
-      "email": "pradipdr2@gmail.com",
       "designation": "Secretary",
-      "mobile": []
+      "email": "pradipdr2@gmail.com"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=834",

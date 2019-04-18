@@ -1,13 +1,10 @@
 {
   "contacts": [
     {
-      "name": "Tanveer Ahmed",
-      "email": "tanveer.sayeed@quesscorp.com",
-      "designation": "Manager",
-      "mobile": [
-        "91-80-61056120",
-        "91-8277195272"
-      ]
+      "name": "Smitha. B S",
+      "email": "smitha.bs@quesscorp.com",
+      "designation": "Senior Manager",
+      "mobile": []
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10079",

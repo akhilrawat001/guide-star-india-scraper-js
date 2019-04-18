@@ -1,12 +1,10 @@
 {
   "contacts": [
     {
-      "name": "Nagraj Poornamath",
+      "name": "Yogendra Shetty",
       "email": "naseoh@vsnl.com",
-      "designation": "Accountant",
-      "mobile": [
-        "91-22-25220224"
-      ]
+      "designation": "Executive Secretary & Director General",
+      "mobile": []
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=412",

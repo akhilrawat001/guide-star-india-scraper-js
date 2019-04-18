@@ -1,16 +1,15 @@
 {
   "contacts": [
     {
-      "name": "R. Ramachandran",
+      "name": "Dr. Mani Kalliath",
       "email": "bni@basicneedsindia.org",
-      "designation": "Finance & Communication Officer",
+      "designation": "Director",
       "mobile": []
     },
     {
       "name": "R. Ramachandran",
-      "email": "bni@basicneedsindia.org",
       "designation": "Finance & Communication Officer",
-      "mobile": []
+      "email": "bni@basicneedsindia.org"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3390",

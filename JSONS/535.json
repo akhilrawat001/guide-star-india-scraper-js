@@ -1,16 +1,14 @@
 {
   "contacts": [
     {
-      "name": "Fr Richard D'souza S J",
+      "name": "Fr Benny Moolan S J",
       "email": "",
-      "designation": "Administrator",
+      "designation": "Director",
       "mobile": []
     },
     {
       "name": "Fr Richard D'souza S J",
-      "email": "",
-      "designation": "Administrator",
-      "mobile": []
+      "designation": "Administrator"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=535",

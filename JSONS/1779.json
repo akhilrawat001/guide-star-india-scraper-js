@@ -1,16 +1,14 @@
 {
   "contacts": [
     {
-      "name": "Veerabadregowda",
+      "name": "Mahadevaiah",
       "email": "mykapsiwmp@gmail.com",
-      "designation": "Office In-charge",
+      "designation": "Manager",
       "mobile": []
     },
     {
       "name": "Veerabadregowda",
-      "email": "mykapsiwmp@gmail.com",
-      "designation": "Office In-charge",
-      "mobile": []
+      "designation": "Office In-charge"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1779",

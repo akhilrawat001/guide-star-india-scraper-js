@@ -1,16 +1,15 @@
 {
   "contacts": [
     {
-      "name": "Riju Sharma",
-      "email": "sharma.rij@gmail.com",
-      "designation": "Coordinator",
+      "name": "Lukose Cheruvalel",
+      "email": "",
+      "designation": "Founder Director",
       "mobile": []
     },
     {
       "name": "Riju Sharma",
-      "email": "sharma.rij@gmail.com",
       "designation": "Coordinator",
-      "mobile": []
+      "email": "sharma.rij@gmail.com"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=966",

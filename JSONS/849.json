@@ -1,12 +1,10 @@
 {
   "contacts": [
     {
-      "name": "Freya Walker",
-      "email": "freya@worldhealthpartners.org",
-      "designation": "PA to the President",
-      "mobile": [
-        "91-11-40757100"
-      ]
+      "name": "K Gopalakrishnan",
+      "email": "info@worldhealthpartners.org",
+      "designation": "President",
+      "mobile": []
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=849",

@@ -1,12 +1,10 @@
 {
   "contacts": [
     {
-      "name": "D Venkatesha Murthy",
-      "email": "vivekeyecare@gmail.com",
-      "designation": "CEO",
-      "mobile": [
-        "91-9900326556"
-      ]
+      "name": "N Krishnaswamy",
+      "email": "",
+      "designation": "President",
+      "mobile": []
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=651",

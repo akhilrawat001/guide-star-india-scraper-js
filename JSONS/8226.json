@@ -1,12 +1,10 @@
 {
   "contacts": [
     {
-      "name": "KUMAR B DUPATE",
-      "email": "kumardupate@yahoo.co.in",
-      "designation": "LIASIONING OFFICER",
-      "mobile": [
-        "91-9422184607"
-      ]
+      "name": "Dr Raj Kumar",
+      "email": "",
+      "designation": "President",
+      "mobile": []
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8226",

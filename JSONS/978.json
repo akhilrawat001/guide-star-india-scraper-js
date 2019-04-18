@@ -1,17 +1,15 @@
 {
   "contacts": [
     {
-      "name": "Narayan Samanta",
-      "email": "angikar.2007@rediffmail.com",
-      "designation": "Treasurer",
-      "mobile": [
-        "91-33-24283363"
-      ]
+      "name": "Swapan Kumar Mandal",
+      "email": "",
+      "designation": "Secretary",
+      "mobile": []
     },
     {
       "name": "Narayan Samanta",
-      "email": "angikar.2007@rediffmail.com",
       "designation": "Treasurer",
+      "email": "angikar.2007@rediffmail.com",
       "mobile": [
         "91-33-24283363"
       ]

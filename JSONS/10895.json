@@ -1,16 +1,15 @@
 {
   "contacts": [
     {
-      "name": "Child Awareness Project",
-      "email": "info@thecapro.org",
-      "designation": "General Inquiries",
+      "name": "Taha Fathima Khan",
+      "email": "",
+      "designation": "Founder & CEO",
       "mobile": []
     },
     {
       "name": "Child Awareness Project",
-      "email": "info@thecapro.org",
       "designation": "General Inquiries",
-      "mobile": []
+      "email": "info@thecapro.org"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10895",

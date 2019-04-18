@@ -1,16 +1,15 @@
 {
   "contacts": [
     {
-      "name": "Anant Bhaskar Garg",
-      "email": "anantg@hrdef.org",
-      "designation": "Director",
+      "name": "V. K. Garg",
+      "email": "info@hrdef.org",
+      "designation": "President",
       "mobile": []
     },
     {
       "name": "Anant Bhaskar Garg",
-      "email": "anantg@hrdef.org",
       "designation": "Director",
-      "mobile": []
+      "email": "anantg@hrdef.org"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6573",

@@ -1,16 +1,15 @@
 {
   "contacts": [
     {
-      "name": "Feros Khan",
-      "email": "feros@hcgoncology.com",
-      "designation": "Manager Foundation",
+      "name": "Anjali Ajaikumar",
+      "email": "",
+      "designation": "Director",
       "mobile": []
     },
     {
       "name": "Feros Khan",
-      "email": "feros@hcgoncology.com",
       "designation": "Manager Foundation",
-      "mobile": []
+      "email": "feros@hcgoncology.com"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1703",

@@ -1,12 +1,10 @@
 {
   "contacts": [
     {
-      "name": "Vikram Srivastava",
-      "email": "vikram@ithought.in",
-      "designation": "Founder",
-      "mobile": [
-        "91-120-2544052"
-      ]
+      "name": "Ranjana Srivastava",
+      "email": "ranjana@ithought.in",
+      "designation": "Executive Director",
+      "mobile": []
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2955",

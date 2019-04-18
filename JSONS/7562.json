@@ -1,13 +1,10 @@
 {
   "contacts": [
     {
-      "name": "Mr.Arjun Mishra",
-      "email": "arjun.mishra@nabetindia.org",
-      "designation": "General Manager",
-      "mobile": [
-        "91-124-4869792",
-        "91-9718903091"
-      ]
+      "name": "Ms.Usha Mishra",
+      "email": "",
+      "designation": "",
+      "mobile": []
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7562",

@@ -1,16 +1,15 @@
 {
   "contacts": [
     {
-      "name": "Ms.Bhaswati Roy Choudhury",
-      "email": "bhaswati@theant.org",
-      "designation": "Finance And Accounts Team Leader",
+      "name": "Dr. Sunil Kaul",
+      "email": "sunil@theant.org",
+      "designation": "Managing Trustee",
       "mobile": []
     },
     {
       "name": "Ms.Bhaswati Roy Choudhury",
-      "email": "bhaswati@theant.org",
       "designation": "Finance And Accounts Team Leader",
-      "mobile": []
+      "email": "bhaswati@theant.org"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7237",

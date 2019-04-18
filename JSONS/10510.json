@@ -1,16 +1,15 @@
 {
   "contacts": [
     {
-      "name": "Md. Azhar Uddin",
-      "email": "secretarybhorai@gmail.com",
-      "designation": "Secretary",
+      "name": "Biti Tudu",
+      "email": "presidentbhorai@gmail.com",
+      "designation": "President",
       "mobile": []
     },
     {
       "name": "Md. Azhar Uddin",
-      "email": "secretarybhorai@gmail.com",
       "designation": "Secretary",
-      "mobile": []
+      "email": "secretarybhorai@gmail.com"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10510",

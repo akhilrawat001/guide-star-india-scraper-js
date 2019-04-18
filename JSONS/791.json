@@ -1,16 +1,14 @@
 {
   "contacts": [
     {
-      "name": "Sunita",
+      "name": "Onkar Nath Chandra",
       "email": "",
-      "designation": "Secretary",
+      "designation": "Chairman",
       "mobile": []
     },
     {
       "name": "Sunita",
-      "email": "",
-      "designation": "Secretary",
-      "mobile": []
+      "designation": "Secretary"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=791",

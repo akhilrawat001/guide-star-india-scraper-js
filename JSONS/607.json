@@ -1,13 +1,10 @@
 {
   "contacts": [
     {
-      "name": "Samarendra Dixit",
+      "name": "Debaraj Dixit",
       "email": "prachiyso@rediffmail.com",
-      "designation": "Secretary",
-      "mobile": [
-        "91-6758-231493",
-        "91-9853921376"
-      ]
+      "designation": "President",
+      "mobile": []
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=607",

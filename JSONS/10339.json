@@ -1,16 +1,15 @@
 {
   "contacts": [
     {
-      "name": "Aparna Ramchander",
-      "email": "aparna@specialsources.com",
-      "designation": "Senior Manager - Marketing and Projects",
+      "name": "Rashmi Devaprasath",
+      "email": "rashmi@specialsources.com",
+      "designation": "Founder",
       "mobile": []
     },
     {
       "name": "Aparna Ramchander",
-      "email": "aparna@specialsources.com",
       "designation": "Senior Manager - Marketing and Projects",
-      "mobile": []
+      "email": "aparna@specialsources.com"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10339",

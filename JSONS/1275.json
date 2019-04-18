@@ -1,12 +1,10 @@
 {
   "contacts": [
     {
-      "name": "S.Joshua Christopher",
-      "email": "sjoshuakpc@yahoo.com",
-      "designation": "Vice-President",
-      "mobile": [
-        "91-9480525863"
-      ]
+      "name": "J.Simon",
+      "email": "",
+      "designation": "President",
+      "mobile": []
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1275",

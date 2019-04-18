@@ -1,16 +1,15 @@
 {
   "contacts": [
     {
-      "name": "Mohit Kumar",
-      "email": "info@elimfoundation.org",
-      "designation": "Director",
+      "name": "Joseph Meagher",
+      "email": "",
+      "designation": "President",
       "mobile": []
     },
     {
       "name": "Mohit Kumar",
-      "email": "info@elimfoundation.org",
       "designation": "Director",
-      "mobile": []
+      "email": "info@elimfoundation.org"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9342",

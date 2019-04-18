@@ -1,12 +1,10 @@
 {
   "contacts": [
     {
-      "name": "Clifton Shipway",
-      "email": "clifton@indianorphanage.com",
-      "designation": "Deputy Director",
-      "mobile": [
-        "91-9557111756"
-      ]
+      "name": "Warwick G. Shipway",
+      "email": "office@indianorphanage.com",
+      "designation": "Director",
+      "mobile": []
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9693",

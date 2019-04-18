@@ -1,21 +1,18 @@
 {
   "contacts": [
     {
-      "name": "Panimalar A",
-      "email": "csr@breadsbangalore.org",
-      "designation": "Manager - CSR Partnership",
-      "mobile": [
-        "25463476",
-        "7204796127"
-      ]
+      "name": "Fr Joy Nedumparambil sdb",
+      "email": "",
+      "designation": "",
+      "mobile": []
     },
     {
       "name": "Panimalar A",
-      "email": "csr@breadsbangalore.org",
       "designation": "Manager - CSR Partnership",
+      "email": "csr@breadsbangalore.org",
       "mobile": [
-        "25463476",
-        "7204796127"
+        "91-80-25463476",
+        "91-7204796127"
       ]
     }
   ],

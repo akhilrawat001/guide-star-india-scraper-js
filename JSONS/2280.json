@@ -1,12 +1,10 @@
 {
   "contacts": [
     {
-      "name": "Rashid Khan",
-      "email": "rashid@corbettfoundation.org",
-      "designation": "Manager - Accounts",
-      "mobile": [
-        "91-22-61466424"
-      ]
+      "name": "Kedar G Gore",
+      "email": "kgore@corbettfoundation.org",
+      "designation": "Director",
+      "mobile": []
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2280",

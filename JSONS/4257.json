@@ -2,15 +2,14 @@
   "contacts": [
     {
       "name": "RAVINDRA SINGH BHATIA",
-      "email": "bhatiaravindra@yahoo.com",
+      "email": "gvp.india@yahoo.com",
       "designation": "PRESIDENT",
       "mobile": []
     },
     {
       "name": "RAVINDRA SINGH BHATIA",
-      "email": "bhatiaravindra@yahoo.com",
       "designation": "PRESIDENT",
-      "mobile": []
+      "email": "bhatiaravindra@yahoo.com"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4257",

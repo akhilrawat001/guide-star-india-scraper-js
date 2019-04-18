@@ -1,16 +1,14 @@
 {
   "contacts": [
     {
-      "name": "K. Kamala",
+      "name": "Vellakkamu",
       "email": "",
-      "designation": "Treasurer",
+      "designation": "Secretary",
       "mobile": []
     },
     {
       "name": "K. Kamala",
-      "email": "",
-      "designation": "Treasurer",
-      "mobile": []
+      "designation": "Treasurer"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1312",

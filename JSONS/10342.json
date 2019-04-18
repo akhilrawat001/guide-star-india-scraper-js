@@ -1,12 +1,10 @@
 {
   "contacts": [
     {
-      "name": "Pramod Sahu",
-      "email": "pksahu007@gmail.com",
-      "designation": "Web Developer",
-      "mobile": [
-        "91-9703247360"
-      ]
+      "name": "H Ranjeeta Devi",
+      "email": "info@happyhome.org.in",
+      "designation": "Founder",
+      "mobile": []
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10342",

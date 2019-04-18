@@ -1,16 +1,15 @@
 {
   "contacts": [
     {
-      "name": "Manish Rathore",
-      "email": "graminvikastrust1999@gmail.com",
-      "designation": "Faculty",
+      "name": "Shri Sunder Singh Yadav",
+      "email": "",
+      "designation": "CEO",
       "mobile": []
     },
     {
       "name": "Manish Rathore",
-      "email": "graminvikastrust1999@gmail.com",
       "designation": "Faculty",
-      "mobile": []
+      "email": "graminvikastrust1999@gmail.com"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10247",

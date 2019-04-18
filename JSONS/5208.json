@@ -1,16 +1,15 @@
 {
   "contacts": [
     {
-      "name": "Darshana Tawate",
-      "email": "vedafoundation@yahoo.co.in",
-      "designation": "Project Director",
+      "name": "Ganesh Ambekar",
+      "email": "ganesh_n_ambekar@yahoo.co.in",
+      "designation": "Chairman",
       "mobile": []
     },
     {
       "name": "Darshana Tawate",
-      "email": "vedafoundation@yahoo.co.in",
       "designation": "Project Director",
-      "mobile": []
+      "email": "vedafoundation@yahoo.co.in"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5208",

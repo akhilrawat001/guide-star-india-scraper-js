@@ -1,12 +1,10 @@
 {
   "contacts": [
     {
-      "name": "Swati Agrawal",
-      "email": "swati@idialaw.com",
-      "designation": "Director",
-      "mobile": [
-        "91-8130679884"
-      ]
+      "name": "Dr. Shamnad Basheer",
+      "email": "shamnad@idialaw.com",
+      "designation": "Managing Trustee",
+      "mobile": []
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6771",

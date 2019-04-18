@@ -1,16 +1,14 @@
 {
   "contacts": [
     {
-      "name": "S.K KENDRE",
+      "name": "V.S Gutte",
       "email": "n.v.gutte@gmail.com",
-      "designation": "PRESIDENT",
+      "designation": "Secretary",
       "mobile": []
     },
     {
       "name": "S.K KENDRE",
-      "email": "n.v.gutte@gmail.com",
-      "designation": "PRESIDENT",
-      "mobile": []
+      "designation": "PRESIDENT"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2832",

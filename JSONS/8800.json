@@ -1,28 +1,15 @@
 {
   "contacts": [
     {
-      "name": "Prathyusha",
-      "email": "hermianfoundation@gmail.com",
-      "designation": "Trustee & Co Founder",
+      "name": "Dr. Preethidan Sreedhar",
+      "email": "",
+      "designation": "Chairman & Managing Trustee",
       "mobile": []
     },
     {
       "name": "Prathyusha",
-      "email": "hermianfoundation@gmail.com",
       "designation": "Trustee & Co Founder",
-      "mobile": []
-    },
-    {
-      "name": "Prathyusha",
-      "email": "hermianfoundation@gmail.com",
-      "designation": "Trustee & Co Founder",
-      "mobile": []
-    },
-    {
-      "name": "Prathyusha",
-      "email": "hermianfoundation@gmail.com",
-      "designation": "Trustee & Co Founder",
-      "mobile": []
+      "email": "hermianfoundation@gmail.com"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8800",

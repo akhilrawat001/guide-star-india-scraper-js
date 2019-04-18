@@ -1,16 +1,15 @@
 {
   "contacts": [
     {
-      "name": "Srinivas Kalaveni",
-      "email": "kalaveni.svas@gmail.com",
-      "designation": "General Secretary",
+      "name": "Pramodh Peddi",
+      "email": "",
+      "designation": "President",
       "mobile": []
     },
     {
       "name": "Srinivas Kalaveni",
-      "email": "kalaveni.svas@gmail.com",
       "designation": "General Secretary",
-      "mobile": []
+      "email": "kalaveni.svas@gmail.com"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5047",

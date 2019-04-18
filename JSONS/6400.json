@@ -2,15 +2,14 @@
   "contacts": [
     {
       "name": "Nazir Ahmad Khan",
-      "email": "chairman@aiscnation.org",
-      "designation": "Chairman",
+      "email": "",
+      "designation": "",
       "mobile": []
     },
     {
       "name": "Nazir Ahmad Khan",
-      "email": "chairman@aiscnation.org",
       "designation": "Chairman",
-      "mobile": []
+      "email": "chairman@aiscnation.org"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6400",

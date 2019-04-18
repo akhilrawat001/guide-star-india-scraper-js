@@ -1,22 +1,22 @@
 {
   "contacts": [
     {
-      "name": "Roger Rajeev",
+      "name": "Victor Jasti",
       "email": "outofthecocoon@gmail.com",
-      "designation": "General Secretary",
+      "designation": "President",
       "mobile": [
         "91-40-40160760",
         "91-9848988128"
       ]
     },
     {
-      "name": "Roger Rajeev",
-      "email": "outofthecocoon@gmail.com",
-      "designation": "General Secretary",
       "mobile": [
         "91-40-40160760",
         "91-9848988128"
-      ]
+      ],
+      "name": "Roger Rajeev",
+      "designation": "General Secretary",
+      "email": "outofthecocoon@gmail.com"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4925",

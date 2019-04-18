@@ -1,12 +1,10 @@
 {
   "contacts": [
     {
-      "name": "Mr. Abhishek Singh",
-      "email": "secretary@sachet.ngo",
-      "designation": "Secretary",
-      "mobile": [
-        "91-9695876666"
-      ]
+      "name": "Mr. Ram Krishna Singh",
+      "email": "president@sachet.ngo",
+      "designation": "President",
+      "mobile": []
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9077",

@@ -1,16 +1,15 @@
 {
   "contacts": [
     {
-      "name": "B Pramod Gopal Nair",
-      "email": "pramod@comit.co.in",
-      "designation": "Exe Council Member",
+      "name": "Ramachandran",
+      "email": "abhayamtripunithura@yahoo.co.in",
+      "designation": "General Secratary",
       "mobile": []
     },
     {
       "name": "B Pramod Gopal Nair",
-      "email": "pramod@comit.co.in",
       "designation": "Exe Council Member",
-      "mobile": []
+      "email": "pramod@comit.co.in"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2540",

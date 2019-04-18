@@ -1,16 +1,15 @@
 {
   "contacts": [
     {
-      "name": "Bosky Bavisi",
-      "email": "bosky@sanisa.co.in",
-      "designation": "Trustee",
+      "name": "Simi Thapar",
+      "email": "simithapar@gmail.com",
+      "designation": "President",
       "mobile": []
     },
     {
       "name": "Bosky Bavisi",
-      "email": "bosky@sanisa.co.in",
       "designation": "Trustee",
-      "mobile": []
+      "email": "bosky@sanisa.co.in"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1758",

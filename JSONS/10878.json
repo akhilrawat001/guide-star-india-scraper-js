@@ -1,16 +1,15 @@
 {
   "contacts": [
     {
-      "name": "Sambaran Ganguly",
+      "name": "Deshapriya Mahapatra",
       "email": "sanket.lcwu@gmail.com",
-      "designation": "Secretary",
+      "designation": "President",
       "mobile": []
     },
     {
       "name": "Sambaran Ganguly",
-      "email": "sanket.lcwu@gmail.com",
       "designation": "Secretary",
-      "mobile": []
+      "email": "sanket.lcwu@gmail.com"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10878",

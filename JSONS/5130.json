@@ -1,16 +1,15 @@
 {
   "contacts": [
     {
-      "name": "Sonal Jankhiunger",
-      "email": "kinsfolkorgpungro@gmail.com",
-      "designation": "Secretary General",
+      "name": "Kenan dhongleh",
+      "email": "Kinfolksorgpungro@gmail.com",
+      "designation": "CEO",
       "mobile": []
     },
     {
       "name": "Sonal Jankhiunger",
-      "email": "kinsfolkorgpungro@gmail.com",
       "designation": "Secretary General",
-      "mobile": []
+      "email": "kinsfolkorgpungro@gmail.com"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5130",

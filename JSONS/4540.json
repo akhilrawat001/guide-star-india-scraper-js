@@ -1,12 +1,10 @@
 {
   "contacts": [
     {
-      "name": "Aishwarya Jain",
-      "email": "activity@lakshyam.co.in",
-      "designation": "Program Manger",
-      "mobile": [
-        "91-9540790002"
-      ]
+      "name": "Ms Rashi Anand",
+      "email": "support@lakshyam.co.in",
+      "designation": "Founder",
+      "mobile": []
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4540",

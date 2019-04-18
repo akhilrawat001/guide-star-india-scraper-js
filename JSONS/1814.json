@@ -1,16 +1,15 @@
 {
   "contacts": [
     {
-      "name": "Kamruddin Ahmed Layek",
-      "email": "layek-luky@gmail.com",
-      "designation": "Clark",
+      "name": "Mahammad Nasim Alam",
+      "email": "",
+      "designation": "Secretory",
       "mobile": []
     },
     {
       "name": "Kamruddin Ahmed Layek",
-      "email": "layek-luky@gmail.com",
       "designation": "Clark",
-      "mobile": []
+      "email": "layek-luky@gmail.com"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1814",

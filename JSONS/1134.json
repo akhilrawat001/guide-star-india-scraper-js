@@ -1,16 +1,14 @@
 {
   "contacts": [
     {
-      "name": "T Rajendra Prasad",
+      "name": "Nagorao S. Kadam",
       "email": "",
-      "designation": "General Secretary",
+      "designation": "President",
       "mobile": []
     },
     {
       "name": "T Rajendra Prasad",
-      "email": "",
-      "designation": "General Secretary",
-      "mobile": []
+      "designation": "General Secretary"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1134",

@@ -1,16 +1,14 @@
 {
   "contacts": [
     {
-      "name": "Nancy Thomas",
+      "name": "Vidya Reddy",
       "email": "",
-      "designation": "Program Facilitator",
+      "designation": "Executive Director",
       "mobile": []
     },
     {
       "name": "Nancy Thomas",
-      "email": "",
-      "designation": "Program Facilitator",
-      "mobile": []
+      "designation": "Program Facilitator"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=128",

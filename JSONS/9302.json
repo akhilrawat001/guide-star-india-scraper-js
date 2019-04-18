@@ -1,12 +1,10 @@
 {
   "contacts": [
     {
-      "name": "Riya Saxena",
-      "email": "riya@ashaimpact.org",
-      "designation": "Associate",
-      "mobile": [
-        "91-9814610728"
-      ]
+      "name": "Aparna Dua",
+      "email": "aparna@ashaimpact.org",
+      "designation": "Senior Manager",
+      "mobile": []
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9302",

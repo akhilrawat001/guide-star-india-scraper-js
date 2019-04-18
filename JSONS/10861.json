@@ -1,16 +1,15 @@
 {
   "contacts": [
     {
-      "name": "Rahul Dombe",
-      "email": "domberahul@gmail.com",
-      "designation": "Adviser",
+      "name": "Rajendra Kamble",
+      "email": "",
+      "designation": "President",
       "mobile": []
     },
     {
       "name": "Rahul Dombe",
-      "email": "domberahul@gmail.com",
       "designation": "Adviser",
-      "mobile": []
+      "email": "domberahul@gmail.com"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10861",

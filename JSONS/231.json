@@ -1,16 +1,14 @@
 {
   "contacts": [
     {
-      "name": "Anita Kumbhani",
+      "name": "Nirupa Bhangar",
       "email": "",
-      "designation": "Project Co-ordinator",
+      "designation": "Director",
       "mobile": []
     },
     {
       "name": "Anita Kumbhani",
-      "email": "",
-      "designation": "Project Co-ordinator",
-      "mobile": []
+      "designation": "Project Co-ordinator"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=231",

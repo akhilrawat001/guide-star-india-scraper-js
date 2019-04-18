@@ -1,16 +1,15 @@
 {
   "contacts": [
     {
-      "name": "Emmanuel Pathil",
-      "email": "emmanuelpathil@gmail.com",
-      "designation": "Director",
+      "name": "Veronica Dung Dung",
+      "email": "",
+      "designation": "Secretary",
       "mobile": []
     },
     {
       "name": "Emmanuel Pathil",
-      "email": "emmanuelpathil@gmail.com",
       "designation": "Director",
-      "mobile": []
+      "email": "emmanuelpathil@gmail.com"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=988",

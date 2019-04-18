@@ -1,16 +1,14 @@
 {
   "contacts": [
     {
-      "name": "Chandra Kishore",
+      "name": "Anjani Kumar Singh",
       "email": "",
-      "designation": "Secretary",
+      "designation": "President",
       "mobile": []
     },
     {
       "name": "Chandra Kishore",
-      "email": "",
-      "designation": "Secretary",
-      "mobile": []
+      "designation": "Secretary"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1098",

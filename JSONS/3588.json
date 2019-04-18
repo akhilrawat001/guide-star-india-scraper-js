@@ -1,16 +1,15 @@
 {
   "contacts": [
     {
-      "name": "Somya",
+      "name": "Naresh Gupta",
       "email": "mangalam.foundation@yahoo.com",
-      "designation": "Administrator",
+      "designation": "General Manager",
       "mobile": []
     },
     {
       "name": "Somya",
-      "email": "mangalam.foundation@yahoo.com",
       "designation": "Administrator",
-      "mobile": []
+      "email": "mangalam.foundation@yahoo.com"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3588",

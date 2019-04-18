@@ -1,16 +1,15 @@
 {
   "contacts": [
     {
-      "name": "Rinsa S Perapdan",
-      "email": "rinsa@gyanada.org",
-      "designation": "Consultant",
+      "name": "CHIRAG JAIN",
+      "email": "chirag@gyanada.org",
+      "designation": "TRUSTEE",
       "mobile": []
     },
     {
       "name": "Rinsa S Perapdan",
-      "email": "rinsa@gyanada.org",
       "designation": "Consultant",
-      "mobile": []
+      "email": "rinsa@gyanada.org"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5383",

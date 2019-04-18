@@ -1,28 +1,16 @@
 {
   "contacts": [
     {
-      "name": "T Vasantha Kumari",
+      "name": "D Suryakumari",
       "email": "",
-      "designation": "Admin Officer",
+      "designation": "Director",
       "mobile": [
         "91-9849303220"
       ]
     },
     {
       "name": "T Vasantha Kumari",
-      "email": "",
-      "designation": "Admin Officer",
-      "mobile": [
-        "91-9849303220"
-      ]
-    },
-    {
-      "name": "T Vasantha Kumari",
-      "email": "",
-      "designation": "Admin Officer",
-      "mobile": [
-        "91-9849303220"
-      ]
+      "designation": "Admin Officer"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1137",

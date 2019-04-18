@@ -1,16 +1,15 @@
 {
   "contacts": [
     {
-      "name": "Syed Merajuddin",
-      "email": "merajuddinsyed@gmail.com",
-      "designation": "Secretary",
+      "name": "Asmita Kabra",
+      "email": "president@adharshila.org.in",
+      "designation": "President",
       "mobile": []
     },
     {
       "name": "Syed Merajuddin",
-      "email": "merajuddinsyed@gmail.com",
       "designation": "Secretary",
-      "mobile": []
+      "email": "merajuddinsyed@gmail.com"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5038",

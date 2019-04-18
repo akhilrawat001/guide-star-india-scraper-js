@@ -1,16 +1,15 @@
 {
   "contacts": [
     {
-      "name": "Bernadine Dias",
-      "email": "bernadine.dias@theveruschkafoundation.org",
-      "designation": "CFO",
+      "name": "Tatyana Dias",
+      "email": "tatyana.dias@theveruschkafoundation.org",
+      "designation": "CEO",
       "mobile": []
     },
     {
       "name": "Bernadine Dias",
-      "email": "bernadine.dias@theveruschkafoundation.org",
       "designation": "CFO",
-      "mobile": []
+      "email": "bernadine.dias@theveruschkafoundation.org"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9572",

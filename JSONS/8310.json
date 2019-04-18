@@ -1,16 +1,15 @@
 {
   "contacts": [
     {
-      "name": "Narinder Singh",
-      "email": "etrdiindia2@gmail.com",
-      "designation": "Deputy Director",
+      "name": "Balwinder Singh",
+      "email": "",
+      "designation": "",
       "mobile": []
     },
     {
       "name": "Narinder Singh",
-      "email": "etrdiindia2@gmail.com",
       "designation": "Deputy Director",
-      "mobile": []
+      "email": "etrdiindia2@gmail.com"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8310",

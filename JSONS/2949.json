@@ -1,16 +1,14 @@
 {
   "contacts": [
     {
-      "name": "Pinku Saikia",
+      "name": "Mridul Chakravorty",
       "email": "mkchakravorty@gmail.com",
-      "designation": "Secretary",
+      "designation": "Chief Functionary",
       "mobile": []
     },
     {
       "name": "Pinku Saikia",
-      "email": "mkchakravorty@gmail.com",
-      "designation": "Secretary",
-      "mobile": []
+      "designation": "Secretary"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2949",

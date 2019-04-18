@@ -1,13 +1,10 @@
 {
   "contacts": [
     {
-      "name": "Chaturbhai Parmar",
-      "email": "finance@navsarjan.org",
-      "designation": "Program Director",
-      "mobile": [
-        "91-2717-324832",
-        "91-9879440085"
-      ]
+      "name": "Manjula Pradeep",
+      "email": "director@navsarjan.org",
+      "designation": "Executive Director",
+      "mobile": []
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4362",

@@ -1,13 +1,10 @@
 {
   "contacts": [
     {
-      "name": "Suresh Karuppiah",
-      "email": "suchju@yahoo.com",
-      "designation": "Director",
-      "mobile": [
-        "91-4339-262840",
-        "91-9443362841"
-      ]
+      "name": "Christine Suresh",
+      "email": "",
+      "designation": "Secretary",
+      "mobile": []
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6105",

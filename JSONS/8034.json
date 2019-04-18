@@ -1,12 +1,10 @@
 {
   "contacts": [
     {
-      "name": "Manish Gond",
-      "email": "gondmanish007@gmail.com",
-      "designation": "Manager",
-      "mobile": [
-        "91-7376971315"
-      ]
+      "name": "Suman Gaud",
+      "email": "",
+      "designation": "",
+      "mobile": []
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8034",

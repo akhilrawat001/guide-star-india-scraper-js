@@ -1,12 +1,10 @@
 {
   "contacts": [
     {
-      "name": "Suresh Kumar",
-      "email": "suresh@afisi.org",
-      "designation": "Director",
-      "mobile": [
-        "91-9540017990"
-      ]
+      "name": "Ajit Singh",
+      "email": "info@afisi.org",
+      "designation": "CEO",
+      "mobile": []
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10168",

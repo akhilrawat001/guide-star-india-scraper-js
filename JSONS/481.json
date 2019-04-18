@@ -1,16 +1,15 @@
 {
   "contacts": [
     {
-      "name": "Shubhangi Abhyankar",
+      "name": "Sharmila Sayed",
       "email": "admin@sofosh.org",
-      "designation": "Administration coordinator",
+      "designation": "Administration incharge",
       "mobile": []
     },
     {
       "name": "Shubhangi Abhyankar",
-      "email": "admin@sofosh.org",
       "designation": "Administration coordinator",
-      "mobile": []
+      "email": "admin@sofosh.org"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=481",

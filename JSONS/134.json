@@ -1,16 +1,15 @@
 {
   "contacts": [
     {
-      "name": "Aditi Punj",
-      "email": "apunj@youthventure.org",
-      "designation": "Community Development",
+      "name": "Vishnu Swaminathan",
+      "email": "vram@ashoka.org",
+      "designation": "Director, Ashoka South Asia",
       "mobile": []
     },
     {
       "name": "Aditi Punj",
-      "email": "apunj@youthventure.org",
       "designation": "Community Development",
-      "mobile": []
+      "email": "apunj@youthventure.org"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=134",

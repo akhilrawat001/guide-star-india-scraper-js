@@ -1,16 +1,15 @@
 {
   "contacts": [
     {
-      "name": "Nidhi Mukundan",
-      "email": "nidhi@baalemane.org",
-      "designation": "Fundraising and Communications Manager",
+      "name": "Rakhi Sundar",
+      "email": "Rakhi@baalemane.org",
+      "designation": "Trustee",
       "mobile": []
     },
     {
       "name": "Nidhi Mukundan",
-      "email": "nidhi@baalemane.org",
       "designation": "Fundraising and Communications Manager",
-      "mobile": []
+      "email": "nidhi@baalemane.org"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5722",

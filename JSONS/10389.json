@@ -1,13 +1,10 @@
 {
   "contacts": [
     {
-      "name": "Dr Sabu Milton Simon",
-      "email": "director@arogyaagam.org",
-      "designation": "Director",
-      "mobile": [
-        "91-4546-242306",
-        "91-9842142306"
-      ]
+      "name": "K Kunasekaran",
+      "email": "info@arogyaagam.org",
+      "designation": "Secretary",
+      "mobile": []
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10389",

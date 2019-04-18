@@ -1,16 +1,14 @@
 {
   "contacts": [
     {
-      "name": "ANDRE SARKAR",
+      "name": "Ajit Mondal",
       "email": "",
-      "designation": "PRESIDENT",
+      "designation": "SECRETARY",
       "mobile": []
     },
     {
       "name": "ANDRE SARKAR",
-      "email": "",
-      "designation": "PRESIDENT",
-      "mobile": []
+      "designation": "PRESIDENT"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1988",

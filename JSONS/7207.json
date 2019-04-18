@@ -1,12 +1,10 @@
 {
   "contacts": [
     {
-      "name": "Rajesh Kumar  Sharma",
-      "email": "rajesh_g72@yahoo.com",
-      "designation": "Secretary",
-      "mobile": [
-        "91-5862-240119"
-      ]
+      "name": "Mr.Rajesh Kumar Sharma",
+      "email": "",
+      "designation": "",
+      "mobile": []
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7207",

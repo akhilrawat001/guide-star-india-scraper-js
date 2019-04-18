@@ -1,12 +1,10 @@
 {
   "contacts": [
     {
-      "name": "S Padma",
+      "name": "K R Raju",
       "email": "vdc_raju@yahoo.com",
-      "designation": "Project Coordinator",
-      "mobile": [
-        "91-431-2561061"
-      ]
+      "designation": "Secretary",
+      "mobile": []
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=512",

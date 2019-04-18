@@ -1,16 +1,15 @@
 {
   "contacts": [
     {
-      "name": "Ranjan Kumar Medhi",
-      "email": "naturesobserver2016@rediffmail.com",
-      "designation": "General Secretary",
+      "name": "Parismita Sarma",
+      "email": "naturesobservercb@gmail.com",
+      "designation": "President",
       "mobile": []
     },
     {
       "name": "Ranjan Kumar Medhi",
-      "email": "naturesobserver2016@rediffmail.com",
       "designation": "General Secretary",
-      "mobile": []
+      "email": "naturesobserver2016@rediffmail.com"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10424",

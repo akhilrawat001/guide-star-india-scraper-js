@@ -1,16 +1,14 @@
 {
   "contacts": [
     {
-      "name": "J.A. Sirasagi",
+      "name": "R.A. Sirasagi",
       "email": "",
-      "designation": "Secretary",
+      "designation": "President",
       "mobile": []
     },
     {
       "name": "J.A. Sirasagi",
-      "email": "",
-      "designation": "Secretary",
-      "mobile": []
+      "designation": "Secretary"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1493",

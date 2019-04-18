@@ -1,28 +1,17 @@
 {
   "contacts": [
     {
-      "name": "Deepa.S.A",
-      "email": "deepaaralikatti@rediffmail.com",
-      "designation": "Manager",
+      "name": "H.V. Shivappa",
+      "email": "sorabsrinivas@gmail.com",
+      "designation": "President",
       "mobile": [
         "91-9449042399"
       ]
     },
     {
       "name": "Deepa.S.A",
-      "email": "deepaaralikatti@rediffmail.com",
       "designation": "Manager",
-      "mobile": [
-        "91-9449042399"
-      ]
-    },
-    {
-      "name": "Deepa.S.A",
-      "email": "deepaaralikatti@rediffmail.com",
-      "designation": "Manager",
-      "mobile": [
-        "91-9449042399"
-      ]
+      "email": "deepaaralikatti@rediffmail.com"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1093",

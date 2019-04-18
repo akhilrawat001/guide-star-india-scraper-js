@@ -1,12 +1,10 @@
 {
   "contacts": [
     {
-      "name": "Rajesh Butta",
-      "email": "rajesh.butta@gmail.com",
-      "designation": "Mentor",
-      "mobile": [
-        "91-8800999281"
-      ]
+      "name": "Rajat Verma",
+      "email": "medivow@gmail.com",
+      "designation": "CEO",
+      "mobile": []
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9705",

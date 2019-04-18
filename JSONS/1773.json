@@ -1,16 +1,15 @@
 {
   "contacts": [
     {
-      "name": "Vaidehi Chokshi",
-      "email": "communications@akrspi.org",
-      "designation": "Manager-Communications",
+      "name": "Apoorva Oza",
+      "email": "",
+      "designation": "CEO",
       "mobile": []
     },
     {
       "name": "Vaidehi Chokshi",
-      "email": "communications@akrspi.org",
       "designation": "Manager-Communications",
-      "mobile": []
+      "email": "communications@akrspi.org"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1773",

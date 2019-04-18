@@ -1,16 +1,15 @@
 {
   "contacts": [
     {
-      "name": "Wilma Correa",
-      "email": "wilma.correa@csa.org.in",
-      "designation": "Development & Communication - Senior Manager",
+      "name": "Anandhi Yagnaraman",
+      "email": "",
+      "designation": "CEO",
       "mobile": []
     },
     {
       "name": "Wilma Correa",
-      "email": "wilma.correa@csa.org.in",
       "designation": "Development & Communication - Senior Manager",
-      "mobile": []
+      "email": "wilma.correa@csa.org.in"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=333",

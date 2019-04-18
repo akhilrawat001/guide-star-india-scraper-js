@@ -1,16 +1,15 @@
 {
   "contacts": [
     {
-      "name": "Mr.Nitin Manohar Kamble",
-      "email": "advnitinmkamble@gmail.com",
-      "designation": "Secretery",
+      "name": "Mr.Anand Manohar Kamble",
+      "email": "",
+      "designation": "President",
       "mobile": []
     },
     {
       "name": "Mr.Nitin Manohar Kamble",
-      "email": "advnitinmkamble@gmail.com",
       "designation": "Secretery",
-      "mobile": []
+      "email": "advnitinmkamble@gmail.com"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7329",

@@ -1,12 +1,10 @@
 {
   "contacts": [
     {
-      "name": "Sudripta Tagore",
-      "email": "sudriptatagore@gmail.com",
-      "designation": "Member",
-      "mobile": [
-        "91-9679100623"
-      ]
+      "name": "Supriyo Tagore",
+      "email": "",
+      "designation": "President",
+      "mobile": []
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10639",

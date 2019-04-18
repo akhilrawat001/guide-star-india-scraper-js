@@ -1,16 +1,14 @@
 {
   "contacts": [
     {
-      "name": "Sanjib Debnath",
+      "name": "Naresh Kundu",
       "email": "",
-      "designation": "Chairman",
+      "designation": "Secretary",
       "mobile": []
     },
     {
       "name": "Sanjib Debnath",
-      "email": "",
-      "designation": "Chairman",
-      "mobile": []
+      "designation": "Chairman"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1695",

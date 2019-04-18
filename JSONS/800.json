@@ -1,16 +1,15 @@
 {
   "contacts": [
     {
-      "name": "Rumi Malik",
-      "email": "bigtech@nasscomfoundation.org",
-      "designation": "Vice President",
+      "name": "Shrikant Sinha",
+      "email": "",
+      "designation": "CEO",
       "mobile": []
     },
     {
       "name": "Rumi Malik",
-      "email": "bigtech@nasscomfoundation.org",
       "designation": "Vice President",
-      "mobile": []
+      "email": "bigtech@nasscomfoundation.org"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=800",

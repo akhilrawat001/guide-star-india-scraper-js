@@ -1,13 +1,10 @@
 {
   "contacts": [
     {
-      "name": "Bhanu Pratap Mall (Dr)",
-      "email": "pgvs.vasudeva@gmail.com",
-      "designation": "Secretary",
-      "mobile": [
-        "91-522-4044056",
-        "91-9335910650"
-      ]
+      "name": "Arti Chand",
+      "email": "",
+      "designation": "Chairman",
+      "mobile": []
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=289",

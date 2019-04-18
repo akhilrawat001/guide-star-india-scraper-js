@@ -1,16 +1,14 @@
 {
   "contacts": [
     {
-      "name": "Sudhamanudu",
+      "name": "Anthony Praveen Kumar",
       "email": "anthony@faithindia.in",
-      "designation": "Program Coordinator",
+      "designation": "Director",
       "mobile": []
     },
     {
       "name": "Sudhamanudu",
-      "email": "anthony@faithindia.in",
-      "designation": "Program Coordinator",
-      "mobile": []
+      "designation": "Program Coordinator"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1276",

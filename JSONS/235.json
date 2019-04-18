@@ -1,16 +1,14 @@
 {
   "contacts": [
     {
-      "name": "R Jagannathan",
+      "name": "Gopal Srinivasan",
       "email": "",
-      "designation": "Special Officer",
+      "designation": "Trustee",
       "mobile": []
     },
     {
       "name": "R Jagannathan",
-      "email": "",
-      "designation": "Special Officer",
-      "mobile": []
+      "designation": "Special Officer"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=235",

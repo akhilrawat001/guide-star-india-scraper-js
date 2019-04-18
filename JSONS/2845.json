@@ -1,16 +1,14 @@
 {
   "contacts": [
     {
-      "name": "Subhas Rao Saheb Pokharkar",
+      "name": "Rajendra Raghunath Gagare",
       "email": "prabodhiniorg@gmail.com",
-      "designation": "Vice-President",
+      "designation": "President",
       "mobile": []
     },
     {
       "name": "Subhas Rao Saheb Pokharkar",
-      "email": "prabodhiniorg@gmail.com",
-      "designation": "Vice-President",
-      "mobile": []
+      "designation": "Vice-President"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2845",

@@ -1,16 +1,15 @@
 {
   "contacts": [
     {
-      "name": "Mayur Pateria",
-      "email": "mayur@hi5youthfoundation.com",
-      "designation": "Manager - CSR & Partner Programs",
+      "name": "Radhakrishnan Sundar",
+      "email": "sundar@hi5youthfoundation.com",
+      "designation": "Co-founder & Director",
       "mobile": []
     },
     {
       "name": "Mayur Pateria",
-      "email": "mayur@hi5youthfoundation.com",
       "designation": "Manager - CSR & Partner Programs",
-      "mobile": []
+      "email": "mayur@hi5youthfoundation.com"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10720",

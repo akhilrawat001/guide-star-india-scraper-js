@@ -1,16 +1,14 @@
 {
   "contacts": [
     {
-      "name": "Dhanlal Kumar",
+      "name": "Vijay Swaraj",
       "email": "globe.jamunia@gmail.com",
-      "designation": "Secretary",
+      "designation": "President",
       "mobile": []
     },
     {
       "name": "Dhanlal Kumar",
-      "email": "globe.jamunia@gmail.com",
-      "designation": "Secretary",
-      "mobile": []
+      "designation": "Secretary"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1380",

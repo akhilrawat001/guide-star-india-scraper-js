@@ -1,16 +1,15 @@
 {
   "contacts": [
     {
-      "name": "Mr.Manab Misra",
-      "email": "manab.misra@iefglobal.org",
-      "designation": "Secretary",
+      "name": "Mr.Amit Garg",
+      "email": "",
+      "designation": "Founder Trustee",
       "mobile": []
     },
     {
       "name": "Mr.Manab Misra",
-      "email": "manab.misra@iefglobal.org",
       "designation": "Secretary",
-      "mobile": []
+      "email": "manab.misra@iefglobal.org"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8041",

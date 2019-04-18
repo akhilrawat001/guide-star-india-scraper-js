@@ -1,16 +1,14 @@
 {
   "contacts": [
     {
-      "name": "Manje Yadagiri",
+      "name": "Y. Manikyamma",
       "email": "",
-      "designation": "Secretary",
+      "designation": "President",
       "mobile": []
     },
     {
       "name": "Manje Yadagiri",
-      "email": "",
-      "designation": "Secretary",
-      "mobile": []
+      "designation": "Secretary"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1762",

@@ -1,16 +1,14 @@
 {
   "contacts": [
     {
-      "name": "Mallika Iyer",
+      "name": "Robinson D'Souza",
       "email": "",
-      "designation": "Trustee",
+      "designation": "Chairman / Trustee",
       "mobile": []
     },
     {
       "name": "Mallika Iyer",
-      "email": "",
-      "designation": "Trustee",
-      "mobile": []
+      "designation": "Trustee"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=188",

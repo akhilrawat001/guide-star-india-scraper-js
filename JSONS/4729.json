@@ -1,12 +1,10 @@
 {
   "contacts": [
     {
-      "name": "Ankit Kanani",
-      "email": "ankit.touchinglives@gmail.com",
-      "designation": "Communication Head",
-      "mobile": [
-        "91-9833677541"
-      ]
+      "name": "Sonia Mackwani",
+      "email": "sonia.touchinglives@gmail.com",
+      "designation": "Director",
+      "mobile": []
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4729",

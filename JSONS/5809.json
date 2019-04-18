@@ -1,12 +1,10 @@
 {
   "contacts": [
     {
-      "name": "Rohit Kumar",
-      "email": "rohit.kumar@khojschool.org",
-      "designation": "Co-founder, Khoj",
-      "mobile": [
-        "91-9833809260"
-      ]
+      "name": "Amrita Nair",
+      "email": "",
+      "designation": "",
+      "mobile": []
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5809",

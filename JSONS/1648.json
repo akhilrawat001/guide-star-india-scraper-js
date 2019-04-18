@@ -1,16 +1,15 @@
 {
   "contacts": [
     {
-      "name": "Gokul Balu",
-      "email": "gokul@agastya.org",
-      "designation": "Executive",
+      "name": "Mr. Mahavir Kumar",
+      "email": "fmkataria@gmail.com",
+      "designation": "Managing Trustee",
       "mobile": []
     },
     {
       "name": "Gokul Balu",
-      "email": "gokul@agastya.org",
       "designation": "Executive",
-      "mobile": []
+      "email": "gokul@agastya.org"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1648",

@@ -1,16 +1,14 @@
 {
   "contacts": [
     {
-      "name": "Snehlata",
+      "name": "Prarthana Mishra",
       "email": "sanginicenter@rediffmail.com",
-      "designation": "Chairman",
+      "designation": "Secretary",
       "mobile": []
     },
     {
       "name": "Snehlata",
-      "email": "sanginicenter@rediffmail.com",
-      "designation": "Chairman",
-      "mobile": []
+      "designation": "Chairman"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4189",

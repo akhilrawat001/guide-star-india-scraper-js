@@ -1,16 +1,15 @@
 {
   "contacts": [
     {
-      "name": "Vijayakumar R",
-      "email": "vijayjones@gmail.com",
-      "designation": "COO",
+      "name": "Agnishwar.J",
+      "email": "",
+      "designation": "Director",
       "mobile": []
     },
     {
       "name": "Vijayakumar R",
-      "email": "vijayjones@gmail.com",
       "designation": "COO",
-      "mobile": []
+      "email": "vijayjones@gmail.com"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6544",

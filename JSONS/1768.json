@@ -1,16 +1,14 @@
 {
   "contacts": [
     {
-      "name": "Kumari Amrita",
+      "name": "Rajesh Kumar",
       "email": "",
-      "designation": "Manager",
+      "designation": "SECRETRY",
       "mobile": []
     },
     {
       "name": "Kumari Amrita",
-      "email": "",
-      "designation": "Manager",
-      "mobile": []
+      "designation": "Manager"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1768",

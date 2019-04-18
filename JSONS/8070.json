@@ -1,16 +1,15 @@
 {
   "contacts": [
     {
-      "name": "Shyamala Sami",
-      "email": "shyamala@arogyaworld.org",
-      "designation": "Administrator",
+      "name": "Nalini Saligram",
+      "email": "nalini@arogyaworld.org",
+      "designation": "Founding Trustee",
       "mobile": []
     },
     {
       "name": "Shyamala Sami",
-      "email": "shyamala@arogyaworld.org",
       "designation": "Administrator",
-      "mobile": []
+      "email": "shyamala@arogyaworld.org"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8070",

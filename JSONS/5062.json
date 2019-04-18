@@ -1,12 +1,10 @@
 {
   "contacts": [
     {
-      "name": "Soumitra Dutta",
-      "email": "finance@sanjogindia.org",
-      "designation": "Finance Manager",
-      "mobile": [
-        "91-33-24861090"
-      ]
+      "name": "Uma Chatterjee",
+      "email": "uma@sanjogindia.org",
+      "designation": "Executive Director",
+      "mobile": []
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5062",

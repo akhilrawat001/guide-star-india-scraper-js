@@ -1,16 +1,15 @@
 {
   "contacts": [
     {
-      "name": "Gopal Dhanotiya",
-      "email": "gopaldhanotiyamds@gmail.com",
-      "designation": "Tresurer",
+      "name": "Yogesh Porwal",
+      "email": "yogeshporwalmds@gmail.com",
+      "designation": "President",
       "mobile": []
     },
     {
       "name": "Gopal Dhanotiya",
-      "email": "gopaldhanotiyamds@gmail.com",
       "designation": "Tresurer",
-      "mobile": []
+      "email": "gopaldhanotiyamds@gmail.com"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8492",

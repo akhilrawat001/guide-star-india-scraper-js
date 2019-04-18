@@ -1,16 +1,14 @@
 {
   "contacts": [
     {
-      "name": "Meenakshi Naik",
+      "name": "Maneck Davar",
       "email": "",
-      "designation": "Superintendent",
+      "designation": "Chairman",
       "mobile": []
     },
     {
       "name": "Meenakshi Naik",
-      "email": "",
-      "designation": "Superintendent",
-      "mobile": []
+      "designation": "Superintendent"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=255",

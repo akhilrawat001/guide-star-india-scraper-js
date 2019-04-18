@@ -1,16 +1,15 @@
 {
   "contacts": [
     {
-      "name": "XXX",
-      "email": "XX@gmail.com",
-      "designation": "XXXXX",
+      "name": "XXXX",
+      "email": "",
+      "designation": "",
       "mobile": []
     },
     {
       "name": "XXX",
-      "email": "XX@gmail.com",
       "designation": "XXXXX",
-      "mobile": []
+      "email": "XX@gmail.com"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1155",

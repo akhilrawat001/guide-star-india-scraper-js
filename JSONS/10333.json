@@ -1,16 +1,15 @@
 {
   "contacts": [
     {
-      "name": "Prashant Dobriyal",
-      "email": "prashant@indoscience.org",
-      "designation": "Vice President",
+      "name": "Santosh Pise",
+      "email": "",
+      "designation": "President",
       "mobile": []
     },
     {
       "name": "Prashant Dobriyal",
-      "email": "prashant@indoscience.org",
       "designation": "Vice President",
-      "mobile": []
+      "email": "prashant@indoscience.org"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10333",

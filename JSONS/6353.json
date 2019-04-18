@@ -1,19 +1,18 @@
 {
   "contacts": [
     {
-      "name": "Shiny Sunil",
-      "email": "shiny@digitalgreen.org",
-      "designation": "Finance Executive",
-      "mobile": [
-        "91-11-41881037"
-      ]
+      "name": "Neeta Vinay",
+      "email": "",
+      "designation": "",
+      "mobile": []
     },
     {
       "name": "Shiny Sunil",
-      "email": "shiny@digitalgreen.org",
       "designation": "Finance Executive",
+      "email": "shiny@digitalgreen.org",
       "mobile": [
-        "91-11-41881037"
+        "91-11-41881037",
+        "91-9711145098"
       ]
     }
   ],

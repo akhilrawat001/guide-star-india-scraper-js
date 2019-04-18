@@ -1,16 +1,14 @@
 {
   "contacts": [
     {
-      "name": "Uma",
+      "name": "Mary Paul",
       "email": "",
-      "designation": "Administrative Asst",
+      "designation": "Executive Director",
       "mobile": []
     },
     {
       "name": "Uma",
-      "email": "",
-      "designation": "Administrative Asst",
-      "mobile": []
+      "designation": "Administrative Asst"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=390",

@@ -1,13 +1,10 @@
 {
   "contacts": [
     {
-      "name": "Raju  Joseph",
+      "name": "J Raju",
       "email": "sppdindia@gmail.com",
       "designation": "Secretary",
-      "mobile": [
-        "+91 4326-20131",
-        "91-9842481968"
-      ]
+      "mobile": []
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=170",

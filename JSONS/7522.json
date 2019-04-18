@@ -1,21 +1,17 @@
 {
   "contacts": [
     {
-      "name": "Ghanshyam",
-      "email": "sarjomsamvad@gmail.com",
-      "designation": "Secretary",
-      "mobile": [
-        "91-651-2530365",
-        "91-9431176713"
-      ]
+      "name": "Rose Kerketta",
+      "email": "",
+      "designation": "",
+      "mobile": []
     },
     {
       "name": "Ghanshyam",
-      "email": "sarjomsamvad@gmail.com",
       "designation": "Secretary",
+      "email": "sarjomsamvad@gmail.com",
       "mobile": [
-        "91-651-2530365",
-        "91-9431176713"
+        "91-651-2530365"
       ]
     }
   ],

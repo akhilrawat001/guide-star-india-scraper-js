@@ -1,49 +1,36 @@
 {
   "contacts": [
     {
+      "name": "Rev.R Stephen Diyali",
+      "email": "",
+      "designation": "",
+      "mobile": []
+    },
+    {
       "name": "Mr.Kapil Gurung",
-      "email": "kapilg2000@yahoo.com",
       "designation": "President",
+      "email": "kapilg2000@yahoo.com",
+      "mobile": [
+        "91-1374-222805"
+      ]
+    },
+    {
+      "mobile": [
+        "91-13742-22805",
+        "91-8864866037"
+      ]
+    },
+    {
       "mobile": [
         "91-13742-22805"
       ]
     },
     {
-      "name": "Mr.Kapil Gurung",
-      "email": "kapilg2000@yahoo.com",
-      "designation": "President",
       "mobile": [
         "91-13742-22805"
       ]
     },
     {
-      "name": "Mr.Kapil Gurung",
-      "email": "kapilg2000@yahoo.com",
-      "designation": "President",
-      "mobile": [
-        "91-13742-22805"
-      ]
-    },
-    {
-      "name": "Mr.Kapil Gurung",
-      "email": "kapilg2000@yahoo.com",
-      "designation": "President",
-      "mobile": [
-        "91-13742-22805"
-      ]
-    },
-    {
-      "name": "Mr.Kapil Gurung",
-      "email": "kapilg2000@yahoo.com",
-      "designation": "President",
-      "mobile": [
-        "91-13742-22805"
-      ]
-    },
-    {
-      "name": "Mr.Kapil Gurung",
-      "email": "kapilg2000@yahoo.com",
-      "designation": "President",
       "mobile": [
         "91-13742-22805"
       ]

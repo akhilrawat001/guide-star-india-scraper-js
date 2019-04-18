@@ -1,12 +1,10 @@
 {
   "contacts": [
     {
-      "name": "David Kumar",
-      "email": "david.kumar55@gmail.com",
-      "designation": "Founder - Director",
-      "mobile": [
-        "91-9449787912"
-      ]
+      "name": "Mr.David Kumar",
+      "email": "",
+      "designation": "",
+      "mobile": []
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7117",

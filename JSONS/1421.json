@@ -1,16 +1,14 @@
 {
   "contacts": [
     {
-      "name": "Velmurugan  K",
+      "name": "Jayamala",
       "email": "wfw_wfw@yahoo.co.in",
-      "designation": "Project Advisor",
+      "designation": "Secretary",
       "mobile": []
     },
     {
       "name": "Velmurugan  K",
-      "email": "wfw_wfw@yahoo.co.in",
-      "designation": "Project Advisor",
-      "mobile": []
+      "designation": "Project Advisor"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1421",

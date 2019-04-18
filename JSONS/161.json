@@ -1,16 +1,14 @@
 {
   "contacts": [
     {
-      "name": "A L Rangarajan",
+      "name": "Ravi Mani",
       "email": "",
-      "designation": "Program Manager",
+      "designation": "Chairperson",
       "mobile": []
     },
     {
       "name": "A L Rangarajan",
-      "email": "",
-      "designation": "Program Manager",
-      "mobile": []
+      "designation": "Program Manager"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=161",

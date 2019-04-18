@@ -1,16 +1,15 @@
 {
   "contacts": [
     {
-      "name": "Pervez Raza",
-      "email": "razaparvez19@yahoo.com",
-      "designation": "Project Manager",
+      "name": "Yuman Hussain",
+      "email": "yuman_azad@yahoo.com",
+      "designation": "Executive Director",
       "mobile": []
     },
     {
       "name": "Pervez Raza",
-      "email": "razaparvez19@yahoo.com",
       "designation": "Project Manager",
-      "mobile": []
+      "email": "razaparvez19@yahoo.com"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=326",

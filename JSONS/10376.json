@@ -1,16 +1,15 @@
 {
   "contacts": [
     {
-      "name": "Srivathsan Ramaswamy",
-      "email": "srivathsan@madhifoundation.org",
-      "designation": "Manager, SCERT Engagement",
+      "name": "Merlia Shaukath",
+      "email": "merlia@madhifoundation.org",
+      "designation": "Founder CEO",
       "mobile": []
     },
     {
       "name": "Srivathsan Ramaswamy",
-      "email": "srivathsan@madhifoundation.org",
       "designation": "Manager, SCERT Engagement",
-      "mobile": []
+      "email": "srivathsan@madhifoundation.org"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10376",

@@ -1,16 +1,15 @@
 {
   "contacts": [
     {
-      "name": "Naomi Menezes",
-      "email": "naomi.menezes@unltdindia.org",
-      "designation": "Communications Associate",
+      "name": "Anshu Bhartia",
+      "email": "anshu.bhartia@unltdindia.org",
+      "designation": "CEO",
       "mobile": []
     },
     {
       "name": "Naomi Menezes",
-      "email": "naomi.menezes@unltdindia.org",
       "designation": "Communications Associate",
-      "mobile": []
+      "email": "naomi.menezes@unltdindia.org"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6832",

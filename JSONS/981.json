@@ -2,15 +2,14 @@
   "contacts": [
     {
       "name": "Rajesh Kumar",
-      "email": "karlanix@rediffmail.com",
+      "email": "",
       "designation": "Secretary",
       "mobile": []
     },
     {
       "name": "Rajesh Kumar",
-      "email": "karlanix@rediffmail.com",
       "designation": "Secretary",
-      "mobile": []
+      "email": "karlanix@rediffmail.com"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=981",

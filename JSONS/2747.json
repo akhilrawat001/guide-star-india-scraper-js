@@ -1,16 +1,14 @@
 {
   "contacts": [
     {
-      "name": "Nasreen Jahan",
+      "name": "A.R.Khan",
       "email": "nwwsociety@gmail.com",
-      "designation": "Secretary",
+      "designation": "Executive President",
       "mobile": []
     },
     {
       "name": "Nasreen Jahan",
-      "email": "nwwsociety@gmail.com",
-      "designation": "Secretary",
-      "mobile": []
+      "designation": "Secretary"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=2747",

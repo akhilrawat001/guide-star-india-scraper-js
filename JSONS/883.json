@@ -1,16 +1,15 @@
 {
   "contacts": [
     {
-      "name": "P. Srinivasarao",
-      "email": "ngowork.p@gmail.com",
-      "designation": "Manager",
+      "name": "SK. Gousunnisa Begum",
+      "email": "",
+      "designation": "President",
       "mobile": []
     },
     {
       "name": "P. Srinivasarao",
-      "email": "ngowork.p@gmail.com",
       "designation": "Manager",
-      "mobile": []
+      "email": "ngowork.p@gmail.com"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=883",

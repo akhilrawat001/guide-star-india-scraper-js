@@ -1,16 +1,14 @@
 {
   "contacts": [
     {
-      "name": "Latha Suresh",
+      "name": "P N Devarajan",
       "email": "",
-      "designation": "Trustee",
+      "designation": "Founder Trustee",
       "mobile": []
     },
     {
       "name": "Latha Suresh",
-      "email": "",
-      "designation": "Trustee",
-      "mobile": []
+      "designation": "Trustee"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=237",

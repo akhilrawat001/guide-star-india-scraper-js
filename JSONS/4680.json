@@ -1,28 +1,18 @@
 {
   "contacts": [
     {
-      "name": "Shubhrajyoti Bhowmik",
-      "email": "sb@ankindia.org",
-      "designation": "Chief Mentor",
-      "mobile": [
-        "91-9810561157"
-      ]
+      "name": "Abhishek kishore",
+      "email": "",
+      "designation": "",
+      "mobile": []
     },
     {
-      "name": "Shubhrajyoti Bhowmik",
-      "email": "sb@ankindia.org",
-      "designation": "Chief Mentor",
       "mobile": [
         "91-9810561157"
-      ]
-    },
-    {
+      ],
       "name": "Shubhrajyoti Bhowmik",
-      "email": "sb@ankindia.org",
       "designation": "Chief Mentor",
-      "mobile": [
-        "91-9810561157"
-      ]
+      "email": "sb@ankindia.org"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4680",

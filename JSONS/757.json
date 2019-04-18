@@ -1,16 +1,15 @@
 {
   "contacts": [
     {
-      "name": "Ram B Chavan",
-      "email": "ramchavan.0605@gmail.com",
-      "designation": "Secretary",
+      "name": "Shantha Y Dange",
+      "email": "",
+      "designation": "President",
       "mobile": []
     },
     {
       "name": "Ram B Chavan",
-      "email": "ramchavan.0605@gmail.com",
       "designation": "Secretary",
-      "mobile": []
+      "email": "ramchavan.0605@gmail.com"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=757",

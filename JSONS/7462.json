@@ -1,28 +1,17 @@
 {
   "contacts": [
     {
-      "name": "Ms. Gopika R.",
-      "email": "contact@suryodayschool.org",
-      "designation": "Project Manager",
+      "name": "Mr.Sundararaman Iyer",
+      "email": "sun60iyer@gmail.com",
+      "designation": "Founder & Managing Trustee",
       "mobile": [
         "91-9820339587"
       ]
     },
     {
       "name": "Ms. Gopika R.",
-      "email": "contact@suryodayschool.org",
       "designation": "Project Manager",
-      "mobile": [
-        "91-9820339587"
-      ]
-    },
-    {
-      "name": "Ms. Gopika R.",
-      "email": "contact@suryodayschool.org",
-      "designation": "Project Manager",
-      "mobile": [
-        "91-9820339587"
-      ]
+      "email": "contact@suryodayschool.org"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7462",

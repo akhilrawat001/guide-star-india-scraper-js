@@ -1,12 +1,10 @@
 {
   "contacts": [
     {
-      "name": "Yogesh Rajvaidya",
-      "email": "rajvaidyayogesh1@gmail.com",
-      "designation": "Secretary",
-      "mobile": [
-        "91-9096278415"
-      ]
+      "name": "Manish Kulkarni",
+      "email": "",
+      "designation": "President",
+      "mobile": []
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=635",

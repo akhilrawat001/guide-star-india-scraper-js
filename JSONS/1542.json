@@ -1,12 +1,10 @@
 {
   "contacts": [
     {
-      "name": "Jyoti Gosavi",
-      "email": "jo@lifeschool.co.in",
-      "designation": "CEO",
-      "mobile": [
-        "91-7721065000"
-      ]
+      "name": "Narendra Goidani",
+      "email": "naren@lifeschool.co.in",
+      "designation": "PRESIDENT",
+      "mobile": []
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1542",

@@ -1,13 +1,10 @@
 {
   "contacts": [
     {
-      "name": "Shrikant Kulkarni",
-      "email": "seniormanager@richmonddglobalschool.edu.in",
-      "designation": "Sr Manager",
-      "mobile": [
-        "91-11-25276588",
-        "91-9650081703"
-      ]
+      "name": "Rishabh Gupta",
+      "email": "secretary@mkmesngoindia.org",
+      "designation": "Secretary",
+      "mobile": []
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1825",

@@ -1,28 +1,10 @@
 {
   "contacts": [
     {
-      "name": "Kaveri Dutt",
+      "name": "Ashim Sanyal",
       "email": "coo@consumervoice.org",
-      "designation": "Head Project & Resources",
-      "mobile": [
-        "91-11-47331023"
-      ]
-    },
-    {
-      "name": "Kaveri Dutt",
-      "email": "coo@consumervoice.org",
-      "designation": "Head Project & Resources",
-      "mobile": [
-        "91-11-47331023"
-      ]
-    },
-    {
-      "name": "Kaveri Dutt",
-      "email": "coo@consumervoice.org",
-      "designation": "Head Project & Resources",
-      "mobile": [
-        "91-11-47331023"
-      ]
+      "designation": "Chief Operating Officer & Secretary",
+      "mobile": []
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4705",

@@ -1,16 +1,14 @@
 {
   "contacts": [
     {
-      "name": "K. Mary",
+      "name": "V.Dhayalammal",
       "email": "",
-      "designation": "Financial Trustee",
+      "designation": "Managing Trustee",
       "mobile": []
     },
     {
       "name": "K. Mary",
-      "email": "",
-      "designation": "Financial Trustee",
-      "mobile": []
+      "designation": "Financial Trustee"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1381",

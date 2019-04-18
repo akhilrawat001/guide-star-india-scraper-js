@@ -1,12 +1,10 @@
 {
   "contacts": [
     {
-      "name": "Snehal Salve",
-      "email": "snehal.passages@gmail.com",
-      "designation": "Office Assistant",
-      "mobile": [
-        "91-22-22047823"
-      ]
+      "name": "Nalini Shewakramani",
+      "email": "",
+      "designation": "Director",
+      "mobile": []
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=928",

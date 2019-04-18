@@ -1,16 +1,15 @@
 {
   "contacts": [
     {
-      "name": "Radhika Gadiyar",
-      "email": "gadiyar.radhika@gmail.com",
-      "designation": "Help Desk",
+      "name": "Geeta Shah",
+      "email": "",
+      "designation": "Founder",
       "mobile": []
     },
     {
       "name": "Radhika Gadiyar",
-      "email": "gadiyar.radhika@gmail.com",
       "designation": "Help Desk",
-      "mobile": []
+      "email": "gadiyar.radhika@gmail.com"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8764",

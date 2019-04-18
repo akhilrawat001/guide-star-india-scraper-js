@@ -1,16 +1,14 @@
 {
   "contacts": [
     {
-      "name": "Suresh C",
+      "name": "Admiral O S Dawson",
       "email": "",
-      "designation": "Office Manager",
+      "designation": "President",
       "mobile": []
     },
     {
       "name": "Suresh C",
-      "email": "",
-      "designation": "Office Manager",
-      "mobile": []
+      "designation": "Office Manager"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=775",

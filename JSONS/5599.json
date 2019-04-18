@@ -1,28 +1,15 @@
 {
   "contacts": [
     {
-      "name": "Ankur Dang",
-      "email": "info@unitingsmilesfoundation.org",
-      "designation": "President",
-      "mobile": [
-        "91-9810569628"
-      ]
+      "name": "Binay Dimri",
+      "email": "unitingsmilesfoundation@gmail.com",
+      "designation": "Chairman",
+      "mobile": []
     },
     {
       "name": "Ankur Dang",
-      "email": "info@unitingsmilesfoundation.org",
       "designation": "President",
-      "mobile": [
-        "91-9810569628"
-      ]
-    },
-    {
-      "name": "Ankur Dang",
-      "email": "info@unitingsmilesfoundation.org",
-      "designation": "President",
-      "mobile": [
-        "91-9810569628"
-      ]
+      "email": "info@unitingsmilesfoundation.org"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5599",

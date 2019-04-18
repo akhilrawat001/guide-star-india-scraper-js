@@ -1,12 +1,10 @@
 {
   "contacts": [
     {
-      "name": "Mansi Sanghvi",
-      "email": "mansi06@hotmail.com",
-      "designation": "Manager",
-      "mobile": [
-        "91-9821240643"
-      ]
+      "name": "Dev Tayde",
+      "email": "",
+      "designation": "Managing Director",
+      "mobile": []
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=146",

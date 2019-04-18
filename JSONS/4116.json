@@ -1,12 +1,10 @@
 {
   "contacts": [
     {
-      "name": "Kunika Sood",
-      "email": "kunika.sood@telradsol.com",
-      "designation": "Chief Functionary",
-      "mobile": [
-        "91-8179190747"
-      ]
+      "name": "Dr.Sunita Maheshwari",
+      "email": "sunita.maheshwari@telradsol.com",
+      "designation": "Founder",
+      "mobile": []
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4116",

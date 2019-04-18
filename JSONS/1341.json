@@ -1,12 +1,10 @@
 {
   "contacts": [
     {
-      "name": "Hiral Chavada",
-      "email": "ronak.chavada@yahoo.in",
+      "name": "Ronak Chavada",
+      "email": "",
       "designation": "President",
-      "mobile": [
-        "91-9891921066"
-      ]
+      "mobile": []
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1341",

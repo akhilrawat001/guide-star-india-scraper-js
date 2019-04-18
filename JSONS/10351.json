@@ -1,16 +1,15 @@
 {
   "contacts": [
     {
-      "name": "Ramjee Ganti",
-      "email": "ganti.r@iitacb.org",
-      "designation": "Member GC",
+      "name": "Prof. Ashok Misra",
+      "email": "",
+      "designation": "President",
       "mobile": []
     },
     {
       "name": "Ramjee Ganti",
-      "email": "ganti.r@iitacb.org",
       "designation": "Member GC",
-      "mobile": []
+      "email": "ganti.r@iitacb.org"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10351",

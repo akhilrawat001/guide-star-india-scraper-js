@@ -1,12 +1,10 @@
 {
   "contacts": [
     {
-      "name": "Rajiv Kumar",
+      "name": "Chandrabhushan",
       "email": "abhiyan_office@sify.com",
-      "designation": "Office Assistant",
-      "mobile": [
-        "91-9431880143"
-      ]
+      "designation": "Executive Director",
+      "mobile": []
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=307",

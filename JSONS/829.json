@@ -1,16 +1,15 @@
 {
   "contacts": [
     {
-      "name": "Ujjwala Mhatre",
-      "email": "cm.popfirst@gmail.com",
-      "designation": "Communication Manager",
+      "name": "Dr A L Sharada",
+      "email": "alsharda2002@yahoo.com",
+      "designation": "Director",
       "mobile": []
     },
     {
       "name": "Ujjwala Mhatre",
-      "email": "cm.popfirst@gmail.com",
       "designation": "Communication Manager",
-      "mobile": []
+      "email": "cm.popfirst@gmail.com"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=829",

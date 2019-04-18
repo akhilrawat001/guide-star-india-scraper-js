@@ -1,12 +1,10 @@
 {
   "contacts": [
     {
-      "name": "Renu",
-      "email": "office@babul.ngo",
-      "designation": "Secretary",
-      "mobile": [
-        "91-9618082288"
-      ]
+      "name": "Gangadhar Panday",
+      "email": "",
+      "designation": "",
+      "mobile": []
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6571",

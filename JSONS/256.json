@@ -1,12 +1,10 @@
 {
   "contacts": [
     {
-      "name": "Hemesh Sheth",
-      "email": "hemesh@arpan.org.in",
-      "designation": "Director Operations",
-      "mobile": [
-        "91-22-26862444"
-      ]
+      "name": "Pooja Taparia",
+      "email": "pooja@arpan.org.in",
+      "designation": "Founder – CEO",
+      "mobile": []
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=256",

@@ -1,21 +1,18 @@
 {
   "contacts": [
     {
-      "name": "MAHAVIR PRASAD JAIN",
-      "email": "mpjkota@gmail.com",
-      "designation": "Member",
-      "mobile": [
-        "2462014",
-        "9950952660"
-      ]
+      "name": "Dr Vineet Jain",
+      "email": "manavsevakota@gmail.com",
+      "designation": "President",
+      "mobile": []
     },
     {
       "name": "MAHAVIR PRASAD JAIN",
-      "email": "mpjkota@gmail.com",
       "designation": "Member",
+      "email": "mpjkota@gmail.com",
       "mobile": [
-        "2462014",
-        "9950952660"
+        "91-744-2462014",
+        "91-9950656115"
       ]
     }
   ],

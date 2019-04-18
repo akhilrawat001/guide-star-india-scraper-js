@@ -1,16 +1,15 @@
 {
   "contacts": [
     {
-      "name": "SHASHI BALA",
-      "email": "SBALA@STIREDUCATION.ORG",
-      "designation": "ASSOCIATE HEAD FINANCE",
+      "name": "Sharath Jeevan",
+      "email": "sjeevan@stireducation.org",
+      "designation": "CEO",
       "mobile": []
     },
     {
       "name": "SHASHI BALA",
-      "email": "SBALA@STIREDUCATION.ORG",
       "designation": "ASSOCIATE HEAD FINANCE",
-      "mobile": []
+      "email": "SBALA@STIREDUCATION.ORG"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8887",

@@ -1,12 +1,10 @@
 {
   "contacts": [
     {
-      "name": "Srujana",
-      "email": "srujana@datri.org",
-      "designation": "Marketing & Communication",
-      "mobile": [
-        "91-44-40795316"
-      ]
+      "name": "Raghu Rajagopal",
+      "email": "raghu@datriworld.org",
+      "designation": "Director",
+      "mobile": []
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4789",

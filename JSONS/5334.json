@@ -1,28 +1,15 @@
 {
   "contacts": [
     {
-      "name": "Arjun Arya",
-      "email": "research@indiaenvironment.org",
-      "designation": "Chief of Research",
-      "mobile": [
-        "9940203871"
-      ]
+      "name": "Arun Krishnamurthy",
+      "email": "",
+      "designation": "",
+      "mobile": []
     },
     {
       "name": "Arjun Arya",
-      "email": "research@indiaenvironment.org",
       "designation": "Chief of Research",
-      "mobile": [
-        "9940203871"
-      ]
-    },
-    {
-      "name": "Arjun Arya",
-      "email": "research@indiaenvironment.org",
-      "designation": "Chief of Research",
-      "mobile": [
-        "9940203871"
-      ]
+      "email": "research@indiaenvironment.org"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5334",

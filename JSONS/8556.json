@@ -1,12 +1,10 @@
 {
   "contacts": [
     {
-      "name": "Geeta Sirsat",
-      "email": "geeta.sirsat@gmail.com",
-      "designation": "Secretary",
-      "mobile": [
-        "91-7038634509"
-      ]
+      "name": "Hemant Sirsat",
+      "email": "",
+      "designation": "President",
+      "mobile": []
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8556",

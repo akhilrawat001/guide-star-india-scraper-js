@@ -1,21 +1,17 @@
 {
   "contacts": [
     {
-      "name": "Byomkesh Mishra",
-      "email": "byomkesh.mishra@medha.org.in",
-      "designation": "Executive Director",
-      "mobile": [
-        "91-522-4044932",
-        "91-7080997811"
-      ]
+      "name": "Praveen Kumar Singh",
+      "email": "",
+      "designation": "Director",
+      "mobile": []
     },
     {
       "name": "Byomkesh Mishra",
-      "email": "byomkesh.mishra@medha.org.in",
       "designation": "Executive Director",
+      "email": "byomkesh.mishra@medha.org.in",
       "mobile": [
-        "91-522-4044932",
-        "91-7080997811"
+        "91-9935555174"
       ]
     }
   ],

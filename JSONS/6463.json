@@ -1,16 +1,15 @@
 {
   "contacts": [
     {
-      "name": "Disha Mullick",
-      "email": "disha@khabarlahariya.org",
-      "designation": "Director",
+      "name": "Shalini Joshi",
+      "email": "shalini@khabarlahariya.org",
+      "designation": "CEO",
       "mobile": []
     },
     {
       "name": "Disha Mullick",
-      "email": "disha@khabarlahariya.org",
       "designation": "Director",
-      "mobile": []
+      "email": "disha@khabarlahariya.org"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6463",

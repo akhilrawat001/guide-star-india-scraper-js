@@ -1,12 +1,10 @@
 {
   "contacts": [
     {
-      "name": "Lopamudra",
-      "email": "lopa@trishul-ngo.org",
-      "designation": "President",
-      "mobile": [
-        "91-9821694994"
-      ]
+      "name": "Mazhar Asif",
+      "email": "",
+      "designation": "",
+      "mobile": []
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4779",

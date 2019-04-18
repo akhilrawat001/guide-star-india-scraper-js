@@ -1,16 +1,14 @@
 {
   "contacts": [
     {
-      "name": "S.Ravikumar",
+      "name": "M.Kalaivanan",
       "email": "Spheed_930@yahoo.com",
       "designation": "Executive Secretary",
       "mobile": []
     },
     {
       "name": "S.Ravikumar",
-      "email": "Spheed_930@yahoo.com",
-      "designation": "Executive Secretary",
-      "mobile": []
+      "email": "Spheed_930@yahoo.com"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1368",

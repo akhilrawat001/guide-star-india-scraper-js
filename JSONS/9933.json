@@ -1,16 +1,15 @@
 {
   "contacts": [
     {
-      "name": "Dr Rajiv K",
-      "email": "khedkar@yahoo.com",
-      "designation": "Secretary",
+      "name": "Yuvraj R K",
+      "email": "",
+      "designation": "Director Operations",
       "mobile": []
     },
     {
       "name": "Dr Rajiv K",
-      "email": "khedkar@yahoo.com",
       "designation": "Secretary",
-      "mobile": []
+      "email": "khedkar@yahoo.com"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9933",

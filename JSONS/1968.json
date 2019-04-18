@@ -1,16 +1,14 @@
 {
   "contacts": [
     {
-      "name": "Jitendra Pant",
+      "name": "Yogesh Koranga",
       "email": "",
-      "designation": "Secretary",
+      "designation": "President",
       "mobile": []
     },
     {
       "name": "Jitendra Pant",
-      "email": "",
-      "designation": "Secretary",
-      "mobile": []
+      "designation": "Secretary"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1968",

@@ -1,16 +1,15 @@
 {
   "contacts": [
     {
-      "name": "Sanjay Gupta",
-      "email": "isbti.org@gmail.com",
-      "designation": "Chief Operating Officer (COO)",
+      "name": "Dr. Yudhbir Singh",
+      "email": "",
+      "designation": "President",
       "mobile": []
     },
     {
       "name": "Sanjay Gupta",
-      "email": "isbti.org@gmail.com",
       "designation": "Chief Operating Officer (COO)",
-      "mobile": []
+      "email": "isbti.org@gmail.com"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1899",

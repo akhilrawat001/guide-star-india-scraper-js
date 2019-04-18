@@ -1,31 +1,10 @@
 {
   "contacts": [
     {
-      "name": "AKBAR ALI SAYYED",
+      "name": "LESLIE D'LIMA",
       "email": "mjkdilly@yahoo.com",
-      "designation": "COORDINATOR",
-      "mobile": [
-        "91-98-21460039",
-        "91-9172924564"
-      ]
-    },
-    {
-      "name": "AKBAR ALI SAYYED",
-      "email": "mjkdilly@yahoo.com",
-      "designation": "COORDINATOR",
-      "mobile": [
-        "91-98-21460039",
-        "91-9172924564"
-      ]
-    },
-    {
-      "name": "AKBAR ALI SAYYED",
-      "email": "mjkdilly@yahoo.com",
-      "designation": "COORDINATOR",
-      "mobile": [
-        "91-98-21460039",
-        "91-9172924564"
-      ]
+      "designation": "DIRECTOR",
+      "mobile": []
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4803",

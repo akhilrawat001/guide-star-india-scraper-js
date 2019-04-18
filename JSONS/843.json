@@ -1,12 +1,10 @@
 {
   "contacts": [
     {
-      "name": "Anjali Pandit",
-      "email": "info@nagar.org.in",
-      "designation": "Associate Director",
-      "mobile": [
-        "91-22-22882018"
-      ]
+      "name": "Anand Akerkar",
+      "email": "",
+      "designation": "Chairman",
+      "mobile": []
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=843",

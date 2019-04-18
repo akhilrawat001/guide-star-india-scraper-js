@@ -1,16 +1,15 @@
 {
   "contacts": [
     {
-      "name": "Soumya Joseph",
-      "email": "soumyajoseph@policefoundation.in",
-      "designation": "Research Associate",
+      "name": "N Ramachandran",
+      "email": "nramachandran@policefoundation.in",
+      "designation": "President",
       "mobile": []
     },
     {
       "name": "Soumya Joseph",
-      "email": "soumyajoseph@policefoundation.in",
       "designation": "Research Associate",
-      "mobile": []
+      "email": "soumyajoseph@policefoundation.in"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10235",

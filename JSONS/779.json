@@ -1,25 +1,15 @@
 {
   "contacts": [
     {
-      "name": "Sakshi Aggarwal",
-      "email": "financeofficer@latikaroy.org",
-      "designation": "Finance Officer",
-      "mobile": [
-        "91-9927622930"
-      ]
+      "name": "Sheila Josephine McGowan",
+      "email": "jo@latikaroy.org",
+      "designation": "Executive Director",
+      "mobile": []
     },
     {
       "name": "Sakshi Aggarwal",
-      "email": "financeofficer@latikaroy.org",
       "designation": "Finance Officer",
-      "mobile": [
-        "91-9927622930"
-      ]
-    },
-    {
-      "name": "Sakshi Aggarwal",
       "email": "financeofficer@latikaroy.org",
-      "designation": "Finance Officer",
       "mobile": [
         "91-9927622930"
       ]

@@ -1,12 +1,10 @@
 {
   "contacts": [
     {
-      "name": "Yashveer Singh",
-      "email": "yashveer@gramvikas.org",
-      "designation": "Head of Strategy & Collaborations",
-      "mobile": [
-        "91-9658949194"
-      ]
+      "name": "Shubhasis Pattnaik",
+      "email": "s.pattnaik@gramvikas.org",
+      "designation": "Chief Executive",
+      "mobile": []
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6382",

@@ -1,16 +1,14 @@
 {
   "contacts": [
     {
-      "name": "DSRC Murthy",
+      "name": "Vijaya Switha Grandhi",
       "email": "switha@gmail.com",
-      "designation": "Associate",
+      "designation": "Secretary",
       "mobile": []
     },
     {
       "name": "DSRC Murthy",
-      "email": "switha@gmail.com",
-      "designation": "Associate",
-      "mobile": []
+      "designation": "Associate"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=340",

@@ -1,21 +1,18 @@
 {
   "contacts": [
     {
-      "name": "Dr Rakesh Dutta Mishra",
-      "email": "secretary@psvk.org.in",
-      "designation": "Secretary",
-      "mobile": [
-        "91-612-2214425",
-        "91-9304713303"
-      ]
+      "name": "Sunita Pandey",
+      "email": "",
+      "designation": "President",
+      "mobile": []
     },
     {
       "name": "Dr Rakesh Dutta Mishra",
-      "email": "secretary@psvk.org.in",
       "designation": "Secretary",
+      "email": "secretary@psvk.org.in",
       "mobile": [
         "91-612-2214425",
-        "91-9304713303"
+        "91-8986043076"
       ]
     }
   ],

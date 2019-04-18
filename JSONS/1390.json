@@ -1,16 +1,15 @@
 {
   "contacts": [
     {
-      "name": "Somnath Mukherjee",
-      "email": "ngocon@rediffmail.com",
-      "designation": "President",
+      "name": "Gopa  Mukherjee",
+      "email": "",
+      "designation": "Secretary",
       "mobile": []
     },
     {
       "name": "Somnath Mukherjee",
-      "email": "ngocon@rediffmail.com",
       "designation": "President",
-      "mobile": []
+      "email": "ngocon@rediffmail.com"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1390",

@@ -1,25 +1,20 @@
 {
   "contacts": [
     {
+      "name": "Amitabh Behar",
+      "email": "",
+      "designation": "Chief Executive Officer",
+      "mobile": []
+    },
+    {
       "name": "Rina Soni",
-      "email": "Rina@oxfamindia.org",
       "designation": "Director -Public Engagement",
+      "email": "Rina@oxfamindia.org",
       "mobile": [
         "91-11-46538000"
       ]
     },
     {
-      "name": "Rina Soni",
-      "email": "Rina@oxfamindia.org",
-      "designation": "Director -Public Engagement",
-      "mobile": [
-        "91-11-46538000"
-      ]
-    },
-    {
-      "name": "Rina Soni",
-      "email": "Rina@oxfamindia.org",
-      "designation": "Director -Public Engagement",
       "mobile": [
         "91-11-46538000"
       ]

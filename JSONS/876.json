@@ -1,13 +1,10 @@
 {
   "contacts": [
     {
-      "name": "Sanjay David",
-      "email": "sanjay@chohindia.org",
-      "designation": "Project Manager",
-      "mobile": [
-        "91-44-23870122",
-        "91-9176655776"
-      ]
+      "name": "Indrani Sivaram",
+      "email": "",
+      "designation": "President",
+      "mobile": []
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=876",

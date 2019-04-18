@@ -1,12 +1,10 @@
 {
   "contacts": [
     {
-      "name": "Lakshmipriya",
-      "email": "secretary@viruksha.org",
-      "designation": "Secretary",
-      "mobile": [
-        "91-44-42867248"
-      ]
+      "name": "Visukumar Gopal",
+      "email": "founder@viruksha.org",
+      "designation": "Founder & Managing Trustee",
+      "mobile": []
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1230",

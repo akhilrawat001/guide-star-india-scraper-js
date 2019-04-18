@@ -1,16 +1,15 @@
 {
   "contacts": [
     {
-      "name": "Prashast Srivastava",
-      "email": "prashast.srivastava@saajha.org",
+      "name": "Saransh Vaswani",
+      "email": "",
       "designation": "Director",
       "mobile": []
     },
     {
       "name": "Prashast Srivastava",
-      "email": "prashast.srivastava@saajha.org",
       "designation": "Director",
-      "mobile": []
+      "email": "prashast.srivastava@saajha.org"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10238",

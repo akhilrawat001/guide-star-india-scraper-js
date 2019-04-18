@@ -1,13 +1,10 @@
 {
   "contacts": [
     {
-      "name": "Manasi Kulkarni",
-      "email": "kulkarni.manasi@somaiya.com",
-      "designation": "Manager",
-      "mobile": [
-        "91-22-22048272",
-        "91-9167924964"
-      ]
+      "name": "Amrita Somaiya",
+      "email": "",
+      "designation": "Chief Executive",
+      "mobile": []
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=115",

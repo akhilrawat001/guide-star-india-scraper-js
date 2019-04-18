@@ -1,16 +1,15 @@
 {
   "contacts": [
     {
-      "name": "Nityanand Channur",
-      "email": "nityanand@indiastemfoundation.org",
-      "designation": "Program Manager",
+      "name": "Sudhanshu Sharma",
+      "email": "",
+      "designation": "CEO and Director",
       "mobile": []
     },
     {
       "name": "Nityanand Channur",
-      "email": "nityanand@indiastemfoundation.org",
       "designation": "Program Manager",
-      "mobile": []
+      "email": "nityanand@indiastemfoundation.org"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10273",

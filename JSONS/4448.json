@@ -1,16 +1,15 @@
 {
   "contacts": [
     {
-      "name": "Shazar Robinson",
-      "email": "shazar@srdsindia.org",
-      "designation": "Advisor",
+      "name": "Sikandar Meeranayak",
+      "email": "info@srdsindia.org",
+      "designation": "CEO",
       "mobile": []
     },
     {
       "name": "Shazar Robinson",
-      "email": "shazar@srdsindia.org",
       "designation": "Advisor",
-      "mobile": []
+      "email": "shazar@srdsindia.org"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4448",

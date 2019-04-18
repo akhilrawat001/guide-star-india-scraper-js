@@ -1,19 +1,18 @@
 {
   "contacts": [
     {
-      "name": "Dhaval Mehta",
-      "email": "loveandcare@srmd.org",
-      "designation": "Trustee",
-      "mobile": [
-        "91-9819951135"
-      ]
+      "name": "Abhay Jasani",
+      "email": "abhay.jasani@jasanigroup.com",
+      "designation": "President",
+      "mobile": []
     },
     {
       "name": "Dhaval Mehta",
-      "email": "loveandcare@srmd.org",
       "designation": "Trustee",
+      "email": "loveandcare@srmd.org",
       "mobile": [
-        "91-9819951135"
+        "91-22-40023377",
+        "91-9820051478"
       ]
     }
   ],

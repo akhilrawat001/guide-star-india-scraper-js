@@ -1,16 +1,15 @@
 {
   "contacts": [
     {
-      "name": "Sudhir Kumar Nayak",
-      "email": "readprogmshead@gmail.com",
-      "designation": "Program Director",
+      "name": "Ms. Manjulata Sahu",
+      "email": "readngo93@gmail.com",
+      "designation": "Executive Secretary",
       "mobile": []
     },
     {
       "name": "Sudhir Kumar Nayak",
-      "email": "readprogmshead@gmail.com",
       "designation": "Program Director",
-      "mobile": []
+      "email": "readprogmshead@gmail.com"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7234",

@@ -1,16 +1,14 @@
 {
   "contacts": [
     {
-      "name": "Langanagond",
+      "name": "Ningangond",
       "email": "",
       "designation": "President",
       "mobile": []
     },
     {
       "name": "Langanagond",
-      "email": "",
-      "designation": "President",
-      "mobile": []
+      "designation": "President"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=3199",

@@ -1,16 +1,15 @@
 {
   "contacts": [
     {
-      "name": "Greg Mathias",
-      "email": "operations@cmssshassan.com",
-      "designation": "Operations Manager",
+      "name": "Fr Marcel Pinto",
+      "email": "",
+      "designation": "Director",
       "mobile": []
     },
     {
       "name": "Greg Mathias",
-      "email": "operations@cmssshassan.com",
       "designation": "Operations Manager",
-      "mobile": []
+      "email": "operations@cmssshassan.com"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10569",

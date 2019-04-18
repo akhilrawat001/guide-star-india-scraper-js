@@ -1,31 +1,10 @@
 {
   "contacts": [
     {
-      "name": "Md. Moijuddin Ansari",
-      "email": "moijuddin@barusahib.org",
-      "designation": "Sr. Manager-Programs & CSR",
-      "mobile": [
-        "91-11-42434221",
-        "91-9811427524"
-      ]
-    },
-    {
-      "name": "Md. Moijuddin Ansari",
-      "email": "moijuddin@barusahib.org",
-      "designation": "Sr. Manager-Programs & CSR",
-      "mobile": [
-        "91-11-42434221",
-        "91-9811427524"
-      ]
-    },
-    {
-      "name": "Md. Moijuddin Ansari",
-      "email": "moijuddin@barusahib.org",
-      "designation": "Sr. Manager-Programs & CSR",
-      "mobile": [
-        "91-11-42434221",
-        "91-9811427524"
-      ]
+      "name": "Ravinderpal Singh Kohli",
+      "email": "info@barusahib.org",
+      "designation": "Regional Manager",
+      "mobile": []
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4956",

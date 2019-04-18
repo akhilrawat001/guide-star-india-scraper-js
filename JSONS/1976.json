@@ -1,16 +1,14 @@
 {
   "contacts": [
     {
-      "name": "Pratik Raval",
+      "name": "Daxa Patel",
       "email": "team_gsnpplus@yahoo.co.in",
-      "designation": "Secretary",
+      "designation": "Chairman",
       "mobile": []
     },
     {
       "name": "Pratik Raval",
-      "email": "team_gsnpplus@yahoo.co.in",
-      "designation": "Secretary",
-      "mobile": []
+      "designation": "Secretary"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1976",

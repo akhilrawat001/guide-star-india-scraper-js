@@ -1,16 +1,13 @@
 {
   "contacts": [
     {
-      "name": "Komal Sharma",
+      "name": "Varun Singhi",
       "email": "singhi.varun@gmail.com",
       "designation": "Founder and Chief Volunteer",
       "mobile": []
     },
     {
-      "name": "Komal Sharma",
-      "email": "singhi.varun@gmail.com",
-      "designation": "Founder and Chief Volunteer",
-      "mobile": []
+      "name": "Komal Sharma"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1291",

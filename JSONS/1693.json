@@ -1,16 +1,15 @@
 {
   "contacts": [
     {
-      "name": "Amitna",
-      "email": "sahayaorg@yahoo.co.in",
-      "designation": "President",
+      "name": "Shanthamma",
+      "email": "",
+      "designation": "Secretary",
       "mobile": []
     },
     {
       "name": "Amitna",
-      "email": "sahayaorg@yahoo.co.in",
       "designation": "President",
-      "mobile": []
+      "email": "sahayaorg@yahoo.co.in"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1693",

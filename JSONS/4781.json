@@ -1,28 +1,17 @@
 {
   "contacts": [
     {
-      "name": "Hiral N Dave",
-      "email": "cohesionfoundation@gmail.com",
-      "designation": "Programme Officer",
+      "name": "Rajesh R Kapoor",
+      "email": "",
+      "designation": "Chief Executive Officer",
       "mobile": [
         "91-79-27450171"
       ]
     },
     {
       "name": "Hiral N Dave",
-      "email": "cohesionfoundation@gmail.com",
       "designation": "Programme Officer",
-      "mobile": [
-        "91-79-27450171"
-      ]
-    },
-    {
-      "name": "Hiral N Dave",
-      "email": "cohesionfoundation@gmail.com",
-      "designation": "Programme Officer",
-      "mobile": [
-        "91-79-27450171"
-      ]
+      "email": "cohesionfoundation@gmail.com"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4781",

@@ -1,16 +1,15 @@
 {
   "contacts": [
     {
-      "name": "Syed Faisal",
-      "email": "info@globalyouthcorps.org",
-      "designation": "Chief Programme Coordinator",
+      "name": "Dr. MM B",
+      "email": "",
+      "designation": "Director/President",
       "mobile": []
     },
     {
       "name": "Syed Faisal",
-      "email": "info@globalyouthcorps.org",
       "designation": "Chief Programme Coordinator",
-      "mobile": []
+      "email": "info@globalyouthcorps.org"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8789",

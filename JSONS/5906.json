@@ -1,16 +1,15 @@
 {
   "contacts": [
     {
-      "name": "Aurelie Faugier",
-      "email": "aurelie@mentormeindia.org",
-      "designation": "Operations Manager",
+      "name": "Dayoung Lee",
+      "email": "",
+      "designation": "Executive Director",
       "mobile": []
     },
     {
       "name": "Aurelie Faugier",
-      "email": "aurelie@mentormeindia.org",
       "designation": "Operations Manager",
-      "mobile": []
+      "email": "aurelie@mentormeindia.org"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5906",

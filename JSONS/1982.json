@@ -1,8 +1,8 @@
 {
   "contacts": [
     {
-      "name": "Vipul Bali",
-      "email": "vbccol86@yahoo.co.in",
+      "name": "Renu Bali",
+      "email": "renu_bali2004@yahoo.co.in",
       "designation": "Secretary",
       "mobile": [
         "91-9350844393"
@@ -10,19 +10,7 @@
     },
     {
       "name": "Vipul Bali",
-      "email": "vbccol86@yahoo.co.in",
-      "designation": "Secretary",
-      "mobile": [
-        "91-9350844393"
-      ]
-    },
-    {
-      "name": "Vipul Bali",
-      "email": "vbccol86@yahoo.co.in",
-      "designation": "Secretary",
-      "mobile": [
-        "91-9350844393"
-      ]
+      "email": "vbccol86@yahoo.co.in"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1982",

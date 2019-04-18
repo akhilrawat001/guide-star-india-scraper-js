@@ -171,6 +171,7 @@ const getNGOdata = (fileName, url) => {
                 else if (contact.hasOwnProperty("mobile") || contact.hasOwnProperty("name")) {
                     // console.log(contact)
                     dataObject.contacts.push(contact)
+                    contact = {}
                 }//console.log(dataObject.contacts)
             })
         }

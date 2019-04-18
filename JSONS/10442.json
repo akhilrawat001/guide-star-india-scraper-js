@@ -1,16 +1,15 @@
 {
   "contacts": [
     {
-      "name": "AMAN VERMA",
-      "email": "amanverma128@yahoo.com",
-      "designation": "Trustee",
+      "name": "Vivek Kumar Singh",
+      "email": "",
+      "designation": "Treasure",
       "mobile": []
     },
     {
       "name": "AMAN VERMA",
-      "email": "amanverma128@yahoo.com",
       "designation": "Trustee",
-      "mobile": []
+      "email": "amanverma128@yahoo.com"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10442",

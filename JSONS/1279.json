@@ -1,13 +1,10 @@
 {
   "contacts": [
     {
-      "name": "Pranesh",
-      "email": "pranesh123@indiatimes.com",
-      "designation": "Manager",
-      "mobile": [
-        "91-835-8244443",
-        "91-9035265795"
-      ]
+      "name": "Mallamma Yalawar",
+      "email": "mallama2005@hotmail.com",
+      "designation": "CEO",
+      "mobile": []
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1279",

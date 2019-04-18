@@ -1,16 +1,15 @@
 {
   "contacts": [
     {
-      "name": "Ish Chowdhary",
-      "email": "ish@copewithcancer.org",
-      "designation": "Volunteer - Web & Digital Initiatives",
+      "name": "Urvija Sanghvi",
+      "email": "urvija@copewithcancer.org",
+      "designation": "CEO",
       "mobile": []
     },
     {
       "name": "Ish Chowdhary",
-      "email": "ish@copewithcancer.org",
       "designation": "Volunteer - Web & Digital Initiatives",
-      "mobile": []
+      "email": "ish@copewithcancer.org"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9179",

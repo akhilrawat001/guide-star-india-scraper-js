@@ -1,28 +1,17 @@
 {
   "contacts": [
     {
-      "name": "Suchita Pradhan",
-      "email": "vinodkpradhan@gmail.com",
-      "designation": "Manager",
+      "name": "Santosh Srivastva",
+      "email": "",
+      "designation": "CEO",
       "mobile": [
         "91-542-2507217"
       ]
     },
     {
       "name": "Suchita Pradhan",
-      "email": "vinodkpradhan@gmail.com",
       "designation": "Manager",
-      "mobile": [
-        "91-542-2507217"
-      ]
-    },
-    {
-      "name": "Suchita Pradhan",
-      "email": "vinodkpradhan@gmail.com",
-      "designation": "Manager",
-      "mobile": [
-        "91-542-2507217"
-      ]
+      "email": "vinodkpradhan@gmail.com"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1934",

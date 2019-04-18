@@ -1,13 +1,10 @@
 {
   "contacts": [
     {
-      "name": "Russel Dsouza",
-      "email": "mail@toybank.org",
-      "designation": "Admin Head",
-      "mobile": [
-        "91-22-24388235",
-        "91-8080868235"
-      ]
+      "name": "Shweta Gopalachari",
+      "email": "shweta@toybank.org",
+      "designation": "Founder/CEO",
+      "mobile": []
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1133",

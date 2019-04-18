@@ -1,13 +1,10 @@
 {
   "contacts": [
     {
-      "name": "Shashi Kumar",
-      "email": "srishakthi@indiatimes.com",
-      "designation": "Secretary",
-      "mobile": [
-        "91-8192-240004",
-        "91-9986408105"
-      ]
+      "name": "Laxmibai",
+      "email": "",
+      "designation": "President",
+      "mobile": []
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=132",

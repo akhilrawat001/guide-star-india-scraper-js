@@ -1,16 +1,15 @@
 {
   "contacts": [
     {
-      "name": "V.gnana Priya",
-      "email": "pkftrust@gmail.com",
-      "designation": "cordinator",
+      "name": "Dr.K. Narayanan",
+      "email": "drnana@gmail.com",
+      "designation": "chairman",
       "mobile": []
     },
     {
       "name": "V.gnana Priya",
-      "email": "pkftrust@gmail.com",
       "designation": "cordinator",
-      "mobile": []
+      "email": "pkftrust@gmail.com"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=425",

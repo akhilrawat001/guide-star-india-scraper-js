@@ -1,16 +1,15 @@
 {
   "contacts": [
     {
-      "name": "KUMARI REETA",
-      "email": "kramws123.in@gmail.com",
-      "designation": "CHAIRMAN",
+      "name": "RAJEEV KUMAR",
+      "email": "amws786.in@gmail.com",
+      "designation": "Secretary",
       "mobile": []
     },
     {
       "name": "KUMARI REETA",
-      "email": "kramws123.in@gmail.com",
       "designation": "CHAIRMAN",
-      "mobile": []
+      "email": "kramws123.in@gmail.com"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=4357",

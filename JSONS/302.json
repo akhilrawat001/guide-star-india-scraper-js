@@ -1,13 +1,10 @@
 {
   "contacts": [
     {
-      "name": "Shreeja Nair",
-      "email": "shreeja@seedsindia.org",
-      "designation": "Manager - Communications",
-      "mobile": [
-        "91-11-26174272",
-        "91-9871888664"
-      ]
+      "name": "Manu Gupta",
+      "email": "manu@seedsindia.org",
+      "designation": "Executive Director",
+      "mobile": []
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=302",

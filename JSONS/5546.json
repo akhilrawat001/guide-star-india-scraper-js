@@ -1,16 +1,15 @@
 {
   "contacts": [
     {
-      "name": "Lakshmi Ch",
-      "email": "secretaryofgcm@gmail.com",
-      "designation": "Director & Secretary",
+      "name": "Praveen Ratna Kumar",
+      "email": "gcmkidsindia@gmail.com",
+      "designation": "Founder & President",
       "mobile": []
     },
     {
       "name": "Lakshmi Ch",
-      "email": "secretaryofgcm@gmail.com",
       "designation": "Director & Secretary",
-      "mobile": []
+      "email": "secretaryofgcm@gmail.com"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5546",

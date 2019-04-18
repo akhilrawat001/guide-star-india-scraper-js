@@ -1,12 +1,10 @@
 {
   "contacts": [
     {
-      "name": "Amit Singh",
+      "name": "Ashok Singh",
       "email": "info@sahbhagi.org",
-      "designation": "Officer IT",
-      "mobile": [
-        "91-9935302536"
-      ]
+      "designation": "Director",
+      "mobile": []
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1448",

@@ -1,16 +1,15 @@
 {
   "contacts": [
     {
-      "name": "G Krishna",
-      "email": "gkscdss@yahoo.com",
-      "designation": "Secretary",
+      "name": "P. Sathyam",
+      "email": "",
+      "designation": "President",
       "mobile": []
     },
     {
       "name": "G Krishna",
-      "email": "gkscdss@yahoo.com",
       "designation": "Secretary",
-      "mobile": []
+      "email": "gkscdss@yahoo.com"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1766",

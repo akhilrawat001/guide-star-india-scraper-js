@@ -1,16 +1,14 @@
 {
   "contacts": [
     {
-      "name": "Jagveer Singh",
+      "name": "Laxman Singh",
       "email": "",
-      "designation": "Senior Programme Coordinator",
+      "designation": "Secretary",
       "mobile": []
     },
     {
       "name": "Jagveer Singh",
-      "email": "",
-      "designation": "Senior Programme Coordinator",
-      "mobile": []
+      "designation": "Senior Programme Coordinator"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1156",

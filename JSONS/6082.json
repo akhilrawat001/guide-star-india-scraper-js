@@ -1,16 +1,15 @@
 {
   "contacts": [
     {
-      "name": "Mohammad Wasim",
-      "email": "holdinghands13@gmail.com",
-      "designation": "secretary",
+      "name": "Mohammad Guljar Ahmed",
+      "email": "",
+      "designation": "President",
       "mobile": []
     },
     {
       "name": "Mohammad Wasim",
-      "email": "holdinghands13@gmail.com",
       "designation": "secretary",
-      "mobile": []
+      "email": "holdinghands13@gmail.com"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6082",

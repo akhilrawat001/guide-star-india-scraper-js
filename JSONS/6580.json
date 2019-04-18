@@ -1,16 +1,15 @@
 {
   "contacts": [
     {
-      "name": "Amita Dubey",
-      "email": "amita@ssism.org",
-      "designation": "Coordinator",
+      "name": "Pranjal Dubey",
+      "email": "",
+      "designation": "Director",
       "mobile": []
     },
     {
       "name": "Amita Dubey",
-      "email": "amita@ssism.org",
       "designation": "Coordinator",
-      "mobile": []
+      "email": "amita@ssism.org"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6580",

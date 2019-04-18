@@ -1,28 +1,15 @@
 {
   "contacts": [
     {
-      "name": "Pooja D'Souza",
-      "email": "pooja@makeadiff.in",
-      "designation": "Finance Director",
+      "name": "Jithin C Nedumala",
+      "email": "",
+      "designation": "CEO",
       "mobile": []
     },
     {
       "name": "Pooja D'Souza",
-      "email": "pooja@makeadiff.in",
       "designation": "Finance Director",
-      "mobile": []
-    },
-    {
-      "name": "Pooja D'Souza",
-      "email": "pooja@makeadiff.in",
-      "designation": "Finance Director",
-      "mobile": []
-    },
-    {
-      "name": "Pooja D'Souza",
-      "email": "pooja@makeadiff.in",
-      "designation": "Finance Director",
-      "mobile": []
+      "email": "pooja@makeadiff.in"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=1663",

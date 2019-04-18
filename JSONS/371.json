@@ -1,16 +1,15 @@
 {
   "contacts": [
     {
-      "name": "Meghna Golder",
-      "email": "partnership@helptrust.org",
-      "designation": "Manager - Programs and Resource Mobilisation",
+      "name": "T Jegan",
+      "email": "jegan@helptrust.org",
+      "designation": "Managing Trustee",
       "mobile": []
     },
     {
       "name": "Meghna Golder",
-      "email": "partnership@helptrust.org",
       "designation": "Manager - Programs and Resource Mobilisation",
-      "mobile": []
+      "email": "partnership@helptrust.org"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=371",

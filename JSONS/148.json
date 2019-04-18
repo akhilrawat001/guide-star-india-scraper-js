@@ -1,16 +1,15 @@
 {
   "contacts": [
     {
-      "name": "Thomson MC",
-      "email": "finance@thfi.in",
-      "designation": "Finance Officer",
+      "name": "K Jacob Roy (Dr)",
+      "email": "mail@thfi.in",
+      "designation": "Chairman",
       "mobile": []
     },
     {
       "name": "Thomson MC",
-      "email": "finance@thfi.in",
       "designation": "Finance Officer",
-      "mobile": []
+      "email": "finance@thfi.in"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=148",

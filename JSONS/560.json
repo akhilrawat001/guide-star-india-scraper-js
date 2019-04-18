@@ -1,12 +1,10 @@
 {
   "contacts": [
     {
-      "name": "Pramod Kulkarni",
-      "email": "sevavardhini@gmail.com",
-      "designation": "CEO",
-      "mobile": [
-        "91-20-24433606"
-      ]
+      "name": "Subhash Inamdar",
+      "email": "",
+      "designation": "Secretary",
+      "mobile": []
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=560",

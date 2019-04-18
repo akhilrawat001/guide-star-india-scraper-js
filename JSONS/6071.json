@@ -1,28 +1,15 @@
 {
   "contacts": [
     {
-      "name": "Jasmine Jose",
-      "email": "jasminejose@protsahan.in",
-      "designation": "Prog Dev Officer",
+      "name": "Monica Rita De Souza",
+      "email": "info@protsahan.in",
+      "designation": "Chief Functionary/ Trustee",
       "mobile": []
     },
     {
       "name": "Jasmine Jose",
-      "email": "jasminejose@protsahan.in",
       "designation": "Prog Dev Officer",
-      "mobile": []
-    },
-    {
-      "name": "Jasmine Jose",
-      "email": "jasminejose@protsahan.in",
-      "designation": "Prog Dev Officer",
-      "mobile": []
-    },
-    {
-      "name": "Jasmine Jose",
-      "email": "jasminejose@protsahan.in",
-      "designation": "Prog Dev Officer",
-      "mobile": []
+      "email": "jasminejose@protsahan.in"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=6071",

@@ -1,16 +1,15 @@
 {
   "contacts": [
     {
-      "name": "Suvendu Khanra",
-      "email": "suvendu512@gmail.com",
-      "designation": "Mananger",
+      "name": "Bablu Khanra",
+      "email": "",
+      "designation": "",
       "mobile": []
     },
     {
       "name": "Suvendu Khanra",
-      "email": "suvendu512@gmail.com",
       "designation": "Mananger",
-      "mobile": []
+      "email": "suvendu512@gmail.com"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=5108",

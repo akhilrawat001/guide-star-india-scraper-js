@@ -1,13 +1,10 @@
 {
   "contacts": [
     {
-      "name": "Ashok M Gawande",
-      "email": "ashokgolegaonkar@gmail.com",
-      "designation": "Secretary",
-      "mobile": [
-        "91-721-2564078",
-        "91-9922857675"
-      ]
+      "name": "Pramod B Wankhade",
+      "email": "",
+      "designation": "President",
+      "mobile": []
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=868",

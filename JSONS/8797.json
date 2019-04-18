@@ -1,16 +1,15 @@
 {
   "contacts": [
     {
-      "name": "Zalak Desai",
-      "email": "zalakkavidesai@gmail.com",
-      "designation": "Head - Operations",
+      "name": "Pankaj Jain",
+      "email": "ceo@gyanshala.org",
+      "designation": "CEO",
       "mobile": []
     },
     {
       "name": "Zalak Desai",
-      "email": "zalakkavidesai@gmail.com",
       "designation": "Head - Operations",
-      "mobile": []
+      "email": "zalakkavidesai@gmail.com"
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8797",

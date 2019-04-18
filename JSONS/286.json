@@ -1,13 +1,10 @@
 {
   "contacts": [
     {
-      "name": "Ratnish Verma",
-      "email": "ratnish@nidan.in",
-      "designation": "State Programme Manager",
-      "mobile": [
-        "91-612-2220772",
-        "91-9430933565"
-      ]
+      "name": "Arbind Singh",
+      "email": "singharbind@hotmail.com",
+      "designation": "Executive Director",
+      "mobile": []
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=286",

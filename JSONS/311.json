@@ -2,11 +2,9 @@
   "contacts": [
     {
       "name": "Tracy Kunichika",
-      "email": "info@operation-shanti.org",
-      "designation": "Chief Financial Offcier",
-      "mobile": [
-        "91-9945100945"
-      ]
+      "email": "india@operation-shanti.org",
+      "designation": "CFO",
+      "mobile": []
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=311",
