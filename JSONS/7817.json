@@ -1,9 +1,12 @@
 {
   "contacts": [
     {
-      "name": "Mamika De",
+      "name": "Samsur Rahman",
+      "email": "",
       "designation": "",
-      "email": null
+      "mobile": [
+        "9830381058"
+      ]
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7817",

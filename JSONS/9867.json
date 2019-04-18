@@ -1,9 +1,12 @@
 {
   "contacts": [
     {
-      "name": "Kiran Baheti",
-      "designation": "President",
-      "email": "gvss007@gmail.com"
+      "name": "Himanshu Maheshwari",
+      "email": "gvss.himanshu@gmail.com",
+      "designation": "PD",
+      "mobile": [
+        "91-9936012878"
+      ]
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9867",

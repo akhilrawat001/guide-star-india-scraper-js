@@ -2,8 +2,11 @@
   "contacts": [
     {
       "name": "Deepan Bahadur Gurung",
-      "designation": "",
-      "email": null
+      "email": "deepang626@gmail.com",
+      "designation": "Secretary",
+      "mobile": [
+        "91-8730824225"
+      ]
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9584",

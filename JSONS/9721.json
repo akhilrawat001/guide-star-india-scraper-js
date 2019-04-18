@@ -1,13 +1,17 @@
 {
   "contacts": [
     {
-      "name": "Sudhir Krishnaswamy",
-      "designation": "Co-Founder and Managing Trustee"
+      "name": "Indu Krishnaswamy",
+      "email": "admin@clpr.org.in",
+      "designation": "Head of Operations",
+      "mobile": [
+        "91-80-40912112"
+      ]
     },
     {
       "name": "Indu Krishnaswamy",
-      "designation": "Head of Operations",
       "email": "admin@clpr.org.in",
+      "designation": "Head of Operations",
       "mobile": [
         "91-80-40912112"
       ]

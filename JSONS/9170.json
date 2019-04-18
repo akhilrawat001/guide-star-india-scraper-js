@@ -2,8 +2,11 @@
   "contacts": [
     {
       "name": "Mohd Touseef Bari",
-      "designation": "",
-      "email": null
+      "email": "touseefbari@yahoo.com",
+      "designation": "Chairman",
+      "mobile": [
+        "91-8127447963"
+      ]
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9170",

@@ -1,13 +1,16 @@
 {
   "contacts": [
     {
-      "name": "Abhisek Chakraborty",
-      "designation": "Founder/Chief Executive"
+      "name": "Sucharita Mukherjee",
+      "email": "sucharita@whizmantra.com",
+      "designation": "Manager",
+      "mobile": []
     },
     {
       "name": "Sucharita Mukherjee",
+      "email": "sucharita@whizmantra.com",
       "designation": "Manager",
-      "email": "sucharita@whizmantra.com"
+      "mobile": []
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9110",

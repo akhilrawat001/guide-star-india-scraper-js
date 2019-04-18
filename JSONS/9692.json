@@ -2,7 +2,9 @@
   "contacts": [
     {
       "name": "Smarinita Shetty",
-      "designation": "Co-founder and CEO"
+      "email": "",
+      "designation": "Co-founder and CEO",
+      "mobile": []
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9692",

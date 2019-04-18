@@ -2,7 +2,9 @@
   "contacts": [
     {
       "name": "Rajesh Mandyam",
-      "designation": "Managing Trustee"
+      "email": "",
+      "designation": "Managing Trustee",
+      "mobile": []
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9240",

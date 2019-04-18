@@ -2,8 +2,9 @@
   "contacts": [
     {
       "name": "Tushar Shah",
+      "email": "shreenath.trust@gmail.com",
       "designation": "President",
-      "email": "shreenath.trust@gmail.com"
+      "mobile": []
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9510",

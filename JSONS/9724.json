@@ -1,8 +1,12 @@
 {
   "contacts": [
     {
-      "name": "Prabin Prasad",
-      "designation": "President"
+      "name": "Kshitij  Gawande",
+      "email": "kshjgawande86@gmail.com",
+      "designation": "Executive Director",
+      "mobile": [
+        "91-8055151717"
+      ]
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9724",

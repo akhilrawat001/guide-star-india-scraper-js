@@ -2,8 +2,9 @@
   "contacts": [
     {
       "name": "Dr D S Srivastava",
+      "email": "",
       "designation": "",
-      "email": null
+      "mobile": []
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9399",

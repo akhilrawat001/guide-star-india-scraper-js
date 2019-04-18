@@ -2,8 +2,9 @@
   "contacts": [
     {
       "name": "Nisar Ahmad",
+      "email": "nisar@envisions.co.in",
       "designation": "Executive Director",
-      "email": "nisar@envisions.co.in"
+      "mobile": []
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9920",

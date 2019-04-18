@@ -1,9 +1,12 @@
 {
   "contacts": [
     {
-      "name": "Avijit Michael",
-      "designation": "Executive Director",
-      "email": "avijit@jhatkaa.org"
+      "name": "P.M.A.Nooruddin",
+      "email": "nooruddin@jhatkaa.org",
+      "designation": "Managers Ops",
+      "mobile": [
+        "91-9916033589"
+      ]
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9855",

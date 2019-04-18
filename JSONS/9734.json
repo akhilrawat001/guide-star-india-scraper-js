@@ -2,8 +2,9 @@
   "contacts": [
     {
       "name": "Pravendra Singh",
+      "email": "PRAVENDRASING@GMAIL.COM",
       "designation": "Director",
-      "email": "PRAVENDRASING@GMAIL.COM"
+      "mobile": []
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9734",

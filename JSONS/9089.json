@@ -1,9 +1,12 @@
 {
   "contacts": [
     {
-      "name": "Nantu Kumar Bhandari",
+      "name": "Soumya Bhandari",
+      "email": "",
       "designation": "",
-      "email": null
+      "mobile": [
+        "9932934327"
+      ]
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9089",

@@ -1,9 +1,12 @@
 {
   "contacts": [
     {
-      "name": "Rajendra Chauragade",
+      "name": "Nandkishor Mankar",
+      "email": "",
       "designation": "",
-      "email": null
+      "mobile": [
+        "7767808661"
+      ]
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7826",

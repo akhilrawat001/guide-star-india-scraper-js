@@ -1,9 +1,12 @@
 {
   "contacts": [
     {
-      "name": "Diya Kumari",
-      "designation": "",
-      "email": null
+      "name": "Alok",
+      "email": "info@princessdiyakumarifoundation.org",
+      "designation": "Sr. Development Manager",
+      "mobile": [
+        "91-141-1234567"
+      ]
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9092",

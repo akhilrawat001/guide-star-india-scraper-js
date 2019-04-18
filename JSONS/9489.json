@@ -2,10 +2,18 @@
   "contacts": [
     {
       "name": "GAYATRIPRASAD G JOSHI",
-      "designation": "President",
       "email": "jankalyantrustmandvi@gmail.com",
+      "designation": "President",
       "mobile": [
-        "91-9429817378"
+        "9429817378"
+      ]
+    },
+    {
+      "name": "GAYATRIPRASAD G JOSHI",
+      "email": "jankalyantrustmandvi@gmail.com",
+      "designation": "President",
+      "mobile": [
+        "9429817378"
       ]
     }
   ],

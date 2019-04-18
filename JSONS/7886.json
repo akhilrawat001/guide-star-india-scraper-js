@@ -2,8 +2,9 @@
   "contacts": [
     {
       "name": "Selagamsetty Prasad Rao",
+      "email": "prsam@sct.org.in",
       "designation": "Chairman",
-      "email": "prsam@sct.org.in"
+      "mobile": []
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7886",

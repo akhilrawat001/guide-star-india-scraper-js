@@ -9,7 +9,6 @@ var urlList = readJsonFile('data/urls.json')
 const STATES = ['Andaman and Nicobar Islands', 'Andhra Pradesh', 'Arunachal Pradesh', 'Assam', 'Bihar', 'Chandigarh', 'Chhattisgarh', 'Dadra and Nagar Haveli', 'Daman and Diu', 'Delhi', 'Goa', 'Gujarat', 'Haryana', 'Himachal Pradesh', 'Jammu and Kashmir', 'Jharkhand', 'Karnataka', 'Kerala', 'Lakshadweep', 'Madhya Pradesh', 'Maharashtra', 'Manipur', 'Meghalaya', 'Mizoram', 'Nagaland', 'Odisha', 'Puducherry', 'Punjab', 'Rajasthan', 'Sikkim', 'Tamil Nadu', 'Telangana', 'Tripura', 'Uttarakhand', 'Uttar Pradesh', 'West Bengal']
 // function which will get NGO data
 const getNGOdata = (fileName, url) => {
-    let contact = {}
     // CSV dummy Data
     let dummyData = {
         "Name": null,
@@ -116,6 +115,13 @@ const getNGOdata = (fileName, url) => {
             dataObject.mainAddrress = mAddress
         } else if (tableName == "Organisation Profile") {
             let tempData = []
+            let contact = {
+                "name": "",
+                "email": "",
+                "designation": "",
+                "mobile": []
+        
+            }
             $(element).find("div.CPBData").each((i, ele) => {
                 tempData.push($(ele).text().trim())
             })
@@ -137,41 +143,18 @@ const getNGOdata = (fileName, url) => {
                 let tdata = $(ele).text().trim().split('\n')
                 if (tdata.indexOf('Name') != -1) {
                     save = i + 1
-
-                    for (let p in tdata) {
-                        if (tdata[p].includes('Name')) {
-                            indexes.push(parseInt(p))
-                        } else if (tdata[p].includes('Designation')) {
-                            indexes.push(parseInt(p))
-                        } else if (tdata[p].includes('Email')) {
-                            indexes.push(parseInt(p))
-                        }
-                    }
                 }
                 else if (i == save) {
+                    // console.log(tdata)
                     // contacts (name,designation,email)
-                    if (tdata[indexes[0]] != undefined) {
-                        if ((!tdata[indexes[0]].includes('Show')) && !tdata[indexes[0]].includes("Hide")) {
-                            contact.name = tdata[indexes[0]].trim().trim('\n')
+                    contact.name = tdata[0].trim().trim('\t')
+                    for (let x of tdata) {
+                        if (x.includes("@")) {
+                            contact.email = x.trim().trim('\t')
+                        } else if ((!x.includes("@")) && x.length > 1 && x.trim() != "" && (!x.includes("+")) && x.trim().trim('\t') != contact.name ) {
+                            contact.designation = x.trim().trim('\t')
                         }
-                    } else {
-                        contact.name = null
                     }
-                    if (tdata[indexes[1]] != undefined) {
-                        if ((!tdata[indexes[1]].includes('Show')) && !tdata[indexes[1]].includes("Hide")) {
-                            contact.designation = tdata[indexes[1]].trim().trim('\n')
-                        }
-                    } else {
-                        contact.designation = null
-                    } if (tdata[indexes[2]] != undefined) {
-                        if ((!tdata[indexes[2]].includes('Show')) && !tdata[indexes[2]].includes("Hide")) {
-                            contact.email = tdata[indexes[2]].trim().trim('\n')
-                        }
-                    } else {
-                        contact.email = null
-                    }
-                    indexes = []
-
                 } else if (tdata.includes('Telephone') || tdata.includes('Mobile')) {
                     // contacts (mobile)
                     var numbers = []
@@ -184,9 +167,8 @@ const getNGOdata = (fileName, url) => {
                     // console.log(numbers)
                 }
                 else if (contact.hasOwnProperty("mobile") || contact.hasOwnProperty("name")) {
-                    // console.log(contact)
+                    console.log(contact)
                     dataObject.contacts.push(contact)
-                    contact = {}
                 }//console.log(dataObject.contacts)
             })
         }

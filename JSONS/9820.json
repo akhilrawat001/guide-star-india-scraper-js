@@ -1,13 +1,16 @@
 {
   "contacts": [
     {
-      "name": "Rajkala. P",
-      "designation": "President"
+      "name": "Vandana Shah",
+      "email": "coordinator@sharana.org",
+      "designation": "Coordinator",
+      "mobile": []
     },
     {
       "name": "Vandana Shah",
+      "email": "coordinator@sharana.org",
       "designation": "Coordinator",
-      "email": "coordinator@sharana.org"
+      "mobile": []
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9820",

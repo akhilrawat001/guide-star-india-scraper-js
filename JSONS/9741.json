@@ -1,8 +1,12 @@
 {
   "contacts": [
     {
-      "name": "Archana Nayar",
-      "designation": "Director"
+      "name": "Sameer Andrews",
+      "email": "ace@ace-india.org",
+      "designation": "COO",
+      "mobile": [
+        "91-9873383603"
+      ]
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9741",

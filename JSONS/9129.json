@@ -1,9 +1,12 @@
 {
   "contacts": [
     {
-      "name": "Naresh Chawda",
+      "name": "Vikas Chaurasiya",
+      "email": "",
       "designation": "",
-      "email": null
+      "mobile": [
+        "9820822001"
+      ]
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9129",

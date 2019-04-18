@@ -1,13 +1,16 @@
 {
   "contacts": [
     {
-      "name": "Joyita Ambett",
-      "designation": "CEO"
+      "name": "Shifrah Jacobs",
+      "email": "shifrah.jacobs@justiceandcare.org",
+      "designation": "Head Corporate Partnerships",
+      "mobile": []
     },
     {
       "name": "Shifrah Jacobs",
+      "email": "shifrah.jacobs@justiceandcare.org",
       "designation": "Head Corporate Partnerships",
-      "email": "shifrah.jacobs@justiceandcare.org"
+      "mobile": []
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9459",

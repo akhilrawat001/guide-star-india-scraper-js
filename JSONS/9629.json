@@ -1,13 +1,16 @@
 {
   "contacts": [
     {
-      "name": "Pooja Churamani",
-      "designation": "President"
+      "name": "Pawan Bharadwaj",
+      "email": "Leotony55@gmail.com",
+      "designation": "General Secretary",
+      "mobile": []
     },
     {
       "name": "Pawan Bharadwaj",
+      "email": "Leotony55@gmail.com",
       "designation": "General Secretary",
-      "email": "Leotony55@gmail.com"
+      "mobile": []
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9629",

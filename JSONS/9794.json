@@ -2,8 +2,9 @@
   "contacts": [
     {
       "name": "Amitav Virmani",
+      "email": "Amitav.virmani@theeducationalliance.org",
       "designation": "CEO",
-      "email": "Amitav.virmani@theeducationalliance.org"
+      "mobile": []
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9794",

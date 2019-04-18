@@ -2,11 +2,11 @@
   "contacts": [
     {
       "name": "Jagdish Sastry",
+      "email": "jagdishs@aidmi.org",
       "designation": "Sr. Co-Ordinator",
       "mobile": [
         "91-79-26582962"
-      ],
-      "email": "jagdishs@aidmi.org"
+      ]
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9722",

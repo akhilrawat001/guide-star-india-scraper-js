@@ -2,8 +2,17 @@
   "contacts": [
     {
       "name": "Rahul Kumar",
-      "designation": "Chief Project Co-ordinator",
       "email": "rahul@cfmglobal.org",
+      "designation": "Chief Project Co-ordinator",
+      "mobile": [
+        "91-11-49414220",
+        "91-9971746306"
+      ]
+    },
+    {
+      "name": "Rahul Kumar",
+      "email": "rahul@cfmglobal.org",
+      "designation": "Chief Project Co-ordinator",
       "mobile": [
         "91-11-49414220",
         "91-9971746306"

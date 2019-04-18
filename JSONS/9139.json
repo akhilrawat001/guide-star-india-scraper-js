@@ -1,9 +1,12 @@
 {
   "contacts": [
     {
-      "name": "Mahendra Singh Solanki",
+      "name": "Digvijay Singh",
+      "email": "",
       "designation": "",
-      "email": null
+      "mobile": [
+        "9414077456"
+      ]
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9139",

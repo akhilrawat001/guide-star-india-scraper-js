@@ -1,13 +1,16 @@
 {
   "contacts": [
     {
-      "name": "Lt Gen S M Mehta",
-      "designation": "Chief Executive Officer"
+      "name": "Raghav Kumar",
+      "email": "raghav@thfmail.com",
+      "designation": "IT Analyst",
+      "mobile": []
     },
     {
       "name": "Raghav Kumar",
+      "email": "raghav@thfmail.com",
       "designation": "IT Analyst",
-      "email": "raghav@thfmail.com"
+      "mobile": []
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9842",

@@ -1,9 +1,13 @@
 {
   "contacts": [
     {
-      "name": "Santosh Mahadeo Raut",
+      "name": "Vinayak Ramdas Salgude",
+      "email": "",
       "designation": "",
-      "email": null
+      "mobile": [
+        "249955",
+        "8605012432"
+      ]
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9549",

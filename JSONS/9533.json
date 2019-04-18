@@ -2,15 +2,20 @@
   "contacts": [
     {
       "name": "Sumitra Sharma",
-      "designation": "Programme Coordinator",
       "email": "sumitrasharma.papnsirmour@gmail.com",
+      "designation": "Programme Coordinator",
       "mobile": [
-        "91-9816925128"
+        "91-1702-222466",
+        "91-9805831660"
       ]
     },
     {
+      "name": "Sumitra Sharma",
+      "email": "sumitrasharma.papnsirmour@gmail.com",
+      "designation": "Programme Coordinator",
       "mobile": [
-        "91-8264295018"
+        "91-1702-222466",
+        "91-9805831660"
       ]
     }
   ],

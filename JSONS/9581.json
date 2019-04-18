@@ -1,9 +1,12 @@
 {
   "contacts": [
     {
-      "name": "Sanidul Islam Sikdar",
-      "designation": "President",
-      "email": "asianmissioninstitute85@gmail.com"
+      "name": "Jabbar Ali",
+      "email": "asianmissioninstitute85@gmail.com",
+      "designation": "Secretary",
+      "mobile": [
+        "91-9435097024"
+      ]
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9581",

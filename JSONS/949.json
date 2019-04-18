@@ -1,13 +1,16 @@
 {
   "contacts": [
     {
-      "name": "Shaheen Mistri",
-      "designation": "CEO"
+      "name": "Mridvika Mathur",
+      "email": "mridvika.mathur@teachforindia.org",
+      "designation": "Senior Manager, National Development",
+      "mobile": []
     },
     {
       "name": "Mridvika Mathur",
+      "email": "mridvika.mathur@teachforindia.org",
       "designation": "Senior Manager, National Development",
-      "email": "mridvika.mathur@teachforindia.org"
+      "mobile": []
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=949",

@@ -1,15 +1,41 @@
 {
   "contacts": [
     {
-      "name": "Dr. Jeyakumar Daniel",
-      "designation": "President"
+      "name": "Henry Waller",
+      "email": "coo@seesha.org",
+      "designation": "Chief Operating Officer",
+      "mobile": [
+        "91-9566214141"
+      ]
     },
     {
       "name": "Henry Waller",
+      "email": "coo@seesha.org",
       "designation": "Chief Operating Officer",
-      "email": "coo@seesha.org"
+      "mobile": [
+        "91-9566214141"
+      ]
     },
     {
+      "name": "Henry Waller",
+      "email": "coo@seesha.org",
+      "designation": "Chief Operating Officer",
+      "mobile": [
+        "91-9566214141"
+      ]
+    },
+    {
+      "name": "Henry Waller",
+      "email": "coo@seesha.org",
+      "designation": "Chief Operating Officer",
+      "mobile": [
+        "91-9566214141"
+      ]
+    },
+    {
+      "name": "Henry Waller",
+      "email": "coo@seesha.org",
+      "designation": "Chief Operating Officer",
       "mobile": [
         "91-9566214141"
       ]

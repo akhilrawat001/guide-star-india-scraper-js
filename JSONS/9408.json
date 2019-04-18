@@ -1,14 +1,16 @@
 {
   "contacts": [
     {
-      "name": "Vibha Suthar",
-      "designation": "",
-      "email": null
+      "name": "MAHESH C. SHARMA",
+      "email": "MVICAC@YAHOO.COM",
+      "designation": "SADASYA",
+      "mobile": []
     },
     {
       "name": "MAHESH C. SHARMA",
+      "email": "MVICAC@YAHOO.COM",
       "designation": "SADASYA",
-      "email": "MVICAC@YAHOO.COM"
+      "mobile": []
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9408",

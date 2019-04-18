@@ -1,9 +1,13 @@
 {
   "contacts": [
     {
-      "name": "Shailendra Vyas",
-      "designation": "",
-      "email": null
+      "name": "Akhilesh Joshi",
+      "email": "joshi_akhilesh@yahoo.com",
+      "designation": "Monitoring Officer",
+      "mobile": [
+        "91-734-2580141",
+        "91-9993233073"
+      ]
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8999",

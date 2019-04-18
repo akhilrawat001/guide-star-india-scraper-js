@@ -2,8 +2,16 @@
   "contacts": [
     {
       "name": "Gowtham Uyalla",
-      "designation": "Communication and Resource Mobilization Officer",
       "email": "crmo@covanetwork.org",
+      "designation": "Communication and Resource Mobilization Officer",
+      "mobile": [
+        "91-9989222959"
+      ]
+    },
+    {
+      "name": "Gowtham Uyalla",
+      "email": "crmo@covanetwork.org",
+      "designation": "Communication and Resource Mobilization Officer",
       "mobile": [
         "91-9989222959"
       ]

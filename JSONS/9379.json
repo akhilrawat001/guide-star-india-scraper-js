@@ -2,8 +2,9 @@
   "contacts": [
     {
       "name": "Avi Bhanawat",
+      "email": "support@svojas.org",
       "designation": "Chairman",
-      "email": "support@svojas.org"
+      "mobile": []
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9379",

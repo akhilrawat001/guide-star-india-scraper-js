@@ -1,9 +1,12 @@
 {
   "contacts": [
     {
-      "name": "Vamsi CS Machiraju",
-      "designation": "",
-      "email": null
+      "name": "Vanama Radha Krishna Murthy",
+      "email": "vanamarkm@hotmail.com",
+      "designation": "Executive member of the organization",
+      "mobile": [
+        "91-8500320159"
+      ]
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9132",

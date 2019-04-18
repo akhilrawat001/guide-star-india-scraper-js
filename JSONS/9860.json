@@ -2,8 +2,9 @@
   "contacts": [
     {
       "name": "Jyoti",
+      "email": "jyoti.angel686@gmail.com",
       "designation": "President",
-      "email": "jyoti.angel686@gmail.com"
+      "mobile": []
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9860",

@@ -1,9 +1,12 @@
 {
   "contacts": [
     {
-      "name": "Fr. Gregory Almedia",
+      "name": "Janifer Fernandes",
+      "email": "",
       "designation": "",
-      "email": null
+      "mobile": [
+        "24163346"
+      ]
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9059",

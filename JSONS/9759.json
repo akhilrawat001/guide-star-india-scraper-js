@@ -1,14 +1,16 @@
 {
   "contacts": [
     {
-      "name": "Jasmine Khattar",
-      "designation": "Executive and Clinical Director",
-      "email": "jasmine@iecmumbai.org"
+      "name": "Dr. Trinjhna Khattar",
+      "email": "trinjhna@iecmumbai.org",
+      "designation": "Proficiency Head",
+      "mobile": []
     },
     {
       "name": "Dr. Trinjhna Khattar",
+      "email": "trinjhna@iecmumbai.org",
       "designation": "Proficiency Head",
-      "email": "trinjhna@iecmumbai.org"
+      "mobile": []
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9759",

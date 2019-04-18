@@ -2,8 +2,9 @@
   "contacts": [
     {
       "name": "K. Ratna",
+      "email": "drkvraoss@gmail.com",
       "designation": "Secretary",
-      "email": "drkvraoss@gmail.com"
+      "mobile": []
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9506",

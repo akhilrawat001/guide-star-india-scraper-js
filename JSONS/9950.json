@@ -2,11 +2,11 @@
   "contacts": [
     {
       "name": "Prasun Majumdar",
+      "email": "prasun@middletonethinkers.in",
       "designation": "Secretary",
       "mobile": [
         "91-33-25023316"
-      ],
-      "email": "prasun@middletonethinkers.in"
+      ]
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9950",

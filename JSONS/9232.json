@@ -1,9 +1,12 @@
 {
   "contacts": [
     {
-      "name": "Mohd. Iqbal Wani",
+      "name": "Mohmad Jaffar",
+      "email": "",
       "designation": "",
-      "email": null
+      "mobile": [
+        "9555777154"
+      ]
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9232",

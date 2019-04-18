@@ -2,8 +2,9 @@
   "contacts": [
     {
       "name": "Subash Chandra Gupta",
+      "email": "guptasubh26@gmail.com",
       "designation": "Secretary",
-      "email": "guptasubh26@gmail.com"
+      "mobile": []
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9707",

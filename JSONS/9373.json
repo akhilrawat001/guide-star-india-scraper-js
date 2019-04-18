@@ -1,9 +1,12 @@
 {
   "contacts": [
     {
-      "name": "Adv.Devendra Agase",
+      "name": "Vishwajit Agase",
+      "email": "",
       "designation": "",
-      "email": null
+      "mobile": [
+        "9422460330"
+      ]
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9373",

@@ -2,8 +2,16 @@
   "contacts": [
     {
       "name": "Pallab Jana",
-      "designation": "Director",
-      "email": "sevaksanghachakkandu@gmail.com",
+      "email": "pallabjana1986@gmail.com",
+      "designation": "Derector",
+      "mobile": [
+        "91-8137000624"
+      ]
+    },
+    {
+      "name": "Pallab Jana",
+      "email": "pallabjana1986@gmail.com",
+      "designation": "Derector",
       "mobile": [
         "91-8137000624"
       ]

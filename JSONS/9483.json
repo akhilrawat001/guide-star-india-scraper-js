@@ -1,8 +1,12 @@
 {
   "contacts": [
     {
-      "name": "Neelesh Misra",
-      "designation": "Settlor"
+      "name": "Saumya Tandon",
+      "email": "saumya@gaonconnection.com",
+      "designation": "Senior Manager Operations",
+      "mobile": [
+        "91-8935000252"
+      ]
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9483",

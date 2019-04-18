@@ -2,8 +2,9 @@
   "contacts": [
     {
       "name": "Dr. Pradeep K Panda",
+      "email": "",
       "designation": "",
-      "email": null
+      "mobile": []
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7885",

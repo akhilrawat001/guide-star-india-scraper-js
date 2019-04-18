@@ -1,9 +1,12 @@
 {
   "contacts": [
     {
-      "name": "Mallika Ahluwalia",
+      "name": "Ganeev Dhillon",
+      "email": "",
       "designation": "",
-      "email": null
+      "mobile": [
+        "8130001947"
+      ]
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9590",

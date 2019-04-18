@@ -2,8 +2,9 @@
   "contacts": [
     {
       "name": "Biswanath Pattanaik",
+      "email": "nisithp@gmail.com",
       "designation": "Secretary",
-      "email": "nisithp@gmail.com"
+      "mobile": []
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=8615",

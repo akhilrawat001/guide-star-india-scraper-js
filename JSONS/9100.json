@@ -1,9 +1,12 @@
 {
   "contacts": [
     {
-      "name": "Ashok Mane",
+      "name": "Pravin Kale",
+      "email": "",
       "designation": "",
-      "email": null
+      "mobile": [
+        "9011010344"
+      ]
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9100",

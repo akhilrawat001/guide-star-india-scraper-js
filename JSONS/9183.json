@@ -1,9 +1,13 @@
 {
   "contacts": [
     {
-      "name": "SV Krishnan",
+      "name": "Rosheena Ismail",
+      "email": "",
       "designation": "",
-      "email": null
+      "mobile": [
+        "65503342",
+        "9966614410"
+      ]
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9183",

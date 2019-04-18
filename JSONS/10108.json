@@ -1,8 +1,12 @@
 {
   "contacts": [
     {
-      "name": "Sanjiv Kumar",
-      "designation": "Founder & President"
+      "name": "Setika Singh",
+      "email": "setika.singh@takshila.net",
+      "designation": "Executive Director",
+      "mobile": [
+        "91-9810024118"
+      ]
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10108",

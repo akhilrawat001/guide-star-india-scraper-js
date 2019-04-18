@@ -2,8 +2,9 @@
   "contacts": [
     {
       "name": "Hardeep Singh",
+      "email": "info@missionchildcare.org",
       "designation": "Trustee",
-      "email": "info@missionchildcare.org"
+      "mobile": []
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9821",

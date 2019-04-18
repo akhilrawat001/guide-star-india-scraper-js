@@ -1,9 +1,12 @@
 {
   "contacts": [
     {
-      "name": "Dr Anita Patil Deshmukh",
-      "designation": "",
-      "email": null
+      "name": "Shahazade Akhtar",
+      "email": "pukar@pukar.org.in",
+      "designation": "H R Manager",
+      "mobile": [
+        "91-22-26474870"
+      ]
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9229",

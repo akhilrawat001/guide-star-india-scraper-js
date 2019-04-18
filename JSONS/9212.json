@@ -2,8 +2,9 @@
   "contacts": [
     {
       "name": "Jogesh Samanta",
+      "email": "",
       "designation": "",
-      "email": null
+      "mobile": []
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9212",

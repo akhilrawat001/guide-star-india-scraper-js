@@ -1,9 +1,12 @@
 {
   "contacts": [
     {
-      "name": "Ravindra Kumar Tiwari",
-      "designation": "",
-      "email": null
+      "name": "Prakash Chandra Tiwari",
+      "email": "secretary@rjhss.org",
+      "designation": "Secretary",
+      "mobile": [
+        "91-9910407517"
+      ]
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9556",

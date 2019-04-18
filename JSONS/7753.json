@@ -2,7 +2,9 @@
   "contacts": [
     {
       "name": "Mr.KUMAVAT M A",
-      "designation": "President"
+      "email": "",
+      "designation": "President",
+      "mobile": []
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7753",

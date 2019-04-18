@@ -1,9 +1,12 @@
 {
   "contacts": [
     {
-      "name": "Vasu M Deshpande",
+      "name": "Sheshadri Kulkarni",
+      "email": "",
       "designation": "",
-      "email": null
+      "mobile": [
+        "9035303333"
+      ]
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7388",

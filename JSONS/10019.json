@@ -2,7 +2,9 @@
   "contacts": [
     {
       "name": "A R Vasavi",
-      "designation": "Secretary"
+      "email": "",
+      "designation": "Secretary",
+      "mobile": []
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10019",

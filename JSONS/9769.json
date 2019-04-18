@@ -1,8 +1,12 @@
 {
   "contacts": [
     {
-      "name": "Archana  Tripathi",
-      "designation": "Secretary"
+      "name": "Uma Shankar Tripathi",
+      "email": "ustripathi72@gmail.com",
+      "designation": "Academic Advisor",
+      "mobile": [
+        "91-9584790436"
+      ]
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9769",

@@ -1,9 +1,12 @@
 {
   "contacts": [
     {
-      "name": "Partha Pratim Goswami",
+      "name": "Arindam Ghosal",
+      "email": "",
       "designation": "",
-      "email": null
+      "mobile": [
+        "9804074768"
+      ]
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=7828",

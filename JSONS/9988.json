@@ -1,14 +1,16 @@
 {
   "contacts": [
     {
-      "name": "E. Uma Maheswari",
-      "designation": "President",
-      "email": "sriulagavazhiamman@gmail.com"
+      "name": "Aridha.I",
+      "email": "aridhairisappan21@gmail.com",
+      "designation": "Treasurer",
+      "mobile": []
     },
     {
       "name": "Aridha.I",
+      "email": "aridhairisappan21@gmail.com",
       "designation": "Treasurer",
-      "email": "aridhairisappan21@gmail.com"
+      "mobile": []
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9988",

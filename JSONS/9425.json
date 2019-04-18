@@ -2,8 +2,9 @@
   "contacts": [
     {
       "name": "Dr. Ritu Juneja",
+      "email": "vidiafoundation@gmail.com",
       "designation": "President",
-      "email": "vidiafoundation@gmail.com"
+      "mobile": []
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9425",

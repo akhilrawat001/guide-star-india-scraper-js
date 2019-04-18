@@ -1,8 +1,12 @@
 {
   "contacts": [
     {
-      "name": "Uday Kumar Verma",
-      "designation": "Chairman"
+      "name": "Anand Kumar",
+      "email": "PROTSAHANSANSATHAN@GMAIL.COM",
+      "designation": "Secretary",
+      "mobile": [
+        "91-8877830988"
+      ]
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9601",

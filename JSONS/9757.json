@@ -1,9 +1,12 @@
 {
   "contacts": [
     {
-      "name": "Neha Panchamiya",
-      "designation": "President",
-      "email": "neha@resqct.org"
+      "name": "Rohan Sharma",
+      "email": "rohan@resqct.org",
+      "designation": "Donor Manager",
+      "mobile": [
+        "91-7020425502"
+      ]
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9757",

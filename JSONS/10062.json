@@ -1,8 +1,12 @@
 {
   "contacts": [
     {
-      "name": "Narayan Babu Saxena",
-      "designation": "President"
+      "name": "Shailendra Saxena",
+      "email": "shailendrasaxena001@rediffmail.com",
+      "designation": "Secretary",
+      "mobile": [
+        "91-9412068414"
+      ]
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10062",

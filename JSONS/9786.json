@@ -1,14 +1,16 @@
 {
   "contacts": [
     {
-      "name": "Vikas Kataria",
-      "designation": "Director Resource Mobilisation",
-      "email": "VikasKataria@wateraid.org"
+      "name": "Sheeba Anwar",
+      "email": "sheebaanwar@wateraid.org",
+      "designation": "Officer-Research and Grant Management",
+      "mobile": []
     },
     {
       "name": "Sheeba Anwar",
+      "email": "sheebaanwar@wateraid.org",
       "designation": "Officer-Research and Grant Management",
-      "email": "sheebaanwar@wateraid.org"
+      "mobile": []
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9786",

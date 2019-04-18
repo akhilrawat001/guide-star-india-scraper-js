@@ -2,8 +2,16 @@
   "contacts": [
     {
       "name": "Gene D’Silva",
-      "designation": "Founder & Secretary",
       "email": "writetojeevandhara@gmail.com",
+      "designation": "Founder & Secretary",
+      "mobile": [
+        "91-9833417274"
+      ]
+    },
+    {
+      "name": "Gene D’Silva",
+      "email": "writetojeevandhara@gmail.com",
+      "designation": "Founder & Secretary",
       "mobile": [
         "91-9833417274"
       ]

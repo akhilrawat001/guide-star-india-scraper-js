@@ -1,13 +1,16 @@
 {
   "contacts": [
     {
-      "name": "Mr.Stephen Raj",
-      "designation": "Director"
+      "name": "Reenu",
+      "email": "irdcsnacpdy@gmail.com",
+      "designation": "Coordinator",
+      "mobile": []
     },
     {
       "name": "Reenu",
+      "email": "irdcsnacpdy@gmail.com",
       "designation": "Coordinator",
-      "email": "irdcsnacpdy@gmail.com"
+      "mobile": []
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9214",

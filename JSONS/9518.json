@@ -1,9 +1,12 @@
 {
   "contacts": [
     {
-      "name": "Rafiq Ahmad",
-      "designation": "",
-      "email": null
+      "name": "Praveen Kumar",
+      "email": "praveenkumar@arsinafoundation.com",
+      "designation": "Vice president",
+      "mobile": [
+        "91-8708802960"
+      ]
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9518",

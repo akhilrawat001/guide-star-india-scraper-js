@@ -2,7 +2,9 @@
   "contacts": [
     {
       "name": "Mallika Menon",
-      "designation": "Trustee"
+      "email": "",
+      "designation": "Trustee",
+      "mobile": []
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=10014",

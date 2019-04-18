@@ -1,9 +1,12 @@
 {
   "contacts": [
     {
-      "name": "Radhika Santhanakrishnan",
+      "name": "Nivedha Chidambaram",
+      "email": "",
       "designation": "",
-      "email": null
+      "mobile": [
+        "9840038198"
+      ]
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9137",

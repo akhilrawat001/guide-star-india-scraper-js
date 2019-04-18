@@ -2,7 +2,9 @@
   "contacts": [
     {
       "name": "RD Joykumar",
-      "designation": "Chief Functionary"
+      "email": "",
+      "designation": "Chief Functionary",
+      "mobile": []
     }
   ],
   "guideStarURL": "http://www.guidestarindia.org/Summary.aspx?CCReg=9813",
