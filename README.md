@@ -10,7 +10,7 @@ The process of creating caches of the **HTML** of all the urls is done in **Pyth
 ##### 9000 htmls cached in json files.
 ##### Scraper run over cached html files.
 ##### Scrapped data stored in JSONs.
-##### Scrapped data also converted into CSVs
+##### Scrapped data also converted into CSV.
 
 ## Result
 CSV can be imported to google sheets and then the data can be used in many different ways.
