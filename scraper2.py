@@ -6,17 +6,29 @@ from bs4 import BeautifulSoup
 from utils import *
 idList = []
 def function(fileName):
-    if os.path.exists('htmls/'+str(fileName)+'.json') == False:
+    notfound = readJsonFile('data/notfound.json')
+    if os.path.exists('htmls/'+str(fileName)+'.json') == False and str(fileName) not in notfound:
         url = "http://www.guidestarindia.org/Summary.aspx?CCReg="+ str(fileName)
         soup = requests.get(url).text
-        if "Charity not found/Invalid Primary Registration Number" not in soup:
+        if "Charity not found/Invalid Primary Registration Number" not in soup and "Forbidden: Access is denied" not in soup:
             writeJsonFile('htmls/'+str(fileName)+'.json',soup)
             data = readJsonFile('data/urls.json')
             if url not in data:
                 data.append(url)
             writeJsonFile('data/urls.json',data)
+            print("CREATED" ,fileName)
+
         else:
-            print("NOT FOUND")
-    print(fileName)
+            notfound.append(str(fileName))
+            writeJsonFile('data/notfound.json',notfound)
+            print("NOT FOUND",fileName)
+    else:
+        data = readJsonFile('data/urls.json')
+        url = "http://www.guidestarindia.org/Summary.aspx?CCReg="+ str(fileName)
+        if url not in data and os.path.exists('htmls/'+str(fileName)+'.json'):
+            data.append(url)
+            print('changes made')
+            writeJsonFile('data/urls.json',data)
+        print("DONE" ,fileName)
 for i in range(100,11000):
     function(i)
